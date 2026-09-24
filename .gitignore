@@ -1,0 +1,17 @@
+# Environment / secrets
+.venv/
+.env
+.cache/
+
+# Python / OS
+__pycache__/
+*.pyc
+.DS_Store
+
+# Large downloads stay out of git
+data/raw/
+
+# rnaseq-de bundles: keep de_results.csv, report.md, result.json, qc_summary.csv,
+# and reproducibility/; drop large normalized counts and figures.
+results/de/*/tables/normalized_counts.csv
+results/de/*/figures/

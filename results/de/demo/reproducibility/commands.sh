@@ -1,0 +1,1 @@
+python rnaseq_de.py --counts /Users/julia/claw-bio-test/ClawBio/skills/rnaseq-de/examples/demo_counts.csv --metadata /Users/julia/claw-bio-test/ClawBio/skills/rnaseq-de/examples/demo_metadata.csv --formula "~ batch + condition" --contrast "condition,treated,control" --backend pydeseq2 --output results/de/demo

@@ -1,0 +1,7 @@
+sample_id,library_size,detected_genes
+ctrl_1,1131,10
+ctrl_2,1142,10
+ctrl_3,1126,10
+trt_1,1310,10
+trt_2,1299,10
+trt_3,1322,10

@@ -1,0 +1,35 @@
+{
+  "skill": "rnaseq",
+  "version": "0.1.0",
+  "completed_at": "2026-09-24T17:02:45.084461+00:00",
+  "input_checksum": "",
+  "datasets": {},
+  "summary": {
+    "samples": 6,
+    "genes_pre": 10,
+    "genes_post": 10,
+    "formula": "~ batch + condition",
+    "contrast": "condition,treated,control",
+    "backend_used": "pydeseq2",
+    "lfc_shrinkage_applied": true,
+    "lfc_shrinkage_coeff": "condition[T.treated]",
+    "lfc_shrinkage_note": ""
+  },
+  "data": {
+    "input": {
+      "counts": "demo_counts.csv",
+      "metadata": "demo_metadata.csv"
+    },
+    "tables": [
+      "qc_summary.csv",
+      "normalized_counts.csv",
+      "de_results.csv"
+    ],
+    "figures": [
+      "pca.png",
+      "volcano.png",
+      "ma_plot.png"
+    ],
+    "disclaimer": "ClawBio is a research and educational tool. It is not a medical device and does not provide clinical diagnoses. Consult a healthcare professional before making any medical decisions."
+  }
+}

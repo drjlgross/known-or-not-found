@@ -1,0 +1,82 @@
+Matplotlib is building the font cache; this may take a moment.
+Fitting size factors...
+... done in 0.00 seconds.
+
+Using None as control genes, passed at DeseqDataSet initialization
+Fitting dispersions...
+... done in 0.02 seconds.
+
+Fitting dispersion trend curve...
+... done in 0.00 seconds.
+
+/Users/julia/known-or-not-found/.venv/lib/python3.14/site-packages/pydeseq2/dds.py:548: UserWarning: As the residual degrees of freedom is less than 3, the distribution of log dispersions is especially asymmetric and likely to be poorly estimated by the MAD.
+  self.fit_dispersion_prior()
+/Users/julia/known-or-not-found/.venv/lib/python3.14/site-packages/numpy/_core/fromnumeric.py:3862: RuntimeWarning: Mean of empty slice
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/Users/julia/known-or-not-found/.venv/lib/python3.14/site-packages/numpy/_core/_methods.py:142: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+Fitting MAP dispersions...
+/Users/julia/known-or-not-found/.venv/lib/python3.14/site-packages/numpy/linalg/_linalg.py:2349: RuntimeWarning: invalid value encountered in slogdet
+  sign, logdet = _umath_linalg.slogdet(a, signature=signature)
+/Users/julia/known-or-not-found/.venv/lib/python3.14/site-packages/numpy/linalg/_linalg.py:2349: RuntimeWarning: invalid value encountered in slogdet
+  sign, logdet = _umath_linalg.slogdet(a, signature=signature)
+/Users/julia/known-or-not-found/.venv/lib/python3.14/site-packages/numpy/linalg/_linalg.py:2349: RuntimeWarning: invalid value encountered in slogdet
+  sign, logdet = _umath_linalg.slogdet(a, signature=signature)
+/Users/julia/known-or-not-found/.venv/lib/python3.14/site-packages/numpy/linalg/_linalg.py:2349: RuntimeWarning: invalid value encountered in slogdet
+  sign, logdet = _umath_linalg.slogdet(a, signature=signature)
+/Users/julia/known-or-not-found/.venv/lib/python3.14/site-packages/numpy/linalg/_linalg.py:2349: RuntimeWarning: invalid value encountered in slogdet
+  sign, logdet = _umath_linalg.slogdet(a, signature=signature)
+... done in 0.01 seconds.
+
+Fitting LFCs...
+... done in 0.01 seconds.
+
+Calculating cook's distance...
+... done in 0.00 seconds.
+
+Replacing 0 outlier genes.
+
+Running Wald tests...
+... done in 0.01 seconds.
+
+Fitting MAP LFCs...
+... done in 0.01 seconds.
+
+Log2 fold change & Wald test p-value: condition treated vs control
+         baseMean  log2FoldChange  ...        pvalue          padj
+gene                               ...                            
+GeneA  175.846329        2.531040  ...  3.324684e-83  3.324684e-82
+GeneB  149.180480       -2.704353  ...  8.545039e-79  4.272519e-78
+GeneC   91.302824       -0.093447  ...  4.776322e-01  6.823318e-01
+GeneD  134.690104        0.012019  ...  9.116392e-01  9.635398e-01
+GeneE   64.224325        1.579972  ...  3.249636e-18  1.083212e-17
+GeneF  207.807048       -0.171361  ...  4.965632e-02  9.931264e-02
+GeneG   12.371833        0.016308  ...  9.635398e-01  9.635398e-01
+GeneH  304.216516       -0.086582  ...  2.463414e-01  4.105690e-01
+GeneI   40.184525       -0.060559  ...  7.601268e-01  9.501585e-01
+GeneJ   45.583775        1.777510  ...  5.854929e-16  1.463732e-15
+
+[10 rows x 6 columns]
+Shrunk log2 fold change & Wald test p-value: condition[T.treated]
+         baseMean  log2FoldChange  ...        pvalue          padj
+gene                               ...                            
+GeneA  175.846329        3.288998  ...  3.324684e-83  3.324684e-82
+GeneB  149.180480       -2.485374  ...  8.545039e-79  4.272519e-78
+GeneC   91.302824        1.473583  ...  4.776322e-01  6.823318e-01
+GeneD  134.690104       -0.076916  ...  9.116392e-01  9.635398e-01
+GeneE   64.224325        2.560538  ...  3.249636e-18  1.083212e-17
+GeneF  207.807048       -0.059098  ...  4.965632e-02  9.931264e-02
+GeneG   12.371833        0.144270  ...  9.635398e-01  9.635398e-01
+GeneH  304.216516       -0.085771  ...  2.463414e-01  4.105690e-01
+GeneI   40.184525        1.505667  ...  7.601268e-01  9.501585e-01
+GeneJ   45.583775        2.285514  ...  5.854929e-16  1.463732e-15
+
+[10 rows x 6 columns]
+{
+  "output_dir":"results\/de\/demo",
+  "samples":6,
+  "genes_pre":10,
+  "genes_post":10,
+  "backend_used":"pydeseq2",
+  "lfc_shrinkage_applied":true
+}
