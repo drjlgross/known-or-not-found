@@ -1,0 +1,28 @@
+{
+  "document_id": "GSE287441",
+  "title": "Discovery, delineation and therapeutic targeting of a hyper-translation pathway driving cytokine release syndrome [BMDM_Ribo-seq]",
+  "summary": "Cytokine release syndrome (CRS) is a potentially life-threatening inflammatory condition. However, the defining features that distinguish it from self-resolving inflammation remain poorly understood. In this study, we identified monocyte/macrophage hyper-translation as a hallmark of CRS pathogenesis in patient samples. To uncover the molecular drivers of this phenomenon, a CRISPR screen followed by genetic validation pinpointed BCAP as a critical regulator of hyper-translation. Mechanistically, BCAP activated the RSK-EIF4B axis, fueling hyperactive translation in macrophages. Genetic ablation of RSK attenuated CRS-associated inflammation, and pharmacological inhibition of RSK alleviated CRS symptoms in a humanized mouse model. These findings establish hyper-translation as a key pathogenic feature of CRS and highlight protein translation as a druggable pathway, opening venues for therapeutic interventions of CRS and other inflammatory diseases.",
+  "overall_design": "Ribo-seq and corresponding RNA-seq of LPS stimulated WT bone marrow derived macrophages (BMDM) at 0h, 6h and 24h",
+  "source": "geo",
+  "assay_family": "other",
+  "technology_class": "other",
+  "organisms": [
+    "Mus musculus"
+  ],
+  "organism_taxids": [
+    10090
+  ],
+  "platform_ids": [
+    "GPL24247"
+  ],
+  "n_samples": 6,
+  "pubmed_ids": [
+    "41475340"
+  ],
+  "bioproject": "PRJNA1212760",
+  "release_date": "2025-12-01",
+  "release_year": 2025,
+  "last_update_date": "2026-03-05",
+  "total_blocks": 12,
+  "ftp_link": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE287nnn/GSE287441/"
+}

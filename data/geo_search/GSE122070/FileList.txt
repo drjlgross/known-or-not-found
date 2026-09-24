@@ -1,0 +1,9 @@
+L1: FTP filelist status: ok
+File count: 2
+Total size bytes: 5033164
+Has raw TAR: False
+Has XLSX: False
+DE candidate files: 0
+File types: GZ=2
+GSE122070_Group1_Samples_processed_normalized_abundance.xls.gz (kind=File; type=GZ; size=2097152)
+GSE122070_Group2_Samples_processed_normalized_abundance.xls.gz (kind=File; type=GZ; size=2936012)

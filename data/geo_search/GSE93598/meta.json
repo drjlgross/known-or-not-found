@@ -1,0 +1,28 @@
+{
+  "document_id": "GSE93598",
+  "title": "Genome-wide analysis reveals dual roles for Ikaros in regulation of macrophage chromatin state and inflammatory gene expression [RNA-seq]",
+  "summary": "Macrophage activation by bacterial LPS leads to induction of a complex inflammatory gene program dependent on numerous transcription factor families. Here we describe an unexpected role for the lymphoid lineage-determining factor Ikaros in the macrophage LPS response using comprehensive genomic analysis of Ikaros-dependent transcription, DNA binding, and chromatin accessibility. Ikaros exhibited dual repressor and activator roles in LPS-induced gene expression. Consistent with the described function of Ikaros as transcriptional repressor, Ikzf1-/- cells showed enhanced induction for select responses. In contrast, we observed a dramatic defect in expression of delayed response genes and ChIP-seq analyses support a key role for Ikaros in sustained NF-kB chromatin binding. Furthermore, in the absence of Ikaros, a constitutively open chromatin state was coincident with dysregulation of LPS-induced chromatin dynamics, gene expression, and cytokine responses. Our data suggest a central role for Ikaros in coordinating the complex macrophage transcriptional program in response to pathogen challenge.",
+  "overall_design": "RNA-seq time course (0h, 2h, 4h, 10h) and DNase-seq time course (0h, 3h, 8h) sample replicates from WT and Ikzf KO macrophages; RelA/Ikaros ChIP-seq time course (0h, 3h, 8h) sample replicates and input control DNA samples",
+  "source": "geo",
+  "assay_family": "gene_expression",
+  "technology_class": "sequencing",
+  "organisms": [
+    "Mus musculus"
+  ],
+  "organism_taxids": [
+    10090
+  ],
+  "platform_ids": [
+    "GPL13112"
+  ],
+  "n_samples": 16,
+  "pubmed_ids": [
+    "29898962"
+  ],
+  "bioproject": "PRJNA361270",
+  "release_date": "2018-06-26",
+  "release_year": 2018,
+  "last_update_date": "2019-05-15",
+  "total_blocks": 12,
+  "ftp_link": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE93nnn/GSE93598/"
+}

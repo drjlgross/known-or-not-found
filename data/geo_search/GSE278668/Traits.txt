@@ -1,0 +1,7 @@
+L1: Characteristics count: 130
+Condition-like value count: 104
+Characteristics tags: cell type; genotype; sex; strain; treatment
+cell type: 26 records, 1 unique values; top values: bone marrow-derived macrophage (26)
+genotype: 26 records, 2 unique values; top values: Acod1KO (14), WT (12)
+strain: 26 records, 2 unique values; top values: C57BL/6NJ-Acod1em1(IMPC)J/J (14), C57BL/6 (12)
+treatment: 26 records, 6 unique values; top values: 3 days post 0.1% DMSO for 24 hrs (8), 24hrs post 1μg/mL MPLA (4), 4hrs post 1μg/mL MPLA (4), 3 days post 1µg/mL MPLA for 24 hrs (4), 3 days post 1µg/mL MPLA for 24 hrs. then LPS for 4 hours (3), 4hrs post 1μg/mL LPS (3)

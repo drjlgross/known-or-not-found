@@ -1,0 +1,29 @@
+{
+  "document_id": "GSE181643",
+  "title": "Oxygen-dependent changes and lysosome activity-dependent changes of gene expression in BMDM after LPS treatment",
+  "summary": "This SuperSeries is composed of the SubSeries listed below.",
+  "overall_design": "Refer to individual Series",
+  "source": "geo",
+  "assay_family": "gene_expression",
+  "technology_class": "sequencing",
+  "organisms": [
+    "Mus musculus"
+  ],
+  "organism_taxids": [
+    10090
+  ],
+  "platform_ids": [
+    "GPL17021",
+    "GPL24247"
+  ],
+  "n_samples": 72,
+  "pubmed_ids": [
+    "38822028"
+  ],
+  "bioproject": "PRJNA752788",
+  "release_date": "2024-04-06",
+  "release_year": 2024,
+  "last_update_date": "2024-07-06",
+  "total_blocks": 12,
+  "ftp_link": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE181nnn/GSE181643/"
+}

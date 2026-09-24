@@ -1,0 +1,26 @@
+{
+  "document_id": "GSE184551",
+  "title": "Macrophages from Rosa26-integrated Cas9-expressing C57BL/6 mice have a putative TRIF-mediated defect in the TLR-3/4 signaling",
+  "summary": "In this study, we report that the TLR4 ligand, LPS, and TLR3 ligand polyinosinic:polycytidylic acid failed to activate IRF3 or STAT1 in bone marrow\u2013derived macrophages (BMMs) isolated from two independently generated lines of Rosa26-integrated Cas9-expressing C57BL/6J (B6) mice. RNA-sequencing analysis reveals that hundreds to thousands of genes including IFN-stimulated genes were differentially expressed in BMMs from these Cas9 strains compared with B6 upon LPS stimulation. Furthermore, the NF-kB signaling axis and TRIF-mediated necroptosis were also strongly reduced in response to LPS and polyinosinic:polycytidylic acid. In contrast, there were no defects in the responses of BMMs to ligands of the RIG-I, STING, TLR2, TLR9, and IFN receptors. Defects in TLR3 and TLR4 signaling were observed in mice with the B6 but not 129 background, and when Cas9 was integrated at the Rosa26 but not H11 locus. However, integration at the Rosa26 site, CAG promoter\u2013driven Cas9 or eGFP were not individually sufficient to cause the defect. Taken together, the results of this study suggest a putative TRIF-mediated defect in TLR-3/4 signaling in BMMs from commercially available and widely used B6\u2013Cas9\u2013expressing mice. ImmunoHorizons, 2021, 5: 818\u2013829.",
+  "overall_design": "RNA-seq analysis of bone marrow derived macrophages derived from wildtype and two Cas9-expressing mice upon stimulation with LPS.",
+  "source": "geo",
+  "assay_family": "gene_expression",
+  "technology_class": "sequencing",
+  "organisms": [
+    "Mus musculus"
+  ],
+  "organism_taxids": [
+    10090
+  ],
+  "platform_ids": [
+    "GPL19057"
+  ],
+  "n_samples": 18,
+  "pubmed_ids": null,
+  "bioproject": "PRJNA765024",
+  "release_date": "2021-09-27",
+  "release_year": 2021,
+  "last_update_date": "2021-11-16",
+  "total_blocks": 11,
+  "ftp_link": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE184nnn/GSE184551/"
+}

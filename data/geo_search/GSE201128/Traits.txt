@@ -1,0 +1,7 @@
+L1: Characteristics count: 153
+Condition-like value count: 108
+Characteristics tags: cell type; genotype; mouse; stimtime; stimulus; treatment
+cell type: 30 records, 1 unique values; top values: BMDM (30)
+genotype: 30 records, 2 unique values; top values: C57BL/6 (24), Ch25h-/- (6)
+stimtime: 30 records, 2 unique values; top values: 0 (15), 18 (15)
+treatment: 18 records, 3 unique values; top values: 25HC (6), itraconazole (6), OSW-1 (6)

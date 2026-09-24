@@ -1,0 +1,26 @@
+{
+  "document_id": "GSE201128",
+  "title": "The response to lipopolysaccharide (LPS) of bone marrow derived macrophages treated with oxysterol binding protein (OSBP) inhibitors",
+  "summary": "Bone marrow derived macrophages from C57BL/6 or Ch25h-/- mice (female) were treated with 25-hydroxycholesterol, itraconazole, or Osw-1 and then stimulated with lipopolysaccharide.",
+  "overall_design": "Comparative gene expression profiling by RNA-seq of bone marrow derived macrophages treated with 25-hydroxycholesterol, itraconazole, or Osw-1 and then stimulated with lipopolysaccharide.",
+  "source": "geo",
+  "assay_family": "gene_expression",
+  "technology_class": "sequencing",
+  "organisms": [
+    "Mus musculus"
+  ],
+  "organism_taxids": [
+    10090
+  ],
+  "platform_ids": [
+    "GPL24247"
+  ],
+  "n_samples": 30,
+  "pubmed_ids": null,
+  "bioproject": "PRJNA828534",
+  "release_date": "2024-04-03",
+  "release_year": 2024,
+  "last_update_date": "2024-04-03",
+  "total_blocks": 11,
+  "ftp_link": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE201nnn/GSE201128/"
+}

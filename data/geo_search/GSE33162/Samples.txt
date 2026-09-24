@@ -1,0 +1,4 @@
+L1: Sample count: 12
+Sample types: RNA
+Sample ID preview: GSM821108; GSM821109; GSM821110; GSM821111; GSM821112; GSM821113; GSM821114; GSM821115; GSM821116; GSM821117; GSM821118; GSM821119
+Sample title preview: HDAC3 +/-, untreated, replicate 1; HDAC3 +/-, untreated, replicate 2; HDAC3 +/-, untreated, replicate 3; HDAC3 +/-, LPS 4h, replicate 1; HDAC3 +/-, LPS 4h, replicate 2; HDAC3 +/-, LPS 4h, replicate 3; HDAC3 -/-, untreated, replicate 1; HDAC3 -/-, untreated, replicate 2; HDAC3 -/-, untreated, replicate 3; HDAC3 -/-, LPS 4h, replicate 1; HDAC3 -/-, LPS 4h, replicate 2; HDAC3 -/-, LPS 4h, replicate 3

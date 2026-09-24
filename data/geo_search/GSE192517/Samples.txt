@@ -1,0 +1,4 @@
+L1: Sample count: 12
+Sample types: RNA
+Sample ID preview: GSM5750378; GSM5750379; GSM5750380; GSM5750381; GSM5750382; GSM5750383; GSM5750384; GSM5750385; GSM5750386; GSM5750387; GSM5750388; GSM5750389
+Sample title preview: BMDM_Control_rep1; BMDM_Control_rep2; BMDM_Control_rep3; BMDM_LPS_rep1; BMDM_LPS_rep2; BMDM_LPS_rep3; BMDM_Acini_rep1; BMDM_Acini_rep2; BMDM_Acini_rep3; BMDM_Acini+Nafamostat_rep1; BMDM_Acini+Nafamostat_rep2; BMDM_Acini+Nafamostat_rep3

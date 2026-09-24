@@ -1,0 +1,26 @@
+{
+  "document_id": "GSE195687",
+  "title": "Genome-wide effect of ZBP1-mediated inflammatory response to LPS",
+  "summary": "We report the role of ZBP1 in mediating responses to LPS in the mouse macrophages.",
+  "overall_design": "Primary macrophages from wild type and ZBP1-deficient mice were activated for 4 hours with TNF.",
+  "source": "geo",
+  "assay_family": "gene_expression",
+  "technology_class": "sequencing",
+  "organisms": [
+    "Mus musculus"
+  ],
+  "organism_taxids": [
+    10090
+  ],
+  "platform_ids": [
+    "GPL9185"
+  ],
+  "n_samples": 12,
+  "pubmed_ids": null,
+  "bioproject": "PRJNA801717",
+  "release_date": "2022-01-31",
+  "release_year": 2022,
+  "last_update_date": "2022-01-31",
+  "total_blocks": 11,
+  "ftp_link": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE195nnn/GSE195687/"
+}

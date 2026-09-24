@@ -1,0 +1,5 @@
+L1: Characteristics count: 6
+Condition-like value count: 6
+Characteristics tags: cell type; tissue
+cell type: 3 records, 1 unique values; top values: Bone-marrow derived macrophages (3)
+tissue: 3 records, 1 unique values; top values: Bone-marrow derived macrophages (3)

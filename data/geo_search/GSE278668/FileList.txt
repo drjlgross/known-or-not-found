@@ -1,0 +1,11 @@
+L1: FTP filelist status: ok
+File count: 4
+Total size bytes: 13316913
+Has raw TAR: False
+Has XLSX: False
+DE candidate files: 0
+File types: GZ=4
+GSE278668_fpkm_genename_set_1.txt.gz (kind=File; type=GZ; size=4404019)
+GSE278668_fpkm_genename_set_2.txt.gz (kind=File; type=GZ; size=3984588)
+GSE278668_readcount_genename_set_1.txt.gz (kind=File; type=GZ; size=2411724)
+GSE278668_readcount_genename_set_2.txt.gz (kind=File; type=GZ; size=2516582)

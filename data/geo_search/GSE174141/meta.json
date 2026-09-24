@@ -1,0 +1,28 @@
+{
+  "document_id": "GSE174141",
+  "title": "RNASeq of bone marrow-derived macrophages treated with beta-glucan and lipopolysaccharide (LPS)",
+  "summary": "We found that beta-glucan treatment induces early induction of transcripts associated with inflammation and metabolism. Several days after beta-glucan treatment, genes associated with differentation and housekeeping remain upregulated. LPS treatment induces a strong inflammatory response. Beta-glucan did not significantly alter the macrophage response to LPS.",
+  "overall_design": "Bone marrow derived macrophages were harvested for RNA after 4hrs of beta-glucan treatment, 24hrs of beta-glucan treatment, and 3 days following the end of treatment (3dp). Additionally, macrophage RNA was harvested after 3dp beta-glucan treatment and restimulation with LPS for 6hrs.",
+  "source": "geo",
+  "assay_family": "gene_expression",
+  "technology_class": "sequencing",
+  "organisms": [
+    "Mus musculus"
+  ],
+  "organism_taxids": [
+    10090
+  ],
+  "platform_ids": [
+    "GPL24247"
+  ],
+  "n_samples": 12,
+  "pubmed_ids": [
+    "34740960"
+  ],
+  "bioproject": "PRJNA728581",
+  "release_date": "2021-10-01",
+  "release_year": 2021,
+  "last_update_date": "2022-01-03",
+  "total_blocks": 12,
+  "ftp_link": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE174nnn/GSE174141/"
+}

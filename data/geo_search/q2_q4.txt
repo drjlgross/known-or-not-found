@@ -1,0 +1,173 @@
+=== LPS macrophage RNA-seq
+Found 25 documents  [s_26f4c77f]
+
+  1. RNA-Sequencing Facilitates Quantitative Analysis of Control and Mettl3 Knockdown LPS-induced Macrophage Transcriptomes
+     GSE192603
+
+  2. RNA sequencing of human macrophages treated with iron chelator deferiprone (DEF), with and without lipopolysaccharide (LPS)
+     GSE128885
+
+  3. RNA-Seq experiment of peritoneal macrophgae or IC-21 cell line treated with LPS
+     GSE273218
+
+  4. RNA Sequencing Analysis of bone marrow derived macrophages from Wild Type and TIGAR-/- mice
+     GSE202446
+
+  5. Single cell RNAseq of human macrophage polarization states
+     GSE297735
+
+  6. RNA sequencing of human marcrophages treated with lipopolysaccharide (LPS) for 8 hours, with or without BCAT1 inhibitor (ERG240)
+     GSE148701
+
+  7. VD3-VDR axis regulates the homeostasis and function of alveolar macrophage [RNA-Seq LPS]
+     GSE124723
+
+  8. Single cell RNA sequencing of in vitro generated monocyte-derived macrophage subsets
+     GSE199378
+
+  9. Single cell RNA sequencing identifies unique inflammatory airspace macrophage subsets
+     GSE120000
+
+  10. Investigating the effects of different HMGB1 redox isoforms on macrophage polarization
+     GSE200210
+
+  11. Cholesterol in macrophage regulate gene expersion with or without LPS [statin and LPS RNA-seq]
+     GSE196188
+
+  12. Cholesterol in macrophage regulate gene expersion with or without LPS [MCD and LPS RNA-seq]
+     GSE196187
+
+  13. Butyrate limits inflammatory macrophage niche in NASH [RNA-seq]
+     GSE218967
+
+  14. Genome-wide RNA sequencing analysis in Il10-/- bone marrow-derived macrophages stimulated by lipopolysaccharide
+     GSE122070
+
+  15. Pooled CRISPR Screening Identifies m6A as a Positive Regulator of Macrophage Activation [RNA-seq]
+     GSE162248
+
+  16. RNASeq of bone marrow-derived macrophages treated with beta-glucan and lipopolysaccharide (LPS)
+     GSE174141
+
+  17. RNA sequencing analysis of bone-marrow-derived macrophage (BMDMs) stimulated with vehicle or phloretin
+     GSE166608
+
+  18. Stimulus-Response signaling dynamics characterize macrophage polarization states
+     GSE246566
+
+  19. A brain-to-lung signal controls pulmonary inflammatory responses
+     GSE273924
+
+  20. Characterization of translational dynamics during macrophage activation
+     GSE281922
+
+  21. Tangeretin alleviates LPS-induced acute lung injury by inhibiting ferroptosis of macrophage via Nrf2 pathways
+     GSE252755
+
+  22. Bulk RNA-seq on unstimulated and LPS-stimulated human macrophages
+     GSE193336
+
+  23. Bulk RNA-sequencing in Ldlr-/- peritoneal macrophages treated with LPS
+     GSE168777
+
+  24. GPBAR1 agonism has a broad impact on blocking macrophage activation
+     GSE57494
+
+  25. RNA Sequencing of human THP-1 derived macrophages transcriptomes
+     GSE159112
+
+[532ms, saved to s_26f4c77f]
+
+[532ms, saved to s_26f4c77f]  [repo: mva-lof-molecular]
+=== lipopolysaccharide BMDM time course
+Found 2 documents  [s_5647cfa9]
+
+  1. Signaling to histone H3 for augmented transcription in the inflammatory response
+     GSE63792
+
+  2. Latent enhancers unveiled by stimulation expand and adapt the available cis-regulatory repertoire (ChIP-seq)
+     GSE38377
+
+[250ms, saved to s_5647cfa9]
+[250ms, saved to s_5647cfa9]  [repo: mva-lof-molecular]
+=== LPS unstimulated macrophages mouse
+Found 25 documents  [s_2f1f6487]
+
+  1. LPS stimulation of Mouse (RAW 264.7) macrophages
+     GSE76562
+
+  2. LPS stimulation of human PBMC-derived macrophages
+     GSE76561
+
+  3. Control of LPS induced gene expression in bone marrow derived macrophages by the p50/p105 subunit of NF-kB and IL-10
+     GSE19941
+
+  4. MiR expression profiles in M1-polarized compared with unstimulated (MФ) bone marrow-derived macrophage cells
+     GSE33453
+
+  5. Effect of murine RIPK1 T169A mutation to the LPS and LPS/5z7 response in bone marrow derived macrophages
+     GSE263905
+
+  6. Genome-wide effect of ZBP1-mediated inflammatory response to LPS
+     GSE195687
+
+  7. Expression data from pig BMDM treated with salmonella LPS
+     GSE30956
+
+  8. Gene expression from bone-marrow derived macrophages.
+     GSE26343
+
+  9. Transcriptional study of the response of murine bone marrow-derived macrophages to TLR4 stimulation with LPS
+     GSE32359
+
+  10. LPS-induced gene expression in mouse small intestinal epithelial cells
+     GSE23755
+
+  11. Genome-wide analysis of TIAR RNA ligands in mouse macrophages before and after LPS stimulation
+     GSE77577
+
+  12. FoxO1 is a regulator of MHC-II expression and anti-tumor effect of tumor associated macrophages
+     GSE97260
+
+  13. Global gene expression profiling using newly synthesized RNA [mock and LPS]
+     GSE47530
+
+  14. Dynamic transcriptional control of macrophage miRNA signature via inflammation responsive enhancers revealed using a combination of next generation sequencing-based approaches
+     GSE107095
+
+  15. Dual Specificity Phosphatase 1 and Tristetraprolin cooperate to regulate macrophage responses to LPS and dexamethasone
+     GSE68449
+
+  16. NFAT-mediated gene expression response to LPS in murine dendritic cells and macrophages
+     GSE15759
+
+  17. Knockout of the selenocysteine tRNA (Trsp) gene in mouse macrophage
+     GSE15610
+
+  18. MOF-mediated PRDX1 acetylation regulates LPS-induced macrophage activation.
+     GSE231941
+
+  19. Cestode Antigens Block LPS-induced Inflammatory Mediators and Condition Macrophages to Educate Anti-colitic T Cells
+     GSE115029
+
+  20. Expression data of LPS-stimulated bone marrow macrophages induced by M-CSF from wild-type and Jmjd3-/- mice.
+     GSE23180
+
+  21. Gene expression in macrophages stimulated with LPS in conditions allowing or inhibiting NFAT activation
+     GSE15721
+
+  22. Delineation of diverse macrophage activation programs in response to intracellular parasites and cytokines
+     GSE20087
+
+  23. Genetic variation in IL-4 activated tissue resident macrophages alters the epigenetic state to determine strain specific synergistic responses to LPS [ChIP-seq]
+     GSE248023
+
+  24. Genetic variation in IL-4 activated tissue resident macrophages alters the epigenetic state to determine strain specific synergistic responses to LPS [scATAC-seq]
+     GSE248035
+
+  25. Genetic variation in IL-4 activated tissue resident macrophages alters the epigenetic state to determine strain specific synergistic responses to LPS [Hi-C]
+     GSE248029
+
+[425ms, saved to s_2f1f6487]
+
+[425ms, saved to s_2f1f6487]  [repo: mva-lof-molecular]

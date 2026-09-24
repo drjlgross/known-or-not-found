@@ -1,0 +1,6 @@
+L1: Characteristics count: 54
+Condition-like value count: 54
+Characteristics tags: cell type; genotype; treatment
+cell type: 18 records, 1 unique values; top values: BMDM (18)
+genotype: 18 records, 2 unique values; top values: C57BL/6J (9), RIPK1 T169A (9)
+treatment: 18 records, 3 unique values; top values: Unstitm (6), LPS (6), LPS/5z7 (6)

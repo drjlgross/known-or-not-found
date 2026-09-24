@@ -1,0 +1,1 @@
+L1: level=series; owner=GSE213050; type=TXT; ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE213nnn/GSE213050/suppl/GSE213050_BMDM_PREP_counts_anno.txt.gz

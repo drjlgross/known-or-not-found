@@ -1,0 +1,443 @@
+=== BMDM LPS 4h
+Found 25 documents  [s_6068edec]
+
+  1. Lysosome activity-dependent changes of gene expression in BMDM after LPS treatment
+     GSE181642
+
+  2. Oxygen-dependent changes of gene expression in BMDM after LPS treatment
+     GSE181641
+
+  3. Oxygen-dependent changes and lysosome activity-dependent changes of gene expression in BMDM after LPS treatment
+     GSE181643
+
+  4. BMDM from Young and Aged Mice Treated with β-glucan
+     GSE279654
+
+  5. Immunomodulatory Effects of Yeast Cell Wall Compounds on mouse BMDM
+     GSE101959
+
+  6. Genome-wide collaboration of canonical and non-canonical STAT1 complexes with NF-κB to control signal integration between Interferons and TLR4 in vascular and immune cells [RNA-seq]
+     GSE120807
+
+  7. Dynamics of TRIM33 binding in macrophages and effects of TRIM33 deletion on chromatin state during activation of primary macrophages.
+     GSE43654
+
+  8. Itaconate links inhibition of succinate dehydrogenase with macrophage metabolic remodeling and regulation of inflammation
+     GSE82043
+
+  9. Knockout of the selenocysteine tRNA (Trsp) gene in mouse macrophage
+     GSE15610
+
+  10. Transcript dynamics in classically and alternatively activated macrophages
+     GSE103958
+
+  11. PAMPS and Innate Immune Memory
+     GSE240614
+
+  12. Unbiased profiling of clinical kinase inhibitors’ effects in activated macrophages using chromatin modifications as high-content readouts [ATAC-Seq]
+     GSE218966
+
+  13. Unbiased profiling of clinical kinase inhibitors’ effects in activated macrophages using chromatin modifications as high-content readouts [Chromatin associated RNA-seq]
+     GSE218968
+
+  14. Metabolic rewiring promotes anti-inflammatory effects of glucocorticoids
+     GSE250273
+
+  15. Unbiased profiling of clinical kinase inhibitors’ effects in activated macrophages using chromatin modifications as high-content readouts [ChIP-Seq]
+     GSE219239
+
+  16. The early macrophage response to pathogens requires dynamic regulation of the nuclear paraspeckle
+     GSE255322
+
+  17. SHISA3 reprograms tumor-associated macrophages toward an M1 phenotype and enhances cancer immunotherapy
+     GSE255711
+
+  18. HDAC3 requirement for the inflammatory gene expression program in macrophages [gene expression]
+     GSE33162
+
+  19. H3K9ac and H3K27ac Cut&Tag profiling of wild type and Rbm25-deficient Bone Marrow Derived macrophage
+     GSE240158
+
+  20. Immunoresponsive Gene 1 Facilitates TLR4-agonist-Induced Augmentation of Innate Antimicrobial Immunity
+     GSE278668
+
+  21. Immune-restricted epigenetic reader SP140 maintains macrophage identity and activation states critical to intestinal homeostasis [array]
+     GSE89870
+
+  22. Next Generation Sequencing Facilitates Quantitative Analysis of wild type and Rbm25-deficient Bone Marrow Derived macrophages
+     GSE240160
+
+  23. Metabolic regulation of gene expression by histone lactylation
+     GSE115354
+
+  24. HDAC3 requirement for the inflammatory gene expression program in macrophages
+     GSE33164
+
+  25. Direct proteomic quantification of the secretome of activated immune cells
+     GSE41490
+
+[284ms, saved to s_6068edec]
+
+[284ms, saved to s_6068edec]  [repo: mva-lof-molecular]
+=== BMDM LPS 6h
+Found 16 documents  [s_6a6454a4]
+
+  1. Evaluation of transcriptional changes of bone marrow derived macrophages (BMDM) in response to necrotic pancreatic acinar cells
+     GSE192517
+
+  2. The mRNA-binding protein KSRP limits the inflammatory response of macrophages
+     GSE261444
+
+  3. Histone methylation regulator PTIP orchestrates inflammatory responses via modulating acetylation state of cis-regulatory elements [BMDM-RNA-seq]
+     GSE163208
+
+  4. Effect of efferocytosis on the inflammatory response of primary murine macrophages
+     GSE245834
+
+  5. Wild-type bone-marrow derived macrophages response to Escherichia coli lipopolysaccharide (LPS)
+     GSE20207
+
+  6. Discovery, delineation and therapeutic targeting of a hyper-translation pathway driving cytokine release syndrome [BMDM_Ribo-seq]
+     GSE287441
+
+  7. Mitohormesis reprograms macrophage metabolism to enforce tolerance [BMDM_tolerance_RNAseq]
+     GSE169730
+
+  8. Genome-wide RNA sequencing analysis in Il10-/- bone marrow-derived macrophages stimulated by lipopolysaccharide
+     GSE122070
+
+  9. Harnessing the benefits of neuroinflammation: Generation of macrophages/microglia with remarkable remyelinating properties
+     GSE138263
+
+  10. Transcript profiling of WT and SIRPα KO BMDMs post-M1 activation in the presence of mCD47.ex
+     GSE169177
+
+  11. Histone methylation regulator PTIP orchestrates inflammatory responses via modulating acetylation state of cis-regulatory elements [ChIP-Seq]
+     GSE163463
+
+  12. The contribution of foam cells to angiogenesis and inflammation after spinal cord injury
+     GSE279731
+
+  13. Histone methylation regulator PTIP orchestrates inflammatory responses via modulating acetylation state of cis-regulatory elements
+     GSE163293
+
+  14. Mitohormesis reprograms macrophage metabolism to enforce tolerance.
+     GSE169731
+
+  15. Defining blood-induced microglia functions in neurodegeneration through multiomic profiling [scRNA-Seq II]
+     GSE229655
+
+  16. Thermoneutrality and severe malaria: investigating the effect of warmer environmental temperatures on the inflammatory response and disease progression
+     GSE221454
+
+[252ms, saved to s_6a6454a4]
+
+[252ms, saved to s_6a6454a4]  [repo: mva-lof-molecular]
+=== BMDM LPS 8h
+Found 16 documents  [s_26e90c6a]
+
+  1. Lysosome activity-dependent changes of gene expression in BMDM after LPS treatment
+     GSE181642
+
+  2. Oxygen-dependent changes of gene expression in BMDM after LPS treatment
+     GSE181641
+
+  3. Oxygen-dependent changes and lysosome activity-dependent changes of gene expression in BMDM after LPS treatment
+     GSE181643
+
+  4. Expression data from WT and Klf3 KO BMDMs treated with LPS
+     GSE121646
+
+  5. Immunomodulatory Effects of Yeast Cell Wall Compounds on mouse BMDM
+     GSE101959
+
+  6. Genome-wide collaboration of canonical and non-canonical STAT1 complexes with NF-κB to control signal integration between Interferons and TLR4 in vascular and immune cells [RNA-seq]
+     GSE120807
+
+  7. Expression data of Bone Marrow Derived Macrophages (BMDM) from WT and Nos2-/- mice proinflammatory activated in vitro
+     GSE115120
+
+  8. Acetyl-CoA production by Mediator-bound 2-ketoacid dehydrogenases boosts de novo histone acetylation and is regulated by nitric oxide [Chrom_RNAseq_iNOS1400W]
+     GSE245445
+
+  9. Next Generation Sequencing Facilitates Quantitative Analysis of wild type and Rbm25-deficient Bone Marrow Derived macrophage Transcriptomes
+     GSE240157
+
+  10. SOCS1 regulates a subset of NFκB-target genes through direct chromatin binding and defines macrophage functional phenotypes (RNA-Seq).
+     GSE225831
+
+  11. Next Generation Sequencing Facilitates Quantitative Analysis of wild type and Rbm25-deficient Bone Marrow Derived macrophages
+     GSE240160
+
+  12. TENT5 cytoplasmic non-canonical poly(A) polymerases regulate the innate immune response in animals
+     GSE163549
+
+  13. Metabolic regulation of gene expression by histone lactylation
+     GSE115354
+
+  14. Direct proteomic quantification of the secretome of activated immune cells
+     GSE41490
+
+  15. SOCS1 regulates a subset of NFκB-target genes through direct chromatin binding and defines macrophage functional phenotypes
+     GSE225835
+
+  16. Acetyl-CoA production by Mediator-bound 2-ketoacid dehydrogenases boosts de novo histone acetylation and is regulated by nitric oxide
+     GSE227964
+
+[246ms, saved to s_26e90c6a]
+
+[246ms, saved to s_26e90c6a]  [repo: mva-lof-molecular]
+=== macrophage LPS 4 hours
+Found 25 documents  [s_c1be48a2]
+
+  1. Macrophage Ad5f35 PhenoMap
+     GSE120084
+
+  2. The function of cullin 3 in macrophage
+     GSE93166
+
+  3. Stimulus-Response signaling dynamics characterize macrophage polarization states
+     GSE246566
+
+  4. Transcriptional profiling of macrophage plasticity following recovery from Lipopolysaccharide (LPS) tolerance
+     GSE47783
+
+  5. VEGFB treated macrophage
+     GSE27479
+
+  6. Single cell RNAseq of human macrophage polarization states
+     GSE297735
+
+  7. Effect of depletion of NLRC3 on glycolytic genes of macrophage with LPS treatment
+     GSE211989
+
+  8. Bulk RNA-seq on unstimulated and LPS-stimulated human macrophages
+     GSE193336
+
+  9. Dual Specificity Phosphatase 1 and Tristetraprolin cooperate to regulate macrophage responses to LPS and dexamethasone
+     GSE68449
+
+  10. Dysregulation of Macrophage Activation Profiles by Engineered Nanoparticles
+     GSE44294
+
+  11. Expression data from pig BMDM treated with salmonella LPS
+     GSE30956
+
+  12. LPS induced gene expression in macrophages in the presence of Carbon monoxide
+     GSE1906
+
+  13. Time course of gene expression of peritoneal macrophage from wild-type or LysM-St18flox mice after LPS stimulation
+     GSE112683
+
+  14. Genome-wide measurement of LPS-induced Poly(A) tail length changes in macrophage cells
+     GSE161188
+
+  15. Damage-associated molecular patterns induce macrophage polarization toward an M1 pro-inflammatory phenotype
+     GSE107776
+
+  16. Role of BHLHE40 in shaping macrophage inflammatory response
+     GSE176174
+
+  17. Expression data from LPS/IFNgamma-treated Tet2-/- and Tet2+/+ mouse macrophages.
+     GSE81398
+
+  18. LPS-induced and E. coli-induced gene expression in wildtype and MyD88-/- mouse macrophages
+     GSE1405
+
+  19. Expression array of Mt1-mmp+/+ and Mt1-mmp-/- mouse macrophages in response to LPS or IL-4
+     GSE122823
+
+  20. Epigenome maps of time-resolved monocyte to macrophage differentiation and innate immune memory (RNA-Seq)
+     GSE85243
+
+  21. miRNA array for LPS-activated tnc+/+ and tnc-/- macrophages
+     GSE41584
+
+  22. C-X-C chemokine receptor 4 ablation-driven transcriptional changes in monocyte-derived macrophage in response to lipopolysaccharide
+     GSE182050
+
+  23. Epigenome maps of time-resolved monocyte to macrophage differentiation and innate immune memory (ATAC-Seq)
+     GSE87218
+
+  24. Epigenome maps of time-resolved monocyte to macrophage differentiation and innate immune memory (ChIP-Seq)
+     GSE85245
+
+  25. Co-stimulation with opposing macrophage polarization cues leads to orthogonal secretion programs in individual cells
+     GSE161125
+
+[418ms, saved to s_c1be48a2]
+
+[418ms, saved to s_c1be48a2]  [repo: mva-lof-molecular]
+=== macrophage LPS 6 hours
+Found 25 documents  [s_83f47676]
+
+  1. The function of cullin 3 in macrophage
+     GSE93166
+
+  2. GPBAR1 agonism has a broad impact on blocking macrophage activation
+     GSE57494
+
+  3. Macrophage Response to LPS, poly(I:C) and CpG DNA Stimulation
+     GSE15066
+
+  4. Transcriptional profiling of macrophage plasticity following recovery from Lipopolysaccharide (LPS) tolerance
+     GSE47783
+
+  5. Macrophage miR-210 induction and metabolic reprogramming in response to pathogen interaction boost life-threatening inflammation.
+     GSE171270
+
+  6. Effect of depletion of NLRC3 on glycolytic genes of macrophage with LPS treatment
+     GSE211989
+
+  7. Genome-wide analysis of bone marrow-derived macrophage (BMDM) priming by Ifng and Ifnb.
+     GSE60290
+
+  8. Single cell RNAseq of human macrophage polarization states
+     GSE297735
+
+  9. Expression data from pig BMDM treated with salmonella LPS
+     GSE30956
+
+  10. Gene expression in LPS stimulated IkappaB-beta knockout bone marrow derived macrophage (BMDM)
+     GSE22223
+
+  11. Wild-type bone-marrow derived macrophages response to Escherichia coli lipopolysaccharide (LPS)
+     GSE20207
+
+  12. Dysregulation of Macrophage Activation Profiles by Engineered Nanoparticles
+     GSE44294
+
+  13. Human Macrophage Long Intergenic Non-coding RNA, SIMALR, Suppresses Inflammatory Macrophage Apoptosis via Netrin 1
+     GSE212381
+
+  14. Time course of gene expression of peritoneal macrophage from wild-type or LysM-St18flox mice after LPS stimulation
+     GSE112683
+
+  15. Dual Specificity Phosphatase 1 and Tristetraprolin cooperate to regulate macrophage responses to LPS and dexamethasone
+     GSE68449
+
+  16. RNA-Seq experiment of peritoneal macrophgae or IC-21 cell line treated with LPS
+     GSE273218
+
+  17. Inflammation drives alternative first exon usage of critical immune genes including Aim2 [RNA-seq]
+     GSE141688
+
+  18. Inflammation drives alternative first exon usage of critical immune genes including Aim2 [nanopore]
+     GSE141750
+
+  19. RNA sequencing of human marcrophages treated with lipopolysaccharide (LPS) for 8 hours, with or without BCAT1 inhibitor (ERG240)
+     GSE148701
+
+  20. YTHDF1 deletion in macrophages aggravates LPS-induced inflammation
+     GSE238236
+
+  21. Expression data from LPS/IFNgamma-treated Tet2-/- and Tet2+/+ mouse macrophages.
+     GSE81398
+
+  22. Interleukin-16-knock-out bone-marrow derived macrophages response to Escherichia coli lipopolysaccharide (LPS)
+     GSE20208
+
+  23. Genome-wide measurement of LPS-induced Poly(A) tail length changes in macrophage cells
+     GSE161188
+
+  24. Role of BHLHE40 in shaping macrophage inflammatory response
+     GSE176174
+
+  25. A defective pentose phosphate pathway reduces inflammatory macrophage responses during hypercholesterolemia
+     GSE107412
+
+[354ms, saved to s_83f47676]
+
+[354ms, saved to s_83f47676]  [repo: mva-lof-molecular]
+=== bone marrow macrophages LPS 4 hr RNA-seq
+Found 2 documents  [s_9adba998]
+
+  1. Time-series of human LPS stimulated-monocyte derived macrophages
+     GSE112372
+
+  2. Threonine Phosphorylation of STAT1 Restricts Interferon Signaling and Promotes Innate Inflammatory Responses
+     GSE261824
+
+[204ms, saved to s_9adba998]
+[204ms, saved to s_9adba998]  [repo: mva-lof-molecular]
+=== LPS time course macrophages RNA-seq
+Found 25 documents  [s_ba47ada4]
+
+  1. Time-series of human LPS stimulated-monocyte derived macrophages
+     GSE112372
+
+  2. Analysis of cytoplasmic, nucleoplasmic, nucleolar transcriptome in Raw264.7 macrophages during LPS stimulation
+     GSE159346
+
+  3. Setd2 reprograns lipid metabolism for the resolution of inflammation
+     GSE141473
+
+  4. Setd2 reprograns lipid metabolism for the resolution of inflammation II
+     GSE141474
+
+  5. Epigenome maps of time-resolved monocyte to macrophage differentiation and innate immune memory (RNA-Seq)
+     GSE85243
+
+  6. Effect of stimulation with lipopolysaccharide (LPS) at 0,30, 60, and 120 minutes on miRNA expression in immortalized mouse macrophages (IMM).
+     GSE261854
+
+  7. Effect of stimulation with lipopolysaccharide (LPS) at 0,30, and 60 minutes on gene expression in immortalized mouse macrophages (IMM).
+     GSE248765
+
+  8. IRF1 governs the differential Interferon-Stimulated Gene responses in human monocytes and macrophages by regulating chromatin accessibility (RNA-seq - Time course)
+     GSE147311
+
+  9. Identification of pharmacologic inhibitors and activators of IL-4-induced macrophage polarization [PBMC RNA-seq]
+     GSE154345
+
+  10. Epigenome maps of time-resolved monocyte to macrophage differentiation and innate immune memory (ChIP-Seq)
+     GSE85245
+
+  11. Epigenome maps of time-resolved monocyte to macrophage differentiation and innate immune memory (ATAC-Seq)
+     GSE87218
+
+  12. Identification of pharmacologic inhibitors and activators of IL-4-induced macrophage polarization [THP-1 RNA-seq]
+     GSE154346
+
+  13. Genome-wide analysis reveals dual roles for Ikaros in regulation of macrophage chromatin state and inflammatory gene expression [RNA-seq]
+     GSE93598
+
+  14. Anti-inflammatory Chromatinscape Associated with Clinically Relevant Timing of Glucocorticoid Treatment [RNA-Seq]
+     GSE93735
+
+  15. Analysis of lncRNAs in macrophages
+     GSE129961
+
+  16. Multiplexed, Sequential Secretion Analysis of the Same Single Cells Reveals Distinct Effector Response Dynamics Dependent on the Initial Basal State
+     GSE200324
+
+  17. Genome-wide analysis reveals dual roles for Ikaros in regulation of macrophage chromatin state and inflammatory gene expression [Dnase-seq]
+     GSE93600
+
+  18. Genome-wide analysis reveals dual roles for Ikaros in regulation of macrophage chromatin state and inflammatory gene expression [ChIP-seq]
+     GSE93599
+
+  19. Anti-inflammatory Chromatinscape Associated with Clinically Relevant Timing of Glucocorticoid Treatment [ChIP-seq]
+     GSE93736
+
+  20. Anti-inflammatory Chromatinscape Associated with Clinically Relevant Timing of Glucocorticoid Treatment [DNase-seq]
+     GSE93738
+
+  21. Nitric oxide engages an anti-inflammatory feedback loop mediated by peroxiredoxin 5 in phagocytes
+     GSE115553
+
+  22. Large-scale bioreactor production of extracellular vesicles from mesenchymal stromal cells for treatment of acute radiation syndrome
+     GSE255642
+
+  23. Temporal analysis suggests a reciprocal relationship between 3D chromatin structure and transcription [RNA-Seq]
+     GSE201354
+
+  24. KSRP deficiency attenuates the course of pulmonary aspergil-losis, associated with elevated pathogen-killing activity of in-nate myeloid immune cells
+     GSE280203
+
+  25. Signaling to histone H3 for augmented transcription in the inflammatory response
+     GSE63792
+
+[322ms, saved to s_ba47ada4]
+
+[322ms, saved to s_ba47ada4]  [repo: mva-lof-molecular]

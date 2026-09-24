@@ -1,0 +1,4 @@
+L1: Sample count: 6
+Sample types: SRA
+Sample ID preview: GSM4211119; GSM4211120; GSM4211121; GSM4211122; GSM4211123; GSM4211124
+Sample title preview: 1_Ctl_Mse_BMDM [RNA-seq]; 2_Ctl_Mse_BMDM [RNA-seq]; 3_Ctl_Mse_BMDM [RNA-seq]; 1_LPS_Mse_BMDM [RNA-seq]; 2_LPS_Mse_BMDM [RNA-seq]; 3_LPS_Mse_BMDM [RNA-seq]

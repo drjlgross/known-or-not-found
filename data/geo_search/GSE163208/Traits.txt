@@ -1,0 +1,7 @@
+L1: Characteristics count: 36
+Condition-like value count: 32
+Characteristics tags: agent; cell type; genotype; strain; time point
+cell type: 8 records, 1 unique values; top values: BMDM (8)
+genotype: 8 records, 2 unique values; top values: PtipWT (4), PtipcKO (4)
+strain: 8 records, 1 unique values; top values: C57BL/6 (8)
+time point: 8 records, 2 unique values; top values: 0 (4), 6hr (4)

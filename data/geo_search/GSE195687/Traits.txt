@@ -1,0 +1,7 @@
+L1: Characteristics count: 48
+Condition-like value count: 48
+Characteristics tags: cell type; genotype; strain; treatment
+cell type: 12 records, 1 unique values; top values: macrophages (12)
+genotype: 12 records, 4 unique values; top values: WT (3), TRIF-KO (3), MyD88-KO (3), ZBP1-KO (3)
+strain: 12 records, 1 unique values; top values: C57BL6 (12)
+treatment: 12 records, 3 unique values; top values: Unstimulated (4), LPS, 10 ng/ml, 4 hours (4), poly I:C, 10 ng/ml, 4 hours (4)

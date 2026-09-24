@@ -1,0 +1,8 @@
+L1: Characteristics count: 120
+Condition-like value count: 120
+Characteristics tags: cell type; genotype; strain background; tissue; treatment
+cell type: 24 records, 1 unique values; top values: Macrophages (24)
+genotype: 24 records, 1 unique values; top values: WT (24)
+strain background: 24 records, 1 unique values; top values: C57BL/6J (24)
+tissue: 24 records, 1 unique values; top values: Bone marrow derived macrophages (24)
+treatment: 24 records, 4 unique values; top values: Control (6), Glucocorticoids (6), LPS (6), Glucocorticoids + LPS (6)

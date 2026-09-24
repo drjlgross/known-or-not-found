@@ -1,0 +1,20 @@
+L1: FTP filelist status: ok
+File count: 13
+Total size bytes: 3975460
+Has raw TAR: True
+Has XLSX: False
+DE candidate files: 0
+File types: CSV=12; TAR=1
+GSE238236_RAW.tar (kind=Archive; type=TAR; size=1996800)
+GSM7660899_read_count_PM_WT_PBS_01.csv.gz (kind=File; type=CSV; size=165669)
+GSM7660900_read_count_PM_WT_PBS_02.csv.gz (kind=File; type=CSV; size=165825)
+GSM7660901_read_count_PM_WT_PBS_03.csv.gz (kind=File; type=CSV; size=165826)
+GSM7660902_read_count_PM_WT_LPS_01.csv.gz (kind=File; type=CSV; size=164022)
+GSM7660903_read_count_PM_WT_LPS_02.csv.gz (kind=File; type=CSV; size=164006)
+GSM7660904_read_count_PM_WT_LPS_03.csv.gz (kind=File; type=CSV; size=164099)
+GSM7660905_read_count_PM_KO_PBS_01.csv.gz (kind=File; type=CSV; size=165843)
+GSM7660906_read_count_PM_KO_PBS_02.csv.gz (kind=File; type=CSV; size=165936)
+GSM7660907_read_count_PM_KO_PBS_03.csv.gz (kind=File; type=CSV; size=165804)
+GSM7660908_read_count_PM_KO_LPS_01.csv.gz (kind=File; type=CSV; size=163906)
+GSM7660909_read_count_PM_KO_LPS_02.csv.gz (kind=File; type=CSV; size=163864)
+GSM7660910_read_count_PM_KO_LPS_03.csv.gz (kind=File; type=CSV; size=163860)

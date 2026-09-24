@@ -1,0 +1,4 @@
+L1: Sample count: 12
+Sample types: SRA
+Sample ID preview: GSM7660899; GSM7660900; GSM7660901; GSM7660902; GSM7660903; GSM7660904; GSM7660905; GSM7660906; GSM7660907; GSM7660908; GSM7660909; GSM7660910
+Sample title preview: WT Peritoneal macrophage, PBS, 6 hours, rep1; WT Peritoneal macrophage, PBS, 6 hours, rep2; WT Peritoneal macrophage, PBS, 6 hours, rep3; WT Peritoneal macrophage, LPS, 6 hours, rep1; WT Peritoneal macrophage, LPS, 6 hours, rep2; WT Peritoneal macrophage, LPS, 6 hours, rep3; Ythdf1 knockout Peritoneal macrophage, PBS, 6 hours, rep1; Ythdf1 knockout Peritoneal macrophage, PBS, 6 hours, rep2; Ythdf1 knockout Peritoneal macrophage, PBS, 6 hours, rep3; Ythdf1 knockout Peritoneal macrophage, LPS, 6 hours, rep1; Ythdf1 knockout Peritoneal macrophage, LPS, 6 hours, rep2; Ythdf1 knockout Peritoneal macrophage, LPS, 6 hours, rep3

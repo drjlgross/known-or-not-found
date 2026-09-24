@@ -1,0 +1,8 @@
+GENCODE vM29 (GRCm39) vs GSE250273_genecount.txt.gz Chr/Start/End columns
+gene    gene_id                GTF chr:start-end            file chr file minStart file maxEnd start_match end_match exonStarts_in_GTF
+Tnf     ENSMUSG00000024401.15  chr17:35418357-35420983      chr17       35418357    35420983 True        True      True
+Il1b    ENSMUSG00000027398.14  chr2:129206490-129213059     chr2       129206490   129213059 True        True      True
+Il6     ENSMUSG00000025746.12  chr5:30218112-30224979       chr5        30218112    30224979 True        True      True
+Cxcl10  ENSMUSG00000034855.14  chr5:92494497-92496748       chr5        92494497    92496748 True        True      True
+Nos2    ENSMUSG00000020826.10  chr11:78811613-78851080      chr11       78811613    78851080 True        True      True
+ALL MATCH vM29 (GRCm39): True

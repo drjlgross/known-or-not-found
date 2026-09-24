@@ -1,0 +1,37 @@
+L1: FTP filelist status: ok
+File count: 37
+Total size bytes: 13317246
+Has raw TAR: True
+Has XLSX: False
+DE candidate files: 0
+File types: TXT=36; TAR=1
+GSE225831_RAW.tar (kind=Archive; type=TAR; size=6676480)
+GSM7057383_MCWR_2019_000363.counts.txt.gz (kind=File; type=TXT; size=184857)
+GSM7057384_MCWR_2019_000364.counts.txt.gz (kind=File; type=TXT; size=185664)
+GSM7057385_MCWR_2019_000365.counts.txt.gz (kind=File; type=TXT; size=184243)
+GSM7057386_MCWR_2019_000366.counts.txt.gz (kind=File; type=TXT; size=186306)
+GSM7057387_MCWR_2019_000367.counts.txt.gz (kind=File; type=TXT; size=183463)
+GSM7057388_MCWR_2019_000368.counts.txt.gz (kind=File; type=TXT; size=180726)
+GSM7057389_MCWR_2019_000369.counts.txt.gz (kind=File; type=TXT; size=183436)
+GSM7057390_MCWR_2019_000370.counts.txt.gz (kind=File; type=TXT; size=185409)
+GSM7057391_MCWR_2019_000371.counts.txt.gz (kind=File; type=TXT; size=183589)
+GSM7057392_MCWR_2019_000372.counts.txt.gz (kind=File; type=TXT; size=184993)
+GSM7057393_MCWR_2019_000373.counts.txt.gz (kind=File; type=TXT; size=183738)
+GSM7057394_MCWR_2019_000374.counts.txt.gz (kind=File; type=TXT; size=183524)
+GSM7057395_MCWR_2019_000375.counts.txt.gz (kind=File; type=TXT; size=184214)
+GSM7057396_MCWR_2019_000376.counts.txt.gz (kind=File; type=TXT; size=185025)
+GSM7057397_MCWR_2019_000377.counts.txt.gz (kind=File; type=TXT; size=183431)
+GSM7057398_MCWR_2019_000378.counts.txt.gz (kind=File; type=TXT; size=185237)
+GSM7057399_MCWR_2019_000379.counts.txt.gz (kind=File; type=TXT; size=184154)
+GSM7057400_MCWR_2019_000380.counts.txt.gz (kind=File; type=TXT; size=182720)
+GSM7057401_MCWR_2019_000381.counts.txt.gz (kind=File; type=TXT; size=185646)
+GSM7057402_MCWR_2019_000382.counts.txt.gz (kind=File; type=TXT; size=185360)
+GSM7057403_MCWR_2019_000383.counts.txt.gz (kind=File; type=TXT; size=183780)
+GSM7057404_MCWR_2019_000384.counts.txt.gz (kind=File; type=TXT; size=185585)
+GSM7057405_MCWR_2019_000385.counts.txt.gz (kind=File; type=TXT; size=187906)
+GSM7057406_MCWR_2019_000386.counts.txt.gz (kind=File; type=TXT; size=184007)
+GSM7057407_MCWR_2019_000387.counts.txt.gz (kind=File; type=TXT; size=185646)
+GSM7057408_MCWR_2019_000388.counts.txt.gz (kind=File; type=TXT; size=184678)
+GSM7057409_MCWR_2019_000389.counts.txt.gz (kind=File; type=TXT; size=183485)
+GSM7057410_MCWR_2019_000390.counts.txt.gz (kind=File; type=TXT; size=187014)
+GSM7057411_MCWR_2019_000391.counts.txt.gz (kind=File; type=TXT; size=185389)

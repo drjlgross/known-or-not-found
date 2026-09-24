@@ -1,0 +1,26 @@
+{
+  "document_id": "GSE176174",
+  "title": "Role of BHLHE40 in shaping macrophage inflammatory response",
+  "summary": "BHLHE40 is a member of basic helix-loop-helix family transcription factors and highly conserved across mammalian species. Structurally, BHLHE40 consists of an N-terminal basic DNA binding domain, a helix-loop-helix dimerization domain, and a protein interacting orange domain. BHLHE40 is known to regulate a wide variety of essential cellular processes, including cell cycle, cellular proliferation, programmed cell death, cellular development and differentiation, and circadian rhythm. Here we isolated thioglycollate-elicited peritoneal macrophages (PMs) from 3 mice per group (Lyz2cre and Lyz2cre:BHLHE40Fl/Fl). These cells were stimulated with 100ng/ml LPS for 4 hours. Total RNA was isolated and subjected to RNAseq analyses.",
+  "overall_design": "Here we isolated thioglycollate-elicited peritoneal macrophages (PMs) from 3 mice per group (Lyz2cre and Lyz2cre:BHLHE40Fl/Fl). These cells were stimulated with 100ng/ml LPS for 4 hours. Total RNA was isolated and subjected to RNAseq analyses.",
+  "source": "geo",
+  "assay_family": "gene_expression",
+  "technology_class": "sequencing",
+  "organisms": [
+    "Mus musculus"
+  ],
+  "organism_taxids": [
+    10090
+  ],
+  "platform_ids": [
+    "GPL17021"
+  ],
+  "n_samples": 12,
+  "pubmed_ids": null,
+  "bioproject": "PRJNA735219",
+  "release_date": "2021-09-24",
+  "release_year": 2021,
+  "last_update_date": "2021-09-24",
+  "total_blocks": 11,
+  "ftp_link": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE176nnn/GSE176174/"
+}

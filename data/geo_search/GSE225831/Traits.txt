@@ -1,0 +1,8 @@
+L1: Characteristics count: 168
+Condition-like value count: 168
+Characteristics tags: cell line; cell type; genotype; time; treatment
+cell line: 36 records, 1 unique values; top values: BMDM (36)
+cell type: 36 records, 1 unique values; top values: macrophage (36)
+genotype: 36 records, 4 unique values; top values: WT (15), NOS1 KO (15), BMDM WT (3), BMDM NOS1 KO (3)
+treatment: 36 records, 2 unique values; top values: LPS (24), control (12)
+time: 24 records, 2 unique values; top values: 2h (12), 8h (12)

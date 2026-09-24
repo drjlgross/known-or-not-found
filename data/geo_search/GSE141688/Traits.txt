@@ -1,0 +1,7 @@
+L1: Characteristics count: 27
+Condition-like value count: 21
+Characteristics tags: age (mice); cell type; genotype; strain; treatment
+cell type: 6 records, 1 unique values; top values: Primary BMDM (6)
+genotype: 6 records, 1 unique values; top values: wild type (6)
+strain: 6 records, 1 unique values; top values: C57BL/6 (6)
+treatment: 3 records, 1 unique values; top values: 100ng/ml LPS for 6hrs (3)

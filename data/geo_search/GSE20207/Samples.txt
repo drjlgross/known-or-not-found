@@ -1,0 +1,4 @@
+L1: Sample count: 6
+Sample types: RNA
+Sample ID preview: GSM406313; GSM406314; GSM406315; GSM506874; GSM506875; GSM506876
+Sample title preview: BMDM control 1 6h; BMDM control 2 6h; BMDM control 3 6h; BMDM_LPS_1_6h; BMDM_LPS_2_6h; BMDM_LPS_3_6h

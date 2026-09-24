@@ -1,0 +1,28 @@
+{
+  "document_id": "GSE213050",
+  "title": "Prolyl endopeptidase-mediated transcriptional regulation in quiescent and activated bone marrow-derived macrophages (Bulk RNA-seq)",
+  "summary": "Liver fibrosis, a pathogical change commonly existing in various chronic liver diseases, can ultimately develop into life-threatening liver cirrhosis, but effective antifibrotic therapy is absent due to limited understanding of fibrogenic process. The characteristic fibrotic scar in fibrosis is stiff and disorganized extracellular matrix (ECM) yielded by ECM remodeling, a pathogenic process with vigorous participation of aberrantly activated macrophages. Prolyl endopeptidase (PREP) is a dipeptidyl peptidase that possess both proteolytic and non-proteolytic functions. Using Prep knockout mouse, we found aggravated liver fibrosis in a NASH-related fibrosis murine model, as well as significantly altered transcriptome by in vitro M1/M2 polarization in primary macrophages after PREP ablation. Most importantly, a PREP-mediated direct transcriptional regulation to active cis-regulatory genomic regions was identified for the first time as a novel non-proteolytic function of PREP, based on significant nuclear localization of PREP and CUT&Tag-seq results. Among the PREP-downstream genes, Ctsb and Ctsd, genes encoding ECM remodeling-related profibrogenic cathepsin B and D respectively, were excessively expressed in PREP-ablated macrophages in vitro and in vivo. Our results indicates that PREP is a newly found transcriptional regulator in macrophage, and is a promising therapeutic target for fibrosis-related aberrant macrophage activation.",
+  "overall_design": "Bone marrow cells isolated from femora of Prep-/- and Prep+/- littermates were cultivated under 50 ng/ml M-CSF for 7 days to obtain fully differentiated bone marrow-derived macrophages (BMDMs). Then BMDMs were left unstimulated (M0), or stimulated with 50ng/ml LPS (M1), or stimulated with 20 ng/ml recombinant murine Interleukin-4 and 20 ng/ml recombinant murine Interleukin-13 (M2) for 24 hours. Total mRNA of BMDMs was extracted and subjected to RNA-seq.",
+  "source": "geo",
+  "assay_family": "gene_expression",
+  "technology_class": "sequencing",
+  "organisms": [
+    "Mus musculus"
+  ],
+  "organism_taxids": [
+    10090
+  ],
+  "platform_ids": [
+    "GPL24247"
+  ],
+  "n_samples": 18,
+  "pubmed_ids": [
+    "37394591"
+  ],
+  "bioproject": "PRJNA878835",
+  "release_date": "2023-08-09",
+  "release_year": 2023,
+  "last_update_date": "2023-08-09",
+  "total_blocks": 12,
+  "ftp_link": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE213nnn/GSE213050/"
+}

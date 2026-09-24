@@ -1,0 +1,28 @@
+{
+  "document_id": "GSE238236",
+  "title": "YTHDF1 deletion in macrophages aggravates LPS-induced inflammation",
+  "summary": "To investigate the effect of YTHDF1 on LPS-induced inflammation, we performed RNA-seq with the total RNA extracted from peritoneal macrophages (PMs) with or without YTHDF1 deletion. Ythdf1-/- or wild type mice were intraperitoneally injected with 6% starch broth. Three days later, PMs were isolated and cultured overnight. Then, the PMs were treated by LPS (1 \u03bcg/mL) or PBS for 6 hours, followed by RNA extraction and RNA-seq.",
+  "overall_design": "We isolated peritoneal macrophages (PMs) from WT and Ythdf1-/- mice after intraperitoneally injected with 6% starch broth for three days. Cells were cultured overnight and then stimulated with LPS (1 \u03bcg/mL) or PBS for 6 hours, followed by RNA extraction and RNA-seq. Triplicates were performed for each gruop.",
+  "source": "geo",
+  "assay_family": "gene_expression",
+  "technology_class": "sequencing",
+  "organisms": [
+    "Mus musculus"
+  ],
+  "organism_taxids": [
+    10090
+  ],
+  "platform_ids": [
+    "GPL30215"
+  ],
+  "n_samples": 12,
+  "pubmed_ids": [
+    "40092485"
+  ],
+  "bioproject": "PRJNA998405",
+  "release_date": "2023-08-08",
+  "release_year": 2023,
+  "last_update_date": "2025-03-26",
+  "total_blocks": 12,
+  "ftp_link": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE238nnn/GSE238236/"
+}

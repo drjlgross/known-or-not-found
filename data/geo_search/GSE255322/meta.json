@@ -1,0 +1,28 @@
+{
+  "document_id": "GSE255322",
+  "title": "The early macrophage response to pathogens requires dynamic regulation of the nuclear paraspeckle",
+  "summary": "To ensure a robust immune response to pathogens without risking immunopathology, the kinetics and amplitude of inflammatory gene expression in macrophages need to be exqui- sitely well controlled. There is a growing appreciation for stress-responsive membraneless organelles (MLOs) regulating various steps of eukaryotic gene expression in response to extrinsic cues. Here, we implicate the nuclear paraspeckle, a highly ordered biomolecular condensate that nucleates on the Neat1 lncRNA, in tuning innate immune gene expression in murine macrophages. In response to a variety of innate agonists, macrophage paraspeckles rapidly aggregate (0.5 h poststimulation) and disaggregate (2 h poststimulation). Paraspeckle maintenance and aggregation require active transcription and MAPK signaling, whereas paraspeckle disaggregation requires degradation of Neat1 via the nuclear RNA exosome. In response to lipopolysaccharide treatment, Neat1 KO macrophages fail to properly express a large cohort of proinflammatory cytokines, chemokines, and antimicrobial mediators. Consequently, Neat1 KO macrophages cannot control replication of Salmonella enterica serovar Typhimurium or vesicular stomatitis virus. These findings highlight a prominent role for MLOs in orchestrating the macrophage response to pathogens and support a model whereby dynamic assembly and disassembly of paraspeckles reorganizes the nuclear landscape to enable inflammatory gene expression following innate stimuli.",
+  "overall_design": "The goal of the experiment was to determine the contribution of Neat1 to basal and induced innate immune gene in primary bone marrow derived macrophages (BMDMs). Total RNA was isolated from WT and Neat1 KO BMDMs at rest (UN) and after 2h and 4h LPS treatment (10ng/ml) using the Zymo Direct-Zol RNA purification kit with on-column DNase treatment and elution in nuclease-free water. Library prep was done using ribodepletion by the Baylor College of Medicine Genomic and RNA Profiling (GARP) Core and sequenced on an Illumina Novaseq 6000.",
+  "source": "geo",
+  "assay_family": "gene_expression",
+  "technology_class": "sequencing",
+  "organisms": [
+    "Mus musculus"
+  ],
+  "organism_taxids": [
+    10090
+  ],
+  "platform_ids": [
+    "GPL24247"
+  ],
+  "n_samples": 18,
+  "pubmed_ids": [
+    "38381785"
+  ],
+  "bioproject": "PRJNA1074675",
+  "release_date": "2024-02-09",
+  "release_year": 2024,
+  "last_update_date": "2024-05-10",
+  "total_blocks": 12,
+  "ftp_link": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE255nnn/GSE255322/"
+}

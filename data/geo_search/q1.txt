@@ -1,0 +1,107 @@
+[2m[paperclip] Updated 0.7.49 → v0.7.52[0m
+Found 25 documents  [s_c54779eb]
+
+  1. RNA sequencing of LPS-stimulated bone marrow-derived macrophages pre-treated with MB-3 or DMSO
+     GSE205238
+     "RNA sequencing of LPS-stimulated bone marrow-derived macrophages pre-treated with MB-3 or DMSO We report the application of RNA sequencing technology for high-throughput profiling in mouse bone marrow"
+
+  2. Identification of the long, edited dsRNAome in LPS-stimulated bone marrow-derived macrophages (BMDMs)
+     GSE75154
+     "RNA-Seq of total RNA and immunoprecipitated dsRNA isolated from bone marrow-derived macrophages from C57BL/6 mice after activation with bacterial lipopolysacharide for 0, 6, or 12 hours."
+
+  3. RNA-seq of 8hr LPS-stimulated bone marrow-derived macrophages from wild type, Ch25h-deficient, and LXRab knockout mice
+     GSE58993
+     "RNA-seq of 8hr LPS-stimulated bone marrow-derived macrophages from wild type, Ch25h-deficient, and LXRab knockout mice 25-hydroxycholesterol has been demonstrated to regulate SREBP processing, yet Ch2"
+
+  4. Trajectory analysis quantifies transcriptional plasticity during macrophage polarization
+     GSE158094
+     "RNA-seq; 24h M1-polarized mouse BMDMs, 10X single-cell RNA-seq; 24h M2-polarized mouse BMDMs, 10X single-cell RNA-seq; 0h unpolarized mouse BMDMs, bulk ATAC-seq, biological replicate 1; 0h unpolarized"
+
+  5. The response to lipopolysaccharide (LPS) of bone marrow derived macrophages treated with oxysterol binding protein (OSBP) inhibitors
+     GSE201128
+     "Comparative gene expression profiling by RNA-seq of bone marrow derived macrophages treated with 25-hydroxycholesterol, itraconazole, or Osw-1 and then stimulated with lipopolysaccharide."
+
+  6. Next Generation Sequencing Facilitates Quantitative Analysis of Bone Marrow-Derived Macrophages Transcriptomes for Acly-E14 siRNA effects
+     GSE240188
+     "Gene expression differences between two samples could be found using transcriptome profiling (RNA-seq) analysis."
+
+  7. Next Generation Sequencing Facilitates Quantitative Analysis of Bone Marrow-Derived Macrophages Transcriptomes for Acly-E14 ASO effects
+     GSE272304
+     "Gene expression differences between two samples could be found using transcriptome profiling (RNA-seq) analysis."
+
+  8. Knock in p38g and knock out p38d effect on gene expression in TLR4 signalling in bone marrow derived macrophages using LPS.
+     GSE234776
+     "WT and p38γ/δKIKO bone marrow derived macrophages were stimulated with 100 ng/ml LPS for 0, 30 and 60 min, and gene expression was analysed by RNA-sequencing (RNA-Seq) to identify target genes specifi"
+
+  9. Prolyl endopeptidase-mediated transcriptional regulation in quiescent and activated bone marrow-derived macrophages (Bulk RNA-seq)
+     GSE213050
+     "Total mRNA of BMDMs was extracted and subjected to RNA-seq."
+
+  10. Single-cell response to LPS of wild-type and cohesin-deficient macrophages.
+     GSE190622
+     "Single-cell RNA sequencing (scRNAseq) showed that the frequency of cells expressing inducible transcripts (as defined in Bhatt et al., 2012) was reduced in cohesion-deficient macrophages before and af"
+
+  11. Next Generation Sequencing Facilitates Quantitative Analysis of wild type and Rbm25-deficient Bone Marrow Derived macrophage Transcriptomes
+     GSE240157
+     "Gene expression differences between two samples could be found using transcriptome profiling (RNA-seq) analysis."
+
+  12. Effect of efferocytosis on the inflammatory response of primary murine macrophages
+     GSE245834
+     "Using total RNA-sequencing, we confirmed that efferocytosis induced a pro-resolution signature in LPS-stimulated, inflammatory macropahges."
+
+  13. Unbiased profiling of clinical kinase inhibitors’ effects in activated macrophages using chromatin modifications as high-content readouts [RNA-Seq]
+     GSE219229
+     "Unbiased profiling of clinical kinase inhibitors’ effects in activated macrophages using chromatin modifications as high-content readouts [RNA-Seq] More than 500 kinases are implicated in the control"
+
+  14. Macrophages from Rosa26-integrated Cas9-expressing C57BL/6 mice have a putative TRIF-mediated defect in the TLR-3/4 signaling
+     GSE184551
+     "RNA-seq analysis of bone marrow derived macrophages derived from wildtype and two Cas9-expressing mice upon stimulation with LPS."
+
+  15. Heme exposure shifts shifts myeloid differentiation in bone marrow derived mixed cell cultures.
+     GSE179362
+     "Here, we performed single-cell RNA sequencing with RNA velocity analysis of GM-CSF-supplemented mouse bone marrow cultures to assess myeloid differentiation under heme stress."
+
+  16. An in vitro methodology demonstrates the five steps of trained immunity in mice: implications on biomarker discovery, adaptive immune responses, mouse strains, sample cryopreservation and genetic ablation [RNA-Seq]
+     GSE290033
+     "vitro methodology demonstrates the five steps of trained immunity in mice: implications on biomarker discovery, adaptive immune responses, mouse strains, sample cryopreservation and genetic ablation ["
+
+  17. Effect of Sphingomyelin d18:1/14:0 (S14) on gene expression in macrophages
+     GSE221910
+     "/14:0 (S14) on gene expression in macrophages We compared the effect of Sphingomyelin d18:1/14:0 (S14) and Lipopolysaccharide (LPS) on the gene expression in mouse macrophages at different timepoints"
+
+  18. Unbiased profiling of clinical kinase inhibitors’ effects in activated macrophages using chromatin modifications as high-content readouts [Chromatin associated RNA-seq]
+     GSE218968
+     "Unbiased profiling of clinical kinase inhibitors’ effects in activated macrophages using chromatin modifications as high-content readouts [Chromatin associated RNA-seq] More than 500 kinases are impli"
+
+  19. MOF-mediated PRDX1 acetylation regulates LPS-induced macrophage activation.
+     GSE231941
+     "Comparative gene expression profiling analysis of RNA-seq data for WT (shCTRL) and MOF depletion (shMOF Knockdown) in mouse bone-marrow derived macrophage."
+
+  20. Genome-wide collaboration of canonical and non-canonical STAT1 complexes with NF-κB to control signal integration between Interferons and TLR4 in vascular and immune cells [RNA-seq]
+     GSE120807
+     "Genome-wide collaboration of canonical and non-canonical STAT1 complexes with NF-κB to control signal integration between Interferons and TLR4 in vascular and immune cells [RNA-seq] Atherosclerosis is"
+
+  21. Hyperactive Rac stimulates cannibalism of living target cells and enhances CAR-M-mediated cancer cell killing (BMDM RNA-seq)
+     GSE247104
+     "Hyperactive Rac stimulates cannibalism of living target cells and enhances CAR-M-mediated cancer cell killing (BMDM RNA-seq) The 21kD GTPase Rac is an evolutionarily ancient regulator of cell shape an"
+
+  22. Next Generation Sequencing and Quantitative Analysis of Wild Type and p110gamma-/- macrophages
+     GSE58318
+     "Conclusions: Our study represents the first detailed analysis of the role of p110g in the control of the macrophage immune response, with biological replicates, generated by RNA-seq technology. mRNA p"
+
+  23. Trained Immunity Causes Myeloid Cell Hypercoagulability
+     GSE273173
+     "We then isolated RNA from untreated BMDMs, LPS-treated BMDMs and WGP+LPS BMDMs and performed RNA sequencing to compared gene expression between these treatment groups GDS type: Expression profiling by"
+
+  24. Discovery, delineation and therapeutic targeting of a hyper-translation pathway driving cytokine release syndrome [BMDM_Ribo-seq]
+     GSE287441
+     "of 0h BMDM; RNA-seq of LPS stimulated 6h WT BMDM; RNA-seq of LPS stimulated 24h WT BMDM Characteristics count: 18 Condition-like value count: 18 Characteristics tags: cell type; genotype; treatment ce"
+
+  25. 12-Lipoxygenase Inhibition Suppresses Islet Immune and Inflammatory Responses and Delays Autoimmune Diabetes in Human Gene Replacement Mice.
+     GSE272687
+     "RNA was isolated and processed for RNA-sequencing."
+
+[654ms, saved to s_c54779eb]
+
+💡 Extract data across these results with: map --from s_c54779eb "your question"
+[654ms, saved to s_c54779eb]  [repo: mva-lof-molecular]

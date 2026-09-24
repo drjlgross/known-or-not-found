@@ -1,0 +1,4 @@
+L1: Sample count: 12
+Sample types: SRA
+Sample ID preview: GSM8144207; GSM8144208; GSM8144209; GSM8144210; GSM8144211; GSM8144212; GSM8144213; GSM8144214; GSM8144215; GSM8144216; GSM8144217; GSM8144218
+Sample title preview: BMDM, WT, biol. Rep 1; BMDM, WT, biol. Rep 2; BMDM, WT, biol. Rep 3; BMDM, KO, biol. Rep 1; BMDM, KO, biol. Rep 2; BMDM, KO, biol. Rep 3; BMDM, WT, biol. Rep 1, LPS; BMDM, KO, biol. Rep 2, LPS; BMDM, WT, biol. Rep 3, LPS; BMDM, KO, biol. Rep 1, LPS; BMDM, WT, biol. Rep 2, LPS; BMDM, KO, biol. Rep 3, LPS

@@ -1,0 +1,100 @@
+=== grep "GSE263905" /papers/
+1 matching papers [results_id: s_2495d67c]
+
+  PMC11465231/ (1 matches)
+    [Tables:L151] /papers/PMC11465231/sections/Tables.lines:L151: Gene Expression Omnibus | This paper | GEO: GSE263905
+[112ms, saved to s_2495d67c]  [repo: mva-lof-molecular]
+=== grep "RIPK1 T169A" /papers/
+76 matching papers (showing 70) [results_id: s_196effe9]
+
+  arx_2010.00912/ (1 matches)
+    [Evaluating_Phase_II:L120] …Heterogeneous Architecture Distillation  DenseNet169NiN92.84%83.71%54.95%  DenseNet169AlexNet81.87%76.23%53.51%  DenseNet169VGG1393.45%85.8%54.17%  ResNet50NiN91.74%83.77%54.53%  ResNet50AlexNet80.12%74.92%53.12%  ResNet50VGG1394.23%86.52%54.46%
+
+  arx_2011.11058/ (1 matches)
+    [Extracting_Features:L36] /papers/arx_2011.11058/sections/Extracting_Features.lines:L36: ModelLayerR_rR_t    VGG16fc20.330.63 \pm 0.01  DenseNet169avg_pool0.290.57 \pm 0.03  ResNet50avg_pool0.280.60 \pm 0.02  MobileNetreshape_20.260.53 \pm 0.03
+
+  arx_2102.00515/ (1 matches)
+    [Classification_Results_of_13_CNN_Based_Deep_Learning_Models_with_Standard_FC_Spinal_FC:L144] …_Standard_FC_Spinal_FC.lines:L144: ModelsTPFPFNTNClass0: AUCClass1: AUC    DenseNet169a22233562520.88090.8797  DenseNet169b21844602410.86020.8598  DenseNet201a22548532370.85840.8653  DenseNet201b22846502390.87270.8724  InceptionV3a21838602470.87540…
+
+  arx_2108.03026/ (1 matches)
+    [B_Training_and_Testing:L37] …lines:L37: DatasetsNeural Networks  ResNet50ResNet101DenseNet121DenseNet161DenseNet169Average    w/o Age &amp; Gender0.69670.650.68330.68670.67330.678  w/i Gender0.70760.65330.690.69670.680.6853  w/i Age &amp; Gender0.71330.66330.70330.70760.71670.…
+
+  arx_2307.11058/ (1 matches)
+    [Performance_Evaluation:L56] …9.7222%70.0342%  Inception-v4angle58.0556%65.9247%  speed77.2222%83.2192%  Densenet169angle76.9444%64.3836%  speed81.3889%70.7192%
+
+  arx_2310.16851/ (1 matches)
+    [Remarks_and_Conclusions:L453] …0.99740.9990  Precision0.99650.9980  Recall0.99851.0000  Loss0.00800.0041  DenseNet169Accuracy0.99720.9980  Precision0.99700.9980  Recall0.99750.9980  Loss0.00720.0031  DenseNet201Accuracy0.99950.9970  Precision1.00000.9940  Recall0.99901.0000  Los…
+
+  arx_2312.05900/ (1 matches)
+    [Temporal_Action_Localization:L281] …enseNet121Action0.990.870.93  Idle0.890.990.93  Macro avg0.940.930.930.93  DenseNet169Action0.960.900.93  Idle0.900.960.93  Macro avg0.930.930.930.93  DenseNet201Action0.980.880.93  Idle0.890.990.93  Macro avg0.940.930.930.93  VGG16Action0.980.950.…
+
+  arx_2401.03922/ (1 matches)
+    [Comparison_with_the_state_of_the_art_methods:L54] /papers/arx_2401.03922/sections/Comparison_with_the_state_of_the_art_methods.lines:L54: MetricModelSNeurodCNNResNet50DenseNet169Accuracy98.165.581.6Precision97.262.182.4Sensitivity99.075.879.2Specificity97.255.683.7F1-Score98.168.380.8AUC98.165.781.5
+
+  arx_2403.11135/ (1 matches)
+    [B_Evaluation:L46] …e94.4492.1192.3191.78  Recall93.0093.0091.4590.25  F193.7192.5591.8891.01  DenseNet169Acc92.1791.1992.4491.99  Pre92.0090.2191.3189.89  Recall91.0088.4492.0687.41  F181.1289.3291.6888.63  Gour et al [1]Acc82.1282.9880.8581.83  Pre95.0791.5985.2588.…
+
+  arx_2502.17154/ (1 matches)
+=== search pmc,biorxiv "RIPK1 T169A"
+Found 10 papers  [s_bc270388]
+  1. Non-canonical autophosphorylation of RIPK1 drives timely pyroptosis to control Yersinia infection
+     David Jetton; Hayley I. Muendlein; Wilson M. Connolly; Zoie Magri; Irina Smirnova; Rebecca Batorsky;...
+     PMC11465231 · PMC · 2024-08-17 · 9 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11465231/
+     Matched: DISCUSSION · cat /papers/PMC11465231/content.lines --lines 37
+     │ Of note, human and murine myeloid cells behave very differently in response to Yersinia
+     │ infection. While pathogenic Yersinia are often used to study cell death in murine systems,
+     │ human macrophages and neutrophils appear to be much more resistant to YopJ- or 5z7-induced
+     │ cell death compared to their murine counterparts.[4],[43],[44] In fact, human peripheral
+     │ blood mononuclear cell-derived macrophages treated with LPS/5z7 display greater resistance
+     │ than even RIPK1 D138N kinase-inactive BMDMs, just like RIPK1 T169A BMDMs (Figure 2A).[4]
+     │ This is of some interest, as RIPK1 T169 is a highly conserved residue from fish to apes, but
+     │ like our Ripk1T169A/T169A mice, humans do not possess RIPK1 T169. …
+     "This study investigated RIPK1 autophosphorylation sites required for caspase-8-mediated pyroptosis. Non-canonical RIPK1 phosphorylation at threonine 169 is essential for timely pyroptosis and host defense against Yersinia infection."
+  2. Differential signalling requirements for RIPK1-dependent pyroptosis in neutrophils and macrophages
+     See Jie Yow; Safwah Nasuha Rosli; Paul E. Hutchinson; Kaiwen W. Chen
+     PMC11224406 · PMC · 2024-07-04 · 14 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11224406/
+     Matched: Introduction · cat /papers/PMC11224406/content.lines --lines 10-11
+     │ Myeloid cells such as macrophages, monocytes and neutrophils are sentinels of the innate
+     │ immune system and express a variety of receptors to rapidly respond to microbial infection.
+     │ For instance, Toll-like receptor 4 (TLR4) detects lipopolysaccharide (LPS) from Gram-
+     │ negative bacteria, while tumour necrosis factor receptor 1 (TNFR1) senses the
+     │ proinflammatory cytokine, TNF, that is often elevated during microbial infection. Activation
+     │ of TNFR1 or TLR4 triggers the assembly of membrane-anchored multiprotein signalling
+     │ platforms termed Complex I [1] or Myddosome [2], respectively, which initiate inflammation
+     │ by triggering downstream signal transduction pathways that activate NF-κB and …
+     "This study investigated RIPK1-dependent pyroptosis signaling in neutrophils and macrophages. Neutrophils require TNFR1 and IFN-γ for pyroptosis, while macrophages use both TNFR1 and TLR4-TRIF signaling."
+  3. Lactate attenuates PANoptosis and enhances ZBP-1 lactylation in macrophages in acute lung injury
+     Dan Wang; Yi Gong; Yehao Chen; Zhefan Wang; Jinxiang Yin; Zhengrui Wang; Xiao Yang; Yizhou Zhang; Ji...
+     PMC12754177 · PMC · 2025-12-17 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12754177/
+     Matched: Lactate suppressed ZBP1-mediated PANoptosis and promoted ZBP1 lactylat · cat /papers/PMC12754177/content.lines --lines 59-60
+     │ We next asked how lactate regulates ZBP1 in macrophages. We adopted a well-studied model of
+     │ PANoptosis in macrophages through the coadministration of LPS and 5Z-7-oxozeaenol (5z7), a
+     │ selective TAK1 inhibitor (12, 22). In vitro analysis demonstrated that LPS + 5z7 treatment
+     │ induced significant cell death with the activation of ZBP1 and downstream Cas1, GSDMD and
+     │ MLKL. However, lactate administration suppressed the LPS + 5z7-induced cell death and the
+     │ activation of ZBP1 and subsequent pyroptosis and necroptosis, which were marked by cleaved
+=== grep LPS dose in PMC11465231
+(note: PMC11465231 not in repo 'mva-lof-molecular')
+ERR: vsh: grep: invalid regex: missing ), unterminated subpattern at position 22
+[exit 1]
+[20ms]  [repo: mva-lof-molecular]
+=== grep dose/RNA-seq in PMC11465231
+(note: PMC11465231 not in repo 'mva-lof-molecular')
+ERR: vsh: grep: invalid regex: missing ), unterminated subpattern at position 53
+[exit 1]
+[22ms]  [repo: mva-lof-molecular]
+=== grep dose/RNA-seq in PMC11465231
+(note: PMC11465231 not in repo 'mva-lof-molecular')
+L52:For the generation of Ripk1T169A/T169A mice, S.p. Cas9 (IDT) together with the 120 bp ssDNA repair oligo (IDT) and the short guide RNA (sgRNA) comprised of both crRNA and tracrRNA sequences (IDT) were microinjected into the pronucleus of fertilized oocytes obtained from C57BL/6J mice by University of Massachusetts Medical School Transgenic Animal Modeling Core. A sgRNA targeting a site adjacent to position 169 of the murine Ripk1 gene was used (5′ GAC ATG GAG CAA ACT GAC TA3′). On the next day, the injected embryos were transferred to foster mothers and allowed to develop to term. Mutations in the genome of progeny were determined by analysis of genomic DNA by sequencing. The sequence of the ssDNA oligo used as repair template for the RIPK1 T169A knock-in was 5′ CGA TCT TGG TGT GGC TTC CTT TAA GAC ATG GAG CAA ACT GGC TAA GGA GAA AGA CAA CAA GCA GAA AGA AGT GAG CAG CAC CA 3’. Primers to amplify gDNA fragments for sequencing were: (5′ GGT TAT CTT TCT CTG CCT TTA TGT G 3′) and (5′ TGT CTT ACT CTC ATA GGG CTC C 3′). Mice containing the desired knock-in were backcrossed to C57BL/6J mice for 4 generations before progeny from separate founders were crossed to generate the homozygote Ripk1T169A/T169A.
+L62:For the generation of RIPK1 D138N, RIPK1 S166A, and RIPK1 T169A iBMDMs, Alt-R S.p. Cas9 Nuclease V3 (IDT, 1081058) together with Alt-R Cas9 Electroporation Enhancer (IDT, 1075915), Alt-R HDR Enhancer V2 (IDT, 10007910) the 80–120 bp ssDNA repair oligo (IDT) and the short guide RNA (sgRNA) comprised of both Alt-R CRISPR-Cas9 crRNA and tracrRNA sequences (IDT) were nucleofected into B6 iBMDMs using the Nucleofector IIb system on program Y-001. Nucleofected cells were allowed to rest for 48 h, and single cell clones were grown in 96 well plates. Mutations in the clones were determined by analysis of genomic DNA by sequencing. To generate RIPK1 D138N sgRNA targeting a site adjacent to position 138 of the murine Ripk1 gene was used (5′ TGA CAA AGG TGT GAT ACA CA 3′). The sequence of the ssDNA oligo used as repair template for the RIPK1 D138N knock-in was 5′ ATA GAA GGC ATG TGC TAC TTA CAT GAC AAA GGT GTG ATA CAC AAG AAC CTG AAG CCT GAG AAT ATC CTC GTT GAT CGT GAC TTT CA 3’. To generate RIPK1 S166A sgRNA targeting a site adjacent to position 166 of the murine Ripk1 gene was used (5′ GAC ATG GAG CAA ACT GAC TA3′). The sequence of the ssDNA oligo used as repair template for the RIPK1 S166A knock-in was 5′ TCT TTT CCA GAT AGC CGA TCT TGG TGT GGC TTC CTT TAA GAC ATG GGC CAA ACT GAC TAA GGA GAA AGA CAA CAA GCA GAA AGA AGT GA 3’. To generate RIPK1 T169A sgRNA targeting a site adjacent to position 169 of the murine Ripk1 gene was used (5′ GAC ATG GAG CAA ACT GAC TA3′). The sequence of the ssDNA oligo used as repair template for the RIPK1 T169A knock-in was 5′ CGA TCT TGG TGT GGC TTC CTT TAA GAC ATG GAG CAA ACT GGC TAA GGA GAA AGA CAA CAA GCA GAA AGA AGT GAG CAG CAC CA 3’. Primers to amplify gDNA fragments for sequencing RIPK1 D138N were: (5′ TAT ATT TCA CCA TTT TCT CCT TCC C 3′) and (5′ GGA AAC AAA ACC CAG GAA CC 3′). Primers to amplify gDNA fragments for sequencing RIPK1 S166A and RIPK1 T169A were: (5′ GGT TAT CTT TCT CTG CCT TTA TGT G 3′) and (5′ TGT CTT ACT CTC ATA GGG CTC C 3′).
+L65:LPS Escherichia coli 011: B4 (10 ng/mL for all BMDM assays and 100 ng/mL for all MEFs, L4391), 5z7 (125 nM, O9890), GSK’872(3 μM, 530389), and Nec-1 (10 μM, N9037) were purchased from Sigma- Aldrich.
+L67:MEFs were plated in tissue culture treated, 384-well, optical bottom plates (Nunc 142761) at 8.3×104 cells per well in DMEM with 10% FBS with 2% Pen-Strep. BMDMs were plated in tissue culture treated, 384-well, optical bottom plates (Nunc 142761) at 25×104 cells per well in RPMI with L-glutamine 10% FBS with or without 2% Pen-Strep. Indicated treatments were added to cells in media containing 10 μg/mL propidium iodide (Life Technologies, P3566). The Cytation3 Imager (BioTek) was used to maintain temperature at 37°C and 5% CO2 during the experiments. Kinetic microscopy was performed by the Cytation3 Imager to quantify propidium iodide uptake every 30 min. Wells containing 0.1% Triton X-100 lysed cells were used as 100% cytotoxicity controls, and wells containing unstimulated cells were used as controls for baseline death overtime.
+L69:1×105 BMDMs were plated on 96-well TC treated plates and stimulated as indicated for 16 h. LPS priming (10 ng/mL) occurred 4 h before the addition of 5z7 or nigericin, respectively. Cell free supernatants were analyzed for IL-1β (DY401) protein levels using the DuoSet ELISA kit from R&D Systems.
+L88:Figure 1.: Phosphorylation of RIPK1 T169, and not canonical S166, drives cell death after stimulation with LPS/5z7 (A) Cell death as measured by propidium iodide (PI) incorporation over time in B6, RIPK1 S166A, and RIPK1 D138N knockin immortalized BMDMs stimulated with LPS/5z7. (B) IL-1β release from B6, RIPK1 S166A, and RIPK1 D138N knockin immortalized BMDMs after 16 h of indicated treatments. LPS priming (10 ng/mL) occurred 4 h before the addition of 5z7 or 5z7/Nec-1. (C) Western blot for GapDH, cleaved CASP8, CASP3, GSDMD, total RIPK1, phospho-S166 RIPK1, total RIPK3, phospho-RIPK3, total MLKL, and phospho-MLKL in LPS/5z7-stimulated B6, RIPK1 S166A, and RIPK1 D138N immortalized BMDMs stimulated with LPS/5z7 over the indicated amounts of time. (D) Schema depicting workflow of phospho-specific mass spectroscopy. Phosphosites detected by liquid chromatography-tandem mass spectrometry (LC-MS/MS) in BMDMs treated with LPS or LPS/5z7 for 30 min. Previously reported autophosphorylations are highlighted in yellow and identified in the representation on the bottom. Schemas were created in BioRender. (E) Cell death as measured by PI incorporation over time in B6, RIPK1 T169A, and RIPK1 D138N knockin immortalized BMDMs stimulated with LPS/5z7. (F) IL-1β release from B6, RIPK1 S166A, and RIPK1 D138N knockin immortalized BMDMs after 16 h of indicated treatments. LPS priming (10 or 100 ng/mL) occurred 4 h before the addition of 5z7 or nigericin, respectively.</p/> Data from cell death assays and western blots are representative of 3 or more independent experiments, cell death data are presented as the mean ± SD of triplicate wells, and n = 10,000 cells examined in three individual wells. IL-1β release data are presented as the mean ± SD for triplicate wells from n = 3 independent experiments. Data from (A) and (E) as well as (B) and (F) were generated concurrently using the same B6 and D138N controls but are presented separately for narrative purposes. Two-way analysis of variance (ANOVA) was used for comparison between groups: ns, non-significant (p > 0.05), *p < 0.05, **p < 0.01, ***p < 0.001, and ****p < 0.0001. See also Figure S1.
+L89:Figure 2.: Inhibition of RIPK1 T169 phosphorylation inhibits CASP8-dependent death and downstream pyroptosis without altering inflammatory signaling (A) Schema depicting the establishment of the Ripk1T169A/T169A mouse line created in BioRender. (B) Sample-sample correlation heatmap of B6 and RIPK1 T169A BMDMs treated with LPS, LPS/5z7, or unstimulated. N = 3 for each genotype and stimulation. (C) Principal-component analysis (PCA) plot of bulk RNA sequencing analysis of B6 and RIPK1 T169A BMDMs treated with LPS or LPS/5z7 or unstimulated. N = 3 for each genotype and stimulation. (D–I) Cell death as measured by PI incorporation over time in (D and E) B6 and RIPK1 T169A MEFs or (F–I) B6, RIPK1 T169A, and RIPK1 D138N primary BMDMs stimulated with (D and F) LPS/5z7, (E) TNF-α/5z7, (G and H) Y. ptb. at an MOI of 12, or (I) ΔYopJ-deficient Y. ptb. at an MOI of 12, respectively. (J) IL-1β release from B6, RIPK1 T169A, and RIPK1 D138N primary BMDMs after 16 h of indicated treatments. LPS priming (10 ng/mL) occurred 4 h before the addition of 5z7. (K) Western blot for GapDH, RIPK1, RIPK1 phospho-S321, total IκBα, NF-κB phospho-p65, and NF-κB total p65 in B6 and RIPK1 T169A BMDMs stimulated with Y. ptb. at MOI of 12 over indicated time. Data from cell death assays and western blots are representative of 3 or more biologically independent experiments, cell death data are presented as the mean ± SD of triplicate wells, and n = 10,000 cells examined in three individual wells. IL-1β release data are presented as the mean ± SD for triplicate wells from n = 3 independent biologic experiments. Two-way ANOVA was used for comparison between groups: ns, non-significant (p > 0.05), *p < 0.05, **p < 0.01, ***p < 0.001, and ****p < 0.0001. See also Figure S2.
+L182:We thank Dr. K. Fitzgerald for sharing immortalized BMDMs and Dr. M. Kelliher for sharing the Ripk1D138N/D138N mouse strain for this study. We thank Dr. R. Isberg for sharing the Y. pseudotuberculosis strains used in this study. We thank A. Tai and the Tufts University Genomics Core for help with RNA sequencing and data analysis. This work was supported by NIH grants AI167245 and AI056234 to A.P., AI144400 to A.D., and AI169782 to J.M.
+L227:45. Dobin A , Davis CA , Schlesinger F , Drenkow J , Zaleski C , Jha S , Batut P , Chaisson M , and Gingeras TR ( 2013 ). STAR: Ultrafast universal RNA-seq aligner . Bioinformatics 29 , 15 – 21 . 23104886
+[43ms]  [repo: mva-lof-molecular]

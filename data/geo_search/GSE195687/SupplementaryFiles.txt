@@ -1,0 +1,1 @@
+L1: level=series; owner=GSE195687; type=FPKM_TRACKING; ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE195nnn/GSE195687/suppl/GSE195687_genes.fpkm_tracking.gz

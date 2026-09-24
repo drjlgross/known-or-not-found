@@ -1,0 +1,7 @@
+L1: Characteristics count: 48
+Condition-like value count: 48
+Characteristics tags: cell type; genotype/variation; strain; treatment
+cell type: 12 records, 1 unique values; top values: Primary bone marrow-derived macrophages (BMDM) cells (7th day of differentiation) (12)
+genotype/variation: 12 records, 2 unique values; top values: wild type (HDAC3 +/-) (6), knockout (HDAC3 -/-) (6)
+strain: 12 records, 1 unique values; top values: C57BL/6 (12)
+treatment: 12 records, 2 unique values; top values: No treatment (6), LPS (100 ng/ml) for 4hrs (6)

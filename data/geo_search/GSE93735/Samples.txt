@@ -1,0 +1,4 @@
+L1: Sample count: 14
+Sample types: SRA
+Sample ID preview: GSM2461310; GSM2461311; GSM2461312; GSM2461313; GSM2461314; GSM2461315; GSM2461316; GSM2461317; GSM2461318; GSM2461319; GSM2461320; GSM2461321; GSM2461322; GSM2461323
+Sample title preview: 0h LPS rep1; 4h LPS rep1; 10h LPS rep1; 0h LPS rep2; 4h LPS rep2; 10h LPS rep2; Dex 3h pre, 0h LPS rep1; Dex 3h pre, 4h LPS rep1; Dex 3h pre, 10h LPS rep1; Dex late, 10h LPS rep1; Dex 3h pre, 0h LPS rep2; Dex 3h pre, 4h LPS rep2; Dex 3h pre, 10h LPS rep2; Dex late, 10h LPS rep2

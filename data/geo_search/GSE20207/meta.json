@@ -1,0 +1,28 @@
+{
+  "document_id": "GSE20207",
+  "title": "Wild-type bone-marrow derived macrophages response to Escherichia coli lipopolysaccharide (LPS)",
+  "summary": "We have employed whole genome microarray expression profiling to identify differently expressed genes following stimulation of wild-type bone-marrow derived macrophages with Escherichia coli lipopolysaccharide (LPS). Macrophages were stimulated with LPS (100 ng/ml) for 6 hours and a signature was identified that distinguished between infected and control samples. Expression of several genes from this signature was quantified in the same RNA samples by real-time PCR, confirming the predicted macrophage response pattern.",
+  "overall_design": "Gene expression in macrophages was measured at 6 hours after stimulation Three independent experiments were performed.",
+  "source": "geo",
+  "assay_family": "gene_expression",
+  "technology_class": "array",
+  "organisms": [
+    "Mus musculus"
+  ],
+  "organism_taxids": [
+    10090
+  ],
+  "platform_ids": [
+    "GPL4134"
+  ],
+  "n_samples": 6,
+  "pubmed_ids": [
+    "21042409"
+  ],
+  "bioproject": "PRJNA129799",
+  "release_date": "2010-10-08",
+  "release_year": 2010,
+  "last_update_date": "2018-05-10",
+  "total_blocks": 12,
+  "ftp_link": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE20nnn/GSE20207/"
+}

@@ -1,0 +1,4 @@
+L1: Sample count: 38
+Sample types: SRA
+Sample ID preview: GSM3176445; GSM3176446; GSM3176447; GSM3176448; GSM3176449; GSM3176450; GSM3176451; GSM3176452; GSM3176453; GSM3176454; GSM3176455; GSM3176456; GSM3176457; GSM3176458; GSM3176459; GSM3176460; GSM3176461; GSM3176462; GSM3176463; GSM3176464; GSM3176465; GSM3176466; GSM3176467; GSM3176468; GSM3176469; ... (13 more)
+Sample title preview: ChIP-seq-M0-Input; ChIP-seq-M0-H3K18la; ChIP-seq-M0-H3K18ac; ChIP-seq-M1-Input; ChIP-seq-M1-H3K18la; ChIP-seq-M1-H3K18ac; RNA-seq-0h-rep1; RNA-seq-0h-rep2; RNA-seq-0h-rep3; RNA-seq-0h-rep4; RNA-seq-4h-rep1; RNA-seq-4h-rep2; RNA-seq-4h-rep3; RNA-seq-4h-rep4; RNA-seq-8h-rep1; RNA-seq-8h-rep2; RNA-seq-8h-rep3; RNA-seq-8h-rep4; RNA-seq-16h-rep1; RNA-seq-16h-rep2; RNA-seq-16h-rep3; RNA-seq-16h-rep4; RNA-seq-24h-rep1; RNA-seq-24h-rep2; RNA-seq-24h-rep3

@@ -1,0 +1,20 @@
+L1: FTP filelist status: ok
+File count: 13
+Total size bytes: 87799937
+Has raw TAR: True
+Has XLSX: False
+DE candidate files: 0
+File types: CEL=12; TAR=1
+GSE115120_RAW.tar (kind=Archive; type=TAR; size=43909120)
+GSM3165562_1_WT1.CEL.gz (kind=File; type=CEL; size=3767178)
+GSM3165563_2_WT2.CEL.gz (kind=File; type=CEL; size=3751652)
+GSM3165564_3_WT3.CEL.gz (kind=File; type=CEL; size=3665337)
+GSM3165565_4_LPS-IFNy1.CEL.gz (kind=File; type=CEL; size=3619252)
+GSM3165566_5_LPS-IFNy2.CEL.gz (kind=File; type=CEL; size=3640672)
+GSM3165567_6_LPS-IFNy3.CEL.gz (kind=File; type=CEL; size=3618881)
+GSM3165568_7_NOS-_-1.CEL.gz (kind=File; type=CEL; size=3669949)
+GSM3165569_8_NOS-_-2.CEL.gz (kind=File; type=CEL; size=3692924)
+GSM3165570_9_NOS-_-3.CEL.gz (kind=File; type=CEL; size=3594497)
+GSM3165571_10_NOS-_-LPS-IFNy1.CEL.gz (kind=File; type=CEL; size=3659088)
+GSM3165572_11_NOS-_-LPS-IFNy2.CEL.gz (kind=File; type=CEL; size=3630174)
+GSM3165573_12_NOS-_-LPS-IFNy3.CEL.gz (kind=File; type=CEL; size=3581213)

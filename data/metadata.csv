@@ -1,0 +1,7 @@
+sample_id,condition,count_column,gsm,geo_title,geo_description
+ctrl_1,control,Ctrl01,GSM7976553,"BMDM cells, Control, 4h,WT, replicate #1",Ctrl01_4h
+ctrl_2,control,Ctrl02,GSM7976554,"BMDM cells, Control, 4h,WT, replicate #2",Ctrl02_4h
+ctrl_3,control,Ctrl03,GSM7976555,"BMDM cells, Control, 4h,WT, replicate #3",Ctrl03_4h
+lps_1,LPS,TrtB01,GSM7976565,"BMDM cells, LPS stimulated, 4h, WT, replicate #1",TrtB01_4h
+lps_2,LPS,TrtB02,GSM7976566,"BMDM cells, LPS stimulated, 4h, WT, replicate #2",TrtB02_4h
+lps_3,LPS,TrtB03,GSM7976567,"BMDM cells, LPS stimulated, 4h, WT, replicate #3",TrtB03_4h

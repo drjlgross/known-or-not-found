@@ -1,0 +1,4 @@
+L1: Sample count: 18
+Sample types: SRA
+Sample ID preview: GSM8207307; GSM8207308; GSM8207309; GSM8207310; GSM8207311; GSM8207312; GSM8207313; GSM8207314; GSM8207315; GSM8207316; GSM8207317; GSM8207318; GSM8207319; GSM8207320; GSM8207321; GSM8207322; GSM8207323; GSM8207324
+Sample title preview: B6 (A) unstimulated; B6 (A) LPS 2 hours; B6 (A) LPS/5z7 2 hours; B6 (B) unstimulated; B6 (B) LPS 2 hours; B6 (B) LPS/5z7 2 hours; B6 (C) unstimulated; B6 (C) LPS 2 hours; B6 (C) LPS/5z7 2 hours; T169A (D) unstimulated; T169A (D) LPS 2 hours; T169A (D) LPS/5z7 2 hours; T169A (E) unstimulated; T169A (E) LPS 2 hours; T169A (E) LPS/5z7 2 hours; T169A (F) unstimulated; T169A (F) LPS 2 hours; T169A (F) LPS/5z7 2 hours

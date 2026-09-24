@@ -1,0 +1,28 @@
+{
+  "document_id": "GSE261444",
+  "title": "The mRNA-binding protein KSRP limits the inflammatory response of macrophages",
+  "summary": "KH-type splicing regulatory protein (KSRP) is a single-stranded nucleic acid-binding protein with multiple functions. It is known to bind AU-rich motifs within the 3\u00b4-untranslated region of mRNA species, which in many cases encode dynamically regulated proteins like cytokines. In the present study, we investigated the role of KSRP for the immunophenotype of macrophages using bone marrow-derived macrophages (BMDM) from wild type (WT) and KSRP-/- mice. RNA sequencing revealed that KSRP-/- BMDM displayed significantly higher mRNA expression levels of genes in-volved in inflammatory and immune responses, particularly type I interferon responses, following LPS stimulation. In line, time kinetics studies revealed increased levels of interferon-\u03b3 (IFN-\u03b3), in-terleukin (IL)-1\u03b2 and IL-6 mRNA in KSRP-/- macrophages after 6 h subsequent to LPS stimulation as compared to WT cultures. On protein level KSRP-/- BMDM displayed higher levels of these cy-tokines after overnight stimulation. Matching results were observed for primary peritoneal mac-rophages of KSRP\u2212/\u2212 mice. These showed higher IL-6, Tumor necrosis factor-\u03b1 (TNF-\u03b1), C-X-C mo-tif chemokine 1 (CXCL1) and CC-chemokine ligand 5 (CCL5) protein levels in response to LPS stimulation than the WT controls. As macrophages play a key role in sepsis, the in vivo relevance of KSRP deficiency for cytokine/chemokine production was analyzed in an acute inflammation model. In agreement with our in vitro findings, KSRP-deficient animals showed higher cytokine production upon LPS administration in comparison to WT mice. Taken together, these findings demonstrate that KSRP constitutes as an important negative regulator of cytokine expression in macrophages",
+  "overall_design": "We isolated bone marrow cells of WT and KSRP-KO mice and cultured them for 7 days in M-CSF containing medium to induce differentiation to macrophages (BMDM). BMDM were either treated with 1 \u00b5g/\u00b5l LPS for 6 h or left untreated. 5x10^4 cells of each samples were lysed and total RNA was purified for sequencing.",
+  "source": "geo",
+  "assay_family": "gene_expression",
+  "technology_class": "sequencing",
+  "organisms": [
+    "Mus musculus"
+  ],
+  "organism_taxids": [
+    10090
+  ],
+  "platform_ids": [
+    "GPL21626"
+  ],
+  "n_samples": 12,
+  "pubmed_ids": [
+    "38612694"
+  ],
+  "bioproject": "PRJNA1086955",
+  "release_date": "2024-04-12",
+  "release_year": 2024,
+  "last_update_date": "2024-05-02",
+  "total_blocks": 12,
+  "ftp_link": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE261nnn/GSE261444/"
+}

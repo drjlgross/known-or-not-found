@@ -1,0 +1,15 @@
+L1: FTP filelist status: ok
+File count: 8
+Total size bytes: 112589967
+Has raw TAR: True
+Has XLSX: False
+DE candidate files: 0
+File types: TXT=7; TAR=1
+GSE20207_RAW.tar (kind=Archive; type=TAR; size=56299520)
+GPL4134_old_annotations.txt.gz (kind=File; type=TXT; size=6957416)
+GSM406313.txt.gz (kind=File; type=TXT; size=8243353)
+GSM406314.txt.gz (kind=File; type=TXT; size=8210157)
+GSM406315.txt.gz (kind=File; type=TXT; size=8231073)
+GSM506874.txt.gz (kind=File; type=TXT; size=8227662)
+GSM506875.txt.gz (kind=File; type=TXT; size=8225057)
+GSM506876.txt.gz (kind=File; type=TXT; size=8195729)

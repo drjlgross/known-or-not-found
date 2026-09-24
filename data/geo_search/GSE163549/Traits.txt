@@ -1,0 +1,8 @@
+L1: Characteristics count: 90
+Condition-like value count: 72
+Characteristics tags: cell type; genotype; replicate; strain; tissue; treatment
+genotype: 18 records, 2 unique values; top values: wild type (12), tent-5(tm3504) mutant (6)
+strain: 18 records, 3 unique values; top values: N2 Bristol (CGC) (6), tent-5(tm3504) I (NBRP) (6), C57BL/6J;CBA (6)
+treatment: 18 records, 4 unique values; top values: grown at 25℃ on TSA plates seeded with E. coli HB101 (6), grown at 25℃ on TSA, infected by S. aureus NCTC8325 for 8h (6), untreated (3), LPS-activated for 8h (3)
+tissue: 12 records, 1 unique values; top values: whole worm (12)
+cell type: 6 records, 1 unique values; top values: bone marrow-derived macrophages (6)

@@ -1,0 +1,20 @@
+L1: FTP filelist status: ok
+File count: 13
+Total size bytes: 92209566
+Has raw TAR: True
+Has XLSX: False
+DE candidate files: 0
+File types: TSV=12; TAR=1
+GSE261444_RAW.tar (kind=Archive; type=TAR; size=46110720)
+GSM8144207_imb_grabbe_2022_04_01_WT_rep1.raw_readcounts.tsv.gz (kind=File; type=TSV; size=3842925)
+GSM8144208_imb_grabbe_2022_04_02_WT_rep2.raw_readcounts.tsv.gz (kind=File; type=TSV; size=3841134)
+GSM8144209_imb_grabbe_2022_04_03_WT_rep3.raw_readcounts.tsv.gz (kind=File; type=TSV; size=3840948)
+GSM8144210_imb_grabbe_2022_04_04_KO_rep1.raw_readcounts.tsv.gz (kind=File; type=TSV; size=3839274)
+GSM8144211_imb_grabbe_2022_04_05_KO_rep2.raw_readcounts.tsv.gz (kind=File; type=TSV; size=3841366)
+GSM8144212_imb_grabbe_2022_04_06_KO_rep3.raw_readcounts.tsv.gz (kind=File; type=TSV; size=3838773)
+GSM8144213_imb_grabbe_2022_04_07_WT_rep1.raw_readcounts.tsv.gz (kind=File; type=TSV; size=3843623)
+GSM8144214_imb_grabbe_2022_04_08_KO_rep2.raw_readcounts.tsv.gz (kind=File; type=TSV; size=3843751)
+GSM8144215_imb_grabbe_2022_04_09_WT_rep3.raw_readcounts.tsv.gz (kind=File; type=TSV; size=3844053)
+GSM8144216_imb_grabbe_2022_04_10_KO_rep1.raw_readcounts.tsv.gz (kind=File; type=TSV; size=3840544)
+GSM8144217_imb_grabbe_2022_04_11_WT_rep2.raw_readcounts.tsv.gz (kind=File; type=TSV; size=3840956)
+GSM8144218_imb_grabbe_2022_04_12_KO_rep3.raw_readcounts.tsv.gz (kind=File; type=TSV; size=3841499)

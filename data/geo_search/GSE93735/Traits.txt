@@ -1,0 +1,6 @@
+L1: Characteristics count: 42
+Condition-like value count: 42
+Characteristics tags: cell type; strain; treatment
+cell type: 14 records, 1 unique values; top values: Bone marrow derived macrophages (14)
+strain: 14 records, 1 unique values; top values: C57BL/6J (14)
+treatment: 14 records, 7 unique values; top values: 0h LPS (2), 4h LPS (2), 10h LPS (2), Dex 3h pre, 0h LPS (2), Dex 3h pre, 4h LPS (2), Dex 3h pre, 10h LPS (2), Dex late, 10h LPS (2)

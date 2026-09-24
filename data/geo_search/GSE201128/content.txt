@@ -1,0 +1,35 @@
+L1: The response to lipopolysaccharide (LPS) of bone marrow derived macrophages treated with oxysterol binding protein (OSBP) inhibitors
+L2: Bone marrow derived macrophages from C57BL/6 or Ch25h-/- mice (female) were treated with 25-hydroxycholesterol, itraconazole, or Osw-1 and then stimulated with lipopolysaccharide.
+L3: Comparative gene expression profiling by RNA-seq of bone marrow derived macrophages treated with 25-hydroxycholesterol, itraconazole, or Osw-1 and then stimulated with lipopolysaccharide.
+L4: GDS type: Expression profiling by high throughput sequencing
+Assay family: gene_expression
+Technology class: sequencing
+Release date: 2024-04-03
+Submission date: 2022-04-20
+Last update date: 2024-04-03
+L5: Organisms: Mus musculus
+Organism taxids: 10090
+L6: GPL24247 - Illumina NovaSeq 6000 (Mus musculus) (technology=high-throughput sequencing; organism=Mus musculus)
+L7: Sample count: 30
+Sample types: SRA
+Sample ID preview: GSM6051417; GSM6051418; GSM6051419; GSM6051420; GSM6051421; GSM6051422; GSM6051423; GSM6051424; GSM6051425; GSM6051426; GSM6051427; GSM6051428; GSM6051429; GSM6051430; GSM6051431; GSM6051432; GSM6051433; GSM6051434; GSM6051435; GSM6051436; GSM6051437; GSM6051438; GSM6051439; GSM6051440; GSM6051441; ... (5 more)
+Sample title preview: B6.none.none.0.1 (OSBP control); B6.none.none.0.2 (OSBP control); B6.none.none.0.3 (OSBP control); B6.pr25HC_5.none.0.1; B6.pr25HC_5.none.0.2; B6.pr25HC_5.none.0.3; B6.prItra_1.none.0.1; B6.prItra_1.none.0.2; B6.prItra_1.none.0.3; B6.prOsw_0.3.none.0.1; B6.prOsw_0.3.none.0.2; B6.prOsw_0.3.none.0.3; B6.none.LPS.18.1; B6.none.LPS.18.2; B6.none.LPS.18.3; B6.pr25HC_5.LPS.18.1; B6.pr25HC_5.LPS.18.2; B6.pr25HC_5.LPS.18.3; B6.prItra_1.LPS.18.1; B6.prItra_1.LPS.18.2; B6.prItra_1.LPS.18.3; B6.prOsw_0.3.LPS.18.1; B6.prOsw_0.3.LPS.18.2; B6.prOsw_0.3.LPS.18.3; Ch25h.none.none.0.1 (OSBP control)
+L8: Characteristics count: 153
+Condition-like value count: 108
+Characteristics tags: cell type; genotype; mouse; stimtime; stimulus; treatment
+cell type: 30 records, 1 unique values; top values: BMDM (30)
+genotype: 30 records, 2 unique values; top values: C57BL/6 (24), Ch25h-/- (6)
+stimtime: 30 records, 2 unique values; top values: 0 (15), 18 (15)
+treatment: 18 records, 3 unique values; top values: 25HC (6), itraconazole (6), OSW-1 (6)
+L9: BioProject: PRJNA828534
+SubSeries of: GSE201132
+BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA828534
+L10: level=series; owner=GSE201128; type=TSV; ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE201nnn/GSE201128/suppl/GSE201128_rawCounts.tsv.gz
+L11: FTP filelist status: ok
+File count: 1
+Total size bytes: 1048576
+Has raw TAR: False
+Has XLSX: False
+DE candidate files: 0
+File types: GZ=1
+GSE201128_rawCounts.tsv.gz (kind=File; type=GZ; size=1048576)

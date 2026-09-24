@@ -1,0 +1,1 @@
+L1: level=series; owner=GSE245834; type=TXT; ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE245nnn/GSE245834/suppl/GSE245834_inflammatory_naive_efferocytic_macrophages_normalized_counts.txt.gz

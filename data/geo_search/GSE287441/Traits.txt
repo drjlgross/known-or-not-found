@@ -1,0 +1,6 @@
+L1: Characteristics count: 18
+Condition-like value count: 18
+Characteristics tags: cell type; genotype; treatment
+cell type: 6 records, 1 unique values; top values: BMDM (6)
+genotype: 6 records, 1 unique values; top values: WT (6)
+treatment: 6 records, 3 unique values; top values: No treatment (2), LPS stimulated for 6h (2), LPS stimulated for 24h (2)

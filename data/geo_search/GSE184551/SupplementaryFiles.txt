@@ -1,0 +1,1 @@
+L1: level=series; owner=GSE184551; type=TXT; ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE184nnn/GSE184551/suppl/GSE184551_cas9mice-rsem.genes.counts.txt.gz

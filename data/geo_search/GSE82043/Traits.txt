@@ -1,0 +1,6 @@
+L1: Characteristics count: 72
+Condition-like value count: 54
+Characteristics tags: cell type; genotype/variation; strain background; treated with
+cell type: 18 records, 1 unique values; top values: Bone marrow-derived macrophages (18)
+genotype/variation: 18 records, 2 unique values; top values: WT (15), Irg1-/- (3)
+strain background: 18 records, 1 unique values; top values: C57BL/6 (18)

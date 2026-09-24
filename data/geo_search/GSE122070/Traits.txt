@@ -1,0 +1,6 @@
+L1: Characteristics count: 88
+Condition-like value count: 66
+Characteristics tags: cell type; passages; strain; treatment
+cell type: 22 records, 1 unique values; top values: Bone marrow-derived macrophages (22)
+strain: 22 records, 1 unique values; top values: Il10-/- C57BL/6 (22)
+treatment: 22 records, 10 unique values; top values: control (4), LPS 3h (2), IL-10 3h (2), LPS+IL-10 3h (2), LPS 6h (2), LPS+IL-10 6h (2), IL-10 6h (2), LPS 12h (2)

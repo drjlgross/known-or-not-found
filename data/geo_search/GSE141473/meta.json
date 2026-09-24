@@ -1,0 +1,26 @@
+{
+  "document_id": "GSE141473",
+  "title": "Setd2 reprograns lipid metabolism for the resolution of inflammation",
+  "summary": "Purpose: The goal of this study is to identify dynamic expression profiles of epigenetic genes in BMDMs induced by LPS for a time-course stimulaiton. Methods: We profiled RNA-seq in bone marrow-derived macrophages stimulated with LPS for 0h, 4h, 8h, 12h, 24h. Results: Epigenetic genes showed distinct expression patterns under LPS stimulation in different times",
+  "overall_design": "mBMDMs were stimulated with LPS for 0h, 4h, 8h, 12h, 24h, and then subjected to RNA seq.",
+  "source": "geo",
+  "assay_family": "gene_expression",
+  "technology_class": "sequencing",
+  "organisms": [
+    "Mus musculus"
+  ],
+  "organism_taxids": [
+    10090
+  ],
+  "platform_ids": [
+    "GPL23479"
+  ],
+  "n_samples": 5,
+  "pubmed_ids": null,
+  "bioproject": "PRJNA593580",
+  "release_date": "2022-11-13",
+  "release_year": 2022,
+  "last_update_date": "2022-11-13",
+  "total_blocks": 11,
+  "ftp_link": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE141nnn/GSE141473/"
+}

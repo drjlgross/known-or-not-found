@@ -1,0 +1,7 @@
+L1: Characteristics count: 60
+Condition-like value count: 48
+Characteristics tags: age; cell type; genotype; strain; treatment
+cell type: 12 records, 1 unique values; top values: PMs (12)
+genotype: 12 records, 2 unique values; top values: Lyz2Cre (6), Lyz2Cre-BHLHE40-Fl (6)
+strain: 12 records, 1 unique values; top values: C57BL/6 (12)
+treatment: 12 records, 2 unique values; top values: control (6), LPS (6)

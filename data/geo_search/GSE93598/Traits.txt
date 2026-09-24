@@ -1,0 +1,6 @@
+L1: Characteristics count: 64
+Condition-like value count: 48
+Characteristics tags: cell type; genotype/variation; stimulated with; strain
+cell type: 16 records, 1 unique values; top values: Bone marrow derived macrophages (16)
+genotype/variation: 16 records, 2 unique values; top values: wild type (8), Ikzf KO (8)
+strain: 16 records, 1 unique values; top values: C57BL/6J (16)

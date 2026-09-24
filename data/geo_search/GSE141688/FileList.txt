@@ -1,0 +1,8 @@
+L1: FTP filelist status: ok
+File count: 1
+Total size bytes: 2411724
+Has raw TAR: False
+Has XLSX: True
+DE candidate files: 1
+File types: XLSX=1
+GSE141688_deseq_results.xlsx (kind=File; type=XLSX; size=2411724)

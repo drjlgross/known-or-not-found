@@ -1,0 +1,34 @@
+L1: Macrophages from Rosa26-integrated Cas9-expressing C57BL/6 mice have a putative TRIF-mediated defect in the TLR-3/4 signaling
+L2: In this study, we report that the TLR4 ligand, LPS, and TLR3 ligand polyinosinic:polycytidylic acid failed to activate IRF3 or STAT1 in bone marrow–derived macrophages (BMMs) isolated from two independently generated lines of Rosa26-integrated Cas9-expressing C57BL/6J (B6) mice. RNA-sequencing analysis reveals that hundreds to thousands of genes including IFN-stimulated genes were differentially expressed in BMMs from these Cas9 strains compared with B6 upon LPS stimulation. Furthermore, the NF-kB signaling axis and TRIF-mediated necroptosis were also strongly reduced in response to LPS and polyinosinic:polycytidylic acid. In contrast, there were no defects in the responses of BMMs to ligands of the RIG-I, STING, TLR2, TLR9, and IFN receptors. Defects in TLR3 and TLR4 signaling were observed in mice with the B6 but not 129 background, and when Cas9 was integrated at the Rosa26 but not H11 locus. However, integration at the Rosa26 site, CAG promoter–driven Cas9 or eGFP were not individually sufficient to cause the defect. Taken together, the results of this study suggest a putative TRIF-mediated defect in TLR-3/4 signaling in BMMs from commercially available and widely used B6–Cas9–expressing mice. ImmunoHorizons, 2021, 5: 818–829.
+L3: RNA-seq analysis of bone marrow derived macrophages derived from wildtype and two Cas9-expressing mice upon stimulation with LPS.
+L4: GDS type: Expression profiling by high throughput sequencing
+Assay family: gene_expression
+Technology class: sequencing
+Release date: 2021-09-27
+Submission date: 2021-09-21
+Last update date: 2021-11-16
+L5: Organisms: Mus musculus
+Organism taxids: 10090
+L6: GPL19057 - Illumina NextSeq 500 (Mus musculus) (technology=high-throughput sequencing; organism=Mus musculus)
+L7: Sample count: 18
+Sample types: SRA
+Sample ID preview: GSM5592437; GSM5592438; GSM5592439; GSM5592440; GSM5592441; GSM5592442; GSM5592443; GSM5592444; GSM5592445; GSM5592446; GSM5592447; GSM5592448; GSM5592449; GSM5592450; GSM5592451; GSM5592452; GSM5592453; GSM5592454
+Sample title preview: B6-rep1-unstimulated; B6-rep2-unstimulated; B6-rep3-unstimulated; B6-rep1-stimulated; B6-rep2-stimulated; B6-rep3-stimulated; Cas9-FZ-rep1-unstimulated; Cas9-FZ-rep2-unstimulated; Cas9-FZ-rep3-unstimulated; Cas9-FZ-rep1-stimulated; Cas9-FZ-rep2-stimulated; Cas9-FZ-rep3-stimulated; Cas9-KR-rep1-unstimulated; Cas9-KR-rep2-unstimulated; Cas9-KR-rep3-unstimulated; Cas9-KR-rep1-stimulated; Cas9-KR-rep2-stimulated; Cas9-KR-rep3-stimulated
+L8: Characteristics count: 72
+Condition-like value count: 54
+Characteristics tags: age; strain; tissue; treatment
+strain: 18 records, 3 unique values; top values: C57BL/6J, Jax Stock: 000664 (6), Cas9 expressing mouse: Cas9-FZ : Jax Stock:026179 (6), Cas9 expressing mouse: Cas9-KR Jax Stock: 028555 (6)
+tissue: 18 records, 1 unique values; top values: Bone marrow (18)
+treatment: 18 records, 2 unique values; top values: untreated (9), 2hr after LPS treatment (9)
+L9: BioProject: PRJNA765024
+BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA765024
+SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP338097
+L10: level=series; owner=GSE184551; type=TXT; ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE184nnn/GSE184551/suppl/GSE184551_cas9mice-rsem.genes.counts.txt.gz
+L11: FTP filelist status: ok
+File count: 1
+Total size bytes: 1363148
+Has raw TAR: False
+Has XLSX: False
+DE candidate files: 0
+File types: GZ=1
+GSE184551_cas9mice-rsem.genes.counts.txt.gz (kind=File; type=GZ; size=1363148)

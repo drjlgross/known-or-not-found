@@ -1,0 +1,6 @@
+L1: Characteristics count: 36
+Condition-like value count: 36
+Characteristics tags: genotype; tissue; treatment
+genotype: 12 records, 2 unique values; top values: WT (6), Ythdf1 knockout (6)
+tissue: 12 records, 1 unique values; top values: Peritoneal macrophage (12)
+treatment: 12 records, 2 unique values; top values: PBS for 6 hours (6), LPS (1μg/mL) for 6 hours (6)

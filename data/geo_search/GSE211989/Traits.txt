@@ -1,0 +1,7 @@
+L1: Characteristics count: 48
+Condition-like value count: 48
+Characteristics tags: cell type; genotype; tissue; treatment
+cell type: 12 records, 1 unique values; top values: BMDM (12)
+genotype: 12 records, 2 unique values; top values: WT (6), NLRC3 KO (6)
+tissue: 12 records, 1 unique values; top values: mice femurs and tibias (12)
+treatment: 12 records, 2 unique values; top values: LPS (6), RPMI 1640 (6)

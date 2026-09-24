@@ -1,0 +1,8 @@
+L1: FTP filelist status: ok
+File count: 1
+Total size bytes: 4823449
+Has raw TAR: False
+Has XLSX: False
+DE candidate files: 0
+File types: GZ=1
+GSE250273_genecount.txt.gz (kind=File; type=GZ; size=4823449)

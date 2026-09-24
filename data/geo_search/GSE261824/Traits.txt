@@ -1,0 +1,7 @@
+L1: Characteristics count: 64
+Condition-like value count: 64
+Characteristics tags: cell type; genotype; tissue; treatment
+cell type: 16 records, 1 unique values; top values: macrophages (16)
+genotype: 16 records, 2 unique values; top values: Wt (8), T748A (8)
+tissue: 16 records, 2 unique values; top values: bone marrow (8), peritoneal cavity (8)
+treatment: 16 records, 2 unique values; top values: LPS 0 hrs (8), LPS 4 hrs (8)

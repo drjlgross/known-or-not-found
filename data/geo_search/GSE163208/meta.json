@@ -1,0 +1,26 @@
+{
+  "document_id": "GSE163208",
+  "title": "Histone methylation regulator PTIP orchestrates inflammatory responses via modulating acetylation state of cis-regulatory elements [BMDM-RNA-seq]",
+  "summary": "Innate immune cells including myeloid cells exhibit dynamic cellular switches during inflammatory and immune responses against infection. These processes are tightly regulated at different levels including the cis-regulatory elements of immune cells. However, it remains unclear how the dynamic states of cis-regulatory elements of innate immune cells are controlled during inflammatory responses. Here we found that histone methylation regulator PTIP orchestrates inflammatory responses of macrophages through regulating acetylation state of enhancers and promoters. Rapid elevated expression of PTIP is observed in primary human and mouse macrophages upon lipopolysaccharide (LPS) stimulation. Loss of PTIP represses transcription of pro-inflammatory genes, and activates expression of anti-inflammatory genes. Mechanistically, we found that, independent of its function in histone methylation, PTIP interacts with acetyltransferase p300 and deacetylase HDACs, and serves as a beacon to recruit them to specific sites of inflammatory genes respectively. PTIP deficiency alters H3K27 acetylation state of cis-regulatory elements of inflammatory genes. Moreover, PTIP and c-JUN shape a positive and feedforward regulatory circuit. In addition, PTIP deletion sustains immunosuppressive function of tumor-associated macrophages (TAMs) and promotes tumor growth. Overall, our findings uncover a critical role of PTIP in altering the acetylation state of cis-regulatory regions and fine-tuning the inflammatory responses of innate immune cells.",
+  "overall_design": "[BMDM-RNA-seq] This dataset contains RNAseq experiments of in vitro polarized bone marrow derived macrophages (BMDMs), with wildtype (PtipWT) or PtipcKO genotype. BMDMs were treated with LPS (100 ng/ml) for 0 or 6 hours. Cells were harvested for RNA for RNAseq with two biological replicates.",
+  "source": "geo",
+  "assay_family": "gene_expression",
+  "technology_class": "sequencing",
+  "organisms": [
+    "Mus musculus"
+  ],
+  "organism_taxids": [
+    10090
+  ],
+  "platform_ids": [
+    "GPL24247"
+  ],
+  "n_samples": 8,
+  "pubmed_ids": null,
+  "bioproject": "PRJNA685197",
+  "release_date": "2022-12-30",
+  "release_year": 2022,
+  "last_update_date": "2022-12-30",
+  "total_blocks": 11,
+  "ftp_link": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE163nnn/GSE163208/"
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "GSE278668",
+  "title": "Immunoresponsive Gene 1 Facilitates TLR4-agonist-Induced Augmentation of Innate Antimicrobial Immunity",
+  "summary": "Treatment with the toll-like receptor (TLR) 4 agonist monophosphoryl lipid A (MPLA) conditions innate immunocytes to respond robustly to subsequent infection, a phenotype termed innate immune memory. Our published studies show that metabolic reprogramming of macrophages is a prominent feature of the memory phenotype. We undertook studies to define the functional contributions of tricarboxylic acid (TCA) reprogramming to innate immune memory. We observed that MPLA potently induced expression of immunoresponsive gene 1 (Irg1) and accumulation of its byproduct, the TCA cycle metabolite itaconate, in macrophages. Treatment with MPLA enhanced microbial clearance in wild type (WT), but not Irg1-deficient, mice, demonstrating that itaconate contributes to the antimicrobial phenotype in vivo. Treatment with MPLA equally augmented innate leukocyte recruitment, phagocytosis, respiratory burst and cytokine responses in WT and Irg1-deficient innate leukocytes after infection. However, the ability of Irg1-deficient macrophages to kill Pseudomonas aeruginosa was impaired. We further observed that itaconate is directly antimicrobial against P. aeruginosa at pH 5, which is characteristic of the phagolysosome, and is facilitated by reactive oxygen species. RNA sequencing revealed suppressed transcription of genes associated with phagolysosome function in Irg1 deficient macrophages. This study identifies a contribution of itaconate to MPLA-induced augmentation of innate antimicrobial immunity via facilitation of microbial killing.",
+  "overall_design": "Bone marrow-derived macrophages from WT or Irg1KO (Jackson labs) C57BL/6 mice were treated with monophosphoyl lipid A (MPLA), lipopolysaccaride (LPS), vehicle (DMSO), or multiple treatments in sequence. We then performed gene expression profile analysis from 1-4 biological replicates per treatment at multiple timepoints. The effects on the transciptome were compared between groups. This data comes from 2 batches of RNA sequencing, and analysis of each batch was perfomed relative to its own vehicle controls. Samples 1-6, 15-20 and are a batch, as are samples 7-14, 21-26.",
+  "source": "geo",
+  "assay_family": "gene_expression",
+  "technology_class": "sequencing",
+  "organisms": [
+    "Mus musculus"
+  ],
+  "organism_taxids": [
+    10090
+  ],
+  "platform_ids": [
+    "GPL24247"
+  ],
+  "n_samples": 26,
+  "pubmed_ids": null,
+  "bioproject": "PRJNA1168170",
+  "release_date": "2024-10-09",
+  "release_year": 2024,
+  "last_update_date": "2024-10-09",
+  "total_blocks": 11,
+  "ftp_link": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE278nnn/GSE278668/"
+}

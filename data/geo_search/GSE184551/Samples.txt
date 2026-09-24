@@ -1,0 +1,4 @@
+L1: Sample count: 18
+Sample types: SRA
+Sample ID preview: GSM5592437; GSM5592438; GSM5592439; GSM5592440; GSM5592441; GSM5592442; GSM5592443; GSM5592444; GSM5592445; GSM5592446; GSM5592447; GSM5592448; GSM5592449; GSM5592450; GSM5592451; GSM5592452; GSM5592453; GSM5592454
+Sample title preview: B6-rep1-unstimulated; B6-rep2-unstimulated; B6-rep3-unstimulated; B6-rep1-stimulated; B6-rep2-stimulated; B6-rep3-stimulated; Cas9-FZ-rep1-unstimulated; Cas9-FZ-rep2-unstimulated; Cas9-FZ-rep3-unstimulated; Cas9-FZ-rep1-stimulated; Cas9-FZ-rep2-stimulated; Cas9-FZ-rep3-stimulated; Cas9-KR-rep1-unstimulated; Cas9-KR-rep2-unstimulated; Cas9-KR-rep3-unstimulated; Cas9-KR-rep1-stimulated; Cas9-KR-rep2-stimulated; Cas9-KR-rep3-stimulated

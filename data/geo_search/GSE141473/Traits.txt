@@ -1,0 +1,5 @@
+L1: Characteristics count: 20
+Condition-like value count: 10
+Characteristics tags: age; stain; time point; tissue
+time point: 5 records, 5 unique values; top values: 0h (1), 4h (1), 8h (1), 12h (1), 24h (1)
+tissue: 5 records, 1 unique values; top values: bone marrow (5)

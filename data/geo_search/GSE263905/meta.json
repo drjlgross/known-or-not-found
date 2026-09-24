@@ -1,0 +1,26 @@
+{
+  "document_id": "GSE263905",
+  "title": "Effect of murine RIPK1 T169A mutation to the LPS and LPS/5z7 response in bone marrow derived macrophages",
+  "summary": "RIPK1 plays an important role initiating inflammatory signaling downstream of TLR4 and TNFR1, acting as a polyubiquitinated scaffold for the recruitment and activation of NFkB and MAPK signaling. We geneerated a murine model inhibitng the autophosphorylation of threonine 169 (T169) on murine Ripk1 to determine the effect on cell death complex formation and caspase activation. Due to the dual role of RIPK1 in inflammatiton and cell death we first sought to confirm that tthis mutation did not disturb the scaffolding functions of RIPK1 and did not alter tthe inflammatory response after stimulation of TLR4.",
+  "overall_design": "We engineered a mouse with T169 substitution to alanine. BMDMs from B6 and RIPK1 T169A mutant knock in mice were collected and stimulated with LPS or LPS/5z7 for 2 hours.",
+  "source": "geo",
+  "assay_family": "gene_expression",
+  "technology_class": "sequencing",
+  "organisms": [
+    "Mus musculus"
+  ],
+  "organism_taxids": [
+    10090
+  ],
+  "platform_ids": [
+    "GPL16417"
+  ],
+  "n_samples": 18,
+  "pubmed_ids": null,
+  "bioproject": "PRJNA1099892",
+  "release_date": "2024-08-15",
+  "release_year": 2024,
+  "last_update_date": "2024-08-15",
+  "total_blocks": 11,
+  "ftp_link": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE263nnn/GSE263905/"
+}

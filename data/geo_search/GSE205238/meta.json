@@ -1,0 +1,26 @@
+{
+  "document_id": "GSE205238",
+  "title": "RNA sequencing of LPS-stimulated bone marrow-derived macrophages pre-treated with MB-3 or DMSO",
+  "summary": "We report the application of RNA sequencing technology for high-throughput profiling in mouse bone marrow-derived macrophages pre-treated with MB-3(50\u03bcM) or DMSO, and stimulated with LPS(100ng/ml) for 4 hours. The goal of this study is to search differential gene in indicated groups. Through differential gene analysis, we can find out the specific mechanism of MB-3 inhibits LPS-induced pro-inflammatory gene transcription but promotes the expression of gene involved in NRF2 pathway and anti-oxidation acitivity.",
+  "overall_design": "RNA sequencing of LPS-stimulated bone marrow-derived macrophages pre-treated with MB-3 or DMSO. Finding out differential gene.",
+  "source": "geo",
+  "assay_family": "gene_expression",
+  "technology_class": "sequencing",
+  "organisms": [
+    "Mus musculus"
+  ],
+  "organism_taxids": [
+    10090
+  ],
+  "platform_ids": [
+    "GPL24247"
+  ],
+  "n_samples": 4,
+  "pubmed_ids": null,
+  "bioproject": "PRJNA844226",
+  "release_date": "2023-06-01",
+  "release_year": 2023,
+  "last_update_date": "2023-08-01",
+  "total_blocks": 11,
+  "ftp_link": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE205nnn/GSE205238/"
+}

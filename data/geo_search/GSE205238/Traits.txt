@@ -1,0 +1,8 @@
+L1: Characteristics count: 20
+Condition-like value count: 20
+Characteristics tags: cell line; cell type; genotype; tissue; treatment
+cell line: 4 records, 1 unique values; top values: primary cell (4)
+cell type: 4 records, 1 unique values; top values: peritoneal macrophages (4)
+genotype: 4 records, 1 unique values; top values: wildtype C57BL/6 (4)
+tissue: 4 records, 1 unique values; top values: peritoneal cavity (4)
+treatment: 4 records, 2 unique values; top values: pre-treated with DMSO and stimulated with LPS for 4h (2), pre-treated with MB-3 and stimulated with LPS for 4h (2)

@@ -1,0 +1,7 @@
+L1: Characteristics count: 288
+Condition-like value count: 288
+Characteristics tags: cell type; strain; time point; treatment
+cell type: 50 records, 1 unique values; top values: Bone marrow-derived macrophages (50)
+strain: 50 records, 1 unique values; top values: C57BL/6 (50)
+time point: 50 records, 6 unique values; top values: 0h (10), 2h (8), 4h (8), 8h (8), 12h (8), 24h (8)
+treatment: 50 records, 6 unique values; top values: 20% O2 (12), 1% O2 (12), Concanamycin A (12), Differentiation in 20% O2 followed by 1% O2 for 12hours before and during LPS stimulation (10), Differentiation in 20% O2 followed by 1% O2 for 12hours (2), Bafilomycin A1 (2)

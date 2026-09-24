@@ -1,0 +1,10 @@
+L1: FTP filelist status: ok
+File count: 3
+Total size bytes: 156672
+Has raw TAR: False
+Has XLSX: True
+DE candidate files: 0
+File types: XLSX=3
+GSE255322_Neat1_KO_vs._WT_2h_LPS.xlsx (kind=File; type=XLSX; size=61440)
+GSE255322_Neat1_KO_vs._WT_4h_LPS.xlsx (kind=File; type=XLSX; size=61440)
+GSE255322_Neat1_KO_vs._WT_UN.xlsx (kind=File; type=XLSX; size=33792)

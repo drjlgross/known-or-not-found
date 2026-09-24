@@ -1,0 +1,3 @@
+L1: The response to lipopolysaccharide (LPS) of bone marrow derived macrophages treated with oxysterol binding protein (OSBP) inhibitors
+L2: Bone marrow derived macrophages from C57BL/6 or Ch25h-/- mice (female) were treated with 25-hydroxycholesterol, itraconazole, or Osw-1 and then stimulated with lipopolysaccharide.
+L3: Comparative gene expression profiling by RNA-seq of bone marrow derived macrophages treated with 25-hydroxycholesterol, itraconazole, or Osw-1 and then stimulated with lipopolysaccharide.

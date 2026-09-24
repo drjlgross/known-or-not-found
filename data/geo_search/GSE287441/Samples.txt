@@ -1,0 +1,4 @@
+L1: Sample count: 6
+Sample types: SRA
+Sample ID preview: GSM8745673; GSM8745674; GSM8745675; GSM8745676; GSM8745677; GSM8745678
+Sample title preview: Ribo-seq of 0h BMDM; Ribo-seq of LPS stimulated 6h WT BMDM; Ribo-seq of LPS stimulated 24h WT BMDM; RNA-seq of 0h BMDM; RNA-seq of LPS stimulated 6h WT BMDM; RNA-seq of LPS stimulated 24h WT BMDM

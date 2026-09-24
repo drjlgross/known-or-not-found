@@ -1,0 +1,28 @@
+{
+  "document_id": "GSE141688",
+  "title": "Inflammation drives alternative first exon usage of critical immune genes including Aim2 [RNA-seq]",
+  "summary": "Macrophage cells are essential components of the innate immune system and contain toll-like receptors (TLRs) that intiate the immune response when pathogen-associated molecular pattern molecules (PAMPs) are recognized. In this experiment, we stimulate TLR4 in bone marrow-derived macrophage cells with lipopolysaccharide (LPS) for 6 hours to simmulate inflammation and study the resulting differential splicing landscape and gene expression.",
+  "overall_design": "Unstimulated or LPS stimulated Primary Bone Marrow Derived Macrophages (BMDMs) from WT mice were collected and placed in Trizol. RNA was isolated and sequenced using Illumina.",
+  "source": "geo",
+  "assay_family": "gene_expression",
+  "technology_class": "sequencing",
+  "organisms": [
+    "Mus musculus"
+  ],
+  "organism_taxids": [
+    10090
+  ],
+  "platform_ids": [
+    "GPL21493"
+  ],
+  "n_samples": 6,
+  "pubmed_ids": [
+    "34047695"
+  ],
+  "bioproject": "PRJNA594369",
+  "release_date": "2021-06-02",
+  "release_year": 2021,
+  "last_update_date": "2021-09-01",
+  "total_blocks": 13,
+  "ftp_link": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE141nnn/GSE141688/"
+}

@@ -1,0 +1,28 @@
+{
+  "document_id": "GSE273173",
+  "title": "Trained Immunity Causes Myeloid Cell Hypercoagulability",
+  "summary": "Venous thromboembolism is common in individuals with chronic inflammatory diseases, but the pathogenic basis for this increased thrombotic risk remains poorly understood. Myeloid cell \u2018trained immunity\u2019 describes persistent innate immune cell memory arising from prior exposure to an inflammatory stimulus, leading to an enhanced immune response to subsequent unrelated stimuli. We identify enhanced myeloid cell prothrombotic activity as a novel maladaptive consequence of trained immunity. LPS stimulation of murine bone marrow-derived macrophages trained previously with either \u03b2-glucan or free haem exhibited significantly enhanced procoagulant and antifibrinolytic gene expression and activity compared to macrophages stimulated with LPS alone. The \u03b2-glucan training-mediated increase in activated myeloid cell procoagulant activity was mediated by enhanced acid sphingomyelinase-mediated tissue factor (TF) functional decryption. Furthermore, pre-treatment with methyltransferase and acetyltransferase inhibitors to erase epigenetic marks associated with innate immune memory diminished trained macrophage TF gene expression in \u03b2-glucan-trained macrophages. Functional analysis of splenic monocytes isolated from \u03b2-glucan-trained mice revealed enhanced procoagulant activity up to 4 weeks after \u03b2-glucan administration compared to monocytes from control mice over the same time period. Remarkably, monocyte procoagulant activity increased proportionately with time since \u03b2-glucan administration, before plateauing at 4 weeks. Furthermore, haematopoietic progenitor cells and bone marrow interstitial fluid isolated from \u03b2-glucan-trained mice possessed enhanced procoagulant activity compared to control mice. Trained immunity and associated metabolic perturbations may therefore represent novel therapeutic vulnerabilities in immunothrombotic disease development, opening new avenues for targeted intervention.",
+  "overall_design": "To investigate the role of trained immunity in modulating macrophage procoagulant function, we treated murine bone marrow derived macrophages (BMDMs) with whole glucan particle (WGP). After this cells were left for a rest period of 7 days before being rechallenged with lipopolysacharide (LPS). We then isolated RNA from untreated BMDMs, LPS-treated BMDMs and WGP+LPS BMDMs and performed RNA sequencing to compared gene expression between these treatment groups",
+  "source": "geo",
+  "assay_family": "gene_expression",
+  "technology_class": "sequencing",
+  "organisms": [
+    "Mus musculus"
+  ],
+  "organism_taxids": [
+    10090
+  ],
+  "platform_ids": [
+    "GPL24247"
+  ],
+  "n_samples": 12,
+  "pubmed_ids": [
+    "40053582"
+  ],
+  "bioproject": "PRJNA1140546",
+  "release_date": "2025-03-07",
+  "release_year": 2025,
+  "last_update_date": "2025-03-13",
+  "total_blocks": 12,
+  "ftp_link": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE273nnn/GSE273173/"
+}

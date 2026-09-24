@@ -1,0 +1,6 @@
+L1: Characteristics count: 96
+Condition-like value count: 72
+Characteristics tags: cell type; sex; strain; treatment
+cell type: 24 records, 1 unique values; top values: bone marrow-derived macrophage (BMDM) (24)
+strain: 24 records, 1 unique values; top values: C57BL/6J (24)
+treatment: 24 records, 8 unique values; top values: 6h control (3), 6h LPS (3), 6h 4-OHE1 (3), 6h both (3), 24h control (3), 24h LPS (3), 24h 4-OHE1 (3), 24h both (3)

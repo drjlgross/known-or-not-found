@@ -1,0 +1,13 @@
+L1: level=series; owner=GSE174141; type=TAR; ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE174nnn/GSE174141/suppl/GSE174141_RAW.tar
+level=sample; owner=GSM5287867; type=CSV; ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5287nnn/GSM5287867/suppl/GSM5287867_Control_1_Counts.csv.gz
+level=sample; owner=GSM5287868; type=CSV; ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5287nnn/GSM5287868/suppl/GSM5287868_Control_2_Counts.csv.gz
+level=sample; owner=GSM5287869; type=CSV; ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5287nnn/GSM5287869/suppl/GSM5287869_4h_1_Counts.csv.gz
+level=sample; owner=GSM5287870; type=CSV; ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5287nnn/GSM5287870/suppl/GSM5287870_4h_2_Counts.csv.gz
+level=sample; owner=GSM5287871; type=CSV; ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5287nnn/GSM5287871/suppl/GSM5287871_24h_1_Counts.csv.gz
+level=sample; owner=GSM5287872; type=CSV; ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5287nnn/GSM5287872/suppl/GSM5287872_24h_2_Counts.csv.gz
+level=sample; owner=GSM5287873; type=CSV; ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5287nnn/GSM5287873/suppl/GSM5287873_3dp_1_Counts.csv.gz
+level=sample; owner=GSM5287874; type=CSV; ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5287nnn/GSM5287874/suppl/GSM5287874_3dp_2_Counts.csv.gz
+level=sample; owner=GSM5287875; type=CSV; ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5287nnn/GSM5287875/suppl/GSM5287875_LPS_4hr_1_Counts.csv.gz
+level=sample; owner=GSM5287876; type=CSV; ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5287nnn/GSM5287876/suppl/GSM5287876_LPS_4hr_2_Counts.csv.gz
+level=sample; owner=GSM5287877; type=CSV; ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5287nnn/GSM5287877/suppl/GSM5287877_3dp_LPS_1_Counts.csv.gz
+level=sample; owner=GSM5287878; type=CSV; ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5287nnn/GSM5287878/suppl/GSM5287878_3dp_LPS_2_Counts.csv.gz

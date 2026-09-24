@@ -1,0 +1,2 @@
+date_utc	url	result	action
+2026-09-24T17:27Z	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE82nnn/GSE82043/matrix/GSE82043_series_matrix.txt.gz	FAILED: server returned HTML "Object not found!" page (not gzip); curl exited 0	file deleted 2026-09-24; not re-fetched (series already rejected)

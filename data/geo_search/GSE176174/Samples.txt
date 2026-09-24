@@ -1,0 +1,4 @@
+L1: Sample count: 12
+Sample types: SRA
+Sample ID preview: GSM5359372; GSM5359373; GSM5359374; GSM5359375; GSM5359376; GSM5359377; GSM5359378; GSM5359379; GSM5359380; GSM5359381; GSM5359382; GSM5359383
+Sample title preview: PMs, Lyz2Cre-Control-1; PMs, Lyz2Cre-Control-2; PMs, Lyz2Cre-Control-3; PMs, Lyz2Cre-LPS-1; PMs, Lyz2Cre-LPS-2; PMs, Lyz2Cre-LPS-3; PMs, Lyz2Cre-BHLHE40-Fl-Control-1; PMs, Lyz2Cre-BHLHE40-Fl-Control-2; PMs, Lyz2Cre-BHLHE40-Fl-Control-3; PMs, Lyz2Cre-BHLHE40-Fl-LPS-1; PMs, Lyz2Cre-BHLHE40-Fl-LPS-2; PMs, Lyz2Cre-BHLHE40-Fl-LPS-3

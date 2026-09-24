@@ -1,0 +1,24 @@
+L1: FTP filelist status: ok
+File count: 17
+Total size bytes: 25027711
+Has raw TAR: True
+Has XLSX: False
+DE candidate files: 0
+File types: FPKM_TRACKING=16; TAR=1
+GSE93598_RAW.tar (kind=Archive; type=TAR; size=12523520)
+GSM2458066_GH1280.genes.fpkm_tracking.gz (kind=File; type=FPKM_TRACKING; size=818662)
+GSM2458068_GH1281.genes.fpkm_tracking.gz (kind=File; type=FPKM_TRACKING; size=789124)
+GSM2458071_GH1282.genes.fpkm_tracking.gz (kind=File; type=FPKM_TRACKING; size=770764)
+GSM2458073_GH1283.genes.fpkm_tracking.gz (kind=File; type=FPKM_TRACKING; size=778017)
+GSM2458075_GH1284.genes.fpkm_tracking.gz (kind=File; type=FPKM_TRACKING; size=786789)
+GSM2458077_GH1285.genes.fpkm_tracking.gz (kind=File; type=FPKM_TRACKING; size=778568)
+GSM2458080_GH1286.genes.fpkm_tracking.gz (kind=File; type=FPKM_TRACKING; size=770758)
+GSM2458082_GH1287.genes.fpkm_tracking.gz (kind=File; type=FPKM_TRACKING; size=773462)
+GSM2458085_GH1288.genes.fpkm_tracking.gz (kind=File; type=FPKM_TRACKING; size=795948)
+GSM2458087_GH1289.genes.fpkm_tracking.gz (kind=File; type=FPKM_TRACKING; size=788777)
+GSM2458090_GH1290.genes.fpkm_tracking.gz (kind=File; type=FPKM_TRACKING; size=776092)
+GSM2458092_GH1291.genes.fpkm_tracking.gz (kind=File; type=FPKM_TRACKING; size=771281)
+GSM2458094_GH1292.genes.fpkm_tracking.gz (kind=File; type=FPKM_TRACKING; size=785586)
+GSM2458097_GH1293.genes.fpkm_tracking.gz (kind=File; type=FPKM_TRACKING; size=776055)
+GSM2458100_GH1294.genes.fpkm_tracking.gz (kind=File; type=FPKM_TRACKING; size=770812)
+GSM2458102_GH1295.genes.fpkm_tracking.gz (kind=File; type=FPKM_TRACKING; size=773496)

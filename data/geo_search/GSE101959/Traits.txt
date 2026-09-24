@@ -1,0 +1,7 @@
+L1: Characteristics count: 224
+Condition-like value count: 128
+Characteristics tags: age; cell type; gender; pre-treatment; stain; time; treatment
+cell type: 32 records, 1 unique values; top values: Bone Marrow-derived Marophages (32)
+pre-treatment: 32 records, 4 unique values; top values: Mock (8), A (8), C (8), D (8)
+time: 32 records, 2 unique values; top values: 4h (16), 8h (16)
+treatment: 32 records, 1 unique values; top values: LPS (32)

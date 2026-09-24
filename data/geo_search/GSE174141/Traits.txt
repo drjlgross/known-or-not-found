@@ -1,0 +1,6 @@
+L1: Characteristics count: 36
+Condition-like value count: 36
+Characteristics tags: cell type; strain; treatment
+cell type: 12 records, 1 unique values; top values: Macrophage (12)
+strain: 12 records, 1 unique values; top values: C57/BL6 (12)
+treatment: 12 records, 6 unique values; top values: Vehicle (2), 5ug/mL beta-glucan 4 hours (2), 5ug/mL beta-glucan 24 hours (2), 5ug/mL beta-glucan 24 hours followed by 3 days of rest (2), 4hr 100ng/mL LPS (2), 5ug/mL beta-glucan 24 hours followed by 3 days of rest and 6hr 100ng/mL LPS (2)

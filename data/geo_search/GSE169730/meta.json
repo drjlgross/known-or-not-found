@@ -1,0 +1,28 @@
+{
+  "document_id": "GSE169730",
+  "title": "Mitohormesis reprograms macrophage metabolism to enforce tolerance [BMDM_tolerance_RNAseq]",
+  "summary": "Macrophages generate mitochondrial reactive oxygen and electrophilic species (mtROS, mtRES) as antimicrobials during Toll-like receptor (TLR)-dependent inflammatory responses. Whether mitochondrial stress caused by these molecules impacts macrophage function is unknown. Here, we demonstrate that both pharmacologically- and lipopolysaccharide (LPS)-driven mitochondrial stress in macrophages triggers a stress response called mitohormesis. LPS-driven mitohormetic stress adaptations occur as macrophages transition from an LPS-responsive to LPS-tolerant state where stimulus-induced proinflammatory gene transcription is impaired, suggesting tolerance is a product of mitohormesis. Indeed, like LPS, hydroxyestrogen-triggered mitohormesis suppresses mitochondrial oxidative metabolism and acetyl-CoA production needed for histone acetylation and proinflammatory gene transcription, and is sufficient to enforce an LPS-tolerant state. Thus, mtROS and mtRES are TLR-dependent signaling molecules that trigger mitohormesis as a negative feedback mechanism to restrain inflammation via tolerance. Moreover, bypassing TLR signaling and pharmacologically triggering mitohormesis represents a novel anti-inflammatory strategy that co-opts this stress response to impair epigenetic support of proinflammatory gene transcription by mitochondria.",
+  "overall_design": "RNA-seq of primary bone marrow-derived macrophages (BMDMs) treated with LPS, 4-hydroxyestrone (4-OHE1), or both.",
+  "source": "geo",
+  "assay_family": "gene_expression",
+  "technology_class": "sequencing",
+  "organisms": [
+    "Mus musculus"
+  ],
+  "organism_taxids": [
+    10090
+  ],
+  "platform_ids": [
+    "GPL21103"
+  ],
+  "n_samples": 24,
+  "pubmed_ids": [
+    "34031590"
+  ],
+  "bioproject": "PRJNA717771",
+  "release_date": "2021-04-04",
+  "release_year": 2021,
+  "last_update_date": "2021-07-07",
+  "total_blocks": 13,
+  "ftp_link": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE169nnn/GSE169730/"
+}

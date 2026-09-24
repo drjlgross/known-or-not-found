@@ -1,0 +1,6 @@
+L1: Characteristics count: 36
+Condition-like value count: 36
+Characteristics tags: cell type; genotype; strain
+cell type: 12 records, 1 unique values; top values: bone marrow derived macrophages (BMDM) (12)
+genotype: 12 records, 1 unique values; top values: wild type (12)
+strain: 12 records, 1 unique values; top values: C57/Bl6 J (12)

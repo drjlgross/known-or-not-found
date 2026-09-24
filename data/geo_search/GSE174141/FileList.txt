@@ -1,0 +1,20 @@
+L1: FTP filelist status: ok
+File count: 13
+Total size bytes: 16045199
+Has raw TAR: True
+Has XLSX: False
+DE candidate files: 0
+File types: CSV=12; TAR=1
+GSE174141_RAW.tar (kind=Archive; type=TAR; size=8028160)
+GSM5287867_Control_1_Counts.csv.gz (kind=File; type=CSV; size=665844)
+GSM5287868_Control_2_Counts.csv.gz (kind=File; type=CSV; size=659976)
+GSM5287869_4h_1_Counts.csv.gz (kind=File; type=CSV; size=665063)
+GSM5287870_4h_2_Counts.csv.gz (kind=File; type=CSV; size=664641)
+GSM5287871_24h_1_Counts.csv.gz (kind=File; type=CSV; size=669859)
+GSM5287872_24h_2_Counts.csv.gz (kind=File; type=CSV; size=664063)
+GSM5287873_3dp_1_Counts.csv.gz (kind=File; type=CSV; size=660180)
+GSM5287874_3dp_2_Counts.csv.gz (kind=File; type=CSV; size=661157)
+GSM5287875_LPS_4hr_1_Counts.csv.gz (kind=File; type=CSV; size=665210)
+GSM5287876_LPS_4hr_2_Counts.csv.gz (kind=File; type=CSV; size=678540)
+GSM5287877_3dp_LPS_1_Counts.csv.gz (kind=File; type=CSV; size=681720)
+GSM5287878_3dp_LPS_2_Counts.csv.gz (kind=File; type=CSV; size=680786)

@@ -1,0 +1,37 @@
+L1: FTP filelist status: ok
+File count: 37
+Total size bytes: 25234644
+Has raw TAR: True
+Has XLSX: False
+DE candidate files: 0
+File types: TAB=36; TAR=1
+GSE181642_RAW.tar (kind=Archive; type=TAR; size=12636160)
+GSM5508725_conA-0h-1.tab.gz (kind=File; type=TAB; size=350629)
+GSM5508726_conA-0h-2.tab.gz (kind=File; type=TAB; size=350562)
+GSM5508727_conA-2h-1.tab.gz (kind=File; type=TAB; size=348729)
+GSM5508728_conA-2h-2.tab.gz (kind=File; type=TAB; size=348445)
+GSM5508729_conA-4h-1.tab.gz (kind=File; type=TAB; size=348399)
+GSM5508730_conA-4h-2.tab.gz (kind=File; type=TAB; size=348457)
+GSM5508731_conA-8h-1.tab.gz (kind=File; type=TAB; size=348226)
+GSM5508732_conA-8h-2.tab.gz (kind=File; type=TAB; size=349535)
+GSM5508733_conA-12h-1.tab.gz (kind=File; type=TAB; size=350797)
+GSM5508734_conA-12h-2.tab.gz (kind=File; type=TAB; size=349504)
+GSM5508735_conA-24h-1.tab.gz (kind=File; type=TAB; size=350662)
+GSM5508736_conA-24h-2.tab.gz (kind=File; type=TAB; size=350131)
+GSM5508737_Baf-0h-1.tab.gz (kind=File; type=TAB; size=352406)
+GSM5508738_Baf-0h-2.tab.gz (kind=File; type=TAB; size=349864)
+GSM5508739_Baf-2h-1.tab.gz (kind=File; type=TAB; size=349443)
+GSM5508740_Baf-2h-2.tab.gz (kind=File; type=TAB; size=348205)
+GSM5508741_Baf-4h-1.tab.gz (kind=File; type=TAB; size=350455)
+GSM5508742_Baf-4h-2.tab.gz (kind=File; type=TAB; size=347364)
+GSM5508743_Baf-8h-1.tab.gz (kind=File; type=TAB; size=350100)
+GSM5508744_Baf-8h-2.tab.gz (kind=File; type=TAB; size=348965)
+GSM5508745_Baf-12h-1.tab.gz (kind=File; type=TAB; size=348743)
+GSM5508746_Baf-12h-2.tab.gz (kind=File; type=TAB; size=349548)
+GSM5508747_Baf-24h-1.tab.gz (kind=File; type=TAB; size=350043)
+GSM5508748_Baf-24h-2.tab.gz (kind=File; type=TAB; size=349715)
+GSM5508749_DMSO-0h-1.tab.gz (kind=File; type=TAB; size=353293)
+GSM5508750_DMSO-0h-2.tab.gz (kind=File; type=TAB; size=353439)
+GSM5508751_DMSO-2h-1.tab.gz (kind=File; type=TAB; size=349139)
+GSM5508752_DMSO-2h-2.tab.gz (kind=File; type=TAB; size=350227)
+GSM5508753_DMSO-4h-1.tab.gz (kind=File; type=TAB; size=349383)

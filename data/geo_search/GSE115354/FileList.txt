@@ -1,0 +1,12 @@
+L1: FTP filelist status: ok
+File count: 5
+Total size bytes: 6214067
+Has raw TAR: True
+Has XLSX: False
+DE candidate files: 0
+File types: BROADPEAK=4; TAR=1
+GSE115354_RAW.tar (kind=Archive; type=TAR; size=3112960)
+GSM3176446_RH_148_peaks.broadPeak.gz (kind=File; type=BROADPEAK; size=577514)
+GSM3176447_RH_229_peaks.broadPeak.gz (kind=File; type=BROADPEAK; size=1048106)
+GSM3176449_RH_151_peaks.broadPeak.gz (kind=File; type=BROADPEAK; size=412302)
+GSM3176450_RH_231_peaks.broadPeak.gz (kind=File; type=BROADPEAK; size=1063185)

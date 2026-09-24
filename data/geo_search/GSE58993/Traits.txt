@@ -1,0 +1,5 @@
+L1: Characteristics count: 18
+Condition-like value count: 12
+Characteristics tags: day of culture; genotype/variation; strain
+genotype/variation: 6 records, 3 unique values; top values: wild type (2), Ch25hKO (2), LXRdKO (2)
+strain: 6 records, 1 unique values; top values: C57BL/6 (6)

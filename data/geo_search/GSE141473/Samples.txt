@@ -1,0 +1,4 @@
+L1: Sample count: 5
+Sample types: SRA
+Sample ID preview: GSM4204331; GSM4204332; GSM4204333; GSM4204334; GSM4204335
+Sample title preview: WT2_0h; WT2_4h; WT2_8h; WT2_12h; WT2_24h

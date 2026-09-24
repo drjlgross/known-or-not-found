@@ -1,0 +1,1 @@
+L1: level=series; owner=GSE287441; type=TXT; ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE287nnn/GSE287441/suppl/GSE287441_LPS_Ribo-seq_TPM.txt.gz

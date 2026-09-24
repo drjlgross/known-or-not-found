@@ -1,0 +1,13 @@
+L1: FTP filelist status: ok
+File count: 6
+Total size bytes: 36805014
+Has raw TAR: False
+Has XLSX: True
+DE candidate files: 4
+File types: XLSX=6
+GSE169730_BMDM_24h_Controlvs4OHE1_DESeq2.xlsx (kind=File; type=XLSX; size=7235174)
+GSE169730_BMDM_24h_ControlvsLPS_DESeq2.xlsx (kind=File; type=XLSX; size=7235174)
+GSE169730_BMDM_24h_LPS_4OHE1_both_rpkm.xlsx (kind=File; type=XLSX; size=3984588)
+GSE169730_BMDM_6h_Controlvs4OHE1_DESeq2.xlsx (kind=File; type=XLSX; size=7235174)
+GSE169730_BMDM_6h_ControlvsLPS_DESeq2.xlsx (kind=File; type=XLSX; size=7130316)
+GSE169730_BMDM_6h_LPS_4OHE1_both_rpkm.xlsx (kind=File; type=XLSX; size=3984588)

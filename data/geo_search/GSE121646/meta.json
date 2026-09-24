@@ -1,0 +1,28 @@
+{
+  "document_id": "GSE121646",
+  "title": "Expression data from WT and Klf3 KO BMDMs treated with LPS",
+  "summary": "Gene expression in bone marrow-derived macrophages (BMDMs) from WT and mice lacking the transcriptional repressor Kruppel-like factor 3 (KLF3). We cultured BMDMs from bone marrow for 7-10 days then treated cells with 100 ng/mL lipopolysaccharide (LPS) or vehicle (PBS) for 0 h or 8 h, followed by RNA extraction. We aimed to investigate deregulated genes and pathways in macrophages lacking KLF3, during the inflammatory response to endotoxin (LPS).",
+  "overall_design": "Bone marrow from 10-14 week-old male mice was flushed and cultured in DMEM-F12 (containing 10% serum and 1% antibiotics) and conditioned medium harvested from L929 cells (containing M-CSF) in a 80:20 ratio. After 7-10 days, adherent macrophages (BMDMs) were confluent and treated with 100 ng/mL LPS or vehicle (PBS), with samples harvested at 0 h (no treatment) or 8 h for RNA extraction. RNA was extracted from isolated cells using a Qiagen RNeasy Mini Kit then subjected to quality control using an Agilent 2100 Bioanalyzer. An Affymetrix 3\u2019 IVT Kit was used prior to microarrays which were performed on an Affymetrix GeneChip HT MG-430PM Array Plate.",
+  "source": "geo",
+  "assay_family": "gene_expression",
+  "technology_class": "array",
+  "organisms": [
+    "Mus musculus"
+  ],
+  "organism_taxids": [
+    10090
+  ],
+  "platform_ids": [
+    "GPL11180"
+  ],
+  "n_samples": 18,
+  "pubmed_ids": [
+    "32213596"
+  ],
+  "bioproject": "PRJNA497997",
+  "release_date": "2020-03-24",
+  "release_year": 2020,
+  "last_update_date": "2021-06-02",
+  "total_blocks": 12,
+  "ftp_link": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE121nnn/GSE121646/"
+}

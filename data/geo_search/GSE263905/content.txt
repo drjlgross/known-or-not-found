@@ -1,0 +1,33 @@
+L1: Effect of murine RIPK1 T169A mutation to the LPS and LPS/5z7 response in bone marrow derived macrophages
+L2: RIPK1 plays an important role initiating inflammatory signaling downstream of TLR4 and TNFR1, acting as a polyubiquitinated scaffold for the recruitment and activation of NFkB and MAPK signaling. We geneerated a murine model inhibitng the autophosphorylation of threonine 169 (T169) on murine Ripk1 to determine the effect on cell death complex formation and caspase activation. Due to the dual role of RIPK1 in inflammatiton and cell death we first sought to confirm that tthis mutation did not disturb the scaffolding functions of RIPK1 and did not alter tthe inflammatory response after stimulation of TLR4.
+L3: We engineered a mouse with T169 substitution to alanine. BMDMs from B6 and RIPK1 T169A mutant knock in mice were collected and stimulated with LPS or LPS/5z7 for 2 hours.
+L4: GDS type: Expression profiling by high throughput sequencing
+Assay family: gene_expression
+Technology class: sequencing
+Release date: 2024-08-15
+Submission date: 2024-04-13
+Last update date: 2024-08-15
+L5: Organisms: Mus musculus
+Organism taxids: 10090
+L6: GPL16417 - Illumina MiSeq (Mus musculus) (technology=high-throughput sequencing; organism=Mus musculus)
+L7: Sample count: 18
+Sample types: SRA
+Sample ID preview: GSM8207307; GSM8207308; GSM8207309; GSM8207310; GSM8207311; GSM8207312; GSM8207313; GSM8207314; GSM8207315; GSM8207316; GSM8207317; GSM8207318; GSM8207319; GSM8207320; GSM8207321; GSM8207322; GSM8207323; GSM8207324
+Sample title preview: B6 (A) unstimulated; B6 (A) LPS 2 hours; B6 (A) LPS/5z7 2 hours; B6 (B) unstimulated; B6 (B) LPS 2 hours; B6 (B) LPS/5z7 2 hours; B6 (C) unstimulated; B6 (C) LPS 2 hours; B6 (C) LPS/5z7 2 hours; T169A (D) unstimulated; T169A (D) LPS 2 hours; T169A (D) LPS/5z7 2 hours; T169A (E) unstimulated; T169A (E) LPS 2 hours; T169A (E) LPS/5z7 2 hours; T169A (F) unstimulated; T169A (F) LPS 2 hours; T169A (F) LPS/5z7 2 hours
+L8: Characteristics count: 54
+Condition-like value count: 54
+Characteristics tags: cell type; genotype; treatment
+cell type: 18 records, 1 unique values; top values: BMDM (18)
+genotype: 18 records, 2 unique values; top values: C57BL/6J (9), RIPK1 T169A (9)
+treatment: 18 records, 3 unique values; top values: Unstitm (6), LPS (6), LPS/5z7 (6)
+L9: BioProject: PRJNA1099892
+BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1099892
+L10: level=series; owner=GSE263905; type=CSV; ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE263nnn/GSE263905/suppl/GSE263905_featurecounts_results_formatted.csv.gz
+L11: FTP filelist status: ok
+File count: 1
+Total size bytes: 835584
+Has raw TAR: False
+Has XLSX: False
+DE candidate files: 0
+File types: GZ=1
+GSE263905_featurecounts_results_formatted.csv.gz (kind=File; type=GZ; size=835584)

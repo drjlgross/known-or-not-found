@@ -1,0 +1,4 @@
+L1: Sample count: 12
+Sample types: RNA
+Sample ID preview: GSM3165562; GSM3165563; GSM3165564; GSM3165565; GSM3165566; GSM3165567; GSM3165568; GSM3165569; GSM3165570; GSM3165571; GSM3165572; GSM3165573
+Sample title preview: Wild type macrophages_untreated_biological rep1; Wild type macrophages_untreated_biological rep2; Wild type macrophages_untreated_biological rep3; Wild type macrophages_LPS-IFNy stimulated_8h_biological rep1; Wild type macrophages_LPS-IFNy stimulated_8h_biological rep2; Wild type macrophages_LPS-IFNy stimulated_8h_biological rep3; Nos2-/- macrophages_untreated_biological rep1; Nos2-/- macrophages_untreated_biological rep2; Nos2-/- macrophages_untreated_biological rep3; Nos2-/- macrophages_LPS-IFNy stimulated_8h_biological rep1; Nos2-/- macrophages_LPS-IFNy stimulated_8h_biological rep2; Nos2-/- macrophages_LPS-IFNy stimulated_8h_biological rep3

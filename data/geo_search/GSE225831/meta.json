@@ -1,0 +1,28 @@
+{
+  "document_id": "GSE225831",
+  "title": "SOCS1 regulates a subset of NF\u03baB-target genes through direct chromatin binding and defines macrophage functional phenotypes (RNA-Seq).",
+  "summary": "Suppressor of cytokine signaling-1 (SOCS1) exerts control over inflammation by targeting p65 NF\u03baB for degradation in addition to its canonical role regulating cytokine signaling. We report here that SOCS1 does not operate on all p65 targets equally, instead localizing to a select subset of pro-inflammatory genes. Promoter-specific interactions of SOCS1 and p65 determine the subset of genes activated by NF\u03baB during systemic inflammation, with profound consequences for cytokine responses, immune cell mobilization, and tissue injury. Nitric oxide synthase-1 (NOS1)-derived NO is required and sufficient for displacement of SOCS1 from chromatin, permitting full transcriptional activation of these genes. Single cell transcriptomic analysis of NOS1-deficient animals led to the detection of a regulatory macrophage subset, which exerts potent suppression on inflammatory cytokine responses and tissue remodeling. These results provide the first example of a redox-sensitive, gene-specific mechanism for converting macrophages from cells that regulate inflammation to cells licensed to promote aggressive and potentially injurious inflammation.",
+  "overall_design": "Comparative gene expression profiling analysis of RNA-seq data for wild type (C65BL6) or NOS1 KO BMDM after treatment with LPS.",
+  "source": "geo",
+  "assay_family": "gene_expression",
+  "technology_class": "sequencing",
+  "organisms": [
+    "Mus musculus"
+  ],
+  "organism_taxids": [
+    10090
+  ],
+  "platform_ids": [
+    "GPL21103"
+  ],
+  "n_samples": 36,
+  "pubmed_ids": [
+    "37020964"
+  ],
+  "bioproject": "PRJNA937691",
+  "release_date": "2023-03-01",
+  "release_year": 2023,
+  "last_update_date": "2023-05-02",
+  "total_blocks": 12,
+  "ftp_link": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE225nnn/GSE225831/"
+}

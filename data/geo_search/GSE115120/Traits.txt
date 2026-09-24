@@ -1,0 +1,7 @@
+L1: Characteristics count: 42
+Condition-like value count: 42
+Characteristics tags: genotype; strain; tissue; treatment
+genotype: 12 records, 2 unique values; top values: Wild Type (6), Nos2-/- (6)
+tissue: 12 records, 1 unique values; top values: bone marrow derived macrophages (12)
+treatment: 12 records, 2 unique values; top values: before proinflammatory stimulation. (6), after 8h of proinflammatory stimulation. (6)
+strain: 6 records, 1 unique values; top values: C57BL6 (6)

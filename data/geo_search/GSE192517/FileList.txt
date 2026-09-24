@@ -1,0 +1,32 @@
+L1: FTP filelist status: ok
+File count: 25
+Total size bytes: 238853551
+Has raw TAR: True
+Has XLSX: False
+DE candidate files: 0
+File types: CEL=12; CHP=12; TAR=1
+GSE192517_RAW.tar (kind=Archive; type=TAR; size=119439360)
+GSM5750378_BMDM_Co_1.CEL.gz (kind=File; type=CEL; size=9718057)
+GSM5750378_BMDM_Co_1.chp.gz (kind=File; type=CHP; size=259954)
+GSM5750379_BMDM_Co_2.CEL.gz (kind=File; type=CEL; size=9669225)
+GSM5750379_BMDM_Co_2.chp.gz (kind=File; type=CHP; size=260081)
+GSM5750380_BMDM_Co_3.CEL.gz (kind=File; type=CEL; size=9795945)
+GSM5750380_BMDM_Co_3.chp.gz (kind=File; type=CHP; size=260140)
+GSM5750381_BMDM_LPS_1.CEL.gz (kind=File; type=CEL; size=9680637)
+GSM5750381_BMDM_LPS_1.chp.gz (kind=File; type=CHP; size=259988)
+GSM5750382_BMDM_LPS_2.CEL.gz (kind=File; type=CEL; size=9831145)
+GSM5750382_BMDM_LPS_2.chp.gz (kind=File; type=CHP; size=260069)
+GSM5750383_BMDM_LPS_3.CEL.gz (kind=File; type=CEL; size=9908307)
+GSM5750383_BMDM_LPS_3.chp.gz (kind=File; type=CHP; size=260119)
+GSM5750384_BMDM_Acini_1.CEL.gz (kind=File; type=CEL; size=9632577)
+GSM5750384_BMDM_Acini_1.chp.gz (kind=File; type=CHP; size=260151)
+GSM5750385_BMDM_Acini_2.CEL.gz (kind=File; type=CEL; size=9719638)
+GSM5750385_BMDM_Acini_2.chp.gz (kind=File; type=CHP; size=260067)
+GSM5750386_BMDM_Acini_3.CEL.gz (kind=File; type=CEL; size=9507093)
+GSM5750386_BMDM_Acini_3.chp.gz (kind=File; type=CHP; size=260157)
+GSM5750387_BMDM_Acini+Naf_1.CEL.gz (kind=File; type=CEL; size=9646014)
+GSM5750387_BMDM_Acini+Naf_1.chp.gz (kind=File; type=CHP; size=260000)
+GSM5750388_BMDM_Acini+Naf_2.CEL.gz (kind=File; type=CEL; size=9681261)
+GSM5750388_BMDM_Acini+Naf_2.chp.gz (kind=File; type=CHP; size=259967)
+GSM5750389_BMDM_Acini+Naf_3.CEL.gz (kind=File; type=CEL; size=9503560)
+GSM5750389_BMDM_Acini+Naf_3.chp.gz (kind=File; type=CHP; size=260039)

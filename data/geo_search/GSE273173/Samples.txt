@@ -1,0 +1,4 @@
+L1: Sample count: 12
+Sample types: SRA
+Sample ID preview: GSM8423463; GSM8423464; GSM8423465; GSM8423466; GSM8423467; GSM8423468; GSM8423469; GSM8423470; GSM8423471; GSM8423472; GSM8423473; GSM8423474
+Sample title preview: Untreated day 1, LPS-treated day 7, mouse 1; Untreated day 1, LPS-treated day 7, mouse 2; Untreated day 1, LPS-treated day 7, mouse 3; Untreated day 1, LPS-treated day 7, mouse 4; Untreated, mouse 1; Untreated, mouse 2; Untreated, mouse 3; Untreated, mouse 4; WGP day 1, LPS-treated day 7, mouse 1; WGP day 1, LPS-treated day 7, mouse 2; WGP day 1, LPS-treated day 7, mouse 3; WGP day 1, LPS-treated day 7, mouse 4

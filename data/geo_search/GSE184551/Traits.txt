@@ -1,0 +1,6 @@
+L1: Characteristics count: 72
+Condition-like value count: 54
+Characteristics tags: age; strain; tissue; treatment
+strain: 18 records, 3 unique values; top values: C57BL/6J, Jax Stock: 000664 (6), Cas9 expressing mouse: Cas9-FZ : Jax Stock:026179 (6), Cas9 expressing mouse: Cas9-KR Jax Stock: 028555 (6)
+tissue: 18 records, 1 unique values; top values: Bone marrow (18)
+treatment: 18 records, 2 unique values; top values: untreated (9), 2hr after LPS treatment (9)

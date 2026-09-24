@@ -1,0 +1,6 @@
+L1: Characteristics count: 24
+Condition-like value count: 24
+Characteristics tags: cell type; genotype; treatment
+cell type: 8 records, 1 unique values; top values: mouse primary macrophages (8)
+genotype: 8 records, 1 unique values; top values: C57BL/6 wildtype (8)
+treatment: 8 records, 4 unique values; top values: Control (2), 100 ng/mL LPS and 100 U/mL murine IFNg for 6 h (2), co-culture with apoptotic NIH-3T3 cells in a ratio of 1:5 for 16 h (2), co-culture with apoptotic NIH-3T3 cells in a ratio of 1:5 for 16 h, PBS wash, 100 ng/mL LPS and 100 U/mL murine IFNg for 6 h (2)

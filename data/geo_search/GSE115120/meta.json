@@ -1,0 +1,28 @@
+{
+  "document_id": "GSE115120",
+  "title": "Expression data of Bone Marrow Derived Macrophages (BMDM) from WT and Nos2-/- mice proinflammatory activated in vitro",
+  "summary": "Proinlfammatory stimulation of murine macrophages elicits profound metabolic changes. iNOS-derived Nitric oxide is both necessary and sufficient for the repression of OXPHOS during M1 polarization. Macrophages derived from mice lacking NOS2 display intact metabolic pathway and fail to rewire carbon fluxes. Since inflammation results in a very controlled genetic programme where specific sets of genes are up-regulated we aim to understand how this is affected in absence of this important endogenous gas responsible of the metabolic phenotype. We used microarrays to detail the global programme of gene expression underlying proinflammatory stimulation and identified distinct classes of differentially regulated genes during this process in absence of NOS2",
+  "overall_design": "WT and Nos2-/- BMDM were differentiated for 7 days and then treated with vehicle (PBS) or LPS and IFN\u03b3 for 8 hours. Total RNA was extracted from 3 different biological replicates for each group and Affymetrix Mouse Genome 430 2.0 Array was performed,",
+  "source": "geo",
+  "assay_family": "gene_expression",
+  "technology_class": "array",
+  "organisms": [
+    "Mus musculus"
+  ],
+  "organism_taxids": [
+    10090
+  ],
+  "platform_ids": [
+    "GPL1261"
+  ],
+  "n_samples": 12,
+  "pubmed_ids": [
+    "32019928"
+  ],
+  "bioproject": "PRJNA473827",
+  "release_date": "2019-12-10",
+  "release_year": 2019,
+  "last_update_date": "2020-02-10",
+  "total_blocks": 12,
+  "ftp_link": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE115nnn/GSE115120/"
+}

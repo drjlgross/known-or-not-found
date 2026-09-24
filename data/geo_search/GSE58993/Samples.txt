@@ -1,0 +1,4 @@
+L1: Sample count: 6
+Sample types: SRA
+Sample ID preview: GSM1423551; GSM1423552; GSM1423553; GSM1423554; GSM1423555; GSM1423556
+Sample title preview: WT_1; WT_2; Ch25hKO_1; Ch25hKO_2; LXRdKO_1; LXRdKO_2

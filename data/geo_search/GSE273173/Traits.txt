@@ -1,0 +1,8 @@
+L1: Characteristics count: 60
+Condition-like value count: 60
+Characteristics tags: cell line; cell type; genotype; tissue; treatment
+cell line: 12 records, 1 unique values; top values: Primary Cells (12)
+cell type: 12 records, 1 unique values; top values: bone marrow derived macrophages (12)
+genotype: 12 records, 1 unique values; top values: Wild type (12)
+tissue: 12 records, 1 unique values; top values: Bone marrow (12)
+treatment: 12 records, 3 unique values; top values: LPS treated (4), Untreated (4), Whole glucan-particle and LPS treated (4)

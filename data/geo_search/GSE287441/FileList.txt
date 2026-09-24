@@ -1,0 +1,8 @@
+L1: FTP filelist status: ok
+File count: 1
+Total size bytes: 1468006
+Has raw TAR: False
+Has XLSX: False
+DE candidate files: 0
+File types: GZ=1
+GSE287441_LPS_Ribo-seq_TPM.txt.gz (kind=File; type=GZ; size=1468006)

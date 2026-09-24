@@ -1,0 +1,3 @@
+L1: Genome-wide effect of ZBP1-mediated inflammatory response to LPS
+L2: We report the role of ZBP1 in mediating responses to LPS in the mouse macrophages.
+L3: Primary macrophages from wild type and ZBP1-deficient mice were activated for 4 hours with TNF.

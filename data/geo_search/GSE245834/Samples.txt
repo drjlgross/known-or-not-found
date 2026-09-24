@@ -1,0 +1,4 @@
+L1: Sample count: 8
+Sample types: SRA
+Sample ID preview: GSM7849773; GSM7849774; GSM7849775; GSM7849776; GSM7849777; GSM7849778; GSM7849779; GSM7849780
+Sample title preview: Ctrl_n1; Ctrl_n2; LPS_n1; LPS_n2; Eff_n1; Eff_n2; LPSEff_n1; LPSEff_n2

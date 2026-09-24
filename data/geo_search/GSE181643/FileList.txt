@@ -1,0 +1,37 @@
+L1: FTP filelist status: ok
+File count: 73
+Total size bytes: 50874877
+Has raw TAR: True
+Has XLSX: False
+DE candidate files: 0
+File types: TAB=72; TAR=1
+GSE181643_RAW.tar (kind=Archive; type=TAR; size=25466880)
+GSM5508689_WT_N_0h_1.tab.gz (kind=File; type=TAB; size=356686)
+GSM5508690_WT_N_0h_2.tab.gz (kind=File; type=TAB; size=356488)
+GSM5508691_WT_N_2h_1.tab.gz (kind=File; type=TAB; size=354025)
+GSM5508692_WT_N_2h_2.tab.gz (kind=File; type=TAB; size=354060)
+GSM5508693_WT_N_4h_1.tab.gz (kind=File; type=TAB; size=352845)
+GSM5508694_WT_N_4h_2.tab.gz (kind=File; type=TAB; size=352651)
+GSM5508695_WT_N_8h_1.tab.gz (kind=File; type=TAB; size=354861)
+GSM5508696_WT_N_8h_2.tab.gz (kind=File; type=TAB; size=354282)
+GSM5508697_WT_N_12h_1.tab.gz (kind=File; type=TAB; size=355331)
+GSM5508698_WT_N_12h_2.tab.gz (kind=File; type=TAB; size=354926)
+GSM5508699_WT_N_24h_1.tab.gz (kind=File; type=TAB; size=354245)
+GSM5508700_WT_N_24h_2.tab.gz (kind=File; type=TAB; size=353973)
+GSM5508701_WT_H_0h_1.tab.gz (kind=File; type=TAB; size=357243)
+GSM5508702_WT_H_0h_2.tab.gz (kind=File; type=TAB; size=357758)
+GSM5508703_WT_H_2h_1.tab.gz (kind=File; type=TAB; size=354823)
+GSM5508704_WT_H_2h_2.tab.gz (kind=File; type=TAB; size=355150)
+GSM5508705_WT_H_4h_1.tab.gz (kind=File; type=TAB; size=354994)
+GSM5508706_WT_H_4h_2.tab.gz (kind=File; type=TAB; size=354343)
+GSM5508707_WT_H_8h_1.tab.gz (kind=File; type=TAB; size=357434)
+GSM5508708_WT_H_8h_2.tab.gz (kind=File; type=TAB; size=357655)
+GSM5508709_WT_H_12h_1.tab.gz (kind=File; type=TAB; size=357718)
+GSM5508710_WT_H_12h_2.tab.gz (kind=File; type=TAB; size=358333)
+GSM5508711_WT_H_24h_1.tab.gz (kind=File; type=TAB; size=355363)
+GSM5508712_WT_H_24h_2.tab.gz (kind=File; type=TAB; size=354698)
+GSM5508713_WT_1_0h_1.tab.gz (kind=File; type=TAB; size=357951)
+GSM5508714_WT_1_0h_2.tab.gz (kind=File; type=TAB; size=358194)
+GSM5508715_WT_1_2h_1.tab.gz (kind=File; type=TAB; size=355630)
+GSM5508716_WT_1_2h_2.tab.gz (kind=File; type=TAB; size=355866)
+GSM5508717_WT_1_4h_1.tab.gz (kind=File; type=TAB; size=355545)

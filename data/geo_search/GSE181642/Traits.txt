@@ -1,0 +1,7 @@
+L1: Characteristics count: 144
+Condition-like value count: 144
+Characteristics tags: cell type; strain; time point; treatment
+cell type: 36 records, 1 unique values; top values: Bone marrow-derived macrophages (36)
+strain: 36 records, 1 unique values; top values: C57BL/6 (36)
+time point: 36 records, 6 unique values; top values: 0h (6), 2h (6), 4h (6), 8h (6), 12h (6), 24h (6)
+treatment: 36 records, 3 unique values; top values: Concanamycin A (12), Bafilomycin A1 (12), DMSO (12)

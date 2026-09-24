@@ -40,7 +40,7 @@ Downloads land in `./data/`. Tool output lands in `./results/`. Nothing is ever 
 - ClawBio checkout at `~/claw-bio-test/ClawBio/` (note the nested `ClawBio/` subdirectory). The skill is at `skills/rnaseq-de/rnaseq_de.py`.
 - `rnaseq_de.py` imports `clawbio.common`, so it must run with the ClawBio root on `PYTHONPATH` (or from the ClawBio root). Confirm in Chunk 1.
 - macOS: always invoke `python3`. Bare `python` is not on PATH (except inside an activated virtualenv).
-- Paperclip CLI authenticated. As of v0.5.8, `-s` is **mandatory** on `search`/`searches`; use `-s pmc,biorxiv,medrxiv,arxiv`. Verify `filter` syntax with `--help` before first use. `reduce` was previously unavailable here, so any cross-paper rollup happens in pandas.
+- Paperclip CLI authenticated. As of v0.5.8, `-s` is **mandatory** on `search`/`searches`; use `-s pmc,biorxiv,medrxiv,arxiv`. Verify `filter` syntax with `--help` before first use. `reduce` was previously unavailable here, so any cross-paper rollup happens in pandas. **Invoke paperclip through `src/pc.sh`**, which strips `.venv` from `PATH`. With the venv active, paperclip's `env python3` shebang picks up the venv Python, which lacks `requests`, and crashes.
 
 **rnaseq-de rules (load-bearing).**
 - **Force the backend:** always pass `--backend pydeseq2`. With the default `auto`, the skill **silently falls back to a simpler method** if PyDESeq2 is missing or crashes. Every run must confirm, from the output report or result files, which backend actually ran. If the report doesn't say, that's a finding for the Chunk 1 report.
@@ -61,6 +61,7 @@ README.md   # stub at Chunk 1, completed at Chunk 7
 **Conventions.**
 - The gene symbol is the join key between the DE table and the search results. Record species casing (mouse `Tnf` vs. human `TNF`) once in Chunk 2 and use it everywhere.
 - Everything reproducible: every output directory carries the command and inputs that made it.
+- **Every download is verified before use.** Run `gzip -t` on compressed files, and check the expected header or first line (e.g. a GTF's `##description` line, a count file's column header). An exit code of 0 from `curl` isn't enough: servers can return an HTML error page under the requested name. A failed download is logged as a failure (`data/geo_search/download_failures.tsv`) and deleted, never kept as a data file. Checksums of kept downloads go in `data/raw/download_checksums.sha256`.
 
 **Provenance ledger (minimal, so the demo stays the priority).** One file, `data/paper_ledger.tsv`, one row per paper per gene:
 `gene · query · search_id · date · rank · paper_id (PMCID/PMID/DOI as returned) · title · verdict (yes/no) · status (ok/error)`
@@ -148,8 +149,14 @@ Every citation in the demo table is a paper ID that appears as a yes row in the 
 3. Reduce N from 25 to 15 (and state the change in every output).
 The ledger's core columns and the error-not-zero rule are **not** scope levers. They stay even when everything else gets cut.
 
+## Held-out contrasts (post-demo, only if the pipeline works)
+GSE250273 has more arms than the demo uses. The demo uses only LPS 4 h (TrtB01–03) vs. control 4 h (Ctrl01–03). **Don't build or run these until the demo is done and the pipeline is verified:**
+- Dexamethasone vs. control, 4 h (TrtA vs. Ctrl)
+- Dex + LPS vs. LPS, 4 h (TrtAB vs. TrtB): what glucocorticoids change in the LPS response
+- The same contrasts at 24 h (Ctrl04–06, TrtA04–06, TrtB04–06, TrtAB04–06)
+
 ## Open decisions to resolve in flight
-- Which dataset (Chunk 2 gate).
+- ~~Which dataset (Chunk 2 gate).~~ Resolved: GSE250273, LPS 4 h vs. time-matched control (see `reports/chunk-2.md`).
 - The filter question's wording, and filter + set difference vs. map (Chunk 3 gate).
 - The final K and N (Chunk 3 speed check).
 - The bin thresholds (≥3 / 1–2 / 0 are defaults; revisit after seeing the Chunk 5 distribution).

@@ -1,0 +1,28 @@
+{
+  "document_id": "GSE115354",
+  "title": "Metabolic regulation of gene expression by histone lactylation",
+  "summary": "Cancer-augmented lactogenesis has been described by the Warburg effect, and is associated with several major hallmarks of neoplasia. However, the non-metabolic functions of elevated lactate in physiology and disease remain unknown. Here we report histone lysine lactylation as a new type of epigenetic mechanism and as a functional destination for lactate. Histone lactylation is induced under glycolytic conditions such as hypoxia and M1 macrophage polarization. In the late phase of M1 macrophage polarization, increases in histone lactylation but not acetylation mark M2-like genes for activation. Our findings suggest a feedback mechanism of the innate immune system to switch from proinflammation to resolution through histone Kla-associated gene expression. This mechanism is implemented by the coopted function of lactate and histone lactylation in metabolism and epigenetics. Together, our study opens a new avenue for understanding function of lactate and glycolysis underlined diverse pathophysiological conditions.",
+  "overall_design": "LPS and IFNg were used to induce M1 polarization of bone marrow-derived macrophage. After 24 hours of M1 polarization, ChIP-seq with spiked-in was carried out to study the genome-wide distribution and comparing H3K18la and H3K18ac marks in M0 and M1 macrophages. To study the correlation between histone marks and gene expression, mRNA dynamics at 0h, 4h, 8h, 16h, 24h after M1 polarization, and 8h, 16h, 24h after lactic acid treatment during the M1 polarization were measured by RNA-seq.",
+  "source": "geo",
+  "assay_family": "protein_dna_binding",
+  "technology_class": "sequencing",
+  "organisms": [
+    "Mus musculus"
+  ],
+  "organism_taxids": [
+    10090
+  ],
+  "platform_ids": [
+    "GPL21103"
+  ],
+  "n_samples": 38,
+  "pubmed_ids": [
+    "31645732"
+  ],
+  "bioproject": "PRJNA474681",
+  "release_date": "2019-08-06",
+  "release_year": 2019,
+  "last_update_date": "2019-10-28",
+  "total_blocks": 12,
+  "ftp_link": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE115nnn/GSE115354/"
+}

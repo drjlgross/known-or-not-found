@@ -1,0 +1,4 @@
+L1: Sample count: 4
+Sample types: SRA
+Sample ID preview: GSM6208932; GSM6208933; GSM6208934; GSM6208935
+Sample title preview: DMSO_1; DMSO_2; MB3_1; MB3_2

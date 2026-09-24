@@ -1,0 +1,6 @@
+L1: Characteristics count: 72
+Condition-like value count: 54
+Characteristics tags: cell type; genotype/variation; sex; strain
+cell type: 18 records, 1 unique values; top values: bone marrow-derived macrophages (18)
+genotype/variation: 18 records, 2 unique values; top values: WT (9), Klf3 KO (9)
+strain: 18 records, 1 unique values; top values: FVB/NJ (18)

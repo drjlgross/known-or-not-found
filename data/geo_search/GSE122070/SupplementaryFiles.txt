@@ -1,0 +1,2 @@
+L1: level=series; owner=GSE122070; type=XLS; ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE122nnn/GSE122070/suppl/GSE122070_Group1_Samples_processed_normalized_abundance.xls.gz
+level=series; owner=GSE122070; type=XLS; ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE122nnn/GSE122070/suppl/GSE122070_Group2_Samples_processed_normalized_abundance.xls.gz

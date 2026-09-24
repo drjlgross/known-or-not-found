@@ -1,0 +1,6 @@
+L1: Characteristics count: 54
+Condition-like value count: 54
+Characteristics tags: cell type; genotype; treatment
+cell type: 18 records, 1 unique values; top values: Primary bone marrow-derived macrophages (BMDM) (18)
+genotype: 18 records, 2 unique values; top values: Prep+/- (9), Prep-/- (9)
+treatment: 18 records, 3 unique values; top values: No treatment (6), LPS (50ng/ml) for 24hrs (6), IL4 (20 ng/ml) and IL13 (20ng/ml) for 24hrs (6)

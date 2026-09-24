@@ -1,0 +1,7 @@
+L1: Characteristics count: 157
+Condition-like value count: 149
+Characteristics tags: cell type; chip antibody; spike-in information; strain/background; time after lps/ifng treatment; treatment
+cell type: 38 records, 1 unique values; top values: Primary mouse bone marrow derived macrophages (BMDM) (38)
+strain/background: 38 records, 1 unique values; top values: C57BL/6 (38)
+time after lps/ifng treatment: 38 records, 5 unique values; top values: 24h (11), 8h (8), 16h (8), 0h (7), 4h (4)
+treatment: 35 records, 2 unique values; top values: LPS/IFNg (23), LPS/IFNg, lactic acid (LA) (12)

@@ -1,0 +1,20 @@
+L1: FTP filelist status: ok
+File count: 13
+Total size bytes: 96448801
+Has raw TAR: True
+Has XLSX: False
+DE candidate files: 0
+File types: CEL=12; TAR=1
+GSE33162_RAW.tar (kind=Archive; type=TAR; size=48230400)
+GSM821108_R683_5613-WT-0_MoGene-1_0-st-v1_.CEL.gz (kind=File; type=CEL; size=3968847)
+GSM821109_R683_5992-WT-0_MoGene-1_0-st-v1_.CEL.gz (kind=File; type=CEL; size=3873883)
+GSM821110_R683_5817-WT-0_MoGene-1_0-st-v1_.CEL.gz (kind=File; type=CEL; size=4189728)
+GSM821111_R683_5613-WT-4h_MoGene-1_0-st-v1_.CEL.gz (kind=File; type=CEL; size=3915496)
+GSM821112_R683_5992-WT-4h_MoGene-1_0-st-v1_.CEL.gz (kind=File; type=CEL; size=3753584)
+GSM821113_R683_5817-WT-4h_MoGene-1_0-st-v1_.CEL.gz (kind=File; type=CEL; size=4101342)
+GSM821114_R683_5993-KO-0_MoGene-1_0-st-v1_.CEL.gz (kind=File; type=CEL; size=4124934)
+GSM821115_R683_5784-KO-0_MoGene-1_0-st-v1_.CEL.gz (kind=File; type=CEL; size=4159776)
+GSM821116_R683_5994-KO-0_MoGene-1_0-st-v1_.CEL.gz (kind=File; type=CEL; size=3988426)
+GSM821117_R683_5993-KO-4h_MoGene-1_0-st-v1_.CEL.gz (kind=File; type=CEL; size=3975774)
+GSM821118_R683_5784-KO-4h_MoGene-1_0-st-v1_.CEL.gz (kind=File; type=CEL; size=4013749)
+GSM821119_R683_5994-KO-4h_MoGene-1_0-st-v1_2.CEL.gz (kind=File; type=CEL; size=4152862)

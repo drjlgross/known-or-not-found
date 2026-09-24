@@ -1,0 +1,12 @@
+2026-09-24T17:42:52Z
+=== src/pc.sh lookup pmid 38600378
+No documents found.
+[25ms]  [repo: mva-lof-molecular]
+=== src/pc.sh lookup title "Metabolic rewiring promotes anti-inflammatory effects of glucocorticoids"
+No documents found.
+[291ms]  [repo: mva-lof-molecular]
+=== src/pc.sh grep "GSE250273" /papers/
+No matches for /GSE250273/ across corpus (bounded scan — re-run with --exhaustive for a full-timeout scan)
+[results_id: s_aa3736e1]
+[exit 1]
+[151ms, saved to s_aa3736e1]  [repo: mva-lof-molecular]

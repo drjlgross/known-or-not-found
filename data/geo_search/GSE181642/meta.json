@@ -1,0 +1,28 @@
+{
+  "document_id": "GSE181642",
+  "title": "Lysosome activity-dependent changes of gene expression in BMDM after LPS treatment",
+  "summary": "We report changes of gene expression in lysosome-inhibited BMDM after LPS treatment.",
+  "overall_design": "RNA-seq analysis in BMDM treated with lysosome inhibitors after LPS treatment.",
+  "source": "geo",
+  "assay_family": "gene_expression",
+  "technology_class": "sequencing",
+  "organisms": [
+    "Mus musculus"
+  ],
+  "organism_taxids": [
+    10090
+  ],
+  "platform_ids": [
+    "GPL24247"
+  ],
+  "n_samples": 36,
+  "pubmed_ids": [
+    "38822028"
+  ],
+  "bioproject": "PRJNA752789",
+  "release_date": "2024-04-06",
+  "release_year": 2024,
+  "last_update_date": "2024-07-06",
+  "total_blocks": 12,
+  "ftp_link": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE181nnn/GSE181642/"
+}

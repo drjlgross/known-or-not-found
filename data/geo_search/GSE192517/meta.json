@@ -1,0 +1,28 @@
+{
+  "document_id": "GSE192517",
+  "title": "Evaluation of transcriptional changes of bone marrow derived macrophages (BMDM) in response to necrotic pancreatic acinar cells",
+  "summary": "To investigate the activation and polarisation of BMDMs during the course of pancreatitis, BMDMs were co-incubated with CCK-stimulated acinar cells (+/- the serine protease inhibitor nafamostat) for 6h in an in vitro experiment. The LPS treatment served as a positive control.",
+  "overall_design": "We used BMDMs isolated from C57Bl/6 mice which were maintained in the presence of 20ng MCSF over 7d until they were confluent. Co-incubation was performed with freshly prepared acinar cells from C57Bl/6 mice over 6h +/- Nafamostat. BMDMs were carefully washed before RNA Isolation. Transcriptome analyses were performed using individual RNA samples.",
+  "source": "geo",
+  "assay_family": "gene_expression",
+  "technology_class": "array",
+  "organisms": [
+    "Mus musculus"
+  ],
+  "organism_taxids": [
+    10090
+  ],
+  "platform_ids": [
+    "GPL16570"
+  ],
+  "n_samples": 12,
+  "pubmed_ids": [
+    "35922425"
+  ],
+  "bioproject": "PRJNA791688",
+  "release_date": "2022-03-01",
+  "release_year": 2022,
+  "last_update_date": "2022-08-16",
+  "total_blocks": 12,
+  "ftp_link": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE192nnn/GSE192517/"
+}

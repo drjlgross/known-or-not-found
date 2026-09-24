@@ -1,0 +1,28 @@
+{
+  "document_id": "GSE250273",
+  "title": "Metabolic rewiring promotes anti-inflammatory effects of glucocorticoids",
+  "summary": "Glucocorticoids represent the mainstay of therapy for a broad spectrum of immune-mediated inflammatory diseases (IMIDs). However, molecular mechanisms underlying their anti inflammatory mode of action have remained incompletely understood. Here we show that the anti-inflammatory properties of glucocorticoids involve a reprogramming of the mitochondrial metabolism of macrophages, which results in an increased and sustained production of the anti-inflammatory metabolite itaconate and a consequent inhibition of the inflammatory response. The glucocorticoid receptor interacts with parts of the pyruvate dehydrogenase complex where glucocorticoids provoke an increase in activity and allow an accelerated and paradoxical flux of the tricarboxylic acid (TCA) cycle in otherwise pro-inflammatory macrophages. This glucocorticoid-mediated rewiring of mitochondrial metabolism potentiates TCA cycle-dependent production of itaconate throughout the inflammatory response, thereby interfering with the production of pro-inflammatory cytokines. Artificial block of the TCA cycle or genetic deficiency in aconitate decarboxylase 1, the rate-limiting enzyme of itaconate synthesis, in contrast, interferes with the anti-inflammatory effects of glucocorticoids and accordingly abrogates their beneficial effects during a diverse range of preclinical models of IMIDs. Our findings provide important additional insights into the anti-inflammatory properties of glucocorticoids and have substantial implications for the future design of novel classes of anti-inflammatory drugs.",
+  "overall_design": "To investigate the time dependant anti inflammatory effect of glucocortidcoids we performed RNA sequencing of LPS treated bone marrow derived macrophages in the absence and presence of glucocorticoids of Wildtype mice at 4h and 24h post stimulation",
+  "source": "geo",
+  "assay_family": "gene_expression",
+  "technology_class": "sequencing",
+  "organisms": [
+    "Mus musculus"
+  ],
+  "organism_taxids": [
+    10090
+  ],
+  "platform_ids": [
+    "GPL24247"
+  ],
+  "n_samples": 24,
+  "pubmed_ids": [
+    "38600378"
+  ],
+  "bioproject": "PRJNA1053278",
+  "release_date": "2024-02-19",
+  "release_year": 2024,
+  "last_update_date": "2024-05-10",
+  "total_blocks": 12,
+  "ftp_link": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE250nnn/GSE250273/"
+}

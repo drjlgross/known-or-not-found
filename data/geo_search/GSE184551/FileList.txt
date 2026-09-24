@@ -1,0 +1,8 @@
+L1: FTP filelist status: ok
+File count: 1
+Total size bytes: 1363148
+Has raw TAR: False
+Has XLSX: False
+DE candidate files: 0
+File types: GZ=1
+GSE184551_cas9mice-rsem.genes.counts.txt.gz (kind=File; type=GZ; size=1363148)

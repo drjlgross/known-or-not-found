@@ -1,0 +1,8 @@
+L1: Characteristics count: 48
+Condition-like value count: 48
+Characteristics tags: cell type; genotype; strain; time; treatment
+cell type: 12 records, 1 unique values; top values: bone marrow-derived macrophages (12)
+genotype: 12 records, 2 unique values; top values: KSRP+/- (6), KSRP-/- (6)
+strain: 12 records, 1 unique values; top values: B6-KSRP+/- (12)
+time: 6 records, 1 unique values; top values: 6h (6)
+treatment: 6 records, 1 unique values; top values: 1 ug/ul LPS (6)
