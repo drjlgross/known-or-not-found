@@ -130,7 +130,12 @@ README.md   # stub at Chunk 1, completed at Chunk 7
 
 ### Chunk 4: Run DE on the real dataset ⛔
 **Goal:** A trustworthy ranked table of LPS-induced genes.
-**Produces:** `results/de/lps/` (skill bundle, `--backend pydeseq2`); the top K = 50 induced genes (by adjusted p-value, filtered to positive log2 fold change) in `data/top_genes.csv`.
+**Produces:** `results/de/lps/` (skill bundle, `--backend pydeseq2`); the top K = 50 induced genes in `data/top_genes.csv`.
+**Selection rule (decided 2026-09-25):**
+- **Eligible:** protein-coding genes only (`gene_type == protein_coding` in `data/gene_map.csv`) with a real MGI symbol. Gm/Rik placeholders and `|ENSMUSG`-suffixed duplicates are excluded, because genes with no literature by construction would inflate "not found".
+- **Filter:** padj < 0.05 and log2FC > 0.
+- **Order:** padj ascending; ties (e.g. padj at the numeric floor) broken by larger log2FC.
+- **Record:** `top_genes.csv` stores rank, gene, baseMean, log2FC and padj, plus the count of genes excluded by the eligibility rule that would otherwise have ranked in the top 50.
 **Done when:** the DE run completes and the backend is confirmed.
 **GATE: positive controls.** Canonical LPS genes appropriate to the dataset's time point (e.g., Tnf, Il1b, Il6, Cxcl10, Nos2) come out strongly induced, and the PCA separates LPS from control. Report each control's fold change and adjusted p-value. If the controls fail, stop: it's wiring or data, not biology.
 
@@ -157,12 +162,12 @@ README.md   # stub at Chunk 1, completed at Chunk 7
 2. **Confirm the bin by hand.**
    - For every gene with at least one yes, go through its yes rows in rank order and confirm or reject each one, stopping at 3 confirmed or when the yes rows run out.
    - The bin comes from the **confirmed** count: established needs 3 confirmed.
-   - Claude drafts each call with a one-line reason and the quotes. I confirm or override. Only calls I've approved are used.
+   - Claude drafts each call with a one-line reason and the quotes. A human team member confirms or overrides it and is recorded in the `reviewer` column. Only human-approved calls are used.
    - Calls live in `data/review_verdicts.tsv` (gene · paper_id · call (confirm/reject) · reason · reviewer). The confirmed count is derived by script from the ledger plus this file, never typed.
    - A confirmed yes must fit the question: the paper's own data, LPS or bacterial infection (not another stimulus or a protozoan), a change in *this* gene against an unstimulated control (not a knockout-vs-wild-type comparison), and not a background statement or review.
    - Any gene whose bin differs between the model count and the confirmed count, or between `yes_before_checks` and the model count, is listed in the report.
 **Optional (cut first if time runs short):** for established genes, extract the reported direction (up/down) from a small set of qualifying papers and compute the direction-agreement rate with the dataset. List every disagreement.
-**Done when:** every gene is binned from its confirmed count, every call in `data/review_verdicts.tsv` has my approval, and bin counts are in the report.
+**Done when:** every gene is binned from its confirmed count, every call in `data/review_verdicts.tsv` has a human team member's approval, and bin counts are in the report.
 **Watch:** hand-spot-check 3 genes end to end (search → filter calls → count → bin) before trusting the table.
 
 ### Chunk 7: Demo artifact
