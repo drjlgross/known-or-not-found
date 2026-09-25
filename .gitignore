@@ -17,3 +17,9 @@ results/de/*/tables/normalized_counts.csv
 
 # search_gene.py ledger lock files
 *.lock
+
+# deck build tooling
+deck/node_modules/
+deck/package*.json
+deck/*.pdf
+deck/slide-*.jpg
