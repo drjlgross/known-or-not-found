@@ -1,0 +1,21 @@
+{
+  "gene": "Hdc",
+  "query": "Hdc (histidine decarboxylase) LPS macrophage",
+  "also": [],
+  "mode": "filter",
+  "strict": false,
+  "question": "Does this paper describe the expression of the gene Hdc changing in response to LPS or bacterial infection?",
+  "date": "2026-09-24T22:58:25Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_55621cf4",
+  "judge_id": "s_55621cf4",
+  "parent_n": 25,
+  "yes": 2,
+  "downgraded": 0,
+  "no": 23,
+  "paper_errors": 0,
+  "seconds_search": 9.7,
+  "seconds_judge": 1.4,
+  "seconds_total": 11.1
+}

@@ -1,0 +1,21 @@
+{
+  "gene": "Hdc",
+  "query": "Hdc (histidine decarboxylase) LPS macrophage",
+  "also": [],
+  "mode": "map",
+  "strict": true,
+  "question": "Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Hdc (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes in response to LPS or bacterial infection? Answer yes or no. If yes, quote the sentence reporting that result; it must name the gene or its protein. Use an empty string if no.",
+  "date": "2026-09-24T19:08:44Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_51689a9b",
+  "judge_id": "m_b30b2045",
+  "parent_n": 25,
+  "yes": 2,
+  "downgraded": 7,
+  "no": 23,
+  "paper_errors": 0,
+  "seconds_search": 3.9,
+  "seconds_judge": 17.3,
+  "seconds_total": 21.1
+}

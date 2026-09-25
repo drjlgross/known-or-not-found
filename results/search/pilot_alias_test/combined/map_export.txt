@@ -1,0 +1,4 @@
+$ src/pc.sh results m_e477b659 --save results/search/pilot_alias_test/combined/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/pilot_alias_test/combined/map_answers.txt
+

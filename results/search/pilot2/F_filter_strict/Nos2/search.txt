@@ -1,0 +1,290 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Nos2 (nitric oxide synthase 2, inducible) LPS macrophage
+# exit 0
+Found 25 papers  [s_16b7f2c3]
+
+  1. “Of Mice and Men”: Arginine Metabolism in Macrophages
+     Anita C. Thomas; Joshua T. Mattila
+     PMC4188127 · PMC · 2014-10-07 · 163 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4188127/
+     Matched: Why is there Controversy? · cat /papers/PMC4188127/content.lines --lines 23-33
+     │ Monocyte/macrophage cell line (U937) | Mono-mac | ?d LPS and/or IFNγ | Transcription run-on
+     │ assay | | No induction of NOS2 gene transcription (for that particular region of the
+     │ promoter region) | (33) Monocyte/macrophage cell line (U937) | Mono-mac | 1d
+     │ selenomethionine and 1d LPS and/or IFNγ | Griess, RNA Western | | Selenomethionine ↓LPS-
+     │ induced NOS2 expression (RNA and protein) and nitrite production | (34) Blood monocytes,
+     │ peritoneal macrophages | Mono-mac, macrophage | ?d culture, 2d LPS, IFNγ, or TNFα/GM-CSF |
+     │ Griess, amino acid HPLC | | No nitrite, ornithine, citrulline production, no arginine
+     │ consumption | (22) Blood monocytes, peritoneal macrophages | Monocyte, mono-mac | 0d or 3d …
+
+  2. Nitric oxide produced by NOS2 copes with the cytotoxic effects of superoxide in macrophages
+     Sho Kobayashi; Takujiro Homma; Junichi Fujii
+     PMC7905073 · PMC · 2021-02-20 · 9 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7905073/
+     Matched: NO production was elevated in WT and SOD1-deficient macrophages upon L · cat /papers/PMC7905073/content.lines --lines 61-62
+     │ We then examined the expression of enzymes responsible for the production of or the
+     │ scavenging of NO and superoxide; NOS2, SOD1, SOD2 and COX2. NOX2 was not examined because
+     │ post-translational modification by inflammatory stimuli is involved in this activation [5].
+     │ While the NOS2 protein was barely detected in cells that had been cultivated in conventional
+     │ media, LPS stimulation induced NOS2 expression in WT and SOD1KO macrophages but not in
+     │ NOS2KO or DKO macrophages (Fig. 2A). The COX2 protein was induced to differential extents in
+     │ these cells after the LPS treatment but was not associated with viability of the cells. The
+     │ SOD1 protein was constitutively present in WT and NOS2KO macrophages …
+     "This study investigated the role of nitric oxide (NO) in protecting macrophages from superoxide toxicity. NO produced by NOS2 was found to counteract superoxide's cytotoxic effects, particularly under inflammatory conditions."
+
+  3. Species-Specific Transcriptional Regulation of Genes Involved in Nitric Oxide Production and Arginine Metabolism in Macrophages
+     Rachel Young; Stephen J. Bush; Lucas Lefevre; Mary E. B. McCulloch; Zofia M. Lisowski; Charity Muriu...
+     PMC6245571 · PMC · 2018-11-05 · 52 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6245571/
+     Matched: Discussion · cat /papers/PMC6245571/content.lines --lines 45-46
+     "This study analyzed gene expression related to nitric oxide production in macrophages from various species. Macrophage responses to LPS stimulation, including NOS2 induction, are not conserved across species and may be influenced by retrotransposon insertions."
+
+  4. Lipopolysaccharide-Induced Nitric Oxide and Prostaglandin E2 Production Is Inhibited by Tellimagrandin II in Mouse and Human Macrophages
+     Chun-Yu Lin; Shih-Han Kao; Ling-Chien Hung; Hsin-Ju Chien; Wen-Hung Wang; Yu-Wei Chang; Yen-Hsu Chen
+     PMC8146495 · PMC · 2021-04-30 · 26 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8146495/
+     Matched: 3.2. TGII Reduces LPS-Stimulated NO Production in Macrophages by Regul · cat /papers/PMC8146495/content.lines --lines 40
+     "Tellimagrandin II was studied for its anti-inflammatory effects on macrophages stimulated by lipopolysaccharide. TGII significantly inhibited nitric oxide and prostaglandin E2 production by reducing key inflammatory signaling pathways."
+
+  5. Dataset on the differentiation of THP-1 monocytes to LPS inducible adherent macrophages and their capacity for NO/iNOS signaling
+     Adem Ozleyen; Yakup Berkay Yilmaz; Tugba Boyunegmez Tumer
+     PMC7851796 · PMC · 2021-01-21 · 26 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7851796/
+     Matched: Data Description · cat /papers/PMC7851796/content.lines --lines 27-38
+     │ Table 1: The Ct values of pro-inflammatory genes in control and LPS-stimulated macrophage-
+     │ like THP-1 cells. | Ct Values | Ct Values Genes | Non-treated group | LPS-treated group
+     │ TNF-α | 30.39 ± 0.58 | 27.32 ± 0.92 IL-1β | 24.84 ± 1.62 | 20.53 ± 1.75 COX-2 | 29.54 ± 0.98
+     │ | 27.07 ± 0.36 Nitric oxide (NO) is synthesized through the catalytic action of nitric oxide
+     │ synthase (NOS) [5]. Mainly, three genes found in different chromosomes encode the NOS
+     │ isoforms called endothelial NOS, neuronal NOS, and inducible NOS (iNOS) [6]. Apart from
+     │ others, the expression of iNOS is triggered by various inflammatory stimuli such as
+     │ bacterial lipopolysaccharides (LPS) and cytokines (IL-1β, TNF-α, IFN-γ, and …
+     "This study details optimized conditions for differentiating THP-1 monocytes into adherent macrophages and inducing inflammatory responses. The differentiated cells exhibit significant NO/iNOS signaling and altered expression of pro-inflammatory genes upon LPS stimulation."
+
+  6. A Defective TLR4 Signaling for IFN-β Expression Is Responsible for the Innately Lower Ability of BALB/c Macrophages to Produce NO in Response to LPS as Compared to C57BL/6
+     Luciana S. Oliveira; Nina M. G. P. de Queiroz; Laura V. S. Veloso; Thaís G. Moreira; Fernanda S. Oli...
+     PMC4049611 · PMC · 2014-06-09 · 12 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4049611/
+     Matched: Differential production of NO in C57BL/6 and BALB/c macrophages correl · cat /papers/PMC4049611/content.lines --lines 43-44
+     │ We next investigated whether the LPS-induced differential production of NO by C57BL/6 and
+     │ BALB/c macrophages was due to differences in the levels of iNOS. We showed by Western blot
+     │ that LPS induces a strong expression of iNOS (130 kDa) (Fig. 3A) in C57BL/6 macrophages,
+     │ detected as early as 6 h (Fig. 3B). The production of iNOS in C57BL/6 macrophages continues
+     │ to increase over the next 42 h, and by 72 h it is again undetectable, probably due to the
+     │ low cell metabolism. At the peak points, the expression of iNOS in C57BL/6 macrophages is,
+     │ depending on the experiment, 3-7-fold higher than that of BALB/c macrophages, which barely
+     │ express the protein (Fig. 3B) and never reach comparable levels …
+     "BALB/c macrophages produce less NO than C57BL/6 macrophages upon LPS stimulation due to a defective TLR4-induced IFN-β signaling pathway. This defect impairs STAT-1 activation, leading to lower iNOS mRNA and protein levels."
+
+  7. Neutrophilic granule protein promotes lipopolysaccharide-induced iNOS/NO expression via JAK2/STAT1 signaling pathway and augments bacteria clearance of macrophages
+     Lixing Tian; Shuangqin Yin; Jing Wang; Hongyan Xiao; Tianyin Kuang; Li Luo; Shengxiang Ao; Jing Zhou...
+     PMC12592619 · PMC · 2025-11-06 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12592619/
+     Matched: RNA sequencing revealed that Nos2 (iNOS gene) and NGP exhibited positi · cat /papers/PMC12592619/content.lines --lines 55-56
+     │ Our previous study demonstrated that NGP is upregulated in activated macrophages and
+     │ mitigates the pro-inflammatory response during LPS challenge, suggesting a potential role of
+     │ NGP in regulating innate immune [27]. Given the critical role of iNOS/NO in macrophages
+     │ pathogen defense, however, the regulatory impact of NGP on iNOS/NO remains unknown. To
+     │ further explore the underlying role of NGP involved in LPS-induced iNOS/NO expression in
+     │ macrophages, NGP gene-edited RAW cell lines were constructed in collaboration with Genechem
+     │ Co., Ltd and subjected to RNA-seq analysis. The results showed that 220 DEGs were
+     │ upregulated in response to LPS challenge, among which the expression level of iNOS …
+     "Neutrophilic granule protein (NGP) was studied for its role in macrophage response to lipopolysaccharide (LPS). NGP enhances LPS-induced nitric oxide production via the JAK2/STAT1 pathway, promoting bacterial clearance."
+
+  8. Pheophytin a Inhibits Inflammation via Suppression of LPS-Induced Nitric Oxide Synthase-2, Prostaglandin E2, and Interleukin-1β of Macrophages
+     Chun-Yu Lin; Chien-Hsing Lee; Yu-Wei Chang; Hui-Min Wang; Chung-Yi Chen; Yen-Hsu Chen
+     PMC4284740 · PMC · 2014-12-09 · 41 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4284740/
+     Matched: 3.10. NOS2 Promoter Activity Assay · cat /papers/PMC4284740/content.lines --lines 56
+     │ We used a Luciferase assay system (Promega) to detect NOS2 promoter activity according to
+     │ the manufacturer’s protocol. Briefly, we removed the culture medium and washed with PBS 3
+     │ times. We then added reporter lysis 5× buffer (Promega) for 20 min at room temperature and
+     │ froze the specimens at −80 °C for another 20 min. Finally, we examined the specimen (at room
+     │ temperature) by luminometer and ELISA reader to perform the luciferase (Promega) and
+     │ β-galactosidase assays.
+     "Pheophytin a was studied for its anti-inflammatory effects on macrophages. It was found to suppress key inflammatory mediators like nitric oxide and prostaglandin E2 by inhibiting specific signaling pathways."
+
+  9. Modulation of nitric oxide synthase activity in macrophages
+     P. G. Jorens; K. E. Matthys; H. Bult
+     PMC2365621 · PMC · 1995 · 57 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2365621/
+     Matched: Abstract · cat /papers/PMC2365621/content.lines --lines 1-6
+     "This review examines the induction and regulation of inducible nitric oxide synthase (iNOS) in macrophages. It highlights how cytokines and other factors control NO release, a key molecule in host defense."
+
+  10. Anti-Inflammatory Cytokine Interleukin-4 Inhibits Inducible Nitric Oxide Synthase Gene Expression in the Mouse Macrophage Cell Line RAW264.7 through the Repression of Octamer-Dependent Transcription
+     Miki Hiroi; Yoshiichi Sakaeda; Hana Yamaguchi; Yoshihiro Ohmori
+     PMC3891534 · PMC · 2013-12-29 · 27 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3891534/
+     Matched: 3.1. Inhibition of IFNγ- and/or LPS-Induced Nos2 mRNA Expression by IL · cat /papers/PMC3891534/content.lines --lines 40-41
+     │ We initially assessed whether IL-4 inhibits the NO production induced by IFNγ and/or LPS in
+     │ the macrophage-like cell line RAW264.7 (Figure 1(a)). RAW264.7 cells were treated with
+     │ medium alone or IL-4 for 30 min prior to stimulation with IFNγ and/or LPS for 48 hours, and
+     │ the culture supernatants were then harvested for the analysis of NO production. As shown in
+     │ Figure 1(a), IL-4 significantly inhibited NO production in the RAW264.7 cells stimulated
+     │ with IFNγ and/or LPS. To examine the inhibitory effect of IL-4 on IFNγ and/or LPS-induced
+     │ Nos2 mRNA expression, the cells were pretreated with IL-4 for 30 min and stimulated with
+     │ IFNγ and/or LPS for 8 hours; total RNA was then prepared and …
+     "Interleukin-4's inhibition of inducible nitric oxide synthase gene expression in RAW264.7 cells was studied. IL-4 represses Oct-1-dependent transcription by competing for coactivators, thereby inhibiting iNOS."
+
+  11. Inhibition of inducible Nitric Oxide Synthase by a mustard gas analog in murine macrophages
+     Min Qui; Victor M Paromov; Hongsong Yang; Milton Smith; William L Stone
+     PMC1698482 · PMC · 2006-11-30 · 23 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1698482/
+     Matched: CEES transiently suppresses NO production and iNOS expression in LPS s · cat /papers/PMC1698482/content.lines --lines 18-19
+     "This study investigated the effect of a mustard gas analog (CEES) on nitric oxide production in LPS-stimulated macrophages. CEES was found to inhibit nitric oxide synthesis by decreasing iNOS protein expression."
+
+  12. Internal ribosomal entry site-mediated translational activity of nitric oxide synthase 2
+     Kyung-Ha Lee
+     PMC10898816 · PMC · 2023-11-14 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10898816/
+     Matched: LPS increases NOS2 IRES activity and nitrite levels · cat /papers/PMC10898816/content.lines --lines 23-24
+     │ The expression of NOS2 can be induced by inflammatory stimuli, including the bacterial
+     │ compound LPS (Nathan and Xie 1994; Okamoto et al. 2004). When LPS was introduced into the
+     │ neuroblastoma cell line Neuro-2a, nitrite levels, the oxidative form of the NOS2 product
+     │ nitric oxide, increased (Figure 4A). Inhibition of transcription by actinomycin D (ActD)
+     │ treatment dramatically decreased LPS-induced nitrite levels; whereas treatment with
+     │ rapamycin (Rapa), which blocks the phosphorylation of 4E-BP1 and inhibits cap-dependent
+     │ translation, reduced LPS-induced nitrite levels by approximately 35% relative to in the LPS-
+     │ and vehicle (veh)-treated conditions. Treatment with cycloheximide (CHX), which …
+     "The study investigated the internal ribosomal entry site (IRES) activity of nitric oxide synthase 2 (NOS2) mRNA. IRES-mediated translation of NOS2 mRNA is present in various cells and increases with LPS, partially maintaining nitrite production."
+
+  13. Hypoxia Aggravates Inhibition of Alveolar Epithelial Na-Transport by Lipopolysaccharide-Stimulation of Alveolar Macrophages
+     Emel Baloglu; Kalpana Velineni; Ezgi Ermis-Kaya; Heimo Mairbäurl
+     PMC9368968 · PMC · 2022-07-27 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9368968/
+     Matched: 2.2. Cytokines, iNOS, NO/Nitrite · cat /papers/PMC9368968/content.lines --lines 23-24
+     "Alveolar macrophages stimulated with LPS were studied for their effect on alveolar epithelial Na-transport, with and without hypoxia. LPS-stimulated macrophages impair Na-transport via NO-dependent mechanisms, and hypoxia exacerbates this inhibition."
+
+  14. Lipopolysaccharide-Induced Nitric Oxide, Prostaglandin E2, and Cytokine Production of Mouse and Human Macrophages Are Suppressed by Pheophytin-b
+     Chun-Yu Lin; Wen-Hung Wang; Shin-Huei Chen; Yu-Wei Chang; Ling-Chien Hung; Chung-Yi Chen; Yen-Hsu Ch...
+     PMC5751240 · PMC · 2017-12-06 · 48 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5751240/
+     Matched: 1. Introduction · cat /papers/PMC5751240/content.lines --lines 13-14
+     "Pheophytin-b was studied for its anti-inflammatory effects on lipopolysaccharide-stimulated macrophages. It suppressed nitric oxide, prostaglandin E2, and cytokine production by inhibiting STAT-1 and PI3K/Akt pathways."
+
+  15. Mannan-induced Nos2 in macrophages enhances IL-17–driven psoriatic arthritis by innate lymphocytes
+     Jianghong Zhong; Tatjana Scholz; Anthony C. Y. Yau; Simon Guerard; Ulrike Hüffmeier; Harald Burkhard...
+     PMC5955621 · PMC · 2018-05-16 · 43 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5955621/
+     Matched: Deficiency of Nos2 alleviates MIP disease · cat /papers/PMC5955621/content.lines --lines 27-29
+     "Mannan stimulation of macrophages was studied for its role in psoriatic arthritis. Macrophage-derived nitric oxide enhances IL-17 release from innate lymphocytes, promoting the disease."
+
+  16. The inhibitory effect of quercitrin gallate on iNOS expression induced by lipopolysaccharide in Balb/c mice
+     Hyun-Ye Jo; Youngsoo Kim; Sang-Yoon Nam; Beom Jun Lee; Yun-Bae Kim; Young Won Yun; Byeongwoo Ahn
+     PMC2811838 · PMC · 2008-09-30 · 31 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2811838/
+     Matched: Introduction · cat /papers/PMC2811838/content.lines --lines 10-13
+     "Quercitrin gallate (QGR) was studied for its effect on nitric oxide (NO) and iNOS expression in LPS-stimulated mice. QGR significantly reduced LPS-induced NO production and iNOS expression, demonstrating anti-inflammatory potential."
+
+  17. Promoter of the mouse gene encoding calcium-independent nitric oxide synthase confers inducibility by interferon gamma and bacterial lipopolysaccharide
+     PMC2191051 · PMC · 1993-06-01 · 925 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2191051/
+     Matched: Abstract · cat /papers/PMC2191051/content.lines --lines 1-3
+     "The promoter region of the mouse iNOS gene was cloned and analyzed for regulatory elements. This promoter confers inducibility by LPS and synergistic inducibility by IFN-gamma and LPS."
+
+  18. Nitric Oxide Synthase: Non-Canonical Expression Patterns
+     Joshua T. Mattila; Anita C. Thomas
+     PMC4191211 · PMC · 2014-10-09 · 122 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4191211/
+     Matched: Constitutive Expression of the “Inducible” NOS2 Isoform · cat /papers/PMC4191211/content.lines --lines 37-38
+     │ Nitric oxide synthase 2 has become the paradigm of an inducible immunoresponsive gene,
+     │ particularly in rodent systems. The high-affinity calmodulin-binding domain of NOS2 enables
+     │ it to function in conditions where Ca2+ is unavailable, suggesting that dimerized NOS2 is
+     │ always active and capable of generating NO when the appropriate co-factors are present (1,
+     │ 37). The ease at which NOS2 expression is induced varies across and there are significant
+     │ differences in species-specific expression patterns (9, [38], 39) and even differences
+     │ between individuals in genetically diverse populations (40). In mice, which are often viewed
+     │ as the paradigm for inducible NOS2 expression, some strains have …
+     "This paper examines the expression patterns of nitric oxide synthase (NOS) enzymes. It concludes that NOS isoforms may exhibit non-canonical expression, challenging established classifications."
+
+  19. Formulation of Gamma-Oryzanol Encapsulated Nanoparticles and Their Modulation Effects on Inducible Nitric Oxide Synthase and Nitric Oxide in LPS-Stimulated RAW 264.7 Macrophages
+     Kornvipa Settakorn; Chuda Chittasupho; Weerasak Samee; Nut Koonrungsesomboon; Mingkwan Na Takuathung
+     PMC13029237 · PMC · 2026-03-14 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13029237/
+     Matched: 1. Introduction · cat /papers/PMC13029237/content.lines --lines 15
+     "Researchers developed gamma-oryzanol nanoparticles (ORZ-NPs) to improve stability and bioavailability. These nanoparticles effectively reduced nitric oxide synthase and nitric oxide production in stimulated macrophages. This suggests a targeted anti-inflammatory effect without impacting other key inflammatory cytokines."
+
+  20. Lipopolysaccharide-induced selective priming effects on tumor necrosis factor alpha and nitric oxide production in mouse peritoneal macrophages
+     PMC2190891 · PMC · 1993-02-01 · 141 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2190891/
+     Matched: cat /papers/PMC2190891/content.lines --lines 5
+     │ Brief De~nitlre Report: Lipopolysaccharide-induced Selective Priming Effects on Tumor
+     │ Necrosis Factor cr and Nitric Oxide Production in Mouse Peritoneal Macrophages By
+     │ XiaokeZhangand DavidC. Morrison From the Departmentof Microbiology, MolecularGenetics,and
+     │ Immunology, and the Cancer Center, Universityof Kansas MedicalCenter,KansasCity, Kansas66160
+     │ Summary Preculture of thioglycollate-elicited C3HeB/FeJ mouse peritoneal macrophages in
+     │ vitro with subthreshold stimulatoryconcentrations of lipopolysaccharide (LPS)can induce
+     │ hyporesponsiveness (desensitization) to both tumor necrosis factor ot (TNF-cr and nitric
+     │ oxide (NO) production when thesecellsare subsequentlystimulatedwith 100ng/ml ofLPS. …
+     "Macrophages were precultured with low-dose LPS, then restimulated. This pretreatment selectively primes macrophages for differential responses to subsequent stimuli, rather than causing total refractoriness."
+
+  21. Nitric oxide synthase 2-derived NO in endotoxemia is not sufficient to cause hemodynamic effects
+     P Brouckaert; J Bultinck; E Rogge; A Cauwels
+     PMC4088763 · PMC · 2008-03-13 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4088763/
+     Matched: Results · cat /papers/PMC4088763/content.lines --lines 11
+     │ We observed in TLR4-/- mice resistant to the inflammatory and lethal effects of endotoxin
+     │ that various LPS preparations obtained from Sigma – but not Invivogen – were able to induce
+     │ as much NOS2 and NOx as control mice but without resulting in hemodynamic effects, measured
+     │ as changes in blood pressure. This is dependent on non-LPS bacterial products in this
+     │ preparation. These contaminants do not induce cytokine production nor cause suffering.
+     │ Further immunohistochemical investigations showed that NOS2 was induced in a similar way in
+     │ TLR4-/- mice as previously described in wildtype mice [3], namely predominantly in the liver
+     │ and gut. In addition, dose–response experiments showed that the …
+
+  22. Macrophage inducible nitric oxide synthase circulates inflammation and promotes lung carcinogenesis
+     Xin Wang; Zane Gray; Jami Willette-Brown; Feng Zhu; Gongping Shi; Qun Jiang; Na-Young Song; Liang Do...
+     PMC5967330 · PMC · 2018-03-26 · 44 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5967330/
+     Matched: NOS2 deletion does not alter arginase 1 expression but decreases Ym-1  · cat /papers/PMC5967330/content.lines --lines 31
+     │ Fig. 5: NOS2 regulates macrophage migration and survival. a Flow cytometry compares
+     │ peritoneal macrophage numbers from WT, KA/KA, and KA/KA;Nos2−/− mice at 5 months of age.
+     │ Data are statistically analyzed by Student’s t-test. Data represent mean ± SD (n = 3/group).
+     │ ***p < 0.001; NS, not significant. b Macrophage cell migration analysis for WT, KA/KA, and
+     │ KA/KA;Nos2−/− macrophages at 48 h. The distances of cell migration (see Supplemental Fig.
+     │ 4B) are statistically analyzed by Student’s t-test. Data represent mean ± SD (n = 3/group).
+     │ **p < 0.01; NS, not significant. c Flow cytometry analyzes cell apoptosis with a TUNEL kit
+     │ for KA/KA and KA/KA;Nos2−/− macrophages. Data are analyzed by …
+     "This study investigated the role of macrophage inducible nitric oxide synthase (NOS2) in lung cancer. NOS2 promotes lung carcinogenesis by increasing inflammation, macrophage migration and survival, and foamy macrophage formation."
+
+  23. Inducible nitric oxide synthase-derived extracellular nitric oxide flux regulates proinflammatory responses at the single cell level
+     Veena Somasundaram; Anne C. Gilmore; Debashree Basudhar; Erika Mariana Palmieri; David A. Scheiblin;...
+     PMC6920088 · PMC · 2019-11-01 · 62 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6920088/
+     Matched: Nos2-Cox2 synergy in inflammation · cat /papers/PMC6920088/content.lines --lines 24-25
+     │ Inflammatory macrophages have been shown to tolerate prolonged exposure to high NO flux
+     │ [18]. Given that Cox2 is an important inflammation-associated protein, we examined Nos2 and
+     │ Cox2 expression in stimulated macrophages in order to investigate a potential Nos2/Cox2
+     │ synergy in this effect. Remarkably, we found their expression to be spatially distinct;
+     │ Nos2high cells were always Cox2low (Figs. 4A and S2B) and the intensity of Nos2 correlated
+     │ inversely with that of Cox2 (Figs. 4B, S2A, S2B). Regardless, Cox inhibition by indomethacin
+     │ abrogated the nitrosative capacity of IFNγ+TNFα and IFNγ+LPS stimulated ANA-1 cells (Fig.
+     │ 4C) as well as stimulated RAW264.7 cells (Fig. S2C). Conversely, …
+     "This study investigated how nitric oxide (NO) flux from inducible NO synthase (iNOS) affects proinflammatory macrophages. High NO flux, restricted to specific cells, limits hypoxic gradients and influences macrophage function, impacting tumor progression."
+
+  24. Nitroalkene inhibition of pro-inflammatory macrophage effector function via modulation of signaling metabolite levels
+     Emily R. Stevenson; James P. O’Brien; Allison M. Manuel; Crystal E. Uvalle; Gregory J. Buchan; Steve...
+     PMC12572803 · PMC · 2025-10-16 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12572803/
+     Matched: Pharmacological inhibition of NOS2 by NO2-OA and 1400W inhibits NO pro · cat /papers/PMC12572803/content.lines --lines 24-25
+     "Nitroalkene NO₂-OA was studied for its effect on pro-inflammatory macrophage metabolism and function. NO₂-OA inhibits macrophage pro-inflammatory responses by altering central carbon metabolism, reducing succinate levels, and destabilizing HIF1α."
+
+  25. NOS1-derived nitric oxide promotes NF-κB transcriptional activity through inhibition of suppressor of cytokine signaling-1
+     Mirza Saqib Baig; Sofia V. Zaichick; Mao Mao; Andre L. de Abreu; Farnaz R. Bakhshi; Peter C. Hart; U...
+     PMC4577833 · PMC · 2015-09-21 · 113 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4577833/
+     Matched: NOS1 is required to block proteolytic degradation of p65 in LPS-activa · cat /papers/PMC4577833/content.lines --lines 24
+     │ Figure 5.: NOS1 localizes to the nuclei of macrophages and is required for rapid NO
+     │ production after LPS treatment. (A) Nuclear localization of NOS1 was demonstrated in BMDM
+     │ after fixation and immunostaining for NOS1 (red), nuclei were counterstained with DAPI and
+     │ representative images from 2 independent experiments are shown (bar, 25 µM). (B) BMDM
+     │ cytoplasmic and nuclear fractions were immunoblotted to demonstrate the subcellular location
+     │ of NOS1. GAPDH and HDAC1 serve as controls for subcellular fractionation. (C) NOS1 Serine
+     │ 1412 phosphorylation, which correlates with enzymatic activation, was assayed by immunoblot
+     │ of BMDM stimulated with LPS (100 ng/ml) for the indicated time points. …
+     "This study investigated the role of NOS1-derived nitric oxide in inflammatory responses. The key finding is that NOS1-derived NO promotes NF-κB activity by inhibiting SOCS1."
+
+[5.0s, saved to s_16b7f2c3]
+
+💡 Extract data across these results with: map --from s_16b7f2c3 "your question"
+[5.0s, saved to s_16b7f2c3]  [repo: mva-lof-molecular]
+

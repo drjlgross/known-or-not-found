@@ -1,0 +1,7 @@
+$ src/pc.sh filter --from s_1f79b477 Does this paper describe the expression of the gene Tnf changing in response to LPS or bacterial infection?
+# exit 0
+Filtered: 25 → 11 papers (14 removed as irrelevant) in 639ms
+  → 11 papers after filtering
+Results ID: s_1f79b477 (updated in place)
+[740ms, saved to s_1f79b477]  [repo: mva-lof-molecular]
+

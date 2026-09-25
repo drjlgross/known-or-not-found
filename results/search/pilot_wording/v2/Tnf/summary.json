@@ -1,0 +1,15 @@
+{
+  "gene": "Tnf",
+  "query": "Tnf LPS macrophage",
+  "filter_question": "Does this paper report that Tnf (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) is induced, increased, decreased, or otherwise changed in response to LPS or bacterial infection?",
+  "date": "2026-09-24T17:55:12Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_c637c8b7",
+  "parent_n": 25,
+  "yes": 13,
+  "no": 12,
+  "seconds_search": 0.8,
+  "seconds_filter": 1.5,
+  "seconds_total": 2.7
+}

@@ -1,0 +1,255 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Calhm6 LPS macrophage
+# exit 0
+Found 25 papers  [s_1c7fed24]
+
+  1. Calhm6 Governs Macrophage Polarization Through Chp1‐Camk4‐Creb1 Axis and Ectosomal Delivery in Inflammatory Responses
+     Yanlong Xin; Xiaofan Xiong; Yan Zhang; Siyu Zhang; Shuting Zhang; Yu Yang; Yingxue Liang; Lulu Zang;...
+     PMC12766987 · PMC · 2025-09-26 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12766987/
+     Matched: Ectosomes Carrying Calhm6 Suppress Severe Inflammation in Response to  · cat /papers/PMC12766987/content.lines --lines 24-25
+     │ Expression profiling demonstrated high levels of Calhm6 mRNA in the spleen, bone marrow, and
+     │ peripheral blood mononuclear cells (PBMCs) (Figure S1D, Supporting Information), consistent
+     │ with data from The Human Protein Atlas, which highlights CALHM6 expression in the
+     │ hematological system, particularly in macrophages. We next generated RAW 264.7 cells
+     │ overexpressing GFP‐flagged Calhm6 (OE‐Calhm6) and control cells (empty vector, EV).
+     │ OE‐Calhm6 cells secreted ectosomes enriched in Calhm6, which were confirmed to be within the
+     │ 100–200 nm size range (Figure 1G). These ectosomes were efficiently internalized by RAW
+     │ 264.7 cells (Figure 1H) and restored Calhm6 expression in Calhm6‐knockout bone …
+     "Calhm6-bearing ectosomes were studied for their role in macrophage polarization and inflammatory responses. These ectosomes promote anti-inflammatory M2 polarization, while Calhm6 deficiency leads to pro-inflammatory M1 polarization."
+
+  2. HDAC6 Deacetylase Activity Is Critical for Lipopolysaccharide-Induced Activation of Macrophages
+     Bing Yan; Songbo Xie; Zhu Liu; Jie Ran; Yuanyuan Li; Jian Wang; Yang Yang; Jun Zhou; Dengwen Li; Min...
+     PMC4199742 · PMC · 2014-10-16 · 59 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4199742/
+     Matched: Abstract · cat /papers/PMC4199742/content.lines --lines 1-7
+     "This study investigated the role of HDAC6 in lipopolysaccharide-induced macrophage activation. HDAC6 deacetylase activity is critical for this activation, mediated by its effects on cell adhesion and microtubule acetylation, not F-actin."
+
+  3. Macrophages release neuraminidase and cleaved calreticulin for programmed cell removal
+     Allison Banuelos; Michelle Baez; Allison Zhang; Leyla Yılmaz; William Kasberg; Regan Volk; Nardin Ge...
+     PMC12130849 · PMC · 2025-05-21 · 10 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12130849/
+     Matched: LPS Activation Promotes CALR Translocation to the Cell Surface and Sec · cat /papers/PMC12130849/content.lines --lines 17-19
+     │ Previous studies demonstrated that lipopolysaccharide (LPS) activation via TLR4 signaling
+     │ induces a robust increase in CALR on the surface of mouse macrophages (14). To assess
+     │ whether this increase also occurs in human macrophages, we isolated CD14+ monocytes from
+     │ healthy donor peripheral blood mononuclear cells (PBMCs) and differentiated them into
+     │ macrophages in media containing human serum (Fig. 1A). By day 7 of differentiation,
+     │ macrophages displayed characteristic morphology and robust expression of CD64, confirming
+     │ successful differentiation (SI Appendix, Fig. S1 A and B). Fig. 1.: LPS activation promotes
+     │ CALR secretion by macrophages. (A) CD14+ monocytes were isolated from healthy …
+     "Macrophages release cleaved calreticulin and neuraminidase to mark cells for removal. This coordinated process facilitates target cell recognition and clearance by macrophages."
+
+  4. The orientation of choroidal macrophage polarization significantly influences the development of myopia in murine models
+     Jing Hou, Shin-ichi Ikeda, Kiwako Mori, Heonuk Jeong, Hidemasa Torii, Kazuno Negishi, Kazuo Tsubota ...
+     bio_b06931d16f63 · bioRxiv · 2023-06-12 · 1 citation (all versions)
+     Published (2023): https://doi.org/10.1101/2023.06.12.544445
+     Matched: LPS treatment · cat /papers/bio_b06931d16f63/content.lines --lines 60
+     │ Lipopolysaccharides from Escherichia coli O111:B4 (Merck, Tokyo, Japan) were dissolved in
+     │ PBS and injected intraperitoneally to induce systemic M1 macrophage polarization. The
+     │ concentration of LPS was 10 mg/ml, and the injection dose was increased proportionally to
+     │ the body weight of the mice, with 10 μg of LPS given per gram of mice. Since LPS injections
+     │ caused a large reduction in mouse weight, we monitored and documented the mouse body weight
+     │ before each injection. In addition, a corresponding volume of PBS was injected
+     │ intraperitoneally as a vehicle control.
+     "Choroidal macrophages were studied for their role in myopia development. Their polarization towards M1 or M2 phenotypes significantly influences choroidal thickness and myopia progression."
+
+  5. Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review
+     Leah Elson; Niels Eijkelkamp; J. Henk Coert
+     PMC13372918 · Inflammation Research · 2026-07-15 · 0 citations
+     https://doi.org/10.1007/s00011-026-02317-3
+     Matched: Study overview · cat /papers/PMC13372918/content.lines --lines 44-48
+     "This systematic review synthesized evidence for a conserved lipopolysaccharide (LPS)-mediated pathogenic mechanism across diverse tissues and evaluated its potential relevance to peripheral neuropathy"
+
+  6. Induction of unique macrophage subset by simultaneous stimulation with LPS and IL-4
+     Kei Ishida; Takahiro Nagatake; Azusa Saika; Soichiro Kawai; Eri Node; Koji Hosomi; Jun Kunisawa
+     PMC10167635 · PMC · 2023-04-21 · 64 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10167635/
+     Matched: Photographs of each macrophage · cat /papers/PMC10167635/content.lines --lines 39
+     "This study analyzed macrophages induced by simultaneous LPS and IL-4 stimulation. These macrophages exhibited unique properties, blending M1 and M2 characteristics with distinct energy metabolism."
+
+  7. Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni, Yanal Ghosheh, Akula Bala Pramod, Klaus Ley
+     PMC6543837 · Frontiers in Immunology · 2019-05-24 · 1909 citations
+     https://doi.org/10.3389/fimmu.2019.01084
+     Matched: Introduction · cat /papers/PMC6543837/content.lines --lines 14-15
+     "This study compared gene expression in *in vivo* M1/M2 macrophages with *in vitro* classically/alternatively activated macrophages. The findings indicate that *in vivo* M1/M2 polarization is not equivalent to *in vitro* activation states."
+
+  8. A Global Picture of Molecular Changes Associated to LPS Treatment in THP-1 Derived Human Macrophages by Fourier Transform Infrared Microspectroscopy
+     Diletta Ami; Ana Rita Franco; Valentina Artusa; Paolo Mereghetti; Francesco Peri; Antonino Natalello
+     PMC9656053 · International Journal of Molecular Sciences · 2022-11-03 · 7 citations
+     https://doi.org/10.3390/ijms232113447
+     Matched: 1. Introduction · cat /papers/PMC9656053/content.lines --lines 10-12
+     "Fourier transform infrared microspectroscopy analyzed THP-1 derived macrophages treated with LPS. The study identified spectral markers in lipids, proteins, and sulfated sugars, highlighting their role in inflammation."
+
+  9. Transcriptional profiling of the LPS induced NF-κB response in macrophages
+     Omar Sharif, Viacheslav N Bolshakov, Stephanie Raines, Peter Newham, Neil D Perkins
+     PMC1781469 · PMC · 2007-01-01 · 447 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1781469/
+     Matched: Analysis of LPS-induced gene expression in the THP-1 macrophage cell l · cat /papers/PMC1781469/content.lines --lines 26
+     "This study profiled gene expression in macrophages after LPS exposure. LPS induced a dynamic, time-dependent transcriptional response, with THP-1 cells closely mimicking primary macrophages."
+
+  10. Ionized calcium‐binding adaptor molecule 1 positive macrophages and HO‐1 up‐regulation in intestinal muscularis resident macrophages
+     Hanne B. Mikkelsen; Jan D. Huizinga; Jytte O. Larsen; Svend Kirkeby
+     PMC5484384 · PMC · 2017-02-12 · 18 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5484384/
+     Matched: Animals · cat /papers/PMC5484384/content.lines --lines 23
+     │ Eight to nine week‐old female C57Bl/6 (B6) mice (Taconic) were used. One group of mice (N =
+     │ 10) was injected intraperitoneally with 20 µg/g LPS (Escherichia coli) (Sigma, Serotype
+     │ 055:B5, L‐2880) dissolved in sterile saline. Another group of animals (N = 8) was
+     │ sham‐injected with sterile saline. The animals were fed with standard laboratory chow, had
+     │ free access to water and food, and were killed by cervical dislocation 6 hr after injection.
+     │ The mice were housed in a high quality barrier with high hygienic standards and housed and
+     │ experimentally manipulated in accordance with current national regulations issued by The
+     │ Danish Council on Animal Care.
+     "Resident macrophages in the intestinal muscularis externa were studied after LPS stimulation. LPS up-regulates HO-1 in a subset of these macrophages, suggesting a pro-inflammatory response."
+
+  11. Mice Genetically Hyporesponsive to Lipopolysaccharide (LPS) Exhibit a Defect in Endocytic Uptake of LPS and Ceramide
+     Nathalie Thiéblemont; Samuel D. Wright
+     PMC2196359 · The Journal of Experimental Medicine · 1997-06-16 · 44 citations
+     https://doi.org/10.1084/jem.185.12.2095
+     Matched: Macrophage Isolation and Culture Conditions. · cat /papers/PMC2196359/content.lines --lines 16
+     "This study investigated LPS uptake in genetically hyporesponsive mice. These mice show a defect in the vesicular transport of LPS and ceramide."
+
+  12. Motif prediction to distinguish LPS-stimulated pro-inflammatory vs. antibacterial macrophage genes
+     Rahul K Kollipara; Narayanan B Perumal
+     PMC2949756 · PMC · 2010-09-21 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2949756/
+     Matched: Classification of antibacterial and pro-inflammatory macrophage genes · cat /papers/PMC2949756/content.lines --lines 18-20
+     "This study analyzed gene expression patterns in LPS-stimulated macrophages to identify pro-inflammatory and antibacterial genes. It found distinct transcription factor binding site motifs associated with each gene set, helping to distinguish their regulatory mechanisms."
+
+  13. Lipopolysaccharide uptake is augmented in lipopolysaccharide‐tolerant mouse macrophage‐like cells via increased CD14 expression
+     Saeka Nishihara; Takayuki Manabe; Mika Jouta; Kiyoshi Kawasaki
+     PMC13398632 · FEBS Open Bio · 2026-04-26 · 0 citations
+     https://doi.org/10.1002/2211-5463.70261
+     Matched: LPS endocytosis is enhanced in LPS‐tolerant RAW264.7 cells compared wi · cat /papers/PMC13398632/content.lines --lines 48-49
+     "Lipopolysaccharide (LPS) tolerance can be recognized as a modulation of innate immune responses rather than merely a hyporesponsiveness to LPS, with CD14 being crucial for both LPS uptake and LPS sign"
+
+  14. Translation control of TAK1 mRNA by hnRNP K modulates LPS-induced macrophage activation
+     Anke Liepelt; Jana C. Mossanen; Bernd Denecke; Felix Heymann; Rebecca De Santis; Frank Tacke; Gernot...
+     PMC4024643 · RNA · 2014 · 30 citations
+     https://doi.org/10.1261/rna.042788.113
+     Matched: Identification of hnRNP K-associated mRNAs affected in macrophage LPS  · cat /papers/PMC4024643/content.lines --lines 21-23
+     │ To identify new regulatory mRNA protein complexes (mRNP) that modulate the macrophage
+     │ inflammatory response to LPS, we generated extracts from murine RAW 264.7 macrophages and
+     │ validated the impact of post-transcriptional regulation on newly identified mRNAs in primary
+     │ BMDMs from C57BL/6 mice. The inflammatory response of RAW 264.7 macrophages and BMDMs was
+     │ induced with 10 ng/mL and 80 ng/mL LPS, respectively, which were determined as the minimal
+     │ effective concentration (data not shown). When RAW 264.7 cells and BMDMs were LPS-treated
+     │ for 6 h (Fig. 1A), a strong and sustained activation of p38 could be detected after 10 min
+     │ in BMDMs (Fig. 1A, lanes 10–14), whereas RAW 264.7 cells responded …
+     "This study investigated how hnRNP K regulates TAK1 mRNA translation. Macrophage activation releases hnRNP K, relieving repression and promoting TAK1 synthesis for an inflammatory response."
+
+  15. The ion channel CALHM6 controls bacterial infection‐induced cellular cross‐talk at the immunological synapse
+     Sara Danielli; Zhongming Ma; Eirini Pantazi; Amrendra Kumar; Benjamin Demarco; Fabian A Fischer; Ush...
+     PMC10068325 · PMC · 2023-03-02 · 27 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10068325/
+     Matched: CALHM6 channel facilitates ATP release from activated macrophages but, · cat /papers/PMC10068325/content.lines --lines 60
+     │ Acute removal of extracellular Ca2+ activates CALHM1 channels. This can be observed by
+     │ monitoring changes of cytoplasmic Ca2+ concentration upon Ca2+ add‐back to the bathing
+     │ solution, when Ca2+ can flow into the cell through open CALHM1 channels (Fig 7A) (Siebert et
+     │ al, 2013; Taruno et al, 2013; Ma et al, 2018), In contrast, Ca2+ removal and subsequent
+     │ “add‐back” was without effect on cytoplasmic Ca2+ concentration in CALHM6‐expressing N2A
+     │ cells (Fig 7A). A similar protocol using WT and Calhm6 −/− BMDMs also failed to reveal an
+     │ extracellular‐Ca2+ dependent CALHM6 permeability (Fig 7B). In addition, acute removal of
+     │ extracellular Ca2+ for 20 min did not induce ATP release from BMDMs (Fig …
+     "CALHM6's role in regulating early innate control of Listeria monocytogenes infection was studied in mice. CALHM6 facilitates ATP release at the macrophage-NK cell synapse, controlling NK cell activation kinetics."
+
+  16. LPS Tolerance Inhibits Cellular Respiration and Induces Global Changes in the Macrophage Secretome
+     Joseph Gillen; Thunnicha Ondee; Devikala Gurusamy; Jiraphorn Issara-Amphorn; Nathan P. Manes; Sung H...
+     PMC7918892 · Biomolecules · 2021-01-27 · 59 citations
+     https://doi.org/10.3390/biom11020164
+     Matched: 3.1. LPS-Tolerant Macrophages Decrease Cellular Respiration · cat /papers/PMC7918892/content.lines --lines 34-35
+     "This study investigated metabolic and secretome changes in macrophages during LPS tolerance induction. LPS tolerance significantly reduces cellular metabolism and alters secreted proteins towards cell survival and metabolism."
+
+  17. LPS inhibits TRIM65 expression in macrophages and C57BL/6J mouse by activating the ERK1/2 signaling pathway
+     Xufang Zeng; Xinxin Deng; Yuqi Ni; Hongfeng Bi; Meiling Jiang; Dan Wang; Pengzhi Dong; Yunfei Xiao; ...
+     PMC10068263 · Experimental and Therapeutic Medicine · 2023-03-14 · 16 citations
+     https://doi.org/10.3892/etm.2023.11887
+     Matched: Cell treatment · cat /papers/PMC10068263/content.lines --lines 28-31
+     "LPS treatment was studied for its effect on TRIM65 expression in macrophages and mice. LPS inhibits TRIM65 expression via the ERK1/2 pathway, and TRIM65 knockout exacerbates inflammatory cytokine production."
+
+  18. LPS adsorption and inflammation alleviation by polymyxin B-modified liposomes for atherosclerosis treatment
+     Huiwen Liu; Honglan Wang; Qiyu Li; Yiwei Wang; Ying He; Xuejing Li; Chunyan Sun; Onder Ergonul; Füsu...
+     PMC10501887 · Acta Pharmaceutica Sinica. B · 2023-06-13 · 33 citations
+     https://doi.org/10.1016/j.apsb.2023.06.005
+     Matched: Inhibitive effect of PLPs on LPS-induced macrophage activation · cat /papers/PMC10501887/content.lines --lines 58-59
+     │ The effect of LPS sponged by PLPs in vitro was investigated using BMDMs as the macrophage
+     │ model. As the results showed (Fig. 3 A and B), the proportion of M1-type macrophages was
+     │ 63.85 ± 4.02% and 62.60 ± 4.25% in the LPS group and PMB group, respectively, whereas the
+     │ ratio in the PLPs group was sharply reduced to 26.70 ± 2.74%, which was close to the
+     │ baseline in the PBS group (21.53 ± 0.89%), indicating PLPs could effectively block LPS-
+     │ mediated macrophage activation by sponging LPS. In addition, it was revealed that LPS
+     │ treatment could induce macrophages to secrete more pro-inflammatory cytokines (TNF-α, IL-1β,
+     │ IL-6, and IFN-γ) compared with the PBS group, which was consistent with …
+     "Polymyxin B-modified liposomes were developed to adsorb lipopolysaccharide (LPS) for atherosclerosis treatment. This approach reduced inflammation, stabilized plaques, and attenuated atherosclerosis progression by targeting circulating LPS."
+
+  19. Mathematical modelling of activation-induced heterogeneity in TNF, IL6, NOS2, and IL1β expression reveals cell state transitions underpinning macrophage responses to LPS
+     Shoumit Dey; Dave Boucher; Jon Pitchford; Dimitris Lagos
+     PMC9411976 · Wellcome Open Research · 2022-07-25 · 2 citations
+     https://doi.org/10.12688/wellcomeopenres.17557.2
+     Matched: Macrophage community AIH is dependent on LPS dose · cat /papers/PMC9411976/content.lines --lines 78-79
+     │ Figure 2.: Macrophage community AIH kinetics for BMDMs. Pie charts represent the community
+     │ composition at 8, 12 and 16 hours post stimulus with the indicated doses of LPS for BMDMs.
+     │ BMDMs are pre-gated on Live/Singlets/FSC-SSC/CD11b+F4/80+ population. Data representative of
+     │ three independent experiments. Overall, our findings indicated that exposure to LPS induced
+     │ population heterogeneity in macrophage communities for both a macrophage cell line (RAW264.7
+     │ cells) and primary BMDMs. As expected, cell-type specific differences were observed with
+     │ BMDM responses occurring and peaking faster and reaching a plateau at lower LPS
+     │ concentrations. These could be linked to differential sensitivity to …
+     "Mathematical models explored macrophage states and their responses to LPS. Macrophage hypo-responsiveness to a second LPS challenge is driven by altered transition rates between activation states."
+
+  20. Free Fatty Acids and LPS Synergistically Promote Macrophage M1 Polarization and Insulin Resistance Via FTO-Mediated CSF1 Degradation
+     Xiaohui Xiao; Junhao Zhao; Guiwen Ye; Hui Li; Xiuji Huang
+     PMC12847160 · Inflammation · 2026-01-08 · 4 citations
+     https://doi.org/10.1007/s10753-025-02369-3
+     Matched: FFA + LPS Mediates Macrophage M1 Polarization by Upregulating FTO · cat /papers/PMC12847160/content.lines --lines 51-52
+     "This study investigated how free fatty acids and LPS promote macrophage M1 polarization and insulin resistance. These factors synergistically induce insulin resistance by promoting M1 polarization via FTO-mediated CSF1 degradation."
+
+  21. Alleviative Effect of Geniposide on Lipopolysaccharide-Stimulated Macrophages via Calcium Pathway
+     Hyun-Ju Kim; Wansu Park
+     PMC10855527 · PMC · 2024-01-31 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10855527/
+     Matched: 3. Discussion · cat /papers/PMC10855527/content.lines --lines 32
+     "Geniposide's effect on LPS-stimulated macrophages was studied using various assays. Geniposide alleviates inflammation in these cells by modulating the calcium pathway."
+
+  22. Laminarin Alleviates Acute Lung Injury Induced by LPS Through Inhibition of M1 Macrophage Polarisation
+     Liming Zeng; Jieyu Zhang; Rongrong Song; Xinhuai Dong; Zibo Wei; Xiaoyan Li; Xiaokang Zeng; Jie Yao
+     PMC11882389 · PMC · 2025-03-05 · 9 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11882389/
+     Matched: Discussion · cat /papers/PMC11882389/content.lines --lines 83-84
+     "Laminarin was studied for its effects on lipopolysaccharide-induced acute lung injury in mice. Laminarin alleviates lung injury by inhibiting M1 macrophage polarization through the HIF-1α signaling pathway."
+
+  23. miR-106a Targets Anoctamin 1 (ANO1) to Regulate Lipopolysaccharide (LPS)-Induced Inflammatory Response in Macrophages
+     Junfeng Heng; Dingye Wu; Shiqi Lu; Yiming Zhao
+     PMC7556292 · PMC · 2020-10-10 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7556292/
+     Matched: miR-106a level is increased and ANO1 level is downregulated in LPS-tre · cat /papers/PMC7556292/content.lines --lines 55
+     "This study investigated miR-106a and ANO1's role in LPS-induced inflammation in macrophages. MiR-106a targets ANO1 to regulate this inflammatory response, suggesting therapeutic potential."
+
+  24. Macrophage–Bacteria Interactions—A Lipid-Centric Relationship
+     Ooiean Teng; Candice Ke En Ang; Xue Li Guan
+     PMC5742358 · Frontiers in Immunology · 2017-12-20 · 59 citations
+     https://doi.org/10.3389/fimmu.2017.01836
+     Matched: Glycolipids—Lipopolysaccharides (LPS) · cat /papers/PMC5742358/content.lines --lines 47
+     │ A combined lipidomics and transcriptomics study on mouse macrophages upon LPS stimulation by
+     │ Dennis and coworkers has brought together a system-based overview of the temporal and
+     │ subcellular dynamics of macrophage lipid remodeling elicited by LPS (176). Treating RAW264.7
+     │ cells with Kdo2-lipid A, a chemically defined substructure of LPS, increased COX-2 related
+     │ lipid metabolites immediately after the stimulation, followed by sterols, sphingolipids,
+     │ glycerophospholipids, and glycerolipids (176). Based on the reported findings on LPS-induced
+     │ changes in sphingolipids, KÖberlin and coworkers recently examined the lipid metabolic
+     │ network of RAW264.7 cells during TLR signaling and showed that …
+     "This review examines how macrophages and bacteria interact through lipid metabolism. Manipulating host lipids is a key bacterial strategy, offering potential therapeutic targets for infections."
+
+  25. RNA-Binding Proteins in the Control of LPS-Induced Macrophage Response
+     Dirk H. Ostareck; Antje Ostareck-Lederer
+     PMC6369361 · PMC · 2019-02-04 · 58 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6369361/
+     Matched: Introduction · cat /papers/PMC6369361/content.lines --lines 9-10
+     "This review examines RNA-binding proteins (RBPs) like TTP, HUR, TIAR, and hnRNP K in LPS-induced macrophage responses. These RBPs globally regulate inflammation-related gene expression, impacting signaling and cytokine production."
+
+[6.3s, saved to s_1c7fed24]
+
+💡 Extract data across these results with: map --from s_1c7fed24 "your question"
+[6.3s, saved to s_1c7fed24]  [repo: mva-lof-molecular]
+

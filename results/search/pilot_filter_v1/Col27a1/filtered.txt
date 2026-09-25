@@ -1,0 +1,5 @@
+$ src/pc.sh results s_3c47c70f
+# exit 0
+  Query: filter --from s_3c47c70f 'Does this paper describe the expression of the gene Col27a1 changing in response to LPS or bacterial infection?'
+Found 0 papers  [s_3c47c70f]
+

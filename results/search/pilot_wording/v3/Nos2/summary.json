@@ -1,0 +1,15 @@
+{
+  "gene": "Nos2",
+  "query": "Nos2 LPS macrophage",
+  "filter_question": "Does this paper show that LPS or bacterial infection changes the level (mRNA or protein) of Nos2, including when it is referred to by an alias or its human ortholog name?",
+  "date": "2026-09-24T17:55:31Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_41f6df11",
+  "parent_n": 25,
+  "yes": 4,
+  "no": 21,
+  "seconds_search": 2.7,
+  "seconds_filter": 1.4,
+  "seconds_total": 4.5
+}

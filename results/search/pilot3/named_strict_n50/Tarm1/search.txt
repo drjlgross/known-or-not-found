@@ -1,0 +1,461 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 50 Tarm1 (T cell-interacting, activating receptor on myeloid cells 1) LPS macrophage
+# exit 0
+Found 50 papers  [s_6208592b]
+
+  1. Macrophage autophagy protects against acute kidney injury by inhibiting renal inflammation through the degradation of TARM1
+     Xiao-Rong Huang; Lin Ye; Ning An; Chun-Yu Wu; Hong-Luan Wu; Hui-Yuan Li; Yan-Heng Huang; Qiao-Ru Ye;...
+     PMC11702950 · Autophagy · 2024-08-28 · 45 citations
+     https://doi.org/10.1080/15548627.2024.2393926
+     Matched: Autophagy suppresses macrophage pro-inflammatory activities by targeti · cat /papers/PMC11702950/content.lines --lines 33-34
+     │ To explore mechanisms underly the autophagy suppresses macrophage pro-inflammatory
+     │ activities, we performed proteomics analysis in BMDMs derived from WT and atg5−/− mice
+     │ subjected to LPS and IFNG stimulation. The results revealed 15 and 10 proteins were
+     │ significantly upregulated and downregulated respectively (|log2 fold|>2 and p < 0.05)
+     │ (Figure 5A and Table S1). Among these, TARM1, a newly identified member of the leukocyte
+     │ immunoglobulin-like receptor family, was significantly upregulated in atg5−/− BMDMs compared
+     │ to WT BMDMs after treatment with LPS and IFNG (Figure 5B, C). Moreover, TARM1 was
+     │ significantly upregulated in the renal tissues of atg5−/− mice compared with those in WT
+     │ mice …
+     "Macrophage autophagy was studied in acute kidney injury (AKI). Macrophage autophagy protects against AKI by degrading TARM1, thereby inhibiting renal inflammation."
+
+  2. Triggering Receptor Expressed on Myeloid Cells-1 (TREM-1) in Inflammation and Disease: Mechanisms, Therapeutic Potential, and Future Directions
+     Neerja Trivedi; Jitendra D. Bhosale; Amit Pant; Sonali P. Suryawanshi; Prerna Tiwari; Peter W. Abel;...
+     PMC12608911 · International Journal of Molecular Sciences · 2025-10-25 · 9 citations
+     https://doi.org/10.3390/ijms262110386
+     Matched: 3.1. LPS Modulates TREM-1 Activation · cat /papers/PMC12608911/content.lines --lines 22
+     │ LPS indirectly activates TREM-1 by binding to Toll-like receptor 4 (TLR4), which then
+     │ interacts with TREM-1 to enhance immune responses [27,28]. TREM-1 is constitutively
+     │ expressed in macrophages and is upregulated in response to LPS exposure. Studies on RAW264.7
+     │ macrophage-like cells have shown that Trem-1 gene transcription is regulated by NFκB-1 and
+     │ the cyclic AMP response element (CRE), both of which contribute to LPS-induced upregulation
+     │ of TREM-1 promoter activity [27]. Research on human kidney-2 (HK-2) cells has demonstrated
+     │ that TREM-1 activation promotes apoptosis while inhibiting autophagy following LPS
+     │ stimulation [28]. Furthermore, in vivo studies using an LPS-induced …
+     "This review analyzes TREM-1's role in amplifying inflammation and its dysregulation in disease. Targeting TREM-1, especially with new small-molecule modulators, shows therapeutic promise for inflammatory conditions."
+
+  3. Expression analysis of G Protein-Coupled Receptors in mouse macrophages
+     Jane E Lattin; Kate Schroder; Andrew I Su; John R Walker; Jie Zhang; Tim Wiltshire; Kaoru Saijo; Chr...
+     PMC2394514 · Immunome Research · 2008-04-29 · 403 citations
+     https://doi.org/10.1186/1745-7580-4-5
+     Matched: LPS-regulated GPCR expression in mouse macrophages · cat /papers/PMC2394514/content.lines --lines 134-162
+     │ Table 4: GPCRs repressed by LPS in macrophages. | | | Relative Normalised Expression |
+     │ Relative Normalised Expression | Relative Normalised Expression | Relative Normalised
+     │ Expression | Relative Normalised Expression Receptor Class | Accession Number | Gene Name |
+     │ BMM | BMM | BMM | TEPM | TEPM | | | 2 h | 6 h | 24 h | 1 h | 7 h Repressed by LPS in BMM and
+     │ TEPM | Repressed by LPS in BMM and TEPM | Repressed by LPS in BMM and TEPM | Repressed by
+     │ LPS in BMM and TEPM | Repressed by LPS in BMM and TEPM | Repressed by LPS in BMM and TEPM |
+     │ Repressed by LPS in BMM and TEPM | Repressed by LPS in BMM and TEPM Class A | | | | | | | |
+     │ NM_009924 | Cnr2 | 0.2 | 0.1 | 0.3 | 0.3 | 0.1 | NM_009911 | Cxcr4 …
+     "This study analyzed GPCR expression in mouse macrophages, comparing it to other cell types and LPS-stimulated macrophages. Several P2RY family members showed macrophage-specific expression or LPS-regulated changes, suggesting roles in macrophage biology and inflammation."
+
+  4. Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni; Yanal Ghosheh; Akula Bala Pramod; Klaus Ley
+     PMC7053374 · Frontiers in Immunology · 2020-02-25 · 77 citations
+     https://doi.org/10.3389/fimmu.2020.00234
+
+  5. Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni, Yanal Ghosheh, Akula Bala Pramod, Klaus Ley
+     PMC6543837 · Frontiers in Immunology · 2019-05-24 · 1909 citations
+     https://doi.org/10.3389/fimmu.2019.01084
+     Matched: In vivo M1(=LPS+)C57BL/6J Exclusive Genes Drive Anti-bacterial Immune  · cat /papers/PMC6543837/content.lines --lines 40-43
+     │ The in vivo M1(=LPS+)C57BL/6J signature contains 177 uniquely up-regulated genes (Figure 1A,
+     │ Supplementary Table 5). Compared to the in vitro signatures we found the expression of many
+     │ genes correlated with the LPS mediated activation of Toll-like receptor 4 (Tlr4). Downstream
+     │ of Tlr4 is myeloid differentiation factor 88 (MyD88), Nfkb1, Rela, Rps6ka2, Tank, and Ripk2,
+     │ (40) all expressed in M1(=LPS+)C57BL/6J. These genes are responsible for an anti-bacterial
+     │ immune response. The chemokine Ccl2 and the hematopoietic cytokine Csf2 (GM-CSF) are
+     │ positively correlated with M1 polarization in vivo, but not increased in response to IFN-γ
+     │ and LPS in vitro. The same is true for the pro-inflammatory …
+     "This study compared gene expression in *in vivo* M1/M2 macrophages with *in vitro* classically/alternatively activated macrophages. The findings indicate that *in vivo* M1/M2 polarization is not equivalent to *in vitro* activation states."
+
+  6. Expression of Siglec-E Alters the Proteome of Lipopolysaccharide (LPS)-Activated Macrophages but Does Not Affect LPS-Driven Cytokine Production or Toll-Like Receptor 4 Endocytosis
+     Manjula Nagala; Emma McKenzie; Hannah Richards; Ritu Sharma; Sarah Thomson; Pietro Mastroeni; Paul R...
+     PMC5775731 · Frontiers in Immunology · 2018-01-15 · 26 citations
+     https://doi.org/10.3389/fimmu.2017.01926
+     Matched: Author Contributions · cat /papers/PMC5775731/content.lines --lines 90
+     │ MN designed the research, carried out experiments, analyzed results, and prepared the first
+     │ draft of the manuscript. EM designed the research, carried out experiments, and analyzed
+     │ results. HR designed the research, carried out experiments, and analyzed results. RS
+     │ designed the research, carried out experiments, and analyzed results. ST analyzed results,
+     │ and contributed to intepretation of data. PM designed experiments and interpreted results.
+     │ PC led the research project, designed the experiments, interpreted the results, and wrote
+     │ the final version of the manuscript.
+     "Siglec-E expression was studied in LPS-activated macrophages. Siglec-E alters macrophage proteomes but does not affect LPS-driven cytokine production or TLR4 endocytosis."
+
+  7. Physical exercise mitigates chronic psychological stress‐induced vascular inflammation via the BDNF–Kif4–TARM1 axis
+     Xianghui Zheng; Yunqi Li; Peiyao Wang; Zhou Guo; Yuxuan Liu; Qi Liu; Baitao Wang; Huiyu Wang; Lizhi ...
+     PMC13096691 · Clinical and Translational Medicine · 2026-04-20 · 0 citations
+     https://doi.org/10.1002/ctm2.70674
+     Matched: The Kif4–TARM1 axis drives macrophage inflammation in vitro · cat /papers/PMC13096691/content.lines --lines 54
+     "Chronic psychological stress drives neuroimmune crosstalk and accelerates atherosclerosis progression. Physical exercise confers broad health benefits and is associated with reduced inflammation. Howe"
+
+  8. Commentary: Triggering Receptor Expressed on Myeloid Cells-1 Inhibitor Targeted to Endothelium Decreases Cell Activation
+     Alexander B. Sigalov
+     PMC7026307 · Frontiers in Immunology · 2020-02-11 · 6 citations
+     https://doi.org/10.3389/fimmu.2020.00173
+     Matched: cat /papers/PMC7026307/content.lines --lines 11-24
+
+  9. Gut microbiota and tumor-associated macrophages: potential in tumor diagnosis and treatment
+     Dongqin Zhou; Yongsheng Li
+     PMC10653702 · Gut Microbes · 2023-11-09 · 45 citations
+     https://doi.org/10.1080/19490976.2023.2276314
+     Matched: LPS · cat /papers/PMC10653702/content.lines --lines 17-18
+     │ LPS is a component found in the cell wall of Gram-negative (G−) bacteria. When these
+     │ bacteria die, LPS is cleaved and released into the intestinal environment and blood system
+     │ (Figure 1a). Recent studies have shown a significant association between LPS and TAMs. For
+     │ example, the pro-inflammatory immune response triggered by microflora plays a crucial role
+     │ in the development of colon cancer. Figure 1.: Relationships between gut microbiota
+     │ metabolites and macrophage polarization. (a) intestinal flora utilizes LPS as a trigger to
+     │ regulate the aggregation of monocyte-like macrophages through the LPS/TLR4 pathway. This
+     │ process leads to the formation of a precancerous inflammatory …
+     "This review examines how gut microbiota influence tumor-associated macrophages (TAMs). This interaction offers potential for improved tumor diagnosis and treatment strategies."
+
+  10. Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review
+     Leah Elson; Niels Eijkelkamp; J. Henk Coert
+     PMC13372918 · Inflammation Research · 2026-07-15 · 0 citations
+     https://doi.org/10.1007/s00011-026-02317-3
+     Matched: M1 Macrophage polarization mechanism · cat /papers/PMC13372918/content.lines --lines 71-74
+     │ The core mechanism underlying LPS-mediated macrophage polarization and tissue dysfunction is
+     │ conserved across diverse organ systems, including pulmonary [22–27], cardiac [28–32], renal
+     │ [33], lymphatic [34], gastrointestinal [35, 36], nervous (brain) [14, [37], 38], adipose
+     │ [39, 40], osseous [41], urologic [42], dental [43], hepatic [44], uterine [45, 46],
+     │ pancreatic [47], and global/systemic [48–52] (Table 1). In the studies evaluated, LPS
+     │ originated from endogenous gut sources or exogenous injection; regardless of endotoxin
+     │ origin, similar innate immune pathways were triggered. Across tissue types, the M1
+     │ macrophage polarization mechanism begins with the recognition of the LPS bioactive …
+     "This systematic review synthesized evidence for a conserved lipopolysaccharide (LPS)-mediated pathogenic mechanism across diverse tissues and evaluated its potential relevance to peripheral neuropathy"
+
+  11. Induction of unique macrophage subset by simultaneous stimulation with LPS and IL-4
+     Kei Ishida; Takahiro Nagatake; Azusa Saika; Soichiro Kawai; Eri Node; Koji Hosomi; Jun Kunisawa
+     PMC10167635 · Frontiers in Immunology · 2023-04-21 · 64 citations
+     https://doi.org/10.3389/fimmu.2023.1111729
+     Matched: Discussion · cat /papers/PMC10167635/content.lines --lines 58-73
+     "This study analyzed macrophages induced by simultaneous LPS and IL-4 stimulation. These macrophages exhibited unique properties, blending M1 and M2 characteristics with distinct energy metabolism."
+
+  12. Monocyte normal immune response to LPS stimulation
+     P Myrianthefs; K Venetsanou; E Grouzi; E Boutzouka; P Evagelopoulou; G Fildissis; I Spiliotopoulou; ...
+     PMC3333514 · Critical Care · 2002-03-01 · 1 citation
+     https://doi.org/10.1186/cc1554
+
+  13. Oral and transdermal administration of lipopolysaccharide safely enhances self-healing ability through the macrophage network
+     Gen-Ichiro Soma; Masataka Oda; Vindy Tjendana Tjhin; Chie Kohchi; Hiroyuki Inagawa
+     PMC11994614 · Frontiers in Immunology · 2025-03-31 · 7 citations
+     https://doi.org/10.3389/fimmu.2025.1563484
+     Matched: Regulation of innate immunity by LPS as an environmental agent · cat /papers/PMC11994614/content.lines --lines 29-31
+     "Oral and transdermal LPS administration was studied for its effects on self-healing. This method safely enhances healing through a "macrophage network" involving mucosal immune cells."
+
+  14. A Global Picture of Molecular Changes Associated to LPS Treatment in THP-1 Derived Human Macrophages by Fourier Transform Infrared Microspectroscopy
+     Diletta Ami; Ana Rita Franco; Valentina Artusa; Paolo Mereghetti; Francesco Peri; Antonino Natalello
+     PMC9656053 · International Journal of Molecular Sciences · 2022-11-03 · 7 citations
+     https://doi.org/10.3390/ijms232113447
+     Matched: 1. Introduction · cat /papers/PMC9656053/content.lines --lines 10-12
+     "Fourier transform infrared microspectroscopy analyzed THP-1 derived macrophages treated with LPS. The study identified spectral markers in lipids, proteins, and sulfated sugars, highlighting their role in inflammation."
+
+  15. A New Triggering Receptor Expressed on Myeloid Cells (TREM) Family Member, TLT-6, is Involved in Activation and Proliferation of Macrophages
+     Kyung-Jong Won; Sung-Won Park; Seunghoon Lee; Il-Keun Kong; Jung-Il Chae; Bokyung Kim; Eun-Jong Lee;...
+     PMC4637344 · Immune Network · 2015-10-26 · 7 citations
+     https://doi.org/10.4110/in.2015.15.5.232
+     Matched: TLT-6 is upregulated and regulates proliferation in macrophages in res · cat /papers/PMC4637344/content.lines --lines 48
+     │ We next investigated the expression profile or biological activity of TLT-6 in macrophages.
+     │ TLT-6 was up-regulated by LPS stimulation in macrophages derived from RAW264.7 cells. LPS
+     │ stimulation increased the TLT-6 expression on the cell surface in dose-dependent manner in
+     │ RAW264.7 cells (Fig. 4A and B). Moreover, TLT-6 overexpression in RAW264.7 cells
+     │ significantly inhibited cell proliferation from day 2, compared with control cells
+     │ transfected with TLT-free vector (Fig. 4C). Similar to this response, TLT-6 monoclonal
+     │ antibody-treated bone marrow-derived macrophages also showed decreased proliferation when
+     │ compared with control cells treated with IgG isotype (Fig. 4D).
+     "A novel TREM family member, TLT-6, was identified and characterized. TLT-6 expression is upregulated on macrophages by LPS and appears to regulate their activation and proliferation."
+
+  16. Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyromonas endodontalis, Induces Macrophage M1 Profile
+     Pablo Veloso; Alejandra Fernández; Jessica Astorga; David González-Quintanilla; Alfredo Castro; Alej...
+     PMC9456100 · International Journal of Molecular Sciences · 2022-09-02 · 16 citations
+     https://doi.org/10.3390/ijms231710011
+     Matched: 5. Conclusions · cat /papers/PMC9456100/content.lines --lines 74-87
+     "This study investigated the effects of lipopolysaccharides from *Porphyromonas gingivalis* and *Porphyromonas endodontalis* on macrophage polarization. *P. gingivalis* LPS induced an M1 macrophage profile, while *P. endodontalis* LPS did not."
+
+  17. TET1 Knockdown Inhibits Porphyromonas gingivalis LPS/IFN-γ-Induced M1 Macrophage Polarization through the NF-κB Pathway in THP-1 Cells
+     Yanlan Huang; Cheng Tian; Qimeng Li; Qiong Xu
+     PMC6514734 · International Journal of Molecular Sciences · 2019-04-24 · 115 citations
+     https://doi.org/10.3390/ijms20082023
+     Matched: 2.2. TET1 Expression Decreased in LPS/IFN-γ-Induced M1 Macrophages · cat /papers/PMC6514734/content.lines --lines 19
+     "TET1 knockdown was studied in THP-1 cells undergoing M1 macrophage polarization induced by *P. gingivalis* LPS/IFN-γ. TET1 depletion inhibited M1 polarization by downregulating the NF-κB pathway."
+
+  18. Hyperinflammation, T cells, and endotoxemia
+     Makoto Inoue; Mari L. Shinohara
+     PMC4695100 · Oncotarget · 2015-08-22 · 2 citations
+     https://doi.org/10.18632/oncotarget.5236
+     Matched: cat /papers/PMC4695100/content.lines --lines 12-13
+
+  19. Species-Specificity of Transcriptional Regulation and the Response to Lipopolysaccharide in Mammalian Macrophages
+     Stephen J. Bush; Mary E. B. McCulloch; Zofia M. Lisowski; Charity Muriuki; Emily L. Clark; Rachel Yo...
+     PMC7386301 · Frontiers in Cell and Developmental Biology · 2020-07-21 · 32 citations
+     https://doi.org/10.3389/fcell.2020.00661
+     Matched: Introduction · cat /papers/PMC7386301/content.lines --lines 13-14
+     "This study analyzed the transcriptional response of sheep macrophages to lipopolysaccharide (LPS) and compared it to other mammalian species. A conserved transcriptional network was found, but large animals and rodents differed in their metabolic responses to LPS."
+
+  20. LPS combined with CD47mAb enhances the anti‑osteosarcoma ability of macrophages
+     Peng Yuan; Yukang Que; Yulei Liu; Peng He; Zehao Guo; Yong Hu
+     PMC10091190 · Oncology Letters · 2023-03-28 · 1 citation
+     https://doi.org/10.3892/ol.2023.13777
+     Matched: Supplementary Material · cat /papers/PMC10091190/content.lines --lines 75-76
+     "This study investigated the combined effect of LPS and CD47mAb on macrophage anti-osteosarcoma activity. The combination significantly enhanced macrophage phagocytosis, suppressed tumor growth and migration, and promoted apoptosis."
+
+  21. Inhibition of Triggering Receptor Expressed on Myeloid Cells 1 Ameliorates Inflammation and Macrophage and Neutrophil Activation in Alcoholic Liver Disease in Mice
+     David Tornai; Istvan Furi; Zu T. Shen; Alexander B. Sigalov; Sahin Coban; Gyongyi Szabo
+     PMC6312652 · Hepatology Communications · 2018-10-29 · 30 citations
+     https://doi.org/10.1002/hep4.1269
+     Matched: cat /papers/PMC6312652/content.lines --lines 8-47
+     "TREM-1 inhibition was studied in a mouse model of alcoholic liver disease. This inhibition reduced liver inflammation, macrophage and neutrophil activation, and disease severity."
+
+  22. Lipopolysaccharide from biofilm-forming Pseudomonas aeruginosa PAO1 induces macrophage hyperinflammatory responses
+     Sufei Wang; Dandan Xiang; Fangbing Tian; Ming Ni
+     PMC8289208 · Journal of Medical Microbiology · 2021-04-28 · 23 citations
+     https://doi.org/10.1099/jmm.0.001352
+     Matched: Discussion · cat /papers/PMC8289208/content.lines --lines 89-90
+     "Biofilm-forming *Pseudomonas aeruginosa* LPS was studied for its effect on macrophage polarization. This LPS induced hyperinflammatory responses and increased bacterial growth in macrophages compared to planktonic LPS."
+
+  23. TREM‐1 deficiency attenuates the inflammatory responses in LPS‐induced murine endometritis
+     Hongmei Zhu; Wenke Li; Zhuole Wang; Jianguo Chen; Mingxing Ding; Li Han
+     PMC6801141 · Microbial Biotechnology · 2019-07-31 · 22 citations
+     https://doi.org/10.1111/1751-7915.13467
+     Matched: Introduction · cat /papers/PMC6801141/content.lines --lines 10-11
+     "TREM-1 deficiency was studied in LPS-induced murine endometritis. TREM-1 deficiency attenuated uterine inflammation and reduced pro-inflammatory cytokine levels."
+
+  24. Macrophage subsets exhibit distinct E. coli-LPS tolerisable cytokines associated with the negative regulators, IRAK-M and Tollip
+     Khalid Al-Shaghdali; Barbara Durante; Christopher Hayward; Jane Beal; Andrew Foey
+     PMC6533032 · PLoS ONE · 2019-05-23 · 14 citations
+     https://doi.org/10.1371/journal.pone.0214681
+     Matched: E. coli K12-LPS differentially tolerises macrophage subset cytokines · cat /papers/PMC6533032/content.lines --lines 47-50
+     "This study investigated endotoxin tolerance mechanisms in M1 and M2 macrophage subsets using *E. coli* K12-LPS. *E. coli* K12-LPS differentially tolerizes macrophage subsets at the anti-inflammatory cytokine level, linked to distinct negative regulators."
+
+  25. Lipopolysaccharide Tolerance in Human Primary Monocytes and Polarized Macrophages
+     Hui Li; Annette Breedijk; Nadine Dietrich; Katja Nitschke; Jonas Jarczyk; Philipp Nuhn; Bernhard K. ...
+     PMC10419197 · International Journal of Molecular Sciences · 2023-07-30 · 12 citations
+     https://doi.org/10.3390/ijms241512196
+     Matched: 3. Discussion · cat /papers/PMC10419197/content.lines --lines 26-27
+     "This study investigated how LPS tolerance in human monocytes and macrophages is influenced by various immune signals. Pre-stimulation with LPS inhibits IRG-1, TNF-α, and IL-6, while other factors have varied effects on tolerance and gene expression."
+
+  26. Imperatorin Interferes with LPS Binding to the TLR4 Co-Receptor and Activates the Nrf2 Antioxidative Pathway in RAW264.7 Murine Macrophage Cells
+     Mei-Hsuen Huang; Yu-Hsien Lin; Ping-Chiang Lyu; Yi-Chung Liu; Yuan-Shiun Chang; Jing-Gung Chung; Wei...
+     PMC7997471 · Antioxidants · 2021-02-27 · 35 citations
+     https://doi.org/10.3390/antiox10030362
+     Matched: 1. Introduction · cat /papers/PMC7997471/content.lines --lines 16-17
+     "Imperatorin was studied for its interference with LPS binding to TLR4 co-receptors in macrophages. Imperatorin inhibits LPS binding and activates the Nrf2 antioxidative pathway."
+
+  27. Ginger extract inhibits LPS induced macrophage activation and function
+     Sudipta Tripathi; David Bruch; Dilip S Kittur
+     PMC2234390 · BMC Complementary and Alternative Medicine · 2008-01-03 · 156 citations
+     https://doi.org/10.1186/1472-6882-8-1
+     Matched: Purification of murine T cells · cat /papers/PMC2234390/content.lines --lines 26
+     "Ginger extract was studied for its effects on LPS-stimulated macrophages. The extract inhibited pro-inflammatory cytokine production, antigen-presenting molecule expression, and macrophage antigen-presenting function."
+
+  28. Disrupted macrophage autophagy as a driver of cell death and LPS-induced lethal shock in systemic inflammation
+     Tarek Chekroune; Sandra Carignon; Meriem Taleb; Florence Savigny; Stéphanie Rose; Isabelle Maillet; ...
+     PMC12589025 · Frontiers in Immunology · 2025-10-23 · 1 citation
+     https://doi.org/10.3389/fimmu.2025.1610033
+     Matched: Loss of autophagy in myeloid cells exacerbates LPS-induced shock · cat /papers/PMC12589025/content.lines --lines 52
+     "This study investigated the role of macrophage autophagy in LPS-induced lethal shock. Autophagy deficiency in myeloid cells drives lethal shock by promoting macrophage dysfunction and multiple forms of cell death."
+
+  29. BushenHuoxue decoction suppresses M1 macrophage polarization and prevents LPS induced inflammatory bone loss by activating AMPK pathway
+     Shuangshuang Chen; Lihong Tao; Feng Zhu; Zhifang Wang; Qi Zhuang; Yajun Li; Yunshang Yang; Chengchen...
+     PMC10160506 · Heliyon · 2023-04-19 · 11 citations
+     https://doi.org/10.1016/j.heliyon.2023.e15583
+     Matched: Cell culture · cat /papers/PMC10160506/content.lines --lines 24
+     "Bushen Huoxue Decoction was studied for its effects on inflammatory bone loss and macrophage polarization. The decoction suppresses M1 macrophage polarization and prevents LPS-induced bone loss by activating the AMPK pathway."
+
+  30. TLR4 phosphorylation at tyrosine 672 activates the ERK/c‐FOS signaling module for LPS‐induced cytokine responses in macrophages
+     James E.B. Curson; Liping Liu; Lin Luo; Timothy W. Muusse; Richard M. Lucas; Kimberley S. Gunther; P...
+     PMC10947571 · European Journal of Immunology · 2023-05-01 · 14 citations
+     https://doi.org/10.1002/eji.202250056
+     Matched: Introduction · cat /papers/PMC10947571/content.lines --lines 11-12
+     │ The innate immune system is tasked with sensing disruption of homeostasis, which occurs
+     │ during injury and/or infection. Innate immune cells, such as macrophages, employ
+     │ danger‐sensing PRRs [1] that recognize both exogenous pathogen‐associated molecular patterns
+     │ and endogenous damage‐associated molecular patterns [2]. The TLR family of pattern
+     │ recognition receptors is widely studied as a key orchestrator of innate immune inflammatory
+     │ and antimicrobial gene expression programs. TLRs signal from both the cell surface and
+     │ endosomal compartments, enabling them to recognize ligands derived from both extracellular
+     │ and vesicular pathogens [3]. TLR4, a receptor for Gram‐negative bacterial LPS, is …
+     "This study investigated the role of TLR4 tyrosine phosphorylation in LPS-induced cytokine responses. Tyrosine 672 phosphorylation is crucial for activating ERK/c-FOS signaling, leading to optimal inflammatory responses in macrophages."
+
+  31. Autocrine Regulation of Macrophage Activation via Exocytosis of ATP and Activation of P2Y11 Receptor
+     Hayato Sakaki; Mitsutoshi Tsukimoto; Hitoshi Harada; Yoshinori Moriyama; Shuji Kojima
+     PMC3618444 · PLoS ONE · 2013-04-05 · 112 citations
+     https://doi.org/10.1371/journal.pone.0059778
+     Matched: LPS-induced ATP Release via Exocytosis from THP-1 Cells · cat /papers/PMC3618444/content.lines --lines 48-49
+     "This study investigated ATP release and P2Y11 receptor activation in LPS-induced macrophage activation. Extracellular ATP release via exocytosis and subsequent P2Y11 receptor activation are crucial for effective macrophage activation and cytokine production."
+
+  32. Role and mechanism of miR-144-5p in LPS-induced macrophages
+     Guozhu Zhou; Yuwei Li; Jianping Ni; Ping Jiang; Zili Bao
+     PMC6909656 · Experimental and Therapeutic Medicine · 2019-11-19 · 15 citations
+     https://doi.org/10.3892/etm.2019.8218
+     Matched: Availability of data and materials · cat /papers/PMC6909656/content.lines --lines 65-70
+     "This study investigated miR-144-5p's role in LPS-induced macrophages. miR-144-5p overexpression reduced cell viability and inflammatory cytokine expression by targeting TLR2 and inhibiting NF-κB signaling."
+
+  33. LPS-induced down-regulation of signal regulatory protein α contributes to innate immune activation in macrophages
+     Xiao-Ni Kong; He-Xin Yan; Lei Chen; Li-Wei Dong; Wen Yang; Qiong Liu; Le-Xing Yu; Dan-Dan Huang; Shu...
+     PMC2118489 · The Journal of Experimental Medicine · 2007-10-29 · 121 citations
+     https://doi.org/10.1084/jem.20062611
+     Matched: LPS-induced SIRPα reduction contributes to macrophage activation · cat /papers/PMC2118489/content.lines --lines 27-28
+     "This study investigated the role of signal regulatory protein α (SIRPα) in macrophage immune responses to lipopolysaccharide (LPS). LPS exposure down-regulates SIRPα, which is necessary for full activation of innate immune pathways and cytokine production."
+
+  34. Toll-Like Receptors Drive Specific Patterns of Tolerance and Training on Restimulation of Macrophages
+     Suzanne K. Butcher; Christine E. O’Carroll; Christine A. Wells; Ruaidhrí J. Carmody
+     PMC5960718 · Frontiers in Immunology · 2018-05-14 · 109 citations
+     https://doi.org/10.3389/fimmu.2018.00933
+     Matched: Introduction · cat /papers/PMC5960718/content.lines --lines 14-15
+     │ Previous transcriptomic analysis of LPS (TLR4) tolerant cells identified two classes of
+     │ TLR4-inducible genes; (i) tolerizable genes which are repressed during LPS tolerance, and
+     │ (ii) non-tolerizable genes, which are not (11, [13], 14). The functional classification of
+     │ LPS-inducible genes revealed that pro-inflammatory factors fall predominantly into the
+     │ tolerizable class of genes, while genes which code for anti-microbial factors, including
+     │ anti-microbial peptides and scavenger receptors, fall into the non-tolerizable class of
+     │ genes. Thus, LPS tolerance represents a global transcriptional shift from a pro-inflammatory
+     │ to a pro-resolution and anti-inflammatory response, while maintaining …
+     "This study compared transcriptomic profiles of macrophages tolerized by different Toll-like receptor (TLR) ligands. TLR4 ligand tolerance served as an archetype, with distinct cytokine expression patterns and DNA motifs defining TLR-specific tolerance."
+
+  35. CD163 protein inhibits lipopolysaccharide-induced macrophage transformation from M2 to M1 involved in disruption of the TWEAK–Fn14 interaction
+     Linjian Chen; Wanchun Mei; Juan Song; Kuncheng Chen; Wei Ni; Lin Wang; Zhaokai Li; Xiaofeng Ge; Liuh...
+     PMC10750081 · Heliyon · 2023-12-04 · 23 citations
+     https://doi.org/10.1016/j.heliyon.2023.e23223
+     Matched: CD163 blocks TWEAK–Fn14 interactions during the LPS-induced transforma · cat /papers/PMC10750081/content.lines --lines 60-62
+     "CD163 protein was studied for its role in M2 to M1 macrophage transformation induced by lipopolysaccharide (LPS). CD163 inhibits this transformation by disrupting the TWEAK-Fn14 interaction and modulating signaling pathways."
+
+  36. The Cell Surface Receptor SLAM Controls T Cell and Macrophage Functions
+     Ninghai Wang; Abhay Satoskar; William Faubion; Duncan Howie; Susumu Okamoto; Stefan Feske; Charles G...
+     PMC2211908 · The Journal of Experimental Medicine · 2004-05-03 · 149 citations
+     https://doi.org/10.1084/jem.20031835
+     Matched: Impaired Responses to LPS by SLAM−/− Macrophages. · cat /papers/PMC2211908/content.lines --lines 60-62
+     │ Using purified resting peritoneal macrophages from SLAM−/− BALB/c mice, the same results
+     │ were obtained (Fig. S6, which is available at
+     │ http://www.jem.org/cgi/content/full/jem.20031835/DC1). Importantly, when macrophages from
+     │ the peritoneal cavity of thioglycollate-treated SLAM−/− BALB/c mice were stimulated with
+     │ LPS, a low level of IL-12 secretion was again detected (Fig. 3 E). This result indicates
+     │ that the impaired cytokine production is not dependent upon the method of isolation of the
+     │ macrophages. As expected from the absence of SAP in macrophages (4, 8), SAP−/− BALB/c (Fig.
+     │ 3 E) macrophages did not display a defect in IL-12 production. The possibility that SLAM−/−
+     │ peritoneal cavity …
+     "SLAM controls T cell IL-4 secretion and macrophage cytokine production. SLAM deficiency impairs parasite clearance, highlighting its role in innate and acquired immunity."
+
+  37. Ultra-purification of Lipopolysaccharides reveals species-specific signalling bias of TLR4: importance in macrophage function
+     Matthew Stephens; Shan Liao; Pierre-Yves von der Weid
+     PMC7809447 · Scientific Reports · 2021-01-14 · 20 citations
+     https://doi.org/10.1038/s41598-020-79145-w
+     Matched: Effect of species-specific LPS on M1 and M2 macrophage cytokine produc · cat /papers/PMC7809447/content.lines --lines 53-55
+     │ Taking into account the differences in TLR4 localization in the context of macrophage
+     │ polarization, we then challenged M0, M1, and M2 macrophages with LPS derived from three
+     │ common gram-negative commensals, but also known opportunistic-pathogenic bacteria; E. coli
+     │ (O127:B8), S. enterica (Serotype Typhimurium) and P. aeruginosa (serotype 10.22). Based on
+     │ our previous work, outlining the ability for cells to discriminate between LPS serotypes, we
+     │ hypothesised that commensal bacteria and their associated LPS, could stimulate TLR4 in a
+     │ varying manner[20]. We report here that induction of inflammatory mediators: IL-1β, IL-6,
+     │ IL-8, IL-10 and TNFα was significantly altered through the stimulation …
+     "Human macrophages differentially express and localize TLR4, leading to species-specific LPS signaling. This bias dictates distinct downstream pathways, enabling specialized innate immune responses."
+
+  38. Leukadherin-1-Mediated Activation of CD11b Inhibits LPS-Induced Pro-inflammatory Response in Macrophages and Protects Mice Against Endotoxic Shock by Blocking LPS-TLR4 Interaction
+     Xiaoying Yao; Guanjun Dong; Yuzhen Zhu; Fenglian Yan; Hui Zhang; Qun Ma; Xingqin Fu; Xuehui Li; Qing...
+     PMC6379471 · Frontiers in Immunology · 2019-02-12 · 42 citations
+     https://doi.org/10.3389/fimmu.2019.00215
+     Matched: Activation of TLR4 by LPS Could Endocytose CD11b in Macrophages · cat /papers/PMC6379471/content.lines --lines 65-66
+     │ It is well-known that LPS induced TLR4 endocytosis (16, [17], 31). Several studies have
+     │ shown that CD11b is involved in LPS-activated TLR4 signaling pathway (27, [30], 32).
+     │ However, it was still unknown whether LPS could also induce CD11b endocytosis. To address
+     │ this issue, BMDMs were treated with LPS/IFN-γ for different time points, and then, the
+     │ expression of TLR4 and CD11b on the surface of BMDMs was measured. Consistent with previous
+     │ studies, the expression of TLR4 on the surface of BMDMs was significantly reduced because of
+     │ TLR4 endocytosis (Figure 6A). Intriguingly, compared with vehicle-treated BMDMs, the
+     │ expression of CD11b on LPS/IFN-γ-treated BMDMs was also significantly decreased …
+     "Leukadherin-1 (LA1) activates CD11b on macrophages, reducing pro-inflammatory responses and protecting mice from endotoxic shock. This protection is achieved by LA1 blocking LPS-TLR4 interaction, partly through endocytosis of TLR4."
+
+  39. Tropomodulin1 exacerbates inflammatory response in macrophages by negatively regulating LPS-induced TLR4 endocytosis
+     Xueyu Geng; Xue Xia; Zhenhui Liang; Shuo Li; Zejun Yue; Huan Zhang; Lina Guo; Shan Ma; Siyu Jiang; X...
+     PMC11401823 · Cellular and Molecular Life Sciences: CMLS · 2024-09-14 · 20 citations
+     https://doi.org/10.1007/s00018-024-05424-8
+     Matched: Tmod1 retards LPS-induced TLR4 endocytosis and intracellular trafficki · cat /papers/PMC11401823/content.lines --lines 62-63
+     "Tropomodulin 1 inhibits LPS-induced TLR4 endocytosis in macrophages. This leads to increased inflammation, but Tmod1 deficiency reduces inflammatory responses in a mouse model."
+
+  40. The role of TREM2 in sepsis
+     Jiejie Zhu; Tianyin Sun; Hanren Dai
+     PMC11827804 · The Journal of Clinical Investigation · 2025-02-17 · 1 citation
+     https://doi.org/10.1172/JCI188895
+
+  41. Overabundance of Veillonella parvula promotes intestinal inflammation by activating macrophages via LPS-TLR4 pathway
+     Zhiyan Zhan; Wenxue Liu; Liya Pan; Yiwen Bao; Zhilong Yan; Li Hong
+     PMC9076897 · Cell Death Discovery · 2022-05-06 · 101 citations
+     https://doi.org/10.1038/s41420-022-01015-3
+     Matched: LPS-V activated macrophages through TLR4 signaling · cat /papers/PMC9076897/content.lines --lines 36-38
+     │ M1 macrophages (also called inflammatory macrophages) play a key role in the innate and
+     │ adaptive immune responses against pathogens [23]. However, the over-activation of these
+     │ macrophages results in the development and progression of various inflammatory diseases,
+     │ including a series of intestinal diseases. LPS from pathogens can trigger functional
+     │ polarization of the activated macrophages by binding TLR4 on the surface of macrophages
+     │ [16]. Therefore, we next tested whether LPS-V activated macrophages and increased
+     │ inflammatory cytokines through TLR signaling. We found that treatment with LPS-V induced
+     │ more intense signal transduction and higher levels of inflammatory cytokines in …
+     "This study investigated how an overabundance of *Veillonella parvula* contributes to intestinal inflammation. It was found that *V. parvula*'s LPS activates macrophages via the TLR4 pathway, promoting inflammation and damaging intestinal motility."
+
+  42. LPS adsorption and inflammation alleviation by polymyxin B-modified liposomes for atherosclerosis treatment
+     Huiwen Liu; Honglan Wang; Qiyu Li; Yiwei Wang; Ying He; Xuejing Li; Chunyan Sun; Onder Ergonul; Füsu...
+     PMC10501887 · Acta Pharmaceutica Sinica. B · 2023-06-13 · 33 citations
+     https://doi.org/10.1016/j.apsb.2023.06.005
+     Matched: The inhibitory mechanism of PLPs on LPS-induced macrophage activation · cat /papers/PMC10501887/content.lines --lines 61-62
+     "Polymyxin B-modified liposomes were developed to adsorb lipopolysaccharide (LPS) for atherosclerosis treatment. This approach reduced inflammation, stabilized plaques, and attenuated atherosclerosis progression by targeting circulating LPS."
+
+  43. Phagocytosis of microparticles increases responsiveness of macrophage-like cell lines U937 and THP-1 to bacterial lipopolysaccharide and lipopeptide
+     Takayuki Ueno; Yumi Yamamoto; Kiyoshi Kawasaki
+     PMC7990916 · Scientific Reports · 2021-03-24 · 18 citations
+     https://doi.org/10.1038/s41598-021-86202-5
+     Matched: Phagocytosis of beads mediated by Fcγ receptor enhances LPS-induced pr · cat /papers/PMC7990916/content.lines --lines 18-20
+     "Phagocytosis of microparticles by macrophage-like cells was studied to see its effect on pro-inflammatory responses. Microparticle uptake enhances these responses to bacterial components like LPS and lipopeptide."
+
+  44. Regulation of Human Macrophage M1–M2 Polarization Balance by Hypoxia and the Triggering Receptor Expressed on Myeloid Cells-1
+     Federica Raggi; Simone Pelassa; Daniele Pierobon; Federica Penco; Marco Gattorno; Francesco Novelli;...
+     PMC5594076 · Frontiers in Immunology · 2017-09-07 · 253 citations
+     https://doi.org/10.3389/fimmu.2017.01097
+     Matched: TREM-1 Crosslinking · cat /papers/PMC5594076/content.lines --lines 34
+     "This study investigated how hypoxia affects human macrophage polarization. Hypoxia promotes an M2-like phenotype, which can be reversed by TREM-1 activation."
+
+  45. Activated Macrophage Survival Is Coordinated by TAK1 Binding Proteins
+     September R. Mihaly; Sho Morioka; Jun Ninomiya-Tsuji; Giichi Takaesu
+     PMC3988229 · PLoS ONE · 2014-04-15 · 26 citations
+     https://doi.org/10.1371/journal.pone.0094982
+     Matched: Discussion · cat /papers/PMC3988229/content.lines --lines 47-49
+     "TAK1-binding proteins 1 and 2 were studied for their role in activated macrophage survival. Their deletion leads to activated macrophage death, indicating TAK1 activation is crucial for their survival."
+
+  46. Macrophages mediate colon carcinoma cell adhesion in the rat liver after exposure to lipopolysaccharide
+     Nuray Gül; Simran Grewal; Marijn Bögels; Gerben J. van der Bij; Malika M.A. Koppes; Steven J. Ooster...
+     PMC3525607 · Oncoimmunology · 2012-12-01 · 16 citations
+     https://doi.org/10.4161/onci.22303
+     Matched: LPS stimulates tumor-cell adhesion in the rat liver by disrupting orga · cat /papers/PMC3525607/content.lines --lines 21-23
+     "Lipopolysaccharide (LPS) was studied for its effect on colon carcinoma cell adhesion in rat livers. LPS increases tumor cell adhesion by causing macrophages to release reactive oxygen species, damaging the liver's vascular lining."
+
+  47. SOCS Proteins in Macrophage Polarization and Function
+     Heather M. Wilson
+     PMC4112788 · Frontiers in Immunology · 2014-07-28 · 166 citations
+     https://doi.org/10.3389/fimmu.2014.00357
+
+  48. Functions for Retinoic Acid-Related Orphan Receptor Alpha (RORα) in the Activation of Macrophages During Lipopolysaccharide-Induced Septic Shock
+     Emily Hams, Joseph Roberts, Rachel Bermingham, Padraic G. Fallon
+     PMC7986717 · biomedrxiv · 2021-03-09 · 23 citations
+     https://doi.org/10.3389/fimmu.2021.647329
+     "This study investigated the role of RORα in macrophage activation during LPS-induced septic shock. RORα expression in macrophages is crucial for pro-inflammatory responses to LPS, with its absence reducing susceptibility to septic shock."
+
+  49. Lipopolysaccharide suppresses lung metastasis by activating CD8+ T cells despite promoting effect via cancer-associated fibroblasts
+     Wenwen Cui; Yun Li; Min Hu; Tong tong Zhang; Zhipeng Wang; Jiong Deng; Tong Wang
+     PMC13093997 · BMC Cancer · 2026-03-09 · 1 citation
+     https://doi.org/10.1186/s12885-026-15837-2
+     Matched: LPS-induced suppression of lung metastasis is CD8+ T cell-dependent · cat /papers/PMC13093997/content.lines --lines 69-70
+     "Inflammation plays a dual role in tumor progression, and its overall effect depends on the complex interactions between the nature of the stimuli and the dynamic changes within the tumor microenvironm"
+
+  50. Macrophage ICAM-1 functions as a regulator of phagocytosis in LPS induced endotoxemia
+     Hanhui Zhong; Haitao Lin; Qiongni Pang; Jinling Zhuang; Xiaolei Liu; Xiaolian Li; Jinghua Liu; Jing ...
+     PMC7817350 · Inflammation Research · 2021-01-21 · 57 citations
+     https://doi.org/10.1007/s00011-021-01437-2
+     Matched: ICAM-1 regulates LPS-induced macrophage phagocytosis, is TLR4-dependen · cat /papers/PMC7817350/content.lines --lines 57-58
+     "Macrophage ICAM-1 expression was studied in LPS-induced endotoxemia. Increased ICAM-1 expression enhances macrophage phagocytosis via TLR4-mediated ROS production."
+
+[3.6s, saved to s_6208592b]
+
+💡 Extract data across these results with: map --from s_6208592b "your question"
+[3.6s, saved to s_6208592b]  [repo: mva-lof-molecular]
+

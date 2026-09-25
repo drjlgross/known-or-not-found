@@ -1,0 +1,7 @@
+$ src/pc.sh filter --from s_16b7f2c3 Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Nos2 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes in response to LPS or bacterial infection?
+# exit 0
+Filtered: 25 → 18 papers (7 removed as irrelevant) in 642ms
+  → 18 papers after filtering
+Results ID: s_16b7f2c3 (updated in place)
+[700ms, saved to s_16b7f2c3]  [repo: mva-lof-molecular]
+

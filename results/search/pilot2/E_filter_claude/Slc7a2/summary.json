@@ -1,0 +1,21 @@
+{
+  "gene": "Slc7a2",
+  "query": "Slc7a2 (solute carrier family 7 (cationic amino acid transporter, y+ system), member 2) LPS macrophage",
+  "also": [],
+  "mode": "filter",
+  "strict": false,
+  "question": "Does this paper describe the expression of the gene Slc7a2 changing in response to LPS or bacterial infection?",
+  "date": "2026-09-24T22:58:14Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_4dba9f90",
+  "judge_id": "s_4dba9f90",
+  "parent_n": 25,
+  "yes": 0,
+  "downgraded": 0,
+  "no": 25,
+  "paper_errors": 0,
+  "seconds_search": 12.9,
+  "seconds_judge": 1.4,
+  "seconds_total": 14.3
+}

@@ -1,0 +1,793 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv --bool --ranking bm25 --full-text -n 500 ("Tnfsf15" OR "tumor necrosis factor (ligand) superfamily, member 15" OR "VEGI" OR "TL1A") AND ("LPS" OR "lipopolysaccharide") AND "macrophage"
+# exit 0
+Found 55 papers (of 500 requested)  [s_ff0c3500]
+
+  1. Reduced monocyte and macrophage TNFSF15/TL1A expression is associated with susceptibility to inflammatory bowel disease
+     Arianne C. Richard; James E. Peters; Natalia Savinykh; James C. Lee; Eric T. Hawley; Françoise Meyla...
+     PMC6130856 · PMC · 2018-09-10 · 40 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6130856/
+     Matched: The IBD protective genotype at TNFSF15 is associated with increased TN · cat /papers/PMC6130856/content.lines --lines 25-26
+     │ The most direct mechanism by which TNFSF15 mRNA expression could influence IBD
+     │ susceptibility would be through controlling TNFSF15 protein levels. Stimulated monocytes
+     │ express transmembrane TNFSF15 protein, but it is rapidly cleaved from their surfaces.
+     │ TNFSF15 expression is thus measurable both on the cell surface and in the supernatant. To
+     │ determine if the TNFSF15 eQTL extended to the protein level, we first measured surface
+     │ TNFSF15 expression in immune-complex stimulated monocytes from homozygous individuals.
+     │ Individuals homozygous for the IBD protective allele exhibited increased cell surface
+     │ TNFSF15 (p 0.0145, Fig 3A). We next looked at soluble TNFSF15 in the supernatants of
+     │ monocytes …
+     "This study investigated the relationship between TNFSF15 gene expression and inflammatory bowel disease (IBD) susceptibility. Reduced TNFSF15 expression in monocytes is associated with increased IBD risk, suggesting that higher expression may be protective."
+
+  2. TNF superfamily molecules in atherosclerosis: mechanistic insights and therapeutic translation
+     Jia Luo; Jiaying Zhang; Yunfei Xie; Mengya Wu; Zitong Wang; Di Ma
+     PMC12626877 · PMC · 2025-11-05 · 6 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12626877/
+     Matched: TL1A-DR3 · cat /papers/PMC12626877/content.lines --lines 157-158
+     │ The DR3 (also known as TNFRSF25), a type I transmembrane protein of the TNF receptor
+     │ superfamily, pairs with tumor necrosis factor-like cytokine 1A (TL1A; VEGI; TNFSF15), the
+     │ sole confirmed ligand of DR3 to date, which exists as a single-pass type II transmembrane
+     │ protein (215). DR3 expression is observed in lymphocytes, NK cells, endothelial cells, and
+     │ macrophages, while TL1A is primarily expressed by umbilical vein endothelial cells,
+     │ monocytes, macrophages, and dendritic cells (216–218). Although the DR3-TL1A pathway
+     │ exhibits dual pro-inflammatory and pro-apoptotic properties, recent investigations have
+     │ revealed its predominant activation of MAPK, NF-κB, and PI3K signaling cascades …
+     "This review analyzes how TNF superfamily molecules regulate atherosclerosis progression and complications. These molecules show significant potential as biomarkers and therapeutic targets for cardiovascular diseases."
+
+  3. TL1A (TNFSF15) and DR3 (TNFRSF25): A Co-stimulatory System of Cytokines With Diverse Functions in Gut Mucosal Immunity
+     Vassilis Valatas; George Kolios; Giorgos Bamias
+     PMC6445966 · PMC · 2019-03-27 · 115 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6445966/
+     Matched: Mononuclear Phagocytes · cat /papers/PMC6445966/content.lines --lines 42-43
+     │ The cellular sources of TL1A and requirements for its expression indicate its important role
+     │ in innate and adaptive immune responses especially at the intestinal mucosa. Besides the
+     │ original description of its constitutive expression in endothelial cells (1), TL1A was also
+     │ found to be expressed by mononuclear phagocytes at the intestinal lamina propria of both
+     │ mice and humans under inflammatory conditions. In particular, early studies in murine models
+     │ of ileitis and colitis have shown that TL1A was mainly expressed by CD11chigh/MHC-II+
+     │ mononuclear phagocytes of the lamina propria and the MLNs and CD11clow/MHC-II− mononuclear
+     │ phagocytes of the lamina propria that probably represent dendritic …
+     "The TL1A/DR3 co-stimulatory system was studied for its diverse roles in gut mucosal immunity. This system critically influences both effector and regulatory T-cells, as well as innate lymphoid cells, impacting intestinal inflammation and repair."
+
+  4. Analysis of the human monocyte-derived macrophage transcriptome and response to lipopolysaccharide provides new insights into genetic aetiology of inflammatory bowel disease
+     J. Kenneth Baillie; Erik Arner; Carsten Daub; Michiel De Hoon; Masayoshi Itoh; Hideya Kawaji; Timo L...
+     PMC5358891 · PMC · 2017-03-06 · 119 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5358891/
+     Matched: Inducible autocrine regulatory loops in the LPS response · cat /papers/PMC5358891/content.lines --lines 38-39
+     │ Members of the FANTOM Consortium have produced a cellular interactome linking coexpressed
+     │ ligands and receptors [57]. The progressive response of MDM to LPS emphasized in Figs 1 and
+     │ 2 and S1 and S2 Tables is based upon part upon numerous autocrine loops in which induction
+     │ of ligands is followed by induction of the receptors. The most obvious is the response to
+     │ endogenous IFNB1; the genes for receptors for type 1 interferon, IFNAR1 and IFNAR2, were
+     │ expressed in MDM and further induced starting around 5–6 hours. TNF has also been shown to
+     │ initiate an autocrine loop in mouse macrophages responding to LPS, so that induction of some
+     │ late response genes is ablated in TNF knockout mice [58]. Both …
+     "Human monocyte-derived macrophages were profiled for gene expression changes in response to lipopolysaccharide. The study found that inflammatory bowel disease susceptibility loci are enriched for monocyte-specific genes regulated during differentiation and activation."
+
+  5. Eicosatetraynoic Acid Regulates Pro-Fibrotic Pathways in an Induced Pluripotent Stem Cell Derived Macrophage:Human Intestinal Organoid Model of Crohn’s Disease
+     Ingrid Jurickova, Benjamin W. Dreskin, Elizabeth Angerman, Erin Bonkowski, Kentaro Tominaga, Kentaro...
+     bio_fca345036ff6 · bioRxiv · 2024-01-30 · 1 citation (all versions)
+     Published (2024): https://doi.org/10.1101/2024.01.30.577959
+     Matched: Eicosatetraynoic-acid (ETYA) regulation of LPS stimulated CD patient i · cat /papers/bio_fca345036ff6/content.lines --lines 63-64
+     │ We therefore next asked whether these differences in gene expression would be reflected in
+     │ differences in cytokine or chemokine production, with a focus upon mediations previously
+     │ implicated in ant-TNF response and disease complications. 1 , 2 , 4 , 14 , 15 More recently,
+     │ SEMA3C which we found was differentially expressed in the gene expression data set has also
+     │ been implicated in wound healing in the gut 16 , and development of liver fibrosis. 17 We
+     │ therefore tested for variation in macrophage production of these cytokines and chemokines
+     │ with LPS and ETYA stimulation. LPS induced macrophage TNFA, IL1B, OSM, TL1A, CCL7, CXCL5,
+     │ and SEMA3C secretion, with relatively lower levels of IL10 …
+     "Eicosatetraynoic acid (ETYA) was tested in a human intestinal organoid model of Crohn's disease. ETYA inhibited pro-fibrotic effects of activated macrophages on intestinal organoids."
+
+  6. The infection-tolerant mammalian reservoir of Lyme disease and other zoonoses broadly counters the inflammatory effects of endotoxin
+     Gabriela Balderrama-Gutierrez, Ana Milovic, Vanessa J. Cook, M. Nurul Islam, Youwen Zhang, Hippokrat...
+     bio_cdc3c8b66dbd · bioRxiv · 2020-12-13 · 25 citations (all versions)
+     Published (2021): https://doi.org/10.1128/mbio.00588-21
+     Preprint: https://doi.org/10.1101/2020.12.13.422519
+     Matched: Spleen LPS · cat /papers/bio_cdc3c8b66dbd/content.lines --lines 390
+     │ | Table S11. Enrichment GO terms and included genes for Figure 4 | Group | negative
+     │ regulation of<br>blood coagulation | regulation of<br>fibrinolysis | negative regulation
+     │ of<br>fibrinolysis | regulation of blood<br>coagulation | | positive regulation of<br>blood
+     │ coagulation | | Group …
+     "This study compared inflammatory responses to endotoxin in Lyme disease-competent deermice and laboratory mice. Deermice exhibited a distinct, neutrophil-driven response with altered tryptophan metabolism, suggesting a mechanism for infection tolerance."
+
+  7. The Role of TL1A and DR3 in Autoimmune and Inflammatory Diseases
+     Yoshihiro Aiba; Minoru Nakamura
+     PMC3880748 · PMC · 2013-12-21 · 64 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3880748/
+     Matched: 6. The Association of DcR3 with Autoimmune and Inflammatory Diseases · cat /papers/PMC3880748/content.lines --lines 45
+     │ DcR3, also known as TR6, and M68, is a member of the TNFRSF. DcR3 consists of 300 amino
+     │ acids lacking a transmembrane domain of TNFRSF and be released as secreted protein. DcR3
+     │ functions as a decoy receptor for TL1A as well as FasL and LIGHT and inhibits these ligands
+     │ mediated apoptosis and lymphokine secretion [78–81]. DcR3 is induced in human antigen-
+     │ presenting cells such as monocytes and myeloid dendritic cells and intestinal epithelial
+     │ cells lines by lipopolysaccharide or lipoteichoic acid and is also induced in human dermal
+     │ microvascular endothelial cells by TNF-α and IL-1β [82, 83]. DcR3 modulates the
+     │ differentiation and maturation of monocyte, macrophage, and dendritic cells, …
+     "TL1A and its receptors DR3 and DcR3 were studied for their role in autoimmune diseases. Increased TL1A-DR3 signaling exacerbates inflammation, suggesting it's a therapeutic target for diseases like IBD and RA."
+
+  8. Integrated Single-Cell Profiling Reveals TL1A as a Biomarker and Driver of Type 2 Inflammation via Macrophage-Dependent Immunoregulation in Asthma
+     Jintao Zhang; Xiaofei Liu; Qian Qi; Yun Pan; Rong Zeng; Chenxiao Qiao; Changjuan Xu; Pengfei Wang; S...
+     PMC13062487 · PMC · 2026-04-09 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13062487/
+     Matched: Cell culture and treatment · cat /papers/PMC13062487/content.lines --lines 59-60
+     │ The human airway epithelial cell line HBE was obtained from the Shanghai Fuheng Cell Center.
+     │ Cells were cultured in Keratinocyte Medium (ScienCell) supplemented with 1% Keratinocyte
+     │ Growth Supplement (ScienCell) and then incubated at 37 °C in a humidified incubator with a
+     │ 5% CO2 environment. The transfection was performed with plasmid/small interfering RNA
+     │ (GenePharm, Shanghai, China) using EndoFectin-Max (GeneCopoeia) according to the
+     │ manufacturer’s instructions. The recombinant proteins, small-molecular compounds, or
+     │ inhibitors were purchased as indicated: recombinant mouse IL-13, IL-33, and TSLP protein
+     │ (MCE); recombinant human IL-2, IL-4, TNF-α, and IFN-γ protein (Abbkine); poly(I:C) …
+     "TL1A is elevated in asthma and drives type 2 inflammation through macrophage-induced CCL8. Targeting TL1A with antibodies reduces airway inflammation and pathogenic T-cell responses. This suggests TL1A is a biomarker and therapeutic target for asthma."
+
+  9. Inhibition of NF-kB 1 (NF-kBp50) by RNA interference in chicken macrophage HD11 cell line challenged with Salmonellaenteritidis
+     Hsin-I Chiang; Luc R. Berghman; Huaijun Zhou
+     PMC3036038 · PMC · 2009-09-01 · 38 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3036038/
+     Matched: Discussion · cat /papers/PMC3036038/content.lines --lines 40-42
+     │ The function of IL-18 is associated with enhancing a Th1-type response, besides activating
+     │ PMN (polymorphonuclear) cells such as neutrophils in mammal (Lee et al., 2004). Swaggerty
+     │ and her colleagues reported that higher IL-18 mRNA expression in heterophils in chickens (a
+     │ counterpart of neutrophils in birds) was associated with resistance to SE infection. This
+     │ suggested that IL-18 may also play a protective role against Salmonella infections
+     │ (Swaggerty et al., 2006). A previous study in humans reported that repression of IL-18 has
+     │ weak or absent repression with the competitive inhibition of NF-kB when compared to IL-1β
+     │ (Lee et al., 2004). In the present study, a rapid increase of IL-18 in …
+     "NF-kB 1 expression was inhibited in chicken macrophages challenged with Salmonella. This inhibition led to increased expression of TLR4 and IL-6, suggesting NF-kB 1 negatively regulates these immune genes."
+
+  10. NAD+ salvage dependence due to ROS-mediated DNA damage in inflammatory macrophages
+     Alanna M. Cameron; Angela Castoldi; David E. Sanin; Lea J. Flachsmann; Cameron S. Field; Daniel. J. ...
+     PMC12842115 · PMC · 2019-03-11 · 265 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12842115/
+     Matched: NAMPT modulates inflammatory macrophage activation · cat /papers/PMC12842115/content.lines --lines 19-20
+     │ Given the dependence of inflammatory macrophage activation on Warburg metabolism and the
+     │ importance of NAMPT for this process, we reasoned FK866 would inhibit γ+LPS and LPS-induced
+     │ cellular activation. Consistent with this, we found that FK866 significantly impaired
+     │ expression of activation markers including CD80, NOS2, pro-IL-1β, IL-6 and tumor necrosis
+     │ factor (TNF) in vitro (Fig. 3a-e, Supplementary Fig. 3a,b). Unbiased measurements of
+     │ transcriptional changes using RNA-seq revealed corresponding changes only in Cd80 and Tnf,
+     │ suggesting that much of the observed regulation may occur post-transcriptionally
+     │ (Supplementary Fig. 3c). Nevertheless, FK866 treatment had broad positive in addition …
+     "Inflammatory macrophages increase NAMPT to maintain NAD+ levels, which are depleted by ROS-induced DNA damage and PARP activation. This salvage pathway is crucial for supporting Warburg metabolism and macrophage activation."
+
+  11. BAFF and APRIL counterregulate susceptibility to inflammation-induced preterm birth
+     Jessica R. Doll; Maria E. Moreno-Fernandez; Traci E. Stankiewicz; Jennifer L. Wayland; Adrienne Wilb...
+     PMC10551044 · PMC · 2023-04-05 · 13 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10551044/
+     Matched: BAFF axis modulates macrophage inflammatory function · cat /papers/PMC10551044/content.lines --lines 37-38
+     │ To identify cellular sources capable of producing BAFF during inflammation, uterine immune
+     │ cells were analyzed in gravid WT and BAFF-reporter mice.[48] Changes in uterine immune cell
+     │ composition were observed at 6 h post challenge (Figure 4A), and, notably, the population of
+     │ inflammatory macrophages (F4/80+CD11b+Ly6c+) was increased (Figure S3A). In fact, increased
+     │ BAFF expression following LPS challenge was primarily detected in uterine macrophage
+     │ populations (Figures 4B and S3B). Macrophages are identified as key producers of
+     │ proinflammatory cytokines and regulators of PTB outcome.[41],[44],[45] Bone marrow-derived
+     │ macrophages (BMDMs) isolated from WT, BAFF-deficient, and APRIL-deficient …
+     "This study investigated the roles of BAFF and APRIL in inflammation-induced preterm birth using genetically modified mice. BAFF increased susceptibility to preterm birth, while APRIL decreased it, suggesting they are potential therapeutic targets."
+
+  12. Csep1P protein from Campylobacter concisus induces a chemokine-dominant inflammatory state in macrophages and enhances proinflammatory response to gut bacteria
+     Christopher Yau Man Luk; Mohammad M. Rahman; Xiaotian Zhou; C. Mee Ling Munier; Fang Liu; Stephen M....
+     PMC12904459 · PMC · 2026-02-13 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12904459/
+     Matched: Gene expression analysis indicates that Csep1P induced a chemokine-dom · cat /papers/PMC12904459/content.lines --lines 137-165
+     │ Among inflammatory mediator genes, Csep1P primarily induced chemokine gene expression rather
+     │ than a broad classical proinflammatory cytokine profile. Specifically, Csep1P upregulated
+     │ ten chemokine genes and only one proinflammatory cytokine gene, IL1B (Fig 3 and Table 2).
+     │ This gene expression profile differed markedly from the canonical M1 proinflammatory
+     │ macrophage activation state induced by lipopolysaccharide (LPS) and interferon-gamma
+     │ (IFN-γ), which is characterised by significant upregulation of proinflammatory cytokine
+     │ genes IL1A, IL1B, IL6, IL23A, and TNF (Fig 3 and Table 2) [30]. We designated the
+     │ Csep1P-induced macrophage state as M1-chem, where ‘chem’ denotes the predominant …
+     "Translocation of Campylobacter concisus from the oral cavity to the intestinal tract is increasingly recognised as a contributor to inflammatory bowel disease (IBD). The C. concisus secreted protein C"
+
+  13. Time Series miRNA-mRNA integrated analysis reveals critical miRNAs and targets in macrophage polarization
+     Liangqun Lu; Sara McCurdy; Sijia Huang; Xun Zhu; Karolina Peplowska; Maarit Tiirikainen; William A. ...
+     PMC5159803 · PMC · 2016-12-16 · 82 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5159803/
+     Matched: Network analysis of DE miRNAs and their targeted DE mRNAs · cat /papers/PMC5159803/content.lines --lines 34-35
+     │ The network of miRNAs enriched in M2-polarized macrophages is composed of 7 miRNAs and 230
+     │ target genes, of which 143 are down-regulated significantly in M2-polarized macrophages
+     │ (Fig. 6B). Interestingly, Cflar, Ptpn2 and Tnfsf15 are common targets of miR-27a-5p and
+     │ miR-26a-2-3p; Pvr, Arid5a, Pik3r5 and Hbegf are common targets of miR-27a-5p and miR-23a-5p
+     │ (in addition to Col4a3 which was identified earlier in the GSEA analysis), and Gpd2 is a
+     │ common target of let-7c-1-3p and miR-25-5p. Consistent with the repression patterns in M2 in
+     │ our study, these genes were largely shown to be expressed in M1-polarized macrophages.
+     │ Pik3r5 (Phosphoinositide-3-Kinase Regulatory Subunit 5) and Ptpn2 …
+     "This study analyzed time-series miRNA and mRNA expression during macrophage polarization. Key miRNAs and their mRNA targets regulating macrophage polarization pathways were identified."
+
+  14. Epigenetic regulatory mechanism of macrophage polarization in diabetic wound healing (Review)
+     Jielin Song; Yuqing Wu; Yunli Chen; Xu Sun; Zhaohui Zhang
+     PMC11551531 · PMC · 2024-10-18 · 28 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11551531/
+     Matched: Conclusion and perspectives · cat /papers/PMC11551531/content.lines --lines 76-83
+     │ Figure 5.: The Notch signaling pathway in macrophage polarization. LPS, lipopolysaccharide;
+     │ TLR, Toll-like receptor; NICD, Notch intracellular domain; NF-κB, nuclear factor kappa B;
+     │ MyD88, myeloid differentiation primary response 88; iNOS, inducible nitric oxide synthase;
+     │ IL, interleukin; CSL, Suppressor of Hairless, Lag-1; MAML, mastermind-like protein. Figure
+     │ 6.: The TGF-β/SMAD signaling pathway in macrophage polarization. LAP, latency-associated
+     │ peptide. Table I.: DNA methylation patterns regulating macrophage polarization in diabetic
+     │ wounds. First author(s), year | Factor | Regulation of macrophages | DNA
+     │ methylation/demethylation status | Related genes | Effects | (Refs.) Yan, 2018 | …
+     "This review examines how epigenetic mechanisms regulate macrophage polarization in diabetic wounds. These epigenetic changes are crucial for understanding diabetic wound pathogenesis and identifying therapeutic targets."
+
+  15. Integrative analysis of macrophage ribo-Seq and RNA-Seq data define glucocorticoid receptor regulated inflammatory response genes into distinct regulatory classes
+     Suhail A. Ansari; Widad Dantoft; Jorge Ruiz-Orera; Afzal P. Syed; Susanne Blachut; Sebastiaan van He...
+     PMC9582734 · PMC · 2022-10-03 · 22 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9582734/
+     Matched: The expression of LPS and dexamethasone responsive immune-regulatory g · cat /papers/PMC9582734/content.lines --lines 71-72
+     │ The Top 10 ORA Reactome Pathways significantly enriched in the downregulated DEGs, were all
+     │ related to the cytokine and chemokine signaling response in the immune system (Fig. 5D).
+     │ Consistently, STRING protein network analysis of the same genes, revealed the top four
+     │ subnetworks (clusters 1–4) to comprise of inflammatory mediators known to be suppressed by
+     │ glucocorticoids (Fig. 5E). The “Cytokine-chemokine network” comprised to a large extent of
+     │ various macrophage-derived MAMP receptors (Toll-like receptors (TLR1, TLR4, TLR8)) and
+     │ effector molecules. These effector molecules include interleukins (IL1A, IL1B, IL6, IL19,
+     │ IL12B, IL16, IL18, IL33), cytokines (Chemokine (C-X-C motif) ligand 9 …
+     "This study integrated ribo-Seq and RNA-Seq data to classify dexamethasone-responsive genes in macrophages. The analysis revealed distinct regulatory classes for these genes, shedding light on glucocorticoid receptor-mediated inflammatory responses."
+
+  16. Epigenomic analysis reveals a dynamic and context-specific macrophage enhancer landscape associated with innate immune activation and tolerance
+     Ping Zhang; Harindra E. Amarasinghe; Justin P. Whalley; Chwen Tay; Hai Fang; Gabriele Migliorini; An...
+     PMC9229144 · PMC · 2022-06-24 · 37 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9229144/
+     Matched: Discussion · cat /papers/PMC9229144/content.lines --lines 45-46
+     │ We characterized the innate immune epigenetic and transcriptional landscape of human
+     │ macrophages, acutely and in a tolerant state. We chose to focus on macrophages because they
+     │ play a critical and non-redundant role in sensing the presence of infection through
+     │ microbial-specific molecules and as key mediators of the innate response controlling
+     │ infection. This analysis enabled us to identify a subset of regulatory enhancers and
+     │ demonstrate that these differential epigenetic changes facilitate a dissection of the
+     │ relationships between enhancer accessibility, TF binding, mRNA/eRNA expression and the
+     │ molecular architecture of disease-associated genetic variants in human macrophages. Genome-
+     │ wide …
+     "Human macrophage enhancers were profiled during acute immune activation and tolerance. Most activated enhancers become tolerant, and these regions link genetic variants to inflammatory diseases."
+
+  17. tRNA-Derived Small RNA Accelerates Tumorigenesis through Crosstalk with Tumor-Associated Macrophages, and Downregulation with Cell Membrane-Modified Polymer Nanoparticles Enables Treatment Response
+     Zhou Zhou; Bairong Chen; Jibin Liu; Wei Feng; Zhaozheng Ren; Kangfeng Jin; Yi Li; Linling Ju; Lin Ch...
+     PMC12291082 · PMC · 2025-07-08 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12291082/
+     Matched: Introduction · cat /papers/PMC12291082/content.lines --lines 15-17
+     │ The tumor microenvironment (TME) is a sophisticated environment that includes miscellaneous
+     │ immune cells, and the signaling exchanges among these cells largely influence tumor
+     │ progression. Macrophages are among the most important components of the TME. In contrast to
+     │ normal macrophages, tumor-associated macrophages (TAMs) are a type of incompletely
+     │ differentiated macrophage that typically exhibit an immunosuppressive phenotype. , Under the
+     │ influence of multifarious factors, macrophages in the bloodstream are recruited to the TME
+     │ and undergo transformation to TAMs upon receiving other stimuli; these cells can be divided
+     │ into two types. M1-type macrophages stimulated with lipopolysaccharide …
+     "A study investigated how a specific tRNA-derived small RNA (tsr_019759) promotes liver cancer by interacting with tumor-associated macrophages. Nanoparticles that inhibit tsr_019759 effectively halted tumor progression by disrupting this interaction."
+
+  18. Targeting macrophage autophagy for inflammation resolution and tissue repair in inflammatory bowel disease
+     Er-jin Wang; Ming-Yue Wu; Zheng-yu Ren; Ying Zheng; Richard D Ye; Chris Soon Heng TAN; Yitao Wang; J...
+     PMC10157272 · PMC · 2023-05-04 · 39 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10157272/
+     Matched: Autophagy affects the anti-inflammatory activity of macrophages · cat /papers/PMC10157272/content.lines --lines 68
+     │ In addition to inflammatory factors, the production of ROS is also a key factor for tissue
+     │ inflammation. Impaired autophagy, especially impaired mitophagy, increases ROS production,
+     │ leading to tissue oxidative stress damage. Studies have shown that after LPS stimulation,
+     │ human [43] or mouse [42] macrophages expressing dysfunctional ATG16L1 have impaired
+     │ mitophagy, producing higher amounts of ROS and proinflammatory cytokines, impairing the
+     │ processing of MHC class II antigens, altering intracellular trafficking to the lysosomal
+     │ compartment and finally leading to colitis. Furthermore, macrophages depleted of LC3B,
+     │ exhibited dysfunctional mitochondria associated with increased ROS production, …
+     "This paper reviews the role of macrophage autophagy in inflammatory bowel disease (IBD). Targeting macrophage autophagy presents a potential therapeutic strategy for IBD treatment by promoting inflammation resolution and tissue repair."
+
+  19. Increased Potency of a Bi-specific TL1A-ADAM17 (TACE) Inhibitor by Cell Surface Targeting
+     Tomer Weizman; Itay Levin; Marianna Zaretsky; Irit Sagi; Amir Aharoni
+     PMC5572276 · PMC · 2017-08-22 · 13 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5572276/
+     Matched: Mouse peritoneal macrophages cell based assay of TNF-α secretion inhib · cat /papers/PMC5572276/content.lines --lines 34
+     │ Mouse peritoneal macrophage cells were harvest, 4 days post Thioglycollate injection, and
+     │ incubated overnight in RPMI 1640, with 10% FBS 2 mM Glutamine, 1x Pen/strep solution
+     │ supplemented with 10% heat inactivated FBS (both from Biological Industries, Beit-Haemek,
+     │ Israel). Macrophages medium was replaced and 2.5 ng/ml LPS and 1 μM A2 or proTACE were added
+     │ and incubated for 3 h at 37°C. The macrophages medium was collected and the TNF-α in the
+     │ medium was determined using mouse TNF-α DueSet ELISA kit (R&D systems) as recommended by the
+     │ manufacturer.
+     "A bi-specific inhibitor targeting TL1A and ADAM17 was developed. Cell surface targeting via ADAM17 inhibition significantly increased TL1A inhibition potency, suggesting a promising therapeutic approach for IBD."
+
+  20. Activating transcription factors: Orchestrators of macrophage biology in pathological settings (Review)
+     Yue-Chen Liu; Jia-Wei Zhao; Xiong-Tao Yue; Qi-Jie Chen; Shan-Jie Rong; Shi-Wei Liu; Fei Sun; Chun-Li...
+     PMC12768483 · PMC · 2025-12-24 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12768483/
+     Matched: Conclusions and perspectives · cat /papers/PMC12768483/content.lines --lines 120-134
+     │ ATF4 | Colitis | Up | Induces CHOP expression, amplify inflammatory cytokine release |
+     │ Aggravates intestinal inflammation and epithelial damage | LPS/DSS→BIP→PERK→eIF2α-P→ATF4 |
+     │ Ddit3 | (176) ATF4 | Osteoporosis | Up | Enhances osteoclast differentiation | Promotes
+     │ inflammatory bone resorption | RANKL→RANK→TRAF6→NF-κB→ATF4 | Nfatc1, Ctsk, Acp5, Dcstamp,
+     │ Atp6v0d2 | (184) ATF4 | Type 2 diabetes mellitus/metabolic syndrome | Up | Promotes
+     │ proinflammatory cytokine expression | Enhances ATM-mediated chronic adipose tissue
+     │ inflammation, impair metabolic homeostasis | PKR/PERK→eIF2α-P→ATF4 | Il6, Pdia3 | (177,182)
+     │ ATF4 | Atherosclerosis | Up | Induces SMC transdifferentiation, foam cell formation …
+     "This review examines how activating transcription factors (ATFs) regulate macrophage functions in various diseases. ATFs orchestrate macrophage responses to stress and metabolism, offering potential therapeutic targets for inflammatory and metabolic disorders."
+
+  21. The crucial role of metabolic reprogramming in driving macrophage conversion in kidney disease
+     Na Gong; Wenjuan Wang; Yifei Fu; Xumin Zheng; Xinru Guo; Yuhao Chen; Yan Chen; Shengchun Zheng; Guan...
+     PMC12172235 · PMC · 2025-06-16 · 19 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12172235/
+     Matched: Pentose phosphate pathway · cat /papers/PMC12172235/content.lines --lines 42-44
+     │ PPP is another important pathway in the oxidative catabolism of glucose, which is mainly
+     │ characterised by the direct oxidative dehydrogenation and decarboxylation of glucose. It
+     │ does not produce nor consume ATP, but produces nicotinamide adenine dinucleotide phosphate
+     │ (NADPH), which further protects cells from oxidative stress and drives ROS production to
+     │ kill pathogens. In addition, in patients with chronic glomerulonephritis, there was a
+     │ correlation network between transketolase, a key PPP pathway enzyme, and macrophage markers
+     │ such as CD68 (r = 0.49, p < 0.01) [96]. Increased PPP pathway transcript levels are
+     │ associated with decreased glomerular filtration rate, tubulointerstitial …
+     "This study investigated metabolic reprogramming in macrophages during kidney injury. Macrophage metabolic shifts, particularly in nucleotide and amino acid metabolism, drive their phenotypic changes and contribute to kidney fibrosis."
+
+  22. Epigenetic Control of Macrophage Polarisation and Soluble Mediator Gene Expression during Inflammation
+     Theodore S. Kapellos; Asif J. Iqbal
+     PMC4842078 · PMC · 2016-04-10 · 101 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4842078/
+     Matched: 5. DNA Methyltransferases (DNMTs) · cat /papers/PMC4842078/content.lines --lines 44-47
+     │ In addition to histone methylation, DNMT enzymes carry out DNA cytosine methylation and are
+     │ divided into four distinct families: DNMT1, DNMT2, DNMT3 (consisting of DNMT3a, DNMT3b, and
+     │ DNMT3L), and the chromomethylase family, which is exclusive to plants [102]. DNA methylation
+     │ occurs in intragenic, intergenic, and CpG islands in promoter regions in mammals [103].
+     │ Methylation of promoters leads to gene expression silencing, whilst methylation of
+     │ intragenic regions can induce the expression of alternative transcripts which are tissue-
+     │ and cell-specific [103]. The presence of numerous hypomethylated regions in intragenic and
+     │ intergenic regions in macrophages is associated with gene expression …
+     "This review summarizes advances in epigenetic regulation of macrophage polarization into M1 or M2 states. Epigenetic modifications of histones influence the expression of inflammatory cytokines and chemokines characteristic of these phenotypes."
+
+  23. The Sedoheptulose Kinase CARKL Directs Macrophage Polarization through Control of Glucose Metabolism
+     Arvand Haschemi; Paul Kosma; Lars Gille; Charles R. Evans; Charles F. Burant; Philipp Starkl; Bernha...
+     PMC3370649 · PMC · 2012-06-06 · 566 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3370649/
+     Matched: CARKL Focuses Glucose Metabolism and Marcrophage Polarization · cat /papers/PMC3370649/content.lines --lines 37-39
+     │ To investigate the necessity for CARKL in cellular metabolism and ultimately M1
+     │ polarization, we generated a stable cell line overexpressing CARKL (pCARKL; Figure 4A).
+     │ Interestingly, metabolomic profiling of naive pCARKL cells alone revealed significant
+     │ alterations in intracellular metabolism, including reduced G3P, R-5P, and X-5P levels
+     │ (Figures 4B and S4A). These findings implicate CARKL in control of metabolic state, and in
+     │ particular the nonoxidative arm of PPP. In a direct test of this idea, assessment of OCR and
+     │ ECAR revealed distinct and exclusive reductions in nonmitochondrial respiration (rotenone-
+     │ resistant oxygen consumption) in pCARKL cells, while ECAR levels were largely …
+     "This study investigated the role of the kinase CARKL in macrophage polarization. CARKL downregulation is essential for proper M1 and M2 macrophage polarization by controlling glucose metabolism."
+
+  24. Mechanistic and therapeutic dimensions of DcR3-mediated immunomodulation in sepsis
+     Bilal Abbas; Xinrui Lin; Chen Xu; Qi Chen; Jingqian Su
+     PMC12884390 · PMC · 2026-01-26 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12884390/
+     Matched: Introduction · cat /papers/PMC12884390/content.lines --lines 12-14
+     │ Figure 1: Pathophysiological progression of sepsis. This figure illustrates the sequential
+     │ stages of sepsis: (1) pathogen invasion; (2) immune recognition via pattern recognition
+     │ receptors (PRRs), initiating NF-κB-mediated cytokine production; (3) cytokine storm leading
+     │ to systemic inflammation; (4) endothelial injury and coagulopathy; (5) progression to multi-
+     │ organ dysfunction; (6) late-phase immunosuppression; (7) increased susceptibility to
+     │ secondary infections and mortality. The inset highlights immune cell dysfunction over the
+     │ sepsis timeline. Figure created with BioRender (www.biorender.com). Decoy Receptor 3 (DcR3)
+     │ is a promising immunomodulatory tool for sepsis treatment. Also known …
+     "Sepsis is a life-threatening syndrome characterized by dysregulated host-immune responses, progressing through hyperinflammatory and immunosuppressive stages. Decoy receptor 3 (DcR3), a soluble member"
+
+  25. The relationship between extreme inter-individual variation in macrophage gene expression and genetic susceptibility to inflammatory bowel disease
+     Claire L. O’Brien; Kim M. Summers; Natalia M. Martin; Dylan Carter-Cusack; Yuanhao Yang; Rasel Barua...
+     PMC11043138 · PMC · 2024-02-29 · 15 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11043138/
+     Matched: Variation in the temporal profile of expression of key cytokine genes · cat /papers/PMC11043138/content.lines --lines 55-57
+     │ The relative abundance and function of inducible negative feedback regulators of macrophage
+     │ activation highlighted previously (Baillie et al. 2017) also varied between individuals. For
+     │ example, the set of high-expressed and hypervariable transcripts in Table S1D–F includes
+     │ ACOD1, DUSP1, GPR183, OTUD1, PMAIP1, PTGS2 (aka COX2), SERPINE1, SOCS3, TNFAIP3, TNFAIP6 and
+     │ ZFP36. These have been described as inflammation suppressor genes in that even heterozygous
+     │ inactivating mutations in any one of them can lead to spontaneous inflammation (Kondo et al.
+     │ 2012; Wells et al. 2005). To illustrate the nature and extent of the diversity, Fig. 2 shows
+     │ the time courses of regulation of selected cytokines …
+     "This study analyzed gene expression variation in macrophages from IBD families. Extreme, gene-specific expression differences, particularly in HLA-associated genes and early LPS response genes, correlate with IBD genetic susceptibility."
+
+  26. Adrenal Gland Macrophage-derived TGF-β Governs Vascular Permeability to Drive Monocyte Recruitment during Stress
+     Yingzheng Xu; Michael T. Patterson; Michael D. Chang; Ian Ahlberg; Chi-Yun Liu; Charles Roll; Hannah...
+     bio_0e16880370a7 · bioRxiv · 2026-01-01 · 0 citations (all versions)
+     Published (2026): https://doi.org/10.64898/2026.05.18.726080
+     Matched: cat /papers/bio_0e16880370a7/content.lines --lines 33-37
+     │ 100 g of Evans blue dye was dissolved in 10 mL 1X PBS. Mice received 150 µL Evans blue dye
+     │ via intraperitoneal injection. 1 hour after injection, mice were sacrificed and harvested.
+     │ Both adrenal glands were completely minced up in 100 µL PBS 1X. Supernatant was collected in
+     │ 96-well plates. Blue dye intensity was measured using a plate reader. Analyses were
+     │ performed in GraphPad Prism or R. Two-group comparisons used two-tailed unpaired t tests,
+     │ with a minimum sample size of 3 per group. Comparisons involving more than two groups used
+     │ ANOVA. P-values were adjusted for multiple testing with the Benjamini-Hochberg method unless
+     │ noted. Adjusted P < 0.05 was considered significant. ns, *, **, …
+     "The adrenal glands are central regulators of systemic stress responses through tightly controlled glucocorticoid production. Yet, the contribution of local immune–vascular interactions to adrenal stre"
+
+  27. The association between transcriptional regulation of macrophage differentiation and activation and genetic susceptibility to inflammatory bowel disease
+     Claire L O’Brien, Kim M Summers, Natalia M Martin, Dylan Carter-Cusack, Rasel Barua, Ojas VA Dixit, ...
+     bio_e43fd56e6d81 · bioRxiv · 2022-12-14 · 0 citations (all versions)
+     Published (2022): https://doi.org/10.1101/2022.12.14.520373
+     Matched: Variation in the temporal profile of expression of key cytokine genes · cat /papers/bio_e43fd56e6d81/content.lines --lines 33-35
+     │ Many pro-inflammatory cytokines produced by macrophages are targets for successful
+     │ therapeutic intervention in IBD and/or are affected by regulatory variants that are in turn
+     │ associated with susceptibility to inflammatory disease. Our focus in this study was based on
+     │ the idea that affected individuals and their siblings provide a discovery cohort to identify
+     │ extreme regulatory variation. As noted above, the majority of transcripts varied by less
+     │ than 2-fold amongst the 50 individuals from IBD families at each of the 4 time points. To
+     │ identify the most highly variable transcripts, in Tables S1C-F the genes have been ranked in
+     │ order of maximum/minimum each time point. At each of the three …
+     "Transcriptional regulation of monocyte-derived macrophages in response to LPS was studied in IBD families. Individual gene expression varied greatly, with some HLA-associated transcript variations linked to IBD susceptibility."
+
+  28. Research Progress of DcR3 in the Diagnosis and Treatment of Sepsis
+     Jingqian Su; Zhiyong Tong; Shun Wu; Fen Zhou; Qi Chen
+     PMC10454171 · PMC · 2023-08-18 · 9 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10454171/
+     Matched: 6. Summary and Outlook · cat /papers/PMC10454171/content.lines --lines 43-47
+     │ Figure 1: Exogenous pathogens promote DcR3 expression through the activation of NF-κB,
+     │ PI3K-AKT, and other signaling pathways. LPS: lipopolysaccharide; PG: peptidoglycan; LTA:
+     │ lipoteichoic acid; TLR4: toll-like receptor 4; TLR2: toll-like receptor 2; TRIF: tir domain-
+     │ containing adaptor inducing interferon-beta; MYD88: myeloid differentiation factor 88; TAK1:
+     │ transforming growth factor beta-activated kinase 1; TAB1/2: transforming growth factor beta-
+     │ activated kinase 1 binding protein 1/2; IKKβ: IkappaB kinase β; IKKα: IkappaB kinase α;
+     │ NEMO: nuclear factor kappaB essential modulator; PI3K: phosphoinositide 3 kinase; PDK1:
+     │ 3-phosphoinositide-dependent protein kinase 1; AKT: protein kinase B; …
+     "This paper reviews research on decoy receptor 3 (DcR3) in sepsis. DcR3 shows promise as a diagnostic biomarker and a potential therapeutic agent for sepsis."
+
+  29. Specific elevation of DcR3 in sera of sepsis patients and its potential role as a clinically important biomarker of sepsis☆
+     Sunghee Kim; Lijun Mi; Lurong Zhang
+     PMC3396789 · PMC · 2012-05-29 · 25 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3396789/
+     Matched: Discussion · cat /papers/PMC3396789/content.lines --lines 101-103
+     │ DcR3 expression was detected in a wide array of human cells, and certain stimuli could
+     │ increase DcR3 release in primary human cell cultures including endothelial cells of various
+     │ tissue origins, lung bronchial epithelial cells, and dermal keratinocytes (Kim, unpublished
+     │ data). Both endothelial and epithelial cells responded to LPS, while keratinocytes responded
+     │ to both LPS and LTA. Besides bacterial antigens, DcR3 elevations in these cells were also
+     │ detected following TNF and IL-1β treatment. This might be partly the reason why DcR3
+     │ elevations can be found in a wide array of diseases including RCC and CD that we presented
+     │ as examples in this study. Nevertheless, there was no disease group …
+     "This study investigated soluble decoy receptor 3 (DcR3) in sepsis patients' sera. Elevated DcR3 levels effectively distinguished sepsis from other conditions, suggesting its potential as a reliable sepsis biomarker."
+
+  30. TNF Superfamily and ILC2 Activation in Asthma
+     Takahiro Matsuyama; Brittany Marie Salter; Nahal Emami Fard; Kentaro Machida; Roma Sehmi
+     PMC10967788 · PMC · 2024-02-29 · 14 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10967788/
+     Matched: 5. Role of TNF Superfamily and ILC2 in Airway Autoimmune Responses in  · cat /papers/PMC10967788/content.lines --lines 42-43
+     │ Recent studies have described a subset of severe asthmatics that have airway autoimmune
+     │ responses, manifesting as auto-IgG antibodies directed against cell-derived granule
+     │ proteins, including eosinophil-granule derived eosinophil peroxidase (EPX), macrophage
+     │ scavenger receptor with collagenous structure (MARCO), and nuclear/extranuclear antigens
+     │ [91,92]. In total, 55% of patients with moderate to severe asthma had two or more
+     │ autoantibodies, increased eosinophils in the airways, recurrent infections, and
+     │ exacerbations of asthma [92]. It is proposed that, over time, chronic eosinophilic
+     │ inflammation results in the accumulation of increasing levels of self-antigens. In agreement
+     │ with this and …
+     "This review examines the role of the TNF superfamily in activating Group 2 innate lymphoid cells (ILC2) in eosinophilic asthma. This interaction is implicated in severe asthma and airway autoimmune responses."
+
+  31. Eicosanoid Content in Fetal Calf Serum Accounts for Reproducibility Challenges in Cell Culture
+     Laura Niederstaetter; Benjamin Neuditschko; Julia Brunmair; Lukas Janker; Andrea Bileck; Giorgia Del...
+     PMC7830683 · PMC · 2021-01-15 · 19 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7830683/
+     Matched: 2. Results · cat /papers/PMC7830683/content.lines --lines 17-19
+     │ Formation of bioactive pro-inflammatory mediators by macrophages may be influenced by FCS
+     │ batch effects. In order to systematically investigate cell culture reproducibility issues
+     │ resulting from FCS batch effects, a proteome profiling experiment using a U937 macrophage
+     │ differentiation and activation model was performed. A single batch of U937 cells was seeded
+     │ into 24 identical aliquots, forming four groups subsequently sub-cultured with four
+     │ different FCS batches (Table 1, see Materials and Methods). All cells were differentiated
+     │ using phorbol 12-myristate 13-acetate (PMA) to induce macrophage formation as verified by
+     │ FACS (fluorescence activated cell sorting) analysis (Supplementary Figure …
+     "This study investigated the impact of fetal calf serum (FCS) batch variations on cell culture reproducibility. FCS eicosanoid content, which varies significantly between batches, was found to modulate cellular effector functions."
+
+  32. Role of the epithelial barrier in intestinal fibrosis associated with inflammatory bowel disease: relevance of the epithelial-to mesenchymal transition
+     Dulce C. Macias-Ceja; M. Teresa Mendoza-Ballesteros; María Ortega-Albiach; M. Dolores Barrachina; Do...
+     PMC10562728 · PMC · 2023-09-26 · 40 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10562728/
+     Matched: 3.2 EMT in intestinal fibrosis: molecular mechanism · cat /papers/PMC10562728/content.lines --lines 58-69
+     │ IL17A | In vitro In vivo | IEC6/IL17A Mouse intestine | ↑ | SNAIL | Zhang et al. (2018) IFNγ
+     │ | In vitro Human | HT29 cells cocultured with IFNγ -U937 macrophages CD: ↑IFNγ and IFNγ
+     │ receptor | ↑ | WNT/FZD4 | Macias-Ceja et al. (2022) SHH | In vitro Human | Caco2 cells
+     │ coculture with LPS-RAW264.7cells/HPI-1 or GANT-61 (HH inhibitors) IBD: ↑SHH activity | ↑ |
+     │ SHH | Ghorbaninejad et al. (2022) WNT2b/FZD4 | In vitro Human | HT29 cells/WNT2b CD
+     │ Biopsies/WNT2b CD: ↑WNT2B/FZD4 | ↑ | FZD4 | Ortiz-Masiá et al. (2020a) SUCNR1 | In vitro In
+     │ vivo Human | HT29/TGFβ Hetero transplantation SUCNR1−/−CD B3: ↑Succinate, SUCNR1 | ↑ | WNT |
+     │ Ortiz-Masiá et al. (2020a) AXL | In vitro In vivo Human | HT29 …
+     "This review discusses the epithelial barrier's role in intestinal fibrosis in IBD, focusing on epithelial-mesenchymal transition (EMT). Epithelial cells, through EMT, contribute to fibrosis by activating fibroblasts and depositing extracellular matrix."
+
+  33. Cell-selective proteomics segregates pancreatic cancer subtypes by extracellular proteins in tumors and circulation
+     Jonathan J. Swietlik; Stefanie Bärthel; Chiara Falcomatà; Diana Fink; Ankit Sinha; Jingyuan Cheng; S...
+     PMC10167354 · PMC · 2023-05-08 · 30 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10167354/
+     Matched: Co-cultured macrophages acquire TAM-like features driven by a complex  · cat /papers/PMC10167354/content.lines --lines 42-43
+     │ To further evaluate the cancer-cell-induced macrophage states in co-culture, we annotated
+     │ proteins from BMM-selective secretome and cellular proteome datasets using a panel of
+     │ markers commonly associated with macrophage polarization[52]. M1 and M2 states exemplify
+     │ broadly clustered extremes on a spectrum of macrophage states—with M1 being associated with
+     │ interferon and Toll-like receptor signals and efficient production of effector molecules and
+     │ inflammatory cytokines, and M2 macrophages with the resolution of inflammation or TH2
+     │ response-driven physiological reponses[52],[53]. As an experimental reference, we stimulated
+     │ MetRS*-expressing BMMs with lipopolysaccharide (LPS), a Toll-like …
+     "A cell-selective proteomics strategy analyzed extracellular proteins from pancreatic cancer cells and circulation. This approach identified distinct protein profiles for PDAC subtypes and circulating proteins reflecting tumor activity."
+
+  34. Overexpression of Tumor Necrosis Factor-Like Ligand 1 A in Myeloid Cells Aggravates Liver Fibrosis in Mice
+     Jinbo Guo; Yuxin Luo; Fengrong Yin; Xiaoxia Huo; Guochao Niu; Mei Song; Shuang Chen; Xiaolan Zhang
+     PMC6393882 · PMC · 2019-02-14 · 20 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6393882/
+     Matched: 4. Discussion · cat /papers/PMC6393882/content.lines --lines 57-59
+     │ Figure 4: Constitutive TL1A expression on myeloid cells facilitated HSC activation and the
+     │ expressions of MMP-2 and MMP-9. (a–c) The α-SMA expressions in the CCl4/Tg group were
+     │ markedly higher than that in the CCl4/WT group detected by immunohistochemical staining
+     │ (200x), Western blot, and RT-PCR. (d, e) The MMP-2 expressions in the CCl4/Tg group were
+     │ significantly increased than those in the CCl4/WT group detected by Western blot and RT-PCR.
+     │ (f, g) The MMP-9 expressions in the CCl4/Tg group were notably increased than those in the
+     │ CCl4/WT group detected by Western blot and RT-PCR. Data are expressed as mean ± SD, ∗p <
+     │ 0.05 and ∗∗p < 0.01. Figure 5: Constitutive TL1A expression on myeloid …
+     "Myeloid cell overexpression of TL1A was studied in a mouse model of liver fibrosis. This overexpression aggravated liver injury and fibrosis by promoting macrophage recruitment and pro-fibrotic cytokine secretion."
+
+  35. Regulation of Early Cartilage Destruction in Inflammatory Arthritis by Death Receptor 3
+     Eddie C Y Wang; Zarabeth Newton; Olivia A Hayward; Stephen R Clark; Fraser Collins; William V Perks;...
+     PMC4286106 · PMC · 2014-09-26 · 28 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4286106/
+     Matched: In vitro cell culture · cat /papers/PMC4286106/content.lines --lines 28
+     │ Human monocytes were obtained from peripheral blood using density-gradient centrifugation to
+     │ purify mononuclear cells, followed by isolation with anti-CD14 microbeads according to the
+     │ manufacturer's instructions (Miltenyi Biotec). Macrophages were then generated by 7-day
+     │ culture in RPMI 1640 supplemented with 10% heat-inactivated fetal calf serum and macrophage
+     │ colony-stimulating factor (20 ng/ml; R&D Systems). Human neutrophils, skin, and synovial
+     │ fibroblasts were isolated as previously described (40–42). Ethics approval for all human
+     │ experiments was obtained from the Bro Taf Health Authority (Cardiff, Wales, UK) prior to
+     │ commencement of the study. Murine bone marrow–derived macrophages …
+     "This study investigated the role of death receptor 3 (DR-3) in early inflammatory arthritis. DR-3 deficiency protected against cartilage destruction by reducing neutrophil recruitment and subsequent enzyme release."
+
+  36. Contribution of Non-immune Cells to Activation and Modulation of the Intestinal Inflammation
+     Renata Curciarello; Karina Eva Canziani; Guillermo Horacio Docena; Cecilia Isabel Muglia
+     PMC6467945 · PMC · 2019-04-10 · 44 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6467945/
+     Matched: Inflammation Is Modulated by Different Factors · cat /papers/PMC6467945/content.lines --lines 31-32
+     │ It has been demonstrated in the inflamed gut, that the mucosal damage not only affects the
+     │ epithelial compartment, but also colonic myofibroblasts located beneath the epithelium. It
+     │ has been reported that the exposure to colonic microbiota products promotes cell activation
+     │ through TLR (121). Beswick and col. demonstrated that isolated myofibroblasts from normal
+     │ human colonic mucosa respond to TLR4 stimulation by LPS with the induction of PD-L1, which
+     │ mediates the suppression of activated CD4+ PD-1+ T cell response and inhibition of IFN-γ
+     │ secretion in vitro. Authors also showed that in vivo up-regulation of PD-L1 in colonic
+     │ myofibroblast is MyD88-dependent in colitis (122). This provides …
+     "This review examines the role of epithelial cells and fibroblasts in intestinal inflammation, particularly in Inflammatory Bowel Diseases. Environmental factors and the gut microbiome significantly influence these non-immune cells, promoting local inflammation."
+
+  37. Osteopontin Links Myeloid Activation and Disease Progression in Systemic Sclerosis
+     Xia Gao; Guiquan Jia; Anna Guttman; Daryle J. DePianto; Katrina B. Morshead; Kai-Hui Sun; Nandhini R...
+     PMC7691442 · PMC · 2020-11-17 · 96 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7691442/
+     Matched: Results · cat /papers/PMC7691442/content.lines --lines 15-16
+     │ We initially sought to characterize the effects of IC activation of monocytes using a simple
+     │ in vitro model that emulates antigen:antibody complexes immobilized in tissue. In this
+     │ model, ICs are formed by addition of antibodies against an antigen immobilized on a tissue
+     │ culture plate well to which cells of interest are exposed.[19] Human monocytes adopted an
+     │ activated, macrophage-like morphology following stimulation with the plate-bound IC (Figure
+     │ 1A). Using this protocol, blood monocytes isolated from five human donors were subjected to
+     │ IC activation, and genes that were differentially modulated were queried by RNA sequencing
+     │ (RNA-seq). IC-activated monocytes revealed a consistent and …
+     "Immune complexes activate monocytes to secrete osteopontin (OPN), promoting lung fibroblast migration. Elevated serum OPN in SSc patients predicts lung function decline and reflects profibrotic macrophage activity."
+
+  38. Intestinal fibrosis associated with inflammatory bowel disease: Known and unknown
+     Yao Zhang; Haiming Zhuang; Kai Chen; Yizhou Zhao; Danshu Wang; Taojing Ran; Duowu Zou
+     PMC12037091 · PMC · 2025-02-27 · 18 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12037091/
+     Matched: Microbiota in Intestinal Fibrosis · cat /papers/PMC12037091/content.lines --lines 60-61
+     │ The interplay between the gut microbiota and the host plays a crucial role in the
+     │ pathogenesis of IBD. Studies have shown that in Crohn’s disease patients, the alpha
+     │ diversity of the microbiota is significantly lower in fibrotic strictures than in non-
+     │ stricture segments, with notable decreases in Lactobacillus, Oscillospira, Subdoligranulum,
+     │ Hydrogenophaga, Clostridium, and Allobaculum in fibrotic regions. Furthermore, the abundance
+     │ of Oscillospira sp. is negatively correlated with the degree of fibrosis, levels of
+     │ inflammatory markers, and patient prognosis.[83] Research indicates that the overexpression
+     │ of tumor necrosis factor-like cytokine 1A (TL1A, TNFSF15) induces intestinal fibrosis …
+     "This review examines the mechanisms of intestinal fibrosis in inflammatory bowel disease. Aberrant stromal cell activation, driven by upstream immune signals, is identified as a key mechanism underlying fibrosis."
+
+  39. Effects of Dietary Maltol on Innate Immunity, Gut Health, and Growth Performance of Broiler Chickens Challenged With Eimeria maxima
+     Inkyung Park; Doyun Goo; Hyoyoun Nam; Samiru S. Wickramasuriya; Kichoon Lee; Noah P. Zimmerman; Alex...
+     PMC8173067 · PMC · 2021-05-20 · 29 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8173067/
+     Matched: Abstract · cat /papers/PMC8173067/content.lines --lines 1-7
+     "Maltol was studied in vitro and in vivo for its effects on chicken immunity and gut health. Dietary maltol improved broiler growth and gut health when challenged with *Eimeria maxima*."
+
+  40. Up-regulation of DcR3 in microbial toxins-stimulated HUVECs involves NF-κB signalling
+     Yanqiang Hou; Dongyu Liang; Yang Liu; Hongwei Chen; Xiaoli Lou
+     PMC6307204 · PMC · 2018-12-27 · 6 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6307204/
+     Matched: Discussion · cat /papers/PMC6307204/content.lines --lines 57-59
+     │ Decoy receptor 3 (DcR3/TR6) is a newly identified member of the decoy receptor family. This
+     │ secreted protein belongs to the family of tumour necrosis factor receptor. DcR3 has three
+     │ main ligands: FasL, LIGHT and TL1A. DcR3 binding to FasL protects against FasL-mediated
+     │ apoptosis of lymphocytes and various tumour cell types, whereas DcR3 binding to LIGHT
+     │ inhibits LIGHT-induced apoptosis [15–17]. Meanwhile, DcR3 binding to TL1A induces T cell
+     │ activation [18]. Expression of DcR3 has been demonstrated in various acute and chronic
+     │ inflammatory conditions such as inflammatory bowel diseases (IBD) and acute respiratory
+     │ distress syndrome (ARDS) [19, 20]. DcR3 was expressed in THP-1 and increased by …
+     "This study investigated DcR3 expression in sepsis models. Microbial toxins up-regulate DcR3 in endothelial cells via the NF-κB signaling pathway."
+
+  41. TET2 in epigenetic control of immune cells: Implications for inflammatory responses and age-related pathologies
+     Tomasz Obrebski; Marta Maleszewska; Stanislaw Dunin-Horkawicz; Anna R. Malik
+     PMC12972976 · PMC · 2026-02-06 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12972976/
+     Matched: TET2-dependent gene regulation: Conclusions from transcriptome analyse · cat /papers/PMC12972976/content.lines --lines 75-78
+     │ BMDM/Tet2 KO/no stimulation | RNA-Seq/GSE104828/(127) | Positive regulation of leukocyte
+     │ migration, positive regulation of cellular component movement, leukocyte activation,
+     │ leukocyte differentiation, positive regulation of cytokine production, regulation of bone
+     │ remodeling, regulation of osteoclast/osteoblast differentiation, regulation of bone
+     │ mineralization, cytokine response, macrophage differentiation (reported directly in the
+     │ publication) | Cellular response to organic substance, cellular response to chemical
+     │ stimulus, response to organic substance, chemical homeostasis, cellular response to
+     │ endogenous stimulus, cellular response to hormone stimulus, regulation of multicellular …
+     "TET2 is an epigenetic modifier crucial for immune cell function, regulating gene expression at DNA and RNA levels. Its mutations impact age-related inflammatory diseases, highlighting its role in immune signaling and tissue homeostasis. Targeting TET2 pathways offers therapeutic potential for clonal hematopoiesis and inflammation."
+
+  42. Stromal and immune cells in gut fibrosis: the myofibroblast and the scarface
+     Vassilis Valatas; Eirini Filidou; Ioannis Drygiannakis; George Kolios
+     PMC5479991 · PMC · 2017-04-12 · 42 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5479991/
+     Matched: The activated myofibroblast · cat /papers/PMC5479991/content.lines --lines 21-23
+     │ Figure 1: Human intestinal subepithelial myofibroblasts. Immuno-fluorescence staining of
+     │ subepithelial myofibroblasts isolated from human colonic biopsies, expressing α-smooth
+     │ muscle actin (A) and vimentin (B), negative for desmin (C), and isotype matched control
+     │ antibody (D) (unpublished data) There are accumulating data that incriminate SEMFs in
+     │ autoimmune inflammation and post-inflammatory fibrosis. Specifically, SEMFs respond to
+     │ proinflammatory cytokines by upregulating the expression of interleukin (IL)-8, IL-6,
+     │ monocyte chemotactic protein-1 (MCP-1/CCL-2), granulocyte macrophage colony-stimulating
+     │ factor and macrophage colony-stimulating factor [28,29]. They also express Toll-like …
+     "This review examines how stromal and immune cells contribute to gut fibrosis. It concludes that sustained myofibroblast activation, driven by inflammatory mediators, leads to excessive ECM deposition and scarring."
+
+  43. Network dynamics determine the autocrine and paracrine signaling functions of TNF
+     Andrew B. Caldwell; Zhang Cheng; Jesse D. Vargas; Harry A. Birnbaum; Alexander Hoffmann
+     PMC4180974 · Genes & Development · 2014-10-01 · 91 citations
+     https://doi.org/10.1101/gad.244749.114
+     Matched: TLR-specific autocrine and paracrine functions of TNF · cat /papers/PMC4180974/content.lines --lines 41-42
+     │ To determine TNF’s autocrine role in augmenting NFκB’s gene expression response in
+     │ macrophages, we performed transcriptomic analysis using wild-type and tnf−/− BMDMs
+     │ stimulated with CpG. From the RNA sequencing (RNA-seq) data, we selected 267 genes that were
+     │ substantially up-regulated by CpG stimulation (Fig. 6A). K-means clustering identified
+     │ groups of genes that showed either a strong early peak induction (cluster E), a peak at 8 h
+     │ but persistent induction (cluster B and F), a peak at 8 h followed by a decrease by 24 h
+     │ (clusters A and D), or a slow induction resulting in a peak at 24 h of stimulation (cluster
+     │ C). Of these clusters, A and B contained many genes that were found to be …
+     "This study quantitatively modeled TNF production regulation. TNF acts paracrinely for LPS but autocrinely for CpG, extending NFκB activity duration."
+
+  44. Effects of Bacillus coagulans supplementation on the growth performance and gut health of broiler chickens with Clostridium perfringens-induced necrotic enteritis
+     Yuanyuan Wu; Yujing Shao; Bochen Song; Wenrui Zhen; Zhong Wang; Yuming Guo; Muhammad Suhaib Shahid; ...
+     PMC5784659 · PMC · 2018-01-25 · 107 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5784659/
+     Matched: Discussion · cat /papers/PMC5784659/content.lines --lines 256-257
+     │ LYZ is a 1,4-β-N-acetylmuramidase that enzymatically cleaves a glycosidic linkage in the
+     │ peptidoglycan component of bacterial cell walls, which results in the loss of cellular
+     │ membrane integrity and cell death [54]. Fowlicidin-2, a member of the cathelicidin family,
+     │ is an important antimicrobial peptide that has been identified in chicken and has been shown
+     │ to exert highly potent antibacterial and lipopolysaccharide (LPS)-neutralizing activities
+     │ [55]. In the current study, NE infection significantly downregulated LYZ and fowlicidin-2
+     │ gene expression, implying that birds were more prone to C. perfringens infection, as
+     │ evidenced by the higher level of C. perfringens that was detected in the …
+     "This study investigated *Bacillus coagulans* effects on broiler chickens with *Clostridium perfringens*-induced necrotic enteritis. Supplementation with *B. coagulans* improved growth, reduced intestinal damage, and inhibited *C. perfringens* in challenged birds."
+
+  45. Fes-deficient macrophages enhance CD8 +  T cell priming and tumour control through increased pro-inflammatory cytokine production and localization
+     Brian J. Laight, Danielle Harper, Natasha Dmytryk, Shengnan Zhang, Andrew Garven, Changnian Shi, Ric...
+     bio_1933531173b3 · bioRxiv · 2024-02-27 · 0 citations (all versions)
+     Published (2024): https://doi.org/10.1101/2024.02.27.581601
+     Matched: Discussion · cat /papers/bio_1933531173b3/content.lines --lines 48-49
+     │ We provide novel evidence that the Fes non-receptor tyrosine kinase plays an intracellular
+     │ innate immune checkpoint role in APCs that modulates anti-cancer adaptive immunity in part
+     │ by regulating expression and presentation of the pro-inflammatory Signal 3 cytokine IL-12 to
+     │ CTLs. Using an MMTV-Neu transgenic breast cancer onset model we showed that targeted
+     │ germline inactivating mutation in fes was associated with gene-dose dependent delay in
+     │ tumour onset. This correlated with increased immune infiltration of CD3 and CD11b positive
+     │ cells and inflammatory signaling (pNF-κB) prior to tumor detection. Inflammation can
+     │ suppress tumour initiation and growth in some contexts (acute …
+     "Host Fes deficiency in macrophages enhances anti-cancer immunity by increasing pro-inflammatory cytokine production. This leads to improved tumor control and sensitization to immunotherapy."
+
+  46. Reverse Signaling of Tumor Necrosis Factor Superfamily Proteins in Macrophages and Microglia: Superfamily Portrait in the Neuroimmune Interface
+     Won-Ha Lee; Donggun Seo; Su-Geun Lim; Kyoungho Suk
+     PMC6389649 · PMC · 2019-02-19 · 35 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6389649/
+     Matched: Reverse Signaling Initiated From Other TNFSF Members · cat /papers/PMC6389649/content.lines --lines 60-62
+     │ The list of TNSF members that can induce reverse signaling is increasing as more studies
+     │ focus on this aspect of the TNFSF/TNFRSF system. In the case of TNF, its ICD contains a
+     │ nuclear localization signal sequence that can be liberated upon stimulation of the membrane-
+     │ bound form of TNF (mTNF) with anti-TNF antibodies. This cleaved 10-kD fragment containing
+     │ the ICD and TMD were found to be localized to internal membranes and nuclear fractions
+     │ (187). Stimulation of mTNF with soluble TNFR increases intracellular calcium levels in
+     │ RAW264.7 mouse monocytes (188). Additionally, soluble TNFR treatment causes changes in mTNF
+     │ phosphorylation status, and casein kinase, which can phosphorylate the …
+     "This review examines the reverse signaling of Tumor Necrosis Factor Superfamily proteins in macrophages and microglia. Understanding these pathways in the neuroimmune interface could lead to improved treatments for inflammatory diseases."
+
+  47. Targeting thymidine phosphorylase as a potential therapy for bone loss associated with periprosthetic osteolysis
+     Gen Matsumae; Tomohiro Shimizu; Yuan Tian; Daisuke Takahashi; Taku Ebata; Hend Alhasan; Shunichi Yok...
+     PMC8459589 · PMC · 2021-06-08 · 21 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8459589/
+     Matched: Osteoclasts differentiation and bone resorption assays · cat /papers/PMC8459589/content.lines --lines 43
+     │ Human monocytes obtained from the blood of healthy donors (Asian, three males with ages of
+     │ 30–45 years) were isolated by density gradient centrifugation (Ficoll‐PaqueTM PLUS: GE
+     │ Healthcare, Waukesha, WI) followed by MACS Pan monocyte isolation kit (Miltenyi Biotec,
+     │ Auburn, CA).[43] Cells were suspended in growth medium containing minimum essential medium
+     │ Eagle (MEM) supplemented with 10% heat‐inactivated fetal bovine serum (FBS), a 5%
+     │ penicillin/streptomycin solution, and 5% L‐glutamine and cultured in a 37°C‐humidified
+     │ atmosphere containing 5% CO2 in a 75 cm2 flask for 3 h. Thereafter, the medium was discarded
+     │ and adherent monocytes (CD14+) were cultured in growth medium supplemented with …
+     "This study investigated macrophage-derived factors that promote bone loss in periprosthetic osteolysis. Thymidine phosphorylase (TYMP) was identified as a key factor that drives osteoclast formation and bone resorption, suggesting it as a therapeutic target."
+
+  48. The Activin A-Peroxisome Proliferator-Activated Receptor Gamma Axis Contributes to the Transcriptome of GM-CSF-Conditioned Human Macrophages
+     Concha Nieto; Rafael Bragado; Cristina Municio; Elena Sierra-Filardi; Bárbara Alonso; María M. Escri...
+     PMC5796898 · PMC · 2018-01-29 · 28 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5796898/
+     Matched: PPARγ-Dependent Gene Profile in Human A-MØ · cat /papers/PMC5796898/content.lines --lines 56-57
+     │ To assess the physiological relevance of the above findings, we next analyzed the functional
+     │ and transcriptional consequences of siRNA-mediated PPARγ knockdown in human A-MØ isolated
+     │ from BAL fluids. In agreement with previous reports (61, 62), isolated A-MØ expressed CD163
+     │ and exhibited very low levels of cell surface CD14 (Figure 6A). Regarding PPARγ expression,
+     │ A-MØ exhibited a level of PPARG1/3 and PPARG2 mRNA expression similar to that found in GM-MØ
+     │ and considerably higher than the expression seen in M-MØ (Figure 6B), and responded to the
+     │ presence of the PPARγ agonists GW7845 by enhancing the expression of CD36 (Figure 6C). At
+     │ the functional level, PPARγ knockdown in A-MØ did not …
+     "The study investigated the role of PPARγ in GM-CSF-conditioned human macrophages. PPARγ shapes the transcriptome of these macrophages, and its expression is regulated by activin A."
+
+  49. IL-4 controls activated neutrophil FcγR2b expression and migration into inflamed joints
+     Sudeepta Kumar Panda; Gustaf Wigerblad; Long Jiang; Yanek Jiménez-Andrade; Vaishnavi Srinivasan Iyer...
+     PMC7022208 · PMC · 2020-01-24 · 44 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7022208/
+     Matched: Identification of CSF3 as a Potent IL-4Rα Regulator in Neutrophils. · cat /papers/PMC7022208/content.lines --lines 23
+     │ We then generated single-cell colonies of the MH-S cell line and identified a set of clones
+     │ that secreted higher amounts of the IL-4Rα regulating proteins (“high-activity clones”) and
+     │ a set of clones that secreted lower amounts (“low-activity clones”). Comparing these two
+     │ groups revealed that the high-activity clones (n = 3) produced at least four times more of
+     │ the active IL-4Rα regulating proteins compared to the low clones (n = 3) based on the
+     │ ability to up-regulate neutrophil IL-4Rα at different dilutions (SI Appendix, Fig. S2C).
+     │ Next, we performed a global gene-expression analysis comparing high- and low-activity clones
+     │ stimulated with or without LPS. We had seen that the IL-4Rα …
+     "IL-4 was studied for its effect on neutrophils in joint inflammation. IL-4 suppresses neutrophil migration and upregulates FcγR2b expression, potentially offering therapeutic targets."
+
+  50. Transcriptome analysis of the effect of C-C chemokine receptor 5 deficiency on cell response to Toxoplasma gondii in brain cells
+     Kaoru Kobayashi; Kousuke Umeda; Fumiaki Ihara; Sachi Tanaka; Junya Yamagishi; Yutaka Suzuki; Yoshifu...
+     PMC6737708 · PMC · 2019-09-11 · 10 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6737708/
+     Matched: Discussion · cat /papers/PMC6737708/content.lines --lines 58-60
+     │ In addition, NF-κB target genes (i.e., C3, Chi3l1, Fas, Gadd45β, Hmox1, Ptx3, Saa3, Tlr2)
+     │ were abundant in the DEGs in which upregulation during infection was impaired by
+     │ CCR5-deficiency. The current results suggest that signal transduction via CCR5 leads to
+     │ activation of NF-κB during T. gondii infection in astrocytes, although CCR5 involvement in
+     │ NF-κB activation is complicated as follows. The HIV envelope gp120 protein reportedly
+     │ activates NF-κB via CCR5, but CCL4, a natural ligand for CCR5, did not activate NF-κB [34].
+     │ Another ligand, CCL5, activates NF-κB and induces cell migration in human osteosarcoma [35].
+     │ For microglia, among the DEGs which were upregulated during infection and were …
+     "This study analyzed gene expression in brain cells of mice lacking CCR5 during *Toxoplasma gondii* infection. CCR5 deficiency enhanced the brain's immune response, potentially contributing to inflammation and neurological injury."
+
+  51. The role of gut mycobiome in responses to cancer immunotherapy
+     Natalia Szóstak; Piotr Kozłowski; Tao Zuo; Anna Philips
+     PMC12578317 · PMC · 2025-10-29 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12578317/
+     Matched: Dectin-1 as an immunostimulatory agent · cat /papers/PMC12578317/content.lines --lines 65-66
+     "This review summarizes the gut mycobiome's role in cancer and its influence on immunotherapy. Emerging data suggest fungi may be biomarkers for immunotherapy response and potential therapeutic targets."
+
+  52. Antimicrobial activity of sophorolipids against Eimeria maxima and Clostridium perfringens, and their effect on growth performance and gut health in necrotic enteritis
+     Inkyung Park; Sungtaek Oh; Hyoyoun Nam; Pietro Celi; Hyun S. Lillehoj
+     PMC8851262 · PMC · 2022-01-15 · 18 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8851262/
+     Matched: DISCUSSION · cat /papers/PMC8851262/content.lines --lines 148-149
+     "Sophorolipids were tested for antimicrobial activity against *Eimeria maxima* and *Clostridium perfringens* in vitro and in vivo. Sophorolipids dose-dependently reduced pathogen viability and improved gut health and growth performance in broiler chickens challenged with necrotic enteritis."
+
+  53. The pathogenesis of diclofenac induced immunoallergic hepatitis in a canine model of liver injury
+     Saravanakumar Selvaraj; Jung-Hwa Oh; Reinhard Spanel; Florian Länger; Hyoung-Yun Han; Eun-Hee Lee; S...
+     PMC5746105 · PMC · 2017-09-23 · 20 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746105/
+     Matched: DISCUSSION · cat /papers/PMC5746105/content.lines --lines 528-529
+     "Beagle dogs were treated with diclofenac to study immunoallergic hepatitis. Diclofenac induced oxidative stress, immune system dysregulation, and complement activation, leading to liver injury."
+
+  54. Involvement of T Cell Immunity in Avian Coccidiosis
+     Woo H. Kim; Atul A. Chaudhari; Hyun S. Lillehoj
+     PMC6886378 · PMC · 2019-11-22 · 155 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6886378/
+     Matched: Development Of Immunology In Avian Coccidiosis · cat /papers/PMC6886378/content.lines --lines 15-16
+     "This review examines T cell immunity's role in avian coccidiosis. It highlights the involvement of Th1, Th17, and regulatory T cells in the host's response to *Eimeria* infection."
+
+  55. A proteomic polygenic score to identify IL-18 driven inflammatory bowel disease
+     Michael C. Turchin; Narayanan Raghupathy; Cara L. Carty; Melody Morris; Joseph C. Maranville; Emily ...
+     med_db9a02c58c5a · medRxiv · 2026-01-01 · 0 citations (all versions)
+     Published (2026): https://doi.org/10.64898/2026.05.18.26353508
+     Matched: cat /papers/med_db9a02c58c5a/content.lines --lines 66-69
+     │ Additionally, for this second set of ancestry analyses, the gnomAD60 dataset was also
+     │ incorporated. Using version 4.1.0, SNPs were looked up in the gnomAD browser
+     │ (https://gnomad.broadinstitute.org/) and the allele frequencies within each ancestry group
+     │ were extracted. Acknowledgements The authors would like to thank Corneliu Bodea, Frédéric
+     │ Baribaud, David Zammit, Julie Su, Laurence Menard, Gilles Buchwalter, and Aisling O’Hara
+     │ Hall for their feedback during this work. Research using the UK Biobank Resource has been
+     │ done under Application Numbers 26041 and 65851.The results published here are in whole or
+     │ part based on data obtained from the IBD Plexus program of the Crohn’s & Colitis …
+     "High levels of IL-18 have been causally implicated in IBD risk and may represent a unique mechanism driving IBD yet to be therapeutically targeted. To identify individuals predisposed to increased lev"
+
+[241ms, saved to s_ff0c3500]
+
+💡 Extract data across these results with: map --from s_ff0c3500 "your question"
+[241ms, saved to s_ff0c3500]  [repo: mva-lof-molecular]
+

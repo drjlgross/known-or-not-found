@@ -1,0 +1,169 @@
+$ src/pc.sh map --from s_3d92a9e1 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}}} Does this paper describe the expression of the gene Nos2 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_6341269e
+
+  ✓ Protein Kinase Cε Is Required for Macrophage Activation and Defense Ag
+    PMC2195971 · 1685ms
+    {
+      "answer": "yes",
+      "evidence": "As macrophages are known to generate NO via the upregulation of the expression of NOS-2, the protein level of NOS-2 was assessed in vitro after the activation of thioglycollate-elicited macrophages by LPS and IFNγ."
+    }
+
+  ✓ Nitric oxide produced by NOS2 copes with the cytotoxic effects of supe
+    PMC7905073 · 1608ms
+    {
+      "answer": "yes",
+      "evidence": "LPS treatment induced the formation of NOS2, which resulted in NO production in WT and these levels were even higher in SOD1KO macrophages."
+    }
+
+  ✓ Mathematical modelling of activation-induced heterogeneity reveals cel
+    bio_206e5a35 · 1500ms
+    {"answer": "yes", "evidence": "To capture distinct macrophage subpopulations upon activation with LPS we measured protein expression of three cytokines, TNF, pro-IL-1\u0322 and IL-6, and one intracellular pro-inflammatory protein NOS2, an enzyme that catalyzes nitric oxide formation."}
+
+  ✓ Lipopolysaccharide-Induced Nitric Oxide and Prostaglandin E2 Productio
+    PMC8146495 · 1384ms
+    {"answer": "yes", "evidence": "Pre- or post-treatment with 50 \\u03bcM TGII significantly attenuated LPS-induced NOS2 mRNA and protein expression in RAW 264.7 cells (Figure 2B,C)."}
+
+  ✓ Mathematical modelling of activation-induced heterogeneity in TNF, IL6
+    PMC9411976 · 1289ms
+    {"answer": "yes", "evidence": "IL-6 and NOS2 are also up-regulated due to LPS ( Farlik et al., 2010; Tanabe et al., 2010)."}
+
+  ✓ Species-Specific Transcriptional Regulation of Genes Involved in Nitri
+    PMC6245571 · 1169ms
+    {"answer": "yes", "evidence": "In rats, as in mice, LPS strongly induced Nos2, the arginine transporter Slc7a2, arginase 1 (Arg1), GTP cyclohydrolase (Gch1), and argininosuccinate synthase (Ass1)."}
+
+  ✓ Selective PPARδ Agonist GW501516 Protects Against LPS-Induced Macropha
+    PMC11547330 · 1092ms
+    {
+      "answer": "yes",
+      "evidence": "Treatment with LPS (100 ng/mL) significantly increased both mRNA and protein levels of NOS2 in RAW264.7 cells."
+    }
+
+  ✓ Pheophytin a Inhibits Inflammation via Suppression of LPS-Induced Nitr
+    PMC4284740 · 1159ms
+    {
+      "answer": "yes",
+      "evidence": "We found that pre-treatment with pheophytin a suppressed lipopolysaccharide (LPS)-induced nitric oxide (NO), prostaglandin E2 (PGE2), and interleukin-1β in RAW 264.7 macrophages. NO synthase-2 (NOS2) and cyclooxygenase-2 (COX-2) expression levels were repressed by pre-treatment with pheophytin a at both the transcriptional and translational levels."
+    }
+
+  ✓ Lipopolysaccharide-Induced Nitric Oxide, Prostaglandin E2, and Cytokin
+    PMC5751240 · 1409ms
+    {
+      "answer": "yes",
+      "evidence": "LPS-induced expression of NOS2 protein and mRNA were also repressed in RAW 264.7 cells with pheophytin-b in a dose-dependent manner (p < 0.05; Figure 3A and Figure 4A, respectively)."
+    }
+
+  ✓ Inducible nitric oxide synthase-derived extracellular nitric oxide flu
+    PMC6920088 · 1493ms
+    {
+      "answer": "yes",
+      "evidence": "In contrast, in BMDM, LPS alone (18hr) elicited intermediate NO flux which was markedly augmented when combined with IFNγ."
+    }
+
+  ✓ Acetylation of mitogen-activated protein kinase phosphatase-1 inhibits
+    PMC2413043 · 1264ms
+    {
+      "answer": "yes",
+      "evidence": "TSA decreases LPS-activated NO production in a dose-dependent manner (Fig. 1 A)."
+    }
+
+  ✓ Activation of macrophage nuclear factor-κB and induction of inducible 
+    PMC150509 · 964ms
+    {
+      "answer": "yes",
+      "evidence": "Abundant iNOS mRNA was found in the LPS stimulated cells at 24 hours compared to untreated cells (Fig. 2)."
+    }
+
+  ✓ Comparative Study of The Effect of LPS on The Function of BALB/c and C
+    PMC3660024 · 1334ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Neutrophilic granule protein promotes lipopolysaccharide-induced iNOS/
+    PMC12592619 · 1390ms
+    {
+      "answer": "yes",
+      "evidence": "The results showed that 220 DEGs were upregulated in response to LPS challenge, among which the expression level of iNOS gene (Nos2) was significantly elevated (Fig. 1A)."
+    }
+
+  ✓ Dataset on the differentiation of THP-1 monocytes to LPS inducible adh
+    PMC7851796 · 1231ms
+    {
+      "answer": "yes",
+      "evidence": "Quantitative real-time PCR analyses showed that the Ct values of TNF-\\u03b1, IL-1\\u03b2, and COX-2 were reduced by LPS treatment as compared to the control cells (Table 1, see S1 for raw data)."
+    }
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 1724ms
+    {
+      "answer": "yes",
+      "evidence": "Interferon regulatory factors in macrophages like Irf1 actively regulate a macrophage effector activation with the expression of other pro-M1 genes such as IL-12 (Il12a and Il12b) and iNos (Nos2)."
+    }
+
+  ✓ Acute exacerbation of idiopathic pulmonary fibrosis model by small amo
+    PMC8921716 · 1618ms
+    {
+      "answer": "yes",
+      "evidence": "In the BLM (+)/LPS (0.05 or 0.15) group, the NOS2 levels in the lung at 24 h after LPS administration (1.0 \u0070\u0061\u0064 2.2 \u0070\u0061\u0064 0.7, respectively) were significantly higher than those in the BLM (\u2212)/LPS (0.05 or 0.15) group (0.2 \u0070\u0061\u0064 0.04 or 0.9 \u0070\u0061\u0064 0.2, respectively) (p<0.01) (Fig. 10A)."
+    }
+
+  ✓ Wheatgrass inhibits the lipopolysaccharide-stimulated inflammatory eff
+    PMC8320646 · 1177ms
+    {
+      "answer": "yes",
+      "evidence": "iNOS-2 and COX-2 mRNA expression under LPS induction in RAW 264.7 cells increased by about 2.2- and 2.5- fold, respectively (Fig. 5, Fig. 6)."
+    }
+
+  ✓ Transcriptional profiling of the LPS induced NF-κB response in macroph
+    PMC1781469 · 937ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Motif prediction to distinguish LPS-stimulated pro-inflammatory vs. an
+    PMC2949756 · 999ms
+    {
+      "answer": "yes",
+      "evidence": "A caveat to this classification may be the case of Nos2 that shows up in the pro-inflammatory category in our analysis."
+    }
+
+  ✓ Lipopolysaccharide-induced selective priming effects on tumor necrosis
+    PMC2190891 · 1503ms
+    {
+      "answer": "yes",
+      "evidence": "Preculture of thioglycollate-elicited C3HeB/FeJ mouse peritoneal macrophages in vitro with subthreshold stimulatory concentrations of lipopolysaccharide (LPS) can induce hyporesponsiveness (desensitization) to both tumor necrosis factor alpha (TNF-alpha) and nitric oxide (NO) production when these cells are subsequently stimulated with 100 ng/ml of LPS."
+    }
+
+  ✓ Nitroalkene inhibition of pro-inflammatory macrophage effector functio
+    PMC12572803 · 1299ms
+    {
+      "answer": "yes",
+      "evidence": "First, it was confirmed that LPS induced NOS2 expression at 12 h."
+    }
+
+  ✓ Phenolic-Enriched Fractions of Rubus buergeri Attenuate LPS-Induced Ni
+    PMC13204866 · 1208ms
+    {
+      "answer": "yes",
+      "evidence": "Pretreatment with RBE significantly suppressed the LPS-induced upregulation of these genes."
+    }
+
+  ✓ Innate Resistance to Leishmania amazonensis Infection in Rat Is Depend
+    PMC8586549 · 1093ms
+    {"answer": "yes", "evidence": "Rat macrophages showed a significantly different L-arginine metabolism from mouse macrophages. This is characterized by the predominant usage of L-arginine by the NOS2 pathway, which confers strong resistance to Leishmania infection."}
+
+  ✓ The Sur1-Trpm4 channel regulates NOS2 transcription in TLR4-activated 
+    PMC4888589 · 1825ms
+    {"answer": "yes", "evidence": "Following TLR4 ligation, Abcc8 mRNA was significantly upregulated at 6 and 24 h (5.6- and 2.2-fold vs. control, respectively, p < 0.05), as was mRNA for Trpm4 (1.4- and 1.9-fold vs. control, respectively, p < 0.05) (Fig. 4b), corroborating our observations in vivo. mRNA for Il-1\u0320\u03B2 also was significantly upregulated at both times (11.6- and 10.3-fold vs. control, respectively, p < 0.05). No change was observed in Kcnj11 mRNA at either time. Consistent with the induction of Abcc8 and Trpm4, enhanced immunolabelings for Sur1 and Trpm4 were observed 24 h after TLR4 activation, but no change in Kir6.2 immunoreactivity was apparent (Fig. 4c)." }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[24.3s, saved to m_6341269e]
+
+  [....................]  0/25 papers  run m_6341269e  [2s]
+  [#########...........]  12/25 papers  run m_6341269e  [4s]
+  [#############.......]  17/25 papers  run m_6341269e  [6s]
+  [################....]  20/25 papers  run m_6341269e  [8s]
+  [###################.]  24/25 papers  run m_6341269e  [10s]
+  [####################]  25/25 papers  run m_6341269e  [12s]
+

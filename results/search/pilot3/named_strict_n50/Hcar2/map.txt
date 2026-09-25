@@ -1,0 +1,314 @@
+$ src/pc.sh map --from s_e103bd74 --limit 50 -j 50 --output-schema {"type": "object", "required": ["answer", "evidence"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Hcar2 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes in response to LPS or bacterial infection? Answer yes or no. If yes, quote the sentence reporting that result; it must name the gene or its protein. Use an empty string if no.
+# exit 0
+Map complete: 50/50 papers
+Results ID: m_4614e7b4
+
+  ✓ Expression analysis of G Protein-Coupled Receptors in mouse macrophage
+    PMC2394514 · 919ms
+    {"answer": "yes", "evidence": "Examples of these include Fzd1, Htr2b, Gpr84 (induced by LPS, Table 3), and P2ry1 and 5 (repressed by LPS, Table 4)." }
+
+  ✓ Metabolite-sensing GPCRs controlling interactions between adipose tiss
+    PMC10357040 · 1098ms
+    {"answer": "yes", "evidence": "A similar increase in HCA2 expression in response to LPS is also observed in cultured adipocyte models in vitro (66)."}
+
+  ✓ Hydroxycarboxylic acid receptor 2 (HCAR2/GPR109A) expression and signa
+    bio_24b6555f · 1064ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Activated niacin receptor HCA2 inhibits chemoattractant-mediated macro
+    PMC5301212 · 1265ms
+    {"answer":"yes","evidence":"Consistent with the findings in RAW264.7 cell line, LPS also markedly increased HCA2 in primary mouse macrophages (Fig. 1D)."}
+
+  ✓ Biological Roles and Therapeutic Potential of Hydroxy-Carboxylic Acid 
+    PMC3356039 · 965ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 1179ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ The hydroxycarboxylic acid receptor HCA2 is required for the protectiv
+    PMC11496569 · 805ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Lipopolysaccharide-mediated macrophage polarization, conserved pathoge
+    PMC13372918 · 1038ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Dysregulation of macrophage lipid metabolism underlies intracellular b
+    PMC13253848 · 1048ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(
+    PMC7053374 · 719ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Monocyte normal immune response to LPS stimulation
+    PMC3333514 · 1028ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Histone deacetylase 2 is essential for LPS‐induced inflammatory respon
+    PMC7379312 · 856ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Anti-inflammatory and polarization-modulating effects of Houttuynia co
+    PMC12957811 · 870ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ HCX3 Mitigates LPS-Induced Inflammatory Responses in Macrophages by Su
+    PMC12562522 · 1143ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Expression and anti-inflammatory role of activin receptor-interacting 
+    PMC5583376 · 947ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide alters expression of incretin receptors in monocyti
+    PMC3254936 · 964ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Signaling metabolite L-2-hydroxyglutarate activates the transcription 
+    PMC8784330 · 858ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ The Regulatory Roles of Ezh2 in Response to Lipopolysaccharide (LPS) i
+    PMC10049283 · 1086ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lactate Suppresses Macrophage Pro-Inflammatory Response to LPS Stimula
+    PMC7573489 · 917ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ HuR modulation counteracts lipopolysaccharide response in murine macro
+    PMC10110401 · 1047ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Methyl p-Hydroxycinnamate Suppresses Lipopolysaccharide-Induced Inflam
+    PMC3936424 · 1019ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide uptake is augmented in lipopolysaccharide‐tolerant 
+    PMC13398632 · 905ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LncRNA HOTAIR regulates lipopolysaccharide-induced cytokine expression
+    PMC6199307 · 947ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Selection of reliable reference genes for the normalisation of gene ex
+    PMC5627409 · 861ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide induces a downregulation of adiponectin receptors i
+    PMC4655095 · 827ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Macrophage-Specific Coxsackievirus and Adenovirus Receptor Deletion En
+    PMC10049483 · 900ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Human and murine macrophages exhibit differential metabolic responses 
+    PMC6396203 · 789ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Constitutive Androstane Receptor in Macrophages Regulates Toll‐Like Re
+    PMC12622418 · 1207ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipoic Acid Ameliorates Lipopolysaccharide‐Induced Inflammation via In
+    PMC12780877 · 901ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Interplay between Saturated Free Fatty Acids and mmLDL Induces Inflamm
+    PMC7779815 · 753ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ CD36 Differently Regulates Macrophage Responses to Smooth and Rough Li
+    PMC4830570 · 1431ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Geranylgeranylacetone Ameliorates Inflammatory Response to Lipopolysac
+    PMC2170953 · 924ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Advanced glycation end-products reduce lipopolysaccharide uptake by ma
+    PMC7833212 · 883ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Macrophage specific restoration of the Nrf2 gene in whole-body knockou
+    PMC10588835 · 827ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ CD163 deficiency facilitates lipopolysaccharide‐induced inflammatory r
+    PMC7518957 · 838ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Rare and potentially pathogenic variants in hydroxycarboxylic acid rec
+    PMC8638184 · 878ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Metabolites of lactic acid bacteria present in fermented foods are hig
+    PMC6532841 · 865ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Hydroxycarboxylic Acid Receptor 2 Mediates β‐hydroxybutyrate's Antisei
+    PMC12954166 · 966ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Production of Hydroxycarboxylic Acid Receptor 3 (HCA3) Ligands by Bifi
+    PMC8620054 · 1089ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Aspirin inhibits LPS-induced macrophage activation via the NF-κB pathw
+    PMC5599518 · 902ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Nicotinic Acid Receptor GPR109A Is Down-Regulated in Human Macrophage-
+    PMC3642175 · 842ms
+    {"answer":"no","evidence":""}
+
+  ✓ Lactate induces alternative polarization (M2) of macrophages under lip
+    PMC7401756 · 801ms
+    {
+      "answer": "yes",
+      "evidence": "Lactate induced expression of GPR81 in macrophages under LPS stimulation."
+    }
+
+  ✓ Mouse Ocilrp2/Clec2i negatively regulates LPS-mediated IL-6 production
+    PMC9589251 · 880ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Endotoxin Disrupts Circadian Rhythms in Macrophages via Reactive Oxyge
+    PMC4863972 · 2237ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Role of HCA2 in Regulating Intestinal Homeostasis and Suppressing Colo
+    PMC7940178 · 884ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Mapping interactions of microbial metabolites and human receptors
+    bio_ea6b5db7 · 1208ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Dynamic nucleosome redistribution and increases in nucleosome sensitiv
+    bio_eb053077 · 1032ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Effect of Human Umbilical Vein Endothelial Cells on Immune Responses o
+    PMC6144854 · 855ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Human Toll-like Receptor 2 Confers Responsiveness to Bacterial Lipopol
+    PMC2212382 · 720ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Gambogic acid inhibits LPS-induced macrophage pro-inflammatory cytokin
+    PMC6098961 · 858ms
+    {"answer": "no", "evidence": ""}
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[54.7s, saved to m_4614e7b4]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  0/50 papers  run m_4614e7b4  [2s]
+  [####................]  10/50 papers  run m_4614e7b4  [4s]
+  [######..............]  17/50 papers  run m_4614e7b4  [6s]
+  [########............]  20/50 papers  run m_4614e7b4  [10s]
+  [##########..........]  25/50 papers  run m_4614e7b4  [12s]
+  [##############......]  35/50 papers  run m_4614e7b4  [15s]
+  [##############......]  37/50 papers  run m_4614e7b4  [17s]
+  [################....]  40/50 papers  run m_4614e7b4  [19s]
+  [################....]  42/50 papers  run m_4614e7b4  [21s]
+  [#################...]  44/50 papers  run m_4614e7b4  [23s]
+  [####################]  50/50 papers  run m_4614e7b4  [25s]
+  [####################]  50/50 papers  run m_4614e7b4  [36s]
+  [####################]  50/50 papers  run m_4614e7b4  [46s]
+  [####################]  50/50 papers  run m_4614e7b4  [54s]
+

@@ -1,0 +1,4 @@
+$ src/pc.sh map --from s_8b34c91d --limit 50 -j 50 --output-schema {"type": "object", "required": ["answer", "evidence"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Slc7a2 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes in response to LPS or bacterial infection? Answer yes or no. If yes, quote the sentence reporting that result; it must name the gene or its protein. Use an empty string if no.
+# exit 1
+[error] Something went wrong. Please try again.
+

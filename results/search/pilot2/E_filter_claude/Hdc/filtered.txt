@@ -1,0 +1,18 @@
+$ src/pc.sh results s_55621cf4
+# exit 0
+  Query: filter 'Does this paper describe the expression of the gene Hdc changing in response to LPS or bacterial infection?' --from s_55621cf4
+Found 2 papers  [s_55621cf4]
+
+  1. Sympathetic signaling activation alleviated acute respiratory distress syndrome via the HDC/SLC7A11 axis in lipopolysaccharide-induced macrophages
+     Xing Lv; Chenhao Jiang; Xu Zhang; Zhengqi Wu; Xuxia Wei; Yang Zhao; Jianhao Zhang; Xuegang Zhao; Lu ...
+     PMC13493966 · pmc · 2026-06-15
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13493966/
+     "Acute respiratory distress syndrome (ARDS) represents a severe pulmonary condition characterized by excessive inflammation, wherein alveolar macrophages (AMs), pivotal components of the innate immune"
+
+  2. Lipopolysaccharide-induced expansion of histidine decarboxylase-expressing Ly6G+ myeloid cells identified by exploiting histidine decarboxylase BAC-GFP transgenic mice
+     Jun Takai; Hiroshi Ohtsu; Atsushi Sato; Satoshi Uemura; Tsutomu Fujimura; Masayuki Yamamoto; Takashi...
+     PMC6821885 · pmc · 2019-10-30
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6821885/
+     "Histidine decarboxylase BAC-GFP transgenic mice were generated to track histamine-producing cells. A histamine-producing myeloid cell population was found to accumulate in the lungs during sepsis."
+
+

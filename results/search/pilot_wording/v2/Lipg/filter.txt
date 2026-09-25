@@ -1,0 +1,6 @@
+$ src/pc.sh filter --from s_3582af9e Does this paper report that Lipg (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) is induced, increased, decreased, or otherwise changed in response to LPS or bacterial infection?
+# exit 0
+Filtered: 25 → 0 papers (25 removed as irrelevant) in 995ms
+  → 0 papers after filtering
+Results ID: s_3582af9e (updated in place)
+[1.1s, saved to s_3582af9e]  [repo: mva-lof-molecular]

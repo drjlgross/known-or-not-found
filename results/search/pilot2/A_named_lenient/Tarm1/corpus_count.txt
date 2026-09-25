@@ -1,0 +1,70 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv --bool --ranking bm25 --full-text -n 500 ("Tarm1" OR "T cell-interacting, activating receptor on myeloid cells 1") AND ("LPS" OR "lipopolysaccharide") AND "macrophage"
+# exit 0
+Found 4 papers (of 500 requested)  [s_ec2dac6f]
+
+  1. Macrophage autophagy protects against acute kidney injury by inhibiting renal inflammation through the degradation of TARM1
+     Xiao-Rong Huang; Lin Ye; Ning An; Chun-Yu Wu; Hong-Luan Wu; Hui-Yuan Li; Yan-Heng Huang; Qiao-Ru Ye;...
+     PMC11702950 · PMC · 2024-08-28 · 45 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11702950/
+     Matched: Autophagy suppresses macrophage pro-inflammatory activities by targeti · cat /papers/PMC11702950/content.lines --lines 33-34
+     │ To explore mechanisms underly the autophagy suppresses macrophage pro-inflammatory
+     │ activities, we performed proteomics analysis in BMDMs derived from WT and atg5−/− mice
+     │ subjected to LPS and IFNG stimulation. The results revealed 15 and 10 proteins were
+     │ significantly upregulated and downregulated respectively (|log2 fold|>2 and p < 0.05)
+     │ (Figure 5A and Table S1). Among these, TARM1, a newly identified member of the leukocyte
+     │ immunoglobulin-like receptor family, was significantly upregulated in atg5−/− BMDMs compared
+     │ to WT BMDMs after treatment with LPS and IFNG (Figure 5B, C). Moreover, TARM1 was
+     │ significantly upregulated in the renal tissues of atg5−/− mice compared with those in WT
+     │ mice …
+     "Macrophage autophagy was studied in acute kidney injury (AKI). Macrophage autophagy protects against AKI by degrading TARM1, thereby inhibiting renal inflammation."
+
+  2. TARM1 contributes to development of arthritis by activating dendritic cells through recognition of collagens
+     Rikio Yabe; Soo-Hyun Chung; Masanori A. Murayama; Sachiko Kubo; Kenji Shimizu; Yukiko Akahori; Takum...
+     PMC7782728 · PMC · 2021-01-04 · 28 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7782728/
+     Matched: Introduction · cat /papers/PMC7782728/content.lines --lines 10-12
+     │ The leukocyte immunoglobulin (Ig)-like receptor (LILR) family is a member of Ig
+     │ superfamily[1]–[3]. Some of LILR family members are expressed in myeloid cells, such as
+     │ dendritic cells (DCs) and macrophages, and transduce activation or inhibitory signals into
+     │ these cells[1]–[3]. Because these family members are closely associated with autoimmune
+     │ diseases, the importance of these molecules in the homeostasis of the immune system is
+     │ suggested[4]–[6]. T cell-interacting, activating receptor on myeloid cells-1 (TARM1; gene
+     │ symbol Tarm1) is a recently identified LILR family member encoded within the leukocyte
+     │ receptor complex[7]. TARM1 consists of two extracellular Ig-like domains, a …
+     "TARM1 expression is elevated in arthritis, and its absence suppresses arthritis development by impairing dendritic cell function. TARM1 recognizes collagen, promoting dendritic cell maturation and driving arthritis progression."
+
+  3. Physical exercise mitigates chronic psychological stress‐induced vascular inflammation via the BDNF–Kif4–TARM1 axis
+     Xianghui Zheng; Yunqi Li; Peiyao Wang; Zhou Guo; Yuxuan Liu; Qi Liu; Baitao Wang; Huiyu Wang; Lizhi ...
+     PMC13096691 · PMC · 2026-04-20 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13096691/
+     Matched: Flow cytometry analysis · cat /papers/PMC13096691/content.lines --lines 35
+     │ THP‐1 cells were seeded in six‐well plates (1 × 106 cells/mL) and cultured with 100 ng/mL
+     │ PMA (Beyotime) for 48 h, followed by LPS (500 ng/mL; Sigma‐Aldrich) for 24 h. Cells were
+     │ harvested and stained with PE‐CD86 and APC‐CD163 antibodies (BioLegend) for 30 min at 4°C in
+     │ the dark. Cells were washed, fixed and permeabilized using Fix/Perm buffer (Invitrogen,
+     │ Thermo Fisher Scientific). FITC‐CD68 (BioLegend) was added to the cells for 30 min at room
+     │ temperature. BMDMs and RAW264.7 cells were stimulated with LPS (500 ng/mL). The cells were
+     │ harvested 24 h after stimulation and stained with PE‐conjugated anti‐CD86 and
+     │ FITC‐conjugated anti‐F4/80 antibodies (BioLegend) for 30 min at 4°C in the dark …
+     "Chronic psychological stress drives neuroimmune crosstalk and accelerates atherosclerosis progression. Physical exercise confers broad health benefits and is associated with reduced inflammation. Howe"
+
+  4. Acute kidney injury over the past decade: from definition evolution to pathogenesis insights and innovative therapeutic strategies
+     Jinwen Chen; Xuan Xu; Yifang Cai; Qing Zhang; Xudong Wang; Dongshan Zhang
+     PMC13003055 · PMC · 2026-03-06 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13003055/
+     Matched: Autophagy · cat /papers/PMC13003055/content.lines --lines 30-32
+     │ Autophagy plays a complex and multifaceted role in the onset and progression of AKI, with
+     │ its mechanisms of action and impacts varying depending on cell type and injury model.
+     │ Autophagy activation protects proximal tubular epithelial cells(PTECs) from damage caused by
+     │ various AKI etiological factors, such as IRI and cisplatin nephrotoxicity. Specifically,
+     │ vacuolar membrane protein 1 (VMP1) exerts a crucial protective effect on PTECs under AKI
+     │ conditions by maintaining high autophagic flux [21, 22]. Additionally, circ-ZNF609, which is
+     │ highly expressed in the kidneys following IRI, participates in the pathological process of
+     │ AKI by encoding ZNF609-250aa protein and mediating autophagy through …
+     "Acute kidney injury (AKI) is a significant global health issue with complex pathogenesis involving regulated cell death and inflammation. Recent advances in diagnostics and a refined understanding of AKI's definition and molecular pathways are paving the way for innovative, supportive, and potentially regenerative therapeutic strategies."
+
+[129ms, saved to s_ec2dac6f]
+
+💡 Extract data across these results with: map --from s_ec2dac6f "your question"
+[129ms, saved to s_ec2dac6f]  [repo: mva-lof-molecular]
+

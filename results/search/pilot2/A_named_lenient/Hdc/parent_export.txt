@@ -1,0 +1,4 @@
+$ src/pc.sh results s_91594ed8 --save /Users/julia/known-or-not-found/results/search/pilot2/A_named_lenient/Hdc/parent.csv
+# exit 0
+  ✓ Saved 25 papers to /Users/julia/known-or-not-found/results/search/pilot2/A_named_lenient/Hdc/parent.csv
+

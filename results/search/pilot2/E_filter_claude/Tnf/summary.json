@@ -1,0 +1,21 @@
+{
+  "gene": "Tnf",
+  "query": "Tnf (tumor necrosis factor) LPS macrophage",
+  "also": [],
+  "mode": "filter",
+  "strict": false,
+  "question": "Does this paper describe the expression of the gene Tnf changing in response to LPS or bacterial infection?",
+  "date": "2026-09-24T22:58:14Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_1f79b477",
+  "judge_id": "s_1f79b477",
+  "parent_n": 25,
+  "yes": 11,
+  "downgraded": 0,
+  "no": 14,
+  "paper_errors": 0,
+  "seconds_search": 8.9,
+  "seconds_judge": 1.7,
+  "seconds_total": 10.7
+}

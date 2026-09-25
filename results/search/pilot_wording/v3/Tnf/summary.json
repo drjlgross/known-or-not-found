@@ -1,0 +1,15 @@
+{
+  "gene": "Tnf",
+  "query": "Tnf LPS macrophage",
+  "filter_question": "Does this paper show that LPS or bacterial infection changes the level (mRNA or protein) of Tnf, including when it is referred to by an alias or its human ortholog name?",
+  "date": "2026-09-24T17:55:26Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_5c909007",
+  "parent_n": 25,
+  "yes": 12,
+  "no": 13,
+  "seconds_search": 2.9,
+  "seconds_filter": 2.0,
+  "seconds_total": 5.3
+}

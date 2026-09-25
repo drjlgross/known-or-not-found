@@ -1,0 +1,5 @@
+gene	query	search_id	date	rank	paper_id	title	verdict	status
+Tnf	Tnf LPS macrophage	s_2bd6eb26	2026-09-24T17:53:30Z			ERROR at search-parse: parsed 4 entries, CLI reported 25		error
+Lipg	Lipg LPS macrophage	s_fb5250a3	2026-09-24T17:53:35Z			ERROR at search-parse: parsed 2 entries, CLI reported 25		error
+Col27a1	Col27a1 LPS macrophage	s_1186ea98	2026-09-24T17:53:37Z			ERROR at search-parse: parsed 0 entries, CLI reported 25		error
+Nos2	Nos2 LPS macrophage	s_63364a4f	2026-09-24T17:53:40Z			ERROR at search-parse: parsed 1 entries, CLI reported 25		error

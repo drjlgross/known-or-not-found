@@ -1,0 +1,7 @@
+$ src/pc.sh filter --from s_8f938fdb Does this paper describe the expression of the gene Calhm6 changing in response to LPS or bacterial infection?
+# exit 0
+Filtered: 25 → 0 papers (25 removed as irrelevant) in 499ms
+  → 0 papers after filtering
+Results ID: s_8f938fdb (updated in place)
+[566ms, saved to s_8f938fdb]  [repo: mva-lof-molecular]
+

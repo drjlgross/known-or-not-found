@@ -1,0 +1,333 @@
+$ src/pc.sh map --from s_e616b180 --limit 50 -j 50 --output-schema {"type": "object", "required": ["answer", "evidence"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Rnd1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes in response to LPS or bacterial infection? Answer yes or no. If yes, quote the sentence reporting that result; it must name the gene or its protein. Use an empty string if no.
+# exit 0
+Map complete: 50/50 papers
+Results ID: m_d50949f2
+
+  ✓ Essential role of Rnd1 in innate immunity during viral and bacterial i
+    PMC9161769 · 834ms
+    {"answer": "yes", "evidence": "To confirm the induction of Rnd1 in humans, we infected A549 cells with influenza virus H1N1 strain PR8 (PR8) and Hela or peripheral blood mononuclear cells (PBMCs) with Listeria monocytogenes (LM) and analysed the expression of Rnd1 (Fig. 1A\u2013C)."}
+
+  ✓ Rho GTPase Expression in Human Myeloid Cells
+    PMC3420873 · 962ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ The RND1 Small GTPase: Main Functions and Emerging Role in Oncogenesis
+    PMC6696182 · 985ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Deletion of Rac1GTPase in the Myeloid Lineage Protects against Inflamm
+    PMC4777421 · 1068ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ A New Member of the Rho Family, Rnd1, Promotes Disassembly of Actin Fi
+    PMC2132722 · 912ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ RvD1 accelerates the resolution of inflammation by promoting apoptosis
+    PMC8575873 · 726ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Macrophage Migration and Its Regulation by CSF-1
+    PMC3296313 · 888ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ A Global Picture of Molecular Changes Associated to LPS Treatment in T
+    PMC9656053 · 824ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Monocyte normal immune response to LPS stimulation
+    PMC3333514 · 783ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Data in support of Rap2a GTPase expression, activation and effects in 
+    PMC6531833 · 682ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Mice Genetically Hyporesponsive to Lipopolysaccharide (LPS) Exhibit a 
+    PMC2196359 · 779ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Species-Specificity of Transcriptional Regulation and the Response to 
+    PMC7386301 · 1197ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Exosomal miR-148a-3p from LPS-Activated Macrophages Promotes M1 Polari
+    PMC13199726 · 779ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Macrophages form dendrite-like pseudopods to enhance bacterial ingesti
+    PMC12402336 · 1143ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide-induced inflammation in monocytes/macrophages is bl
+    PMC5743190 · 787ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Mathematical modelling of activation-induced heterogeneity reveals cel
+    bio_206e5a35 · 1098ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Rho family GTPase 1 (RND1), a novel regulator of p53, enhances ferropt
+    PMC9066768 · 706ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyr
+    PMC9456100 · 773ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Role and mechanism of miR-144-5p in LPS-induced macrophages
+    PMC6909656 · 822ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Differential Regulation of Rab GTPase Expression in Monocyte-Derived D
+    PMC3764041 · 881ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Dynamic nucleosome redistribution and increases in nucleosome sensitiv
+    bio_eb053077 · 1284ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ RND3 Potentiates Proinflammatory Activation through NOTCH Signaling in
+    PMC10857877 · 809ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide uptake is augmented in lipopolysaccharide‐tolerant 
+    PMC13398632 · 1001ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Impaired Rho GTPase activation abrogates cell polarization and migrati
+    PMC3214256 · 1080ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Spatiotemporal proteomic profiling of the pro-inflammatory response to
+    PMC8486773 · 929ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Oral and transdermal administration of lipopolysaccharide safely enhan
+    PMC11994614 · 1214ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Progranulin inhibits LPS-induced macrophage M1 polarization via NF-кB 
+    PMC7275413 · 713ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Inhibiting RHO geranylgeranylation has an unexpected outcome on inflam
+    PMC3046081 · 627ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Leukadherin-1-Mediated Activation of CD11b Inhibits LPS-Induced Pro-in
+    PMC6379471 · 753ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Critical Role of Regulator G-Protein Signaling 10 (RGS10) in Modulatin
+    PMC3836764 · 1427ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Alternative signal priming enhances the inflammatory response in macro
+    PMC10310695 · 713ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Resolvin D1 alleviates lipopolysaccharide-induced in vitro corneal inf
+    PMC12705284 · 742ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ LPS-induced down-regulation of signal regulatory protein α contributes
+    PMC2118489 · 826ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Resolvin D1 in the Lipopolysaccharide-Induced Inflammatory Microenviro
+    PMC13204318 · 909ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Umbilical cord-derived mesenchymal stromal cells immunomodulate and re
+    PMC7961004 · 991ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Multifaceted Rho GTPase Signaling at the Endomembranes
+    PMC6646525 · 853ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ RNase L Is Involved in Liposaccharide-Induced Lung Inflammation
+    PMC7019736 · 875ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Rho GTPases
+    PMC3398910 · 698ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ CD36 Differently Regulates Macrophage Responses to Smooth and Rough Li
+    PMC4830570 · 957ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Structural Basis of Rnd1 Binding to Plexin Rho GTPase Binding Domains 
+    PMC3138255 · 1074ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ LncRNA29RIK in macrophages promotes LPS-mediated sensitivity to obesit
+    PMC12066258 · 789ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Expression of a RhoA-Specific Guanine Nucleotide Exchange Factor, p190
+    PMC9002135 · 761ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Extracellular glucose is crucially involved in the fate decision of LP
+    PMC7324593 · 770ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Milk fermented with Lactobacillus rhamnosus R0011 induces a regulatory
+    PMC7473351 · 746ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ MARCO is an IFN-restricted immunometabolic decoy LPS receptor
+    bio_74c36375 · 876ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Effect of Human Umbilical Vein Endothelial Cells on Immune Responses o
+    PMC6144854 · 704ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ PARP-1-dependent RND1 transcription induced by topoisomerase I cleavag
+    PMC6135836 · 775ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Novel long non-coding RNAs associated with inflammation and macrophage
+    PMC10006430 · 792ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LPS-Induced Modifications in Macrophage Transcript and Secretion Profi
+    PMC10940789 · 1112ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Macrophage ICAM-1 functions as a regulator of phagocytosis in LPS indu
+    PMC7817350 · 706ms
+    {"answer": "no", "evidence": ""}
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[44.1s, saved to m_d50949f2]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  1/50 papers  run m_d50949f2  [2s]
+  [###.................]  8/50 papers  run m_d50949f2  [4s]
+  [#####...............]  14/50 papers  run m_d50949f2  [6s]
+  [########............]  21/50 papers  run m_d50949f2  [8s]
+  [##########..........]  25/50 papers  run m_d50949f2  [10s]
+  [#############.......]  34/50 papers  run m_d50949f2  [12s]
+  [##############......]  35/50 papers  run m_d50949f2  [14s]
+  [################....]  41/50 papers  run m_d50949f2  [17s]
+  [#################...]  44/50 papers  run m_d50949f2  [23s]
+  [####################]  50/50 papers  run m_d50949f2  [25s]
+  [####################]  50/50 papers  run m_d50949f2  [35s]
+  [####################]  50/50 papers  run m_d50949f2  [43s]
+

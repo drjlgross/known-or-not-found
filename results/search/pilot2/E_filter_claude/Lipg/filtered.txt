@@ -1,0 +1,6 @@
+$ src/pc.sh results s_00399aee
+# exit 0
+  Query: filter 'Does this paper describe the expression of the gene Lipg changing in response to LPS or bacterial infection?' --from s_00399aee
+Found 0 papers  [s_00399aee]
+
+

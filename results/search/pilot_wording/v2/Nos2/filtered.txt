@@ -1,0 +1,35 @@
+$ src/pc.sh results s_5c07913a
+# exit 0
+  Query: filter --from s_5c07913a 'Does this paper report that Nos2 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) is induced, increased, decreased, or otherwise changed in response to LPS or bacterial infection?'
+Found 5 papers  [s_5c07913a]
+
+  1. Mathematical modelling of activation-induced heterogeneity in TNF, IL6, NOS2, and IL1β expression reveals cell state transitions underpinning macrophage responses to LPS
+     Shoumit Dey; Dave Boucher; Jon Pitchford; Dimitris Lagos
+     PMC9411976 · Wellcome Open Research · 2022-07-25
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9411976/
+     "Mathematical models explored macrophage states and their responses to LPS. Macrophage hypo-responsiveness to a second LPS challenge is driven by altered transition rates between activation states."
+
+  2. Pheophytin a Inhibits Inflammation via Suppression of LPS-Induced Nitric Oxide Synthase-2, Prostaglandin E2, and Interleukin-1β of Macrophages
+     Chun-Yu Lin; Chien-Hsing Lee; Yu-Wei Chang; Hui-Min Wang; Chung-Yi Chen; Yen-Hsu Chen
+     PMC4284740 · pmc · 2014-12-09
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4284740/
+     "Pheophytin a was studied for its anti-inflammatory effects on macrophages. It was found to suppress key inflammatory mediators like nitric oxide and prostaglandin E2 by inhibiting specific signaling pathways."
+
+  3. Activation of macrophage nuclear factor-κB and induction of inducible nitric oxide synthase by LPS
+     Ying-Hua Li; Zhong-Qun Yan; Annelie Brauner; Kjell Tullus
+     PMC150509 · pmc · 2002-09-05
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC150509/
+     "This study investigated how LPS activates macrophage NF-κB and iNOS, and how steroids affect these processes. LPS induces iNOS expression and NO production via NF-κB activation, which is suppressed by dexamethasone an..."
+
+  4. Neutrophilic granule protein promotes lipopolysaccharide-induced iNOS/NO expression via JAK2/STAT1 signaling pathway and augments bacteria clearance of macrophages
+     Lixing Tian; Shuangqin Yin; Jing Wang; Hongyan Xiao; Tianyin Kuang; Li Luo; Shengxiang Ao; Jing Zhou...
+     PMC12592619 · pmc · 2025-11-06
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12592619/
+     "Neutrophilic granule protein (NGP) was studied for its role in macrophage response to lipopolysaccharide (LPS). NGP enhances LPS-induced nitric oxide production via the JAK2/STAT1 pathway, promoting bacterial clearance."
+
+  5. The Sur1-Trpm4 channel regulates NOS2 transcription in TLR4-activated microglia
+     David B. Kurland; Volodymyr Gerzanich; Jason K. Karimy; Seung Kyoon Woo; Rudi Vennekens; Marc Freich...
+     PMC4888589 · pmc · 2016-06-01
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4888589/
+     "Sur1-Trpm4 channels regulate NOS2 transcription in TLR4-activated microglia. These channels control calcineurin/NFAT signaling, impacting NO production and pro-inflammatory gene expression."
+

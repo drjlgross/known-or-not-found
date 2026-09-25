@@ -1,0 +1,4 @@
+$ src/pc.sh results m_660a5ede --save /Users/julia/known-or-not-found/results/search/pilot2/B_named_strict/Calhm6/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/pilot2/B_named_strict/Calhm6/map_answers.txt
+

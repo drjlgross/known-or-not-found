@@ -1,0 +1,312 @@
+$ src/pc.sh map --from s_8540c21c --limit 50 -j 50 --output-schema {"type": "object", "required": ["answer", "evidence"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Slc7a2 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes in response to LPS or bacterial infection? Answer yes or no. If yes, quote the sentence reporting that result; it must name the gene or its protein. Use an empty string if no.
+# exit 0
+Map complete: 50/50 papers
+Results ID: m_83d2d4a4
+
+  ✓ Species-Specific Transcriptional Regulation of Genes Involved in Nitri
+    PMC6245571 · 1570ms
+    {
+      "answer": "yes",
+      "evidence": "In rats, as in mice (19), LPS greatly increased (18-fold) expression of the cationic amino acid transporter, Slc7a2, whereas goats were the only large animal species in which SLC7A2 mRNA was detectable (TPM 6) and regulated to any degree by LPS, with an induced level (TPM≈16) still lower than the basal level in the rat (TPM 46)."
+    }
+
+  ✓ FOCIS abstract supplement
+    PMC7128890 · 1402ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ The NF-κB-SLC7A11 axis regulates ferroptosis sensitivity in inflammato
+    PMC12268560 · 812ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Characterisation of genes differentially expressed in macrophages by v
+    PMC6411972 · 1005ms
+    {"answer": "yes", "evidence": "To clarify the role of Slc7a2 during mycobacterial infection, the temporal gene expression levels were examined by RT-PCR in Rv- and Ra-infected BMDMs."}
+
+  ✓ Amino acid transporters within the solute carrier superfamily: Underap
+    PMC11112377 · 940ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(
+    PMC7053374 · 896ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Exosomal miR-148a-3p from LPS-Activated Macrophages Promotes M1 Polari
+    PMC13199726 · 1015ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Cationic Amino Acid Transporter 2 Enhances Innate Immunity during Heli
+    PMC3237590 · 952ms
+    {
+      "answer": "yes",
+      "evidence": "We have demonstrated that cationic amino acid transporter 2 (CAT2) expression is upregulated in macrophages in vitro, and in mouse and human gastritis tissues, with co-localization to gastric macrophages by immunostaining; we also identified CAT2 as the protein responsible for the uptake of l-arginine (L-Arg) into macrophages [4]."
+    }
+
+  ✓ l-Arginine Uptake by Cationic Amino Acid Transporter Promotes Intra-Ma
+    PMC5526900 · 925ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ “Of Mice and Men”: Arginine Metabolism in Macrophages
+    PMC4188127 · 864ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Sulfur metabolic response in macrophage limits excessive inflammatory 
+    PMC10412850 · 1043ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Slc7a11‐Mediated Cystine/Glutamate Antiport Reprograms Macrophage Pola
+    PMC12950507 · 881ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ In Lysinuric Protein Intolerance system y+L activity is defective in m
+    PMC2999609 · 809ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ A new metabolomic assay to examine inflammation and redox pathways fol
+    PMC3507808 · 864ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Frontline Science: LPS‐inducible SLC30A1 drives human macrophage‐media
+    PMC7891337 · 846ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Species-Specificity of Transcriptional Regulation and the Response to 
+    PMC7386301 · 851ms
+    {"answer": "yes", "evidence": "As noted previously (Young et al., 2018) the sheep BMDM did not show induction of NOS2 mRNA, nor of the inducible arginine transporter SLC7A2 at any time point."}
+
+  ✓ Cationic Amino Acid Transporter-2 Regulates Immunity by Modulating Arg
+    PMC2265428 · 1190ms
+    {
+      "answer": "yes",
+      "evidence": "Several pro-inflammatory mediators including LPS can regulate the expression of CAT2; thus, it likely functions as the key L-arginine transporter during inflammatory responses."
+    }
+
+  ✓ Downregulation of SLC7A7 Triggers an Inflammatory Phenotype in Human M
+    PMC5868322 · 944ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Single-cell to pre-clinical evaluation of Trem2, Folr2, and Slc7a7 as 
+    PMC12713647 · 902ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Solute Carrier Family 37 Member 2 (SLC37A2) Negatively Regulates Murin
+    PMC7232099 · 780ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Role of SLC7A5 in Metabolic Reprogramming of Human Monocyte/Macrophage
+    PMC5788887 · 802ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Hematopoietic Cell-Specific SLC37A2 Deficiency Accelerates Atheroscler
+    PMC8702732 · 937ms
+    {"answer": "yes", "evidence": "L86: Since LPS, oxLDL, and IL-4 induce macrophage SLC37A2 protein expression, we speculate that induction of macrophage SLC37A2 expression promotes inflammation resolution and slows atherosclerosis progression."}
+
+  ✓ Loss of Solute Carrier Family 7 Member 2 Exacerbates Inflammation-Asso
+    PMC6377304 · 993ms
+    {"answer": "yes", "evidence": "IFN-\\u03b3 + LPS stimulation resulted in robust expression of the M1 markers Nos2 and Il1b (Figure 6a) in both WT and Slc7a2\\u2013/\\u2013 BMmacs."}
+
+  ✓ Expression and Regulation of the Proton-Coupled Oligopeptide Transport
+    PMC4051248 · 824ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Aberrant Expression of SLC7A11 Impairs the Antimicrobial Activities of
+    PMC11077379 · 945ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Hematopoietic-SLC37A2 deficiency accelerates atherosclerosis in LDL re
+    bio_4372973f · 960ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Epigenetic profile in lipopolysaccharide-stimulated macrophages
+    PMC3953056 · 792ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ SLC Solute Carrier Transporters and Neurodegenerative Disorders: Drawi
+    PMC7383006 · 675ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Erythropoietin supplementation ameliorates the immunological and hemat
+    bio_1e45c9e1 · 892ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ The Pathological Roles of Cationic Amino Acid Transporters (CATs) in C
+    PMC13394352 · 769ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ SLC38A6 expression in macrophages exacerbates pulmonary inflammation
+    PMC9881254 · 776ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Asparagine transporter supports macrophage inflammation via histone ph
+    PMC11980831 · 1282ms
+    {"answer":"no","evidence":""}
+
+  ✓ Selection of reliable reference genes for the normalisation of gene ex
+    PMC5627409 · 908ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Lipopolysaccharide preconditioning augments the antibacterial activity
+    PMC12035103 · 949ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Monocyte normal immune response to LPS stimulation
+    PMC3333514 · 745ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Solute carrier transporters: the metabolic gatekeepers of immune cells
+    PMC6977534 · 1000ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 984ms
+    {
+      "answer": "yes",
+      "evidence": "This effect is mediated by different genes such as the cationic amino acid transporters Slc7a2, Slc12a4, Slc1a4, Slc39a14, Slc3a2, and Slc4a7 found expressed exclusively in the in vivo M1(=LPS+)C57BL/6J signature."
+    }
+
+  ✓ Targeting SLC22A5 fosters mitophagy inhibition-mediated macrophage imm
+    PMC10998134 · 1086ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Age-associated metabolic dysregulation in bone marrow-derived macropha
+    PMC4778050 · 1064ms
+    {
+      "answer": "yes",
+      "evidence": "Only Slc7a2 was differentially expressed between young and old macrophages after 16 hrs of LPS exposure, for which the expression of Slc7a2 in young macrophages was 1.43-fold greater than the old (L27)."
+    }
+
+  ✓ The cationic amino acid exporter Slc7a7 is vital for and induced in ti
+    bio_761ce1f9 · 889ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide stimulates dynamic changes in B cell metabolism to 
+    PMC13193715 · 1076ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Metal transporter Slc39a10 regulates susceptibility to inflammatory st
+    PMC5724256 · 777ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Comparative Study of The Effect of LPS on The Function of BALB/c and C
+    PMC3660024 · 1098ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ The L-Arginine Transporter Solute Carrier Family 7 Member 2 Mediates t
+    PMC5081186 · 1071ms
+    {"answer": "yes", "evidence": "When compared to uninfected mice, there was a significant increase in Slc7a2 mRNA levels in colonic tissues from C. rodentium-infected mice (Fig 1A)."}
+
+  ✓ LPS Tolerance Inhibits Cellular Respiration and Induces Global Changes
+    PMC7918892 · 870ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Histone deacetylase 2 is essential for LPS‐induced inflammatory respon
+    PMC7379312 · 739ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LPCAT2 Regulates CD14 Expression During Macrophage Inflammatory Respon
+    bio_1a9f83e6 · 779ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Study on the Role and Mechanism of SLC3A2 in Tumor-Associated Macropha
+    PMC11044785 · 718ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Expression Profiling of LPS Responsive miRNA in Primary Human Macropha
+    PMC4905593 · 881ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Hypoxia Aggravates Inhibition of Alveolar Epithelial Na-Transport by L
+    PMC9368968 · 776ms
+    {"answer": "no", "evidence": ""}
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[48.5s, saved to m_83d2d4a4]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  0/50 papers  run m_83d2d4a4  [2s]
+  [###.................]  8/50 papers  run m_83d2d4a4  [4s]
+  [#####...............]  13/50 papers  run m_83d2d4a4  [6s]
+  [########............]  20/50 papers  run m_83d2d4a4  [8s]
+  [###########.........]  28/50 papers  run m_83d2d4a4  [18s]
+  [#############.......]  34/50 papers  run m_83d2d4a4  [21s]
+  [################....]  41/50 papers  run m_83d2d4a4  [23s]
+  [###################.]  48/50 papers  run m_83d2d4a4  [25s]
+  [####################]  50/50 papers  run m_83d2d4a4  [27s]
+  [####################]  50/50 papers  run m_83d2d4a4  [37s]
+  [####################]  50/50 papers  run m_83d2d4a4  [45s]
+  [####################]  50/50 papers  run m_83d2d4a4  [48s]
+

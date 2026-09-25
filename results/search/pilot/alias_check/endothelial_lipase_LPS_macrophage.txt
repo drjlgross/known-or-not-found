@@ -1,0 +1,248 @@
+Found 25 papers  [s_b30caf21]
+
+  1. Macrophages enhance lipopolysaccharide induced apoptosis via Ang1 and NF-κB pathways in human umbilical vein endothelial cells
+     Guo-Long Cai; Zhou-Xin Yang; Dong-Yang Guo; Cai-Bao Hu; Mo-Lei Yan; Jing Yan
+     PMC7858588 · PMC · 2021-02-03 · 15 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7858588/
+     Matched: Discussion · cat /papers/PMC7858588/content.lines --lines 65-67
+     "Macrophages worsen LPS-induced endothelial cell dysfunction and apoptosis. This occurs through Ang1 downregulation and NF-κB activation, suggesting therapeutic targets for sepsis."
+
+  2. Increased expression of endothelial lipase in symptomatic and unstable carotid plaques
+     Matias Trbušić; Monika Riederer; Majda Vučić; Ivo Lovričević; Božo Krušlin; Martin Gauster; Sonja Mo...
+     PMC3296002 · PMC · 2011-08-13 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3296002/
+     Matched: Discussion · cat /papers/PMC3296002/content.lines --lines 130-132
+     │ The major findings of the present study are: (1) higher EL immunostaining in unstable HCAP
+     │ and (2) higher EL immunostaining in plaques of patients exhibiting HCAP—related
+     │ symptomatology. Probably the main connector between plaque stability, inflammation and EL
+     │ are macrophages, which play an important role in plaque destabilization [19]. Using
+     │ immunohistochemistry, Azumi et al. [20] identified macrophages and smooth muscle cells as
+     │ main source of EL in HCAP. This was confirmed by a Danish study [21], which detected EL mRNA
+     │ and protein in areas between the fibrotic cap and the necrotic core, co-localizing primarily
+     │ with macrophage specific CD68; however, that study exclusively included …
+     "Endothelial lipase (EL) expression was evaluated in human carotid artery plaques. High EL expression correlated with unstable and symptomatic plaques, suggesting a role in plaque instability."
+
+  3. A host lipase prevents lipopolysaccharide-induced foam cell formation
+     Jintao Feng; Wei Jiang; Xiaofang Cheng; Benkun Zou; Alan W. Varley; Ting Liu; Guojun Qian; Wenjiao Z...
+     PMC8426562 · PMC · 2021-08-19 · 9 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8426562/
+     Matched: LPS-induced inflammation · cat /papers/PMC8426562/content.lines --lines 149
+     │ Co-housed Aoah+/+ and Aoah-/- mice were injected with 10 μg LPS or PBS i.p. Fourteen days
+     │ later, their peritoneal cells were obtained and cultured in RPMI 1640 containing 10% fetal
+     │ bovine serum, 100 U/ml penicillin, 0.1 mg/ml streptomycin and 2 mM L-glutamine (Gibco). The
+     │ macrophages were purified by adherence to culture plates before they were lysed for
+     │ microarray or qPCR. The methods for the microarray experiment and analysis have been
+     │ published (Lu et al., 2013). Aoah+/+ and Aoah-/- mice were injected i.p with 10 μg LPS.
+     │ Twenty-one days later, their peritoneal macrophages were collected, purified and cultured
+     │ either untreated (Aoah+/+, Aoah-/-) or treated with 1 μg/ml LPS for 2 h …
+     "A host lipase, acyloxyacyl hydrolase (AOAH), was studied for its role in preventing lipopolysaccharide (LPS)-induced foam cell formation. AOAH inactivates LPS, and its absence leads to increased cholesterol accumulation and inflammation in macrophages."
+
+  4. Extracellular vesicles derived from endothelial cells modulate macrophage phenotype in vitro
+     Zhizhen He; Johannes Greven; Yulong Shi; Kang Qin; Qun Zhao; Xing Zhang; Eva Miriam Buhl; Jörg Eschw...
+     PMC10634087 · PMC · 2023-11-09 · 14 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10634087/
+     Matched: Introduction · cat /papers/PMC10634087/content.lines --lines 16-17
+     "Endothelial cells were stimulated with LPS to produce extracellular vesicles (E-EVs). LPS-stimulated E-EVs enhanced macrophage viability and promoted a pro-inflammatory phenotype by activating the TLR4-NFκB pathway."
+
+  5. Effect of Human Umbilical Vein Endothelial Cells on Immune Responses of Lipopolysaccharide-Induced THP1 Macrophages
+     Zhou-Xin Yang; Dong-Yang Guo; An-Bang Wei; Cai-Bao Hu; Mo-Lei Yan; Guo-Long Cai
+     PMC6144854 · PMC · 2018-09-20 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6144854/
+     Matched: cat /papers/PMC6144854/content.lines --lines 12-13
+
+  6. Novel Role of Endothelial Derived Exosomal HSPA12B in Regulating Macrophage Inflammatory Responses in Polymicrobial Sepsis
+     Fei Tu; Xiaohui Wang; Xia Zhang; Tuanzhu Ha; Yana Wang; Min Fan; Kun Yang; P. Spencer Gill; Tammy R....
+     PMC7221167 · PMC · 2020-05-07 · 56 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7221167/
+     Matched: Endothelial Conditioned Medium (ECM) Attenuated LPS-Stimulated Inflamm · cat /papers/PMC7221167/content.lines --lines 64-65
+     │ To investigate that HSPA12B released from endothelial cells could regulate the inflammatory
+     │ cytokine production in macrophages, we first incubated macrophages with ECM before the cells
+     │ were stimulated with LPS. Figures 5A–C show that LPS stimulation markedly increased the
+     │ levels of TNFα (A), IL-1β (B) and IL-10 (C) compared with unstimulated control. However, ECM
+     │ harvested from Ad-HSPA12B transfected HUVECs, but not from Ad-GFP transfected HUVECs
+     │ significantly attenuated LPS stimulated production of TNFα by 20.4% and IL-1β by 60.6% in
+     │ macrophages. Interestingly, ECM harvested from Ad-HSPA12B transfected endothelial cells
+     │ further enhanced LPS stimulated IL-10 production (by 27.3%) in …
+     "Endothelial HSPA12B's role in regulating macrophage inflammation during sepsis was studied. Endothelial exosomal HSPA12B reduces pro-inflammatory cytokines and sepsis-induced mortality by inhibiting NF-κB activation in macrophages."
+
+  7. Macrophages mediate colon carcinoma cell adhesion in the rat liver after exposure to lipopolysaccharide
+     Nuray Gül; Simran Grewal; Marijn Bögels; Gerben J. van der Bij; Malika M.A. Koppes; Steven J. Ooster...
+     PMC3525607 · PMC · 2012-12-01 · 16 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525607/
+     Matched: LPS stimulates tumor-cell adhesion in the rat liver by disrupting orga · cat /papers/PMC3525607/content.lines --lines 21-23
+     "Lipopolysaccharide (LPS) was studied for its effect on colon carcinoma cell adhesion in rat livers. LPS increases tumor cell adhesion by causing macrophages to release reactive oxygen species, damaging the liver's vascular lining."
+
+  8. A novel co-culture model for investigation of the effects of LPS-induced macrophage-derived cytokines on brain endothelial cells
+     Junling Yang; Yinchuan Li; Ambuj Bhalla; Mark Maienschein-Cline; Ken-ichiro Fukuchi
+     PMC10343049 · PMC · 2023-07-13 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10343049/
+     Matched: Comparison of cytokine expression profiling between endothelial/macrop · cat /papers/PMC10343049/content.lines --lines 60-61
+     │ Because proinflammatory cytokines/chemokines induced by systemic inflammation alter the BBB
+     │ integrity and functions [42–44] and because brain endothelial cells, one of the components
+     │ of the BBB, are first responders to peripheral inflammatory molecules including LPS, bEnd.3
+     │ cells were co-cultured with LPS-activated Raw 264.7 cells to mimic in vivo models of LPS-
+     │ induced systemic inflammation (Fig 1). On day 4, 1ml of cell medium from the bottom wells
+     │ where Raw 264.7 cells were located was applied to the cytokines profiling analysis. In the
+     │ co-culture model, twelve cytokines were significantly upregulated by LPS, which include
+     │ G-CSF (P = 0.002), GM-CSF (P = 0.025), IL-1ra (P < 0.001), IL-6 (P …
+     "A co-culture model of brain endothelial cells and LPS-activated macrophages was developed. This model effectively mimics in vivo inflammatory responses, unlike monocultures, and shows increased fibrinogen adherence."
+
+  9. Macrophage-derived exosomes mediate glomerular endothelial cell dysfunction in sepsis-associated acute kidney injury
+     Huiling Xiang; Zhifeng Xu; Chun Zhang; Jing Xiong
+     PMC9990300 · PMC · 2023-03-07 · 31 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9990300/
+     Matched: ASM inhibition can reduce the production of macrophage EXOs and the da · cat /papers/PMC9990300/content.lines --lines 36-37
+     │ After RAW264.7 cells were pretreated with the ASM inhibitor, amitriptyline, and then
+     │ stimulated with LPS, they produced fewer EXOs than those stimulated with LPS alone (Fig. 5a,
+     │ b). In addition, we studied the effect of ASM on endothelial cell by pretreating RGECs with
+     │ amitriptyline and then used EXOs from LPS-stimulated RAW264.7 to stimulate endothelial cells
+     │ and found that endothelial cell damage was reduced. Furthermore, knocking down the
+     │ expression of ASM on endothelial cells, the endothelial cell damage was reduced, indicating
+     │ that ASM not only participates in the regulation of macrophage EXOs secretion, but also
+     │ further affects the interaction of macrophage EXOs and endothelial cells. …
+     "Macrophage-derived exosomes were studied for their role in sepsis-associated AKI. These exosomes, regulated by ASM, cause glomerular endothelial cell dysfunction."
+
+  10. Endothelial lipase is upregulated by interleukin-6 partly via the p38 MAPK and p65 NF-κB signaling pathways
+     Xin Yue; Minghui Wu; Hong Jiang; Jing Hao; Qinghao Zhao; Qing Zhu; Gaowa Saren; Yun Zhang; Xiaoli Zh...
+     PMC4991746 · PMC · 2016-06-30 · 9 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4991746/
+     Matched: Discussion · cat /papers/PMC4991746/content.lines --lines 41-43
+     │ EL was identified in 1999 as part of the triglyceride lipase family of genes (8).
+     │ Structurally, EL has 45, 40 and 27% homology with lipoprotein lipase, hepatic lipase and
+     │ pancreatic lipase, respectively. EL is a critical enzyme in high density lipoprotein (HDL)
+     │ metabolism by hydrolyzing the phospholipid component (9). The plasma HDL concentration rises
+     │ significantly in EL gene knockout mice and the overexpression of EL reduces the HDL level
+     │ markedly while HDL is an independent risk factor for atherosclerosis (8). EL also has non-
+     │ enzymatic activities, including mediating the uptake of apolipoprotein B and the adhesion of
+     │ monocytes or macrophages to the endothelia, which indicates that EL …
+     "Interleukin-6 increases endothelial lipase expression and cell proliferation in human umbilical vein endothelial cells. This upregulation occurs partly through the p38 MAPK and p65 NF-κB signaling pathways."
+
+  11. Macrophage A2aR Alleviates LPS‐Induced Vascular Endothelial Injury and Inflammation via Inhibiting M1 Polarisation and Oxidative Stress
+     Yanxiu Li; Tingzhen Chen; Iokfai Cheang; Peiben Liu; Lin Zhao; Xiaoxin He; Yuxi Jin; Mingmin Tang; Z...
+     PMC11882390 · PMC · 2025-03-05 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11882390/
+     Matched: Macrophage A2aR Regulates Endothelial Cell Overactivation · cat /papers/PMC11882390/content.lines --lines 59-61
+     │ To investigate whether A2aR activation enhances vascular endothelial repair, macrophages
+     │ from WT or Mac‐A2aR KO mice were treated with LPS and CGS21680 or DMSO, and their
+     │ conditioned media were used to culture HUVECs, as illustrated in Figure 5A. Conditioned
+     │ media from BMDMs of LPS‐challenged Mac‐A2aR KO mice increased E‐selectin mRNA levels in
+     │ HUVECs by approximately 2.5 times higher compared to media from BMDMs of LPS‐challenged WT
+     │ mice (Figure 7A). Furthermore, ICAM‐1 protein expression was similarly elevated (Figure 7B).
+     │ FIGURE 7: Macrophage A2aR regulates endothelial cell overactivation. (A) QRT‐PCR of
+     │ E‐selectin mRNA expression levels in human umbilical vein endothelial cells (HUVEC) …
+     "Macrophage A2aR's role in LPS-induced vascular injury was studied using knockout mice and LPS stimulation. Macrophage A2aR alleviates vascular injury by inhibiting M1 polarization and oxidative stress."
+
+  12. Lipopolysaccharides Drive Proinflammatory Extracellular Vesicle Secretion in Coronary Artery Endothelial Cells via Noncanonical Inflammasome Activation
+     Katariina Nurmi; Martina B. Lorey; Jukka Parantainen; Wojciech Cypryk; Eirini Kalogerakou; Vesa-Pett...
+     PMC13237317 · PMC · 2026-04-21 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13237317/
+     Matched: Introduction · cat /papers/PMC13237317/content.lines --lines 21-22
+     "Intestinal dysbiosis and impaired gut barrier function lead to increased blood lipopolysaccharide (LPS) load, a condition known as endotoxemia. We investigated whether intracellular LPS induces activa"
+
+  13. Effects of activation on lipoprotein lipase secretion by macrophages. Evidence for autoregulation
+     PMC2188426 · PMC · 1986-10-01 · 28 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2188426/
+     Matched: cat /papers/PMC2188426/content.lines --lines 5
+     "Macrophage LPL secretion was studied in different activation states. Fully activated macrophages autoregulate LPL secretion by releasing an inhibitory factor."
+
+  14. Identification of LPS-Activated Endothelial Subpopulations With Distinct Inflammatory Phenotypes and Regulatory Signaling Mechanisms
+     Erna-Zulaikha Dayang; Josée Plantinga; Bram ter Ellen; Matijs van Meurs; Grietje Molema; Jill Moser
+     PMC6543489 · PMC · 2019-05-24 · 70 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6543489/
+     Matched: Introduction · cat /papers/PMC6543489/content.lines --lines 13-14
+     "This study identified distinct subpopulations of endothelial cells activated by LPS, differing in inflammatory marker expression. The formation of these subpopulations is regulated by specific receptors and signaling pathways, with the most inflammatory subpopulation requiring both TLR4 and RIG-I."
+
+  15. Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review
+     Leah Elson; Niels Eijkelkamp; J. Henk Coert
+     PMC13372918 · PMC · 2026-07-15 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13372918/
+     Matched: Adipose macrophages · cat /papers/PMC13372918/content.lines --lines 90-91
+     "This systematic review synthesized evidence for a conserved lipopolysaccharide (LPS)-mediated pathogenic mechanism across diverse tissues and evaluated its potential relevance to peripheral neuropathy"
+
+  16. Deciphering the role of endothelial granulocyte macrophage-CSF in chronic inflammation associated with HIV
+     Soumya Panigrahi; Elizabeth Mayne; Susan Louw; Nicholas T. Funderburg; Archeesha Chakraborty; Jeffre...
+     PMC11465086 · PMC · 2024-09-11 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11465086/
+     Matched: Granulocyte macrophage-CSF expression is increased in aortic endotheli · cat /papers/PMC11465086/content.lines --lines 29-30
+     "This study investigated the role of endothelial GM-CSF in HIV-associated inflammation and dysfunction. Microbial products increase endothelial glucose uptake and GM-CSF, which SGLT2 inhibitors can reduce, suggesting a therapeutic target."
+
+  17. Impact of Endothelial Lipase on Cholesterol Efflux Capacity of Serum and High-density Lipoprotein
+     Irene Schilcher; Sabine Kern; Andelko Hrzenjak; Thomas O. Eichmann; Tatjana Stojakovic; Hubert Schar...
+     PMC5624901 · PMC · 2017-10-02 · 20 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5624901/
+     Matched: Introduction · cat /papers/PMC5624901/content.lines --lines 14-16
+     │ The best-studied atheroprotective activity of high-density lipoprotein (HDL) is the
+     │ promotion of reverse cholesterol transport (RCT). RCT is a dynamic process by which HDL
+     │ removes excess of the peripheral cholesterol for delivery back to the liver for
+     │ excretion[1]. The first and a key step in RCT is HDL-mediated cholesterol efflux, a process
+     │ by which HDL removes excess cholesterol from foam cell macrophages in the artery wall[2].
+     │ Among various cellular and plasma factors, endothelial lipase (EL) has been shown to be a
+     │ strong negative regulator of HDL plasma levels[3]–[5] and a potent modulator of the
+     │ structural and functional properties of HDL[5]–[7]. EL is a member of the triacylglycerol …
+     "Endothelial lipase's impact on serum and HDL cholesterol efflux capacity was systematically examined in vitro and in vivo. In vitro, EL increased serum CEC, while isolated HDL CEC decreased; in vivo, EL overexpression decreased serum CEC."
+
+  18. Lipopolysaccharide induces a fibrotic-like phenotype in endothelial cells
+     César Echeverría; Ignacio Montorfano; Daniela Sarmiento; Alvaro Becerra; Felipe Nuñez-Villena; Xavie...
+     PMC3823184 · PMC · 2013-05-02 · 65 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3823184/
+     Matched: Lipopolysaccharide-induced endothelial fibrosis depends on NAD(P)H oxi · cat /papers/PMC3823184/content.lines --lines 76
+     "Lipopolysaccharide (LPS) was studied for its direct effects on endothelial cells. LPS induces a fibrotic phenotype in endothelial cells via an ALK5-dependent mechanism, perpetuating dysfunction."
+
+  19. Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyromonas endodontalis, Induces Macrophage M1 Profile
+     Pablo Veloso; Alejandra Fernández; Jessica Astorga; David González-Quintanilla; Alfredo Castro; Alej...
+     PMC9456100 · PMC · 2022-09-02 · 16 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9456100/
+     Matched: 5. Conclusions · cat /papers/PMC9456100/content.lines --lines 70-73
+     "This study investigated the effects of lipopolysaccharides from *Porphyromonas gingivalis* and *Porphyromonas endodontalis* on macrophage polarization. *P. gingivalis* LPS induced an M1 macrophage profile, while *P. endodontalis* LPS did not."
+
+  20. Endothelial Lipase Is Involved in Cold-Induced High-Density Lipoprotein Turnover and Reverse Cholesterol Transport in Mice
+     Nicola Schaltenberg; Clara John; Markus Heine; Friederike Haumann; Franz Rinninger; Ludger Scheja; J...
+     PMC7973023 · PMC · 2021-03-05 · 13 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7973023/
+     Matched: Ablation of Endothelial Lipase Diminishes Cold-Stimulated Macrophage-t · cat /papers/PMC7973023/content.lines --lines 56-57
+     │ Next, we wanted to study if the decelerated HDL metabolism observed in Lipg−/− mice also
+     │ translated into impaired cholesterol excretion. For this purpose, we performed an RCT assay
+     │ as described by Rader and colleagues (40). Briefly, we isolated and cultured peritoneal
+     │ macrophages from Ldlr–/– mice, loaded them ex vivo with LDL and 3H-cholesterol, and injected
+     │ them intraperitoneally into WT and Lipg−/− mice, which were housed in either thermoneutral
+     │ (30°C) or cold (6°C) conditions and fed a cholesterol-enriched western-type diet (WTD) to
+     │ stimulate cholesterol metabolism. Compared with chow feeding (Figure 2D), WTD feeding
+     │ substantially raised plasma cholesterol levels irrespective of …
+     "This study investigated the role of endothelial lipase (EL) in cold-induced changes to HDL cholesterol in mice. EL influences HDL lipid composition and cholesterol transport during thermogenesis, with its absence impairing cholesterol clearance."
+
+  21. Endothelial Cell Dysfunction Due to Molecules Secreted by Macrophages in Sepsis
+     Heng He; Wei Zhang; Luofeng Jiang; Xirui Tong; Yongjun Zheng; Zhaofan Xia
+     PMC11352357 · PMC · 2024-08-09 · 14 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11352357/
+     Matched: 3.1. Macrophages Increase Endothelial Cell Adhesion and Ability to Rec · cat /papers/PMC11352357/content.lines --lines 18-19
+     "This review examines how macrophage-secreted molecules contribute to endothelial cell dysfunction in sepsis. It highlights that targeting macrophage polarization can reverse this dysfunction and improve sepsis outcomes."
+
+  22. Correction: Angiotensin II Upregulates Endothelial Lipase Expression via the NF-Kappa B and MAPK Signaling Pathways
+     PMC4351160 · PMC · 2015-03-05 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4351160/
+
+  23. Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni; Yanal Ghosheh; Akula Bala Pramod; Klaus Ley
+     PMC6543837 · PMC · 2019-05-24 · 1909 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6543837/
+     Matched: Introduction · cat /papers/PMC6543837/content.lines --lines 14-15
+     "This study compared gene expression in *in vivo* M1/M2 macrophages with *in vitro* classically/alternatively activated macrophages. The findings indicate that *in vivo* M1/M2 polarization is not equivalent to *in vitro* activation states."
+
+  24. Lipid Droplets Formation Represents an Integral Component of Endothelial Inflammation Induced by LPS
+     Krzysztof Czamara; Marta Stojak; Marta Z. Pacia; Alicja Zieba; Malgorzata Baranska; Stefan Chlopicki...
+     PMC8227392 · PMC · 2021-06-06 · 30 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8227392/
+     Matched: 1. Introduction · cat /papers/PMC8227392/content.lines --lines 11-13
+     "Endothelial inflammation induced by LPS was studied in human microvascular endothelial cells using advanced imaging techniques. Lipid droplet formation, dependent on serum and incubation time, is integral to this LPS-induced inflammation and linked to prostacyclin release."
+
+  25. Expression Profiling of Long Noncoding RNA Splice Variants in Human Microvascular Endothelial Cells: Lipopolysaccharide Effects In Vitro
+     Imran H. Chowdhury; Hema P. Narra; Abha Sahni; Kamil Khanipov; Casey L. C. Schroeder; Jignesh Patel;...
+     PMC5632992 · PMC · 2017-09-25 · 27 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5632992/
+     Matched: 1. Introduction · cat /papers/PMC5632992/content.lines --lines 12
+     "This study profiled long noncoding RNA (lncRNA) splice variants in human microvascular endothelial cells treated with lipopolysaccharide (LPS). LPS significantly altered the expression of thousands of lncRNA transcripts, including specific splice variants of EGO, HOTAIRM1, and lnc-IL7R."
+
+[2.6s, saved to s_b30caf21]
+
+💡 Extract data across these results with: map --from s_b30caf21 "your question"
+[2.6s, saved to s_b30caf21]  [repo: mva-lof-molecular]

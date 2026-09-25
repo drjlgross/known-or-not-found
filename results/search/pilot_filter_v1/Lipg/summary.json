@@ -1,0 +1,15 @@
+{
+  "gene": "Lipg",
+  "query": "Lipg LPS macrophage",
+  "filter_question": "Does this paper describe the expression of the gene Lipg changing in response to LPS or bacterial infection?",
+  "date": "2026-09-24T17:54:16Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_16f7374c",
+  "parent_n": 25,
+  "yes": 0,
+  "no": 25,
+  "seconds_search": 4.2,
+  "seconds_filter": 1.4,
+  "seconds_total": 6.0
+}

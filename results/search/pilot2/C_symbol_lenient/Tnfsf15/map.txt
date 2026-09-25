@@ -1,0 +1,174 @@
+$ src/pc.sh map --from s_42995ebd --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}}} Does this paper describe the expression of the gene Tnfsf15 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_f03bfe3f
+
+  ✓ TL1A (TNFSF15) and DR3 (TNFRSF25): A Co-stimulatory System of Cytokine
+    PMC6445966 · 1776ms
+    {
+      "answer": "yes",
+      "evidence": "In the monocytic cell line U937, TL1A was induced by LPS."
+    }
+
+  ✓ Protective effect of growth differentiation factor 15 in sepsis by reg
+    PMC9161903 · 1071ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Identification of a distinct cluster of GDF15 high  macrophages exhibi
+    bio_7e979bb4 · 979ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ The orientation of choroidal macrophage polarization significantly inf
+    bio_b06931d1 · 1499ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Comparative Study of The Effect of LPS on The Function of BALB/c and C
+    PMC3660024 · 787ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Quantitative Proteomics Reveals Fh15 as an Antagonist of TLR4 Downregu
+    PMC12294962 · 933ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide-mediated macrophage polarization, conserved pathoge
+    PMC13372918 · 1406ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide from biofilm-forming Pseudomonas aeruginosa PAO1 in
+    PMC8289208 · 1177ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Induction of unique macrophage subset by simultaneous stimulation with
+    PMC10167635 · 1079ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Mathematical modelling of activation-induced heterogeneity in TNF, IL6
+    PMC9411976 · 989ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Oral and transdermal administration of lipopolysaccharide safely enhan
+    PMC11994614 · 1132ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Mathematical modelling of activation-induced heterogeneity reveals cel
+    bio_206e5a35 · 1091ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyr
+    PMC9456100 · 924ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ GDF15 orchestrates mitochondrial-immune crosstalk via SMAD7-HIF-1α-PKM
+    PMC12872506 · 1142ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ TNFSF15 facilitates differentiation and polarization of macrophages to
+    PMC8812784 · 756ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 879ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Motif prediction to distinguish LPS-stimulated pro-inflammatory vs. an
+    PMC2949756 · 1013ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Tremella fuciformis Polysaccharides Attenuate Oxidative Stress and Inf
+    PMC5954968 · 630ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ LPS Tolerance Inhibits Cellular Respiration and Induces Global Changes
+    PMC7918892 · 880ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ The Clinical Value of GDF15 and Its Prospective Mechanism in Sepsis
+    PMC8456026 · 942ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Identification of a distinct cluster of GDF15high macrophages induced 
+    PMC11036887 · 840ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ TNFSF15 Promotes Antimicrobial Pathways in Human Macrophages and These
+    PMC7689184 · 870ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide regulation of antiinflammatory tristetraprolin fami
+    PMC10949775 · 851ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Protection of mice against septic shock induced by lethal intraperiton
+    PMC13055263 · 810ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Analysis of the human monocyte-derived macrophage transcriptome and re
+    PMC5358891 · 1155ms
+    {
+      "answer": "yes",
+      "evidence": "Both TNF receptor genes TNFR1 (TNFRSF1A) and TNFR2 (TNFRSF1B) were induced later in the response to LPS. Aside from TNF, five other members of the TNF superfamily, TNFSF15, TNFSF8 (encoding CD30L), TNFSF10 (TRAIL), TNFSF14 (LIGHT) and TNFSF9 (CD137L) were each induced ahead of induction of their respective receptors TNFRSF6B, TNFRSF8, TNFRSF10A and 10B and TNFRSF9 (CD137)."
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[22.1s, saved to m_f03bfe3f]
+
+  [###.................]  4/25 papers  run m_f03bfe3f  [2s]
+  [###########.........]  14/25 papers  run m_f03bfe3f  [4s]
+  [##############......]  18/25 papers  run m_f03bfe3f  [8s]
+  [###############.....]  19/25 papers  run m_f03bfe3f  [10s]
+  [####################]  25/25 papers  run m_f03bfe3f  [12s]
+

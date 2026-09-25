@@ -1,0 +1,24 @@
+$ src/pc.sh results s_aec041d8
+# exit 0
+  Query: filter 'Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Edn1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes in response to LPS or bacterial infection?' --from s_aec041d8
+Found 3 papers  [s_aec041d8]
+
+  1. Nlrp3, Csf3, and Edn1 in Macrophage Response to Saturated Fatty Acids and Modified Low-Density Lipoprotein
+     Harin Youk; Miso Kim; Chan Joo Lee; Jaewon Oh; Sungha Park; Seok-Min Kang; Jeong-Ho Kim; Soo-jin Ann...
+     PMC7779813 · pmc · 2020-08-25
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7779813/
+     "This study investigated how palmitate and modified LDL affect macrophage inflammatory responses. These agents promote macrophage activation and gene expression, with TLR4 signaling being a key pathway."
+
+  2. miR-379-5p serves as a biomarker and regulates sepsis-associated acute kidney injury via targeting EDN1
+     Xiaoyu Wang; Hongdong Li; Xianfeng Yu; Mengmeng Li
+     PMC13483658 · pmc · 2026-08-03
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13483658/
+     "Sepsis-associated acute kidney injury (SA-AKI) is a serious complication for sepsis patients, and microRNA (miRNA) is involved in its occurrence and development. This study investigated the clinical v"
+
+  3. Differential mRNA and miRNA Profiles Reveal the Potential Roles of Genes and miRNAs Involved in LPS Infection in Chicken Macrophages
+     Qi Zhang; Jie Wang; Jin Zhang; Jie Wen; Guiping Zhao; Qinghe Li
+     PMC8155903 · pmc · 2021-05-17
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8155903/
+     "Chicken macrophages were stimulated with LPS, and their mRNA and miRNA profiles were analyzed. This revealed differentially expressed genes and miRNAs involved in immune responses, offering insights into bacterial inf..."
+
+

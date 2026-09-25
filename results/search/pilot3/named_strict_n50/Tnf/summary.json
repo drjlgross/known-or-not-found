@@ -1,0 +1,21 @@
+{
+  "gene": "Tnf",
+  "query": "Tnf (tumor necrosis factor) LPS macrophage",
+  "also": [],
+  "mode": "map",
+  "strict": true,
+  "question": "Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Tnf (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes in response to LPS or bacterial infection? Answer yes or no. If yes, quote the sentence reporting that result; it must name the gene or its protein. Use an empty string if no.",
+  "date": "2026-09-25T13:15:58Z",
+  "n": 50,
+  "status": "ok",
+  "search_id": "s_49059bb1",
+  "judge_id": "m_e57c6c49",
+  "parent_n": 50,
+  "yes": 44,
+  "downgraded": 2,
+  "no": 6,
+  "paper_errors": 0,
+  "seconds_search": 6.3,
+  "seconds_judge": 47.8,
+  "seconds_total": 54.2
+}

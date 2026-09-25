@@ -1,0 +1,4 @@
+$ src/pc.sh results m_b1acf927 --save /Users/julia/known-or-not-found/results/search/pilot2/C_symbol_lenient/Slc7a2/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/pilot2/C_symbol_lenient/Slc7a2/map_answers.txt
+

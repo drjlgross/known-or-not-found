@@ -1,0 +1,274 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Tnfsf15 (tumor necrosis factor (ligand) superfamily, member 15) LPS macrophage
+# exit 0
+Found 25 papers  [s_ccccf36b]
+
+  1. TNFSF15 facilitates differentiation and polarization of macrophages toward M1 phenotype to inhibit tumor growth
+     Can-Can Zhao; Qiu-Ju Han; Hao-Yan Ying; Xiang-Xiang Gu; Na Yang; Lu-Yuan Li; Qiang-Zhe Zhang
+     PMC8812784 · PMC · 2022-02-01 · 44 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8812784/
+     Matched: TNFSF15 promotes M1-like macrophage infiltration into tumors · cat /papers/PMC8812784/content.lines --lines 43-44
+     │ As TNFSF15 gene expression profiles vary in tumors under clinical conditions as well as in
+     │ experimental models, and appear to be subject to modulations by angiogenic factors or
+     │ oncogenes,[28–30] we prepared murine Lewis lung carcinoma (LLC) cells that stably expressed
+     │ TNFSF15 and used the cells to establish a tumor model in C57BL/6 mice to investigate the
+     │ impact of TNFSF15 on tumor-infiltrating macrophages (Fig. S1A-B). In good agreement with
+     │ previous reports,[15],[21] TNFSF15-overexpressing tumors exhibited markedly retarded growth,
+     │ while TNFSF15-overexpression showed little impact on the proliferation rate of the cells in
+     │ culture (Figure 1a-d and S1C). We then analyzed the macrophage …
+     "TNFSF15 was studied for its role in macrophage differentiation and polarization. TNFSF15 promotes M1 macrophage polarization, which inhibits tumor growth."
+
+  2. Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni, Yanal Ghosheh, Akula Bala Pramod, Klaus Ley
+     PMC6543837 · Frontiers in Immunology · 2019-05-24 · 1909 citations
+     https://doi.org/10.3389/fimmu.2019.01084
+     Matched: In vivo M1(=LPS+)C57BL/6J Exclusive Genes Drive Anti-bacterial Immune  · cat /papers/PMC6543837/content.lines --lines 40-43
+     │ The in vivo M1(=LPS+)C57BL/6J signature contains 177 uniquely up-regulated genes (Figure 1A,
+     │ Supplementary Table 5). Compared to the in vitro signatures we found the expression of many
+     │ genes correlated with the LPS mediated activation of Toll-like receptor 4 (Tlr4). Downstream
+     │ of Tlr4 is myeloid differentiation factor 88 (MyD88), Nfkb1, Rela, Rps6ka2, Tank, and Ripk2,
+     │ (40) all expressed in M1(=LPS+)C57BL/6J. These genes are responsible for an anti-bacterial
+     │ immune response. The chemokine Ccl2 and the hematopoietic cytokine Csf2 (GM-CSF) are
+     │ positively correlated with M1 polarization in vivo, but not increased in response to IFN-γ
+     │ and LPS in vitro. The same is true for the pro-inflammatory …
+     "This study compared gene expression in *in vivo* M1/M2 macrophages with *in vitro* classically/alternatively activated macrophages. The findings indicate that *in vivo* M1/M2 polarization is not equivalent to *in vitro* activation states."
+
+  3. TNFSF15 Promotes Antimicrobial Pathways in Human Macrophages and These Are Modulated by TNFSF15 Disease-Risk Variants
+     Rui Sun; Matija Hedl; Clara Abraham
+     PMC7689184 · PMC · 2020-08-19 · 25 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7689184/
+     Matched: Generation of Mouse Bone Marrow–Derived Macrophages and Stimulation · cat /papers/PMC7689184/content.lines --lines 90-96
+     │ p40phox | 5'-ATGGCTGTGGCCCAGCAGCT-3'; 5'-CTCCTGTTTCACACCCACGTAG-3' p47phox |
+     │ 5'-AGTACCGCGACAGACATCAC-3'; 5'-CGCTCTCGCTCTTCTCTACG-3' p67phox | 5'-TGCCAAAAGGTGGGGACATT-3';
+     │ 5'-CAAGAGAGCTGCCAGGAGAC-3' NOS2 | 5'-CGCAGAGAACTCAGCCTCAT-3'; 5'-TGCCTTGAGAACTTCGGGAC-3'
+     │ ATG5 | 5'-TTTGCATCACCTCTGCTTTC-3'; 5'-TAGGCCAAAGGTTTCAGCTT-3' ATG16L1 |
+     │ 5'-GCATGACGTACCAAACAGGC-3'; 5'-AGTTGAGCTAACTCCCCACG-3' IL8 | 5'-ATGACTTTCAAGCTGGCCGTGGCT-3';
+     │ 5'-TCTCAGCCCTCTTCAAAAACTTCTC-3'
+     "TNFSF15 was studied for its role in human macrophage antimicrobial pathways. Increased TNFSF15 expression enhances bacterial clearance in macrophages, with disease-risk variants potentially conferring an advantage."
+
+  4. LITAF and TNFSF15, two downstream targets of AMPK, exert inhibitory effects on tumor growth
+     Jing Zhou; Zhanmin Yang; Takanori Tsuji; Jun Gong; Jian Xie; Changyan Chen; Wande Li; Salomon Amar; ...
+     PMC3431012 · PMC · 2011-01-10 · 66 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3431012/
+     Matched: Introduction · cat /papers/PMC3431012/content.lines --lines 12-13
+     "AMPK activation upregulates LITAF and TNFSF15, which then inhibit prostate cancer cell growth and tumor progression. LITAF and TNFSF15 together form a regulatory axis that suppresses tumor growth."
+
+  5. Identifying and testing candidate genetic polymorphisms in irritable bowel syndrome: association with TNFSF15 and tumor necrosis factor-α
+     Amit H. Sachdev; Mark Pimentel
+     PMC3959508 · PMC · 2013
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3959508/
+     Matched: cat /papers/PMC3959508/content.lines --lines 5-7
+
+  6. Quantitative Proteomics Reveals Fh15 as an Antagonist of TLR4 Downregulating the Activation of NF-κB, Inducible Nitric Oxide, Phagosome Signaling Pathways, and Oxidative Stress of LPS-Stimulated Macrophages
+     Albersy Armina-Rodriguez; Bianca N. Valdés Fernandez; Carlimar Ocasio-Malavé; Yadira M. Cantres Rosa...
+     PMC12294962 · PMC · 2025-07-18 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12294962/
+     Matched: 2.5. Measurement of TNF-α Levels in Supernatant of Culture from Bone M · cat /papers/PMC12294962/content.lines --lines 28
+     │ Since Fh15, as a TLR4-mediated immunoregulator, may influence the secretion of key pro-
+     │ inflammatory cytokines, we measure TNF-α levels in the culture supernatant of BMDMs treated
+     │ with Fh15, LPS or a combination of Fh15 and LPS. Our results showed that TNF-α levels in the
+     │ supernatant of BMDMs treated Fh15 were nearly undetectable, similar to those in the PBS-
+     │ treated control cells. In contrast, supernatants from BMDMs stimulated with LPS alone
+     │ exhibited an average TNF-α concentration of 8.833 ± 0.257 pg/mL. Notably, the secreted TNF-α
+     │ levels were significantly reduced (p = 0.0001) when cells were treated first with Fh15 and
+     │ then stimulated with LPS (Figure 7).
+     "Quantitative proteomics identified proteins downregulated by Fh15 in LPS-stimulated macrophages. Fh15 broadly targets multiple TLR4 downstream pathways, modulating inflammatory responses."
+
+  7. Reduced monocyte and macrophage TNFSF15/TL1A expression is associated with susceptibility to inflammatory bowel disease
+     Arianne C. Richard; James E. Peters; Natalia Savinykh; James C. Lee; Eric T. Hawley; Françoise Meyla...
+     PMC6130856 · PMC · 2018-09-10 · 40 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6130856/
+     Matched: Discussion · cat /papers/PMC6130856/content.lines --lines 43-44
+     "This study investigated the relationship between TNFSF15 gene expression and inflammatory bowel disease (IBD) susceptibility. Reduced TNFSF15 expression in monocytes is associated with increased IBD risk, suggesting that higher expression may be protective."
+
+  8. Protective effect of growth differentiation factor 15 in sepsis by regulating macrophage polarization and its mechanism
+     Xinliang Zhang; Shimin Dong
+     PMC9161903 · PMC · 2022-04-14 · 26 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9161903/
+     Matched: GDF15 expression · cat /papers/PMC9161903/content.lines --lines 94-97
+     │ GDF15 is a member of the transforming growth factor beta (TGF-β) family and is highly
+     │ expressed in inflammation, trauma, and other cases [10–12]. When compared with zero hours
+     │ after the LPS injection, the level of serum GDF15 was increased significantly at 1, 3, 6,
+     │ and 12 hours after the LPS injection (see Figure 5a). Blood RNA was extracted using the
+     │ PureLink™ Total RNA blood purification kit to measure changes in the expression of GDF15
+     │ mRNA in the blood and hearts of mice after LPS stimulation. GDF15 was highly expressed in
+     │ the spleen and blood (see Figure 5b), and the expression of GDF15 mRNA was significantly
+     │ upregulated in the LPS group at 1 and 3 hours after LPS injection (see Figure …
+     "Growth differentiation factor 15 (GDF15) was studied for its protective effects in sepsis by regulating macrophage polarization. GDF15 activates the PI3K/Akt pathway, promoting M2 polarization, reducing inflammation, and improving survival in sepsis models."
+
+  9. Distinct Expression Patterns of Two Tumor Necrosis Factor Superfamily Member 15 Gene Isoforms in Human Colon Cancer
+     Tomasz Jerzy Ślebioda; Marcin Stanisławowski; Marta Cyman; Piotr Mieczysław Wierzbicki; Dorota Żuraw...
+     PMC6584785 · PMC · 2019-02-20 · 12 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6584785/
+     Matched: Discussion · cat /papers/PMC6584785/content.lines --lines 89-90
+     │ Most of the previous studies on expression of the TNFSF15 gene in human and animal
+     │ malignancies did not differentiate between VEGI-192 and TL1A isoforms, and did not specify
+     │ precisely enough which isoform was detected or focused on total expression of the TNFSF15
+     │ gene. Therefore, it is difficult to compare the results obtained by our group with the
+     │ studies of other researchers. This study is, to our best knowledge, the first one that
+     │ reports that VEGI-192 and TL1A transcripts have distinct expression patterns in human colon
+     │ cancer and that their levels in tumor tissue are associated with tumor invasiveness.
+     │ Expression levels of both TL1A and VEGI-192 transcripts were significantly elevated …
+     "The study examined the expression of two TNFSF15 gene isoforms and their receptor in colon cancer. Higher VEGI-192 and lower TL1A expression correlated with longer patient survival, suggesting prognostic value."
+
+  10. GDF15 orchestrates mitochondrial-immune crosstalk via SMAD7-HIF-1α-PKM2 cascade to attenuate septic liver injury
+     Xiandong Kuang; Zhili Niu; Wenqiang Liu; Zhaoyang Huang; Shuo Li; Ye Zhang; Li Wang; Xin Cai; Faxi W...
+     PMC12872506 · PMC · 2026-01-22 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12872506/
+     Matched: LPS challenge induces time-dependent mitochondrial dysfunction and met · cat /papers/PMC12872506/content.lines --lines 48
+     "Sepsis-induced multi-organ failure involves pathological crosstalk between mitochondrial dysfunction and hyperinflammation, yet endogenous protective mechanisms remain incompletely defined. This study"
+
+  11. Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review
+     Leah Elson; Niels Eijkelkamp; J. Henk Coert
+     PMC13372918 · Inflammation Research · 2026-07-15 · 0 citations
+     https://doi.org/10.1007/s00011-026-02317-3
+     Matched: M1 Macrophage polarization mechanism · cat /papers/PMC13372918/content.lines --lines 71-74
+     "This systematic review synthesized evidence for a conserved lipopolysaccharide (LPS)-mediated pathogenic mechanism across diverse tissues and evaluated its potential relevance to peripheral neuropathy"
+
+  12. The Clinical Value of GDF15 and Its Prospective Mechanism in Sepsis
+     Huan Li; Dongling Tang; Juanjuan Chen; Yuanhui Hu; Xin Cai; Pingan Zhang
+     PMC8456026 · PMC · 2021-09-08 · 34 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8456026/
+     Matched: Effect of GDF15 on Polarization of THP-1 and RAW264.7 Cells · cat /papers/PMC8456026/content.lines --lines 134-135
+     │ We detected the mRNA expression of M1 and M2 polarization markers respectively, and the
+     │ results are shown in Figure 11. We found that the mRNA expression of CD80 in cells
+     │ stimulated by LPS was significantly increased, the pretreatment of rGDF15 can downregulate
+     │ the increase of CD80; interestingly, the mRNA expression of CD163 in cells stimulated by LPS
+     │ decreased, and it could be upregulated by pretreatment with rGDF15. The above results
+     │ indicate that pretreatment of rGDF15 can inhibit the M1 type polarization of macrophages and
+     │ promote the M2 type polarization on the contrary. Figure 11: Effect of rGDF15 on macrophage
+     │ polarization. The expression levels of polarization markers mRNA were …
+     "This study investigated the clinical value of GDF15 in sepsis and its effects on macrophage inflammation. Elevated GDF15 levels are associated with sepsis severity and prognosis, and GDF15 reduces inflammation and enhances macrophage function by modulating JAK1/STAT3 and NF-κB signaling."
+
+  13. Differential mRNA and miRNA Profiles Reveal the Potential Roles of Genes and miRNAs Involved in LPS Infection in Chicken Macrophages
+     Qi Zhang; Jie Wang; Jin Zhang; Jie Wen; Guiping Zhao; Qinghe Li
+     PMC8155903 · PMC · 2021-05-17 · 6 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8155903/
+     Matched: 1. Introduction · cat /papers/PMC8155903/content.lines --lines 9-11
+     │ LPS (lipopolysaccharide), also known as endotoxin, is a highly acylated glycolipid on the
+     │ cell surface of Gram-negative bacteria. LPS is composed of three parts, a highly acylated
+     │ di-glucosamine backbone (lipid A) connected to a polysaccharide containing repeating sugars
+     │ (O-antigen) and linked through a highly conserved oligosaccharide Kdo/heptose core [1,2].
+     │ Lipid A can represent its physiological role, and is considered a manifestation of the toxic
+     │ effects of Gram-negative bacterial infection [3]. Early work on LPS began in the 1960s on
+     │ Escherichia coli and Salmonella typhimurium. Subsequently, the structure of LPS was
+     │ elucidated [4], and its physiological function was revealed. LPS is …
+     "Chicken macrophages were stimulated with LPS, and their mRNA and miRNA profiles were analyzed. This revealed differentially expressed genes and miRNAs involved in immune responses, offering insights into bacterial infection mechanisms."
+
+  14. Monocyte normal immune response to LPS stimulation
+     P Myrianthefs; K Venetsanou; E Grouzi; E Boutzouka; P Evagelopoulou; G Fildissis; I Spiliotopoulou; ...
+     PMC3333514 · Critical Care · 2002-03-01 · 1 citation
+     https://doi.org/10.1186/cc1554
+
+  15. Cytokine Expression and Macrophage Localization in Xenograft and Allograft Tumor Models Stimulated with Lipopolysaccharide
+     Junko Masuda; Tsukasa Shigehiro; Takuma Matsumoto; Ayano Satoh; Akifumi Mizutani; Chiho Umemura; Sho...
+     PMC5979423 · International Journal of Molecular Sciences · 2018-04-23 · 20 citations
+     https://doi.org/10.3390/ijms19041261
+     Matched: 2.2. Pro-Inflammatory Cytokine Production in Nude Mice Stimulated by L · cat /papers/PMC5979423/content.lines --lines 22
+     "This study compared myeloid cell responses in xenograft and allograft tumor models after LPS stimulation. Xenografts showed sustained macrophage and DC function, while allografts exhibited suppressed responses to LPS."
+
+  16. Tremella fuciformis Polysaccharides Attenuate Oxidative Stress and Inflammation in Macrophages through miR-155
+     Yang Ruan; Hong Li; Lianmei Pu; Tao Shen; Zening Jin
+     PMC5954968 · Analytical Cellular Pathology (Amsterdam) · 2018-05-02 · 36 citations
+     https://doi.org/10.1155/2018/5762371
+     Matched: 3.3. TFPS Attenuates the Macrophage Inflammatory Reaction Induced by L · cat /papers/PMC5954968/content.lines --lines 48
+     │ LPS can cause macrophage inflammation. TNF-α and IL-6 are inflammatory cytokines that are
+     │ present during macrophage activation and inflammation. We examined whether TFPS pretreatment
+     │ could attenuate the LPS-induced cell inflammation reaction in macrophages. We used 0–300
+     │ μg/ml TFPS to treat the RAW264.7 cells before the LPS incubation. The results showed that
+     │ the TNF-α and IL-6 expression levels in RAW264.7 cells decreased in a TFPS concentration-
+     │ dependent manner (Figure 4). And the optimal TFPS anti-inflammatory concentration is 200
+     │ μg/ml. Therefore, we used 200 μg/ml TFPS to treat RAW264.7 cells in follow-up experiments.
+     "Tremella fuciformis polysaccharides were studied for their effects on LPS-induced inflammation and oxidative stress in macrophages. TFPS attenuates these processes by downregulating miR-155 and inhibiting NF-κB activation."
+
+  17. Lipopolysaccharide from biofilm-forming Pseudomonas aeruginosa PAO1 induces macrophage hyperinflammatory responses
+     Sufei Wang; Dandan Xiang; Fangbing Tian; Ming Ni
+     PMC8289208 · Journal of Medical Microbiology · 2021-04-28 · 23 citations
+     https://doi.org/10.1099/jmm.0.001352
+     Matched: Methodology · cat /papers/PMC8289208/content.lines --lines 13
+     "Biofilm-forming *Pseudomonas aeruginosa* LPS was studied for its effect on macrophage polarization. This LPS induced hyperinflammatory responses and increased bacterial growth in macrophages compared to planktonic LPS."
+
+  18. Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyromonas endodontalis, Induces Macrophage M1 Profile
+     Pablo Veloso; Alejandra Fernández; Jessica Astorga; David González-Quintanilla; Alfredo Castro; Alej...
+     PMC9456100 · International Journal of Molecular Sciences · 2022-09-02 · 16 citations
+     https://doi.org/10.3390/ijms231710011
+     Matched: 5. Conclusions · cat /papers/PMC9456100/content.lines --lines 70-73
+     "This study investigated the effects of lipopolysaccharides from *Porphyromonas gingivalis* and *Porphyromonas endodontalis* on macrophage polarization. *P. gingivalis* LPS induced an M1 macrophage profile, while *P. endodontalis* LPS did not."
+
+  19. Genetic and Epigenetic Etiology of Inflammatory Bowel Disease: An Update
+     Sara Jarmakiewicz-Czaja; Magdalena Zielińska; Aneta Sokal; Rafał Filip
+     PMC9778199 · PMC · 2022-12-16 · 123 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9778199/
+     Matched: 2.3.6. TNFSF15/TL1A (Tumor Necrosis Factor Superfamily Member 15) · cat /papers/PMC9778199/content.lines --lines 46-47
+     │ TNFSF15 (encoding a cytokine also known as Tumor necrosis factor (TNF)-like cytokine 1A
+     │ (TL1A)) is associated with CD and UC in populations of different ethnicities [100]. The
+     │ protein encoded by this gene is a cytokine that belongs to the tumor necrosis factor (TNF)
+     │ ligand family and it is expressed in endothelial cells. Expression of this protein is
+     │ inducible by TNF and IL-1 α. The expression of TL1A expression is related to inflammation
+     │ levels in IBD. A meta-analysis by Zhang et al. found significant associations between six
+     │ TNFSF15 polymorphisms and CD risk (rs3810936, rs6478108, rs4979462, rs6478109, rs7848647,
+     │ rs7869487) with the exception of the rs4263839 polymorphism. Polymorphisms …
+     "This review examines genetic and epigenetic factors contributing to inflammatory bowel disease (IBD). It highlights the complex interplay of genetic predisposition and drug response in IBD development."
+
+  20. Analysis of the human monocyte-derived macrophage transcriptome and response to lipopolysaccharide provides new insights into genetic aetiology of inflammatory bowel disease
+     J. Kenneth Baillie; Erik Arner; Carsten Daub; Michiel De Hoon; Masayoshi Itoh; Hideya Kawaji; Timo L...
+     PMC5358891 · PLoS Genetics · 2017-03-06 · 119 citations
+     https://doi.org/10.1371/journal.pgen.1006641
+     Matched: Inducible autocrine regulatory loops in the LPS response · cat /papers/PMC5358891/content.lines --lines 38-39
+     "Human monocyte-derived macrophages were profiled for gene expression changes in response to lipopolysaccharide. The study found that inflammatory bowel disease susceptibility loci are enriched for monocyte-specific genes regulated during differentiation and activation."
+
+  21. Oral and transdermal administration of lipopolysaccharide safely enhances self-healing ability through the macrophage network
+     Gen-Ichiro Soma; Masataka Oda; Vindy Tjendana Tjhin; Chie Kohchi; Hiroyuki Inagawa
+     PMC11994614 · Frontiers in Immunology · 2025-03-31 · 7 citations
+     https://doi.org/10.3389/fimmu.2025.1563484
+     Matched: Regulation of innate immunity by LPS as an environmental agent · cat /papers/PMC11994614/content.lines --lines 29-31
+     "Oral and transdermal LPS administration was studied for its effects on self-healing. This method safely enhances healing through a "macrophage network" involving mucosal immune cells."
+
+  22. Macrophages as a Source and Target of GDF-15
+     Lina Susana Silva-Bermudez; Harald Klüter; Julia G. Kzhyshkowska
+     PMC11242731 · PMC · 2024-07-03 · 37 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11242731/
+     Matched: 2. GDF-15 Is a Member of the TGF-β Superfamily · cat /papers/PMC11242731/content.lines --lines 17-18
+     │ GDF-15, also known as MIC-1, PTGF-β, PDF, and NAG-1, is a multifunctional cytokine and is a
+     │ distant member of the glial cell-derived neurotrophic factor (GDNF) family and the TGF-β
+     │ superfamily [13,[14],15]. Numerous TGF-β family members are known to be produced by
+     │ macrophages and to target macrophages, including TGF-β1, GDFN, and BMP-2 [16,[17],18].
+     │ GDF-15 was discovered in the late 1990s, when it was identified as an autocrine cytokine
+     │ capable of reducing proinflammatory macrophage activation after lipopolysaccharide (LPS)
+     │ stimulation in the human myelomonocytic cell line U93737. In parallel, Lawton et al.
+     │ discovered its expression in the placenta during early and late gestation [19]. …
+     "This paper reviews how macrophages produce and respond to GDF-15. Macrophages are a key source and target of GDF-15, influencing inflammation, fibrosis, and angiogenesis."
+
+  23. Transcriptional profiling of the LPS induced NF-κB response in macrophages
+     Omar Sharif, Viacheslav N Bolshakov, Stephanie Raines, Peter Newham, Neil D Perkins
+     PMC1781469 · PMC · 2007-01-01 · 447 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1781469/
+     Matched: Conclusion · cat /papers/PMC1781469/content.lines --lines 44
+     │ Although this study examined only a limited set of genes a number of discoveries were made
+     │ and some significant conclusions can be drawn. Firstly, the temporal nature of LPS induced
+     │ gene expression allowed four distinct patterns of gene expression to be defined. Additional
+     │ time-points may reveal further subtleties but it is clear that the changes in gene
+     │ expression following LPS stimulation are dynamic and feature both the time-specific
+     │ repression as well as activation of gene expression. However, it should be noted that gene
+     │ expression patterns do not necessarily correlate with protein levels [57]. This analysis
+     │ also allowed us to conclude that THP-1 cells provide a much better model …
+     "This study profiled gene expression in macrophages after LPS exposure. LPS induced a dynamic, time-dependent transcriptional response, with THP-1 cells closely mimicking primary macrophages."
+
+  24. Growth Differentiation Factor-15 Deficiency Augments Inflammatory Response and Exacerbates Septic Heart and Renal Injury Induced by Lipopolysaccharide
+     Palida Abulizi; Neruja Loganathan; Duo Zhao; Tina Mele; Yixin Zhang; Terry Zwiep; Kexiang Liu; Xiufe...
+     PMC5430818 · PMC · 2017-04-21 · 96 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5430818/
+     Matched: Lack of GDF15 upregulates the expression of inflammatory cytokines ind · cat /papers/PMC5430818/content.lines --lines 38-39
+     "This study investigated the role of Growth Differentiation Factor-15 (GDF15) in a mouse model of sepsis. GDF15 deficiency worsened inflammatory responses and organ damage, suggesting GDF15 has therapeutic potential."
+
+  25. TNFSF15 facilitates the differentiation of CD11b+ myeloid cells into vascular pericytes in tumors
+     Xiangxiang Gu; Yipan Zhu; Cancan Zhao; Yixin Cao; Jingying Wang; Qiangzhe Zhang; Luyuan Li
+     PMC10690882 · PMC · 2023-11-02 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10690882/
+     Matched: Cells and reagents · cat /papers/PMC10690882/content.lines --lines 21
+     "TNFSF15 was studied for its role in myeloid cell differentiation into tumor vascular pericytes. TNFSF15 promotes CD11b+ myeloid cell differentiation into pericytes, potentially stabilizing tumor vasculature."
+
+[2.5s, saved to s_ccccf36b]
+
+💡 Extract data across these results with: map --from s_ccccf36b "your question"
+[2.5s, saved to s_ccccf36b]  [repo: mva-lof-molecular]
+

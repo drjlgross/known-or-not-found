@@ -1,0 +1,5 @@
+$ src/pc.sh results s_0acd57f2
+# exit 0
+  Query: filter --from s_0acd57f2 'Does this paper report that Col27a1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) is induced, increased, decreased, or otherwise changed in response to LPS or bacterial infection?'
+Found 0 papers  [s_0acd57f2]
+

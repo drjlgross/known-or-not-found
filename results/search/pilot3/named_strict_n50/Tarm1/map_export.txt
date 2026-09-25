@@ -1,0 +1,4 @@
+$ src/pc.sh results m_b973c995 --save /Users/julia/known-or-not-found/results/search/pilot3/named_strict_n50/Tarm1/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/pilot3/named_strict_n50/Tarm1/map_answers.txt
+

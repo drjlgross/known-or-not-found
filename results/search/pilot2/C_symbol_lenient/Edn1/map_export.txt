@@ -1,0 +1,8 @@
+$ src/pc.sh results m_37a3b504 --save /Users/julia/known-or-not-found/results/search/pilot2/C_symbol_lenient/Edn1/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/pilot2/C_symbol_lenient/Edn1/map_answers.txt
+
+$ src/pc.sh results m_37a3b504 --save /Users/julia/known-or-not-found/results/search/pilot2/C_symbol_lenient/Edn1/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/pilot2/C_symbol_lenient/Edn1/map_answers.txt
+

@@ -1,0 +1,6 @@
+$ src/pc.sh filter --from s_8ee84977 Does this paper describe the expression of the gene Nos2 changing in response to LPS or bacterial infection?
+# exit 0
+Filtered: 25 → 7 papers (18 removed as irrelevant) in 867ms
+  → 7 papers after filtering
+Results ID: s_8ee84977 (updated in place)
+[929ms, saved to s_8ee84977]  [repo: mva-lof-molecular]

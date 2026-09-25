@@ -1,0 +1,12 @@
+$ src/pc.sh results s_e53a0eab
+# exit 0
+  Query: filter 'Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Hdc (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes in response to LPS or bacterial infection?' --from s_e53a0eab
+Found 1 papers  [s_e53a0eab]
+
+  1. Lipopolysaccharide-induced expansion of histidine decarboxylase-expressing Ly6G+ myeloid cells identified by exploiting histidine decarboxylase BAC-GFP transgenic mice
+     Jun Takai; Hiroshi Ohtsu; Atsushi Sato; Satoshi Uemura; Tsutomu Fujimura; Masayuki Yamamoto; Takashi...
+     PMC6821885 · Scientific Reports · 2019-10-30
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6821885/
+     "Histidine decarboxylase BAC-GFP transgenic mice were generated to track histamine-producing cells. A histamine-producing myeloid cell population was found to accumulate in the lungs during sepsis."
+
+

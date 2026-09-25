@@ -1,0 +1,7 @@
+$ src/pc.sh filter --from s_f05da3b1 Does this paper describe the expression of the gene Edn1 changing in response to LPS or bacterial infection?
+# exit 0
+Filtered: 25 → 0 papers (25 removed as irrelevant) in 686ms
+  → 0 papers after filtering
+Results ID: s_f05da3b1 (updated in place)
+[752ms, saved to s_f05da3b1]  [repo: mva-lof-molecular]
+

@@ -1,0 +1,8 @@
+$ src/pc.sh results m_dbb4045f --save /Users/julia/known-or-not-found/results/search/pilot3/named_strict_n25/Nos2/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/pilot3/named_strict_n25/Nos2/map_answers.txt
+
+$ src/pc.sh results m_dbb4045f --save /Users/julia/known-or-not-found/results/search/pilot3/named_strict_n25/Nos2/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/pilot3/named_strict_n25/Nos2/map_answers.txt
+

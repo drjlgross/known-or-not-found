@@ -1,0 +1,4 @@
+$ src/pc.sh results m_b30b2045 --save /Users/julia/known-or-not-found/results/search/pilot2/B_named_strict/Hdc/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/pilot2/B_named_strict/Hdc/map_answers.txt
+

@@ -1,0 +1,21 @@
+{
+  "gene": "Edn1",
+  "query": "Edn1 (endothelin 1) LPS macrophage",
+  "also": [],
+  "mode": "filter",
+  "strict": false,
+  "question": "Does this paper describe the expression of the gene Edn1 changing in response to LPS or bacterial infection?",
+  "date": "2026-09-24T22:58:14Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_f05da3b1",
+  "judge_id": "s_f05da3b1",
+  "parent_n": 25,
+  "yes": 0,
+  "downgraded": 0,
+  "no": 25,
+  "paper_errors": 0,
+  "seconds_search": 10.8,
+  "seconds_judge": 4.2,
+  "seconds_total": 15.0
+}

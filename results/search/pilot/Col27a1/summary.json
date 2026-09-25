@@ -1,0 +1,18 @@
+{
+  "gene": "Col27a1",
+  "query": "Col27a1 LPS macrophage",
+  "mode": "map",
+  "question": "Does this paper describe the expression of the gene Col27a1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).",
+  "date": "2026-09-24T18:00:54Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_c6d98963",
+  "judge_id": "m_d7c856c3",
+  "parent_n": 25,
+  "yes": 0,
+  "no": 25,
+  "paper_errors": 0,
+  "seconds_search": 1.7,
+  "seconds_judge": 23.3,
+  "seconds_total": 24.9
+}

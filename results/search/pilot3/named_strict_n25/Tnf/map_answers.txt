@@ -1,0 +1,154 @@
+Map results  [m_7446be73]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Tnf (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes in response to LPS or bacterial infection? Answer yes or no. If yes, quote the sentence reporting that result; it must name the gene or its protein. Use an empty string if no.
+
+--- [1] [success] Complementation of Lymphotoxin α Knockout Mice with Tumor Necrosis Factor–expressing Transgenes Rectifies Defective Splenic Structure and Function ---
+doc_id: PMC2213356
+{"answer": "yes", "evidence": "Compared with background-matched wild-type control mice, LT\u0331alpha knockout mice show severely reduced accumulation of TNF protein in both sera and macrophage exudates (Fig. 4), indicating that in addition to the LT\u0331alpha null mutation, this strain of mice may show further complications due to inherent defects in the neighboring TNF gene expression."}
+
+--- [2] [success] Antagonism of the histamine H4 receptor reduces LPS-induced TNF production in vivo ---
+doc_id: PMC3654183
+{
+  "answer": "yes",
+  "evidence": "The LPS administration induced a much higher level of TNF mRNA in the liver than in blood (Fig. 3c, d)."
+}
+
+--- [3] [success] Transmembrane TNFα-Expressed Macrophage Membrane-Coated Chitosan Nanoparticles as Cancer Therapeutics ---
+doc_id: PMC6990626
+{
+  "answer": "yes",
+  "evidence": "The gel image (Figure 2C) revealed a distinct band corresponding to transmembrane TNFα around 750 bp in 100 ng/mL LPS-treated macrophages, while there was no amplification in the untreated ones."
+}
+
+--- [4] [success] Macrophage priming and lipopolysaccharide-triggered release of tumor necrosis factor alpha during graft-versus-host disease ---
+doc_id: PMC2119110
+{
+  "answer": "yes",
+  "evidence": "In acute GVH-reactive mice, injection of LPS 7 d after transplantation induced serum TNF levels of 14,759 U/ml."
+}
+
+--- [5] [success] Lipopolysaccharide-induced selective priming effects on tumor necrosis factor alpha and nitric oxide production in mouse peritoneal macrophages ---
+doc_id: PMC2190891
+{
+  "answer": "yes",
+  "evidence": "L3: Preculture of thioglycollate-elicited C3HeB/FeJ mouse peritoneal macrophages in vitro with subthreshold stimulatory concentrations of lipopolysaccharide (LPS) can induce hyporesponsiveness (desensitization) to both tumor necrosis factor alpha (TNF-alpha) and nitric oxide (NO) production when these cells are subsequently stimulated with 100 ng/ml of LPS."
+}
+
+--- [6] [success] Extinction of the tumor necrosis factor locus, and of genes encoding the lipopolysaccharide signaling pathway ---
+doc_id: PMC2190998
+{
+  "answer": "yes",
+    "evidence": "On the other hand, both LPS and cycloheximide readily induced TNF gene expression in RAW 264.7 cells (Fig. 2)."
+}
+
+--- [7] [timeout] /papers/PMC6234144/ ---
+error: Timed out after 180004ms (per-task cutoff)
+
+--- [8] [success] Mathematical modelling of activation-induced heterogeneity reveals cell state transitions underpinning macrophage responses to LPS ---
+doc_id: bio_206e5a356c66
+{
+  "answer": "yes",
+  "evidence": "Notably, the percentage of TNF-positive BMDMs peaked at 4h post stimulation, demonstrating a faster TNF response in BMDMs in comparison to RAW264.7 cells."
+}
+
+--- [9] [success] AS-703026 Inhibits LPS-Induced TNFα Production through MEK/ERK Dependent and Independent Mechanisms ---
+doc_id: PMC4575053
+{
+  "answer": "yes",
+  "evidence": "Significantly, as demonstrated in Fig 1C, AS-703026 at 10–250 nM dose-dependently inhibited LPS (100 ng/mL)-induced TNFα production in RAW 264.7 cells."
+}
+
+--- [10] [success] Lipopolysaccharide regulation of antiinflammatory tristetraprolin family and proinflammatory gene expression in mouse macrophages ---
+doc_id: PMC10949775
+{
+  "answer": "yes",
+  "evidence": "LPS rapidly increased mRNA levels of TNF by 12, 71, 82, 196, 311, 113 and 215 fold after 5, 10, 20, 50, 100, 500 and 1000 ng/mL treatment for 2 h, respectively (Fig. 3A)."
+}
+
+--- [11] [success] Augmentation and Suppression of Release of Tumor Necrosis Factor from Macrophages by Negatively Charged Phospholipids ---
+doc_id: PMC5918604
+{
+  "answer": "yes",
+  "evidence": "Ten to 20 \u0393\u0394g/ml of cardiolipin, which is a suboptimal concentration for macrophage growth\u2010stimulation, augmented macrophage TNF release triggered by lipopolysaccharide (LPS) in vitro."
+}
+
+--- [12] [fallback_required] Macrophage tumor necrosis factor-alpha deletion does not protect against obesity-associated metabolic dysfunction ---
+doc_id: PMC8716064
+error: truncated_output: Unterminated string starting at: line 3 column 15 (char 35)
+
+--- [13] [success] Kappa B-type enhancers are involved in lipopolysaccharide-mediated transcriptional activation of the tumor necrosis factor alpha gene in primary macrophages ---
+doc_id: PMC2187654
+{
+  "answer": "yes",
+  "evidence": "Primary macrophages accumulate large amounts of TNF-alpha mRNA after exposure to LPS, and this accumulation is due at least in part to increased transcription of the TNF-alpha gene."
+}
+
+--- [14] [success] Macrophages employ quorum licensing to regulate collective activation ---
+doc_id: PMC7018708
+{
+  "answer": "yes",
+  "evidence": "Without LPS, BFA had no appreciable effect on intracellular TNF, indicating no detectable basal TNF production."
+}
+
+--- [15] [success] Mathematical modelling of activation-induced heterogeneity in TNF, IL6, NOS2, and IL1β expression reveals cell state transitions underpinning macrophage responses to LPS ---
+doc_id: PMC9411976
+{"answer": "yes", "evidence": "Notably, the percentage of TNF-positive BMDMs peaked at 4h post stimulation, demonstrating a faster TNF response in BMDMs in comparison to RAW264.7 cells."}
+
+--- [16] [success] Divergent effects of tumor necrosis factor (TNF) in sepsis: a meta-analysis of experimental studies ---
+doc_id: PMC11373197
+{"answer": "no", "evidence": ""}
+
+--- [17] [success] Signaling pathways involved in LPS induced TNFalpha production in human adipocytes ---
+doc_id: PMC2819999
+{
+  "answer": "yes",
+  "evidence": "In a similar way NFkappaBi is responsible for a 30% and 70% reduction in TNFalpha gene transcription at 5 and 6 hours, respectively, following treatment with LPS (Figure 1B)."
+}
+
+--- [18] [success] Differential Cell Sensitivity between OTA and LPS upon Releasing TNF-α ---
+doc_id: PMC3153254
+{
+  "answer": "yes",
+  "evidence": "TNF-\u0331 concentrations were 3,000 pg/mL, 2,600 pg/mL, and 2,115 pg/mL, respectively, for LPS exposure."
+}
+
+--- [19] [success] RNA from LPS-stirnulated macrophages induces the release of tumour necrosis factor-α and interleukin-1 by resident macrophages ---
+doc_id: PMC2365439
+{"answer": "yes", "evidence": "In the present study, it is demonstrated that cytoplasmatic RNA extracted from rat macrophages stimulated with Escherichia coli lipopolysaccharide (LPS), referred to as L-RNA, induced the release of TNF-\\u03b1 and IL-1 from monolayers of peritoneal resident macrophages."}
+
+--- [20] [success] Lipopolysaccharide-mediated signal transduction: Stabilization of TNF-alpha mRNA contributes to increased lipopolysaccharide-stimulated TNF-alpha production by Kupffer cells after chronic ethanol feeding ---
+doc_id: PMC2410250
+{
+  "answer": "yes",
+  "evidence": "Kupffer cells isolated from rats fed ethanol for 4 weeks accumulated 2-fold higher concentration of TNF-alpha in their media in response to challenge with LPS, with no difference in TNF-alpha accumulation between the pair- and ethanol-fed groups when cells were not treated with LPS (basal) [9,19]."
+}
+
+--- [21] [timeout] /papers/PMC3892557/ ---
+error: Timed out after 180002ms (per-task cutoff)
+
+--- [22] [success] Lead Increases Lipopolysaccharide-Induced Liver Injury through Tumor Necrosis Factor-α Overexpression by Monocytes/Macrophages: Role of Protein Kinase C and p42/44 Mitogen-Activated Protein Kinase ---
+doc_id: PMC1440772
+{
+  "answer": "yes",
+  "evidence": "L32: \"Mice challenged with LPS alone showed a small amount of serum TNF-\\u03alpha (< 250 pg/mL) and a slight increase in AST (300 U/L) and ALT (30 U/L).\""
+}
+
+--- [23] [success] Tumor Necrosis Factor (TNF) Receptor Shedding Controls Thresholds of Innate Immune Activation That Balance Opposing TNF Functions in Infectious and Inflammatory Diseases ---
+doc_id: PMC2211976
+{
+  "answer": "yes",
+  "evidence": "After LPS induction, however, the peak concentration of both TNF and p75TNFR were found to be significantly enhanced in sera of mutant mice as compared with control animals (Fig. 3 A)."
+}
+
+--- [24] [success] The use of Ipratropium and Tiotropium as novel agents to reduce inflammation in  in vitro  macrophage models ---
+doc_id: bio_1ab02dae6d41
+{
+  "answer": "yes",
+  "evidence": "As shown in figure 3.6, a substantial increase in the TNF- \u0315\u03B1 cytokine concentration was observed in LPS treated cells."
+}
+
+--- [25] [success] Catecholamines Attenuate LPS-Induced Inflammation through β2 Adrenergic Receptor Activation- and PKA Phosphorylation-Mediated TLR4 Downregulation in Macrophages ---
+doc_id: PMC11506017
+{
+  "answer": "yes",
+  "evidence": "TNFα expression was clearly enhanced from 1 h after LPS treatment, with a peak at 2 h, then gradually diminishing at both the mRNA and protein levels (Figure 1)."
+}

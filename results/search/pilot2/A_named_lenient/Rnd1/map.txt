@@ -1,0 +1,169 @@
+$ src/pc.sh map --from s_78cd616d --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}}} Does this paper describe the expression of the gene Rnd1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_e514333a
+
+  ✓ Essential role of Rnd1 in innate immunity during viral and bacterial i
+    PMC9161769 · 891ms
+    {"answer": "yes", "evidence": "Results suggest that Rnd1 is induced by virus and bacterial infection and pro-inflammatory cytokines but not by Type-I interferons (Fig. 1D)."}
+
+  ✓ Rho GTPase Expression in Human Myeloid Cells
+    PMC3420873 · 932ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ The RND1 Small GTPase: Main Functions and Emerging Role in Oncogenesis
+    PMC6696182 · 843ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Deletion of Rac1GTPase in the Myeloid Lineage Protects against Inflamm
+    PMC4777421 · 2191ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ A New Member of the Rho Family, Rnd1, Promotes Disassembly of Actin Fi
+    PMC2132722 · 937ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ RvD1 accelerates the resolution of inflammation by promoting apoptosis
+    PMC8575873 · 732ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Macrophage Migration and Its Regulation by CSF-1
+    PMC3296313 · 944ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ A Global Picture of Molecular Changes Associated to LPS Treatment in T
+    PMC9656053 · 824ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Monocyte normal immune response to LPS stimulation
+    PMC3333514 · 733ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Data in support of Rap2a GTPase expression, activation and effects in 
+    PMC6531833 · 882ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Mice Genetically Hyporesponsive to Lipopolysaccharide (LPS) Exhibit a 
+    PMC2196359 · 777ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Species-Specificity of Transcriptional Regulation and the Response to 
+    PMC7386301 · 836ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Exosomal miR-148a-3p from LPS-Activated Macrophages Promotes M1 Polari
+    PMC13199726 · 926ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Macrophages form dendrite-like pseudopods to enhance bacterial ingesti
+    PMC12402336 · 1190ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide-induced inflammation in monocytes/macrophages is bl
+    PMC5743190 · 836ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Mathematical modelling of activation-induced heterogeneity reveals cel
+    bio_206e5a35 · 1007ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Rho family GTPase 1 (RND1), a novel regulator of p53, enhances ferropt
+    PMC9066768 · 898ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyr
+    PMC9456100 · 996ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Role and mechanism of miR-144-5p in LPS-induced macrophages
+    PMC6909656 · 891ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Differential Regulation of Rab GTPase Expression in Monocyte-Derived D
+    PMC3764041 · 915ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Dynamic nucleosome redistribution and increases in nucleosome sensitiv
+    bio_eb053077 · 1114ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ RND3 Potentiates Proinflammatory Activation through NOTCH Signaling in
+    PMC10857877 · 848ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Lipopolysaccharide uptake is augmented in lipopolysaccharide‐tolerant 
+    PMC13398632 · 1103ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Impaired Rho GTPase activation abrogates cell polarization and migrati
+    PMC3214256 · 800ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Spatiotemporal proteomic profiling of the pro-inflammatory response to
+    PMC8486773 · 48447ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[54.1s, saved to m_e514333a]
+
+  [####................]  5/25 papers  run m_e514333a  [2s]
+  [##################..]  23/25 papers  run m_e514333a  [4s]
+  [###################.]  24/25 papers  run m_e514333a  [6s]
+

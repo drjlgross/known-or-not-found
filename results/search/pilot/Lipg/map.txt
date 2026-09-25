@@ -1,0 +1,170 @@
+$ src/pc.sh map --from s_284209b8 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}}} Does this paper describe the expression of the gene Lipg (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_68762c77
+
+  ✓ Macrophage stimulation by bacterial lipopolysaccharides. II. Evidence 
+    PMC2184939 · 1297ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ The orientation of choroidal macrophage polarization significantly inf
+    bio_b06931d1 · 1197ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Macrophage stimulation by bacterial lipopolysaccharides. I. Cytolytic 
+    PMC2184936 · 999ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Comparative Study of The Effect of LPS on The Function of BALB/c and C
+    PMC3660024 · 936ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyr
+    PMC9456100 · 873ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide-Activated Macrophages Suppress Cellular Senescence 
+    PMC12346749 · 1115ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide preconditioning augments the antibacterial activity
+    PMC12035103 · 1032ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ A Global Picture of Molecular Changes Associated to LPS Treatment in T
+    PMC9656053 · 938ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ LPS adsorption and inflammation alleviation by polymyxin B-modified li
+    PMC10501887 · 1106ms
+    {"answer":"no","evidence":""}
+
+  ✓ Lipopolysaccharide from biofilm-forming Pseudomonas aeruginosa PAO1 in
+    PMC8289208 · 1921ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide-induced inflammation in monocytes/macrophages is bl
+    PMC5743190 · 1110ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Oral and transdermal administration of lipopolysaccharide safely enhan
+    PMC11994614 · 1013ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Exosomal miR-148a-3p from LPS-Activated Macrophages Promotes M1 Polari
+    PMC13199726 · 945ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Transcriptional profiling of the LPS induced NF-κB response in macroph
+    PMC1781469 · 866ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 939ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Motif prediction to distinguish LPS-stimulated pro-inflammatory vs. an
+    PMC2949756 · 890ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Mathematical modelling of activation-induced heterogeneity reveals cel
+    bio_206e5a35 · 1589ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Progranulin inhibits LPS-induced macrophage M1 polarization via NF-кB 
+    PMC7275413 · 1074ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Macrophage–Bacteria Interactions—A Lipid-Centric Relationship
+    PMC5742358 · 1136ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ AZD6738 Attenuates LPS-Induced Corneal Inflammation and Fibrosis by Mo
+    PMC12596304 · 1283ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Free Fatty Acids and LPS Synergistically Promote Macrophage M1 Polariz
+    PMC12847160 · 978ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ BRD4 contributes to LPS-induced macrophage senescence and promotes pro
+    PMC7288959 · 877ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Species-Specificity of Transcriptional Regulation and the Response to 
+    PMC7386301 · 1208ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ A host lipase prevents lipopolysaccharide-induced foam cell formation
+    PMC8426562 · 1087ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Translation control of TAK1 mRNA by hnRNP K modulates LPS-induced macr
+    PMC4024643 · 1288ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[20.1s, saved to m_68762c77]
+
+  [....................]  0/25 papers  run m_68762c77  [2s]
+  [##########..........]  13/25 papers  run m_68762c77  [4s]
+  [###############.....]  19/25 papers  run m_68762c77  [8s]
+  [####################]  25/25 papers  run m_68762c77  [14s]
+

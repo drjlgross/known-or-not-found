@@ -1,0 +1,165 @@
+Map results  [m_9e62c70f]
+Query: Does this paper describe the expression of the gene Rnd1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).
+
+--- [1] [success] RvD1 accelerates the resolution of inflammation by promoting apoptosis of the recruited macrophages via the ALX/FasL-FasR/caspase-3 signaling pathway ---
+doc_id: PMC8575873
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [2] [success] The orientation of choroidal macrophage polarization significantly influences the development of myopia in murine models ---
+doc_id: bio_b06931d16f63
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [3] [success] Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC6543837
+{"answer": "no", "evidence": ""}
+
+--- [4] [success] Induction of unique macrophage subset by simultaneous stimulation with LPS and IL-4 ---
+doc_id: PMC10167635
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [5] [success] Motif prediction to distinguish LPS-stimulated pro-inflammatory vs. antibacterial macrophage genes ---
+doc_id: PMC2949756
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [6] [success] RNA-Binding Proteins in the Control of LPS-Induced Macrophage Response ---
+doc_id: PMC6369361
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [7] [success] Transcriptional profiling of the LPS induced NF-κB response in macrophages ---
+doc_id: PMC1781469
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [8] [success] Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review ---
+doc_id: PMC13372918
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [9] [success] A Global Picture of Molecular Changes Associated to LPS Treatment in THP-1 Derived Human Macrophages by Fourier Transform Infrared Microspectroscopy ---
+doc_id: PMC9656053
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [10] [success] Oral and transdermal administration of lipopolysaccharide safely enhances self-healing ability through the macrophage network ---
+doc_id: PMC11994614
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [11] [success] Resolvin D1 alleviates lipopolysaccharide-induced in vitro corneal inflammation by modulating macrophage polarization through upregulation of c-Fos expression ---
+doc_id: PMC12705284
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [12] [success] Essential role of Rnd1 in innate immunity during viral and bacterial infections ---
+doc_id: PMC9161769
+{
+  "answer": "yes",
+  "evidence": "Results suggest that Rnd1 is induced by virus and bacterial infection and pro-inflammatory cytokines but not by Type-I interferons"
+}
+
+--- [13] [success] Exosomal miR-148a-3p from LPS-Activated Macrophages Promotes M1 Polarization and Ferroptosis-Related Characteristics of Recipient Macrophages by Reducing SLC7A11 ---
+doc_id: PMC13199726
+{"answer": "no", "evidence": ""}
+
+--- [14] [success] Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyromonas endodontalis, Induces Macrophage M1 Profile ---
+doc_id: PMC9456100
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [15] [success] LPS Tolerance Inhibits Cellular Respiration and Induces Global Changes in the Macrophage Secretome ---
+doc_id: PMC7918892
+{"answer": "no", "evidence": ""}
+
+--- [16] [success] ReDuNing inhibits alveolar macrophage inflammation in LPS mice by activating JAK1/STAT3 ---
+doc_id: PMC12637154
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [17] [success] Species-Specificity of Transcriptional Regulation and the Response to Lipopolysaccharide in Mammalian Macrophages ---
+doc_id: PMC7386301
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [18] [success] Resolvin D1 in the Lipopolysaccharide-Induced Inflammatory Microenvironment Mediates Resolution in Human Monocytic THP-1 Cells ---
+doc_id: PMC13204318
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [19] [success] Mathematical modelling of activation-induced heterogeneity reveals cell state transitions underpinning macrophage responses to LPS ---
+doc_id: bio_206e5a356c66
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [20] [success] Mice Genetically Hyporesponsive to Lipopolysaccharide (LPS) Exhibit a Defect in Endocytic Uptake of LPS and Ceramide ---
+doc_id: PMC2196359
+{"answer": "no", "evidence": ""}
+
+--- [21] [success] Lipopolysaccharide uptake is augmented in lipopolysaccharide‐tolerant mouse macrophage‐like cells via increased CD14 expression ---
+doc_id: PMC13398632
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [22] [success] ARL11 regulates lipopolysaccharide-stimulated macrophage activation by promoting mitogen-activated protein kinase (MAPK) signaling ---
+doc_id: PMC6016484
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [23] [success] Mathematical modelling of activation-induced heterogeneity in TNF, IL6, NOS2, and IL1β expression reveals cell state transitions underpinning macrophage responses to LPS ---
+doc_id: PMC9411976
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [24] [success] Progranulin inhibits LPS-induced macrophage M1 polarization via NF-кB and MAPK pathways ---
+doc_id: PMC7275413
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [25] [success] Macrophages mediate colon carcinoma cell adhesion in the rat liver after exposure to lipopolysaccharide ---
+doc_id: PMC3525607
+{
+  "answer": "no",
+  "evidence": ""
+}

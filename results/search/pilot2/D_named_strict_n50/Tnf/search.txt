@@ -1,0 +1,500 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 50 Tnf (tumor necrosis factor) LPS macrophage
+# exit 0
+Found 50 papers  [s_4d95050f]
+
+  1. Complementation of Lymphotoxin α Knockout Mice with Tumor Necrosis Factor–expressing Transgenes Rectifies Defective Splenic Structure and Function
+     Lena Alexopoulou; Manolis Pasparakis; George Kollias
+     PMC2213356 · PMC · 1998-08-17 · 43 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2213356/
+     Matched: Measurement of TNF Production after LPS Stimulation. · cat /papers/PMC2213356/content.lines --lines 21
+     │ Levels of TNF in macrophage supernatants and sera were determined as described previously
+     │ (16). In brief, thioglycollate-elicited peritoneal macrophages were seeded at 5 × 105
+     │ cells/ml and incubated in the presence of 1 μg/ml LPS (Salmonella enteritidis, L6011; Sigma
+     │ Chemical Co.) at 37°C, 5% CO2 for 24 h. Mice were injected intraperitoneally with 100 μg LPS
+     │ in 0.5 ml PBS, and 90 min later blood samples were collected by cardiac puncture. The ELISA
+     │ assay for murine TNF was provided by Dr. Wim Buurman (University of Limburg, Maastricht, The
+     │ Netherlands) and performed as described previously (22).
+     "LTα knockout mice were complemented with TNF-expressing transgenes to study splenic structure and function. This restored B/T cell zone segregation and partially preserved B cell follicles, FDC networks, and germinal centers."
+
+  2. Antagonism of the histamine H4 receptor reduces LPS-induced TNF production in vivo
+     Jeffery M. Cowden; Fuqu Yu; Mamatha Challapalli; Jing-Feng Huang; Sunhwa Kim; Wai-Ping Fung-Leung; J...
+     PMC3654183 · PMC · 2013-03-27 · 32 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3654183/
+     Matched: Results · cat /papers/PMC3654183/content.lines --lines 46-47
+     │ Fig. 3: Depletion of liver macrophages reduces LPS-induced TNF levels. Female wild-type mice
+     │ (7–8 mice per group) were treated with either 20 μg LPS i.p. or LPS i.p. + 20 mg/kg JNJ
+     │ 7777120 p.o. In addition to this, two groups of mice were treated with vehicle, 2 g/kg MP
+     │ (a) or 10 mg/kg CL (b–d) 44 h before administration of LPS i.p. The TNF levels were measured
+     │ in the serum 2 h after LPS stimulation (a, b). The serum TNF levels were also measured in
+     │ naïve mice that had no treatment. The TNF mRNA levels were quantitated by RT-PCR in blood
+     │ (c) and in the liver (d) from animals treated with 20 μg LPS i.p. ± 20 mg/kg JNJ 7777120
+     │ p.o. in the absence or presence of pretreatment with CL. ns, …
+     "Histamine H4 receptor antagonists and deficiency reduced LPS-induced TNF production in mice. This suggests H4 receptor activation contributes to TLR-mediated inflammation in vivo, particularly in the liver."
+
+  3. Transmembrane TNFα-Expressed Macrophage Membrane-Coated Chitosan Nanoparticles as Cancer Therapeutics
+     Srirupa Bhattacharyya; Siddhartha Sankar Ghosh
+     PMC6990626 · PMC · 2020-01-13 · 59 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6990626/
+     Matched: Optimization of LPS Concentration · cat /papers/PMC6990626/content.lines --lines 41
+     │ The macrophages were challenged with bacterial LPS to produce TNFα. The literature suggests
+     │ that the time of secretion of soluble TNFα by the macrophages is 4–5 h. Our aim was to
+     │ obtain transmembrane TNFα, so we reduced the time to 2.5 to 3 h and optimized the LPS
+     │ concentration for induction of TNFα.
+     "Macrophage membranes expressing TNFα were used to coat chitosan nanoparticles. These nanoparticles showed significant anti-cancer effects and good biocompatibility."
+
+  4. Macrophage priming and lipopolysaccharide-triggered release of tumor necrosis factor alpha during graft-versus-host disease
+     PMC2119110 · PMC · 1992-02-01 · 302 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2119110/
+     Matched: Abstract · cat /papers/PMC2119110/content.lines --lines 1-3
+     "This study examined macrophage activation and TNF-alpha release during graft-versus-host disease (GVHD). Macrophages are primed during GVHD, leading to lethal TNF-alpha release upon encountering endogenous lipopolysaccharide."
+
+  5. Lipopolysaccharide-induced selective priming effects on tumor necrosis factor alpha and nitric oxide production in mouse peritoneal macrophages
+     PMC2190891 · PMC · 1993-02-01 · 141 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2190891/
+     Matched: Abstract · cat /papers/PMC2190891/content.lines --lines 1-3
+     "Macrophages were precultured with low-dose LPS, then restimulated. This pretreatment selectively primes macrophages for differential responses to subsequent stimuli, rather than causing total refractoriness."
+
+  6. Extinction of the tumor necrosis factor locus, and of genes encoding the lipopolysaccharide signaling pathway
+     PMC2190998 · PMC · 1993-05-01 · 43 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2190998/
+     Matched: Abstract · cat /papers/PMC2190998/content.lines --lines 1-3
+     "The TNF gene and LPS signaling pathway were studied in macrophage-fibroblast hybrids. Fusion activated a system that silenced TNF and LPS signaling, potentially during cell differentiation."
+
+  7. LPS‐stimulated NF‐κB p65 dynamic response marks the initiation of TNF expression and transition to IL‐10 expression in RAW 264.7 macrophages
+     Stuart Hobbs; Marinaliz Reynoso; Alyssa V. Geddis; Alexander Y. Mitrophanov; Ronald W. Matheny
+     PMC6234144 · PMC · 2018-11-13 · 95 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6234144/
+     Matched: LPS stimulation of IL‐10 expression occurs subsequent to TNFα expressi · cat /papers/PMC6234144/content.lines --lines 49
+     │ Figure 4: Production of TNF α and IL‐10 after chronic and acute LPS treatment. (A) TNF and
+     │ (B) IL‐10 ELISA analysis of conditioned growth medium. RAW 264.7 cells were either
+     │ Mock‐treated or treated with LPS (10 ng/mL) for the indicated durations in which either the
+     │ serum‐free growth medium was not changed after treatment (No Media Δ), or the treated growth
+     │ medium was replaced with un‐treated, serum‐free growth medium 6 h after initial treatment
+     │ (Media Δ 6 h). Conditioned growth media was harvested 6, 16, 24, 48, and 72 h after initial
+     │ treatment. (*P < 0.01; **P < 0.001; ***P < 0.0001, LPS – Media Δ vs. LPS – no Media Δ
+     │ change; N = 3–5).
+     "LPS stimulation kinetics of NF-κB, TNF-α, and IL-10 were studied in macrophages. NF-κB activation precedes TNF-α expression, which then transitions to IL-10 expression."
+
+  8. Mathematical modelling of activation-induced heterogeneity reveals cell state transitions underpinning macrophage responses to LPS
+     S. Dey, D. Boucher, J. W. Pitchford, D. Lagos *
+     bio_206e5a356c66 · bioRxiv · 2021-09-19 · 0 citations (all versions)
+     Published (2021): https://doi.org/10.1101/2021.09.19.461010
+     Matched: Macrophage community AIH is dependent on LPS dose · cat /papers/bio_206e5a356c66/content.lines --lines 42-45
+     │ Figure 1: Macrophage community AIH is dependent on LPS dose A. Flow cytometry gating to show
+     │ 16 sub-populations determined based on TNF, IL-6, pro-IL-1b and NOS2. B. Pie charts
+     │ represent the community composition at 16 hours post stimulus with the indicated doses of
+     │ LPS for RAW264.7. Data representative of three independent experiments. Next, we explored
+     │ AIH in BMDMs, a cell model more faithfully capturing heterogeneity of primary macrophages.
+     │ As in the case of RAW264.7 cells, exposure to LPS induced population heterogeneity in BMDMs
+     │ albeit with different kinetics to that observed in RAW264.7 cells (compare Figure 2 with
+     │ Figure 1B ). Whereas all populations were observed at 16h (12h …
+     "This study mathematically models macrophage responses to LPS, analyzing single-cell protein expression. Macrophage hypo-responsiveness to secondary LPS challenges is driven by altered transition rates to non-responsive states."
+
+  9. AS-703026 Inhibits LPS-Induced TNFα Production through MEK/ERK Dependent and Independent Mechanisms
+     Ping Li; Yonghong Wu; Manxiang Li; Xiaojuan Qiu; Xiaoyan Bai; Xiaojing Zhao
+     PMC4575053 · PMC · 2015-09-18 · 18 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4575053/
+     Matched: 3.1. AS-703026 inhibits LPS-induced TNFα production in RAW 264.7 murin · cat /papers/PMC4575053/content.lines --lines 46-47
+     │ In the current study, we aim to understand the potential effect of AS-703026, a novel
+     │ MEK/ERK inhibitor [16,17], on LPS-induced TNFα production in macrophages. Since AS-703026
+     │ displayed cytotoxic effect against multiple established human cancer cells [16,17], we first
+     │ examined its activity on the survival of cultured macrophages. The murine macrophage RAW
+     │ 264.7 cells were treated with indicated concentrations of AS-703026 for 24 h. MTT cell
+     │ survival (Fig 1A) assay and trypan blue cell death assay (Fig 1B) results demonstrated that
+     │ AS-703026 was safe to RAW 264.7 cells. Significantly, as demonstrated in Fig 1C, AS-703026
+     │ at 10–250 nM dose-dependently inhibited LPS (100 ng/mL)-induced TNFα …
+     "AS-703026 was studied for its effect on LPS-induced TNFα production in macrophages and human cells. The compound inhibits TNFα production through MEK/ERK dependent and independent pathways, including NFκB inhibition."
+
+  10. Lipopolysaccharide regulation of antiinflammatory tristetraprolin family and proinflammatory gene expression in mouse macrophages
+     Heping Cao
+     PMC10949775 · PMC · 2024-03-19 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10949775/
+     Matched: Effect of LPS on proinflammatory gene expression · cat /papers/PMC10949775/content.lines --lines 65-67
+     │ TTP is a mRNA destabilizing factor for a number of proinflammatory cytokines, such as TNF
+     │ and GM-CSF [1]. Therefore, proinflammatory gene expression was investigated in mouse
+     │ macrophages after treated with LPS. LPS rapidly increased mRNA levels of TNF by 12, 71, 82,
+     │ 196, 311, 113 and 215 fold after 5, 10, 20, 50, 100, 500 and 1000 ng/mL treatment for 2 h,
+     │ respectively (Fig. 3A). The effect of LPS on TNF gene expression markedly declined after
+     │ longer treatment. The mRNA levels of TNF were only 2, 3, 6, 42, 60, 104 and 54 fold after 5,
+     │ 10, 20, 50, 100, 500 and 1000 ng/mL treatment for 8 h, respectively (Fig. 3A). The mRNA
+     │ levels of TNF were further reduced to 28, 35, 38 and 21 fold after 50, …
+     "Lipopolysaccharide (LPS) was studied for its effects on tristetraprolin (TTP) family and proinflammatory gene expression in mouse macrophages. LPS increased TTP, TNF, and COX2 mRNA but had minimal impact on other TTP homologues and proinflammatory cytokine genes."
+
+  11. Augmentation and Suppression of Release of Tumor Necrosis Factor from Macrophages by Negatively Charged Phospholipids
+     Satoru Yui; Masatoshi Yamazaki
+     PMC5918604 · PMC · 1991 · 14 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5918604/
+     Matched: cat /papers/PMC5918604/content.lines --lines 8-15
+     "Negatively charged phospholipids, cardiolipin and peroxidized phosphatidylserine, were studied for their effects on macrophage TNF release. High concentrations of these lipids suppressed TNF release, while lower concentrations augmented it."
+
+  12. Macrophage tumor necrosis factor-alpha deletion does not protect against obesity-associated metabolic dysfunction
+     Ahmed K. Aladhami; Christian A. Unger; Shannon L. Ennis; Diego Altomare; Hao Ji; Marion C. Hope; Kan...
+     PMC8716064 · PMC · 2021-12-19 · 26 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8716064/
+     Matched: TNF-αF/F,LyzMCre mice display significantly reduced circulating TNF-α  · cat /papers/PMC8716064/content.lines --lines 41
+     │ In order to assess the validity of LysMCre driven TNF-α deletion, we challenged a subset
+     │ TNF-αF/F,LyzMCre, and TNF-αF/F mice with LPS. Similar to the results of others,[13] mice
+     │ with LyzMCre deletion of TNF-α displayed a significantly reduced TNF-α response to the LPS
+     │ challenge (P < .05) (Figure S1).
+     "Macrophage TNF-α deletion was studied in mice on a high-fat diet. This deletion did not prevent obesity or associated metabolic dysfunction."
+
+  13. Kappa B-type enhancers are involved in lipopolysaccharide-mediated transcriptional activation of the tumor necrosis factor alpha gene in primary macrophages
+     PMC2187654 · PMC · 1990-01-01 · 680 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2187654/
+     Matched: cat /papers/PMC2187654/content.lines --lines 5
+     │ KBTYPE ENHANCERS ARE INVOLVED IN LIPOPOLYSACCHARIDE-MEDIATED TRANSCRIPTIONAL ACTIVATION OF
+     │ THE TUMOR NECROSIS FACTOR a GENE IN PRIMARY MACROPHAGES BY ALEXANDER N. SHAKHOV,'T MARTINE
+     │ A. COLLART S PIERRE VASSALLI,S SERGEI A. NEDOSPASOVJ AND C. VICTOR JONGENEEL' From the
+     │ *Ludwig Institute for Cancer Research, Lausanne Branch, 1066 Epalinges, Switzerland; the
+     │ TEngelhardt Institute ofMolecular Biology, USSR Academy of Sciences, Moscow 117984, USSR;
+     │ and the SDepartment of Pathology, University of Geneva Medical School, 1211 Geneva 4,
+     │ Switzerland The activation of differentiated macrophages during an inflammatory reaction is
+     │ accompanied by an increase in the transcription of many genes whose …
+     "Kappa B-type enhancers were studied for their role in LPS-mediated TNF-alpha gene activation in macrophages. These enhancers, along with factors interacting with the Y box, are crucial for LPS-induced TNF-alpha gene transcription."
+
+  14. Macrophages employ quorum licensing to regulate collective activation
+     Joseph J. Muldoon; Yishan Chuang; Neda Bagheri; Joshua N. Leonard
+     PMC7018708 · PMC · 2020-02-13 · 71 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7018708/
+     Matched: TNF expression is heterogeneous and varies with cell density · cat /papers/PMC7018708/content.lines --lines 21-22
+     "Macrophages exhibit bimodal activation states influenced by cell density and prior signaling history, not just LPS. This "quorum licensing" mechanism non-linearly couples density to collective TNF production, potentially amplifying responses to threats."
+
+  15. Mathematical modelling of activation-induced heterogeneity in TNF, IL6, NOS2, and IL1β expression reveals cell state transitions underpinning macrophage responses to LPS
+     Shoumit Dey; Dave Boucher; Jon Pitchford; Dimitris Lagos
+     PMC9411976 · PMC · 2022-07-25 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9411976/
+     Matched: Macrophage community AIH is dependent on LPS dose · cat /papers/PMC9411976/content.lines --lines 74-75
+     "Mathematical models explored macrophage states and their responses to LPS. Macrophage hypo-responsiveness to a second LPS challenge is driven by altered transition rates between activation states."
+
+  16. Divergent effects of tumor necrosis factor (TNF) in sepsis: a meta-analysis of experimental studies
+     Christian Kassasseya; Ligia Iulia Torsin; Caroline Musset; Marc Benhamou; Irshad H. Chaudry; Jean-Ma...
+     PMC11373197 · PMC · 2024-09-04 · 11 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11373197/
+     Matched: LPS injection · cat /papers/PMC11373197/content.lines --lines 177-178
+     │ LPS injection was the most frequently used model (319 experiments, 42%). LPS was mainly
+     │ derived from E. coli (75%) and Salmonella species (21%) (Supplemental Table 5). LPS
+     │ injection was associated with an inappropriate role for TNF in 173 experiments (56%) and
+     │ with an adaptive role in only 16 experiments (5%). When LPS injection was sensitized by
+     │ concomitant administration of d-galactosamine, 55 out of 81 experiments (68%) showed an
+     │ inappropriate role of TNF, and none an adaptive role (Table 4). In the subgroup of
+     │ experiments with LPS, stimulation of the TNF pathway before LPS injection led to the
+     │ conclusion of an adaptive role of TNF in 14 out of 24 experiments (58%), whereas
+     │ inactivation …
+     "This meta-analysis examined experimental studies on TNF's role in sepsis. TNF inactivation and LPS models showed detrimental effects, while TNF injection and live bacterial models demonstrated adaptive roles."
+
+  17. Signaling pathways involved in LPS induced TNFalpha production in human adipocytes
+     Laurence Hoareau; Karima Bencharif; Philippe Rondeau; Ravi Murumalla; Palaniyandi Ravanan; Frank Tal...
+     PMC2819999 · PMC · 2010-01-08 · 78 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2819999/
+     Matched: Macrophages are more sensitive to LPS, but adipocytes secrete more TNF · cat /papers/PMC2819999/content.lines --lines 63-64
+     │ We evaluated the difference in the levels of TNFalpha synthesis between human macrophages
+     │ and mature human adipocytes (both primary cultures). Figure 6 shows that macrophages were
+     │ more sensitive to LPS stimulation than adipocytes, as these cells were able to respond to 5
+     │ ng/mL of LPS. Nevertheless, adipocytes secreted more TNFalpha than macrophages when they
+     │ were treated with 1 μg/mL of LPS (around 4-fold more, following normalization of the cell
+     │ number). Figure 6: Comparison of LPS induced TNFalpha secretion by human peripheral blood
+     │ mononuclear cells versus human mature adipocytes. Human mature adipocytes and peripheral
+     │ blood mononuclear cells were treated with a LPS dose-response (5, 10 …
+     "Human adipocytes were treated with LPS to study TNFalpha production. TNFalpha secretion is primarily mediated by NFkappaB and p38 MAP Kinase pathways, with PI3Kinase involved in the initial step."
+
+  18. Differential Cell Sensitivity between OTA and LPS upon Releasing TNF-α
+     Lauy Al-Anati; Ebtisam Essid; Ulla Stenius; Knut Beuerlein; Klaus Schuh; Ernst Petzinger
+     PMC3153254 · PMC · 2010-06-01 · 15 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3153254/
+     Matched: 2.2. TNF-α Release from Primary Macrophages and Macrophage-like Cells · cat /papers/PMC3153254/content.lines --lines 38-43
+     │ Hepatocytes | 47 ± 5 | 73 ± 5 | 776 ± 100 *** HepG2 cell line | 36 ± 2 | 48 ± 10 | 36
+     │ Sinusoidal endothelial cells | 219 ± 10 | 235 ± 25 | 1925 ± 70 *** L929 cell line | 47 ± 10
+     │ | 53 ± 10 | 92 ± 5 *** Primary rat macrophages, i.e., Kupffer cells and peritoneal
+     │ macrophages, were exposed to the vehicle or a standard dose of 2.5 µmol/L OTA or 0.1µg/mL
+     │ LPS, respectively, during 24 h in culture. Kupffer cells (Figure 2(a)), which represent
+     │ liver-placed resident macrophages, revealed basal TNF-α release in the absence of treatment
+     │ (vehicle), which increased from 50 pg/mL at time zero to 131 ± 10 pg/mL after 24 h. However,
+     │ 10-times as much TNF-α was released within 24 h when OTA was added. Onset …
+     "This study compared TNF-α release from various cell lines exposed to ochratoxin A (OTA) and lipopolysaccharide (LPS). Macrophages and macrophage-derived cells, but not other cell types, released TNF-α in response to OTA."
+
+  19. RNA from LPS-stirnulated macrophages induces the release of tumour necrosis factor-α and interleukin-1 by resident macrophages
+     R. A. Ribeiro, F. L. De Lucca, C. A. Flores, F. Q. Cunha, S. H. Ferreira
+     PMC2365439 · biomedrxiv · 1993-01-01 · 8 citations
+     https://doi.org/10.1155/S0962935193000626
+     "Cytoplasmic RNA from LPS-stimulated macrophages was studied for its effect on resident macrophages. This RNA induced the release of TNF-α and IL-1, suggesting a role for extracellular RNA in inflammatory responses."
+
+  20. Lipopolysaccharide-mediated signal transduction: Stabilization of TNF-alpha mRNA contributes to increased lipopolysaccharide-stimulated TNF-alpha production by Kupffer cells after chronic ethanol feeding
+     Raj Kishore; Megan R McMullen; Enzo Cocuzzi; Laura E Nagy
+     PMC2410250 · PMC · 2004-01-14 · 36 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2410250/
+     Matched: Chronic ethanol increases LPS-stimulated TNF– expression · cat /papers/PMC2410250/content.lines --lines 30-31
+     │ Figure 2: Chronic ethanol exposure sensitizes RAW 264.7 macrophages to low concentrations of
+     │ lipopolysaccharide. RAW 264.7 macrophages were cultured with and without 25 mM ethanol for
+     │ 48 h and then stimulated with 0–5 ng/ml lipopolysaccharide (E. coli serotype O26:B6) in the
+     │ presence of 10% serum for 60 min. RNA was isolated and quantity of TNF-alpha and GAPDH mRNA
+     │ measured by ribonuclease protection assay. Taken together, these data indicate that there is
+     │ a strong similarity between the effects of ethanol feeding on Kupffer cell responses to LPS
+     │ and the in vitro response of RAW 264.7 macrophages to culture with chronic ethanol. These
+     │ results suggest that changes in TNF-alpha production by …
+
+  21. CD14 Mediates Binding of High Doses of LPS but Is Dispensable for TNF-α Production
+     Kinga Borzęcka; Agnieszka Płóciennikowska; Hanna Björkelund; Andrzej Sobota; Katarzyna Kwiatkowska
+     PMC3892557 · PMC · 2013-12-30 · 46 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3892557/
+     Matched: 4. Discussion · cat /papers/PMC3892557/content.lines --lines 44-45
+     │ TNF-α is a major pro-inflammatory cytokine produced by mammals during infection with Gram-
+     │ negative bacteria. This cytokine is generated mainly by macrophages which reside in many
+     │ tissues and trigger an array of innate immune responses upon encounter of invading pathogens
+     │ [35]. Monocyte-to-macrophage differentiation is accompanied by upregulation of CD14
+     │ expression [36]. Therefore, macrophages are prone to recognize LPS monomers (provided by
+     │ LBP) by the binding of the lipid A part of LPS molecule to the hydrophobic pocket of CD14
+     │ from which endotoxin can be transferred to the TLR4/MD-2 [11, [12], 37]. A line of studies
+     │ performed on living cells indicates that LPS induces formation of …
+     "CD14's role in LPS binding and TNF-α production was analyzed. CD14 is crucial for low-dose LPS binding and TNF-α production, but its role diminishes at higher LPS doses."
+
+  22. Lead Increases Lipopolysaccharide-Induced Liver Injury through Tumor Necrosis Factor-α Overexpression by Monocytes/Macrophages: Role of Protein Kinase C and p42/44 Mitogen-Activated Protein Kinase
+     Yu-Jung Cheng; Bei-Chang Yang; Ming-Yie Liu
+     PMC1440772 · PMC · 2005-11-10 · 39 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1440772/
+     Matched: cat /papers/PMC1440772/content.lines --lines 10-11
+     "Lead exposure amplifies lipopolysaccharide-induced liver injury by increasing TNF-α production in monocytes/macrophages. This occurs via the PKC/MAPK pathway, leading to excessive TNF-α and subsequent liver damage."
+
+  23. Tumor Necrosis Factor (TNF) Receptor Shedding Controls Thresholds of Innate Immune Activation That Balance Opposing TNF Functions in Infectious and Inflammatory Diseases
+     Sofia Xanthoulea; Manolis Pasparakis; Stavroula Kousteni; Cord Brakebusch; David Wallach; Jan Bauer;...
+     PMC2211976 · PMC · 2004-08-02 · 164 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2211976/
+     Matched: TNF and LPS Administration and Listeria Infection. · cat /papers/PMC2211976/content.lines --lines 34
+     │ Recombinant human TNF (Genentech, Inc.) was administered intravenously at 60 μg/mouse and
+     │ LPS (S. enteritidis, L-6011; Sigma-Aldrich) was administered intraperitoneally at the
+     │ indicated doses. Enbrel (etanercept; Immunex) was administered intraperitoneally 1 h before
+     │ LPS administration. Listeria monocytogenes strain L028 (40) was administered
+     │ intraperitoneally at the indicated doses. Survival was monitored for 10 d in all cases.
+     "This study investigated the role of p55TNF receptor shedding in regulating innate immune responses. Blocking receptor shedding leads to hyperactive immunity, improving infection control but increasing susceptibility to inflammatory diseases."
+
+  24. The use of Ipratropium and Tiotropium as novel agents to reduce inflammation in  in vitro  macrophage models
+     Ifteqar Hussain Mohammed *
+     bio_1ab02dae6d41 · bioRxiv · 2021-10-31 · 0 citations (all versions)
+     Published (2021): https://doi.org/10.1101/2021.10.31.466274
+     Matched: Comparison of TNF- α production in LPS treated and control (untreated) · cat /papers/bio_1ab02dae6d41/content.lines --lines 172-173
+     │ As shown in figure 3.6 , a substantial increase in the TNF- α cytokine concentration was
+     │ observed in LPS treated cells. The mean ± SEM data obtained was 726.33 ± 3.7 pg/ml for LPS
+     │ treated cells and 42.03 ± 0.8 pg/ml for control (untreated cells). The control showed least
+     │ concentration 42 pg/ml of TNF- α, whereas the LPS treated cells had a concentration of 726
+     │ pg/ml. The data represented in figure 11 confirms that TNF- α levels increased significantly
+     │ in LPS treated cells. The research methodology was thus validated. Figure 3.6. A comparison
+     │ of control (untreated) and LPS treated cells THP-1 cells. The data was represented as mean ±
+     │ S.E.M for N= 4 for both groups and the experiment was …
+     "Ipratropium and tiotropium were studied for their anti-inflammatory effects in macrophage models. These drugs were found to reduce pro-inflammatory cytokines, though less effectively than budesonide and fenoterol."
+
+  25. Catecholamines Attenuate LPS-Induced Inflammation through β2 Adrenergic Receptor Activation- and PKA Phosphorylation-Mediated TLR4 Downregulation in Macrophages
+     Cong Wang; Guo-Gang Feng; Junko Takagi; Yoshihiro Fujiwara; Tsuyoshi Sano; Hideaki Note
+     PMC11506017 · PMC · 2024-10-12 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11506017/
+     Matched: 3.1. LPS Induced TNFα Expression in RAW264.7 Cells · cat /papers/PMC11506017/content.lines --lines 36
+     │ We first examined the expression of TNFα in LPS-treated RAW264.7 cells using RT-qPCR and
+     │ immunoblotting assays. TNFα expression was clearly enhanced from 1 h after LPS treatment,
+     │ with a peak at 2 h, then gradually diminishing at both the mRNA and protein levels (Figure
+     │ 1). These results indicated that LPS induces an inflammatory response in macrophages in a
+     │ time-dependent manner. As LPS-induced TNFα expression was the highest at 2 h after treatment
+     │ with LPS, the following experiments were carried out at this time point.
+     "Catecholamines were studied for their anti-inflammatory effects on LPS-induced inflammation in macrophages. Catecholamines suppress inflammation by activating β2-AR, leading to PKA-mediated TLR4 downregulation."
+
+  26. Apigenin-7-Glucuronide from Urera aurantiaca Inhibits Tumor Necrosis Factor Alpha and Total Nitrite Release in Lipopolysaccharide-Activated Macrophages
+     Carla Marrassini; Laura Cogoi; Valeria Sülsen; Claudia Anesini
+     PMC7725547 · PMC · 2020-12-02 · 10 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7725547/
+     Matched: 2.8. TNF-α Determination · cat /papers/PMC7725547/content.lines --lines 29
+     "Apigenin-7-glucuronide (A7G) was isolated from *Urera aurantiaca* and its anti-inflammatory effects were studied. A7G significantly inhibited TNF-α and total nitrite release in activated macrophages, validating the plant's traditional use."
+
+  27. Induction of Tumor Necrosis Factor in Mice by Recombinant Human Macrophage Colony‐stimulating Factor
+     Takuma Sakurai, Shinya Suzu, Muneo Yamada, Nobuya Yanai, Takuji Kawashima, Kiyohiko Hatake, Fumimaro...
+     PMC5919345 · biomedrxiv · 1994-01-01 · 10 citations
+     https://doi.org/10.1111/j.1349-7006.1994.tb02889.x
+     "Recombinant human macrophage colony-stimulating factor (rhM-CSF) was studied for its effect on TNF production in mice. rhM-CSF primes mice for LPS-induced TNF production, suggesting potential in cancer immunotherapy."
+
+  28. Human TNF-Luc reporter mouse: A new model to quantify inflammatory responses
+     Faisal Minshawi; Mike R. H. White; Werner Muller; Neil Humphreys; Dean Jackson; Barry J. Campbell; A...
+     PMC6336827 · PMC · 2019-01-17 · 14 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6336827/
+     Matched: hTNF.LucBAC murine macrophages can be used to study the signalling pat · cat /papers/PMC6336827/content.lines --lines 25-26
+     "A human TNF-luciferase reporter mouse was created to quantify inflammatory responses. This model accurately reflects TNF gene expression and can be used to study molecules targeting TNF synthesis."
+
+  29. Genome-wide siRNA screen of genes regulating the LPS-induced NF-κB and TNF-α responses in mouse macrophages
+     Ning Li; Samuel Katz; Bhaskar Dutta; Zachary L. Benet; Jing Sun; Iain D.C. Fraser
+     PMC5332015 · PMC · 2017-03-01 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5332015/
+     Matched: Day 4: TNF-α reporter imaging data collection · cat /papers/PMC5332015/content.lines --lines 43
+     │ After 16 h of incubation with 10 ngml−1 LPS, cells in the TNF-α readout plates were fixed
+     │ with 4% paraformaldehyde for 10 min, washed, and then maintained in DPBS until imaging.
+     "A genome-wide siRNA screen identified genes regulating LPS-induced NF-κB and TNF-α responses in mouse macrophages. This study provides a resource for analyzing gene function in this key inflammatory pathway."
+
+  30. TNF Tolerance in Monocytes and Macrophages: Characteristics and Molecular Mechanisms
+     René Huber; Rolf Bikker; Bastian Welz; Martin Christmann; Korbinian Brand
+     PMC5698820 · PMC · 2017-11-08 · 32 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5698820/
+     Matched: 4. Cross-Tolerance · cat /papers/PMC5698820/content.lines --lines 29-31
+     "This review examines TNF tolerance in monocytes and macrophages, detailing its characteristics and molecular mechanisms. TNF tolerance can terminate inflammation or cause immune paralysis, with potential diagnostic and therapeutic implications."
+
+  31. Vitamin C Mitigates Oxidative Stress and Tumor Necrosis Factor-Alpha in Severe Community-Acquired Pneumonia and LPS-Induced Macrophages
+     Yuanyuan Chen; Guangyan Luo; Jiao Yuan; Yuanyuan Wang; Xiaoqiong Yang; Xiaoyun Wang; Guoping Li; Zhi...
+     PMC4165740 · PMC · 2014-09-01 · 121 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4165740/
+     Matched: 3.5. Vitamin C Inhibited LPS-Induced ROS, TNF-α, and P38 in MH-S Cell  · cat /papers/PMC4165740/content.lines --lines 40
+     "Severe community-acquired pneumonia patients showed increased oxidative stress and inflammation. Vitamin C treatment reduced these markers, suggesting a therapeutic role in severe CAP."
+
+  32. Genome-wide siRNA screen of genes regulating the LPS-induced TNF-α response in human macrophages
+     Jing Sun; Samuel Katz; Bhaskar Dutta; Ze Wang; Iain D.C. Fraser
+     PMC5332009 · PMC · 2017-03-01 · 14 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5332009/
+     Matched: Screening reagents · cat /papers/PMC5332009/content.lines --lines 34-37
+     │ Fetal bovine serum (GemCell, 100–500) Hepes (Corning, 25-060-CL) L-glutamine (Lonza,
+     │ 17-605E) Lipopolysaccharide (LPS) (Alexis Biochemicals, Cat # ALX-581-008-L002)
+     "A genome-wide siRNA screen identified genes regulating the LPS-induced TNF-α response in human macrophages. Novel hits broadly affect innate inflammatory responses to microbial stimuli."
+
+  33. Inhibiting TNF-α signaling does not attenuate induction of endotoxin tolerance
+     Christopher Loosbroock; Kenneth W Hunter
+     PMC4259568 · PMC · 2014-12-03 · 6 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4259568/
+     Matched: Introduction · cat /papers/PMC4259568/content.lines --lines 9-10
+     "This study investigated if inhibiting TNF-α signaling affects endotoxin tolerance induction. Blocking TNF-α signaling reduced inflammatory cytokine production but did not prevent endotoxin tolerance."
+
+  34. Investigating the Role of TNF-α and IFN-γ Activation on the Dynamics of iNOS Gene Expression in LPS Stimulated Macrophages
+     Taha Salim; Cheryl L. Sershen; Elebeoba E. May
+     PMC4898755 · PMC · 2016-06-08 · 199 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4898755/
+     Matched: Autocrine-based TNF-α Production · cat /papers/PMC4898755/content.lines --lines 46-48
+     "A mathematical model simulated iNOS gene expression in LPS-stimulated macrophages. IFN-γ priming is essential for robust iNOS expression and NO production, while TNF-α primarily affects response speed."
+
+  35. Role of Protein Tyrosine Phosphatase Non-Receptor Type 7 in the Regulation of TNF-α Production in RAW 264.7 Macrophages
+     Huiyun Seo; In-Seon Lee; Jae Eun Park; Sung Goo Park; Do Hee Lee; Byoung Chul Park; Sayeon Cho
+     PMC3827119 · PMC · 2013-11-12 · 19 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3827119/
+     Matched: TNF-α Production is Dependent on PTPN7 Expression Levels · cat /papers/PMC3827119/content.lines --lines 76-77
+     │ TNF-α production is one of the earliest pro-inflammatory responses from macrophages when
+     │ stimulated by endotoxins such as LPS. Since LPS regulates PTPN7 expression in RAW 264.7
+     │ cells, we hypothesized that PTPN7 might be involved in the regulation of TNF-α expression.
+     │ To investigate the effect of PTPN7 on TNF-α expression, we measured the time point changes
+     │ of TNF-α and PTPN7 in response to LPS (Fig. 3A). TNF-α levels increased sharply at early
+     │ times of LPS treatment, then increased gradually and reached maximal point at 8 h after LPS
+     │ treatment. The increase in TNF-α levels after 4 h of treatment coincides with the decrease
+     │ in PTPN7 levels (Fig. 2B). To assess the effects of PTPN7 expression …
+     "PTPN7's role in regulating TNF-α production in LPS-stimulated macrophages was studied. PTPN7 negatively regulates TNF-α expression and the inflammatory response by inactivating ERK1/2 and p38 MAPKs."
+
+  36. Upregulating Nonneuronal Cholinergic Activity Decreases TNF Release from Lipopolysaccharide-Stimulated RAW264.7 Cells
+     Yi Lv; Sen Hu; Jiangyang Lu; Ning Dong; Qian Liu; Minghua Du; Huiping Zhang
+     PMC3964895 · PMC · 2014-03-09 · 17 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3964895/
+     Matched: 3.1. LPS Stimulation Induces the Enhancement of Both TNF Release and m · cat /papers/PMC3964895/content.lines --lines 36
+     "LPS stimulation was found to modulate nonneuronal cholinergic activity in RAW264.7 cells. Enhancing autocrine ACh production can reduce TNF release from these cells."
+
+  37. The Macrophage Scavenger Receptor Type A Is Expressed by Activated Macrophages and Protects the Host Against Lethal Endotoxic Shock
+     Richard Haworth; Nick Platt; Satish Keshav; Derralynn Hughes; Elisabeth Darley; Hiroshi Suzuki; Yuki...
+     PMC2199123 · PMC · 1997-11-03 · 225 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2199123/
+     Matched: In Vivo Cytokine Production After LPS Challenge. · cat /papers/PMC2199123/content.lines --lines 47
+     "Activated macrophages express scavenger receptor A (SR-A), which protects against lethal endotoxic shock. SR-A limits LPS-induced cytokine release and scavenges LPS, reducing mortality."
+
+  38. Lipopolysaccharide-induced NF-κB nuclear translocation is primarily dependent on MyD88, but TNFα expression requires TRIF and MyD88
+     Jiro Sakai, Eugenia Cammarota, John A. Wright, Pietro Cicuta, Rachel A. Gottschalk, Ning Li, Iain D....
+     PMC5431130 · PMC · 2017-05-03 · 173 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5431130/
+     "This study investigated LPS-induced NF-κB nuclear translocation and TNFα expression in macrophages. MyD88 is the primary driver of NF-κB translocation, while both MyD88 and TRIF are required for TNFα expression."
+
+  39. Monocyte normal immune response to LPS stimulation
+     P Myrianthefs; K Venetsanou; E Grouzi; E Boutzouka; P Evagelopoulou; G Fildissis; I Spiliotopoulou; ...
+     PMC3333514 · PMC · 2002-03-01 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3333514/
+     Matched: Results · cat /papers/PMC3333514/content.lines --lines 11-14
+     │ Baseline levels of TNF-a were undetectable. After different doses of LPS stimulation for 4
+     │ hours TNF-a levels were as follows: (a) 50 pg/ml LPS: 995.8 ± 60.6 totally and 9.5 ±
+     │ 1.6/monocyte, (b) 100 pg/ml LPS: 1084.6 ± 62.2 totally and 10.8 ± 1.9/monocyte (c) 250 pg/ml
+     │ LPS: 1214.7 ± 73.1 totally and 13.9 ± 2.6/monocyte
+
+  40. Estrogen-Induced Nongenomic Calcium Signaling Inhibits Lipopolysaccharide-Stimulated Tumor Necrosis Factor α Production in Macrophages
+     Limin Liu; Ying Zhao; Keming Xie; Xiaodong Sun; Yuzhen Gao; Zufeng Wang
+     PMC3871562 · PMC · 2013-12-23 · 30 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3871562/
+     Matched: E2 down-regulates LPS-induced TNF-α production in BMMs · cat /papers/PMC3871562/content.lines --lines 46-47
+     │ To examine the effects E2 of on LPS-induced TNF-α production in BMMs, cells were incubated
+     │ with different concentrations of E2 for 24 h, with or without LPS costimulation (1 µg/ml).
+     │ As shown in Figure 2A, E2 significantly inhibited LPS-induced TNF-α production, and the
+     │ maximum effect occurred at a physiological concentration of 1 nM. E2 by itself did not
+     │ affect TNF-α production. We subsequently evaluated the effects of E2 on the LPS-induced
+     │ phosphorylation of p38 MAPK, ERK1/2, and JNK. As shown in Figure 2B, E2 was not able to
+     │ activate any of the three MAPK families at different time points over 2 h as detected by
+     │ western blotting using specific anti-MAPK antibodies. However, costimulation …
+     "Estrogen rapidly inhibits lipopolysaccharide-induced TNF-α production in macrophages. This occurs via GPR30-mediated calcium influx, which suppresses p38 MAPK activation."
+
+  41. Pre-Treatment of Recombinant Mouse MFG-E8 Downregulates LPS-Induced TNF-α Production in Macrophages via STAT3-Mediated SOCS3 Activation
+     Monowar Aziz; Asha Jacob; Akihisa Matsuda; Rongqian Wu; Mian Zhou; Weifeng Dong; Weng-Lang Yang; Pin...
+     PMC3217009 · PMC · 2011-11-15 · 82 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3217009/
+     Matched: Mouse model of endotoxemia · cat /papers/PMC3217009/content.lines --lines 20
+     "Recombinant mouse MFG-E8 was studied for its effect on LPS-induced TNF-α production in macrophages. Pre-treatment with MFG-E8 downregulated TNF-α by activating STAT3-mediated SOCS3, which negatively regulates TLR4 signaling."
+
+  42. LITAF Mediation of Increased TNF-α Secretion from Inflamed Colonic Lamina Propria Macrophages
+     Kristen N. Bushell; Susan E. Leeman; Earl Gillespie; Adam C. Gower; Karen L. Reed; Arthur F. Stucchi...
+     PMC3184169 · PMC · 2011-09-30 · 28 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3184169/
+     Matched: LPS-Induced Secretion of TNF-α is less in LPM Harvested from Inflamed  · cat /papers/PMC3184169/content.lines --lines 46-47
+     "This study investigated LITAF's role in TNF-α secretion from inflamed colonic macrophages. LITAF mediates increased TNF-α production in these cells during acute inflammation."
+
+  43. Modulation of Tumor Necrosis Factor by Microbial Pathogens
+     Masmudur M Rahman; Grant McFadden
+     PMC1383482 · PMC · 2006-02-24 · 172 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1383482/
+     Matched: Viral TNF-Binding Proteins · cat /papers/PMC1383482/content.lines --lines 22
+     "This paper reviews how microbial pathogens, like viruses and bacteria, manipulate the host's tumor necrosis factor (TNF) response. Pathogens employ diverse strategies to block or alter TNF signaling, offering insights into disease and potential therapeutic targets."
+
+  44. Unaltered TNF-α production by macrophages and monocytes in diet-induced obesity in the rat
+     Sammy Bedoui; Elena Velkoska; Steve Bozinovski; Jessica E Jones; Gary P Anderson; Margaret J Morris
+     PMC1079929 · PMC · 2005-03-21 · 32 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1079929/
+     Matched: Full Blood stimulation · cat /papers/PMC1079929/content.lines --lines 29
+     "This study investigated TNF-α production by monocytes and macrophages in diet-induced obese rats. No significant differences in TNF-α production were found between obese and control rats, suggesting dietary obesity does not mimic immune defects seen in genetically obese models."
+
+  45. Globular Adiponectin Causes Tolerance to LPS-Induced TNF-α Expression via Autophagy Induction in RAW 264.7 Macrophages: Involvement of SIRT1/FoxO3A Axis
+     Nirmala Tilija Pun; Amit Subedi; Mi Jin Kim; Pil-Hoon Park
+     PMC4427353 · PMC · 2015-05-11 · 49 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4427353/
+     Matched: ELISA for TNF-α detection · cat /papers/PMC4427353/content.lines --lines 23
+     "Globular adiponectin was studied for its role in suppressing LPS-induced TNF-α expression in macrophages. Autophagy induction, mediated by the SIRT1/FoxO3A axis, is identified as a key mechanism for this suppression."
+
+  46. Lipopolysaccharide and Tumor Necrosis Factor Regulate Parkin Expression via Nuclear Factor-Kappa B
+     Thi A. Tran; Andrew D. Nguyen; Jianjun Chang; Matthew S. Goldberg; Jae-Kyung Lee; Malú G. Tansey
+     PMC3157435 · PMC · 2011-08-17 · 107 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3157435/
+     Matched: Parkin mRNA and protein levels in brain microglia and peripheral macro · cat /papers/PMC3157435/content.lines --lines 42
+     "LPS and TNF were found to decrease Parkin expression in immune cells and neurons via NF-κB signaling. This suggests chronic inflammation may mimic Parkin deficiency, increasing PD vulnerability."
+
+  47. LPS Inhibits Fatty Acid Absorption in Enterocytes through TNF-α Secreted by Macrophages
+     Heyuan Liu; Lixia Kai; Huahua Du; Xinxia Wang; Yizhen Wang
+     PMC6953048 · PMC · 2019-12-12 · 20 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6953048/
+     Matched: 4. Discussion · cat /papers/PMC6953048/content.lines --lines 61-64
+     "LPS was studied for its effect on intestinal fatty acid absorption. Macrophage-secreted TNF-α, induced by LPS, inhibits fatty acid absorption in enterocytes via caspase-3 activation."
+
+  48. Intracellular NAD+ levels are associated with LPS-induced TNF-α release in pro-inflammatory macrophages
+     Abbas Jawad Al-Shabany; Alan John Moody; Andrew David Foey; Richard Andrew Billington
+     PMC4770305 · PMC · 2016-02-29 · 42 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4770305/
+     Matched: AUTHOR CONTRIBUTION · cat /papers/PMC4770305/content.lines --lines 55
+     │ Abbas Al-Shabany performed experiments, performed data analysis and wrote the manuscript,
+     │ Alan John Moody performed data analysis, Andrew Foey and Richard Billington conceived
+     │ experiments, analysed data and wrote the manuscript.
+     "Intracellular NAD+ levels were studied in pro-inflammatory and anti-inflammatory macrophages stimulated with lipopolysaccharide. NAD+ levels in pro-inflammatory macrophages correlated with TNF-α release."
+
+  49. The Threshold Effect: Lipopolysaccharide-Induced Inflammatory Responses in Primary Macrophages Are Differentially Regulated in an iRhom2-Dependent Manner
+     Joseph Skurski; Garima Dixit; Carl P. Blobel; Priya D. Issuree; Thorsten Maretzky
+     PMC7878383 · PMC · 2021-01-29 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7878383/
+     Matched: Reagents and Inhibitors · cat /papers/PMC7878383/content.lines --lines 20
+     "This study investigated how lipopolysaccharide (LPS) dose affects inflammatory responses in macrophages, focusing on the role of iRhom2. Low LPS doses trigger a sustained inflammatory loop dependent on iRhom2/ADAM17 and TNF receptor signaling, which is absent at high doses."
+
+  50. microRNA-15a-5p participates in sepsis by regulating the inflammatory response of macrophages and targeting TNIP2
+     Yufeng Lou; Zhenrong Huang
+     PMC7086208 · PMC · 2020-02-25 · 32 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7086208/
+     Matched: Expression of TNIP2 is reduced in LPS-activated RAW264.7 macrophages. · cat /papers/PMC7086208/content.lines --lines 42
+     "This study investigated miR-15a-5p's role in macrophage inflammation during sepsis. miR-15a-5p targets TNIP2, reducing inflammatory cytokine secretion and NF-κ pathway activation."
+
+[5.3s, saved to s_4d95050f]
+
+💡 Extract data across these results with: map --from s_4d95050f "your question"
+[5.3s, saved to s_4d95050f]  [repo: mva-lof-molecular]
+

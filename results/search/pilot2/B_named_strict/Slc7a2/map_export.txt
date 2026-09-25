@@ -1,0 +1,4 @@
+$ src/pc.sh results m_ad73a039 --save /Users/julia/known-or-not-found/results/search/pilot2/B_named_strict/Slc7a2/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/pilot2/B_named_strict/Slc7a2/map_answers.txt
+

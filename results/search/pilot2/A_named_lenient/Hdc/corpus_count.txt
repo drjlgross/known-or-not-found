@@ -1,0 +1,620 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv --bool --ranking bm25 --full-text -n 500 ("Hdc" OR "histidine decarboxylase" OR "Hdc-s" OR "Hdc-e" OR "Hdc-c" OR "Hdc-a" OR "L-histidine decarboxylase") AND ("LPS" OR "lipopolysaccharide") AND "macrophage"
+# exit 0
+Found 42 papers (of 500 requested)  [s_95e7e3af]
+
+  1. Sympathetic signaling activation alleviated acute respiratory distress syndrome via the HDC/SLC7A11 axis in lipopolysaccharide-induced macrophages
+     Xing Lv; Chenhao Jiang; Xu Zhang; Zhengqi Wu; Xuxia Wei; Yang Zhao; Jianhao Zhang; Xuegang Zhao; Lu ...
+     PMC13493966 · PMC · 2026-06-15 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13493966/
+     Matched: Norepinephrine upregulates HDC expression and enriches oxidative stres · cat /papers/PMC13493966/content.lines --lines 30-31
+     │ To investigate how norepinephrine confers protection at the molecular level, transcriptomic
+     │ analysis was performed in LPS-injured AMs with norepinephrine treatment. Hierarchical
+     │ clustering of differentially expressed genes revealed a clear separation between the LPS +
+     │ NE and LPS + NE + BUT groups, indicating distinct gene expression profiles (Fig. 4A). Bubble
+     │ plot analysis demonstrated that norepinephrine-regulated genes were significantly enriched
+     │ in pathway such as regulation of oxidative stress, glutathione metabolic process, and
+     │ mitochondrial organization (Fig. 4B). Volcano plot analysis identified numerous
+     │ differentially expressed genes (Fig. 4C). To identify ferroptosis-related …
+     "Acute respiratory distress syndrome (ARDS) represents a severe pulmonary condition characterized by excessive inflammation, wherein alveolar macrophages (AMs), pivotal components of the innate immune "
+
+  2. Expression of Histidine Decarboxylase and Its Roles in Inflammation
+     Noriyasu Hirasawa
+     PMC6359378 · PMC · 2019-01-16 · 87 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6359378/
+     Matched: 6.3. HDC Expression in Non-Mast Cells · cat /papers/PMC6359378/content.lines --lines 46
+     │ In addition to mast cells, HDC expression has been induced in macrophages, neutrophils,
+     │ lymphocytes, keratinocytes, endothelial cells, and smooth muscle cells (Table 1). HDC is
+     │ rarely expressed in these cells when unstimulated, but expression is markedly induced by
+     │ various types of inflammatory stimulants. Because these cells do not have granules like
+     │ those in mast cells, the histamine produced is released immediately, without being stored.
+     │ To clarify the mechanism by which inflammatory stimulation induces HDC expression in non-
+     │ mast cells, we examined the regulation of HDC expression in the mouse macrophage-like cell
+     │ line RAW264 upon exposure to various inflammatory stimulants. Stimulation …
+     "This study investigated histidine decarboxylase (HDC) expression and its role in inflammation. HDC induction at inflammatory sites maintains histamine levels, regulating functions and cytokine production."
+
+  3. HDC/histamine Signaling Axis Drives Macrophage Reprogramming to Promote Angiogenesis in Hindlimb-Ischemic Mice
+     Dili Sun; Jianfu Zhu; Gaofeng Zeng; Xiyang Yang; Xiaowei Zhu; Diyaerjiang Aierken; Zhaocheng Shi; Su...
+     PMC12035888 · PMC · 2025-03-19 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12035888/
+     Matched: Supplementary Material · cat /papers/PMC12035888/content.lines --lines 93-94
+     │ Figure 3: Single-cell transcriptomics analysis suggests an association between HDC+
+     │ macrophages and angiogenesis during the process of HLI. (A) UMAP plot of aggregate cells
+     │ displaying five macrophage subtypes. (B) Volcano plots of differentially expressed genes in
+     │ each macrophage subtype. (C) Total plot showing the expression of Hdc, Cxcr2, Vegfa,
+     │ Mmp-9and Il1β genes in five macrophage subtypes. (D) Feature plots showing the expression of
+     │ Hdc, Cxcr2, Vegfa, Mmp-9 and Il1β genes in five macrophage subtypes. (E) Heat map showing
+     │ the expression of Hdc, Cxcr2, Vegfa, Mmp-9 and Il1β genes in five macrophage subtypes. (F)
+     │ Bar chart of muscle macrophage cluster proportion at different time after …
+     "HDC/histamine signaling in Ly6C+ macrophages drives angiogenesis in hindlimb ischemia. Inactivating HDC impairs this process, but HA-DA@histamine hydrogel safely promotes healing."
+
+  4. Molecular biology of histidine decarboxylase and prostaglandin receptors
+     Atsushi ICHIKAWA; Yukihiko SUGIMOTO; Satoshi TANAKA
+     PMC3037517 · PMC · 2010-10-08 · 29 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3037517/
+     Matched: Transcriptional regulation of EP receptor gene expression. · cat /papers/PMC3037517/content.lines --lines 54-55
+     │ COX-2 gene expression is known to be induced upon hormonal and proinflammatory stimuli. Such
+     │ gene induction by hormonal and proinflammatory signals is also observed for the EP2 receptor
+     │ (Fig. 6B). For example, macrophages produce large amounts of PGE2 in response to LPS
+     │ treatment, and the resultant PGE2 at least in part act on the macrophages themselves,
+     │ resulting in inhibition of cytokine release. This inhibitory effect of PGE2 is exerted
+     │ through production of cAMP, suggesting the involvement of EP2 and/or EP4 receptors. We
+     │ examined the details of expression of EP2 and EP4 receptors in macrophage cells, J774.1, and
+     │ found that the former is effectively induced in response to LPS treatment …
+     "This paper details the cloning and characterization of mouse histidine decarboxylase and prostaglandin receptors. Research using gene-targeted mice aims to elucidate the pathophysiological roles of histamine and prostaglandins."
+
+  5. Cooperative and distinct functions of MK2 and MK3 in the regulation of the macrophage transcriptional response to lipopolysaccharide
+     Christian Ehlting; Julia Rex; Ute Albrecht; René Deenen; Christopher Tiedje; Karl Köhrer; Oliver Saw...
+     PMC6667695 · PMC · 2019-07-30 · 12 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6667695/
+     Matched: Analysis of the differential regulation of LPS-inducible gene expressi · cat /papers/PMC6667695/content.lines --lines 30-31
+     │ Figure 4: LPS-induced and MK2- and/or MK2/3-dependent expression of target genes and
+     │ representatives of the 6 different types of regulation. Bone marrow-derived macrophages
+     │ (BMDM) were prepared from wild-type (wt), MK2-deficient (MK2−/−) and MK2/3-double-deficient
+     │ (MK2/3−/−) mice and treated with 100 ng/ml LPS for the indicated time points. Total mRNA was
+     │ extracted and analyzed using rtPCR as specified in the methods section. C1rA, Nod1 and
+     │ Serpina3f are representative target genes of group III (a–c), whereas CXCL2, IL-4Rα and
+     │ IL-19 are representatives of group I (d–f). Group II is represented by IL-12b (g), group IV
+     │ by CXCL3 (h), group V by HDC (i) and group VI by CXCL9 (j). Data are …
+     "MK2 and MK3 were studied for their roles in regulating macrophage responses to LPS. They cooperatively and distinctly control inflammatory gene expression, with MK3 also negatively regulating IFN-β in MK2's absence."
+
+  6. Role of histidine decarboxylase gene in the pathogenesis of Tourette syndrome
+     Lulu Xu; Cheng Zhang; Meixiang Zhong; Fengyuan Che; Chengcheng Guan; Xueping Zheng; Shiguo Liu
+     PMC8933785 · PMC · 2022-02-03 · 11 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8933785/
+     Matched: Microglia · cat /papers/PMC8933785/content.lines --lines 43-44
+     │ Microglia are the innate immune cells of the central nervous system that play an important
+     │ role in immune surveillance. They are important cells in adult neurogenesis that support the
+     │ survival of neurons. Because of recent studies, microglia have taken on new roles in brain
+     │ development, homeostasis, and plasticity (Paolicelli et al., 2011; Ziv et al., 2006).
+     │ Particularly, microglia prune synapses, which is necessary to form brain circuits and normal
+     │ connections during normal development in mice (Ji et al., 2013; Zhan et al., 2014).
+     │ Microglial dysregulation has also been observed in TS. Immunohistochemical studies on the
+     │ postmortem brain of TS patients showed an elevated count of cells of …
+     "This paper reviews research on histidine decarboxylase knockout mice as a model for Tourette syndrome. These mice exhibit TS-like abnormalities, aiding the study of underlying brain mechanisms and treatment development."
+
+  7. Role of histamine-mediated macrophage differentiation in clearance of metastatic bacterial infection
+     Kwang H. Kim; Donghwan Park; Soo Young Cho; Yejin Cho; Buhyun Lee; Haengdueng Jeong; Yura Lee; Youri...
+     PMC10682073 · PMC · 2023-11-14 · 6 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10682073/
+     Matched: Histamine-mediated macrophage differentiation is important for phagocy · cat /papers/PMC10682073/content.lines --lines 54-55
+     │ To identify the histamine signal-mediated genes involved in phagocytosis, we selected
+     │ upregulated DEGs in Hdc +/+ mice relative to those in Hdc -/- mice in each cluster, which
+     │ were compared with Venn diagram analysis. Phagocytosis and antigen presentation-related
+     │ genes such as H2-Ab1, H2-Aa, Cd74 (41), and Cd81 (42) were upregulated in LPM clusters (
+     │ Figure 5C ; Supplementary Table S3 ). Violin plot analysis also confirmed that the
+     │ expression of phagocytosis-related genes was significantly impaired in Hdc -/- macrophage
+     │ clusters ( Figure 5D ). IFN-γ is known to exert antibacterial activity in macrophages by
+     │ enhancing phagocytic activity (43, 44). To identify whether histamine signaling is …
+     "Histamine deficiency impairs macrophage differentiation and phagocytic activity, leading to increased susceptibility to bacterial infection. This highlights histamine's crucial role in immune defense against pathogens."
+
+  8. Molecular Regulation of Histamine Synthesis
+     Hua Huang, Yapeng Li, Jinyi Liang, Fred D. Finkelman
+     arx_1802.02540 · arXiv · 2018-02-07 · 0 citations
+     Matched: Uncategorized References · cat /papers/arx_1802.02540/content.lines --lines 59-60
+     │ 63. Wang Z, Mascarenhas N, Eckmann L, Miyamoto Y, Sun X, Kawakami T, et al. Skin microbiome
+     │ promotes mast cell maturation by triggering stem cell factor production in keratinocytes.
+     │ The Journal of allergy and clinical immunology (2017) 139(4):1205-1216 e1206.
+     │ doi:10.1016/j.jaci.2016.09.019 64. Conti P, Pang X, Boucher W, Letourneau R, Reale M,
+     │ Barbacane R C, et al. Impact of Rantes and MCP-1 chemokines on in vivo basophilic cell
+     │ recruitment in rat skin injection model and their role in modifying the protein and mRNA
+     │ levels for histidine decarboxylase. Blood (1997) 89(11):4120-4127 65. Castellani M L,
+     │ Ciampoli C, Felaco M, Tete S, Conti C M, Salini V, et al. Neuropeptide substance P induces …
+
+  9. Molecular Targeted Therapy for the Bone Loss Secondary to Pyogenic Spondylodiscitis Using Medications for Osteoporosis: A Literature Review
+     Takashi Ohnishi; Yuki Ogawa; Kota Suda; Miki Komatsu; Satoko Matsumoto Harmon; Mitsuru Asukai; Masah...
+     PMC8123121 · PMC · 2021-04-24 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8123121/
+     Matched: 5. Conclusions · cat /papers/PMC8123121/content.lines --lines 44-48
+     │ Teriparatide | Stimulates the proliferation of osteoblasts Stimulates the proliferation and
+     │ activation of lymphoid cells via upregulating IL-7 in the bone marrow | Unknown with regard
+     │ to the areas of the bone and infection, but may need precaution to paradoxical bone
+     │ resorption or hypercalcemia Denosumab | Inhibits osteoclastogenesis by inhibiting RANKL | A
+     │ concern of aggravating the infection NBPs | Impair function and survival of osteoclasts One
+     │ study reported that zoledronic acid had protective effects on bone loss secondary to
+     │ pyogenic osteomyelitis of the jaw | Augment the production of IL-1β in macrophages
+     │ Upregulate histamine production via HDC induction with and without the LPS …
+     "This review examines osteoporosis medications for bone loss from pyogenic spondylodiscitis. Romosozumab shows promise by stimulating bone formation and inhibiting resorption, potentially counteracting infection-induced bone destruction."
+
+  10. Aryl-1,3,5-triazine ligands of histamine H4 receptor attenuate inflammatory and nociceptive response to carrageen, zymosan and lipopolysaccharide
+     Szczepan Mogilski; Monika Kubacka; Dorota Łażewska; Małgorzata Więcek; Monika Głuch-Lutwin; Małgorza...
+     PMC5209447 · PMC · 2016-10-20 · 30 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5209447/
+     Matched: Discussion · cat /papers/PMC5209447/content.lines --lines 129-131
+     │ The test compounds inhibited both, thermal and mechanical hyperalgesia induced by
+     │ carrageenan injection. As Figs. 3 and 4 present their effect was stronger and lasted longer
+     │ than that of JNJ7777120. This is particularly visible in case of compound 1. The compounds
+     │ also reduced body writhnes in the model of zymosan-induced peritonitis (Fig. 5 panel A). In
+     │ both models, nociceptive reactions are not related to the direct stimulation of nociceptors,
+     │ but rather result from the secondary release of the inflammatory mediators such as
+     │ prostanoids or cytokines from immunocompetent cells [23, 37]. The majority of these cells
+     │ shows expression of H4R [2]. Although the contribution of H4R in the …
+     "Aryl-1,3,5-triazine ligands targeting the histamine H4 receptor were studied for anti-inflammatory and analgesic effects. These compounds effectively reduced inflammation and pain in animal models by modulating cytokine and ROS production."
+
+  11. Proinflammatory profile of neonatal monocytes induced by microbial ligands is downmodulated by histamine
+     Anna Cláudia Calvielli Castelo Branco; Nátalli Zanete Pereira; Fábio Seiti Yamada Yoshikawa; Luanda ...
+     PMC6757139 · PMC · 2019-09-23 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6757139/
+     Matched: Histamine induces inhibitory effects on LPS-induced CCL2 secretion · cat /papers/PMC6757139/content.lines --lines 48-51
+     │ In addition to modulating macrophage polarization, CCL2 mediates monocyte egress from bone
+     │ marrow and recruitment into inflamed tissues[22]. Accordingly, we next evaluated the effect
+     │ of histamine on CCL2 secretion induced by a TLR4 agonist in MNCs from both NBs and adults.
+     │ Interestingly, an inhibitory effect on LPS-induced CCL2 secretion mediated by histamine was
+     │ observed in 100% of NBs and 65% of adults, with the remaining 35% of adult cells being
+     │ refractory to the effects of histamine (Fig. 2A,B). Figure 2: Histamine exerts an inhibitory
+     │ effect on LPS-induced CCL2 production in NBs and adults. CCL2 production induced in MNCs
+     │ from adults (n = 12) and NBs (n = 8) stimulated with LPS (1 …
+     "Neonatal monocytes were studied for their response to microbial ligands and histamine's effect. Histamine downmodulates the heightened inflammatory response, particularly CCL2 production, in neonatal monocytes."
+
+  12. Recent advances in nanomedicines for regulation of macrophages in wound healing
+     Alireza Joorabloo; Tianqing Liu
+     PMC9463766 · PMC · 2022-09-09 · 75 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9463766/
+     Matched: Drug-loaded inorganic nanomaterials induce macrophage polarization · cat /papers/PMC9463766/content.lines --lines 82
+     │ Inorganic nanomaterials can also be functionalized and conjugated with anti-inflammatory
+     │ molecules as drug carriers for macrophage regulation in wound regeneration. Taking the
+     │ advantage of antioxidant, antimicrobial, and anti-inflammatory properties of tannic acid,
+     │ Orlowski et al. [137], synthesized tannic acid-modified AgNPs and evaluated their wound
+     │ healing properties. Tannic acid-modified AgNPs showed an advantageous profile of pro-
+     │ inflammatory cytokines produced by macrophages compared with control, which improved immune
+     │ microenvironment to promote keratinocyte and fibroblast migration, proliferation, and
+     │ angiogenesis. Wu et al. [138] developed bFGF-loaded dopamine-heparin-conjugated …
+     "This paper reviews nanomedicines for regulating macrophages in wound healing. These nanomedicines can modulate macrophage polarization, offering a promising strategy for skin regeneration."
+
+  13. Histidine metabolic reprogramming drives oxidative stress induced mtDNA release to promote necroptosis and airway inflammation in severe asthma
+     Ying Chen; Junwen Huang; Zhaoqian Gong; Yuemao Li; Yaoxin Chen; Keke Fan; Bang Zhu; Yanyan Ma; Dapen...
+     PMC13331803 · PMC · 2026-06-27 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13331803/
+     Matched: Histidine metabolic reprogramming regulates airway inflammation in HDM · cat /papers/PMC13331803/content.lines --lines 123
+     │ To further validate the role of histidine metabolic reprogramming in airway inflammation and
+     │ SA pathophysiology, a second murine model was established using BALB/c mice sensitized and
+     │ challenged with HDM and LPS. Mice received dietary and pharmacological interventions,
+     │ including a high-histidine or histidine-deficient diet, intratracheal pinocembrin, or
+     │ l-carnosine supplementation. HDM + LPS exposure significantly increased airway
+     │ hyperresponsiveness compared with the control group. This functional impairment was further
+     │ exacerbated by histidine supplementation but significantly attenuated by histidine
+     │ deprivation, HDC inhibition, or carnosine treatment (Fig. S2A). Cytological and …
+     "Metabolic dysregulation is increasingly recognized as a critical contributor to asthma pathogenesis. Emerging clinical and metabolomic evidence has implicated histidine metabolism in asthma; however, "
+
+  14. Translocation of Helicobacter hepaticus synergizes with myeloid-derived suppressor cells and contributes to breast carcinogenesis
+     Huan Deng; Sureshkumar Muthupalani; Susan Erdman; Haibo Liu; Zhengchuan Niu; Timothy C. Wang; James ...
+     PMC8966989 · PMC · 2022-03-26 · 27 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8966989/
+     Matched: Abstract · cat /papers/PMC8966989/content.lines --lines 1-10
+     "*Helicobacter hepaticus* infection in mice increased mammary and intestinal tumors. The bacteria translocated to mammary tissue, promoting tumorigenesis via myeloid-derived suppressor cells."
+
+  15. HIF-α signaling regulates the macrophage inflammatory response during Leishmania major infection
+     Lucy G. Fry; Charity L. Washam; Hayden Roys; Anne K. Bowlin; Gopinath Venugopal; Jordan T. Bird; Ste...
+     PMC11969800 · PMC · 2025-03-21 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11969800/
+     Matched: Results · cat /papers/PMC11969800/content.lines --lines 154-187
+     │ Table 4: Significantly up- or down-regulated DEGs between infected ARNTf/f macrophages
+     │ treated with LPS/IFNg compared to infected ARNTf/f macrophages. Up-regulated | Up-regulated
+     │ | Up-regulated | Up-regulated SYMBOL | GENE NAME | logFC | PValue (adj.) Gpr18 | G protein-
+     │ coupled receptor 18 | 13.0 | 0.012418 Mmp25 | matrix metallopeptidase 25 | 12.7 | 0.024799
+     │ G530011O06Rik | RIKEN cDNA G530011O06 gene | 12.4 | 0.030841 Gfi1 | growth factor
+     │ independent 1 transcription repressor | 12.2 | 0.019407 Mir155hg | Mir155 host gene (non-
+     │ protein coding) | 11.5 | 0.010225 Fscn1 | fascin actin-bundling protein 1 | 11.4 | 0.009893
+     │ Dnase1l3 | deoxyribonuclease 1-like 3 | 11.4 | 0.043388 Slamf1 | signaling …
+     "This study investigated macrophage HIF-α signaling during *Leishmania major* infection. HIF-α suppresses protein translation in macrophages during infection within a pro-inflammatory environment."
+
+  16. Inhibition of Cellular and Animal Inflammatory Disease Models by NF-κB Inhibitor DHMEQ
+     Jun Ma; Yuyang Zhang; Takeshi Sugai; Tetsuo Kubota; Hiroshi Keino; Magdy El-Salhy; Michitaka Ozaki; ...
+     PMC8466912 · PMC · 2021-09-01 · 19 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8466912/
+     Matched: 4.1. Cellular Anti-Inflammatory Activity · cat /papers/PMC8466912/content.lines --lines 36-39
+     │ Excess macrophage activation is considered to be involved in most cases of inflammation.
+     │ Therefore, we looked into the effect of DHMEQ on lipopolysaccharide (LPS)-induced macrophage
+     │ activation in mouse monocytic leukemia RAW264.7 cells [23]. (−)-DHMEQ inhibited LPS-induced
+     │ nuclear translocation of p65, iNOS expression, nitric monoxide (NO) production, and
+     │ secretion of IL-6, IL-12, and IL-1β. It also inhibited LPS-induced histamine production and
+     │ histidine decarboxylase (HDC) induction in RAW264.7 cells [24]. However, there is no κB site
+     │ in the HDC promoter. Knockdown of the transcription factor C/EBPβ reduced the HDC expression
+     │ in LPS-treated cells. Nuclear p65 enhances the activity of …
+     "The study investigated the NF-κB inhibitor DHMEQ for treating inflammatory diseases. DHMEQ demonstrated potent anti-inflammatory activity in cellular and animal models without toxicity."
+
+  17. Yersinia pestis Interacts With SIGNR1 (CD209b) for Promoting Host Dissemination and Infection
+     Kun Yang; Yingxia He; Chae Gyu Park; Young Sun Kang; Pei Zhang; Yanping Han; Yujun Cui; Silvia Bulgh...
+     PMC6422942 · PMC · 2019-03-12 · 29 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6422942/
+     Matched: GlcNAc Epitope Within the Core LPS of Y. pestis May Play a Role in Int · cat /papers/PMC6422942/content.lines --lines 59-74
+     │ E. coli K-12 | E. coli K-12 | E. coli K-12 CS180 | Contains core LPS but lacks O-antigen
+     │ (rough) | (50, 51) CS1861 | CS180 expressing O-antigen (smooth) | (50, 51) CS2429 | Lacking
+     │ both O-antigen and most of core (waaC) | (50, 51) Cell lines | Characteristics |
+     │ Characteristics HeLa-NEO cells | Control cell line, which expresses the neomycin resistance
+     │ gene only | Control cell line, which expresses the neomycin resistance gene only HeLa-hDC-
+     │ SIGN | Generated by transfecting HeLa cells with human DC-SIGN cDNA for stable surface
+     │ expression | Generated by transfecting HeLa cells with human DC-SIGN cDNA for stable surface
+     │ expression CHO-NEO cells | Control cell line, which expresses the neomycin …
+     "This study investigated how *Yersinia pestis* interacts with the SIGNR1 receptor. The loss of O-antigen in *Y. pestis* allows it to bind SIGNR1, promoting dissemination and systemic infection."
+
+  18. Identification of novel monosodium urate crystal regulated mRNAs by transcript profiling of dissected murine air pouch membranes
+     Frank Pessler; Christian T Mayer; Sung Mun Jung; Ed M Behrens; Lie Dai; Joseph P Menetski; H Ralph S...
+     PMC2483455 · PMC · 2008-06-03 · 49 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2483455/
+     Matched: Identification of differentially expressed genes by microarray analysi · cat /papers/PMC2483455/content.lines --lines 49-64
+     │ Table 1: The 12 air pouch membrane mRNAs most highly upregulated by MSU crystals Gene |
+     │ Genbank accession number | Ref. | Linear ratio: MSU/control | Function | Function |
+     │ Function(s) | | | | Inflammationa | MSUb | PUMA-g (GPR 109/HM74) | NM 030701 | [29] | 64.2 |
+     │ + | - | Macrophage activation, prostaglandin synthesis Hdc | AF 109137 | [46] | 33.8 | + | ±
+     │ | Histamine synthesis TREM-1 | NM 021406 | [15] | 31.9 | + | + | Expressed on activated
+     │ macrophages, neutrophils CSF3 (also known as G-CSF) | NM 007782 | [47] | 29.1 | + | - |
+     │ Granulocyte development and recruitment Similar to MAPK phosphatase (cpg21; unpublished) |
+     │ BB 442784 | NA | 27.9 | ± | - | Potentially, intracellular signal …
+     "MSU crystals were injected into murine air pouches to identify regulated mRNAs. Eleven of the twelve most upregulated mRNAs were related to innate immunity and inflammation, suggesting a "second wave" of inflammatory amplification."
+
+  19. Systemic endotoxemia induces integrated sickness physiology in female BALB/c mice
+     Kher, P.; Costa Lima, B. G.; Woodrow, C. E.; Roginski, A. C.; Bustamante Hernandez, L.; Wilson, A.; ...
+     bio_0369cf8e7327 · bioRxiv · 2026-09-10 · 0 citations (all versions)
+     Published (2026): https://doi.org/10.64898/2026.08.22.746462
+     Matched: cat /papers/bio_0369cf8e7327/content.lines --lines 6-8
+     │ Figure 1: LPS treatment induces local and systemic inflammation in female BALB/c mice.(A)
+     │ Study timeline and experimental groups. Peritoneal (cells and supernatant), serum, and liver
+     │ samples were collected 6 or 24h post intraperitoneal injection of female BALB/c (7-8 w.o.)
+     │ with bacterial lipopolysaccharide (LPS). Controls received PBS. (B) Total number of cells in
+     │ the peritoneal cavity quantified with Trypan Blue. (C) Number of neutrophils (Ly6G+ cells,
+     │ gated from viable and singlets). (D) Schematic of flow cytometry for immunophenotyping of
+     │ peritoneal cells (left). Frequency of neutrophils (Ly6G+) and macrophages (F4/80hi) in the
+     │ peritoneal cavity 6h post injection (right). (E-F) Serum …
+     "Sickness is an organismal response to inflammation, yet its immune, metabolic, neural, and behavioral components are often studied separately and predominantly in male C57BL/6 mice. In this study, we "
+
+  20. The effect of intrauterine growth restriction on the developing pancreatic immune system
+     Thea N. Golden; James P. Garifallou; Colin C. Conine; Rebecca A. Simmons
+     PMC11463653 · PMC · 2024-09-23 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11463653/
+     Matched: Supplementary Material · cat /papers/PMC11463653/content.lines --lines 94-114
+     │ Ngp | neutrophilic granule protein | 9.9 | 4.0E-04 | neutrophil | negative regulation of
+     │ angiogenesis S100a9 | S100 calcium binding protein A9 | 9.6 | 4.0E-05 | neutrophil/classical
+     │ monocyte | proinflammatory Retnlg | resistin like gamma | 9.3 | 3.4E-03 | non-specific |
+     │ immune regulation and glucose metabolism Olfm4 | Olfactomedin 4 | 8.9 | 2.7E-03 |
+     │ neutrophil/non-classical monocyte | antiapoptotic factor Lcn2 | Lipocalin 2 | 8.6 | 1.1E-03
+     │ | neutrophil/basophil/nonclassical monocyte | hormone and lipid transportation Lbp |
+     │ Lipopolysaccharide binding protein | 8.2 | 1.3E-02 | liver | proinflammatory: antibacterial
+     │ Chit1 | Chitinase 1 | 7.7 | 3.6E-02 | neutrophil/classical …
+     "This study characterized immune cell populations in the developing rat pancreas and spleen. Intrauterine growth restriction significantly altered these immune cell populations, with effects varying by tissue and sex."
+
+  21. The Vi Capsular Polysaccharide of Salmonella Typhi Promotes Macrophage Phagocytosis by Binding the Human C-Type Lectin DC-SIGN
+     Lillian F. Zhang; Bernd Lepenies; Sayuri Nakamae; Briana M. Young; Renato L. Santos; Manuela Raffate...
+     PMC9765441 · PMC · 2022-10-26 · 28 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9765441/
+     Matched: Vi capsular polysaccharide is bound by the C-type lectin DC-SIGN. · cat /papers/PMC9765441/content.lines --lines 30-31
+     │ Previous work suggests that human DC-SIGN binds N-acetylglucosamine residues in the LPS core
+     │ of Escherichia coli and S. Typhimurium (31). To determine whether the CLR-hFc fusion
+     │ proteins bind to Vi capsular polysaccharide chains when they are displayed on intact
+     │ bacterial cells, we evaluated binding of CLR-hFc fusion proteins to wells coated with
+     │ formalin-killed capsulated (wild-type) or noncapsulated (ΔtviB-vexE mutant) S. Typhi
+     │ strains. Wells coated with formalin-killed capsulated S. Typhi bound human DC-SIGN-hFc
+     │ fusion protein significantly better than wells coated with formalin-killed noncapsulated S.
+     │ Typhi (Fig. 3A), although the latter synthesizes an intact LPS core. Binding of …
+     "The Vi capsular polysaccharide of *Salmonella* Typhi was studied for its interaction with host phagocytes. It promotes macrophage phagocytosis by binding DC-SIGN, while evading neutrophils."
+
+  22. Design Considerations, Formulation Approaches, and Strategic Advances of Hydrogel Platforms for Tendinopathy Management
+     Junhao Lin; Xuan Yao; Hongyan Zhou; Yuheng Li; Jie Liao; Shiwu Dong; Wenhui Hu
+     PMC12852571 · PMC · 2026-01-29 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12852571/
+     Matched: Hydrogel MSs · cat /papers/PMC12852571/content.lines --lines 168-169
+     │ Hydrogel MSs, typically ranging in particle size from 1 to 1,000 μm, have emerged as
+     │ advanced biomaterials for delivering drugs, growth factors, and stem cells in tissue repair
+     │ and regeneration. These MSs demonstrate excellent biocompatibility, biodegradability, and
+     │ biosafety. Additionally, the MSs can effectively adapt to irregular tendon wounds, closely
+     │ conform to the wound surfaces, and enhance localized expression levels of loaded drugs at
+     │ the injury site [196–198]. Cai et al. [198] designed a siRNA@MS@HA hydrogel electrospun
+     │ membrane using HA and GelMA-based MSs (GMs) as raw materials. MSs can be degraded by MMP-2,
+     │ enabling the on-demand release of encapsulated siRNA nanoparticles. …
+     "This review examines hydrogel platforms for tendinopathy management, detailing design considerations and formulation approaches. Hydrogels offer promising therapeutic potential due to their versatile properties and diverse delivery formats."
+
+  23. Atractylodis Rhizoma: A review of its traditional uses, phytochemistry, pharmacology, toxicology and quality control
+     Wen-jin Zhang; Zhen-yu Zhao; Li-kun Chang; Ye Cao; Sheng Wang; Chuan-zhi Kang; Hong-yang Wang; Li Zh...
+     PMC7521906 · PMC · 2020-09-28 · 153 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521906/
+     Matched: Anti-inflammatory activity · cat /papers/PMC7521906/content.lines --lines 368-369
+     │ Shimato et al. (2018) compared the anti-inflammatory properties between Byakujutsu and
+     │ Sojutsu. They found that methanol extract could inhibit the production of NO in macrophage-
+     │ like RAW264.7 cells stimulated by lipopolysaccharide. The inhibitory effects of Byakujutsu
+     │ on NO production were significantly higher than those of Sojutsu. This activity of A.
+     │ japonica rhizome was significantly higher than that of A. macrocephala and A. lancea. The
+     │ activity of A. chinensis was significantly higher than that of A. lancea. Chen et al. (2016)
+     │ prepared n-hexane extracts of the three species (A. japonica, A. chinensis and A.
+     │ macrocephala) and evaluated their anti-inflammatory effects on …
+     "Atractylodis Rhizoma (AR), mainly includes Atractylodes lancea (Thunb.) DC. (A. lancea) and Atractylodes chinensis (DC.) Koidz. (A. chinensis) is widely used in East Asia as a diuretic and stomachic d"
+
+  24. Soluble Immune Checkpoints Are Dysregulated in COVID-19 and Heavy Alcohol Users With HIV Infection
+     Wei Li; Fahim Syed; Richard Yu; Jing Yang; Ying Xia; Ryan F. Relich; Patrick M. Russell; Shanxiang Z...
+     PMC8904355 · PMC · 2022-02-23 · 22 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8904355/
+     Matched: Soluble Immune Checkpoints in Heavy Alcohol Users With HIV Infection · cat /papers/PMC8904355/content.lines --lines 48
+     │ Alcohol misuse and HIV infection are both major health issues worldwide. Globally, more than
+     │ 2 billion people consume alcohol on a regular basis, and approximately 76 million suffer
+     │ from alcohol-related disorders (127, 128). Long-term heavy alcohol users develop a spectrum
+     │ of ALD, ranging from AH, fibrosis/cirrhosis, to hepatocellular carcinoma (HCC) (129).
+     │ Alcohol overconsumption contributes to 5.1% of the global burden of diseases and causes
+     │ approximately 3.3 million deaths every year (130, 131). HIV is the causative agent of AIDS
+     │ and has claimed over 36 million lives with an estimated 38 million PLHIV worldwide at the
+     │ end of 2020 (132). Alcohol overconsumption is common among PLHIV and …
+     "Soluble immune checkpoints (sICPs) in COVID-19 and HIV patients were studied. sICPs are dysregulated in these conditions, with alcohol misuse worsening this in HIV patients."
+
+  25. The histamine H4 receptor mediates inflammation and Th17 responses in preclinical models of arthritis
+     Jeffery M Cowden; Fuqu Yu; Homayon Banie; Mandana Farahani; Ping Ling; Steven Nguyen; Jason P Riley;...
+     PMC4151522 · PMC · 2013-10-14 · 57 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4151522/
+     Matched: Discussion · cat /papers/PMC4151522/content.lines --lines 50-51
+     │ The data presented here support a role for the H4R in arthritis. In a CAIA model,
+     │ H4R-deficient mice were largely protected from disease, as judged by a reduction in disease
+     │ score and by joint histology. A very similar effect was seen when mice were treated with the
+     │ H4R antagonist, JNJ 28307474. The fact that there are similar effects with H4R-deficient
+     │ mice and H4R antagonist strongly supports a role for the H4R in this model. These results
+     │ are similar to those seen in the K/BxN model of arthritis with histidine decarboxylase-
+     │ deficient mice that lack histamine.[20] The CAIA and K/BxN transfer model have similar
+     │ underlying mechanisms and therefore it is reasonable to assume that the effects …
+     "The histamine H4 receptor's role in arthritis was investigated using deficient mice and an antagonist. The H4 receptor mediates arthritis progression and Th17 cell-derived IL-17 production."
+
+  26. Alcohol Abstinence Does Not Fully Reverse Abnormalities of Mucosal-Associated Invariant T Cells in the Blood of Patients With Alcoholic Hepatitis
+     Wei Li; Edward L. Lin; Suthat Liangpunsakul; Jie Lan; Sai Chalasani; Sushmita Rane; Puneet Puri; Pat...
+     PMC6613857 · PMC · 2019-06-18 · 33 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6613857/
+     Matched: DISCUSSION · cat /papers/PMC6613857/content.lines --lines 70-71
+     │ HDC in our study were heavy drinkers without obvious signs of clinical liver disease,
+     │ although their AST and ALT levels were slightly higher than HC. Our research groups have
+     │ shown that those subjects have higher serum levels of LPS and markers of monocyte/macrophage
+     │ activation (sCD14 and sCD163) compared to nonexcessive drinkers in terms of bacterial
+     │ translocation (38). We showed here that HDC had a significant decrease of MAIT cells in the
+     │ peripheral blood compared to HC. HDC had slightly increased levels of the bacterial
+     │ translocation marker sCD14 and MAIT activation-associated cytokines IL-18 and IL-12. This
+     │ increase was significant when 2-group comparison between HDC and HC was …
+     "Alcoholic hepatitis patients have fewer, more activated blood MAIT cells than healthy individuals or heavy drinkers. Abstinence increases MAIT cell numbers but does not fully restore them to normal levels."
+
+  27. Murine SIGNR1 (CD209b) Contributes to the Clearance of Uropathogenic Escherichia coli During Urinary Tract Infections
+     Yingmiao Zhang; Song Zhang; Yingxia He; Ziyong Sun; Wentong Cai; Yin Lv; Lingyu Jiang; Qiao Li; Sizh...
+     PMC6965063 · PMC · 2020-01-10 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6965063/
+     Matched: Macrophages From SIGNR1−/− Mice Have Reduced Phagocytosis of Uropathog · cat /papers/PMC6965063/content.lines --lines 66-67
+     │ We have previously shown that human DC-SIGN (hDC-SIGN, hCD209a) is a receptor for E.coli
+     │ K-12 with core lipopolysaccharide (LPS core) (Klena et al., 2005; Zhang et al., 2006).
+     │ However, we had evidence showing that mouse SIGNR1 (mSIGNR1, mCD209b), not mouse DC-SIGN
+     │ (mCD209a), serves as a receptor for the LPS core of other Gram-negative bacteria, such as
+     │ Yersinia spp. (Klena et al., 2005; Zhang et al., 2006, 2008; He et al., 2019; Yang et al.,
+     │ 2019). To assess the involvement of mSIGNR1 in the interaction of uropathogenic E. coli and
+     │ macrophages in vitro, we evaluated the phagocytic capacity of peritoneal macrophages derived
+     │ from SIGNR1−/− mice in six UPEC strains. The UTI89 strain carrying a …
+     "This study investigated the role of murine SIGNR1 (CD209b) in urinary tract infections caused by UPEC. Mice lacking SIGNR1 showed increased susceptibility and prolonged bacterial persistence, indicating SIGNR1 contributes to UPEC clearance."
+
+  28. Th2 cells and macrophages cooperatively induce allergic inflammation through histamine signaling
+     Naruhito Iwasaki; Seigo Terawaki; Kouhei Shimizu; Daisuke Oikawa; Hirokazu Sakamoto; Kishiko Sunami;...
+     PMC7932145 · PMC · 2021-03-04 · 44 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7932145/
+     Matched: Discussion · cat /papers/PMC7932145/content.lines --lines 61-63
+     │ The histamine produced by mast cells and basophils participates in allergic symptoms [1, 2].
+     │ However, in this study we found a novel histamine production mechanism involving the
+     │ interaction of macrophages and Th2 cells. Our in vitro model suggested that the histamine
+     │ production requires the direct interaction between macrophages and antigen-specific Th2
+     │ cells through the antigen. In addition, the in vivo model demonstrated that Th2 cells and
+     │ macrophages cooperatively induce nasal allergic inflammation through histamine signaling.
+     │ Recent studies have indicated that macrophages, especially M2 macrophages, play important
+     │ roles in allergic diseases [12]. Takamatsu et al. reported that LPS …
+     "Th2 cells and macrophages were studied in co-culture and mouse models of allergic rhinitis. They cooperatively induce allergic inflammation via histamine signaling through H1 and H4 receptors."
+
+  29. Rosa davurica Inhibited Allergic Mediators by Regulating Calcium and Histamine Signaling Pathways
+     Seojun Lim; Sarang Oh; Quynh T. N. Nguyen; Myeongju Kim; Shengdao Zheng; Minzhe Fang; Tae-Hoo Yi
+     PMC10097250 · PMC · 2023-04-06 · 6 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10097250/
+     Matched: 3. Discussion · cat /papers/PMC10097250/content.lines --lines 34-35
+     │ It has been previously reported that the pathogenesis of inflammatory diseases, such as
+     │ atopic dermatitis and asthma, involves direct cell-cell contact between macrophages and mast
+     │ cells or the secretion of inflammatory mediators. Liu et al. found that human lung
+     │ macrophages spontaneously secrete “macrophage factors” that interact with mast cell surface-
+     │ bound IgE to induce calcium-dependent histamine release from human basophils and lung mast
+     │ cells [17]. On the other hand, mast cell degranulation leads to macrophage recruitment to
+     │ release inflammatory mediators, such as NO, PGE2, and cytokines [18]. Thus, to develop an
+     │ effective treatment for immune diseases, developing a therapeutic agent …
+     "Rosa davurica leaf extract was studied for its effects on allergic responses in cell models. The extract inhibited inflammatory mediators by regulating calcium and histamine signaling pathways."
+
+  30. The Liver and the Hepatic Immune Response in Trypanosoma cruzi Infection, a Historical and Updated View
+     Natalia Vacani-Martins; Marcelo Meuser-Batista; Carina de Lima Pereira dos Santos; Alejandro Marcel ...
+     PMC8465576 · PMC · 2021-08-25 · 17 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8465576/
+     Matched: Kupffer Cells · cat /papers/PMC8465576/content.lines --lines 48-50
+     │ Kupffer cells (KC) represent the largest population of mononuclear phagocytes in the body
+     │ and account for 20 to 30% of non-parenchymal cells in the liver. KCs are derived from a
+     │ self-renewing pool of organ-resident stem cells originated from the fetal yolk sac and bone
+     │ marrow-derived monocytes [62]. These cells are located in the sinusoid lumen, mainly in the
+     │ periportal area, where they contact recirculating T lymphocytes and meet PAMPs from the
+     │ flora and other intestinal molecules. KCs can also project cellular segments through the
+     │ Disse space and reach adjacent hepatocytes [63,[64],65]. Different from circulating and
+     │ tissue macrophages, hepatic KCs are more associated with the F4/80+CD68+ …
+     "This review examines the liver's role in *Trypanosoma cruzi* infection, from historical observations to current research. Activated T lymphocytes entering the liver create a pro-inflammatory environment, integrating peripheral and hepatic immunity for disease control."
+
+  31. GNUV201, a novel human/mouse cross-reactive and low pH-selective anti-PD-1 monoclonal antibody for cancer immunotherapy
+     Hae-Mi Kim; Kyoung-Jin Kim; Kwanghyun Lee; Myeong Jin Yoon; Jenny Choih; Tae-Joon Hong; Eun Ji Cho; ...
+     PMC11088064 · PMC · 2024-05-11 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11088064/
+     Matched: MLR assay and cytokine release with allogenic human PBMC pairs · cat /papers/PMC11088064/content.lines --lines 56
+     │ Frozen peripheral blood mononuclear cells (PBMCs) from normal healthy donors were purchased
+     │ from Lonza (4W-270, Verviers, Belgium). The CD14+ monocytes were isolated by positive
+     │ selection using CD14 microbeads (130–118-906, Miltenyi Biotec, Auburn, CA, USA) according to
+     │ the manufacturer’s instructions. The CD14+ selected cells were cultured in RPMI 1640 (Gibco)
+     │ containing 10% FBS (Gibco), 2 mM L-glutamine (Gibco), 1% PS (100 units/ml penicillin and 100
+     │ μg/ml streptomycin; Gibco) and supplemented with 50 ng/ml of granulocyte–macrophage colony-
+     │ stimulating factor (GM-CSF) and 50 ng/ml of interleukin-4 (IL-4; HDC, PeproTech EC Ltd.,
+     │ London, UK) in a humidified 5% CO2 incubator. On day 4, …
+     "GNUV201, a novel antibody, targets human and mouse PD-1 with enhanced affinity and low pH selectivity. This antibody demonstrates potential for more predictable preclinical cancer immunotherapy studies and improved tumor microenvironment targeting."
+
+  32. Lactobacillus rhamnosus GG modifies the metabolome of pathobionts in gnotobiotic mice
+     Jinhee Kim; Iyshwarya Balasubramanian; Sheila Bandyopadhyay; Ian Nadler; Rajbir Singh; Danielle Harl...
+     PMC8176599 · PMC · 2021-06-03 · 29 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8176599/
+     Matched: Potential role of specific LGG-upregulated metabolites in inflammatory · cat /papers/PMC8176599/content.lines --lines 60-61
+     │ Competitive exclusion of pathogens is thought to be one of the most important benefits of
+     │ probiotics, but the mechanisms of exclusion are unknown. While we cannot discount other
+     │ mechanisms like competition for nutrients and for binding sites, the remarkable change in
+     │ fecal metabolome elicited by LGG suggests that secretion of certain metabolites may create a
+     │ hostile luminal ecology for the pathobionts (Section 4, Supplemental Table 3D).
+     │ Interestingly, here we found that LGG increases levels of levulinic acid, a potent anti-
+     │ bacterial agent targeting mainly pathobionts as it inactivates Salmonella and verotoxigenic
+     │ E. coli O157:H7 [53]. Levulinic acid is derived from bacteria-mediated …
+     "Lactobacillus rhamnosus GG (LGG) was co-associated with pathobionts in gnotobiotic mice. LGG colonization reduced pathobiont abundance and altered fecal metabolite profiles, while also decreasing inflammatory cytokine expression."
+
+  33. The aryl hydrocarbon receptor: a multifunctional chemical sensor for host defense and homeostatic maintenance
+     Kaname Kawajiri; Yoshiaki Fujii-Kuriyama
+     PMC5411294 · PMC · 2016-12-15 · 116 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5411294/
+     Matched: AHR in the innate immune system · cat /papers/PMC5411294/content.lines --lines 26-27
+     │ Antigen-presenting cells (APCs), such as macrophages and dendritic cells, are important for
+     │ innate immune defense and for the generation and regulation of adaptive immunity against
+     │ various pathogens. Upon LPS treatment, the serum levels of interleukin (IL)-6 and IL-1β were
+     │ significantly elevated in Ahr-deficient mice as compared with those in wild-type mice [45,
+     │ [83], 93]. Moreover, peritoneal macrophages isolated from Ahr-deficient mice exhibited much
+     │ higher IL-6 secretion in response to LPS treatment than those from wild-type mice. These
+     │ results indicate that AHR suppresses the expression of inflammatory cytokines to protect
+     │ against persistent inflammation. In addition, peritoneal …
+     "The aryl hydrocarbon receptor (AHR) was studied as a chemical sensor. It plays multiple roles in host defense and homeostasis, and could be a therapeutic target."
+
+  34. Marine Bioactive Compounds with Functional Role in Immunity and Food Allergy
+     Ana G. Abril; Mónica Carrera; Manuel Pazos
+     PMC11357426 · PMC · 2024-08-06 · 17 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11357426/
+     Matched: 3. Polysaccharides and Oligosaccharides · cat /papers/PMC11357426/content.lines --lines 40-41
+     │ Alginate, the inorganic salt form (e.g., sodium salt) of alginic acid, plays a role as an
+     │ anti-allergic compound by directly decreasing the release of histamine originating in mast
+     │ cells and also by reducing hyaluronidase activity [69]. Alginates and their derivates were
+     │ found to be potent immunostimulants/immunomodulators [70,71]. The presence of alginates
+     │ provided the expression of histidine decarboxylase, the production of IL-1 and tumor
+     │ necrosis factor-alpha (TNF-α), and stimulation of HMC-1 cells [72]. In addition, alginate
+     │ oligosaccharides (AOS), which are produced by the enzymatic degradation of alginate polymers
+     │ into low-molecular-weight oligosaccharides, also have the capacity to …
+     "Marine bioactive compounds from various sources were studied for their effects on food allergy. These compounds can regulate immune responses, inflammation, and gut health, showing potential for allergy prevention and treatment."
+
+  35. Enhanced Anti-Allergic Activity of Milk Casein Phosphopeptide by Additional Phosphorylation in Ovalbumin-Sensitized Mice
+     Ntshepisa Lebetwa; Yuta Suzuki; Sachi Tanaka; Soichiro Nakamura; Shigeru Katayama
+     PMC6412743 · PMC · 2019-02-19 · 6 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6412743/
+     Matched: 3. Discussion · cat /papers/PMC6412743/content.lines --lines 26-28
+     │ In our present study, we established that the oral intake of highly phosphorylated casein
+     │ phosphopeptide could attenuate type-I allergic response in an OVA model mice through the
+     │ induction of Tfh. Bioactivities of casein hydrolysates have been widely studied. In a
+     │ previous report, Bamdad et al. showed that casein hydrolysates exhibited anti-inflammatory
+     │ and antioxidant properties by significantly reducing nitric oxide and suppressing the
+     │ synthesis of pro-inflammatory cytokines (TNF-α and IL-1β) in lipopolysaccharide stimulated
+     │ RAW 264.7 macrophage cells [14]. In this study, after the oral challenge with OVA, a marked
+     │ decrease in body temperature or hypothermia was observed in the Sham and …
+     "This study investigated the anti-allergic effects of additionally phosphorylated casein phosphopeptide (P-CPP) in ovalbumin-sensitized mice. P-CPP significantly suppressed IgE levels and modulated immune responses, suggesting enhanced anti-allergic activity."
+
+  36. Mitochondrial Dysfunction in Apoptosis-Resistant Acute Myeloid Leukemia Cells During a Sterile Inflammatory Response
+     Elena I. Meshcheriakova; Kirill S. Krasnov; Irina V. Odinokova; Aleksey I. Lomovsky; Olga V. Krestin...
+     PMC12730306 · PMC · 2025-11-21 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12730306/
+     Matched: 4. Discussion · cat /papers/PMC12730306/content.lines --lines 83-84
+     │ It should be noted that in HL-60 cells, as in THP-1 cells, the activity of mitochondrial
+     │ respiration decreased and the production of intracellular reactive oxygen species increased
+     │ under HDC conditions. At the same time, MV4-11 cells under HDC conditions, on the contrary,
+     │ did not show a decrease in respiration and reduced the production of intracellular ROS. We
+     │ suggest this is because, unlike the HL-60 and THP-1 cell lines, MV4-11 cells harbor the
+     │ FLT3-ITD mutation [105], which causes constitutive activation of FLT3-associated signaling
+     │ pathways, including PI3K/Akt, Ras/MEK/MAPK, and STAT3/5 [106,107]. Several studies have
+     │ demonstrated that increased OXPHOS activity is a key metabolic …
+     "Apoptosis-resistant AML cells were studied during simulated sterile inflammation. These cells showed metabolic reprogramming with mitochondrial dysfunction, potentially aiding their survival and apoptosis resistance."
+
+  37. Histamine suppresses gene expression and synthesis of tumor necrosis factor alpha via histamine H2 receptors
+     PMC2118872 · PMC · 1991-07-01 · 126 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2118872/
+     Matched: cat /papers/PMC2118872/content.lines --lines 5
+     │ BriefDefinitive Report Histamine Suppresses Gene Expression and Synthesis of Tumor Necrosis
+     │ Factor a via Histamine H2 Receptors By Edouard Vannier, Laurie C. Miller, and Charles A .
+     │ Dinarello From the Departments ofMedicine and Pediatrics, Tufts University School of
+     │ Medicine and New England Medical Center, Boston, Massachusetts 02111 Summary Histamine and
+     │ tumor necrosis factor cx (TNF-a) can each contribute to the pathogenesis of allergic
+     │ reactions and chronic inflammatory diseases. We now report the effect of histamine on gene
+     │ expression and total cellular synthesis of TNF-cx. Lipopolysaccharide (LPS)-induced
+     │ synthesis ofTNF-cx in peripheral blood mononuclear cells (PBMC) from 18 healthy …
+     "Histamine was studied for its effect on TNF-alpha production in immune cells. Histamine suppresses TNF-alpha gene expression and synthesis via H2 receptors."
+
+  38. Mechanistic insights into the attenuation of intestinal inflammation and modulation of the gut microbiome by krill oil using in vitro and in vivo models
+     Fang Liu; Allen D. Smith; Gloria Solano-Aguilar; Thomas T. Y. Wang; Quynhchi Pham; Ethiopia Beshah; ...
+     PMC7273679 · PMC · 2020-06-04 · 123 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7273679/
+     Matched: Abstract · cat /papers/PMC7273679/content.lines --lines 1-20
+     "Krill oil was studied for its anti-inflammatory effects and impact on the gut microbiome in colitis models. Krill oil reduced inflammation by regulating signaling pathways and altered microbial composition, including histidine metabolism."
+
+  39. Proteus mirabilis Targets Atherosclerosis Plaques in Human Coronary Arteries via DC-SIGN (CD209)
+     Ying Xue; Qiao Li; Chae Gyu Park; John D. Klena; Andrey P. Anisimov; Ziyong Sun; Xiang Wei; Tie Chen
+     PMC7820866 · PMC · 2021-01-08 · 18 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7820866/
+     Matched: Bacterial Strains ( Table 2 ) · cat /papers/PMC7820866/content.lines --lines 36-59
+     │ E. coli K-12 strain CS180 is E. coli with rough LPS missing the O-antigen. CS1861 is the
+     │ derivative of CS180 transformed with the pSS37 plasmid, which contains all of the necessary
+     │ genes for O-antigen expression of the Shigella dysenteriae 1 (58). CS180-Pla and CS1861-Pla
+     │ were constructed by CS180 and CS1861 transformed with the pUC18-Pla plasmid expressing the
+     │ plasminogen activator (PLA) protein from Y. pestis, respectively (59). Table 2: Bacterial
+     │ strains and cell lines used in this study. Strain or cell line | Characteristics |
+     │ References Y. pseudotuberculosis | | Y1 | O:1a, wild-type expressing invasion but with pYV
+     │ plamid naturally cured (smooth) | 61 Y. pestis | | 1418 | Originated …
+     "Proteus mirabilis interacts with human coronary artery atherosclerosis plaques via DC-SIGN (CD209) and langerin (CD207). This interaction may contribute to atherosclerosis progression and could be a target for therapeutic intervention."
+
+  40. DC-SIGN (CD209)-mediated interactions between bacteria, lung cancer tissues, and macrophages promote cancer metastasis
+     Qiao Li; Nihal Hasan; Fei Zhao; Ying Xue; Sizhe Zhu; Yin Lv; Ling-yu Jiang; Kun Yang; Wenjin Li; Yin...
+     PMC12181914 · PMC · 2025-06-21 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12181914/
+     Matched: Discussion · cat /papers/PMC12181914/content.lines --lines 100-101
+     │ After profiling the bacterial composition in lung cancer tissues and detecting DC-SIGN
+     │ expression, an adhesion assay was conducted to determine whether DC-SIGN mediates
+     │ interactions between lung cancer tissues and Gram-negative bacteria. The results revealed
+     │ that lung cancer tissues expressing DC-SIGN can bind to the LPS core of Gram-negative
+     │ bacteria, such as Proteus mirabilis, Shigella sonnei, and Yersinia pseudotuberculosis. The
+     │ expression of O-antigen in smooth strains of these bacteria weakened this interaction,
+     │ consistent with previous studies reporting that Gram-negative bacteria can use their LPS
+     │ core to bind to the DC-SIGN receptor on APCs [61, [70], 71]. An inhibition assay was …
+     "Bacterial DNA was found in lung cancer tissues, and *Shigella sonnei* interacted with DC-SIGN on cancer cells and macrophages. This interaction promoted cancer cell migration and metastasis in mice."
+
+  41. Muscularis macrophages controlled by NLRP3 maintain the homeostasis of excitatory neurons
+     Yunhuan Gao; Yi Shi; Ming Wei; Xiaorong Yang; Yang Hao; Haifeng Liu; Yuan Zhang; Lu Zhou; Gang Hu; R...
+     PMC11077366 · PMC · 2024-04-15 · 11 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11077366/
+     Matched: NLRP3 KO mice have increased resident macrophages in colon tissues · cat /papers/PMC11077366/content.lines --lines 62
+     │ Since gut neurons are regulated by CASPASE-11 or NLRP6 through pyroptosis [5], [34], it is
+     │ also possible for these neurons to be regulated by another inflammasome NLRP3. However,
+     │ NLRP3 was not detected in the MP neurons of the mouse colon tissues, indicating that
+     │ pyroptosis of gut neurons is not regulated by NLRP3 (Supplementary Fig. S2). Intestinal
+     │ resident macrophage populations play a role in the normal function of enteric neurons [5],
+     │ [11], [15]. The MMs, located within and surrounding the MP, were shown to regulate the
+     │ activity of enteric neurons and peristalsis [15], [46]. Furthermore, the number of neurons
+     │ was related to the resident macrophages, which could protect neurons [5], …
+     "NLRP3 controls muscularis macrophages (MMs) that protect excitatory gut neurons. MMs, regulated by NLRP3 and influenced by microbiota metabolites, are crucial for maintaining excitatory neuron homeostasis."
+
+  42. Enhanced mucosal mitochondrial function corrects dysbiosis and OXPHOS metabolism in IBD
+     Neeraj Kapur *, M. Ashfaqul Alam, Syed Adeel Hassan, Parth H Patel, Lesley A. Wempe, Sarayu Bhogoju,...
+     bio_f8d96e7070bc · bioRxiv · 2024-03-14 · 6 citations (all versions)
+     Published (2024): https://doi.org/10.1101/2024.03.14.584471
+     Matched: DISCUSSION · cat /papers/bio_f8d96e7070bc/content.lines --lines 83
+     │ Intestinal inflammation also significantly alters amino acid metabolism that correlates with
+     │ disease severity 37 . Additionally, metagenomic analysis of gut microbiome of IBD patients
+     │ have revealed downregulation of amino acid (AA) biosynthesis genes and upregulation of AA
+     │ transporter genes, suggesting reduced AA synthesis and concomitant increase in AA
+     │ utilization by dysbiotic microbiota in inflamed gut 52 , 53 . Besides, inflammation also
+     │ induces differential utilization of host immune cells. For instance, certain AAs modulate
+     │ inflammation by reciprocal regulation of macrophages and some are critical in promoting
+     │ T-cell proliferation and differentiation 54 , 55 . Thus, inflammation may …
+     "A novel compound, AuPhos, was studied for its effects on mitochondrial function and gut microbiome in inflammatory bowel disease models. AuPhos enhances mucosal mitochondrial respiration, corrects dysbiosis, and attenuates colitis."
+
+[232ms, saved to s_95e7e3af]
+
+💡 Extract data across these results with: map --from s_95e7e3af "your question"
+[232ms, saved to s_95e7e3af]  [repo: mva-lof-molecular]
+

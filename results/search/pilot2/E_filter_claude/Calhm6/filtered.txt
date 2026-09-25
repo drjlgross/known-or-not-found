@@ -1,0 +1,6 @@
+$ src/pc.sh results s_8f938fdb
+# exit 0
+  Query: filter 'Does this paper describe the expression of the gene Calhm6 changing in response to LPS or bacterial infection?' --from s_8f938fdb
+Found 0 papers  [s_8f938fdb]
+
+

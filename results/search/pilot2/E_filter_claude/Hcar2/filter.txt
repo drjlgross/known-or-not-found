@@ -1,0 +1,7 @@
+$ src/pc.sh filter --from s_ae13a671 Does this paper describe the expression of the gene Hcar2 changing in response to LPS or bacterial infection?
+# exit 0
+Filtered: 25 → 0 papers (25 removed as irrelevant) in 501ms
+  → 0 papers after filtering
+Results ID: s_ae13a671 (updated in place)
+[542ms, saved to s_ae13a671]  [repo: mva-lof-molecular]
+

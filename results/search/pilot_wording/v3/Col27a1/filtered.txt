@@ -1,0 +1,5 @@
+$ src/pc.sh results s_392a0a96
+# exit 0
+  Query: filter --from s_392a0a96 'Does this paper show that LPS or bacterial infection changes the level (mRNA or protein) of Col27a1, including when it is referred to by an alias or its human ortholog name?'
+Found 0 papers  [s_392a0a96]
+

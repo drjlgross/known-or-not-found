@@ -1,0 +1,159 @@
+Map results  [m_ede45214]
+Query: Does this paper describe the expression of the gene Slc7a2 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).
+
+--- [1] [success] Species-Specific Transcriptional Regulation of Genes Involved in Nitric Oxide Production and Arginine Metabolism in Macrophages ---
+doc_id: PMC6245571
+{
+  "answer": "yes",
+  "evidence": "In rats, as in mice (19), LPS greatly increased (18-fold) expression of the cationic amino acid transporter, Slc7a2, whereas goats were the only large animal species in which SLC7A2 mRNA was detectable (TPM 6) and regulated to any degree by LPS..."
+}
+
+--- [2] [success] FOCIS abstract supplement ---
+doc_id: PMC7128890
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [3] [success] The NF-κB-SLC7A11 axis regulates ferroptosis sensitivity in inflammatory macrophages ---
+doc_id: PMC12268560
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [4] [success] Characterisation of genes differentially expressed in macrophages by virulent and attenuated Mycobacterium tuberculosisthrough RNA-Seq analysis ---
+doc_id: PMC6411972
+{"answer": "yes", "evidence": "To investigate global gene expression patterns and induction of the innate immune response in BMDMs infected with Rv or Ra, we performed genome-wide expression analysis using RNA-Seq."}
+
+--- [5] [success] Amino acid transporters within the solute carrier superfamily: Underappreciated proteins and novel opportunities for cancer therapy ---
+doc_id: PMC11112377
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [6] [success] Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC7053374
+{"answer": "no", "evidence": ""}
+
+--- [7] [success] Exosomal miR-148a-3p from LPS-Activated Macrophages Promotes M1 Polarization and Ferroptosis-Related Characteristics of Recipient Macrophages by Reducing SLC7A11 ---
+doc_id: PMC13199726
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [8] [success] Cationic Amino Acid Transporter 2 Enhances Innate Immunity during Helicobacter pylori Infection ---
+doc_id: PMC3237590
+{
+  "answer": "yes",
+  "evidence": "We have demonstrated that cationic amino acid transporter 2 (CAT2) expression is upregulated in macrophages in vitro, and in mouse and human gastritis tissues, with co-localization to gastric macrophages by immunostaining; we also identified CAT2 as the protein responsible for the uptake of l-arginine (L-Arg) into macrophages [4]."
+}
+
+--- [9] [success] l-Arginine Uptake by Cationic Amino Acid Transporter Promotes Intra-Macrophage Survival of Leishmania donovani by Enhancing Arginase-Mediated Polyamine Synthesis ---
+doc_id: PMC5526900
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [10] [success] “Of Mice and Men”: Arginine Metabolism in Macrophages ---
+doc_id: PMC4188127
+{
+  "answer": "yes",
+  "evidence": "Arginine transport via cationic amino acid transporter 2 plays a critical regulatory role in classical or alternative activation of macrophages (L110)"
+}
+
+--- [11] [success] Sulfur metabolic response in macrophage limits excessive inflammatory response by creating a negative feedback loop ---
+doc_id: PMC10412850
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [12] [success] Slc7a11‐Mediated Cystine/Glutamate Antiport Reprograms Macrophage Polarization and Ameliorates Atherosclerosis ---
+doc_id: PMC12950507
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [13] [success] In Lysinuric Protein Intolerance system y+L activity is defective in monocytes and in GM-CSF-differentiated macrophages ---
+doc_id: PMC2999609
+{"answer":"no","evidence":""}
+
+--- [14] [success] A new metabolomic assay to examine inflammation and redox pathways following LPS challenge ---
+doc_id: PMC3507808
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [15] [success] Frontline Science: LPS‐inducible SLC30A1 drives human macrophage‐mediated zinc toxicity against intracellular Escherichia coli ---
+doc_id: PMC7891337
+{"answer": "no", "evidence": ""}
+
+--- [16] [success] Species-Specificity of Transcriptional Regulation and the Response to Lipopolysaccharide in Mammalian Macrophages ---
+doc_id: PMC7386301
+{
+  "answer": "yes",
+  "evidence": "As noted previously (Young et al., 2018) the sheep BMDM did not show induction of NOS2 mRNA, nor of the inducible arginine transporter SLC7A2 at any time point."
+}
+
+--- [17] [success] Cationic Amino Acid Transporter-2 Regulates Immunity by Modulating Arginase Activity ---
+doc_id: PMC2265428
+{"answer": "yes", "evidence": "Several pro-inflammatory mediators including LPS can regulate the expression of CAT2; thus, it likely functions as the key L-arginine transporter during inflammatory responses."}
+
+--- [18] [success] Downregulation of SLC7A7 Triggers an Inflammatory Phenotype in Human Macrophages and Airway Epithelial Cells ---
+doc_id: PMC5868322
+{"answer": "no", "evidence": ""}
+
+--- [19] [success] Single-cell to pre-clinical evaluation of Trem2, Folr2, and Slc7a7 as macrophage-associated biomarkers for atherosclerosis ---
+doc_id: PMC12713647
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [20] [success] Solute Carrier Family 37 Member 2 (SLC37A2) Negatively Regulates Murine Macrophage Inflammation by Controlling Glycolysis ---
+doc_id: PMC7232099
+{
+  "answer": "yes",
+  "evidence": "Toll-like receptor (TLR) 4 stimulation by lipopolysaccharide (LPS) rapidly increases macrophage SLC37A2 protein expression."
+}
+
+--- [21] [success] Role of SLC7A5 in Metabolic Reprogramming of Human Monocyte/Macrophage Immune Responses ---
+doc_id: PMC5788887
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [22] [success] Hematopoietic Cell-Specific SLC37A2 Deficiency Accelerates Atherosclerosis in LDL Receptor-Deficient Mice ---
+doc_id: PMC8702732
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [23] [success] Loss of Solute Carrier Family 7 Member 2 Exacerbates Inflammation-Associated Colon Tumorigenesis ---
+doc_id: PMC6377304
+{
+  "answer": "yes",
+  "evidence": "Slc7a2 mRNA levels were not detectable in control or AOM-DSS treated Slc7a2−/− mice (Supplementary Figure 1)."
+}
+
+--- [24] [success] Expression and Regulation of the Proton-Coupled Oligopeptide Transporter PhT2 by LPS in Macrophages and Mouse Spleen ---
+doc_id: PMC4051248
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [25] [success] Aberrant Expression of SLC7A11 Impairs the Antimicrobial Activities of Macrophages in Staphylococcus Aureus Osteomyelitis in Mice ---
+doc_id: PMC11077379
+{
+  "answer": "no",
+  "evidence": ""
+}

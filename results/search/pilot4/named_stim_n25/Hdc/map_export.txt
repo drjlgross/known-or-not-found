@@ -1,0 +1,4 @@
+$ src/pc.sh results m_3791d8ee --save /Users/julia/known-or-not-found/results/search/pilot4/named_stim_n25/Hdc/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/pilot4/named_stim_n25/Hdc/map_answers.txt
+

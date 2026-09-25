@@ -1,0 +1,21 @@
+{
+  "gene": "Lipg",
+  "query": "Lipg LPS macrophage",
+  "also": [
+    "endothelial lipase LPS macrophage"
+  ],
+  "mode": "map",
+  "question": "Does this paper describe the expression of the gene Lipg (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).",
+  "date": "2026-09-24T18:05:15Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_1f54e3a9",
+  "judge_id": "m_617091b8",
+  "parent_n": 25,
+  "yes": 0,
+  "no": 25,
+  "paper_errors": 0,
+  "seconds_search": 4.8,
+  "seconds_judge": 23.2,
+  "seconds_total": 28.0
+}

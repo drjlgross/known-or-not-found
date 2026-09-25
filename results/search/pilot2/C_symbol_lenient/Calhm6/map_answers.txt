@@ -1,0 +1,150 @@
+Map results  [m_9766d52d]
+Query: Does this paper describe the expression of the gene Calhm6 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).
+
+--- [1] [success] Calhm6 Governs Macrophage Polarization Through Chp1‐Camk4‐Creb1 Axis and Ectosomal Delivery in Inflammatory Responses ---
+doc_id: PMC12766987
+{"answer": "yes", "evidence": "Additionally, in mouse BMDMs treated with Escherichia coli, Staphylococcus aureus, Candida albicans, or LPS, Calhm6 expression was significantly elevated after 24 h (Figure S1H, Supporting Information)."}
+
+--- [2] [success] HDAC6 Deacetylase Activity Is Critical for Lipopolysaccharide-Induced Activation of Macrophages ---
+doc_id: PMC4199742
+{"answer": "no", "evidence": ""}
+
+--- [3] [success] Macrophages release neuraminidase and cleaved calreticulin for programmed cell removal ---
+doc_id: PMC12130849
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [4] [success] The orientation of choroidal macrophage polarization significantly influences the development of myopia in murine models ---
+doc_id: bio_b06931d16f63
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [5] [success] Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review ---
+doc_id: PMC13372918
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [6] [success] Induction of unique macrophage subset by simultaneous stimulation with LPS and IL-4 ---
+doc_id: PMC10167635
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [7] [success] Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC6543837
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [8] [success] A Global Picture of Molecular Changes Associated to LPS Treatment in THP-1 Derived Human Macrophages by Fourier Transform Infrared Microspectroscopy ---
+doc_id: PMC9656053
+{"answer": "no", "evidence": ""}
+
+--- [9] [success] Transcriptional profiling of the LPS induced NF-κB response in macrophages ---
+doc_id: PMC1781469
+{"answer": "no", "evidence": ""}
+
+--- [10] [success] Ionized calcium‐binding adaptor molecule 1 positive macrophages and HO‐1 up‐regulation in intestinal muscularis resident macrophages ---
+doc_id: PMC5484384
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [11] [success] Mice Genetically Hyporesponsive to Lipopolysaccharide (LPS) Exhibit a Defect in Endocytic Uptake of LPS and Ceramide ---
+doc_id: PMC2196359
+{"answer": "no", "evidence": ""}
+
+--- [12] [success] Motif prediction to distinguish LPS-stimulated pro-inflammatory vs. antibacterial macrophage genes ---
+doc_id: PMC2949756
+{"answer": "no", "evidence": ""}
+
+--- [13] [success] Lipopolysaccharide uptake is augmented in lipopolysaccharide‐tolerant mouse macrophage‐like cells via increased CD14 expression ---
+doc_id: PMC13398632
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [14] [success] Translation control of TAK1 mRNA by hnRNP K modulates LPS-induced macrophage activation ---
+doc_id: PMC4024643
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [15] [success] The ion channel CALHM6 controls bacterial infection‐induced cellular cross‐talk at the immunological synapse ---
+doc_id: PMC10068325
+{
+  "answer": "yes",
+  "evidence": "Both LPS and IFN-\u0393 upregulated CALHM6, with high and sustained levels of CALHM6 expression induced by IFN-\u0393, while LPS‐induced expression was lower and transient over 48 h (Fig 1D)."
+}
+
+--- [16] [success] LPS Tolerance Inhibits Cellular Respiration and Induces Global Changes in the Macrophage Secretome ---
+doc_id: PMC7918892
+{"answer": "no", "evidence": ""}
+
+--- [17] [success] LPS inhibits TRIM65 expression in macrophages and C57BL/6J mouse by activating the ERK1/2 signaling pathway ---
+doc_id: PMC10068263
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [18] [success] LPS adsorption and inflammation alleviation by polymyxin B-modified liposomes for atherosclerosis treatment ---
+doc_id: PMC10501887
+{"answer": "no", "evidence": ""}
+
+--- [19] [success] Mathematical modelling of activation-induced heterogeneity in TNF, IL6, NOS2, and IL1β expression reveals cell state transitions underpinning macrophage responses to LPS ---
+doc_id: PMC9411976
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [20] [success] Free Fatty Acids and LPS Synergistically Promote Macrophage M1 Polarization and Insulin Resistance Via FTO-Mediated CSF1 Degradation ---
+doc_id: PMC12847160
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [21] [success] Alleviative Effect of Geniposide on Lipopolysaccharide-Stimulated Macrophages via Calcium Pathway ---
+doc_id: PMC10855527
+{"answer": "no", "evidence": ""}
+
+--- [22] [success] Laminarin Alleviates Acute Lung Injury Induced by LPS Through Inhibition of M1 Macrophage Polarisation ---
+doc_id: PMC11882389
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [23] [success] miR-106a Targets Anoctamin 1 (ANO1) to Regulate Lipopolysaccharide (LPS)-Induced Inflammatory Response in Macrophages ---
+doc_id: PMC7556292
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [24] [success] Macrophage–Bacteria Interactions—A Lipid-Centric Relationship ---
+doc_id: PMC5742358
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [25] [success] RNA-Binding Proteins in the Control of LPS-Induced Macrophage Response ---
+doc_id: PMC6369361
+{
+  "answer": "no",
+  "evidence": ""
+}

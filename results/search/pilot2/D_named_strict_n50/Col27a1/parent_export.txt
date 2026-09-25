@@ -1,0 +1,4 @@
+$ src/pc.sh results s_a1175599 --save /Users/julia/known-or-not-found/results/search/pilot2/D_named_strict_n50/Col27a1/parent.csv
+# exit 0
+  ✓ Saved 50 papers to /Users/julia/known-or-not-found/results/search/pilot2/D_named_strict_n50/Col27a1/parent.csv
+

@@ -1,0 +1,6 @@
+$ src/pc.sh results s_ae13a671
+# exit 0
+  Query: filter 'Does this paper describe the expression of the gene Hcar2 changing in response to LPS or bacterial infection?' --from s_ae13a671
+Found 0 papers  [s_ae13a671]
+
+

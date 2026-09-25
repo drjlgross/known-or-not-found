@@ -1,0 +1,156 @@
+Map results  [m_0cd6d622]
+Query: Does this paper describe the expression of the gene Tarm1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).
+
+--- [1] [success] Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyromonas endodontalis, Induces Macrophage M1 Profile ---
+doc_id: PMC9456100
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [2] [success] Progranulin inhibits LPS-induced macrophage M1 polarization via NF-кB and MAPK pathways ---
+doc_id: PMC7275413
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [3] [success] The orientation of choroidal macrophage polarization significantly influences the development of myopia in murine models ---
+doc_id: bio_b06931d16f63
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [4] [success] Free Fatty Acids and LPS Synergistically Promote Macrophage M1 Polarization and Insulin Resistance Via FTO-Mediated CSF1 Degradation ---
+doc_id: PMC12847160
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [5] [success] Gut microbiota and tumor-associated macrophages: potential in tumor diagnosis and treatment ---
+doc_id: PMC10653702
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [6] [success] Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review ---
+doc_id: PMC13372918
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [7] [success] Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC6543837
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [8] [success] Gut-derived lipopolysaccharide augments adipose macrophage accumulation but is not essential for impaired glucose or insulin tolerance in mice ---
+doc_id: PMC3505865
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [9] [success] A Global Picture of Molecular Changes Associated to LPS Treatment in THP-1 Derived Human Macrophages by Fourier Transform Infrared Microspectroscopy ---
+doc_id: PMC9656053
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [10] [success] Targeting the LPS-STING axis: neomycin restores STING-mediated anti-tumor immune suppression and inhibits tumor growth ---
+doc_id: PMC12605410
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [11] [success] Tropomodulin1 exacerbates inflammatory response in macrophages by negatively regulating LPS-induced TLR4 endocytosis ---
+doc_id: PMC11401823
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [12] [success] Translation control of TAK1 mRNA by hnRNP K modulates LPS-induced macrophage activation ---
+doc_id: PMC4024643
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [13] [success] Transcriptional profiling of the LPS induced NF-κB response in macrophages ---
+doc_id: PMC1781469
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [14] [success] Pharmacological activation of rev-erbα suppresses LPS-induced macrophage M1 polarization and prevents pregnancy loss ---
+doc_id: PMC8369701
+{"answer": "no", "evidence": ""}
+
+--- [15] [success] Motif prediction to distinguish LPS-stimulated pro-inflammatory vs. antibacterial macrophage genes ---
+doc_id: PMC2949756
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [16] [success] Oral and transdermal administration of lipopolysaccharide safely enhances self-healing ability through the macrophage network ---
+doc_id: PMC11994614
+{"answer": "no", "evidence": ""}
+
+--- [17] [success] LPS/TLR4-activated M1-polarized macrophage-derived exosomes enhance IBV vaccine efficacy in chickens ---
+doc_id: PMC12548463
+{"answer": "no", "evidence": ""}
+
+--- [18] [success] BushenHuoxue decoction suppresses M1 macrophage polarization and prevents LPS induced inflammatory bone loss by activating AMPK pathway ---
+doc_id: PMC10160506
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [19] [success] Lipopolysaccharide preconditioning augments the antibacterial activity of renal macrophages and ameliorates acute kidney injury caused by Staphylococcus aureus bacteremia in mice ---
+doc_id: PMC12035103
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [20] [success] Laminarin Alleviates Acute Lung Injury Induced by LPS Through Inhibition of M1 Macrophage Polarisation ---
+doc_id: PMC11882389
+{"answer": "no", "evidence": ""}
+
+--- [21] [success] Btk Regulates Macrophage Polarization in Response to Lipopolysaccharide ---
+doc_id: PMC3897530
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [22] [success] CD163 protein inhibits lipopolysaccharide-induced macrophage transformation from M2 to M1 involved in disruption of the TWEAK–Fn14 interaction ---
+doc_id: PMC10750081
+{"answer": "no", "evidence": ""}
+
+--- [23] [success] Ultra-purification of Lipopolysaccharides reveals species-specific signalling bias of TLR4: importance in macrophage function ---
+doc_id: PMC7809447
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [24] [success] Tuberous Sclerosis Complex 1 Deficiency in Macrophages Promotes Unclassical Inflammatory Response to Lipopolysaccharide In Vitro and Dextran Sodium Sulfate-Induced Colitis in Mice ---
+doc_id: PMC9662278
+{"answer": "no", "evidence": ""}
+
+--- [25] [success] LPS Tolerance Inhibits Cellular Respiration and Induces Global Changes in the Macrophage Secretome ---
+doc_id: PMC7918892
+{"answer": "no", "evidence": ""}

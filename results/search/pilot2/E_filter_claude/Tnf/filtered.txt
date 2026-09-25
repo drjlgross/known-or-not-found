@@ -1,0 +1,68 @@
+$ src/pc.sh results s_1f79b477
+# exit 0
+  Query: filter 'Does this paper describe the expression of the gene Tnf changing in response to LPS or bacterial infection?' --from s_1f79b477
+Found 11 papers  [s_1f79b477]
+
+  1. Antagonism of the histamine H4 receptor reduces LPS-induced TNF production in vivo
+     Jeffery M. Cowden; Fuqu Yu; Mamatha Challapalli; Jing-Feng Huang; Sunhwa Kim; Wai-Ping Fung-Leung; J...
+     PMC3654183 · Inflammation Research · 2013-03-27
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3654183/
+     "Histamine H4 receptor antagonists and deficiency reduced LPS-induced TNF production in mice. This suggests H4 receptor activation contributes to TLR-mediated inflammation in vivo, particularly in the liver."
+
+  2. Macrophage priming and lipopolysaccharide-triggered release of tumor necrosis factor alpha during graft-versus-host disease
+     PMC2119110 · pmc · 1992-02-01
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2119110/
+     "This study examined macrophage activation and TNF-alpha release during graft-versus-host disease (GVHD). Macrophages are primed during GVHD, leading to lethal TNF-alpha release upon encountering endogenous lipopolysac..."
+
+  3. Extinction of the tumor necrosis factor locus, and of genes encoding the lipopolysaccharide signaling pathway
+     PMC2190998 · pmc · 1993-05-01
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2190998/
+     "The TNF gene and LPS signaling pathway were studied in macrophage-fibroblast hybrids. Fusion activated a system that silenced TNF and LPS signaling, potentially during cell differentiation."
+
+  4. LPS‐stimulated NF‐κB p65 dynamic response marks the initiation of TNF expression and transition to IL‐10 expression in RAW 264.7 macrophages
+     Stuart Hobbs; Marinaliz Reynoso; Alyssa V. Geddis; Alexander Y. Mitrophanov; Ronald W. Matheny
+     PMC6234144 · Physiological Reports · 2018-11-13
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6234144/
+     "LPS stimulation kinetics of NF-κB, TNF-α, and IL-10 were studied in macrophages. NF-κB activation precedes TNF-α expression, which then transitions to IL-10 expression."
+
+  5. AS-703026 Inhibits LPS-Induced TNFα Production through MEK/ERK Dependent and Independent Mechanisms
+     Ping Li; Yonghong Wu; Manxiang Li; Xiaojuan Qiu; Xiaoyan Bai; Xiaojing Zhao
+     PMC4575053 · pmc · 2015-09-18
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4575053/
+     "AS-703026 was studied for its effect on LPS-induced TNFα production in macrophages and human cells. The compound inhibits TNFα production through MEK/ERK dependent and independent pathways, including NFκB inhibition."
+
+  6. Lipopolysaccharide regulation of antiinflammatory tristetraprolin family and proinflammatory gene expression in mouse macrophages
+     Heping Cao
+     PMC10949775 · BMC Research Notes · 2024-03-19
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10949775/
+     "Lipopolysaccharide (LPS) was studied for its effects on tristetraprolin (TTP) family and proinflammatory gene expression in mouse macrophages. LPS increased TTP, TNF, and COX2 mRNA but had minimal impact on other TTP ..."
+
+  7. Kappa B-type enhancers are involved in lipopolysaccharide-mediated transcriptional activation of the tumor necrosis factor alpha gene in primary macrophages
+     PMC2187654 · The Journal of Experimental Medicine · 1990-01-01
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2187654/
+     "Kappa B-type enhancers were studied for their role in LPS-mediated TNF-alpha gene activation in macrophages. These enhancers, along with factors interacting with the Y box, are crucial for LPS-induced TNF-alpha gene t..."
+
+  8. Signaling pathways involved in LPS induced TNFalpha production in human adipocytes
+     Laurence Hoareau; Karima Bencharif; Philippe Rondeau; Ravi Murumalla; Palaniyandi Ravanan; Frank Tal...
+     PMC2819999 · Journal of Inflammation (London, England) · 2010-01-08
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2819999/
+     "Human adipocytes were treated with LPS to study TNFalpha production. TNFalpha secretion is primarily mediated by NFkappaB and p38 MAP Kinase pathways, with PI3Kinase involved in the initial step."
+
+  9. Lipopolysaccharide-mediated signal transduction: Stabilization of TNF-alpha mRNA contributes to increased lipopolysaccharide-stimulated TNF-alpha production by Kupffer cells after chronic ethanol feeding
+     Raj Kishore; Megan R McMullen; Enzo Cocuzzi; Laura E Nagy
+     PMC2410250 · pmc · 2004-01-14
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2410250/
+
+  10. CD14 Mediates Binding of High Doses of LPS but Is Dispensable for TNF-α Production
+     Kinga Borzęcka; Agnieszka Płóciennikowska; Hanna Björkelund; Andrzej Sobota; Katarzyna Kwiatkowska
+     PMC3892557 · Mediators of Inflammation · 2013-12-30
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3892557/
+     "CD14's role in LPS binding and TNF-α production was analyzed. CD14 is crucial for low-dose LPS binding and TNF-α production, but its role diminishes at higher LPS doses."
+
+  11. Lead Increases Lipopolysaccharide-Induced Liver Injury through Tumor Necrosis Factor-α Overexpression by Monocytes/Macrophages: Role of Protein Kinase C and p42/44 Mitogen-Activated Protein Kinase
+     Yu-Jung Cheng; Bei-Chang Yang; Ming-Yie Liu
+     PMC1440772 · pmc · 2005-11-10
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1440772/
+     "Lead exposure amplifies lipopolysaccharide-induced liver injury by increasing TNF-α production in monocytes/macrophages. This occurs via the PKC/MAPK pathway, leading to excessive TNF-α and subsequent liver damage."
+
+

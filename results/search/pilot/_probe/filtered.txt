@@ -1,0 +1,72 @@
+  Query: filter --from s_840cde4a 'Does this paper describe this gene'"'"'s expression changing in response to LPS or bacterial infection? Gene: Tnf (TNF, TNF-alpha)'
+Found 12 papers  [s_840cde4a]
+
+  1. Macrophage priming and lipopolysaccharide-triggered release of tumor necrosis factor alpha during graft-versus-host disease
+     PMC2119110 · pmc · 1992-02-01
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2119110/
+     "This study examined macrophage activation and TNF-alpha release during graft-versus-host disease (GVHD). Macrophages are primed during GVHD, leading to lethal TNF-alpha release upon encountering endogenous lipopolysac..."
+
+  2. Kappa B-type enhancers are involved in lipopolysaccharide-mediated transcriptional activation of the tumor necrosis factor alpha gene in primary macrophages
+     PMC2187654 · pmc · 1990-01-01
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2187654/
+     "Kappa B-type enhancers were studied for their role in LPS-mediated TNF-alpha gene activation in macrophages. These enhancers, along with factors interacting with the Y box, are crucial for LPS-induced TNF-alpha gene t..."
+
+  3. Genome-wide siRNA screen of genes regulating the LPS-induced TNF-α response in human macrophages
+     Jing Sun; Samuel Katz; Bhaskar Dutta; Ze Wang; Iain D.C. Fraser
+     PMC5332009 · pmc · 2017-03-01
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5332009/
+     "A genome-wide siRNA screen identified genes regulating the LPS-induced TNF-α response in human macrophages. Novel hits broadly affect innate inflammatory responses to microbial stimuli."
+
+  4. Genome-wide siRNA screen of genes regulating the LPS-induced NF-κB and TNF-α responses in mouse macrophages
+     Ning Li; Samuel Katz; Bhaskar Dutta; Zachary L. Benet; Jing Sun; Iain D.C. Fraser
+     PMC5332015 · pmc · 2017-03-01
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5332015/
+     "A genome-wide siRNA screen identified genes regulating LPS-induced NF-κB and TNF-α responses in mouse macrophages. This study provides a resource for analyzing gene function in this key inflammatory pathway."
+
+  5. AS-703026 Inhibits LPS-Induced TNFα Production through MEK/ERK Dependent and Independent Mechanisms
+     Ping Li; Yonghong Wu; Manxiang Li; Xiaojuan Qiu; Xiaoyan Bai; Xiaojing Zhao
+     PMC4575053 · pmc · 2015-09-18
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4575053/
+     "AS-703026 was studied for its effect on LPS-induced TNFα production in macrophages and human cells. The compound inhibits TNFα production through MEK/ERK dependent and independent pathways, including NFκB inhibition."
+
+  6. LPS‐stimulated NF‐κB p65 dynamic response marks the initiation of TNF expression and transition to IL‐10 expression in RAW 264.7 macrophages
+     Stuart Hobbs; Marinaliz Reynoso; Alyssa V. Geddis; Alexander Y. Mitrophanov; Ronald W. Matheny
+     PMC6234144 · pmc · 2018-11-13
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6234144/
+     "LPS stimulation kinetics of NF-κB, TNF-α, and IL-10 were studied in macrophages. NF-κB activation precedes TNF-α expression, which then transitions to IL-10 expression."
+
+  7. Lipopolysaccharide regulation of antiinflammatory tristetraprolin family and proinflammatory gene expression in mouse macrophages
+     Heping Cao
+     PMC10949775 · pmc · 2024-03-19
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10949775/
+     "Lipopolysaccharide (LPS) was studied for its effects on tristetraprolin (TTP) family and proinflammatory gene expression in mouse macrophages. LPS increased TTP, TNF, and COX2 mRNA but had minimal impact on other TTP ..."
+
+  8. Extinction of the tumor necrosis factor locus, and of genes encoding the lipopolysaccharide signaling pathway
+     PMC2190998 · pmc · 1993-05-01
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2190998/
+     "The TNF gene and LPS signaling pathway were studied in macrophage-fibroblast hybrids. Fusion activated a system that silenced TNF and LPS signaling, potentially during cell differentiation."
+
+  9. Mathematical modelling of activation-induced heterogeneity in TNF, IL6, NOS2, and IL1β expression reveals cell state transitions underpinning macrophage responses to LPS
+     Shoumit Dey; Dave Boucher; Jon Pitchford; Dimitris Lagos
+     PMC9411976 · pmc · 2022-07-25
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9411976/
+     "Mathematical models explored macrophage states and their responses to LPS. Macrophage hypo-responsiveness to a second LPS challenge is driven by altered transition rates between activation states."
+
+  10. Signaling pathways involved in LPS induced TNFalpha production in human adipocytes
+     Laurence Hoareau; Karima Bencharif; Philippe Rondeau; Ravi Murumalla; Palaniyandi Ravanan; Frank Tal...
+     PMC2819999 · pmc · 2010-01-08
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2819999/
+     "Human adipocytes were treated with LPS to study TNFalpha production. TNFalpha secretion is primarily mediated by NFkappaB and p38 MAP Kinase pathways, with PI3Kinase involved in the initial step."
+
+  11. Minocycline hydrochloride nanoliposomes inhibit the production of TNF-α in LPS-stimulated macrophages
+     D Liu; P S Yang
+     PMC3433324 · pmc · 2012-08-31
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3433324/
+     "Nanoliposomes carrying minocycline hydrochloride were studied for their effects on macrophages. These nanoliposomes significantly inhibited LPS-stimulated TNF-α production more effectively and for longer than minocycl..."
+
+  12. Role of Protein Tyrosine Phosphatase Non-Receptor Type 7 in the Regulation of TNF-α Production in RAW 264.7 Macrophages
+     Huiyun Seo; In-Seon Lee; Jae Eun Park; Sung Goo Park; Do Hee Lee; Byoung Chul Park; Sayeon Cho
+     PMC3827119 · pmc · 2013-11-12
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3827119/
+     "PTPN7's role in regulating TNF-α production in LPS-stimulated macrophages was studied. PTPN7 negatively regulates TNF-α expression and the inflammatory response by inactivating ERK1/2 and p38 MAPKs."
+

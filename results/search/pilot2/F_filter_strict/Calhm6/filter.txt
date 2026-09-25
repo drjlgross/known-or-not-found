@@ -1,0 +1,7 @@
+$ src/pc.sh filter --from s_d6339a20 Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Calhm6 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes in response to LPS or bacterial infection?
+# exit 0
+Filtered: 25 → 0 papers (25 removed as irrelevant) in 492ms
+  → 0 papers after filtering
+Results ID: s_d6339a20 (updated in place)
+[535ms, saved to s_d6339a20]  [repo: mva-lof-molecular]
+

@@ -1,0 +1,15 @@
+{
+  "gene": "Nos2",
+  "query": "Nos2 LPS macrophage",
+  "filter_question": "Does this paper report that Nos2 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) is induced, increased, decreased, or otherwise changed in response to LPS or bacterial infection?",
+  "date": "2026-09-24T17:55:15Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_5c07913a",
+  "parent_n": 25,
+  "yes": 5,
+  "no": 20,
+  "seconds_search": 0.7,
+  "seconds_filter": 1.7,
+  "seconds_total": 2.9
+}

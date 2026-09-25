@@ -1,0 +1,4 @@
+$ src/pc.sh results m_720f369f --save /Users/julia/known-or-not-found/results/search/pilot3/named_strict_n50/Tnfsf15/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/pilot3/named_strict_n50/Tnfsf15/map_answers.txt
+

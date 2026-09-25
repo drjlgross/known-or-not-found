@@ -1,0 +1,4 @@
+Filtered: 25 → 12 papers (13 removed as irrelevant) in 755ms
+  → 12 papers after filtering
+Results ID: s_840cde4a (updated in place)
+[847ms, saved to s_840cde4a]  [repo: mva-lof-molecular]

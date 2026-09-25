@@ -1,0 +1,21 @@
+$ src/pc.sh results s_6ed070d1
+# exit 0
+  Query: filter --from s_6ed070d1 'Does this paper describe the expression of the gene Tnf changing in response to LPS or bacterial infection?'
+Found 3 papers  [s_6ed070d1]
+
+  1. Kappa B-type enhancers are involved in lipopolysaccharide-mediated transcriptional activation of the tumor necrosis factor alpha gene in primary macrophages
+     PMC2187654 · pmc · 1990-01-01
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2187654/
+     "Kappa B-type enhancers were studied for their role in LPS-mediated TNF-alpha gene activation in macrophages. These enhancers, along with factors interacting with the Y box, are crucial for LPS-induced TNF-alpha gene t..."
+
+  2. Lipopolysaccharide regulation of antiinflammatory tristetraprolin family and proinflammatory gene expression in mouse macrophages
+     Heping Cao
+     PMC10949775 · pmc · 2024-03-19
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10949775/
+     "Lipopolysaccharide (LPS) was studied for its effects on tristetraprolin (TTP) family and proinflammatory gene expression in mouse macrophages. LPS increased TTP, TNF, and COX2 mRNA but had minimal impact on other TTP ..."
+
+  3. Extinction of the tumor necrosis factor locus, and of genes encoding the lipopolysaccharide signaling pathway
+     PMC2190998 · pmc · 1993-05-01
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2190998/
+     "The TNF gene and LPS signaling pathway were studied in macrophage-fibroblast hybrids. Fusion activated a system that silenced TNF and LPS signaling, potentially during cell differentiation."
+

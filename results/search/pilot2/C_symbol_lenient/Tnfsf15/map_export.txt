@@ -1,0 +1,4 @@
+$ src/pc.sh results m_f03bfe3f --save /Users/julia/known-or-not-found/results/search/pilot2/C_symbol_lenient/Tnfsf15/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/pilot2/C_symbol_lenient/Tnfsf15/map_answers.txt
+

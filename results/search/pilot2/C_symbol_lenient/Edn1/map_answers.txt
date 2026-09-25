@@ -1,0 +1,159 @@
+Map results  [m_37a3b504]
+Query: Does this paper describe the expression of the gene Edn1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).
+
+--- [1] [success] Correction: Alternatively Activated (M2) Macrophage Phenotype Is Inducible by Endothelin-1 in Cultured Human Macrophages ---
+doc_id: PMC5373621
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [2] [success] The orientation of choroidal macrophage polarization significantly influences the development of myopia in murine models ---
+doc_id: bio_b06931d16f63
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [3] [success] Comparative Study of The Effect of LPS on The Function of BALB/c and C57BL/6 Peritoneal Macrophages ---
+doc_id: PMC3660024
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [4] [success] Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review ---
+doc_id: PMC13372918
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [5] [success] Induction of unique macrophage subset by simultaneous stimulation with LPS and IL-4 ---
+doc_id: PMC10167635
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [6] [success] Motif prediction to distinguish LPS-stimulated pro-inflammatory vs. antibacterial macrophage genes ---
+doc_id: PMC2949756
+{"answer": "no", "evidence": ""}
+
+--- [7] [success] Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC6543837
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [8] [success] Responses of perivascular macrophages to circulating lipopolysaccharides in the subfornical organ with special reference to endotoxin tolerance ---
+doc_id: PMC6375194
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [9] [success] New Model of Macrophage Acquisition of the Lymphatic Endothelial Phenotype ---
+doc_id: PMC3292559
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [10] [success] Lipopolysaccharide from biofilm-forming Pseudomonas aeruginosa PAO1 induces macrophage hyperinflammatory responses ---
+doc_id: PMC8289208
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [11] [success] A Global Picture of Molecular Changes Associated to LPS Treatment in THP-1 Derived Human Macrophages by Fourier Transform Infrared Microspectroscopy ---
+doc_id: PMC9656053
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [12] [success] A polycomb group protein EED epigenetically regulates responses in lipopolysaccharide tolerized macrophages ---
+doc_id: PMC11606203
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [13] [success] LPS Tolerance Inhibits Cellular Respiration and Induces Global Changes in the Macrophage Secretome ---
+doc_id: PMC7918892
+{"answer": "no", "evidence": ""}
+
+--- [14] [success] Exosomal miR-148a-3p from LPS-Activated Macrophages Promotes M1 Polarization and Ferroptosis-Related Characteristics of Recipient Macrophages by Reducing SLC7A11 ---
+doc_id: PMC13199726
+{"answer": "no", "evidence": ""}
+
+--- [15] [success] Mathematical modelling of activation-induced heterogeneity reveals cell state transitions underpinning macrophage responses to LPS ---
+doc_id: bio_206e5a356c66
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [16] [success] Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyromonas endodontalis, Induces Macrophage M1 Profile ---
+doc_id: PMC9456100
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [17] [success] LPS combined with CD47mAb enhances the anti‑osteosarcoma ability of macrophages ---
+doc_id: PMC10091190
+{"answer": "no", "evidence": ""}
+
+--- [18] [success] RETRACTION: Epinephrine Enhances the Response of Macrophages under LPS Stimulation ---
+doc_id: PMC13261286
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [19] [success] A novel role for myeloid endothelin-B receptors in hypertension ---
+doc_id: PMC6396028
+{"answer": "yes", "evidence": "BMDM stimulation with LPS/INF\u0332\u0307g (but not IL-4/IL-13) increased the media concentration of ET-1 at 24 h (see Supplementary material online, Figure S7), an effect that was blocked by phosphoramidon, an inhibitor of endothelin converting enzyme (ECE) which catalyzes the conversion of big ET-1 to the mature peptide."}
+
+--- [20] [success] Progranulin inhibits LPS-induced macrophage M1 polarization via NF-кB and MAPK pathways ---
+doc_id: PMC7275413
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [21] [success] miR-379-5p serves as a biomarker and regulates sepsis-associated acute kidney injury via targeting EDN1 ---
+doc_id: PMC13483658
+{
+  "answer": "yes",
+  "evidence": "EDN1 has been confirmed to be upregulated in renal fibroblasts after LPS attack [34]. This study also found this result."
+}
+
+--- [22] [success] Erlotinib protests against LPS-induced parthanatos through inhibiting macrophage surface TLR4 expression ---
+doc_id: PMC8290014
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [23] [success] Mathematical modelling of activation-induced heterogeneity in TNF, IL6, NOS2, and IL1β expression reveals cell state transitions underpinning macrophage responses to LPS ---
+doc_id: PMC9411976
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [24] [success] Lipopolysaccharide regulation of antiinflammatory tristetraprolin family and proinflammatory gene expression in mouse macrophages ---
+doc_id: PMC10949775
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [25] [success] Nlrp3, Csf3, and Edn1 in Macrophage Response to Saturated Fatty Acids and Modified Low-Density Lipoprotein ---
+doc_id: PMC7779813
+{"answer": "yes", "evidence": "To validate the results of RNA sequencing, the Edn1 mRNA level in macrophages was determined after mmLDL treatment. Macrophages were treated with LPS with or without mmLDL. The relative expression of Edn1 in cells treated with mmLDL and LPS was higher than that in cells treated with LPS alone (Figure 4A)."}

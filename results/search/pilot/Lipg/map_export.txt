@@ -1,0 +1,4 @@
+$ src/pc.sh results m_68762c77 --save /Users/julia/known-or-not-found/results/search/pilot/Lipg/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/pilot/Lipg/map_answers.txt
+

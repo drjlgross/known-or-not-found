@@ -1,0 +1,159 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv --bool --ranking bm25 --full-text -n 500 ("Calhm6" OR "calcium homeostasis modulator family member 6" OR "Fam26f") AND ("LPS" OR "lipopolysaccharide") AND "macrophage"
+# exit 0
+Found 10 papers (of 500 requested)  [s_c0804b41]
+
+  1. Calhm6 Governs Macrophage Polarization Through Chp1‐Camk4‐Creb1 Axis and Ectosomal Delivery in Inflammatory Responses
+     Yanlong Xin; Xiaofan Xiong; Yan Zhang; Siyu Zhang; Shuting Zhang; Yu Yang; Yingxue Liang; Lulu Zang;...
+     PMC12766987 · PMC · 2025-09-26 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12766987/
+     Matched: Ectosomes Carrying Calhm6 Suppress Severe Inflammation in Response to  · cat /papers/PMC12766987/content.lines --lines 22-23
+     │ To investigate the role of extracellular vesicles in modulating inflammatory responses, we
+     │ injected lipopolysaccharide (LPS) into wild‐type mice and collected serum samples at 0, 12,
+     │ 24, and 48 h post‐injection. Exosomes and ectosomes were isolated from the serum using
+     │ ultracentrifugation and subsequently injected into LPS‐challenged mice to evaluate their
+     │ effects on inflammation (Figure 1A). Strikingly, intraperitoneal administration of ectosomes
+     │ isolated at the 24‐h time point significantly improved survival rates in LPS‐treated mice
+     │ (Figure 1B), decreased serum levels of IL‐6 and TNFα (Figure 1C), and mitigated lung injury
+     │ (Figure 1D). To explore the underlying mechanism by which …
+     "Calhm6-bearing ectosomes were studied for their role in macrophage polarization and inflammatory responses. These ectosomes promote anti-inflammatory M2 polarization, while Calhm6 deficiency leads to pro-inflammatory M1 polarization."
+
+  2. The ion channel CALHM6 controls bacterial infection‐induced cellular cross‐talk at the immunological synapse
+     Sara Danielli; Zhongming Ma; Eirini Pantazi; Amrendra Kumar; Benjamin Demarco; Fabian A Fischer; Ush...
+     PMC10068325 · PMC · 2023-03-02 · 27 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10068325/
+     Matched: CALHM6 is recruited to immunological synapses formed by activated macr · cat /papers/PMC10068325/content.lines --lines 47-48
+     │ To determine if the absence of CALHM6 causes changes in macrophages that could explain their
+     │ inability to communicate with NK cells, we performed an unbiased analysis of WT versus
+     │ Calhm6 −/− BMDM transcriptomes, using naïve cells, and cells stimulated for 24 h with
+     │ Poly(I:C) in vitro. Very few differentially expressed genes (DEG) were observed between
+     │ untreated WT and Calhm6 −/− BMDM (Fig 5A), which was expected based on the very low/absent
+     │ CALHM6 expression prior to activation (Fig 1). After Poly(I:C) stimulation, Calhm6 −/− BMDM
+     │ failed to upregulate the expression of several genes (Fig 5B), with enrichment for genes
+     │ associated with synaptic pathways traditionally linked with neuronal …
+     "CALHM6's role in regulating early innate control of Listeria monocytogenes infection was studied in mice. CALHM6 facilitates ATP release at the macrophage-NK cell synapse, controlling NK cell activation kinetics."
+
+  3. Alphavirus replicon particle expressing IL-12 reprograms tumor-associated macrophages and neutrophils and induces anti-tumor immunity
+     Momoko Ishikawa, Dhanya K Nambiar, Jaya Sastri, Forrest Bowling, Keiko Ishimoto, Fumiya Tao, Koyo Ta...
+     bio_d4c826a8748e · bioRxiv · 2025-08-07 · 0 citations (all versions)
+     Published (2025): https://doi.org/10.1101/2025.08.07.666585
+     Matched: In Vitro Macrophage Polarization · cat /papers/bio_d4c826a8748e/content.lines --lines 76-77
+     │ J774 mouse macrophage cell line was treated with recombinant mouse macrophage colony
+     │ stimulating factor (M-CSF, Peprotech) at 50ng/mL. Twenty-four hours later, the media was
+     │ replaced with fresh media containing either recombinant mouse IFN-γ (Peprotech) at 20 ng/mL
+     │ and lipopolysaccharide (LPS, Sigma) at 100ng/mL for M1 polarization, or recombinant mouse
+     │ IL-4 (Peprotech) at 20ng/mL for M2 polarization. Polarization was confirmed by gene
+     │ expression analysis by qPCR, using gene-specific primers for mouse Il1b , Il6 , Arg1 ,
+     │ Tgfb2, and Vegfa . Primer sequences are listed in Extended Data Table 5 . THP-1 human
+     │ monocyte cell line was treated with phorbol 12-myristate 13-acetate (PMA, …
+     "A novel alphavirus replicon particle expressing IL-12 was injected into tumors to reprogram immunosuppressive myeloid cells. This treatment reprogrammed macrophages and neutrophils, induced anti-tumor immunity, and significantly reduced tumor growth and metastasis."
+
+  4. Global characterization of macrophage polarization mechanisms and identification of M2-type polarization inhibitors
+     Lizhi He; Jhih-Hua Jhong; Qi Chen; Kai-Yao Huang; Karin Strittmatter; Johannes Kreuzer; Michael DeRa...
+     PMC8783961 · PMC · 2021-11-16 · 323 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8783961/
+     Matched: Global quantitative proteomics of fully polarized M1- versus M2-type m · cat /papers/PMC8783961/content.lines --lines 19-20
+     │ Macrophages derived from the human monocytic cell line THP-1 are a well-established system
+     │ to assess macrophage polarization mechanisms. Treatment of THP-1 cells with phorbol
+     │ myristate acetate (PMA) for 24 h results in differentiation into macrophages (M0) that
+     │ polarize with subsequent treatment with IL-4 into M2-type macrophages, whereas treatment
+     │ with IFN-γ/LPS leads to M1-type macrophages (Figure S1A), which allows us to examine the
+     │ opposite polar ends of this spectrum with uniform cell populations. We aimed to identify
+     │ mechanisms that drive these opposite polarization states in these macrophages and
+     │ subsequently validate key findings also in primary macrophages. We chose 4 days of …
+     "This study globally characterized macrophage polarization using multi-omics data. MEK and HDAC inhibitors were identified as selective M2-type polarization inhibitors, with MEK signaling shown to be required for M2 polarization."
+
+  5. Getting everyone to agree on gene signatures for murine macrophage polarization  in vitro
+     Giorgia Colombo, Emanuela Pessolano, Maria Talmon, Armando A. Genazzani, Paolo Kunderfranco *
+     PMC10852255 · PMC · 2024-02-08 · 12 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10852255/
+     Matched: 3.1 Unravelling the expression signatures of M1 and M2 macrophages · cat /papers/PMC10852255/content.lines --lines 70-112
+     │ Fig 2: Interpolation of the RRA analyses. Four-set Venn diagram analysis of the
+     │ statistically significant (p<0.05) genes emerging from the individual RRA analyses performed
+     │ with Jvenn [29]. Table 2: Genes with a RRA p<10−7 in the LPS, IFNγ, LPS+IFNγ datasets not
+     │ present in the IL-4 dataset. | avgFC (IFNγ) | avgFC (LPS) | avgFC (LPS+IFNγ) Irf1 | 4.7 ±
+     │ 0.3 | 2.2 ± 0.6 | 3.7 ± 0.7 Gbp5 | 7.7 ± 0.4 | 3.7 ± 0.9 | 8.4 ± 1.1 Batf2 | 6.2 ± 0.3 | 3.3
+     │ ± 0.7 | 5.1 ± 0.9 Gbp2 | 7.6 ± 0.8 | 4.1 ± 0.8 | 7.4 ± 1.0 Irgm1 | 4.0 ± 0.4 | 1.9 ± 0.5 |
+     │ 3.7 ± 0.6 Igtp | 4.8 ± 0.5 | 6.0 ± 0.9 | 4.5 ± 0.6 Gbp3 | 5.6 ± 0.5 | 2.5 ± 0.8 | 5.9 ± 0.9
+     │ Nampt | 2.8 ± 0.2 | 1.6 ± 0.3 | 2.6 ± 0.4 Serpina3g | 10.8 ± 1.1 | 4.3 …
+     "This study analyzed RNA-Seq datasets to identify gene signatures for murine macrophage polarization. A consolidated list of M1 and M2 differentially expressed genes was determined, providing a robust profile for these cell types."
+
+  6. Single-Cell RNA Sequencing Identifies Intra-Graft Population Heterogeneity in Acute Heart Allograft Rejection in Mouse
+     Yunhua Tang; Jiali Wang; Yixi Zhang; Jun Li; Maogen Chen; Yifang Gao; Meiqin Dai; Shengjie Lin; Xiao...
+     PMC8866760 · PMC · 2022-02-10 · 18 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8866760/
+     Matched: Discussion · cat /papers/PMC8866760/content.lines --lines 63-64
+     │ This study provides a comprehensive single-cell atlas of gene expression involved in acute
+     │ rejection using the classical mouse heterotopic heart transplant model. Consistent with
+     │ previous studies, we confirmed activation and expansion of T cells and NK cells. Moreover,
+     │ among the five subsets of macrophages we identified, infiltrating macrophages (m3 and m4),
+     │ rather than resident macrophages (m1 and m2), were associated with graft rejection.
+     │ Interestingly, metabolic pathway analysis showed that the m4 cluster was in an inactive
+     │ state. Our results showed m3 and m4 cluster expressed pro-inflammatory chemokines and
+     │ cytokines Cxcl10 and Tnf, two potent M1 macrophage activation markers. Moreover, …
+     "Single-cell RNA sequencing analyzed infiltrating cells in mouse heart allograft rejection. Specific macrophage and endothelial cell populations were identified as mediators of rejection, with Ubiquitin D showing potential as a predictive biomarker."
+
+  7. A potent myeloid response is rapidly activated in the lungs of premature Rhesus macaques exposed to intra-uterine inflammation
+     Courtney M. Jackson, Martin Demmert, Shibabrata Mukherjee, Travis Isaacs, Jerilyn Gray, Paranthaman ...
+     bio_b32e7c486cff · bioRxiv · 2021-05-28 · 10 citations (all versions)
+     Published (2022): https://doi.org/10.1038/s41385-022-00495-x
+     Preprint: https://doi.org/10.1101/2021.05.28.444219
+     Matched: Acknowledgments · cat /papers/bio_b32e7c486cff/content.lines --lines 188-192
+     │ **Interstitial macrophages:** Genes shown are C1QOC, APOE, C1QB, CALHM6, CCL8, RARRES3,
+     │ CCL2, CTSC, IFIT2, and APOL2. Fig. S5. Differentially expressed genes in fetal lung
+     │ monocyte/macrophage populations. Feature plots of the top 10 conserved genes that were not
+     │ changed between treatment groups in the inflammatory monocyte, alveolar macrophage, and
+     │ interstitial macrophage populations in the fetal lung of IA LPS exposed fetuses. Fig. S6
+     │ ![](c54b3ca7603d65d4589151bc3a49d054_img.jpg) Figure S6 displays the myeloid populations in
+     │ the fetal lung of IA LPS exposed animals.
+     "Intrauterine inflammation in premature macaques rapidly activated a potent myeloid immune response in the fetal lungs. This response, driven by bacterial products and cytokines, suggests a mechanism linking prenatal inflammation to postnatal lung issues."
+
+  8. Quantitative proteomics reveals differential extracellular vesicle cargo from M1 and M2 monocyte-derived human macrophages
+     Paschalia Pantazi, Toby Clements, Harriet T Parsons, Myrsini Kaforou, Kate J Heesom, Phillip R Benne...
+     bio_5a3fa1e76e26 · bioRxiv · 2024-09-17 · 3 citations (all versions)
+     Published (2024): https://doi.org/10.1101/2024.09.17.613483
+     Matched: Protein cargo of extracellular vesicles from M1 and M2 macrophages · cat /papers/bio_5a3fa1e76e26/content.lines --lines 48-50
+     │ Using TMT-based quantitative mass spectrometry, we identified 2,129 proteins in EVs from
+     │ monocyte-derived macrophages (Supplementary table 1, tab 1). 307 proteins were present as
+     │ more than one isoform, representing a total of 705 identified proteins. Removal of the
+     │ additional isoforms left us with a final list of 1,731 proteins, which were taken forward
+     │ for further analysis (Supplemental table 1, tab 2). This list contained 99 of the 100 most
+     │ commonly reported proteins on the Vesiclepedia repository (accessed 18 th March 2024) [ 11
+     │ ], reinforcing the reliability of our workflow. A visual summary of proteins found in M1/M2
+     │ macrophage EVs that are commonly reported as EV cargo/markers, is …
+     "Quantitative proteomics characterized extracellular vesicles from M1 and M2 human macrophages. M1 and M2 EVs carry distinct protein cargo, suggesting differential roles in immune response, inflammation, and tissue repair."
+
+  9. Identification of osteoarthritis-associated chondrocyte subpopulations and key gene-regulating drugs based on multi-omics analysis
+     Ting Hao; Zhiwei Pei; Sile Hu; Zhenqun Zhao; Wanxiong He; Jing Wang; Liuchang Jiang; jirigala Ariben...
+     PMC11992032 · PMC · 2025-04-11 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11992032/
+     Matched: Discussion · cat /papers/PMC11992032/content.lines --lines 133-134
+     │ First, our analysis indicates that the 5 hub genes are positively correlated with
+     │ inflammatory pathways such as TNF-α, JAK-STAT3, and inflammatory response, while they are
+     │ negatively correlated with proliferation pathways such as WNT and KRAS. Previous studies
+     │ have shown that Chitinase 3-like 1 (CHI3L1) and Matrix Metallopeptidase 13 (MMP13) serve as
+     │ pro-inflammatory biomarkers, associated with tissue remodeling and bone resorption[36],[37].
+     │ For example, Song et al.[37] demonstrated that in a mouse model of osteoarthritis, the
+     │ expression levels of CHI3L1 and MMP13 are positively correlated with inflammatory factors
+     │ such as TNF-α, IL-1β, and IL-6, and can be suppressed by overexpression of …
+     "This study identified osteoarthritis-associated chondrocyte subpopulations and key regulatory genes using multi-omics analysis. A significant increase in prehypertrophic chondrocytes was observed in OA patients, with potential drug targets identified for therapeutic intervention."
+
+  10. Network dynamics determine the autocrine and paracrine signaling functions of TNF
+     Andrew B. Caldwell; Zhang Cheng; Jesse D. Vargas; Harry A. Birnbaum; Alexander Hoffmann
+     PMC4180974 · Genes & Development · 2014-10-01 · 91 citations
+     https://doi.org/10.1101/gad.244749.114
+     Matched: TLR-specific autocrine and paracrine functions of TNF · cat /papers/PMC4180974/content.lines --lines 41-42
+     │ To determine TNF’s autocrine role in augmenting NFκB’s gene expression response in
+     │ macrophages, we performed transcriptomic analysis using wild-type and tnf−/− BMDMs
+     │ stimulated with CpG. From the RNA sequencing (RNA-seq) data, we selected 267 genes that were
+     │ substantially up-regulated by CpG stimulation (Fig. 6A). K-means clustering identified
+     │ groups of genes that showed either a strong early peak induction (cluster E), a peak at 8 h
+     │ but persistent induction (cluster B and F), a peak at 8 h followed by a decrease by 24 h
+     │ (clusters A and D), or a slow induction resulting in a peak at 24 h of stimulation (cluster
+     │ C). Of these clusters, A and B contained many genes that were found to be …
+     "This study quantitatively modeled TNF production regulation. TNF acts paracrinely for LPS but autocrinely for CpG, extending NFκB activity duration."
+
+[136ms, saved to s_c0804b41]
+
+💡 Extract data across these results with: map --from s_c0804b41 "your question"
+[136ms, saved to s_c0804b41]  [repo: mva-lof-molecular]
+

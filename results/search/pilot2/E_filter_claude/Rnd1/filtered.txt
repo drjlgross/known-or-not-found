@@ -1,0 +1,12 @@
+$ src/pc.sh results s_286f8682
+# exit 0
+  Query: filter 'Does this paper describe the expression of the gene Rnd1 changing in response to LPS or bacterial infection?' --from s_286f8682
+Found 1 papers  [s_286f8682]
+
+  1. Essential role of Rnd1 in innate immunity during viral and bacterial infections
+     Akhilesh Kumar; Shalabh Mishra; Ashish Kumar; Ashwin Ashok Raut; Seiichi Sato; Akinori Takaoka; Hima...
+     PMC9161769 · pmc · 2022-06-02
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9161769/
+     "Rnd1, a constitutively active Rho GTPase, was identified as a key player in innate immunity. It protects against viral and bacterial infections through distinct interferon-independent mechanisms."
+
+

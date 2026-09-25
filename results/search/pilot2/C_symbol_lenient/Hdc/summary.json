@@ -1,0 +1,21 @@
+{
+  "gene": "Hdc",
+  "query": "Hdc LPS macrophage",
+  "also": [],
+  "mode": "map",
+  "strict": false,
+  "question": "Does this paper describe the expression of the gene Hdc (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).",
+  "date": "2026-09-24T19:08:14Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_50b538fb",
+  "judge_id": "m_edf952a2",
+  "parent_n": 25,
+  "yes": 11,
+  "downgraded": 0,
+  "no": 14,
+  "paper_errors": 0,
+  "seconds_search": 7.9,
+  "seconds_judge": 17.2,
+  "seconds_total": 25.2
+}

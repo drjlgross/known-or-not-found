@@ -1,0 +1,156 @@
+Map results  [m_436cf0f2]
+Query: Does this paper describe the expression of the gene Tnf (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).
+
+--- [1] [success] Progranulin inhibits LPS-induced macrophage M1 polarization via NF-кB and MAPK pathways ---
+doc_id: PMC7275413
+{
+  "answer": "yes",
+  "evidence": "In addition, mRNA and protein expression of iNOS and TNF-\u0311α, the special functional markers for M1, and secretion of TNF-\u0311α also significantly increased (Fig. 1c, d, e, f)."
+}
+
+--- [2] [success] Macrophage priming and lipopolysaccharide-triggered release of tumor necrosis factor alpha during graft-versus-host disease ---
+doc_id: PMC2119110
+{
+  "answer": "yes",
+  "evidence": "Quantities of LPS that are insufficient to induce the production and release of TNF-ol from normal, unprimed M~b, can trigger IFN- \"y-primed M~k to produce significant quantities of TNF-ol (12, 28)."
+}
+
+--- [3] [success] Kappa B-type enhancers are involved in lipopolysaccharide-mediated transcriptional activation of the tumor necrosis factor alpha gene in primary macrophages ---
+doc_id: PMC2187654
+{
+  "answer": "yes",
+  "evidence": "Primary macrophages accumulate large amounts of TNF-alpha mRNA after exposure to LPS, and this accumulation is due at least in part to increased transcription of the TNF-alpha gene (2, 3, 10, 20)."
+}
+
+--- [4] [success] Lipopolysaccharide-induced selective priming effects on tumor necrosis factor alpha and nitric oxide production in mouse peritoneal macrophages ---
+doc_id: PMC2190891
+{
+  "answer": "yes",
+  "evidence": "Pre- exposure of macrophages to low doses of lipopolysaccharide inhibits the expression of tumor necrosis factor-alpha mRNA but not of IL-1 beta mRNA. (L22)"
+}
+
+--- [5] [success] Genome-wide siRNA screen of genes regulating the LPS-induced TNF-α response in human macrophages ---
+doc_id: PMC5332009
+{"answer": "yes", "evidence": "Transcriptomic analysis of the reporter cell line under the same conditions of LPS stimulation was used to filter for hits clearly expressed in target cells."}
+
+--- [6] [success] PDX regulates inflammatory cell infiltration via resident macrophage in LPS‐induced lung injury ---
+doc_id: PMC7521295
+{
+  "answer": "yes",
+  "evidence": "Aerosol inhalation and intraperitoneal injection of LPS both significantly increased the TNF‐α concentration in lung tissue homogenates, and this effect was markedly attenuated by PDX treatment."
+}
+
+--- [7] [success] Genome-wide siRNA screen of genes regulating the LPS-induced NF-κB and TNF-α responses in mouse macrophages ---
+doc_id: PMC5332015
+{
+  "answer": "yes",
+  "evidence": "Increased tnf promoter-driven mCherry expression in RAW G9 cells up to 16 h after treatment with 10 ngml−1 LPS at 16 h after treatment with LPS."
+}
+
+--- [8] [success] AS-703026 Inhibits LPS-Induced TNFα Production through MEK/ERK Dependent and Independent Mechanisms ---
+doc_id: PMC4575053
+{"answer": "yes", "evidence": "In the current study, our results demonstrated that AS-703026, a novel MEK/ERK inhibitor, suppressed LPS-induced TNF\u0315\u0301 mRNA expression and protein secretion in RAW 264.7 murine macrophages, and in murine bone marrow-derived macrophages (BMDMs)."}
+
+--- [9] [success] Mathematical modelling of activation-induced heterogeneity reveals cell state transitions underpinning macrophage responses to LPS ---
+doc_id: bio_206e5a356c66
+{"answer": "yes", "evidence": "To capture distinct macrophage subpopulations upon activation with LPS we measured protein expression of three cytokines, TNF, pro-IL-1\u0323\u03B2 and IL-6, and one intracellular pro-inflammatory protein NOS2, an enzyme that catalyzes nitric oxide formation."}
+
+--- [10] [success] LPS‐stimulated NF‐κB p65 dynamic response marks the initiation of TNF expression and transition to IL‐10 expression in RAW 264.7 macrophages ---
+doc_id: PMC6234144
+{
+  "answer": "yes",
+  "evidence": "After 1-h of LPS stimulation, TNF\u0311\\u03b1 mRNA expression increased (7.0-fold) significantly"
+}
+
+--- [11] [success] The use of Ipratropium and Tiotropium as novel agents to reduce inflammation in  in vitro  macrophage models ---
+doc_id: bio_1ab02dae6d41
+{
+  "answer": "yes",
+  "evidence": "THP-1 cells were cultured and challenges with LPS to stimulate the IL-6 and TNF-\u0313 cytokines."
+}
+
+--- [12] [success] Macrophages employ quorum licensing to regulate collective activation ---
+doc_id: PMC7018708
+{
+  "answer": "yes",
+  "evidence": "L15: Upon activation, IκB kinase (IKK) targets IκB for degradation[3],[4], allowing NF-κB to translocate to the nucleus. There, NF-κB induces the transcription of genes such as tumor necrosis factor (TNF), a cytokine that mediates inflammation and pathogen clearance[5]–[7]."
+}
+
+--- [13] [success] Ginger extract inhibits LPS induced macrophage activation and function ---
+doc_id: PMC2234390
+{
+  "answer": "yes",
+  "evidence": "We observed that ginger extract inhibited IL-12, TNF-\u0311\u0301\u03B1, IL-1\u03B2 (pro inflammatory cytokines) and RANTES, MCP-1 (pro inflammatory chemokines) production in LPS stimulated macrophages."
+}
+
+--- [14] [success] Lipopolysaccharide regulation of antiinflammatory tristetraprolin family and proinflammatory gene expression in mouse macrophages ---
+doc_id: PMC10949775
+{
+  "answer": "yes",
+  "evidence": "LPS increased mRNA levels of TNF, COX2, GM-CSF, INFγ and IL12b up to 311, 418, 11, 9 and 4 fold, respectively."
+}
+
+--- [15] [success] Site-Specific Reprogramming of Macrophage Responsiveness to Bacterial Lipopolysaccharide in Obesity ---
+doc_id: PMC6611339
+{
+  "answer": "yes",
+  "evidence": "But although all macrophage subpopulations responded to LPS with an M1-like profile of cytokine secretion, the TNF-\u0311/\u0399\u0391-10 ratio was the lowest in adipose tissue macrophages, the highest in alveolar macrophages, and intermediary in peritoneal macrophages."
+}
+
+--- [16] [success] Extinction of the tumor necrosis factor locus, and of genes encoding the lipopolysaccharide signaling pathway ---
+doc_id: PMC2190998
+{"answer":"yes","evidence":"The tumor necrosis factor (TNF-alpha or TNF) gene is activated by both lipopolysaccharide (LPS) and cycloheximide in RAW 264.7 macrophages, whereas neither stimulus activates the gene in 3T3 fibroblasts."}
+
+--- [17] [success] Lipopolysaccharide-mediated signal transduction: Stabilization of TNF-alpha mRNA contributes to increased lipopolysaccharide-stimulated TNF-alpha production by Kupffer cells after chronic ethanol feeding ---
+doc_id: PMC2410250
+{
+  "answer": "yes",
+  "evidence": "Kupffer cells isolated from rats fed ethanol for 4 weeks accumulated 2-fold higher concentration of TNF-alpha in their media in response to challenge with LPS, with no difference in TNF-alpha accumulation between the pair- and ethanol-fed groups when cells were not treated with LPS (basal) [9,19]."
+}
+
+--- [18] [success] Mathematical modelling of activation-induced heterogeneity in TNF, IL6, NOS2, and IL1β expression reveals cell state transitions underpinning macrophage responses to LPS ---
+doc_id: PMC9411976
+{"answer": "yes", "evidence": "Notably, the percentage of TNF-positive BMDMs peaked at 4h post stimulation, demonstrating a faster TNF response in BMDMs in comparison to RAW264.7 cells."}
+
+--- [19] [success] The Uremic Toxin Indoxyl Sulphate Enhances Macrophage Response to LPS ---
+doc_id: PMC3786936
+{
+  "answer": "yes",
+  "evidence": "LPS induced a significant induction in TNF-\\u03b1 and IL-6 levels in J774A.1 macrophage (P<0.001 vs control; Fig. 6)."
+}
+
+--- [20] [success] Unaltered TNF-α production by macrophages and monocytes in diet-induced obesity in the rat ---
+doc_id: PMC1079929
+{
+  "answer": "yes",
+  "evidence": "Ex vivo LPS-stimulation of full blood preparations resulted in a dose-dependent increase in the production of TNF-\u0315a (Fig. 3)."
+}
+
+--- [21] [success] Signaling pathways involved in LPS induced TNFalpha production in human adipocytes ---
+doc_id: PMC2819999
+{
+  "answer": "yes",
+  "evidence": "TNFalpha mRNA was detected in cells by RT-PCR and TNFalpha protein was detected in supernatants by ELISA assays."
+}
+
+--- [22] [success] Minocycline hydrochloride nanoliposomes inhibit the production of TNF-α in LPS-stimulated macrophages ---
+doc_id: PMC3433324
+{
+  "answer": "yes",
+  "evidence": "After stimulation with 10 \u0393\u0395\u0399g/mL LPS, murine macrophages (ANA-1) were treated with 10, 20, 40, 50 and 70 \u0393\u0395\u0399g/mL 2% minocycline hydrochloride nanoliposomes, minocycline hydrochloride solution, and periocline for 6, 12, 24, 48 and 60 hours, respectively. A tetrazolium (MTT) assay was used to evaluate macrophages cell proliferation rate and the levels of TNF-\u0391 mRNA were measured by SYBR Green Real Time PCR."
+}
+
+--- [23] [success] RNA from LPS-stirnulated macrophages induces the release of tumour necrosis factor-α and interleukin-1 by resident macrophages ---
+doc_id: PMC2365439
+{
+  "answer": "yes",
+  "evidence": "In the present study, it is demonstrated that cytoplasmatic RNA extracted from rat macrophages stimulated with Escherichia coli lipopolysaccharide (LPS), referred to as L-RNA, induced the release of TNF-\\u03b1 and IL-1 from monolayers of peritoneal resident macrophages."
+}
+
+--- [24] [success] Catecholamines Attenuate LPS-Induced Inflammation through β2 Adrenergic Receptor Activation- and PKA Phosphorylation-Mediated TLR4 Downregulation in Macrophages ---
+doc_id: PMC11506017
+{"answer": "yes", "evidence": "TNF\u03B1 expression was clearly enhanced from 1 h after LPS treatment, with a peak at 2 h, then gradually diminishing at both the mRNA and protein levels (Figure 1)." }
+
+--- [25] [success] Role of Protein Tyrosine Phosphatase Non-Receptor Type 7 in the Regulation of TNF-α Production in RAW 264.7 Macrophages ---
+doc_id: PMC3827119
+{"answer": "yes", "evidence": "TNF-\u03B1 levels increased sharply at early times of LPS treatment, then increased gradually and reached maximal point at 8 h after LPS treatment."}

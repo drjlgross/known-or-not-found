@@ -1,0 +1,437 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 50 Slc7a2 (solute carrier family 7 (cationic amino acid transporter, y+ system), member 2) LPS macrophage
+# exit 0
+Found 50 papers  [s_8540c21c]
+
+  1. Species-Specific Transcriptional Regulation of Genes Involved in Nitric Oxide Production and Arginine Metabolism in Macrophages
+     Rachel Young; Stephen J. Bush; Lucas Lefevre; Mary E. B. McCulloch; Zofia M. Lisowski; Charity Muriu...
+     PMC6245571 · PMC · 2018-11-05 · 52 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6245571/
+     Matched: RNA-seq analysis of genes involved in arginine metabolism · cat /papers/PMC6245571/content.lines --lines 33-34
+     "This study analyzed gene expression related to nitric oxide production in macrophages from various species. Macrophage responses to LPS stimulation, including NOS2 induction, are not conserved across species and may be influenced by retrotransposon insertions."
+
+  2. FOCIS abstract supplement
+     Gail Bast
+     PMC7128890 · PMC · 2005-04-19 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7128890/
+     Matched: cat /papers/PMC7128890/content.lines --lines 3536-3538
+     │ Su2.94-Role of L-Arginine Transporter, Solute Carrier 7A2 (SLC7A2), in the Immune System. R.
+     │ M. Sanchez-Munoz, 1 J. Kleeman, 1 C. L. MacLeod, 1 L. G. Ellies. 1 1 Cancer Center,
+     │ University of California San Diego, San Diego, CA, USA. INTRODUCTION Although nitric oxide
+     │ (NO) is a major regulator of inflammation, little attention has been focused on upstream
+     │ regulators of NO such as the solute carrier (SLC) family of molecules. SLC7A2 supplies
+     │ L-arginine to the inducible NO synthase (iNOS) and is required for sustained NO production
+     │ by macrophages. Bacterial lipopolysaccaharide (LPS) and the cytokine interferon-γ (IFN-γ)
+     │ are strong inducers of iNOS in macrophages. OBJECTIVES Identify immune …
+
+  3. The NF-κB-SLC7A11 axis regulates ferroptosis sensitivity in inflammatory macrophages
+     Mengjie Yang; Xiaowei Chen; Xiran Hu; Hexiang Li; Hao Huang; Yingzhe Fang; Jue Jiang; Hudan Liu; Yua...
+     PMC12268560 · PMC · 2025-06-11 · 15 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12268560/
+     Matched: RELA directly activates Slc7a11 transcription in M1 macrophages · cat /papers/PMC12268560/content.lines --lines 32-33
+     "This study investigated the mechanisms behind M1 macrophage ferroptosis resistance. It found that the NF-κB-SLC7A11 pathway increases cystine uptake and glutathione synthesis, making M1 macrophages resistant to ferroptosis."
+
+  4. Characterisation of genes differentially expressed in macrophages by virulent and attenuated Mycobacterium tuberculosisthrough RNA-Seq analysis
+     Junghwan Lee; Sung-Gwon Lee; Kee K. Kim; Yun-Ji Lim; Ji-Ae Choi; Soo-Na Cho; Chungoo Park; Chang-Hwa...
+     PMC6411972 · PMC · 2019-03-11 · 35 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6411972/
+     Matched: Discussion · cat /papers/PMC6411972/content.lines --lines 48-49
+     "Macrophages infected with virulent or attenuated *Mycobacterium tuberculosis* were analyzed using RNA-Seq. Increased expression of SLC7A2 in response to the attenuated strain was found to be important for controlling intracellular bacterial survival."
+
+  5. Amino acid transporters within the solute carrier superfamily: Underappreciated proteins and novel opportunities for cancer therapy
+     Kiavash Hushmandi; Behzad Einollahi; Seyed Hassan Saadat; E. Hui Clarissa Lee; Marzieh Ramezani Fara...
+     PMC11112377 · PMC · 2024-05-03 · 64 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11112377/
+     Matched: SLC7A2 · cat /papers/PMC11112377/content.lines --lines 42-43
+     │ Like SLC7A1, SLC7A2 is also a cationic amino acid transporter that its function in the
+     │ regulation of cancer hallmarks is revealed in studies. But in contrast to SLC7A1, SLC7A2
+     │ expression was found to decrease in various cancer types. For instance, Jiang et al. have
+     │ shown that SLC7A2 is downregulated in NSCLC. Moreover, SLC7A2 knocking down leads to NSCLC
+     │ cell proliferation, and resistance to paclitaxel, cisplatin, and gemcitabine. In addition,
+     │ it was demonstrated that AMPK augments SLC7A2 expression to increase the sensitivity of
+     │ cancer cells to anti-cancer drugs. More importantly, SLC7A2 modulates immune infiltration
+     │ and correlates to the infiltrated neutrophils, macrophages, dendritic …
+     "This review examines amino acid transporters (SLCs) and their role in cancer progression. Dysregulated SLCs are crucial for tumor growth, offering potential therapeutic targets."
+
+  6. Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni; Yanal Ghosheh; Akula Bala Pramod; Klaus Ley
+     PMC7053374 · Frontiers in Immunology · 2020-02-25 · 77 citations
+     https://doi.org/10.3389/fimmu.2020.00234
+
+  7. Exosomal miR-148a-3p from LPS-Activated Macrophages Promotes M1 Polarization and Ferroptosis-Related Characteristics of Recipient Macrophages by Reducing SLC7A11
+     Jun Liang; Yingli Cai; Yiming Shao
+     PMC13199726 · Infection and Drug Resistance · 2026-05-20 · 0 citations
+     https://doi.org/10.2147/IDR.S590998
+     Matched: LPS Induces M1 Polarization and Inflammatory Response in RAW264.7 Macr · cat /papers/PMC13199726/content.lines --lines 100-101
+     "Gram-negative bacterial infection is a major cause of severe inflammatory disorders and cellular damage, with lipopolysaccharide (LPS) as a key pathogenic trigger. Macrophages are central players in L"
+
+  8. Cationic Amino Acid Transporter 2 Enhances Innate Immunity during Helicobacter pylori Infection
+     Daniel P. Barry; Mohammad Asim; Brooks P. Scull; M. Blanca Piazuelo; Thibaut de Sablet; Nuruddeen D....
+     PMC3237590 · PMC · 2011-12-14 · 19 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3237590/
+     Matched: Discussion · cat /papers/PMC3237590/content.lines --lines 62
+     "Cationic amino acid transporter 2 (CAT2) was studied in mice infected with *Helicobacter pylori*. CAT2 enhances innate immunity, as its absence leads to increased bacterial colonization and altered immune responses."
+
+  9. l-Arginine Uptake by Cationic Amino Acid Transporter Promotes Intra-Macrophage Survival of Leishmania donovani by Enhancing Arginase-Mediated Polyamine Synthesis
+     Abhishek Mandal; Sushmita Das; Ajay Kumar; Saptarshi Roy; Sudha Verma; Ayan Kumar Ghosh; Ruby Singh;...
+     PMC5526900 · PMC · 2017-07-26 · 34 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5526900/
+     Matched: Leishmania Infection Upregulates l-Arginine Transport through CAT-2 Tr · cat /papers/PMC5526900/content.lines --lines 57-60
+     "This study investigated how *Leishmania donovani* survives inside macrophages. Parasite survival is enhanced by increased *l*-arginine uptake via CAT-2, which boosts arginase-mediated polyamine synthesis."
+
+  10. “Of Mice and Men”: Arginine Metabolism in Macrophages
+     Anita C. Thomas; Joshua T. Mattila
+     PMC4188127 · PMC · 2014-10-07 · 163 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4188127/
+
+  11. Sulfur metabolic response in macrophage limits excessive inflammatory response by creating a negative feedback loop
+     Haruna Takeda; Shohei Murakami; Zun Liu; Tomohiro Sawa; Masatomo Takahashi; Yoshihiro Izumi; Takeshi...
+     PMC10412850 · PMC · 2023-07-29 · 54 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10412850/
+     Matched: LPS treatment of macrophages · cat /papers/PMC10412850/content.lines --lines 26
+     "This study investigated sulfur metabolism in macrophages during inflammation. Increased cysteine uptake and supersulfide production by macrophages limit excessive inflammatory responses through a negative feedback loop."
+
+  12. Slc7a11‐Mediated Cystine/Glutamate Antiport Reprograms Macrophage Polarization and Ameliorates Atherosclerosis
+     Shuaishuai Zhou; Yongting Luo; Junjie Luo; Siyue Li; Baixue Liu; Wen Shao; Jin Tao; Jingyi Qi; Chang...
+     PMC12950507 · PMC · 2026-03-01 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12950507/
+     Matched: Slc7a11 Overexpression in Macrophages Inhibits M1 Polarization and Pro · cat /papers/PMC12950507/content.lines --lines 25-26
+     "Atherosclerotic cardiovascular diseases (ASCVDs) remain the primary cause of morbidity and mortality. Macrophages are involved in the progression and regression of atherosclerosis, and macrophage amin"
+
+  13. In Lysinuric Protein Intolerance system y+L activity is defective in monocytes and in GM-CSF-differentiated macrophages
+     Amelia Barilli; Bianca Maria Rotoli; Rossana Visigalli; Ovidio Bussolati; Gian C Gazzola; Zamir Kadi...
+     PMC2999609 · PMC · 2010-11-26 · 66 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999609/
+     Matched: Expression of mRNA for system y+L transporters in monocytes, alveolar  · cat /papers/PMC2999609/content.lines --lines 56-57
+     "System y+L amino acid transport activity is defective in monocytes and macrophages from a Lysinuric Protein Intolerance patient. This defect is compensated in fibroblasts by another transporter, and GM-CSF therapy improved patient condition."
+
+  14. A new metabolomic assay to examine inflammation and redox pathways following LPS challenge
+     Jung H Suh; Robert Y Kim; Daniel S Lee
+     PMC3507808 · Journal of Inflammation (London, England) · 2012-10-04 · 18 citations
+     https://doi.org/10.1186/1476-9255-9-37
+     Matched: LPS-dependent changes in the RAW macrophage amino acid profile · cat /papers/PMC3507808/content.lines --lines 39-43
+     "A new LC-MS/MS assay simultaneously measures arginine and sulfur amino acid metabolism. This assay revealed that the Cit+Orn/Arg+Asp ratio is an early, sensitive biomarker of LPS-induced macrophage activation."
+
+  15. Frontline Science: LPS‐inducible SLC30A1 drives human macrophage‐mediated zinc toxicity against intracellular Escherichia coli
+     Claudia J. Stocks; Jessica B. von Pein; James E.B. Curson; James Rae; Minh‐Duy Phan; Darren Foo; Nil...
+     PMC7891337 · PMC · 2020-05-22 · 27 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7891337/
+     Matched: Zinc transporter SLC30A1 is constitutively expressed and further upreg · cat /papers/PMC7891337/content.lines --lines 41-42
+     "LPS stimulation upregulates SLC30A1 in human macrophages, driving zinc toxicity against intracellular *E. coli*. Ectopic SLC30A1 expression is sufficient to induce this antimicrobial pathway."
+
+  16. Species-Specificity of Transcriptional Regulation and the Response to Lipopolysaccharide in Mammalian Macrophages
+     Stephen J. Bush; Mary E. B. McCulloch; Zofia M. Lisowski; Charity Muriuki; Emily L. Clark; Rachel Yo...
+     PMC7386301 · Frontiers in Cell and Developmental Biology · 2020-07-21 · 32 citations
+     https://doi.org/10.3389/fcell.2020.00661
+     Matched: Response of Sheep Macrophages to LPS · cat /papers/PMC7386301/content.lines --lines 36-37
+     "This study analyzed the transcriptional response of sheep macrophages to lipopolysaccharide (LPS) and compared it to other mammalian species. A conserved transcriptional network was found, but large animals and rodents differed in their metabolic responses to LPS."
+
+  17. Cationic Amino Acid Transporter-2 Regulates Immunity by Modulating Arginase Activity
+     Robert W. Thompson; John T. Pesce; Thirumalai Ramalingam; Mark S. Wilson; Sandy White; Allen W. Chee...
+     PMC2265428 · PMC · 2008-03-14 · 73 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2265428/
+     Matched: Discussion · cat /papers/PMC2265428/content.lines --lines 62-63
+     "This study investigated the role of cationic amino acid transporter-2 (CAT2) in immune responses to infection. CAT2 deficiency impairs nitric oxide production in Th1 responses and increases arginase activity in Th2 responses, leading to altered disease susceptibility and pathology."
+
+  18. Downregulation of SLC7A7 Triggers an Inflammatory Phenotype in Human Macrophages and Airway Epithelial Cells
+     Bianca Maria Rotoli; Amelia Barilli; Rossana Visigalli; Filippo Ingoglia; Marco Milioli; Maria Di La...
+     PMC5868322 · PMC · 2018-03-19 · 45 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5868322/
+     Matched: Introduction · cat /papers/PMC5868322/content.lines --lines 13-14
+     "SLC7A7 was silenced in macrophages and airway cells to study its role in lysinuric protein intolerance. Downregulation of SLC7A7 induces an inflammatory phenotype, independent of arginine levels, by activating NFκB."
+
+  19. Single-cell to pre-clinical evaluation of Trem2, Folr2, and Slc7a7 as macrophage-associated biomarkers for atherosclerosis
+     Tiit Örd; Senthil Palani; Judith Giroud Gerbetant; Susanna Bodoy; Tapio Lönnberg; Henri Niskanen; Aa...
+     PMC12713647 · PMC · 2025-11-07 · 9 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12713647/
+     Matched: Slc7a7 contributes to foam cell phenotype · cat /papers/PMC12713647/content.lines --lines 144
+     │ The Slc7a7 gene encodes for a protein that is part of an amino acid transporter system.
+     │ Specifically, it is a component of the y + L amino acid transport system, which is involved
+     │ in the transport of cationic amino acids (efflux from the cell) in exchange of large neutral
+     │ amino acids with sodium (influx into the cell) across the plasma membrane, Gln being one of
+     │ the preferred neutral amino acid substrates.[56],[57] Among the reported glutamine
+     │ transporters, scRNA-Seq of the mouse aorta revealed that Slc7a7 exhibited a tendency for co-
+     │ expression with Trem2 (see Supplementary material online, Figure S11A), whereas Slc7a8 was
+     │ more broadly expressed in macrophages (see Supplementary material …
+     "This study profiled macrophage gene programs in atherosclerosis across tissues using scRNA-seq and TRAP-seq. Trem2, Folr2, and Slc7a7 were identified as potential biomarkers for disease diagnosis and assessment."
+
+  20. Solute Carrier Family 37 Member 2 (SLC37A2) Negatively Regulates Murine Macrophage Inflammation by Controlling Glycolysis
+     Zhan Wang; Qingxia Zhao; Yan Nie; Yi Yu; Biswapriya B. Misra; Manal Zabalawi; Jeff W. Chou; Chia-Chi...
+     PMC7232099 · PMC · 2020-05-04 · 23 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7232099/
+     Matched: SLC37A2 Deletion Accelerates LPS-Induced Glycolysis and Mitochondrial  · cat /papers/PMC7232099/content.lines --lines 40-41
+     │ Next, we wanted to investigate whether SLC37A2 deletion alters glycolysis, PPP, and TCA
+     │ cycle in the LPS-stimulated macrophages. Not surprisingly, LPS induced rapid glucose
+     │ utilization in both WT and Slc37a2−/− macrophages, as evidenced by decreased glycolytic
+     │ intermediates, including glucose, G6P, and DHAP, relative to resting macrophages.
+     │ Interestingly, we observed a significantly higher level of glycolytic end product pyruvate
+     │ in Slc37a2−/− versus WT cells post 3 h LPS stimulation, suggesting an increased glycolytic
+     │ activity (Figure 5A). Secreted lactate, a marker of Warburg-like metabolic effect, measured
+     │ by an enzymatic assay, was significantly higher at 3 and 6 h of LPS stimulation …
+     "This study investigated the role of SLC37A2 in murine macrophage inflammation. SLC37A2 dampens inflammation by down-regulating glycolysis and cytokine production in macrophages."
+
+  21. Role of SLC7A5 in Metabolic Reprogramming of Human Monocyte/Macrophage Immune Responses
+     Bo Ruem Yoon; Yoon-Jeong Oh; Seong Wook Kang; Eun Bong Lee; Won-Woo Lee
+     PMC5788887 · PMC · 2018-01-25 · 135 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5788887/
+     Matched: Elevated SLC7A5 Expression in Activated Human Monocytes and Macrophage · cat /papers/PMC5788887/content.lines --lines 66-67
+     │ It has been demonstrated that peripheral monocytes are activated in patients with RA, and
+     │ thus, their unique regulation of nutrient uptake is likely also involved in order to meet
+     │ metabolic demands (30–32). Our pilot microarray assay showed that among a majority of AA
+     │ transporters, SLC7A5 expression was most greatly upregulated by peripheral monocytes from RA
+     │ patients when compared with those of HCs (Figure 1A). To confirm our microarray data in a
+     │ secondary cohort, peripheral CD14+ monocytes were purified from HCs and RA patients and the
+     │ level of SLC7A5 mRNA was compared by quantitative PCR analysis. Peripheral monocytes derived
+     │ from RA patients, who have higher levels of C-reactive protein …
+     "This study investigated the role of SLC7A5 in human monocyte/macrophage immune responses. SLC7A5-mediated leucine uptake drives pro-inflammatory cytokine production through mTORC1-induced glycolysis, and its elevated expression in rheumatoid arthritis patients correlates with disease severity."
+
+  22. Hematopoietic Cell-Specific SLC37A2 Deficiency Accelerates Atherosclerosis in LDL Receptor-Deficient Mice
+     Qingxia Zhao; Zhan Wang; Allison K. Meyers; Jennifer Madenspacher; Manal Zabalawi; Qianyi Zhang; Ele...
+     PMC8702732 · PMC · 2021-12-10 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8702732/
+     Matched: Introduction · cat /papers/PMC8702732/content.lines --lines 15-16
+     │ Solute carrier family 37 member 2 (SLC37A2), an endoplasmic reticulum-anchored phosphate-
+     │ linked glucose-6-phosphate transporter, is highly expressed in macrophages (21–23). We have
+     │ recently reported that SLC37A2 plays a pivotal role in murine macrophage inflammatory
+     │ activation and cellular metabolic rewiring (24). SLC37A2 deletion reprograms macrophages to
+     │ a hyper-glycolytic state of energy metabolism and accelerates M (LPS) activation, partially
+     │ depending on nicotinamide adenine dinucleotide (NAD+) biosynthesis. Blockade of glycolysis
+     │ or the NAD+ salvage pathway normalizes the differential expression of pro-inflammatory
+     │ cytokines between control and SLC37A2-deficient macrophages. …
+     "Hematopoietic cell-specific SLC37A2 deficiency was studied in LDL receptor-deficient mice on a Western diet. This deficiency accelerated atherosclerosis by impairing anti-inflammatory macrophage responses and IL-10 production."
+
+  23. Loss of Solute Carrier Family 7 Member 2 Exacerbates Inflammation-Associated Colon Tumorigenesis
+     Lori A. Coburn; Kshipra Singh; Mohammad Asim; Daniel P. Barry; Margaret M. Allaman; Nicole T. Al-Gre...
+     PMC6377304 · PMC · 2018-09-10 · 59 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6377304/
+     Matched: Immunohistochemistry Staining for SLC7A2 · cat /papers/PMC6377304/content.lines --lines 50
+     │ Staining for SLC7A2 in mouse colonic tissues was performed as described[19].
+     "Loss of SLC7A2 in colon epithelial cells was studied in a colitis-associated cancer model. Its absence significantly increased tumor development and promoted pro-tumorigenic inflammation."
+
+  24. Expression and Regulation of the Proton-Coupled Oligopeptide Transporter PhT2 by LPS in Macrophages and Mouse Spleen
+     Yuqing Wang; Dongli Sun; Feifeng Song; Yongjun Hu; David E. Smith; Huidi Jiang
+     PMC4051248 · PMC · 2014-04-23 · 25 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4051248/
+     Matched: Regulation of PhT2 mRNA and Protein Expression in Macrophages by LPS · cat /papers/PMC4051248/content.lines --lines 36-39
+     "This study investigated the expression and regulation of the PhT2 transporter in macrophages and mouse spleen. LPS up-regulates PhT2 expression in macrophages and spleen via the NF-κB pathway."
+
+  25. Aberrant Expression of SLC7A11 Impairs the Antimicrobial Activities of Macrophages in Staphylococcus Aureus Osteomyelitis in Mice
+     Bingsheng Yang; Wen Shu; Jin Hu; Zhongwen Wang; Jichang Wu; Jianwen Su; Jianye Tan; Bin Yu; Xianrong...
+     PMC11077379 · PMC · 2024-04-22 · 11 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11077379/
+     Matched: SLC7A11 expression is up-regulated in macrophages after S. aureus infe · cat /papers/PMC11077379/content.lines --lines 23-24
+     "This study investigated SLC7A11's role in macrophages during *Staphylococcus aureus* osteomyelitis in mice. Aberrant SLC7A11 expression impairs macrophage antimicrobial activity by reducing ROS and lipid peroxidation, and targeting it with PD-L1 shows therapeutic promise."
+
+  26. Hematopoietic-SLC37A2 deficiency accelerates atherosclerosis in LDL receptor-deficient mice
+     Qingxia Zhao, Zhan Wang, Allison K. Meyers, Jennifer Madenspacher, Manal Zabalawi, Elena Boudyguina,...
+     bio_4372973f6c5f · bioRxiv · 2021-08-06 · 0 citations (all versions)
+     Published (2021): https://doi.org/10.1101/2021.08.06.455449
+     Matched: Introduction · cat /papers/bio_4372973f6c5f/content.lines --lines 18-19
+     │ Solute carrier family 37 member 2 (SLC37A2), an endoplasmic reticulum-anchored phosphate-
+     │ linked glucose-6-phosphate transporter, is highly expressed in macrophages 21 - 23 . We have
+     │ recently reported that SLC37A2 plays a pivotal role in murine macrophage inflammatory
+     │ activation and cellular metabolic rewiring 24 . SLC37A2 deletion reprograms macrophages to a
+     │ hyper-glycolytic state of energy metabolism and accelerates M (LPS) activation, partially
+     │ depending on nicotinamide adenine dinucleotide (NAD + ) biosynthesis. Blockade of glycolysis
+     │ or the NAD + salvage pathway normalizes the differential expression of pro-inflammatory
+     │ cytokines between control and SLC37A2-deficient macrophages. …
+     "Hematopoietic-specific SLC37A2 deficiency was studied in LDL receptor-deficient mice on a Western diet. This deficiency accelerated atherosclerosis by impairing anti-inflammatory macrophage responses and IL-10 production."
+
+  27. Epigenetic profile in lipopolysaccharide-stimulated macrophages
+     Ester Correia Sarmento Rios; Thais Martins Lima Salgado; Francisco Garcia Soriano
+     PMC3953056 · Critical Care · 2013-11-05 · 0 citations
+     https://doi.org/10.1186/cc12987
+
+  28. SLC Solute Carrier Transporters and Neurodegenerative Disorders: Drawing Attention to Cationic Amino Acid Transporters 1 and 2
+     Hans-Gert Bernstein; Gerburg Keilhoff; Henrik Dobrowolny; Johann Steiner
+     PMC7383006 · PMC · 2020-08-31 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7383006/
+     Matched: TO THE EDITOR · cat /papers/PMC7383006/content.lines --lines 8
+
+  29. Erythropoietin supplementation ameliorates the immunological and hematological deficiencies of lysinuric protein intolerance in mice
+     Judith Giroud-Gerbetant, Fernando Sotillo, Jorge Couso, Antonio Zorzano, Mayka Sanchez, Günter Weiss...
+     bio_1e45c9e1730b · bioRxiv · 2021-08-15 · 2 citations (all versions)
+     Published (2021): https://doi.org/10.1101/2021.08.15.456393
+     Matched: Conditional deficiency of  Slc7a7  in macrophages does not affect iron · cat /papers/bio_1e45c9e1730b/content.lines --lines 37-38
+     "This study investigated erythropoietin deficiency in mice with lysinuric protein intolerance. Restoring erythropoietin levels corrected hematological and immunological abnormalities, including iron accumulation."
+
+  30. The Pathological Roles of Cationic Amino Acid Transporters (CATs) in Cancer
+     Thant Thant Myo Oo; Yasuhiro Saito
+     PMC13394352 · PMC · 2026-07-12 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13394352/
+     Matched: SLC7A2 (CAT2) · cat /papers/PMC13394352/content.lines --lines 51-54
+     "Cationic amino acid transporters (CATs), encoded by the SLC7A family, play essential roles in the uptake of arginine and other cationic amino acids, thereby regulating cellular metabolism, signaling, "
+
+  31. SLC38A6 expression in macrophages exacerbates pulmonary inflammation
+     Yizhao Peng; Weichao Chen; Fumeng Huang; Manman Geng; Xiaowei Li; Fujun Zhang; Wenhua Zhu; Liesu Men...
+     PMC9881254 · PMC · 2023-01-27 · 9 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9881254/
+     Matched: Slc38a6 promotes inflammation by affecting macrophage function · cat /papers/PMC9881254/content.lines --lines 65-66
+     "This study investigated the role of SLC38A6 in pulmonary inflammation. Upregulated SLC38A6 in macrophages exacerbates inflammation by promoting IL-1β expression, suggesting it's a potential therapeutic target."
+
+  32. Asparagine transporter supports macrophage inflammation via histone phosphorylation
+     Chuanlong Wang; Yuyi Ye; Muyang Zhao; Qingyi Chen; Bingnan Liu; Wenkai Ren
+     PMC11980831 · PMC · 2025-04-11 · 16 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11980831/
+     Matched: Myeloid depletion of Slc6a14 alleviates LPS-induced lung inflammation · cat /papers/PMC11980831/content.lines --lines 41-42
+     "This study investigated the role of the asparagine transporter SLC6A14 in macrophage inflammation. SLC6A14 promotes inflammation by increasing asparagine uptake, which enhances histone phosphorylation and suppresses NLRP3 inflammasome activation."
+
+  33. Selection of reliable reference genes for the normalisation of gene expression levels following time course LPS stimulation of murine bone marrow derived macrophages
+     Akane Tanaka, Joyce To, Bronwyn O’Brien, Sheila Donnelly, Maria Lund
+     PMC5627409 · biomedrxiv · 2017-10-03 · 29 citations
+     https://doi.org/10.1186/s12865-017-0223-y
+     "This study assessed the stability of eight common reference genes in LPS-stimulated murine macrophages. It found that some traditional genes are unreliable, and identified two new, stable reference genes for accurate gene expression analysis."
+
+  34. Lipopolysaccharide preconditioning augments the antibacterial activity of renal macrophages and ameliorates acute kidney injury caused by Staphylococcus aureus bacteremia in mice
+     Keiko Tanoue; Manabu Kinoshita; Bradley M Kearney; Seigo Ito; Hiroyasu Goto; Aoi Yamashiro; Tsugumi ...
+     PMC12035103 · PMC · 2025-04-17 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12035103/
+     Matched: LPS preconditioning did not alter TLR2 expression on BMDM or TRM in th · cat /papers/PMC12035103/content.lines --lines 80-81
+     "Lipopolysaccharide preconditioning was studied for its effects on renal macrophages and acute kidney injury in mice infected with *Staphylococcus aureus*. Preconditioning enhanced renal macrophage antibacterial activity, reducing bacterial growth and ameliorating kidney injury."
+
+  35. Monocyte normal immune response to LPS stimulation
+     P Myrianthefs; K Venetsanou; E Grouzi; E Boutzouka; P Evagelopoulou; G Fildissis; I Spiliotopoulou; ...
+     PMC3333514 · Critical Care · 2002-03-01 · 1 citation
+     https://doi.org/10.1186/cc1554
+
+  36. Solute carrier transporters: the metabolic gatekeepers of immune cells
+     Wenxin Song; Danyuan Li; Lei Tao; Qi Luo; Ligong Chen
+     PMC6977534 · PMC · 2019-12-14 · 247 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6977534/
+     Matched: Metals ion transporters in immune cells metabolism · cat /papers/PMC6977534/content.lines --lines 76-81
+     "This review examines solute carrier (SLC) transporters and their roles in immune cell function. These transporters regulate immune cell homeostasis by controlling nutrient uptake and metabolite levels."
+
+  37. Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni, Yanal Ghosheh, Akula Bala Pramod, Klaus Ley
+     PMC6543837 · Frontiers in Immunology · 2019-05-24 · 1909 citations
+     https://doi.org/10.3389/fimmu.2019.01084
+     Matched: The in vitro Signature of Classically Activated (LPS+IFN-γ) Mφ Present · cat /papers/PMC6543837/content.lines --lines 76-77
+     │ Intriguingly, in vivo M2(=LPS–)C57BL/6J and in vitro classically activated (LPS+IFN-γ) Mφ
+     │ shared the up-regulation of seven genes; Fos, Tuba4a, Tnfrsf21, Sdc1, Ggta1, Rhov, and Psen2
+     │ (Figure 1A, Supplementary Table 5). Presenilin 2 (Psen2) is the catalytic core component of
+     │ protease complexes that mediate regulated intramembrane proteolysis of their substrates. The
+     │ lack of normal Psen2 function has been associated with diminished LPS-induced macrophage
+     │ responsiveness (81). Another modulated gene is Syndecan1 (Sdc1), that is related to the
+     │ wound healing process (82, 83). A TNF receptor family gene (Tnfrsf21) is among these seven
+     │ in the M2(=LPS–)C57BL/6J and classically activated Mφ in vitro …
+     "This study compared gene expression in *in vivo* M1/M2 macrophages with *in vitro* classically/alternatively activated macrophages. The findings indicate that *in vivo* M1/M2 polarization is not equivalent to *in vitro* activation states."
+
+  38. Targeting SLC22A5 fosters mitophagy inhibition-mediated macrophage immunity against septic acute kidney injury upon CD47-SIRPα axis blockade
+     Yu Jia; Jun-Hua Li; Bang-Chuan Hu; Xia Huang; Xi Yang; Yan-Yan Liu; Juan-Juan Cai; Xue Yang; Jun-Mei...
+     PMC10998134 · PMC · 2024-02-22 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10998134/
+     Matched: Blockade of CD47-SIRPα signalling inhibits mitophagy of efferocytotic  · cat /papers/PMC10998134/content.lines --lines 87-88
+     "This study investigated the role of CD47-SIRPα signaling in septic acute kidney injury. Blocking this axis and targeting SLC22A5 inhibits macrophage mitophagy, improving immune response and survival in septic AKI."
+
+  39. Age-associated metabolic dysregulation in bone marrow-derived macrophages stimulated with lipopolysaccharide
+     Fan Fei; Keith M. Lee; Brian E. McCarry; Dawn M. E. Bowdish
+     PMC4778050 · PMC · 2016-03-04 · 45 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4778050/
+     Matched: Age-associated changes in arginine metabolism · cat /papers/PMC4778050/content.lines --lines 26-27
+     "Bone marrow-derived macrophages from old mice showed dysregulated metabolic profiles and hyporesponsiveness to LPS stimulation compared to young mice. This metabolic dysregulation, particularly in key regulatory metabolites, may contribute to age-associated inflammatory response deficits."
+
+  40. The cationic amino acid exporter Slc7a7 is vital for and induced in tissue macrophages with sustained efferocytic activity
+     Doris Lou Demy, Mireille Carrère, Ramil Noche, Muriel Tauzin, Marion Le Bris, Chooyoung Baek, Malika...
+     bio_761ce1f96d2a · bioRxiv · 2020-04-20 · 15 citations (all versions)
+     Published (2020): https://doi.org/10.1242/jcs.249037
+     Preprint: https://doi.org/10.1101/2020.04.20.051664
+     Matched: DISCUSSION · cat /papers/bio_761ce1f96d2a/content.lines --lines 60
+     "The study investigated the role of the cationic amino acid transporter Slc7a7 in tissue macrophages. High Slc7a7 expression is vital for macrophages with sustained efferocytic activity, and its induction is an adaptive response to engulfing dead cells."
+
+  41. Lipopolysaccharide stimulates dynamic changes in B cell metabolism to promote proliferation
+     Dana MS Cheung; Momchil Razsolkov; Fabrizia Bonacina; Stephen Andrews; Megan C Sumoreeah; Linda V Si...
+     PMC13193715 · PMC · 2026-05-21 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13193715/
+     Matched: Protein synthesis in LPS + IL-4 stimulated B cells is dependent on the · cat /papers/PMC13193715/content.lines --lines 34-35
+     "Naive B cells exit quiescence and enter a proliferative state upon activation, ultimately differentiating into antibody-secreting or memory B cells. Toll-like receptor (TLR) ligands, such as lipopolys"
+
+  42. Metal transporter Slc39a10 regulates susceptibility to inflammatory stimuli by controlling macrophage survival
+     Hong Gao; Lu Zhao; Hao Wang; Enjun Xie; Xinhui Wang; Qian Wu; Yingying Yu; Xuyan He; Hongbin Ji; Lot...
+     PMC5724256 · PMC · 2017-11-27 · 91 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5724256/
+     Matched: Reduced LPS-Induced Mortality in Slc39a10fl/fl;LysM-Cre+ Mice. · cat /papers/PMC5724256/content.lines --lines 24-25
+     │ Next, we examined the function of Slc39a10 in macrophages in response to LPS.
+     │ Slc39a10fl/fl;LysM-Cre+ offspring were born at the expected Mendelian ratio and did not
+     │ develop any overt phenotype during 12 mo of observation under normal conditions. However,
+     │ when we stimulated Slc39a10fl/fl;LysM-Cre+ and control mice with a combination of LPS and
+     │ d-galactosamine (19), the Slc39a10fl/fl;LysM-Cre+ mice had significantly higher survival
+     │ rate (Fig. 2C); specifically, the 12-h survival rate of Slc39a10fl/fl;LysM-Cre+ mice and
+     │ control mice was 80.0% and 27.3%, respectively. Upon LPS stimulation, activation of
+     │ inflammatory molecules can lead to liver damage (20). As expected, 6 h after LPS …
+     "The study investigated the role of metal transporter Slc39a10 in macrophage immune responses to inflammation. Slc39a10 regulates macrophage survival during inflammation through a zinc/p53 pathway."
+
+  43. Comparative Study of The Effect of LPS on The Function of BALB/c and C57BL/6 Peritoneal Macrophages
+     Sara Soudi; Ahmad Zavaran-Hosseini; Zuhair Muhammad Hassan; Masoud Soleimani; Fatemeh Jamshidi Adega...
+     PMC3660024 · PMC · 2013-05-05
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3660024/
+     Matched: Nitric oxide measurement · cat /papers/PMC3660024/content.lines --lines 50-52
+     "Peritoneal macrophages from BALB/c and C57BL/6 mice were stimulated with LPS to compare their responses. Different mouse strains exhibit distinct cytokine profiles and functional activities when exposed to LPS."
+
+  44. The L-Arginine Transporter Solute Carrier Family 7 Member 2 Mediates the Immunopathogenesis of Attaching and Effacing Bacteria
+     Kshipra Singh; Nicole T. Al-Greene; Thomas G. Verriere; Lori A. Coburn; Mohammad Asim; Daniel P. Bar...
+     PMC5081186 · PMC · 2016-10-26 · 29 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5081186/
+     Matched: Decreased mucosal immune activation in Slc7a2 –/–mice · cat /papers/PMC5081186/content.lines --lines 35-36
+     │ Fig 5: Immunophenotyping of innate immune cells. Cells isolated from the lamina propria of
+     │ C. rodentium-infected mice (C. rod) or of uninfected animals were analyzed by flow cytometry
+     │ for the following markers: (A) F4/80, (B) GR1, (C) CD11c. For each marker, representative
+     │ flow plots and combined data from n = 4 Ctrl and n = 6 infected mice are shown **P < 0.01,
+     │ ***P < 0.001. Fig 6: Immunophenotyping of T cells. Cells isolated from the lamina propria of
+     │ C. rodentium-infected mice (C. rod) or of uninfected animals were analyzed by flow cytometry
+     │ for CD4 and for IFN-γ (A) or IL-17 (B). For each marker, representative flow plots and
+     │ combined data from n = 4 Ctrl and n = 6 infected mice are …
+     "The L-arginine transporter SLC7A2 was studied in mice infected with attaching and effacing bacteria. SLC7A2 mediates bacterial attachment and immune responses, contributing to colitis severity."
+
+  45. LPS Tolerance Inhibits Cellular Respiration and Induces Global Changes in the Macrophage Secretome
+     Joseph Gillen; Thunnicha Ondee; Devikala Gurusamy; Jiraphorn Issara-Amphorn; Nathan P. Manes; Sung H...
+     PMC7918892 · Biomolecules · 2021-01-27 · 59 citations
+     https://doi.org/10.3390/biom11020164
+     Matched: 2.1. Cell Culture and Reagents · cat /papers/PMC7918892/content.lines --lines 17
+     "This study investigated metabolic and secretome changes in macrophages during LPS tolerance induction. LPS tolerance significantly reduces cellular metabolism and alters secreted proteins towards cell survival and metabolism."
+
+  46. Histone deacetylase 2 is essential for LPS‐induced inflammatory responses in macrophages
+     Chenming Wu; Ang Li; Jian Hu; Jiuhong Kang
+     PMC7379312 · Immunology and Cell Biology · 2018-10-31 · 52 citations
+     https://doi.org/10.1111/imcb.12203
+     Matched: BMM adoptive transfer, LPS challenge and bacterial sepsis model · cat /papers/PMC7379312/content.lines --lines 61
+     "Histone deacetylase 2 (HDAC2) is essential for LPS-induced inflammatory responses in macrophages. HDAC2 regulates these responses by deacetylating c-Jun, which then represses pro-inflammatory gene transcription."
+
+  47. LPCAT2 Regulates CD14 Expression During Macrophage Inflammatory Response to E. coli O111:B4
+     Victory Ibigo Poloamina *, Wondwossen Abate, Gyorgy Fejer, Simon K Jackson
+     bio_1a9f83e66ed3 · bioRxiv · 2023-06-27 · 0 citations (all versions)
+     Published (2023): https://doi.org/10.1101/2023.06.27.546434
+     Matched: Discussion · cat /papers/bio_1a9f83e66ed3/content.lines --lines 31-32
+     │ Several publications have shown that LPCAT2 affects LPS-induced inflammatory responses in
+     │ macrophages, and LPS increases either LPCAT2 expression or enzymatic activity [ 18 , 20 , 23
+     │ ]. The mechanism for LPCAT2 is yet to be fully understood. It is already well-established
+     │ that CD14 mediates LPS-induced inflammatory responses in macrophages [ 24 ]. Since LPCAT2
+     │ affects LPS-induced inflammation in macrophages, we analysed the effect of LPCAT2 on the
+     │ expression of LPS receptor complex proteins TLR4 and CD14. We found that silencing LPCAT2
+     │ expression in RAW264.7 cells resulted in reduced expression of CD14 mRNA and CD14 total
+     │ cellular protein. On the other hand, LPCAT2 had no significant effect …
+     "LPCAT2's role in regulating CD14 expression during macrophage response to LPS was investigated. Silencing LPCAT2 significantly decreased CD14 expression, suggesting LPCAT2 regulates CD14 expression and related cellular activities."
+
+  48. Study on the Role and Mechanism of SLC3A2 in Tumor-Associated Macrophage Polarization and Bladder Cancer Cells Growth
+     Peishan Wu; Lingna Zhao; Guangqi Kong; Bo Song
+     PMC11044785 · PMC · 2024-04-24 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11044785/
+     Matched: Interference With SLC3A2 Inhibits M2-Type Polarization of Tumor-Associ · cat /papers/PMC11044785/content.lines --lines 70-72
+     "This study investigated SLC3A2's role in bladder cancer cell growth and macrophage polarization. Silencing SLC3A2 inhibited tumor growth and promoted M1 macrophage polarization by inducing ferroptosis."
+
+  49. Expression Profiling of LPS Responsive miRNA in Primary Human Macrophages
+     Afsar Raza Naqvi, Sheng Zhong, Hong Dang, Jezrom B Fordham, Salvador Nares, Asma Khan
+     PMC4905593 · biomedrxiv · 2016-06-03 · 33 citations
+     https://doi.org/10.4172/1948-5948.1000276
+     "This study profiled microRNA expression in human macrophages exposed to lipopolysaccharide (LPS). LPS treatment temporally altered macrophage microRNA expression, impacting key cell signaling and pathogen response pathways."
+
+  50. Hypoxia Aggravates Inhibition of Alveolar Epithelial Na-Transport by Lipopolysaccharide-Stimulation of Alveolar Macrophages
+     Emel Baloglu; Kalpana Velineni; Ezgi Ermis-Kaya; Heimo Mairbäurl
+     PMC9368968 · PMC · 2022-07-27 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9368968/
+     Matched: 2.2. Cytokines, iNOS, NO/Nitrite · cat /papers/PMC9368968/content.lines --lines 23-24
+     "Alveolar macrophages stimulated with LPS were studied for their effect on alveolar epithelial Na-transport, with and without hypoxia. LPS-stimulated macrophages impair Na-transport via NO-dependent mechanisms, and hypoxia exacerbates this inhibition."
+
+[8.2s, saved to s_8540c21c]
+
+💡 Extract data across these results with: map --from s_8540c21c "your question"
+[8.2s, saved to s_8540c21c]  [repo: mva-lof-molecular]
+

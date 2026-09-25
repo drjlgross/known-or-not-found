@@ -1,0 +1,4 @@
+$ src/pc.sh results s_4dba9f90 --save /Users/julia/known-or-not-found/results/search/pilot2/E_filter_claude/Slc7a2/parent.csv
+# exit 0
+  ✓ Saved 25 papers to /Users/julia/known-or-not-found/results/search/pilot2/E_filter_claude/Slc7a2/parent.csv
+

@@ -1,0 +1,174 @@
+Map results  [m_b85d1b64]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Nos2 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+
+--- [1] [success] “Of Mice and Men”: Arginine Metabolism in Macrophages ---
+doc_id: PMC4188127
+{
+  "answer": "yes",
+  "evidence": "Both cell types produce neopterin, nitrite/nitrate and citrulline (low levels) (35)",
+  "context": "Both cell types produce neopterin, nitrite/nitrate and citrulline (low levels) (35)"
+}
+
+--- [2] [success] Nitric oxide produced by NOS2 copes with the cytotoxic effects of superoxide in macrophages ---
+doc_id: PMC7905073
+{"answer":"yes","evidence":"While the NOS2 protein was barely detected in cells that had been cultivated in conventional media, LPS stimulation induced NOS2 expression in WT and SOD1KO macrophages but not in NOS2KO or DKO macrophages (Fig. 2A).","context":"When the macrophages were treated with LPS (1.0 μg/ml, final concentration) from 2.0 h after isolation and incubated further, a greater decrease in the viability of the DKO macrophages was detected, but no difference was found in the cases of the other genotypic macrophages."}
+
+--- [3] [success] Species-Specific Transcriptional Regulation of Genes Involved in Nitric Oxide Production and Arginine Metabolism in Macrophages ---
+doc_id: PMC6245571
+{"answer": "yes", "evidence": "In rats, as in mice, LPS strongly induced Nos2, the arginine transporter Slc7a2, arginase 1 (Arg1), GTP cyclohydrolase (Gch1), and argininosuccinate synthase (Ass1).", "context": "Cells were treated with LPS from Salmonella enterica serotype Minnesota Re 595 (Sigma-Aldrich) for 7 and 24 h at a final concentration of 100 ng/ml for large animals and 10 ng/ml for rats."}
+
+--- [4] [success] Lipopolysaccharide-Induced Nitric Oxide and Prostaglandin E2 Production Is Inhibited by Tellimagrandin II in Mouse and Human Macrophages ---
+doc_id: PMC8146495
+{
+  "answer": "yes",
+  "evidence": "Pre- or post-treatment with 50 \u0395M TGII significantly attenuated LPS-induced NOS2 mRNA and protein expression in RAW 264.7 cells (Figure 2B,C).",
+  "context": "The nitrite (A), NOS2 mRNA (B) and protein (C) were quantified after 6 h, 3 h, and 6 h of LPS (100 ng/mL) stimulation, respectively."
+}
+
+--- [5] [success] Dataset on the differentiation of THP-1 monocytes to LPS inducible adherent macrophages and their capacity for NO/iNOS signaling ---
+doc_id: PMC7851796
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [6] [success] A Defective TLR4 Signaling for IFN-β Expression Is Responsible for the Innately Lower Ability of BALB/c Macrophages to Produce NO in Response to LPS as Compared to C57BL/6 ---
+doc_id: PMC4049611
+{
+  "answer": "yes",
+  "evidence": "We showed by Western blot that LPS induces a strong expression of iNOS (130 kDa) (Fig. 3A) in C57BL/6 macrophages, detected as early as 6 h (Fig. 3B).",
+  "context": "Cells (1×106) were stimulated with 1 µg/mL LPS for the indicated periods of time (A and B) or for 15 h and treatment with 50 µg/mL cycloheximide for the indicated periods of time (C and D)."
+}
+
+--- [7] [success] Neutrophilic granule protein promotes lipopolysaccharide-induced iNOS/NO expression via JAK2/STAT1 signaling pathway and augments bacteria clearance of macrophages ---
+doc_id: PMC12592619
+{"answer": "yes", "evidence": "The results showed that 220 DEGs were upregulated in response to LPS challenge, among which the expression level of iNOS gene (Nos2) was significantly elevated (Fig. 1A).", "context": "NgpNC/RAW and NgpHi/RAW cells were subjected to a 6-h treatment with LPS (10 \u0393\u0391g/mL) or PBS, followed by RNA extraction for RNA-seq analysis."}
+
+--- [8] [success] Pheophytin a Inhibits Inflammation via Suppression of LPS-Induced Nitric Oxide Synthase-2, Prostaglandin E2, and Interleukin-1β of Macrophages ---
+doc_id: PMC4284740
+{
+  "answer": "yes",
+  "evidence": "The LPS-induced expression of the NOS2 gene was also repressed by pre-treatment with pheophytin a in a dose-dependent manner, including its protein (Figure 2C) and mRNA levels (Figure 2D).",
+  "context": "RAW 264.7 cells were pre-treated with the indicated concentrations of pheophytin a for 30 min followed by LPS (100 ng/mL) for 6 h. Western blot analysis of NOS2 expression. Tubulin was used as a control gene."
+}
+
+--- [9] [success] Modulation of nitric oxide synthase activity in macrophages ---
+doc_id: PMC2365621
+{
+  "answer": "yes",
+  "evidence": "Data from Jorens et al., 1991. 4,, Hydrocortisone; B, dexamethasone. FIG. 3. Concentration dependent inhibition of the LPS-induced nitrite production in rat pulmonary macrophages by either dexamethasone or hydrocortisone.",
+  "context": "Jorens PG, Van Overveld FJ, Bult H, Vermeire PA, Herman AG. L-arginine-dependent production of nitrogen oxides by rat pulmonary macrophages. Eur J Pharmacol 1991; 200: 205-209."
+}
+
+--- [10] [success] Anti-Inflammatory Cytokine Interleukin-4 Inhibits Inducible Nitric Oxide Synthase Gene Expression in the Mouse Macrophage Cell Line RAW264.7 through the Repression of Octamer-Dependent Transcription ---
+doc_id: PMC3891534
+{"answer": "yes", "evidence": "Stimulation with LPS alone strongly induced luciferase activity; IL-4 also inhibited the LPS-induced luciferase activity, though the magnitude of the inhibition was smaller than that of the IFNγ-induced luciferase activity.", "context": "RAW264.7 cells were transiently transfected with wild-type or mutant Nos2 luciferase reporter constructs. Twenty-four hours after transfection, the cells were either left untreated (UT) or treated with IL-4 (10 ng/mL) for 30 min prior to stimulation with IFNγ (10 ng/mL) and/or LPS (100 ng/mL) for 8 hours before measurement of the luciferase activity."}
+
+--- [11] [success] Inhibition of inducible Nitric Oxide Synthase by a mustard gas analog in murine macrophages ---
+doc_id: PMC1698482
+{
+  "answer": "yes",
+  "evidence": "CEES treatment alone did not induce any iNOS protein but LPS (10 ng/ml for 24 hours) produced a marked induction of iNOS protein.",
+  "context": "In order to determine if CEES influenced cellular levels of iNOS, we performed Western blot analyses (Figure 1c) of the cell lysates using highly selective anti-iNOS antibodies with equal amounts of total protein applied to each lane."
+}
+
+--- [12] [success] Internal ribosomal entry site-mediated translational activity of nitric oxide synthase 2 ---
+doc_id: PMC10898816
+{
+  "answer": "yes",
+  "evidence": "When LPS was introduced into the neuroblastoma cell line Neuro-2a, nitrite levels, the oxidative form of the NOS2 product nitric oxide, increased (Figure 4A).",
+  "context": "The NOS2 5′-UTR showed approximately 10-fold higher IRES activity compared to that of the control, and LPS treatment significantly increased the IRES activity of the NOS2 5′-UTR relative to that of the control DMSO-treated samples (Figure 4B)."
+}
+
+--- [13] [success] Hypoxia Aggravates Inhibition of Alveolar Epithelial Na-Transport by Lipopolysaccharide-Stimulation of Alveolar Macrophages ---
+doc_id: PMC9368968
+{"answer": "yes", "evidence": "L23: Figure 2A,B show that LPS treatment increased iNOS mRNA levels in mono-cultures of macrophages and of rA2 cells.", "context": "L22: 2.2. Cytokines, iNOS, NO/Nitrite"}
+
+--- [14] [success] Lipopolysaccharide-Induced Nitric Oxide, Prostaglandin E2, and Cytokine Production of Mouse and Human Macrophages Are Suppressed by Pheophytin-b ---
+doc_id: PMC5751240
+{"answer": "yes", "evidence": "LPS-induced expression of NOS2 protein and mRNA were also repressed in RAW 264.7 cells with pheophytin-b in a dose-dependent manner (p < 0.05; Figure 3A and Figure 4A, respectively).", "context": "L61: Figure 3: Pheophytin-b suppressed NOS2 and COX-2 protein synthesis in LPS-stimulated RAW 264.7 cells. Cells were pre-treated with the indicated concentrations of pheophytin-b for 30 min and stimulated with LPS for 6 h."}
+
+--- [15] [success] Mannan-induced Nos2 in macrophages enhances IL-17–driven psoriatic arthritis by innate lymphocytes ---
+doc_id: PMC5955621
+{
+  "answer": "yes",
+  "evidence": "We found an up-regulation of NOS2 MFIs in the LPS- and IFN-γ\u2013stimulated CD14+ monocyte subpopulation in patients with PsA compared with HDs (Fig. 3).",
+  "context": "For analysis of NOS2 expression in CD14+ monocytes and MDSCs [MDC10 according to Mandruzzato et al. (23)] by flow cytometry, 1.5 \u00D7 106 PBMCs/ml were stimulated with IFN-\u03B3 (100 ng/ml; ImmunoTools) and LPS (1 \u03BCg/ml; InvivoGen) overnight."
+}
+
+--- [16] [success] The inhibitory effect of quercitrin gallate on iNOS expression induced by lipopolysaccharide in Balb/c mice ---
+doc_id: PMC2811838
+{
+  "answer": "yes",
+  "evidence": "However, the expression of iNOS mRNA increased to 103% of that of the expression of GAPDH in control cells in response to treatment with LPS.",
+  "context": "As shown in Fig. 3, the expression of iNOS mRNA was approximately 77% of that of the expression of GAPDH in control cells."
+}
+
+--- [17] [success] Promoter of the mouse gene encoding calcium-independent nitric oxide synthase confers inducibility by interferon gamma and bacterial lipopolysaccharide ---
+doc_id: PMC2191051
+{
+  "answer": "yes",
+  "evidence": "All these constructs conferred inducibility of the iNOS promoter by LPS, but only the construct containing all 1,749 bp conferred synergistic inducibility by IFN-gamma plus LPS.",
+  "context": "Plasmids in which all or the downstream one half or one third of this region of iNOS were linked to a reporter gene encoding chloramphenicol acetyltransferase were transfected into cells of the RAW264.7 macrophage-like line."
+}
+
+--- [18] [success] Nitric Oxide Synthase: Non-Canonical Expression Patterns ---
+doc_id: PMC4191211
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [19] [success] Formulation of Gamma-Oryzanol Encapsulated Nanoparticles and Their Modulation Effects on Inducible Nitric Oxide Synthase and Nitric Oxide in LPS-Stimulated RAW 264.7 Macrophages ---
+doc_id: PMC13029237
+{
+  "answer": "yes",
+  "evidence": "Figure 6A,B, demonstrating that induction of LPS (1 \u0395g mL\u22121) significantly elevated iNOS protein expression levels compared to the non-LPS-stimulated group.",
+  "context": "Cells were pre-treated with blank NPs, ORZ-NPs, or ORZ (0\u201350 \u0081g mL\u22121) for 1 h, followed by LPS stimulation (1 \u0081g mL\u22121) for 24 h."
+}
+
+--- [20] [success] Lipopolysaccharide-induced selective priming effects on tumor necrosis factor alpha and nitric oxide production in mouse peritoneal macrophages ---
+doc_id: PMC2190891
+{
+  "answer": "yes",
+  "evidence": "This representative experiment indicates that a concentration of 10 ng/ml of S-LPS is the threshold for effective stimulation of macrophages as assessed by either TNF-ol or NO production, whereas significant responses were always observed with \u0218100 ng/ml S-LPS.",
+  "context": "The amounts of NO in the same macrophage supernatants were measured by the presence of nitrite as described in Materials and Methods."
+}
+
+--- [21] [success] Nitric oxide synthase 2-derived NO in endotoxemia is not sufficient to cause hemodynamic effects ---
+doc_id: PMC4088763
+{
+  "answer": "yes",
+  "evidence": "L10-L11: We observed in TLR4-/- mice resistant to the inflammatory and lethal effects of endotoxin that various LPS preparations obtained from Sigma – but not Invivogen – were able to induce as much NOS2 and NOx as control mice but without resulting in hemodynamic effects, measured as changes in blood pressure.",
+  "context": "L9: Methods"
+}
+
+--- [22] [success] Macrophage inducible nitric oxide synthase circulates inflammation and promotes lung carcinogenesis ---
+doc_id: PMC5967330
+{
+  "answer": "yes",
+  "evidence": "Western blot analysis showed that treatment with LSP induced a comparable level of NOS2 in WT and KA/KA macrophages but did not detect NOS2 expression in untreated WT, KA/KA, and KA/KA;Nos2−/− cells (Fig. 4a), suggesting that increased inflammation induces NOS2 expression in KA/KA lungs.",
+  "context": "For the experimental group, isolated macrophages were stimulated with 100 ng/ml LPS for 18 or 12 h, and then total RNA or protein was collected."
+}
+
+--- [23] [success] Inducible nitric oxide synthase-derived extracellular nitric oxide flux regulates proinflammatory responses at the single cell level ---
+doc_id: PMC6920088
+{
+  "answer": "yes",
+  "evidence": "L19: In contrast, in BMDM, LPS alone (18hr) elicited intermediate NO flux which was markedly augmented when combined with IFNγ.",
+  "context": "L2: Redox Biology (2019)"
+}
+
+--- [24] [success] Nitroalkene inhibition of pro-inflammatory macrophage effector function via modulation of signaling metabolite levels ---
+doc_id: PMC12572803
+{"answer": "yes", "evidence": "First, it was confirmed that LPS induced NOS2 expression at 12 h.", "context": "Wild-type RAW 264.7 macrophages treated with vehicle (0.01% DMSO), NO2-OA (5 \u0010M), or 1400W (100 \u0010M) were stimulated with LPS (10 ng/mL)."}
+
+--- [25] [success] NOS1-derived nitric oxide promotes NF-κB transcriptional activity through inhibition of suppressor of cytokine signaling-1 ---
+doc_id: PMC4577833
+{
+  "answer": "yes",
+  "evidence": "We found no detectable expression in WT or knockout cells until 4 h after LPS treatment, well after the early LPS-mediated NOS activity we detected (F and G).",
+  "context": "Quantitative RT-PCR analysis of LPS-induced NOS2 mRNA and (G) immunoblot analysis of NOS2 protein, from WT and NOS1−/− BMDM treated with LPS (250 ng/ml) demonstrates no detection of the inducible NOS (NOS2) at early time points after LPS in BMDM of either genotype."
+}

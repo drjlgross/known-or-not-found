@@ -1,0 +1,14 @@
+paperclip, version 0.7.91
+{"gene": "Tnf", "status": "ok", "search_id": "s_26bece1a", "judge_id": "m_a8198647", "parent_n": 25, "yes": 22, "no": 2, "downgraded": 0, "paper_errors": 1, "corpus_count": null, "seconds_total": 203.3, "stage": null, "detail": null}
+{"gene": "Nos2", "status": "ok", "search_id": "s_bb16d4f7", "judge_id": "m_b85d1b64", "parent_n": 25, "yes": 19, "no": 6, "downgraded": 4, "paper_errors": 0, "corpus_count": null, "seconds_total": 35.0, "stage": null, "detail": null}
+{"gene": "Edn1", "status": "ok", "search_id": "s_6c8b901c", "judge_id": "m_49f95ad6", "parent_n": 25, "yes": 4, "no": 21, "downgraded": 0, "paper_errors": 0, "corpus_count": null, "seconds_total": 44.8, "stage": null, "detail": null}
+{"gene": "Slc7a2", "status": "ok", "search_id": "s_fc701b3c", "judge_id": "m_e6965592", "parent_n": 25, "yes": 6, "no": 19, "downgraded": 1, "paper_errors": 0, "corpus_count": null, "seconds_total": 33.8, "stage": null, "detail": null}
+{"gene": "Tnfsf15", "status": "ok", "search_id": "s_5a83beb6", "judge_id": "m_a6c4b964", "parent_n": 25, "yes": 2, "no": 23, "downgraded": 0, "paper_errors": 0, "corpus_count": null, "seconds_total": 20.2, "stage": null, "detail": null}
+{"gene": "Hdc", "status": "ok", "search_id": "s_732a045e", "judge_id": "m_0ee9c161", "parent_n": 25, "yes": 1, "no": 24, "downgraded": 9, "paper_errors": 0, "corpus_count": null, "seconds_total": 43.4, "stage": null, "detail": null}
+{"gene": "Tarm1", "status": "ok", "search_id": "s_435891da", "judge_id": "m_da9e2bc8", "parent_n": 25, "yes": 1, "no": 24, "downgraded": 1, "paper_errors": 0, "corpus_count": null, "seconds_total": 30.3, "stage": null, "detail": null}
+{"gene": "Calhm6", "status": "ok", "search_id": "s_c1e05e78", "judge_id": "m_2735b9a0", "parent_n": 25, "yes": 2, "no": 23, "downgraded": 0, "paper_errors": 0, "corpus_count": null, "seconds_total": 32.0, "stage": null, "detail": null}
+{"gene": "Rnd1", "status": "ok", "search_id": "s_054f62ac", "judge_id": "m_d08ce3d4", "parent_n": 25, "yes": 1, "no": 24, "downgraded": 0, "paper_errors": 0, "corpus_count": null, "seconds_total": 33.5, "stage": null, "detail": null}
+{"gene": "Lipg", "status": "ok", "search_id": "s_232ac6d0", "judge_id": "m_7fcccaef", "parent_n": 25, "yes": 0, "no": 25, "downgraded": 0, "paper_errors": 0, "corpus_count": null, "seconds_total": 27.7, "stage": null, "detail": null}
+{"gene": "Col27a1", "status": "ok", "search_id": "s_cd2bfddf", "judge_id": "m_3ee727c7", "parent_n": 25, "yes": 0, "no": 25, "downgraded": 0, "paper_errors": 0, "corpus_count": null, "seconds_total": 30.2, "stage": null, "detail": null}
+{"gene": "Hcar2", "status": "ok", "search_id": "s_2d9cfad3", "judge_id": "m_01151da6", "parent_n": 25, "yes": 2, "no": 23, "downgraded": 1, "paper_errors": 0, "corpus_count": null, "seconds_total": 35.9, "stage": null, "detail": null}
+{"wall_seconds": 206.4, "genes": 12, "workers": 4}

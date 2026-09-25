@@ -1,0 +1,169 @@
+$ src/pc.sh map --from s_8b34d3ac --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}}} Does this paper describe the expression of the gene Hcar2 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_268490d1
+
+  ✓ Constitutive Androstane Receptor in Macrophages Regulates Toll‐Like Re
+    PMC12622418 · 832ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Comparative Study of The Effect of LPS on The Function of BALB/c and C
+    PMC3660024 · 735ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ The orientation of choroidal macrophage polarization significantly inf
+    bio_b06931d1 · 1139ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Hydroxycarboxylic acid receptor 2 (HCAR2/GPR109A) expression and signa
+    bio_24b6555f · 639ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Motif prediction to distinguish LPS-stimulated pro-inflammatory vs. an
+    PMC2949756 · 804ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Transcriptional profiling of the LPS induced NF-κB response in macroph
+    PMC1781469 · 1074ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide preconditioning augments the antibacterial activity
+    PMC12035103 · 1392ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 880ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Histone deacetylase 2 is essential for LPS‐induced inflammatory respon
+    PMC7379312 · 789ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LncRNA HOTAIR regulates lipopolysaccharide-induced cytokine expression
+    PMC6199307 · 917ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Dysregulation of macrophage lipid metabolism underlies intracellular b
+    PMC13253848 · 832ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ HCX3 Mitigates LPS-Induced Inflammatory Responses in Macrophages by Su
+    PMC12562522 · 768ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Mathematical modelling of activation-induced heterogeneity in TNF, IL6
+    PMC9411976 · 797ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Anti-inflammatory and polarization-modulating effects of Houttuynia co
+    PMC12957811 · 821ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LPS combined with CD47mAb enhances the anti‑osteosarcoma ability of ma
+    PMC10091190 · 887ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Lipopolysaccharide uptake is augmented in lipopolysaccharide‐tolerant 
+    PMC13398632 · 964ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Progranulin inhibits LPS-induced macrophage M1 polarization via NF-кB 
+    PMC7275413 · 765ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Macrophage-Specific Coxsackievirus and Adenovirus Receptor Deletion En
+    PMC10049483 · 753ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LPS Tolerance Inhibits Cellular Respiration and Induces Global Changes
+    PMC7918892 · 791ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Activated niacin receptor HCA2 inhibits chemoattractant-mediated macro
+    PMC5301212 · 1164ms
+    {
+      "answer": "yes",
+      "evidence": "We found that proinflammatory stimulants LPS, IL-6 and IL-1\u0322 up-regulated the expression of HCA2 on macrophages."
+    }
+
+  ✓ Mathematical modelling of activation-induced heterogeneity reveals cel
+    bio_206e5a35 · 1007ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ The Regulatory Roles of Ezh2 in Response to Lipopolysaccharide (LPS) i
+    PMC10049283 · 912ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Effect of Human Umbilical Vein Endothelial Cells on Immune Responses o
+    PMC6144854 · 924ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ HCAR2 the rescue: sensing heme, steering inflammation
+    PMC12413307 · 811ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Macrophage subsets exhibit distinct E. coli-LPS tolerisable cytokines 
+    PMC6533032 · 694ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[14.0s, saved to m_268490d1]
+
+  [####................]  5/25 papers  run m_268490d1  [2s]
+  [###############.....]  19/25 papers  run m_268490d1  [4s]
+  [####################]  25/25 papers  run m_268490d1  [6s]
+

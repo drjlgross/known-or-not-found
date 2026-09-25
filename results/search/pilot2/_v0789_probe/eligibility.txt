@@ -1,0 +1,23 @@
+  [....................]  0/0 papers  [0s]  [....................]  0/2 papers  run m_dad4b7d0  [2s]  [....................]  0/2 papers  run m_dad4b7d0  [4s]
+Map complete: 2/2 papers
+Results ID: m_dad4b7d0
+
+  ✓ Essential role of Rnd1 in innate immunity during viral and bacterial i
+    PMC9161769 · 1553ms
+    Yes, the paper reports its own experimental data showing that Rnd1 expression changes in response to bacterial infection (*Listeria monocytogenes* / LM). Specifically:
+    
+    * "Hela or peripheral blood mononuclear cells (PBMCs) with Listeria monocytogenes (LM) and analysed the expression of Rnd1 (Fig. 1A–C)." (L17)
+    * Figure 1 shows the induction of Rnd1 expression after infection with *Listeria monocytogenes* (LM) in PBMCs and HeLa cells (L17-L18). 
+    * The luciferase reporter assay demonstrated that "Rnd1 is induced by virus and bacterial infection and pro-inflammatory cytokines" (L17). 
+    
+    However, regarding *LPS*, the paper mentions LPS only in the context of previous literature/signaling pathways (e.g., downstream of RhoA/ROCK signaling and IκBα phosphorylation) (L26), but does not report its own experimental data testing Rnd1 expression in response to LPS treatment.
+
+  ✓ Rho GTPase Expression in Human Myeloid Cells
+    PMC3420873 · 1370ms
+    Based on the paper, the expression of Rnd1 in myeloid cells (including during DC maturation induced by LPS) was found to be very low or below detectable thresholds, and the paper does not report experimental data showing that Rnd1 expression changes in response to bacterial infection. 
+    
+    Specifically, the paper notes:
+    > "The $2^{-\Delta\Delta Ct}$ values of RhoJ, the Rac1 splice variant Rac1B, RhoD, RhoH, RhoU, Rnd1, Rnd2, Rnd3 and RhoBTB1 are below 0.1 in all myeloid cell types analyzed; therefore these Rho GTPases are probably less important in myeloid cells." (L46)
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[4.6s, saved to m_dad4b7d0]

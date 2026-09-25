@@ -1,0 +1,348 @@
+$ src/pc.sh map --from s_e75092b6 --limit 50 -j 50 --output-schema {"type": "object", "required": ["answer", "evidence"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Lipg (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes in response to LPS or bacterial infection? Answer yes or no. If yes, quote the sentence reporting that result; it must name the gene or its protein. Use an empty string if no.
+# exit 0
+Map complete: 50/50 papers
+Results ID: m_d6ed8a34
+
+  ✓ LIPG is a novel prognostic biomarker and correlated with immune infilt
+    PMC9833968 · 836ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Regulatory roles of bioactive lipids in vascular homeostasis and remod
+    PMC12955355 · 1152ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LIPG‐promoted lipid storage mediates adaptation to oxidative stress in
+    PMC6618071 · 958ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Endothelial Lipase: A New Risk Factor for Atherosclerosis?
+    PMC1316069 · 795ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Endothelial lipase facilitates low-density lipoprotein (LDL) uptake in
+    bio_c6ad2160 · 925ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ A host lipase prevents lipopolysaccharide-induced foam cell formation
+    PMC8426562 · 847ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Angiopoietin like protein 3 regulates low-density lipoprotein transpor
+    bio_81ee9438 · 1501ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Inhibition of LIPG phospholipase activity suppresses tumor formation o
+    PMC7265491 · 819ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Analysis of the transcriptional networks underpinning the activation o
+    PMC4378362 · 975ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Which is the Best Predictor for the Development of Atherosclerosis Amo
+    PMC6753242 · 856ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Population-Based Resequencing of LIPG and ZNF202 Genes in Subjects wit
+    PMC3375090 · 977ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Mining the LIPG Allelic Spectrum Reveals the Contribution of Rare and 
+    PMC3234219 · 1236ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Effects of activation on lipoprotein lipase secretion by macrophages. 
+    PMC2188426 · 817ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Effect of Interactions Between Endothelial Lipase Gene Polymorphisms a
+    PMC12326425 · 915ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ FoxA and LIPG endothelial lipase control the uptake of extracellular l
+    PMC4822041 · 1331ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide-mediated macrophage polarization, conserved pathoge
+    PMC13372918 · 918ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LIPG endothelial lipase and breast cancer risk by subtypes
+    PMC8129130 · 1032ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Expression analysis of G Protein-Coupled Receptors in mouse macrophage
+    PMC2394514 · 860ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipid Metabolism in Inflammation and Immune Function
+    PMC9002396 · 797ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ A Global Picture of Molecular Changes Associated to LPS Treatment in T
+    PMC9656053 · 815ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LIPG supports adaption to oxidative stress
+    PMC6694707 · 831ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ ZDHHC1 downregulates LIPG and inhibits colorectal cancer growth via IG
+    PMC11405259 · 986ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ NCBP2 drives colorectal cancer growth and metastasis through LIPG-medi
+    PMC13172313 · 1772ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Increased expression of endothelial lipase in symptomatic and unstable
+    PMC3296002 · 1399ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Genetic and Structure-Function Studies of Missense Mutations in Human 
+    PMC3607615 · 1224ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Monocyte normal immune response to LPS stimulation
+    PMC3333514 · 1014ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LPS inactivation by a host lipase allows lung epithelial cell sensitiz
+    PMC6122967 · 1292ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ A Proof-of-Concept Inhibitor of Endothelial Lipase Suppresses Triple-N
+    PMC9367514 · 1216ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Interplay between Saturated Free Fatty Acids and mmLDL Induces Inflamm
+    PMC7779815 · 991ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Associations of Rs3744841 and Rs3744843 Polymorphisms in Endothelial L
+    PMC5017691 · 853ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LipG a bifunctional phospholipase/thioesterase involved in mycobacteri
+    PMC6435540 · 996ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Construction of a lipid metabolism-based prognostic gene signature in 
+    PMC12522510 · 1415ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 989ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Immunogenetic modulation of endothelial inflammation by the LIPG −384A
+    PMC13273450 · 867ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LIPG signaling promotes tumor initiation and metastasis of human basal
+    PMC5809145 · 948ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Roles of TLR4 in macrophage immunity and macrophage-pulmonary vascular
+    PMC11928643 · 1253ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Functional involvement of endothelial lipase in hepatitis B virus infe
+    PMC10476801 · 1032ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Quercetin inhibits LPS-induced macrophage migration by suppressing the
+    PMC6527387 · 832ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Endothelial lipase mediates efficient lipolysis of triglyceride-rich l
+    PMC8483387 · 1192ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Free Fatty Acids and LPS Synergistically Promote Macrophage M1 Polariz
+    PMC12847160 · 1112ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Novel Role of Endothelial Derived Exosomal HSPA12B in Regulating Macro
+    PMC7221167 · 930ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LPS Counter Regulates RNA Expression of Extracellular Proteases and Th
+    PMC3317238 · 923ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Bacterial lipopolysaccharides prime macrophages for enhanced release o
+    PMC2188197 · 1127ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Macrophages mediate colon carcinoma cell adhesion in the rat liver aft
+    PMC3525607 · 1114ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Selection of reliable reference genes for the normalisation of gene ex
+    PMC5627409 · 1009ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyr
+    PMC9456100 · 803ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Macrophage-derived exosomes mediate glomerular endothelial cell dysfun
+    PMC9990300 · 1111ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Segregation of LIPG, CETP, and GALNT2 Mutations in Caucasian Families 
+    PMC3428317 · 905ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Changes in lipoprotein lipase and endothelial lipase mass in familial 
+    PMC4818918 · 870ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Sex hormones affect endothelial lipase-mediated lipid metabolism and a
+    PMC6929444 · 929ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[58.2s, saved to m_d6ed8a34]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  0/50 papers  run m_d6ed8a34  [2s]
+  [###.................]  8/50 papers  run m_d6ed8a34  [4s]
+  [####................]  11/50 papers  run m_d6ed8a34  [6s]
+  [########............]  20/50 papers  run m_d6ed8a34  [12s]
+  [############........]  30/50 papers  run m_d6ed8a34  [14s]
+  [#############.......]  33/50 papers  run m_d6ed8a34  [16s]
+  [#############.......]  34/50 papers  run m_d6ed8a34  [25s]
+  [#################...]  43/50 papers  run m_d6ed8a34  [27s]
+  [####################]  50/50 papers  run m_d6ed8a34  [29s]
+  [####################]  50/50 papers  run m_d6ed8a34  [39s]
+  [####################]  50/50 papers  run m_d6ed8a34  [49s]
+  [####################]  50/50 papers  run m_d6ed8a34  [57s]
+

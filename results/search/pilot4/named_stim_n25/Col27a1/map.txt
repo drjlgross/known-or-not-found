@@ -1,0 +1,177 @@
+$ src/pc.sh map --from s_0a30c513 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Col27a1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, quote the single sentence that reports that result; it must name the gene or its protein, name LPS or the infection, and state the change. Use an empty string if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_b7522afc
+
+  ✓ INVOLVEMENT OF MACROPHAGES IN COLLAGEN RESORPTION
+    PMC2107732 · 1245ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 767ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Collagen Fibril Density Modulates Macrophage Activation and Cellular F
+    PMC7356036 · 866ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LPS combined with CD47mAb enhances the anti‑osteosarcoma ability of ma
+    PMC10091190 · 983ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Interleukins-27 Aggravates Liver Injury by Impairing the Antimicrobial
+    PMC11882325 · 950ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Transcriptome Analysis Provides Insights into the Markers of Resting a
+    PMC6274997 · 863ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ IL-27 neutralization enhances macrophage polarization and improves imm
+    bio_5e67bb72 · 846ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Exosomal miR-148a-3p from LPS-Activated Macrophages Promotes M1 Polari
+    PMC13199726 · 754ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Osteocalcin Alleviates Lipopolysaccharide-Induced Acute Inflammation v
+    PMC9138386 · 743ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ IL-27 amplifies cytokine responses to Gram-negative bacterial products
+    PMC6135775 · 807ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Comparative Study of The Effect of LPS on The Function of BALB/c and C
+    PMC3660024 · 820ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ IL-27 Aggravates Sepsis-Induced ARDS by Driving Macrophage Ferroptosis
+    PMC12967598 · 773ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Selection of reliable reference genes for the normalisation of gene ex
+    PMC5627409 · 928ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Collagen XXVII Organises the Pericellular Matrix in the Growth Plate
+    PMC3242791 · 1602ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Effect of regulating macrophage polarization phenotype on intervertebr
+    PMC9609449 · 1417ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ LPS‐Induced Inflammation Prior to Injury Exacerbates the Development o
+    PMC7689775 · 1266ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LPS Counter Regulates RNA Expression of Extracellular Proteases and Th
+    PMC3317238 · 907ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(
+    PMC7053374 · 663ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LPS-induced senescence of macrophages aggravates calcification and sen
+    PMC11232647 · 815ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Biomimetic collagenous scaffold to tune inflammation by targeting macr
+    PMC4765811 · 736ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Epigenetic profile in lipopolysaccharide-stimulated macrophages
+    PMC3953056 · 672ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ High-Resolution Mapping and Dynamics of the Transcriptome, Transcripti
+    PMC5778122 · 987ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Mmu-miR-27a-5p-Dependent Upregulation of MCPIP1 Inhibits the Inflammat
+    PMC4534598 · 801ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Mathematical modelling of activation-induced heterogeneity reveals cel
+    bio_206e5a35 · 1003ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Mathematical modelling of activation-induced heterogeneity in TNF, IL6
+    PMC9411976 · 1326ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[23.2s, saved to m_b7522afc]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  1/25 papers  run m_b7522afc  [2s]
+  [##########..........]  13/25 papers  run m_b7522afc  [4s]
+  [############........]  16/25 papers  run m_b7522afc  [6s]
+  [##############......]  18/25 papers  run m_b7522afc  [8s]
+  [##################..]  23/25 papers  run m_b7522afc  [10s]
+  [####################]  25/25 papers  run m_b7522afc  [12s]
+  [####################]  25/25 papers  run m_b7522afc  [22s]
+

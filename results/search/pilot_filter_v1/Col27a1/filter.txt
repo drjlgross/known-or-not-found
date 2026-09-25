@@ -1,0 +1,6 @@
+$ src/pc.sh filter --from s_3c47c70f Does this paper describe the expression of the gene Col27a1 changing in response to LPS or bacterial infection?
+# exit 0
+Filtered: 25 → 0 papers (25 removed as irrelevant) in 582ms
+  → 0 papers after filtering
+Results ID: s_3c47c70f (updated in place)
+[632ms, saved to s_3c47c70f]  [repo: mva-lof-molecular]

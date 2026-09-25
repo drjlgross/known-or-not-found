@@ -1,0 +1,174 @@
+Map results  [m_3ee727c7]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Col27a1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+
+--- [1] [success] INVOLVEMENT OF MACROPHAGES IN COLLAGEN RESORPTION ---
+doc_id: PMC2107732
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [2] [success] Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC6543837
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [3] [success] Collagen Fibril Density Modulates Macrophage Activation and Cellular Functions during Tissue Repair ---
+doc_id: PMC7356036
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [4] [success] LPS combined with CD47mAb enhances the anti‑osteosarcoma ability of macrophages ---
+doc_id: PMC10091190
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [5] [success] Interleukins-27 Aggravates Liver Injury by Impairing the Antimicrobial Response of Macrophages via the Promotion of Mitochondrial Dysfunction in the Context of Sepsis ---
+doc_id: PMC11882325
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [6] [success] Transcriptome Analysis Provides Insights into the Markers of Resting and LPS-Activated Macrophages in Grass Carp (Ctenopharyngodon idella) ---
+doc_id: PMC6274997
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [7] [success] IL-27 neutralization enhances macrophage polarization and improves immune checkpoint efficacy ---
+doc_id: bio_5e67bb726e21
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [8] [success] Exosomal miR-148a-3p from LPS-Activated Macrophages Promotes M1 Polarization and Ferroptosis-Related Characteristics of Recipient Macrophages by Reducing SLC7A11 ---
+doc_id: PMC13199726
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [9] [success] Osteocalcin Alleviates Lipopolysaccharide-Induced Acute Inflammation via Activation of GPR37 in Macrophages ---
+doc_id: PMC9138386
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [10] [success] IL-27 amplifies cytokine responses to Gram-negative bacterial products and Salmonella typhimurium infection ---
+doc_id: PMC6135775
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [11] [success] IL-27 Aggravates Sepsis-Induced ARDS by Driving Macrophage Ferroptosis Through Activation of NCOA4-Mediated Ferritinophagy ---
+doc_id: PMC12967598
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [12] [success] Comparative Study of The Effect of LPS on The Function of BALB/c and C57BL/6 Peritoneal Macrophages ---
+doc_id: PMC3660024
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [13] [success] Selection of reliable reference genes for the normalisation of gene expression levels following time course LPS stimulation of murine bone marrow derived macrophages ---
+doc_id: PMC5627409
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [14] [success] Collagen XXVII Organises the Pericellular Matrix in the Growth Plate ---
+doc_id: PMC3242791
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [15] [success] Effect of regulating macrophage polarization phenotype on intervertebral disc degeneration ---
+doc_id: PMC9609449
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [16] [success] LPS‐Induced Inflammation Prior to Injury Exacerbates the Development of Post‐Traumatic Osteoarthritis in Mice ---
+doc_id: PMC7689775
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [17] [success] LPS Counter Regulates RNA Expression of Extracellular Proteases and Their Inhibitors in Murine Macrophages ---
+doc_id: PMC3317238
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [18] [success] Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC7053374
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [19] [success] LPS-induced senescence of macrophages aggravates calcification and senescence of vascular smooth muscle cells via IFITM3 ---
+doc_id: PMC11232647
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [20] [success] Biomimetic collagenous scaffold to tune inflammation by targeting macrophages ---
+doc_id: PMC4765811
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [21] [success] Epigenetic profile in lipopolysaccharide-stimulated macrophages ---
+doc_id: PMC3953056
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [22] [success] High-Resolution Mapping and Dynamics of the Transcriptome, Transcription Factors, and Transcription Co-Factor Networks in Classically and Alternatively Activated Macrophages ---
+doc_id: PMC5778122
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [23] [success] Mmu-miR-27a-5p-Dependent Upregulation of MCPIP1 Inhibits the Inflammatory Response in LPS-Induced RAW264.7 Macrophage Cells ---
+doc_id: PMC4534598
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [24] [success] Mathematical modelling of activation-induced heterogeneity reveals cell state transitions underpinning macrophage responses to LPS ---
+doc_id: bio_206e5a356c66
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [25] [success] Mathematical modelling of activation-induced heterogeneity in TNF, IL6, NOS2, and IL1β expression reveals cell state transitions underpinning macrophage responses to LPS ---
+doc_id: PMC9411976
+{"answer": "no", "evidence": "", "context": ""}

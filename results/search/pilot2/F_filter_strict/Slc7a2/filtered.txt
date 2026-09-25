@@ -1,0 +1,12 @@
+$ src/pc.sh results s_3b351508
+# exit 0
+  Query: filter 'Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Slc7a2 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes in response to LPS or bacterial infection?' --from s_3b351508
+Found 1 papers  [s_3b351508]
+
+  1. Cationic Amino Acid Transporter 2 Enhances Innate Immunity during Helicobacter pylori Infection
+     Daniel P. Barry; Mohammad Asim; Brooks P. Scull; M. Blanca Piazuelo; Thibaut de Sablet; Nuruddeen D....
+     PMC3237590 · pmc · 2011-12-14
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3237590/
+     "Cationic amino acid transporter 2 (CAT2) was studied in mice infected with *Helicobacter pylori*. CAT2 enhances innate immunity, as its absence leads to increased bacterial colonization and altered immune responses."
+
+

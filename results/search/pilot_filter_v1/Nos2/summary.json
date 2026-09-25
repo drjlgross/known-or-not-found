@@ -1,0 +1,15 @@
+{
+  "gene": "Nos2",
+  "query": "Nos2 LPS macrophage",
+  "filter_question": "Does this paper describe the expression of the gene Nos2 changing in response to LPS or bacterial infection?",
+  "date": "2026-09-24T17:54:26Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_8ee84977",
+  "parent_n": 25,
+  "yes": 7,
+  "no": 18,
+  "seconds_search": 3.3,
+  "seconds_filter": 1.7,
+  "seconds_total": 5.4
+}

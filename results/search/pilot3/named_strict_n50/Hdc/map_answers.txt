@@ -1,0 +1,283 @@
+Map results  [m_9c310053]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Hdc (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes in response to LPS or bacterial infection? Answer yes or no. If yes, quote the sentence reporting that result; it must name the gene or its protein. Use an empty string if no.
+
+--- [1] [success] Histone deacetylase 2 is essential for LPS‐induced inflammatory responses in macrophages ---
+doc_id: PMC7379312
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [2] [success] Histone Deacetylation Inhibitors as Therapy Concept in Sepsis ---
+doc_id: PMC6359123
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [3] [success] HDAC6 Deacetylase Activity Is Critical for Lipopolysaccharide-Induced Activation of Macrophages ---
+doc_id: PMC4199742
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [4] [success] Myeloid-specific Hdac10 deletion protects against LPS-induced acute lung injury via P62 acetylation at lysine 165 ---
+doc_id: PMC11221109
+{
+  "answer": "yes",
+  "evidence": "Our findings revealed an obvious increase of HDAC10 mRNA levels in LPS-exposed ALI mice lung tissues compared to those of normal controls (Fig. 1A)."
+}
+
+--- [5] [success] Sympathetic signaling activation alleviated acute respiratory distress syndrome via the HDC/SLC7A11 axis in lipopolysaccharide-induced macrophages ---
+doc_id: PMC13493966
+{
+  "answer": "yes",
+  "evidence": "Western blot analysis also showed a pronounced elevation of HDC protein in norepinephrine-treated cells (L4F, G)."
+}
+
+--- [6] [success] Inhibitory Effects of Ginsenoside Compound K on Lipopolysaccharide-Stimulated Inflammatory Responses in Macrophages by Regulating Sirtuin 1 and Histone Deacetylase 4 ---
+doc_id: PMC10096759
+{"answer": "no", "evidence": ""}
+
+--- [7] [success] Histone deacetylase 2 (HDAC2) attenuates lipopolysaccharide (LPS)-induced inflammation by regulating PAI-1 expression ---
+doc_id: PMC5763578
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [8] [success] HDAC3 Mediates the Inflammatory Response and LPS Tolerance in Human Monocytes and Macrophages ---
+doc_id: PMC7573361
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [9] [success] Lipopolysaccharide-induced expansion of histidine decarboxylase-expressing Ly6G+ myeloid cells identified by exploiting histidine decarboxylase BAC-GFP transgenic mice ---
+doc_id: PMC6821885
+{"answer": "yes", "evidence": "Quantitative RT-PCR analysis demonstrated that the endogenous Hdc mRNA level was increased 6.1-fold in the lung at 4 hours after LPS administration (L33)."}
+
+--- [10] [success] Histamine and histidine decarboxylase: Immunomodulatory functions and regulatory mechanisms ---
+doc_id: PMC7497259
+{
+  "answer": "yes",
+  "evidence": "We found that the GFP-positive histamine-producing neutrophils were dramatically increased in lung and circulating peripheral blood under septic conditions (Takai et al., 2019)."
+}
+
+--- [11] [success] Dichotomous Engagement of HDAC3 Activity Governs Inflammatory Responses ---
+doc_id: PMC7725280
+{
+  "answer": "yes",
+  "evidence": "As expected, LPS induced massive changes, with up-regulation of classic inflammatory markers such as Il6, Il1a, Il1b, and Nos2, and approximately one-third of LPS-stimulated differentially expressed genes (762/2152) were lost in the MHD3KO macrophages (Fig. 1d and Extended Data Figs. 1a–c)."
+}
+
+--- [12] [success] Histone deacetylase 7 mediates lipopolysaccharide-inducible mitochondrial fission in macrophages ---
+doc_id: PMC12539210
+{"answer": "no", "evidence": ""}
+
+--- [13] [success] HDAC3 promotes macrophage pyroptosis via regulating histone deacetylation in acute lung injury ---
+doc_id: PMC10316655
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [14] [success] The regulation of histidine decarboxylase gene expression. ---
+doc_id: PMC2588973
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [15] [success] Histone deacetylase 5 regulates the inflammatory response of macrophages ---
+doc_id: PMC4568921
+{"answer": "yes", "evidence": "Toll-like receptor-mediated stimulation of murine RAW264.7 cells significantly reduced HDAC5 mRNA within 7 hrs but presented baseline levels after 24 hrs, a mechanism that was also found for Interferon-\u0393 treatment."}
+
+--- [16] [success] Histamine Signaling Is Essential for Tissue Macrophage Differentiation and Suppression of Bacterial Overgrowth in the Stomach ---
+doc_id: PMC9672892
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [17] [success] Role of histamine-mediated macrophage differentiation in clearance of metastatic bacterial infection ---
+doc_id: PMC10682073
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [18] [success] HDAC2 mediates the activation of macrophage in sepsis induced lung injury via regulating the acetylation of SOX2 and the transcription of STAMP2 ---
+doc_id: PMC12395717
+{"answer": "yes", "evidence": "For in vitro experiments, lipopolysaccharide (LPS)-induced macrophages were employed to model SLI."}
+
+--- [19] [success] The Novel HDAC8 Inhibitor WK2-16 Attenuates Lipopolysaccharide-Activated Matrix Metalloproteinase-9 Expression in Human Monocytic Cells and Improves Hypercytokinemia In Vivo ---
+doc_id: PMC5535887
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [20] [success] Targeting Histone Deacetylases in Myeloid Cells Inhibits Their Maturation and Inflammatory Function With Limited Effects on Atherosclerosis ---
+doc_id: PMC6830127
+{"answer": "no", "evidence": ""}
+
+--- [21] [success] HDAC1 and SATB1 positively regulate immune responses in chicken macrophages ---
+doc_id: PMC12925555
+{"answer": "yes", "evidence": "Under these conditions, HDAC1 and SATB1 transcripts were significantly upregulated (Fig. 1C; P < 0.05 and P < 0.001, respectively), implicating both factors in the HD11 response to LPS."}
+
+--- [22] [success] Anti-Allergic Potential of Cinnamaldehyde via the Inhibitory Effect of Histidine Decarboxylase (HDC) Producing Klebsiella pneumonia ---
+doc_id: PMC7730296
+{"answer": "no", "evidence": ""}
+
+--- [23] [success] Histone deacetylase 9 deficiency exaggerates uterine M2 macrophage polarization ---
+doc_id: PMC8358884
+{"answer": "no", "evidence": ""}
+
+--- [24] [success] HDC/histamine Signaling Axis Drives Macrophage Reprogramming to Promote Angiogenesis in Hindlimb-Ischemic Mice ---
+doc_id: PMC12035888
+{"answer": "no", "evidence": ""}
+
+--- [25] [success] Degradation of histone deacetylase 4 via the TLR4/JAK/STAT1 signaling pathway promotes the acetylation of high mobility group box 1 (HMGB1) in lipopolysaccharide‐activated macrophages ---
+doc_id: PMC6026695
+{"answer": "yes", "evidence": "As shown Fig. 3A, the protein expression of HDAC4 decreased in a time-dependent manner after LPS treatment, which was reversed by MG132, a proteasome inhibitor (Fig. 3B), suggesting that LPS treatment enhanced HDAC4 loss by proteasome-dependent degradation."}
+
+--- [26] [success] Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC6543837
+{"answer": "no", "evidence": ""}
+
+--- [27] [success] LSD1 Facilitates Pro-Inflammatory Polarization of Macrophages by Repressing Catalase ---
+doc_id: PMC8469135
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [28] [success] Expression of Histidine Decarboxylase and Its Roles in Inflammation ---
+doc_id: PMC6359378
+{"answer": "yes", "evidence": "Implantation of the wire increased the expression of HDC mRNA in the inflammatory tissues from 4 h to 72 h post implantation as well as the expression of cytokines, such as MIP-2 and monocyte chemoattractant protein-1 (MCP-1), a chemoattractant for monocytes [47,[48],49]."}
+
+--- [29] [success] Motif prediction to distinguish LPS-stimulated pro-inflammatory vs. antibacterial macrophage genes ---
+doc_id: PMC2949756
+{"answer": "no", "evidence": ""}
+
+--- [30] [success] Beyond Regulation of Acid Secretion: A Novel Role for Histamine in Gastric Macrophage Differentiation and Function ---
+doc_id: PMC9793254
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [31] [success] Molecular Regulation of Histamine Synthesis ---
+doc_id: PMC6019440
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [32] [success] HDAC6 inhibition reprograms endothelial and macrophage responses to protect the lung in endotoxemia ---
+doc_id: PMC13217679
+{"answer": "no", "evidence": ""}
+
+--- [33] [success] The arginase 1/ornithine decarboxylase pathway suppresses HDAC3 to ameliorate the myeloid cell inflammatory response: implications for retinal ischemic injury ---
+doc_id: PMC10514323
+{"answer": "no", "evidence": ""}
+
+--- [34] [success] HDAC6 Mediates Macrophage iNOS Expression and Excessive Nitric Oxide Production in the Blood During Endotoxemia ---
+doc_id: PMC7468378
+{"answer": "yes", "evidence": "Our data clearly indicate that HDAC6 is an important mediator of NO production in macrophages. HDAC6 mediates NO production through the regulation of iNOS expression in macrophages. HDAC6 up-regulates iNOS expression in macrophages by modulating STAT1 activation and IRF-1 expression. HDAC6 inhibition potently blocked endotoxin-induced STAT1 activation and iNOS expression in macrophages."}
+
+--- [35] [success] Molecular biology of histidine decarboxylase and prostaglandin receptors ---
+doc_id: PMC3037517
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [36] [success] Biliary damage and liver fibrosis are ameliorated in a novel mouse model lacking l-histidine decarboxylase/histamine signaling ---
+doc_id: PMC7286781
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [37] [success] EFFECTS OF HDC-KNOCKOUT ON MITOCHONDRIAL FUNCTION AND SKELETAL MUSCLE IN BALB/C MICE ---
+doc_id: PMC11690927
+{"answer": "no", "evidence": ""}
+
+--- [38] [success] Role of histidine decarboxylase gene in the pathogenesis of Tourette syndrome ---
+doc_id: PMC8933785
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [39] [success] Histamine Derived from Probiotic Lactobacillus reuteri Suppresses TNF via Modulation of PKA and ERK Signaling ---
+doc_id: PMC3285189
+{"answer": "no", "evidence": ""}
+
+--- [40] [success] Histone hyperacetylation mediates enhanced IL‐1β production in LPS/IFN‐γ‐stimulated macrophages ---
+doc_id: PMC7218666
+{"answer": "no", "evidence": ""}
+
+--- [41] [success] Histatin-1 Attenuates LPS-Induced Inflammatory Signaling in RAW264.7 Macrophages ---
+doc_id: PMC8345949
+{"answer": "no", "evidence": ""}
+
+--- [42] [success] Aconitate decarboxylase 1 mediates the acute airway inflammatory response to environmental exposures ---
+doc_id: PMC11439662
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [43] [success] Histone deacetylase 3 regulates microglial function through histone deacetylation ---
+doc_id: PMC10392760
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [44] [success] The  Hdc  GC box is critical for  Hdc  gene transcription and histamine-mediated anaphylaxis ---
+doc_id: bio_b718d2686c27
+{"answer": "no", "evidence": ""}
+
+--- [45] [success] LPS Tolerance Inhibits Cellular Respiration and Induces Global Changes in the Macrophage Secretome ---
+doc_id: PMC7918892
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [46] [success] LPS mediates cuproptosis and inflammation in THP-1 macrophages through HKDC1 ---
+doc_id: PMC12748187
+{
+  "answer": "yes",
+  "evidence": "Western blot analysis revealed that the protein level of HKDC1 was significantly increased in the lung tissues of LPS-treated mice, whereas AAV-shHKDC1 treatment mitigated this effect."
+}
+
+--- [47] [success] Knockdown of histone deacetylase 9 attenuates sepsis-induced myocardial injury and inflammatory response ---
+doc_id: PMC10435362
+{"answer": "yes", "evidence": "RT-qPCR analysis showed that Hdac9 expression was enhanced in LPS-treated cells in a dose-dependent manner (Fig. 2A), whereas miR-214-3p level was drastically downregulated in cells with LPS treatment (Fig. 2B)."}
+
+--- [48] [success] Control of histidine decarboxylase gene expression in enterochromaffin-like cells. ---
+doc_id: PMC2578993
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [49] [success] The synergistic effect of homocysteine and lipopolysaccharide on the differentiation and conversion of raw264.7 macrophages ---
+doc_id: PMC4030071
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [50] [success] Associations of Polymorphisms in Histidine Decarboxylase, Histamine N-Methyltransferase and Histamine Receptor H3 Genes with Breast Cancer ---
+doc_id: PMC4023951
+{
+  "answer": "no",
+  "evidence": ""
+}

@@ -1,0 +1,486 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 50 Hcar2 (hydroxycarboxylic acid receptor 2) LPS macrophage
+# exit 0
+Found 50 papers  [s_109883b3]
+
+  1. Expression analysis of G Protein-Coupled Receptors in mouse macrophages
+     Jane E Lattin; Kate Schroder; Andrew I Su; John R Walker; Jie Zhang; Tim Wiltshire; Kaoru Saijo; Chr...
+     PMC2394514 · PMC · 2008-04-29 · 403 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2394514/
+     Matched: LPS-regulated GPCR expression in mouse macrophages · cat /papers/PMC2394514/content.lines --lines 134-162
+     │ Table 4: GPCRs repressed by LPS in macrophages. | | | Relative Normalised Expression |
+     │ Relative Normalised Expression | Relative Normalised Expression | Relative Normalised
+     │ Expression | Relative Normalised Expression Receptor Class | Accession Number | Gene Name |
+     │ BMM | BMM | BMM | TEPM | TEPM | | | 2 h | 6 h | 24 h | 1 h | 7 h Repressed by LPS in BMM and
+     │ TEPM | Repressed by LPS in BMM and TEPM | Repressed by LPS in BMM and TEPM | Repressed by
+     │ LPS in BMM and TEPM | Repressed by LPS in BMM and TEPM | Repressed by LPS in BMM and TEPM |
+     │ Repressed by LPS in BMM and TEPM | Repressed by LPS in BMM and TEPM Class A | | | | | | | |
+     │ NM_009924 | Cnr2 | 0.2 | 0.1 | 0.3 | 0.3 | 0.1 | NM_009911 | Cxcr4 …
+     "This study analyzed GPCR expression in mouse macrophages, comparing it to other cell types and LPS-stimulated macrophages. Several P2RY family members showed macrophage-specific expression or LPS-regulated changes, suggesting roles in macrophage biology and inflammation."
+
+  2. Metabolite-sensing GPCRs controlling interactions between adipose tissue and inflammation
+     Elaine M. Duncan; Luca Vita; Bethany Dibnah; Brian D. Hudson
+     PMC10357040 · PMC · 2023-07-06 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10357040/
+     Matched: Hydroxyl carboxylic acid receptors · cat /papers/PMC10357040/content.lines --lines 25-27
+     │ HCA2 is highly expressed in both human and murine white and brown adipose tissue, with
+     │ expression increasing through adipogenesis of common adipocyte cell models (62, 63). To a
+     │ lesser extent the receptor is also expressed in macrophages, with evidence showing that HCA2
+     │ expression is upregulated in the presence of proinflammatory stimuli, like
+     │ lipopolysaccharide (LPS) and TNF-α (64, 65). A similar increase in HCA2 expression in
+     │ response to LPS is also observed in cultured adipocyte models in vitro (66). In contrast,
+     │ adipocyte HCA2 expression decreases in diet induced obese mice (66), and expression is
+     │ decreased in subcutaneous adipose tissue of obese human subjects (67). These contrasting in
+     │ …
+     "This paper reviews metabolite-sensing GPCRs in adipose tissue and their role in inflammation. These receptors, activated by fatty acids, hydroxy carboxylic acids, and succinate, are critical for metabolic-immune interactions."
+
+  3. Hydroxycarboxylic acid receptor 2 (HCAR2/GPR109A) expression and signaling promotes the maintenance of an immunoinhibitory retinal environment
+     Folami L. Powell, Amany Tawfik, Pachiappan Arjunan, Deeksha Gambhir Chopra, Mohamed Al-Shabrawey, Na...
+     bio_24b6555f70b8 · bioRxiv · 2021-03-15 · 2 citations (all versions)
+     Published (2021): https://doi.org/10.1101/2021.03.15.435493
+     Matched: Lipopolysaccharide (LPS)-induced uveitis · cat /papers/bio_24b6555f70b8/content.lines --lines 56
+     │ Acute inflammation was induced in wildtype and HCAR2/GPR109A knockout mice (male, age 6
+     │ weeks) using LPS ( Salmonella typhimurium , 4 mg/kg) ( Catorce and Gevorkian 2016 ).
+     │ Wildtype and HCAR2/GPR109A knockout mice were injected intraperitoneally with PBS or
+     │ β-hydroxybutyrate (BHB, 300mg/kg) once daily for three consecutive days. On day 4, LPS (4
+     │ mg/kg) was administered intraperitoneally in conjunction with PBS or with BHB (300 mg/kg)
+     │ and, 24 h later some animals were subjected to leukostasis assay (as described below) and,
+     │ others were sacrificed and eyes enucleated and processed for FACS analyses, also as
+     │ described below.
+     "HCAR2/GPR109A expression was studied in retinal cells and its role in immune regulation investigated. HCAR2/GPR109A activation promotes an immunoinhibitory retinal environment, potentially protecting against degenerative diseases."
+
+  4. Activated niacin receptor HCA2 inhibits chemoattractant-mediated macrophage migration via Gβγ/PKC/ERK1/2 pathway and heterologous receptor desensitization
+     Ying Shi; Xiangru Lai; Lingyan Ye; Keqiang Chen; Zheng Cao; Wanghua Gong; Lili Jin; Chunyan Wang; Mi...
+     PMC5301212 · PMC · 2017-02-10 · 37 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5301212/
+     Matched: LPS-induced acute endotoxemia in mice · cat /papers/PMC5301212/content.lines --lines 56-57
+     │ Animals were housed in the Laboratory Animal Center of Zhejiang University. Hca2−/− mice
+     │ were obtained by intercrossing Hca2+/− mice. Genotyping of the Hca2 alleles was performed by
+     │ PCR using the primers Hca2-sense-1(5′-TCA GAT CTG ACT CGT CCA CC-3′) and 333-KO (5′-CCT CTT
+     │ CGC TAT TAC GCC AGC-3′) for the inactivated allele and the primers Hca2-sense-1 and 333-WT
+     │ (5′-CCA TTG CCC AGG AGT CCG AAC-3′) for the wild-type allele as previous reported[12]. For
+     │ entoxemia, 4–6 week-old Hca2 KO (C57BL) and WT (C57BL) mice were used. Mice were divided
+     │ into three groups (n = 8–12 each group): saline gavage with saline injection, saline gavage
+     │ with LPS (10 mg/kg) injection and niacin (200 mg/kg) gavage …
+     "Activated niacin receptor HCA2 was studied in macrophages to understand its role in inflammation. Niacin inhibits macrophage migration via Gβγ/PKC/ERK1/2 signaling and receptor desensitization, protecting against septic shock."
+
+  5. Biological Roles and Therapeutic Potential of Hydroxy-Carboxylic Acid Receptors
+     Kashan Ahmed
+     PMC3356039 · PMC · 2011-10-25 · 50 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3356039/
+     Matched: Conclusion and Future Perspectives · cat /papers/PMC3356039/content.lines --lines 83-84
+     "Hydroxy-carboxylic acid receptors (HCARs) are activated by metabolic intermediates and expressed in adipose tissue. They regulate lipolysis and represent promising therapeutic targets for metabolic diseases."
+
+  6. The hydroxycarboxylic acid receptor HCA2 is required for the protective effect of ketogenic diet in epilepsy
+     Jill C. Richardson; Guy A. Higgins; Neil Upton; Peter Massey; Mark Cunningham; Steve Wilson; Joerg H...
+     PMC11496569 · PMC · 2024-10-22 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11496569/
+     Matched: cat /papers/PMC11496569/content.lines --lines 16-35
+     │ aCSF: artificial cerebrospinal fluid ACTH: adrenocorticotropic hormone AD: Alzheimer's
+     │ disease ASM: anti‐seizure medication b.i.d.: [twice per day] CC50: current causing
+     │ half‐maximal effect EAE: experimental autoimmune encephalomyelitis FFA: free fatty acid
+     │ GLUT‐1: glucose transporter type‐1 HCA: hydroxycarboxylic acid KO: knock‐out LPS:
+     │ lipopolysaccharide MMF: mono‐methylfumarate MS: multiple sclerosis PD: Parkinson's disease
+     │ PTZ: pentylenetetrazol SLE: seizure‐like event SRS: spontaneous recurrent seizures WT:
+     │ wild‐type β‐HB: β‐hydroxybutyrate
+     "This study investigated the role of the HCA2 receptor in the ketogenic diet's anti-seizure effects. The HCA2 receptor is essential for the diet's protective benefits, suggesting it's a potential therapeutic target for epilepsy."
+
+  7. Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review
+     Leah Elson; Niels Eijkelkamp; J. Henk Coert
+     PMC13372918 · PMC · 2026-07-15 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13372918/
+     Matched: Study overview · cat /papers/PMC13372918/content.lines --lines 49-52
+     "This systematic review synthesized evidence for a conserved lipopolysaccharide (LPS)-mediated pathogenic mechanism across diverse tissues and evaluated its potential relevance to peripheral neuropathy"
+
+  8. Dysregulation of macrophage lipid metabolism underlies intracellular bacterial neuroinvasion
+     Zhou Sha; Kun Yang; Shoupeng Fu; Xiaoyong Tong; Hui Yang; Huiling Fang; Qianqian He; Ning Li; Xinyu ...
+     PMC13253848 · PMC · 2026-04-14 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13253848/
+     Matched: BHB promotes the survival of macrophages via HCAR2-mediated calcium in · cat /papers/PMC13253848/content.lines --lines 49-50
+     │ Because the foamy stage appears to be a terminal point of macrophage differentiation[47], we
+     │ wondered whether, in addition to converting peritoneal macrophages to the foamy phenotype,
+     │ cell survival also contributed to the increase in absolute quantity of CD36+ macrophages
+     │ induced by BHB treatment. The HCAR2+/+ and HCAR2−/− macrophages were isolated and infected
+     │ with L. monocytogenes (MOI = 10) for 6 h, and then the cells were washed with PBS containing
+     │ gentamicin to eliminate extracellular bacteria. Immunofluorescence was then performed to
+     │ verify intracellular bacterial localization and to confirm comparable infection efficiency
+     │ across groups, showing that approximately 83–89% of …
+     "Acute central nervous system infection is highly lethal, yet the mechanisms by which intracellular bacteria infiltrate the brain remain unclear. Phagocytes are central to host defense, but how infecte"
+
+  9. Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni; Yanal Ghosheh; Akula Bala Pramod; Klaus Ley
+     PMC7053374 · PMC · 2020-02-25 · 77 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7053374/
+
+  10. Monocyte normal immune response to LPS stimulation
+     P Myrianthefs; K Venetsanou; E Grouzi; E Boutzouka; P Evagelopoulou; G Fildissis; I Spiliotopoulou; ...
+     PMC3333514 · PMC · 2002-03-01 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3333514/
+
+  11. Histone deacetylase 2 is essential for LPS‐induced inflammatory responses in macrophages
+     Chenming Wu; Ang Li; Jian Hu; Jiuhong Kang
+     PMC7379312 · PMC · 2018-10-31 · 52 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7379312/
+     Matched: LPS stimulation of macrophages induces HDAC2 expression · cat /papers/PMC7379312/content.lines --lines 16-17
+     "Histone deacetylase 2 (HDAC2) is essential for LPS-induced inflammatory responses in macrophages. HDAC2 regulates these responses by deacetylating c-Jun, which then represses pro-inflammatory gene transcription."
+
+  12. Anti-inflammatory and polarization-modulating effects of Houttuynia cordata in LPS-stimulated RAW264.7 macrophages
+     Kuo-Liang Huang; Mei-Chen Yang; Yao-Kuang Wu; Meng-Jiun Wei; Hsiu-Fan Kang; Guan-Ting Liu; Chan-Yen ...
+     PMC12957811 · PMC · 2025-05-27 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12957811/
+     Matched: HC attenuates M1 surface marker expression in LPS-stimulated RAW264.7  · cat /papers/PMC12957811/content.lines --lines 68-69
+     │ To evaluate the effect of HC on macrophage polarization, we first examined macrophage
+     │ surface marker expression. CD80(−)/CD163(−) macrophages were the predominant macrophages in
+     │ the control and HC groups (Fig. 5A). Compared with that in the control group, the percentage
+     │ of CD80(+)/CD163(−) RAW264.7 macrophages in the group treated with LPS was greater (Fig.
+     │ 5B). However, compared with LPS alone, pretreatment with HC followed by LPS stimulation and
+     │ posttreatment with HC after LPS stimulation caused a decreased percentage of
+     │ CD80(+)/CD163(−) macrophages and an increased percentage of CD80(−)/CD163(+) macrophages.
+     │ This trend of variation in surface marker expression was more pronounced in the …
+     "Houttuynia cordata extract reduces inflammatory cytokine production and modulates key signaling pathways in LPS-stimulated macrophages. It also shifts macrophages towards an anti-inflammatory phenotype, particularly when administered after inflammation begins. These findings suggest therapeutic potential for inflammatory diseases."
+
+  13. HCX3 Mitigates LPS-Induced Inflammatory Responses in Macrophages by Suppressing the Activation of the NF-κB Signaling Pathway
+     Qianyi Wu; Jiyuan Shi; Luojin Wu; Lingxi Li; Yong Ling; Liming Mao; Jie Zhang
+     PMC12562522 · PMC · 2025-10-01 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12562522/
+     Matched: 3.2. The Effect of HCX3 on Cell Viability of Macrophages · cat /papers/PMC12562522/content.lines --lines 43
+     "HCX3, a novel canthin-6-one derivative, was studied for its effects on LPS-induced inflammation in macrophages. HCX3 suppressed pro-inflammatory mediator release and NF-κB pathway activation, suggesting therapeutic potential for acute lung injury."
+
+  14. Expression and anti-inflammatory role of activin receptor-interacting protein 2 in lipopolysaccharide-activated macrophages
+     Qian Wu; Yan Qi; Na Wu; Chunhui Ma; Wenfang Feng; Xueling Cui; Zhonghui Liu
+     PMC5583376 · PMC · 2017-09-04 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5583376/
+     Matched: Discussion · cat /papers/PMC5583376/content.lines --lines 32-34
+     "Activin receptor-interacting protein 2 (ARIP2) expression was studied in lipopolysaccharide (LPS)-activated macrophages. ARIP2 overexpression inhibited pro-inflammatory cytokine production and phagocytic activity, suggesting an anti-inflammatory role."
+
+  15. Lipopolysaccharide alters expression of incretin receptors in monocytic and hepatocytic cell lines
+     H Daabo; I Welters; J Gallagher; L Ranganath
+     PMC3254936 · PMC · 2010-09-01 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3254936/
+     Matched: Methods · cat /papers/PMC3254936/content.lines --lines 13
+     │ U937 (monocyte cell line) and HUH7 (hepatocyte cell line) cells were cultured with different
+     │ concentrations of LPS for 24 hours. Real-time RT-PCR quantitation of gene expression was
+     │ used to compare the rates for relative expression.
+
+  16. Signaling metabolite L-2-hydroxyglutarate activates the transcription factor HIF-1α in lipopolysaccharide-activated macrophages
+     Niamh C. Williams; Dylan G. Ryan; Ana S.H. Costa; Evanna L. Mills; Mark P. Jedrychowski; Suzanne M. ...
+     PMC8784330 · PMC · 2021-12-17 · 55 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8784330/
+     Matched: cat /papers/PMC8784330/content.lines --lines 14-15
+     "L-2-hydroxyglutarate (L-2HG) accumulation in LPS-activated macrophages was studied. L-2HG activates HIF-1α, promoting inflammatory responses and metabolic changes."
+
+  17. The Regulatory Roles of Ezh2 in Response to Lipopolysaccharide (LPS) in Macrophages and Mice with Conditional Ezh2 Deletion with LysM-Cre System
+     Areerat Kunanopparat; Asada Leelahavanichkul; Peerapat Visitchanakun; Patipark Kueanjinda; Pornpimol...
+     PMC10049283 · PMC · 2023-03-10 · 13 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10049283/
+     Matched: 5. Conclusions · cat /papers/PMC10049283/content.lines --lines 52-54
+     "This study investigated the role of Ezh2 in macrophage responses to LPS. Loss of Ezh2 in macrophages leads to less severe LPS-induced inflammation and reduced LPS tolerance."
+
+  18. Lactate Suppresses Macrophage Pro-Inflammatory Response to LPS Stimulation by Inhibition of YAP and NF-κB Activation  via  GPR81-Mediated Signaling
+     Kun Yang, Jingjing Xu, Min Fan, Fei Tu, Xiaohui Wang, Tuanzhu Ha, David L. Williams, Chuanfu Li
+     PMC7573489 · biomedrxiv · 2020-10-06 · 293 citations
+     https://doi.org/10.3389/fimmu.2020.587913
+     "Lactate was studied for its effect on LPS-stimulated macrophages. Lactate suppresses pro-inflammatory responses by inhibiting YAP and NF-κB activation via GPR81 signaling."
+
+  19. HuR modulation counteracts lipopolysaccharide response in murine macrophages
+     Isabelle Bonomo; Giulia Assoni; Valeria La Pietra; Giulia Canarutto; Elisa Facen; Greta Donati; Chia...
+     PMC10110401 · PMC · 2023-03-29 · 11 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10110401/
+     Matched: TM7nox reduces inflammatory and chemotaxis response induced by LPS in  · cat /papers/PMC10110401/content.lines --lines 35-36
+     "Small-molecule tanshinone mimics were shown to inhibit the RNA-binding protein HuR in macrophages. These mimics counteracted LPS-induced inflammation by reducing the expression of key immune response genes."
+
+  20. Methyl p-Hydroxycinnamate Suppresses Lipopolysaccharide-Induced Inflammatory Responses through Akt Phosphorylation in RAW264.7 Cells
+     Van Anh Vo; Jae-Won Lee; Seung-Yeon Shin; Jae-Hyun Kwon; Hee Jae Lee; Sung-Soo Kim; Yong-Soo Kwon; W...
+     PMC3936424 · PMC · 2014 · 23 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3936424/
+     Matched: INTRODUCTION · cat /papers/PMC3936424/content.lines --lines 10-11
+     "Methyl p-hydroxycinnamate was studied for its anti-inflammatory effects in LPS-stimulated macrophages. It suppressed inflammatory mediators and cytokines by activating the Akt signaling pathway."
+
+  21. Lipopolysaccharide uptake is augmented in lipopolysaccharide‐tolerant mouse macrophage‐like cells via increased CD14 expression
+     Saeka Nishihara; Takayuki Manabe; Mika Jouta; Kiyoshi Kawasaki
+     PMC13398632 · PMC · 2026-04-26 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13398632/
+     Matched: LPS endocytosis is enhanced in LPS‐tolerant RAW264.7 cells compared wi · cat /papers/PMC13398632/content.lines --lines 48-49
+     "Lipopolysaccharide (LPS) tolerance can be recognized as a modulation of innate immune responses rather than merely a hyporesponsiveness to LPS, with CD14 being crucial for both LPS uptake and LPS sign"
+
+  22. LncRNA HOTAIR regulates lipopolysaccharide-induced cytokine expression and inflammatory response in macrophages
+     Monira Obaid; S. M. Nashir Udden; Paromita Deb; Nadine Shihabeddin; Md. Hasan Zaki; Subhrangsu S. Ma...
+     PMC6199307 · PMC · 2018-10-23 · 106 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6199307/
+     Matched: Cell culture and treatment with Lipopolysaccharide (LPS) · cat /papers/PMC6199307/content.lines --lines 12
+     "LncRNA HOTAIR's role in LPS-induced inflammation in macrophages was studied. HOTAIR promotes NF-κB activation and cytokine expression by facilitating IκBα degradation."
+
+  23. Selection of reliable reference genes for the normalisation of gene expression levels following time course LPS stimulation of murine bone marrow derived macrophages
+     Akane Tanaka, Joyce To, Bronwyn O’Brien, Sheila Donnelly, Maria Lund
+     PMC5627409 · biomedrxiv · 2017-10-03 · 29 citations
+     https://doi.org/10.1186/s12865-017-0223-y
+     "This study assessed the stability of eight common reference genes in LPS-stimulated murine macrophages. It found that some traditional genes are unreliable, and identified two new, stable reference genes for accurate gene expression analysis."
+
+  24. Lipopolysaccharide induces a downregulation of adiponectin receptors in-vitro and in-vivo
+     Alison Hall; Martin Leuwer; Paul Trayhurn; Ingeborg D. Welters
+     PMC4655095 · PMC · 2015-11-19 · 13 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4655095/
+     Matched: Cell-type specific downregulation of adiponectin receptors · cat /papers/PMC4655095/content.lines --lines 61-64
+     "Lipopolysaccharide (LPS) was studied for its effect on adiponectin receptor expression in mice and cell cultures. LPS treatment significantly reduced adiponectin receptor gene expression in multiple tissues and adipocytes."
+
+  25. Macrophage-Specific Coxsackievirus and Adenovirus Receptor Deletion Enhances Macrophage M1 Polarity in CVB3-Induced Myocarditis
+     Ha-Hyeon Shin; Eun-Seok Jeon; Byung-Kwan Lim
+     PMC10049483 · PMC · 2023-03-10 · 10 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10049483/
+     Matched: 2.1. CAR Expression Was Increased in LPS and TNF-α Stimulated Macropha · cat /papers/PMC10049483/content.lines --lines 16
+     "This study investigated the role of CAR in macrophages during CVB3 myocarditis. Deleting CAR in macrophages increased M1 polarization and myocarditis severity, while reducing type I interferon production."
+
+  26. Human and murine macrophages exhibit differential metabolic responses to lipopolysaccharide - A divergent role for glycolysis
+     Vijith Vijayan; Pooja Pradhan; Laura Braud; Heiko R. Fuchs; Faikah Gueler; Roberto Motterlini; Rober...
+     PMC6396203 · PMC · 2019-02-20 · 221 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6396203/
+     Matched: Bioenergetic dysfunction and metabolic reprogramming to aerobic glycol · cat /papers/PMC6396203/content.lines --lines 16-17
+     "Human macrophages, unlike mouse macrophages, do not increase glycolysis when activated by LPS, instead relying on oxidative phosphorylation. Glycolysis is essential for LPS-induced IL-10 production in both species."
+
+  27. Constitutive Androstane Receptor in Macrophages Regulates Toll‐Like Receptor 4‐Mediated Innate Immune Responses Against Endotoxemic Liver Injury
+     Renjie Cao; Tingting Zhao; Ying Wang; Shaofei Song; Yuan Li; Mengling Hou; Yanxin Zhang; Sengpeng Wo...
+     PMC12622418 · PMC · 2025-08-18 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12622418/
+     Matched: CAR Activation Reduces Proinflammatory Macrophages and Attenuates Infl · cat /papers/PMC12622418/content.lines --lines 25-26
+     "Constitutive androstane receptor (CAR) in macrophages was studied for its role in endotoxemic liver injury. CAR activation in macrophages suppresses Toll-Like Receptor 4 (TLR4) signaling, reducing liver inflammation and damage."
+
+  28. Lipoic Acid Ameliorates Lipopolysaccharide‐Induced Inflammation via Inhibition of Glycolysis in RAW264.7 Macrophages
+     Liduo Yue; Kai Wang; Rongyuan Wang; Linbei Lu; Lihong Fan
+     PMC12780877 · PMC · 2026-01-08 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12780877/
+     Matched: LA Decreases Proinflammatory Cytokine Production and HIF1α Expression  · cat /papers/PMC12780877/content.lines --lines 75
+     "Lipoic acid was studied for its anti-inflammatory effects on LPS-stimulated macrophages. It inhibits glycolysis via the HIF1α pathway, reducing inflammation and pyroptosis."
+
+  29. Interplay between Saturated Free Fatty Acids and mmLDL Induces Inflammation in LPS-stimulated Macrophages
+     Jeong Su Park; Soo Han Bae
+     PMC7779815 · PMC · 2020-10-08 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7779815/
+
+  30. CD36 Differently Regulates Macrophage Responses to Smooth and Rough Lipopolysaccharide
+     Rafał Biedroń; Angelika Peruń; Szczepan Józefowski
+     PMC4830570 · PMC · 2016-04-13 · 24 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4830570/
+     Matched: Introduction · cat /papers/PMC4830570/content.lines --lines 13-15
+     "CD36's role in macrophage activation by LPS was studied. CD36 differentially regulates responses to smooth and rough LPS, influencing inflammatory signaling pathways."
+
+  31. Geranylgeranylacetone Ameliorates Inflammatory Response to Lipopolysaccharide (LPS) in Murine Macrophages: Inhibition of LPS Binding to The Cell Surface
+     Shinsuke Mochida; Tatsuya Matsura; Atsushi Yamashita; Shunsuke Horie; Shuzo Ohata; Chiaki Kusumoto; ...
+     PMC2170953 · PMC · 2007-08-29 · 18 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2170953/
+     Matched: Discussion · cat /papers/PMC2170953/content.lines --lines 63-67
+     "Geranylgeranylacetone (GGA) was studied for its effect on lipopolysaccharide (LPS)-induced inflammation in macrophages. GGA inhibits LPS binding to the cell surface, thereby suppressing inflammatory responses."
+
+  32. Advanced glycation end-products reduce lipopolysaccharide uptake by macrophages
+     Atsuhiro Kitaura; Takashi Nishinaka; Shinichi Hamasaki; Omer Faruk Hatipoglu; Hidenori Wake; Masahir...
+     PMC7833212 · PMC · 2021-01-25 · 13 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7833212/
+     Matched: Introduction · cat /papers/PMC7833212/content.lines --lines 12-13
+     "Advanced glycation end-products (AGEs) were studied for their effect on lipopolysaccharide (LPS) uptake by macrophages. AGEs reduce LPS uptake by downregulating CD14 expression via the receptor for AGEs (RAGE)."
+
+  33. Macrophage specific restoration of the Nrf2 gene in whole-body knockout mice ameliorates steatohepatitis induced by lipopolysaccharide from Porphyromonas gingivalis through enhanced hepatic clearance
+     Kanako Chihara; Kosuke Okada; Fumihiko Uchida; Ikuru Miura; Shoichi Komine; Eiji Warabi; Takako Taka...
+     PMC10588835 · PMC · 2023-10-20 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10588835/
+     Matched: Discussion · cat /papers/PMC10588835/content.lines --lines 75-76
+     "This study investigated Nrf2's role in macrophages during LPS-induced steatohepatitis. Restoring Nrf2 in macrophages ameliorated steatohepatitis by enhancing hepatic LPS clearance."
+
+  34. CD163 deficiency facilitates lipopolysaccharide‐induced inflammatory responses and endotoxin shock in mice
+     Yukio Fujiwara; Koji Ohnishi; Hasita Horlad; Yoichi Saito; Daisuke Shiraishi; Hiroto Takeya; Daiki Y...
+     PMC7518957 · PMC · 2020-09-25 · 16 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7518957/
+     Matched: CD163 deficiency increased the production of inflammatory cytokines an · cat /papers/PMC7518957/content.lines --lines 34
+     "CD163 deficiency was studied in mouse models of endotoxin shock and arthritis. The absence of CD163 exacerbated inflammatory responses and reduced survival in endotoxin shock."
+
+  35. Rare and potentially pathogenic variants in hydroxycarboxylic acid receptor genes identified in breast cancer cases
+     Cierla McGuire Sams; Kasey Shepp; Jada Pugh; Madison R. Bishop; Nancy D. Merner
+     PMC8638184 · PMC · 2021-12-01 · 6 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8638184/
+     Matched: Discussion · cat /papers/PMC8638184/content.lines --lines 71-72
+     │ Upon screening 46 European American BC cases from the AHCC for rare, non-synonymous variants
+     │ in HCAR1, HCAR2, and HCAR3, a total of four variants were identified in four different BC
+     │ cases. These variants were exclusively identified in HCAR1 and HCAR3, which is notable
+     │ considering their suggested oncogenic role and requirement for BC proliferation/survival
+     │ compared to the demonstrated tumor suppressor properties of HCAR2 [4–6]. Subsequent
+     │ screening of a larger cohort, 649 European American BC cases from TCGA, identified numerous
+     │ rare, non-synonymous variants in HCAR1, HCAR2, and HCAR3, but only variants in HCAR2 were
+     │ associated with BC risk. No gene-based associations were identified. …
+     "Rare, non-synonymous variants in hydroxycarboxylic acid receptor genes were identified in breast cancer cases. Some variants may be associated with breast cancer risk and warrant further functional investigation."
+
+  36. Metabolites of lactic acid bacteria present in fermented foods are highly potent agonists of human hydroxycarboxylic acid receptor 3
+     Anna Peters; Petra Krumbholz; Elisabeth Jäger; Anna Heintz-Buschart; Mehmet Volkan Çakir; Sven Rothe...
+     PMC6532841 · PMC · 2019-05-23 · 138 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6532841/
+     Matched: Introduction · cat /papers/PMC6532841/content.lines --lines 14-17
+     │ The interplay of microbiota and the human host is physiologically crucial in health and
+     │ diseases. Lactic acid bacteria (LAB) are microorganisms present in many foods and the
+     │ intestine of most mammals. There are extensive reports about the beneficial role of LAB on
+     │ the immune system [1]. Short-chain fatty acids (SCFAs) and lactate are known metabolites of
+     │ LAB that have been shown to play an important role in the maintenance of the gut barrier
+     │ function [2]. SCFAs can induce effects in the host through activation of specific G protein-
+     │ coupled receptors (GPCRs) expressed in intestinal epithelial cells and immune cells that are
+     │ located in the intestinal mucosa [3]. The present study focuses on …
+     "Lactic acid bacteria metabolites were studied for their interaction with human hydroxycarboxylic acid receptor 3 (HCAR3). D-phenyllactic acid from fermented foods potently activates HCAR3, influencing monocyte migration and suggesting an evolutionary role for this receptor."
+
+  37. Hydroxycarboxylic Acid Receptor 2 Mediates β‐hydroxybutyrate's Antiseizure Effect in Mice
+     Soudabeh Naderi; John Williamson; Huayu Sun; Suchitra Joshi; Rachel Jane Spera; Savaira Zaib; Supriy...
+     PMC12954166 · PMC · 2025-11-26 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12954166/
+     Matched: Generation and Characterization of HCAR2 KO · cat /papers/PMC12954166/content.lines --lines 48-49
+     │ To investigate the role of HCAR2 in the β‐HB antiseizure effects, we conducted experiments
+     │ using both HCAR2 KO (HCAR2−/−) and WT (HCAR2+/+) mice. To this end, we generated HCAR2−/−
+     │ mice via CRISPR‐Cas9 genome editing techniques with the S129 mouse genetic background (see
+     │ Materials and Methods). This method uses Cas9 nuclease along with single‐guide RNAs to
+     │ create a precise double‐strand break at the HCAR2 gene location (Fig 2B). The deletion of
+     │ 503 nucleotides within a single exon of HCAR2 resulted in a significant reduction in HCAR2
+     │ mRNA expression (see Fig 2C,D and Supporing data 1). PCR genotyping differentiated HCAR2−/−
+     │ (205bp) from HCAR2+/+ (708bp) alleles, confirming the successful …
+     "The ketogenic diet, a high‐fat, low‐carbohydrate regimen, is often used to treat drug‐resistant seizures and is being studied for Alzheimer's disease and other neuropsychiatric disorders. However, its"
+
+  38. Production of Hydroxycarboxylic Acid Receptor 3 (HCA3) Ligands by Bifidobacterium
+     Takuma Sakurai; Ayako Horigome; Toshitaka Odamaki; Takashi Shimizu; Jin-Zhong Xiao
+     PMC8620054 · PMC · 2021-11-21 · 20 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8620054/
+     Matched: 1. Introduction · cat /papers/PMC8620054/content.lines --lines 9-10
+     │ Hydroxycarboxylic acid receptors (HCA1, HCA2, and HCA3) play important roles in maintaining
+     │ energy and immune homeostasis [1]. Based on their structures, they are classified as
+     │ G-protein-coupled receptors [2]. Most mammals possess HCA1 and HCA2; however, only humans
+     │ and other hominids have HCA3 in their genomes [3]. HCA3, also known as GPR109b, is expressed
+     │ in adipocytes, macrophages, neutrophils, and colonic epithelial cells [4]. HCA3 is derived
+     │ from the gene duplication of HCA2 [5], which is activated by β-hydroxybutyrate, butyrate,
+     │ and nicotinic acid [6]. In contrast, HCA3 is activated by β-hydroxyoctanoate, which is
+     │ produced by hepatocytes during the β-oxidation of fatty acids. Similar …
+     "Bifidobacterium species were studied for their production of hydroxycarboxylic acid receptor 3 (HCA3) ligands. D-enantiomers of indole-3-lactic acid, phenyllactic acid, and LeuA showed stronger HCA3 activity than their L-isomers."
+
+  39. Aspirin inhibits LPS-induced macrophage activation via the NF-κB pathway
+     Yitong Liu; Silian Fang; Xiaoyan Li; Jie Feng; Juan Du; Lijia Guo; Yingying Su; Jian Zhou; Gang Ding...
+     PMC5599518 · PMC · 2017-09-14 · 91 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5599518/
+     Matched: Prostaglandin receptor antagonism · cat /papers/PMC5599518/content.lines --lines 33
+     "Aspirin was studied for its effect on LPS-induced macrophage activation. Aspirin inhibits macrophage activation via the NF-κB pathway, improving bone regeneration in inflammatory conditions."
+
+  40. Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni, Yanal Ghosheh, Akula Bala Pramod, Klaus Ley
+     PMC6543837 · biomedrxiv · 2019-05-24 · 1909 citations
+     https://doi.org/10.3389/fimmu.2019.01084
+     "This study compared gene expression in *in vivo* M1/M2 macrophages with *in vitro* classically/alternatively activated macrophages. The findings indicate that *in vivo* M1/M2 polarization is not equivalent to *in vitro* activation states."
+
+  41. Nicotinic Acid Receptor GPR109A Is Down-Regulated in Human Macrophage-Derived Foam Cells
+     Joshua T. Chai; Janet E. Digby; Neil Ruparelia; Andrew Jefferson; Ashok Handa; Robin P. Choudhury
+     PMC3642175 · PMC · 2013-05-02 · 20 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3642175/
+     Matched: NA Suppresses LPS-induced Transcription of Pro-inflammatory Mediators · cat /papers/PMC3642175/content.lines --lines 35-36
+     │ We first established the response to NA in basal state (i.e. non-foam cell) macrophages. The
+     │ TLR-4 agonist lipopolysaccharide (LPS) was used as an inflammatory stimulus. THP-1
+     │ macrophages were incubated with LPS (50 ng/mL) for 18 hours, followed by 1×10−4 M NA for 24
+     │ hours. Previous dose-response experiments (1×10−3 to 10−6 M) established optimal dosing of
+     │ NA and excluded detrimental effects on cell viability [24]. Pre-incubation with LPS
+     │ increased mRNA transcription of pro-inflammatory cytokines: MCP-1 by 80-fold (P<0.001, n = 3
+     │ per group); and TNFα by 10-fold (P<0.001, n = 3 per group) (Figure 1A). As we have
+     │ previously reported, NA treatment significantly attenuated this LPS-induced …
+     "This study investigated the role of nicotinic acid (NA) and its receptor GPR109A in macrophage-derived foam cells. GPR109A is down-regulated in foam cells, preventing NA from influencing cholesterol transport."
+
+  42. Lactate induces alternative polarization (M2) of macrophages under lipopolysaccharide stimulation in vitro through G-protein coupled receptor 81
+     Lu Wang; Huai-Wu He; Zhi-Qun Xing; Bo Tang; Xiang Zhou
+     PMC7401756 · PMC · 2020-07-01 · 18 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7401756/
+     Matched: cat /papers/PMC7401756/content.lines --lines 6-7
+     │ To the Editor: Sepsis is a life-threatening systemic inflammatory response syndrome caused
+     │ by the host's maladjusted immune response to infection. Hyperlactatemia is an important
+     │ manifestation of severe sepsis. Initial hyperlactatemia is associated with increased
+     │ mortality in sepsis.[1] Hyperlactatemia and immunosuppression often occur simultaneously in
+     │ the late stage of sepsis. G-protein-coupled receptor 81 (GPR81) is a cell-surface G-protein
+     │ coupled receptor, which is activated by lactate. It has been reported that lactate inhibits
+     │ the function of macrophages through GPR81, and alleviates liver injury in immune
+     │ hepatitis.[2] In sepsis, alternative polarization (M2) of macrophages reduces …
+
+  43. Mouse Ocilrp2/Clec2i negatively regulates LPS-mediated IL-6 production by blocking Dap12-Syk interaction in macrophage
+     Mingya Cao; Lina Ma; Chenyang Yan; Han Wang; Mengzhe Ran; Ying Chen; Xiao Wang; Xiaonan Liang; Lihui...
+     PMC9589251 · PMC · 2022-10-10 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9589251/
+     Matched: Ocilrp2 downregulated LPS-induced IL-6 in iBMDM cells · cat /papers/PMC9589251/content.lines --lines 48-49
+     "Ocilrp2 expression in macrophages was studied in response to LPS. Silencing Ocilrp2 increased IL-6 production by promoting Syk binding to Dap12."
+
+  44. Endotoxin Disrupts Circadian Rhythms in Macrophages via Reactive Oxygen Species
+     Yusi Wang; Paramita Pati; Yiming Xu; Feng Chen; David W. Stepp; Yuqing Huo; R. Daniel Rudic; David J...
+     PMC4863972 · PMC · 2016-05-11 · 43 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4863972/
+     Matched: Antagonism of TLR4 reverses the LPS-induced phase-shift · cat /papers/PMC4863972/content.lines --lines 51-52
+     │ Among the many TLR family members, TLR4 is regarded as the major cellular receptor for LPS
+     │ [26]. To investigate the mechanism by which LPS causes circadian phase shift in macrophages,
+     │ macrophages were treated with a TLR4 antagonist and then circadian rhythms assesses using
+     │ Per2 promoter-dependent luminescence. Previous studies have shown that hypo-acylated LPS
+     │ (LPS-RS) competitively antagonizes hexa-acylated LPS [50] by competing with the same binding
+     │ site on MD-2 to represses TLR4 signaling [51]. In our studies, we found that LPS-RS
+     │ prevented the phase-shift in response to LPS in peritoneal macrcophages (Fig 3A) as
+     │ evidenced by a dramatic blunting of the shift in acrophase in response to …
+     "This study investigated how endotoxin (LPS) affects circadian rhythms in macrophages. LPS disrupts macrophage circadian rhythms by increasing reactive oxygen species (ROS), leading to pro-inflammatory behavior."
+
+  45. Role of HCA2 in Regulating Intestinal Homeostasis and Suppressing Colon Carcinogenesis
+     Zhuoyue Li; Kayleen J. McCafferty; Robert L. Judd
+     PMC7940178 · PMC · 2021-02-23 · 18 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7940178/
+     Matched: Introduction · cat /papers/PMC7940178/content.lines --lines 11-12
+     "This review examines the role of HCA2 in intestinal homeostasis and colon cancer. HCA2 is crucial for sensing metabolites, regulating inflammation, and maintaining the gut's complex communication network."
+
+  46. Mapping interactions of microbial metabolites and human receptors
+     Dominic A. Colosimo, Jeffrey A. Kohn, Peter M. Luo, Sun M. Han, Amanda J. Pickard, Arka Rao, Justin ...
+     bio_ea6b5db76c06 · bioRxiv · 2019-05-01 · 0 citations (all versions)
+     Published (2019): https://doi.org/10.1101/614537
+     Matched: Known and novel ligands for hydroxycarboxylic acid receptors · cat /papers/bio_ea6b5db76c06/content.lines --lines 28-30
+     │ A number of receptors agonized in our screen are known to respond to bacterial ligands. As
+     │ an initial validation exercise we characterized activities expected to arise from well-known
+     │ bacterial GPCR agonists. The hydroxycarboxylic acid receptors, GPR81, GPR109A and GPR109B,
+     │ are agonized by both human and bacterial ligands.[ 15 ] Bioassay guided fractionation of
+     │ GPR109A active fractions from cultures of both L. plantarum and R. gnavus yielded nicotinic
+     │ acid (Vitamin B3) as the active metabolite ( Figure 3A , Figure S1 ). Nicotinic acid, an
+     │ essential nutrient acquired either through diet or gut bacteria, is the most extensively
+     │ studied non-endogenous ligand for this receptor. Its ability …
+     "This study screened microbial metabolites for interactions with human G-protein coupled receptors. Multiple bacterial metabolites were identified as agonists of these receptors, suggesting a role in modulating human health."
+
+  47. Dynamic nucleosome redistribution and increases in nucleosome sensitivity underpin THP-1 macrophage response to LPS
+     Jane M Benoit, Brandon D Buck, Mahdi Khadem, Hank W Bass, Jonathan H Dennis *
+     bio_eb0530776e54 · bioRxiv · 2025-02-11 · 1 citation (all versions)
+     Published (2025): https://doi.org/10.1093/jleuko/qiaf067
+     Preprint: https://doi.org/10.1101/2025.02.11.637695
+     Matched: Supp. Table 2 · cat /papers/bio_eb0530776e54/content.lines --lines 814
+     │ List of genes with one or more nucleosomes within promoter regions with altered fuzziness at
+     │ one or more time points following LPS stimulation compared to unstimulated cells. We
+     │ considered a change in nucleosome fuzziness to occur if there was a log2 fold change greater
+     │ than 1.5 between conditions combined with a p-value and FDR under 0.05. Each column in the
+     │ table includes a list of genes for a given time point which is listed in the first row of
+     │ the column. There is no 0hr time point listed as that was the baseline used to compare with
+     │ all other time points.
+     "Nucleosome distribution and MNase sensitivity were assessed across macrophage promoters after LPS stimulation. A subset of immune gene promoters showed transient nucleosome redistribution, while MNase sensitivity changes were largely uncoupled from gene expression."
+
+  48. Effect of Human Umbilical Vein Endothelial Cells on Immune Responses of Lipopolysaccharide-Induced THP1 Macrophages
+     Zhou-Xin Yang; Dong-Yang Guo; An-Bang Wei; Cai-Bao Hu; Mo-Lei Yan; Guo-Long Cai
+     PMC6144854 · PMC · 2018-09-20 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6144854/
+     Matched: cat /papers/PMC6144854/content.lines --lines 10-11
+     │ LPS is a component of the outer cell wall of Gram-negative bacteria, which can be recognized
+     │ by immune cells such as macrophages. It induces cytokine production. The present study
+     │ explored whether cytokine production induced by LPS was further affected by HUVECs. As shown
+     │ in Figure 1a, HUVECs cocultured with LPS-induced THP1 macrophages showed enhanced IL-1β,
+     │ TNF-α, IL-6, IL-10, and IL-12 production compared with LPS-induced THP1 macrophages alone (P
+     │ < 0.01). HUVECs cocultured with THP1 macrophages without LPS also showed higher
+     │ concentrations of these cytokines compared with THP1 macrophages alone. The expression of
+     │ IL-1β, TNF-α, IL-6, IL-10, and IL-12 mRNA in THP-1 macrophages was …
+
+  49. Human Toll-like Receptor 2 Confers Responsiveness to Bacterial Lipopolysaccharide
+     Carsten J. Kirschning; Holger Wesche; T. Merrill Ayres; Mike Rothe
+     PMC2212382 · PMC · 1998-12-07 · 553 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2212382/
+     Matched: Distribution of TLR2 Transcripts. · cat /papers/PMC2212382/content.lines --lines 44
+     "Toll-like receptor 2 (TLR2) was studied for its role in bacterial lipopolysaccharide (LPS) signaling. TLR2, in conjunction with CD14, confers responsiveness to LPS, activating NF-κB."
+
+  50. Gambogic acid inhibits LPS-induced macrophage pro-inflammatory cytokine production mainly through suppression of the p38 pathway
+     Jianjun Ma; Kangmao Huang; Yan Ma; Shuai Chen; Chao Liu; Zhi Shan; Xiangqian Fang
+     PMC6098961 · PMC · 2018 · 6 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6098961/
+     Matched: Introduction · cat /papers/PMC6098961/content.lines --lines 17
+     "Gambogic acid was studied for its effects on LPS-induced pro-inflammatory cytokine production in macrophages. GBA suppressed these cytokines primarily by inhibiting the p38 signaling pathway."
+
+[3.5s, saved to s_109883b3]
+
+💡 Extract data across these results with: map --from s_109883b3 "your question"
+[3.5s, saved to s_109883b3]  [repo: mva-lof-molecular]
+

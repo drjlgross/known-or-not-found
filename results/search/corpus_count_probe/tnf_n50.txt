@@ -1,0 +1,751 @@
+Found 50 papers  [s_e57d971f]
+
+  1. Interactions between Lipopolysaccharide and Peptide Bacteriocin BacSp222 Influence Their Biological Activities
+     Justyna Śmiałek-Bartyzel; Monika Bzowska; Alicja Frączek; Iwona Wojda; Renata Mężyk-Kopeć; Piotr Bo...
+     PMC12340957 · ACS Infectious Diseases · 2025-07-08 · 0 citations
+     https://doi.org/10.1021/acsinfecdis.5c00066
+     Matched: BacSp22 Modulates LPS-Induced TNF Production by Murine Monocytic-Macro · cat /papers/PMC12340957/content.lines --lines 19-21
+     │ The interaction of various bacteriocins with LPS has been previously reported, but the
+     │ biological relevance of such a phenomenon is diversified. − , The present research
+     │ investigated the impact of the staphylococcal bacteriocin BacSp222 on the inflammatory
+     │ response of cells treated with LPS. Two LPS preparations were used in the experiments from
+     │ serotypes O55:B5 and O111:B4. Both are commonly applied in biomedical studies , and belong
+     │ to the R3 type of lipopolysaccharides, containing all three typical chemical structures
+     │ (i.e., O-specific polysaccharides, core oligosaccharides, and lipid A) but differ in details
+     │ of composition of O-antigen, and, to a lesser degree, core oligosaccharides. We …
+     "Interactions between lipopolysaccharide (LPS) and peptide bacteriocin BacSp222 were studied. Complex formation between LPS and BacSp222 selectively reduced their biological activities by interfering with receptor binding and immune responses."
+
+  2. Anti-inflammatory effects of rutin in lipopolysaccharide-stimulated canine macrophage cells
+     Hyunsoo Jang; Su-Cheol Han; Jisu Lee; Ha-Young Shin; Jeong Ho Hwang; Jung-Heun Ha
+     PMC11821770 · PMC · 2024-10-28 · 11 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11821770/
+     Matched: Rutin prevents LPS-induced TNF-α secretion in DH82 cells · cat /papers/PMC11821770/content.lines --lines 41-42
+     │ M1 macrophages are activated by factors such as interferon (IFN)-γ, and their functions
+     │ include producing pro-inflammatory cytokines, engulfing microbes, and triggering
+     │ inflammatory immune responses. M1 macrophages generate NO or reactive oxygen intermediates
+     │ to defend against bacteria and viruses. In contrast, M2 macrophages are activated by
+     │ cytokines such as IL-4, IL-10, or IL-13, producing polyamines for cell growth or proline for
+     │ collagen synthesis, making them pivotal in wound healing and tissue restoration. Rutin’s
+     │ anti-inflammatory effects on modulating LPS-inducible pro- and anti-inflammatory responses
+     │ were assessed by measuring TNF-α and IL-10 levels in the culture media using …
+     "This study investigated rutin's anti-inflammatory effects on canine macrophages stimulated with lipopolysaccharide. Rutin reduced pro-inflammatory cytokine production by inhibiting the MAPK-NF-κB signaling pathway."
+
+  3. Anti-inflammatory effect of Piper longum L. fruit methanolic extract on lipopolysaccharide-treated RAW 264.7 murine macrophages
+     Uyen Thi Tu Phan; Hai Dang Nguyen; Thi Kieu Oanh Nguyen; Tuan Hiep Tran; Thanh Huong Le; Thi Thu Phu...
+     PMC10884859 · Heliyon · 2024-02-14 · 13 citations
+     https://doi.org/10.1016/j.heliyon.2024.e26174
+     Matched: PLE inhibited LPS-induced NO, TNF-α, IL-6 secretion in LPS- murine mac · cat /papers/PMC10884859/content.lines --lines 119-121
+     │ To assess the potential cytotoxicity of PLE, RAW 264.7 cells were pre-treated with different
+     │ concentrations of the extract (0–100 μg/mL) for 30 min, followed by stimulation with LPS (1
+     │ μg/mL) for 24 h. Anti-inflammatory activity of cardamonin (Carda) in lypopolysaccharide
+     │ (LPS)-induced inflammatory was identified in other studies [[26], [27], [28]]. In our study,
+     │ cardamonin was used as positive control for anti-inflammatory effect stimulated LPS on RAW
+     │ 264.7 cells. The viability of these cells was evaluated using the MTT assay, as shown in
+     │ Fig. 1A. The results indicated that the PLE, at concentrations of 10, 25, 50, 75, and 100
+     │ μg/mL, did not induce cytotoxic effects on RAW 264.7 cells. The …
+     "This study investigated the anti-inflammatory effects of *Piper longum* L. fruit methanolic extract on LPS-stimulated macrophages. The extract reduced inflammatory mediators by modulating the MAPK signaling pathway."
+
+  4. Progranulin inhibits LPS-induced macrophage M1 polarization via NF-кB and MAPK pathways
+     Lianlian Liu; Hongmei Guo; Aimei Song; Jiahui Huang; Yu Zhang; Shanshan Jin; Shutong Li; Liguo Zhang...
+     PMC7275413 · BMC Immunology · 2020-06-05 · 282 citations
+     https://doi.org/10.1186/s12865-020-00355-y
+     Matched: The key role of TNF-α in LPS-induced macrophage M1 polarization · cat /papers/PMC7275413/content.lines --lines 34-35
+     │ Previous research has identified that autocrine TNF-α plays a key role in apoptosis in LPS-
+     │ induced macrophages [33]. It is also reported that PGRN exerts its anti-inflammatary action
+     │ mainly via binding to TNFR1 to antagonize TNF-α pro-inflammation action [23]. To explore the
+     │ key role of TNF-α and observe and conjecture whether PGRN anti-M1 polarization is related to
+     │ TNFRs in LPS-induced macrophage M1 polarization, we stimulate RAW264.7 cells by rTNF-α,
+     │ P.g-LPS and P.g-LPS plus anti-TNF-α. Results showed that no significant difference in CD86
+     │ expression existed between 20 to 40 ng/ml rTNF-α and the control groups and anti-TNF-α
+     │ exerted no significant influence on P.g-LPS promoted CD86 …
+     "Progranulin was studied for its effect on LPS-induced macrophage M1 polarization. Progranulin inhibits M1 polarization by suppressing NF-κB and MAPK pathways."
+
+  5. TLR4 signaling and macrophage inflammatory responses are dampened by GIV/Girdin
+     Lee Swanson, Gajanan D. Katkar, Julian Tam, Rama F. Pranadinata, Yogitha Chareddy, Jane Coates, Mahi...
+     bio_c1fac43d7070 · bioRxiv · 2020-08-29 · 106 citations (all versions)
+     Published (2020): https://doi.org/10.1073/pnas.2011667117
+     Preprint: https://doi.org/10.1101/2020.08.29.273516
+     Matched: Lipopolysaccharide (LPS) stimulation and Bacterial infection · cat /papers/bio_c1fac43d7070/content.lines --lines 165-166
+     │ For LPS stimulation experiments, cells were seeded (12-well plate: 2.5x10<sup>5</sup> cells,
+     │ 6-well plate: 5x10<sup>5</sup> cells) and incubated overnight at 37°C before stimulation
+     │ with LPS (dose and stimulation times indicated in figures and legends). For live microbe
+     │ infection experiments (*E. coli* and *Salmonella*), bacteria were maintained and cultured in
+     │ accordance with ATCC protocols as was previously described (52). For bacterial culture, a
+     │ single colony was inoculated into LB broth and grown for 8 hr under aerobic conditions in an
+     │ orbital shaking incubator at 150 rpm and then under oxygen-limiting conditions overnight.
+     │ Under these conditions, bacteria correspond to …
+     "GIV was studied for its role in regulating macrophage inflammatory responses to TLR4 signaling. GIV dampens these responses by preventing TLR4 dimerization, thereby limiting inflammation and disease severity."
+
+  6. Mathematical modelling of activation-induced heterogeneity in TNF, IL6, NOS2, and IL1β expression reveals cell state transitions underpinning macrophage responses to LPS
+     Shoumit Dey; Dave Boucher; Jon Pitchford; Dimitris Lagos
+     PMC9411976 · Wellcome Open Research · 2022-07-25 · 2 citations
+     https://doi.org/10.12688/wellcomeopenres.17557.2
+     Matched: Macrophage community AIH is dependent on LPS dose · cat /papers/PMC9411976/content.lines --lines 74-75
+     │ To obtain empirical data for our mathematical model and to capture distinct macrophage
+     │ subpopulations upon activation with LPS we measured protein expression of three cytokines,
+     │ TNF, pro-IL-1β and IL-6, and one intracellular pro-inflammatory protein NOS2, an enzyme that
+     │ catalyzes nitric oxide formation. We selected these factors as they are all inducible upon
+     │ LPS challenge. Furthermore, heterogeneity in TNF and IL-1β secretion in populations can be a
+     │ result of bi-phasic NF-kB activation ( Tay et al., 2010). IL-6 and NOS2 are also up-
+     │ regulated due to LPS ( Farlik et al., 2010; Tanabe et al., 2010). In addition, all these
+     │ proteins have been implicated in LPS-induced macrophage …
+     "Mathematical models explored macrophage states and their responses to LPS. Macrophage hypo-responsiveness to a second LPS challenge is driven by altered transition rates between activation states."
+
+  7. Giardia  Increases Macrophage Production of the Anti-Inflammatory Cytokine Interleukin-10 in Response to Lipopolysaccharide via Macrophage Galactose Binding Lectin (MGL1)
+     V Angelova, M Darmadi, E Miskovsky, M Fink, S Menegas, H Wexelblatt, S Singer *
+     bio_8255abd575b9 · bioRxiv · 2024-04-15 · 2 citations (all versions)
+     Published (2024): https://doi.org/10.1101/2024.04.15.589568
+     Matched: Giardia  potentiates production of IL-10 but not TNF-□ in response to  · cat /papers/bio_8255abd575b9/content.lines --lines 37-40
+     │ To characterize the peritoneal macrophage response to Giardia , we isolated macrophages from
+     │ adult C57BL/6J mice and stimulated the cells ex vivo . Macrophages were stimulated with
+     │ Salmonella typhimurium LPS, Giardia extract, or both LPS and Giardia extract (dual
+     │ stimulation). Giardia extract alone elicited almost no TNF-□ production from peritoneal
+     │ macrophages; cytokine levels often fell below the limit of detection ( Fig. 1a ;
+     │ Supplementary table 1). In contrast, macrophages stimulated with Salmonella typhimurium LPS
+     │ or dual stimulated with LPS and Giardia extract produced very high, but indistinguishable
+     │ amounts of TNF-L. The same trend was observed across our peritoneal …
+     "Giardia infection was studied for its effect on macrophage cytokine production. Giardia increases IL-10 production in response to LPS via MGL1, potentially reducing inflammation."
+
+  8. Differential Cell Sensitivity between OTA and LPS upon Releasing TNF-α
+     Lauy Al-Anati; Ebtisam Essid; Ulla Stenius; Knut Beuerlein; Klaus Schuh; Ernst Petzinger
+     PMC3153254 · Toxins · 2010-06-01 · 15 citations
+     https://doi.org/10.3390/toxins2061279
+     Matched: 2.2. TNF-α Release from Primary Macrophages and Macrophage-like Cells · cat /papers/PMC3153254/content.lines --lines 46
+     │ Our observation of TNF-α release from macrophage cells by OTA contrasts with a report by
+     │ Heller et al., 2002. In their experiments on the human monocyte cell line THP-1, a dose-
+     │ dependent reduction of LPS-induced TNF-α release occurred under increasing concentrations of
+     │ OTA, likely due to the cytotoxicity of OTA. The authors treated the cells with 1 µg/mL LPS
+     │ which is a 10-fold higher than the concentration used here, and also applied OTA together
+     │ with LPS. Such differences in the experimental set-up and also in the method of detecting
+     │ TNFα (which was done by a biological cytotoxicity test and not by ELISA) may have caused the
+     │ discrepancies of OTA effects on monocytes.
+     "This study compared TNF-α release from various cell lines exposed to ochratoxin A (OTA) and lipopolysaccharide (LPS). Macrophages and macrophage-derived cells, but not other cell types, released TNF-α in response to OTA."
+
+  9. Type I IFNs and TNF cooperatively reprogram the macrophage epigenome to promote inflammatory activation
+     Sung Ho Park; Kyuho Kang; Eugenia Giannopoulou; Yu Qiao; Keunsoo Kang; Geonho Kim; Kyung-Hyun Park-M...
+     PMC5605457 · Nature immunology · 2017-08-21 · 232 citations
+     https://doi.org/10.1038/ni.3818
+     Matched: TNF Reprograms the LPS response in human macrophages · cat /papers/PMC5605457/content.lines --lines 17-18
+     │ Previous work showed that TNF pretreatment strongly attenuates LPS-induced signaling and
+     │ chromatin remodeling upon secondary challenge[3],[5]. To gain insight into gene regulation
+     │ in TNF-induced tolerance, we performed transcriptomic analysis using RNA sequencing (RNA-
+     │ seq). We used our previously established system in which primary human macrophages are
+     │ treated with TNF for 24 hours prior to LPS challenge[3] (Fig. 1a) and focused our analysis
+     │ on the 1,574 genes that were strongly induced (>3-fold) in response to LPS. Clustering of
+     │ LPS-inducible genes by patterns of gene expression revealed 12 clusters that could be
+     │ assembled into 6 major classes (Fig. 1b, Supplementary Fig. 1a and Methods). …
+     "This study investigated how TNF and type I IFNs reprogram macrophage epigenomes. These cytokines cooperatively alter chromatin to enhance inflammatory responses, with type I IFNs priming for sustained inflammation."
+
+  10. Giardia increases macrophage production of the anti-inflammatory cytokine interleukin-10 in response to lipopolysaccharide via macrophage galactose binding lectin
+     Vanessa V Angelova; Rita T Kosile; Matthew Darmadi; Eleanor G Miskovsky; Marc Y Fink; Samantha Meneg...
+     PMC12151320 · ImmunoHorizons · 2025-06-10 · 1 citation
+     https://doi.org/10.1093/immhor/vlaf019
+     Matched: Giardia potentiates production of IL-10 but not of TNF-α in response t · cat /papers/PMC12151320/content.lines --lines 48-51
+     │ To characterize the PM response to Giardia, we isolated macrophages from adult C57BL/6J mice
+     │ and stimulated the cells ex vivo. Macrophages were stimulated with Salmonella typhimurium
+     │ LPS, Giardia extract, or both LPS and Giardia extract (dual stimulation). Giardia extract
+     │ alone elicited almost no TNF-α production from PMs; cytokine levels often fell below the
+     │ limit of detection (Fig. 1A; Table S1). In contrast, macrophages stimulated with S.
+     │ typhimurium LPS or dual stimulated with LPS and Giardia extract produced very high but
+     │ indistinguishable amounts of TNF-α. The same trend was observed across our PM pools (Fig.
+     │ 1A). Giardia had no potentiating effect on the TNF-α response to LPS. Figure …
+     "This study investigated how Giardia affects macrophage cytokine production. Giardia enhances IL-10 production in response to LPS via macrophage galactose-binding lectin."
+
+  11. Mathematical modelling of activation-induced heterogeneity reveals cell state transitions underpinning macrophage responses to LPS
+     S. Dey, D. Boucher, J. W. Pitchford, D. Lagos *
+     bio_206e5a356c66 · bioRxiv · 2021-09-19 · 0 citations (all versions)
+     Published (2021): https://doi.org/10.1101/2021.09.19.461010
+     Matched: Macrophage community AIH is dependent on LPS dose · cat /papers/bio_206e5a356c66/content.lines --lines 42-45
+     │ Figure 1: Macrophage community AIH is dependent on LPS dose A. Flow cytometry gating to show
+     │ 16 sub-populations determined based on TNF, IL-6, pro-IL-1b and NOS2. B. Pie charts
+     │ represent the community composition at 16 hours post stimulus with the indicated doses of
+     │ LPS for RAW264.7. Data representative of three independent experiments. Next, we explored
+     │ AIH in BMDMs, a cell model more faithfully capturing heterogeneity of primary macrophages.
+     │ As in the case of RAW264.7 cells, exposure to LPS induced population heterogeneity in BMDMs
+     │ albeit with different kinetics to that observed in RAW264.7 cells (compare Figure 2 with
+     │ Figure 1B ). Whereas all populations were observed at 16h (12h …
+     "This study mathematically models macrophage responses to LPS, analyzing single-cell protein expression. Macrophage hypo-responsiveness to secondary LPS challenges is driven by altered transition rates to non-responsive states."
+
+  12. Impaired Preadipocyte Differentiation in Human Abdominal Obesity
+     Petter Isakson; Ann Hammarstedt; Birgit Gustafson; Ulf Smith
+     PMC2699851 · PMC · 2009-04-07 · 327 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2699851/
+     Matched: Human preadipocytes assume a macrophage-like phenotype in the presence · cat /papers/PMC2699851/content.lines --lines 70-81
+     │ MCP-1 | 1.0 ± 0.0 | 6.2 ± 2.1 | 0.016 | 1.1 ± 0.2 | NS | 1.2 ± 0.2 | NS SAA1 | 1.0 ± 0.0 |
+     │ 13.1 ± 6.1 | (0.09) | 1.1 ± 0.2 | NS | 1.1 ± 0.1 | NS SAA2 | 1.0 ± 0.0 | 7.7 ± 3.5 | (0.09)
+     │ | 1.2 ± 0.3 | NS | 1.1 ± 0.1 | NS ICAM | 1.0 ± 0.0 | 113 ± 107 | 0.003 | 1.3 ± 0.1 | NS |
+     │ 1.4 ± 0.3 | NS MMP7 | 1.0 ± 0.0 | 3.9 ± 0.9 | 0.02 | 0.9 ± 0.2 | NS | 2.4 ± 0.8 | NS TLR2 |
+     │ 1.0 ± 0.0 | 7.1 ± 0.7 | 0.003 | 0.9 ± 0.1 | NS | 1.5 ± 0.3 | NS TLR4 | 1.0 ± 0.0 | 2.5 ± 1.0
+     │ | NS | 1.0 ± 0.1 | NS | 1.2 ± 0.2 | NS Data are means ± SE where basal is set to 1. The same
+     │ experimental conditions were used as in Table 1. n = 11. We also measured the secretion of
+     │ several cytokines and chemokines and found increases in …
+     "Preadipocyte differentiation was studied in obese and nonobese individuals, with varying cytokine and Wnt3a protein effects. Obesity impairs preadipocyte differentiation, potentially due to increased MAP4K4, and TNF-α induces a proinflammatory, macrophage-like phenotype."
+
+  13. Liraglutide, a GLP-1 Receptor Agonist, Mitigates LPS-Induced Osteoclastogenesis and Bone Loss by Downregulating Macrophage TNF-α Expression
+     Kou Murakami; Hideki Kitaura; Fumitoshi Ohori; Aseel Marahleh; Angyi Lin; Ziqiu Fan; Kohei Narita; T...
+     PMC13299069 · International Journal of Molecular Sciences · 2026-06-22 · 1 citation
+     https://doi.org/10.3390/ijms27125624
+     Matched: 2.5. Liraglutide Attenuated TNF-α Production in LPS-Stimulated Macroph · cat /papers/PMC13299069/content.lines --lines 29
+     │ Next, we examined whether liraglutide inhibits LPS-induced RANKL expression in osteoblasts
+     │ in vitro. TNF-α mRNA levels in macrophages were analyzed using real-time RT-PCR. While LPS
+     │ treatment significantly upregulated TNF-α expression in macrophages from 1.00 ± 0.11 in the
+     │ PBS group to 4.36 ± 2.32, this effect was markedly attenuated by co-treatment with
+     │ liraglutide, which reduced TNF-α expression 1.29 ± 0.27-fold relative to the PBS group
+     │ (Figure 5A). To further investigate this mechanism, we assessed LPS-induced RANKL mRNA
+     │ expression in osteoblasts. Although LPS significantly upregulated RANKL mRNA expression
+     │ compared with the that in the control and liraglutide-only groups, increasing it …
+     "Liraglutide, a glucagon-like peptide-1 (GLP-1) receptor agonist, restores hyperglycemic conditions in patients with type 2 diabetes and has recently shown promising anti-inflammatory properties. In th"
+
+  14. Ascofuranone inhibits lipopolysaccharide–induced inflammatory response via NF-kappaB and AP-1, p-ERK, TNF-α, IL-6 and IL-1β in RAW 264.7 macrophages
+     Jun-Young Park; Tae-Wook Chung; Yun-Jeong Jeong; Choong-Hwan Kwak; Sun-Hyung Ha; Kyung-Min Kwon; Fuk...
+     PMC5313137 · PMC · 2017-02-16 · 53 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5313137/
+     Matched: Effects of AF on LPS-induced increases in levels of cytokines TNF-α, I · cat /papers/PMC5313137/content.lines --lines 48-49
+     │ It is known that during the inflammatory response, murine macrophage cells produce pro-
+     │ inflammatory cytokines such as TNF-α, IL-1β, and IL-6 [1]. Pro-inflammatory cytokines play
+     │ pivotal roles in inflammation, including activation of leukocytes and activation of the
+     │ acute-phase response. As shown in Fig 4, AF suppressed LPS-induced transcription of pro-
+     │ inflammatory cytokines TNF-α, IL-6, and IL-1β, which are the key inflammatory cytokines. Fig
+     │ 4: Effects of AF on the levels of LPS-induced cytokines TNF-α, IL-6, and IL-1β in RAW 264.7
+     │ macrophages. The mRNA levels of TNF-α, IL-6, and IL-1β were determined by RT-PCR in cells
+     │ treated with 100 ng/mL of LPS only or with 1–50 μM of AF for 24 h. …
+     "Ascofuranone was studied for its anti-inflammatory effects in LPS-stimulated macrophages. It inhibits inflammatory responses by suppressing NF-κB, AP-1, and p-ERK activation."
+
+  15. Human amnion mesenchymal cells inhibit lipopolysaccharide-induced TNF-α and IL-1β production in THP-1 cells
+     Jun Shu; Xiaojuan He; Lan Zhang; Hong Li; Ping Wang; Xiaojie Huang
+     PMC4690291 · PMC · 2015-12-23 · 24 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4690291/
+     Matched: hAMCs supernatants inhibit TNF-α and IL-1β production in LPS-stimulate · cat /papers/PMC4690291/content.lines --lines 29-30
+     │ To further confirm the effect of hAMCs, we collected the supernatants of hAMCs and added
+     │ them into LPS-stimulated THP-1 cells, and the same results were found. As shown in Fig. 4,
+     │ hAMCs supernatants also significantly inhibited the production of pro-inflammatory cytokines
+     │ TNF-α and IL-1β in LPS-stimulated THP-1 cells (P < 0.01). Fig. 4: hAMCs supernatants inhibit
+     │ LPS-induced TNF-α and IL-1β production in THP-1 cells. THP-1 cells were pre-treated with PMA
+     │ to induce macrophage. Then, they were stimulated with LPS (10 μg/mL) with or without hAMCs
+     │ supernatants for 24 h at 37 °C. Expression levels of TNF-α (a) and IL-1β (b) in the culture
+     │ supernatants of THP-1 cells were detected by ELISA. Data …
+     "Human amnion mesenchymal cells were studied for their effect on inflammatory cytokine production in THP-1 macrophages. These cells significantly reduced TNF-α and IL-1β production by suppressing NF-κB and MAPK pathways."
+
+  16. Site-Specific Reprogramming of Macrophage Responsiveness to Bacterial Lipopolysaccharide in Obesity
+     Evilin N. Komegae; Monique T. Fonseca; Sanseray da Silveira Cruz-Machado; Walter M. Turato; Luciano ...
+     PMC6611339 · Frontiers in Immunology · 2019-06-28 · 13 citations
+     https://doi.org/10.3389/fimmu.2019.01496
+     Matched: Cytometry-Based Analysis of Macrophage Markers and TNF-α · cat /papers/PMC6611339/content.lines --lines 27
+     │ Adherent cells were detached from the cultureware by incubation (10 min) in ice-cold PBS,
+     │ followed by scrapping with a syringe barrel. The cells were then transferred to cytometry
+     │ tubes (5 × 105 cells/tube), where they were subjected to the following sequential steps: (i)
+     │ blockade with BD's Stain Buffer (cat. No. 554656; 30 min, 4°C); (ii) surface staining for
+     │ CD45 (a leukocyte marker); (iii) permeabilization with BD's Phosflow Perm Buffer III (cat.
+     │ No. 558050; 20 min, 4°C, in the dark); and (iv) intracellular staining for CD68/ED1 (a
+     │ macrophage marker) and TNF-α. Stainings were achieved by 30-min incubation with the
+     │ following monoclonal antibodies at 4°C and in the dark: mouse anti-rat …
+     "This study investigated how obesity alters macrophage responsiveness to bacterial LPS in different tissues. Obesity causes site-specific changes in macrophage responses to LPS, affecting pro-inflammatory cytokine production via distinct NF-κB pathways."
+
+  17. The chemotherapeutic drug carboplatin affects macrophage responses to LPS and LPS tolerance via epigenetic modifications
+     Atsadang Boonmee; Salisa Benjaskulluecha; Patipark Kueanjinda; Benjawan Wongprom; Thitiporn Pattarak...
+     PMC8566489 · Scientific Reports · 2021-11-03 · 15 citations
+     https://doi.org/10.1038/s41598-021-00955-7
+     Matched: Carboplatin restored LPS-induced production of TNF-α and IL-6 in toler · cat /papers/PMC8566489/content.lines --lines 19-21
+     │ First, we tested the procedure to induce LPS tolerance in bone marrow-derived macrophages
+     │ (BMDMs); we monitored the levels of the proinflammatory cytokines TNF-α and IL-6 in BMDMs
+     │ that were primed with LPS (1° LPS; 100 ng/ml) without carboplatin for 24 h and compared them
+     │ with BMDMs receiving 1° LPS followed by re-exposure to LPS (2° LPS; 10 ng/ml) for another 3
+     │ h (Fig. 1A, upper panel). As expected for the repressed response, the levels of both
+     │ cytokines dramatically decreased in the tolerant cells compared to the cells primed with a
+     │ single LPS exposure (Fig. 1B,C and Supplementary Fig. S1). The fold changes were reduced by
+     │ 21.7- and 1.5-fold for TNF-α and IL-6, respectively. As a result, …
+     "Carboplatin was studied for its effects on macrophage responses to LPS and LPS tolerance. The drug was found to interfere with proinflammatory cytokine production in these conditions, potentially through H3K9me3 modification."
+
+  18. Macrophage tumor necrosis factor-alpha deletion does not protect against obesity-associated metabolic dysfunction
+     Ahmed K. Aladhami; Christian A. Unger; Shannon L. Ennis; Diego Altomare; Hao Ji; Marion C. Hope; Kan...
+     PMC8716064 · FASEB journal : official publication of the Federation of American Societies for Experimental Biology · 2021-12-19 · 26 citations
+     https://doi.org/10.1096/fj.202100543RR
+     Matched: TNF-αF/F,LyzMCre mice display significantly reduced circulating TNF-α  · cat /papers/PMC8716064/content.lines --lines 41
+     │ In order to assess the validity of LysMCre driven TNF-α deletion, we challenged a subset
+     │ TNF-αF/F,LyzMCre, and TNF-αF/F mice with LPS. Similar to the results of others,[13] mice
+     │ with LyzMCre deletion of TNF-α displayed a significantly reduced TNF-α response to the LPS
+     │ challenge (P < .05) (Figure S1).
+     "Macrophage TNF-α deletion was studied in mice on a high-fat diet. This deletion did not prevent obesity or associated metabolic dysfunction."
+
+  19. Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review
+     Leah Elson; Niels Eijkelkamp; J. Henk Coert
+     PMC13372918 · Inflammation Research · 2026-07-15 · 0 citations
+     https://doi.org/10.1007/s00011-026-02317-3
+     Matched: Proposed LPS-driven peripheral neuropathy · cat /papers/PMC13372918/content.lines --lines 97-100
+     │ The BNB is dual-layered, composed of the endothelial tissue of intrinsic nerve
+     │ microvasculature and the multilayered perineurium which encases nerve fascicles. This
+     │ selectively permeable barrier provides structural protection and maintains an immune-
+     │ privileged endoneurial microenvironment surrounding peripheral nerve axons and their
+     │ associated glial support cells. A stepwise pathophysiologic link between gut dysbiosis and
+     │ BNB compromise has been increasingly delineated in the literature. Mechanisms have been
+     │ described for the disruption of gut epithelial tight junctions [53], which allows
+     │ translocation of bacterial LPS into the bloodstream [54]. Circulating LPS induces systemic
+     │ inflammation …
+     "This systematic review synthesized evidence for a conserved lipopolysaccharide (LPS)-mediated pathogenic mechanism across diverse tissues and evaluated its potential relevance to peripheral neuropathy"
+
+  20. Huangkui Capsule Attenuates Lipopolysaccharide-Induced Acute Lung Injury and Macrophage Activation by Suppressing Inflammation and Oxidative Stress in Mice
+     Jinfang Deng; Zhenpeng He; Xiuru Li; Wei Chen; Ziwen Yu; Ting Qi; Shuangyi Xu; Zhengxin Xu; Lei Fang
+     PMC9068299 · Evidence-based Complementary and Alternative Medicine : eCAM · 2021-09-22 · 15 citations
+     https://doi.org/10.1155/2021/6626483
+     Matched: 3.5. HKC Suppressed Nitric Oxide, TNF-α, IL-6, and ROS Production in L · cat /papers/PMC9068299/content.lines --lines 59
+     │ We further performed in vitro experiments to illustrate the effect of HKC on LPS-induced
+     │ inflammatory responses in RAW 264.7 and primary peritoneal macrophages. HKC did not affect
+     │ RAW 264.7 cell viability up to a concentration of 200 μg/mL (Figure 5(a)). LPS treatment
+     │ reduced the levels of nitric oxide, TNF-α, IL-6, and ROS, which were reversed by HKC or DEX
+     │ treatment, compared to those without LPS treatment (Figures 5(b)–5(e), P < 0.01, F values:
+     │ 121.6, 378.2, 136.6, and 80.87). LPS-stimulated primary peritoneal macrophages showed
+     │ results similar to those for RAW 264.7 cells (Figure 6, P < 0.05 or P < 0.01, F value:
+     │ 242.0, 154.9, and 350.5 for nitric oxide, TNF-α, and IL-6 levels, …
+     "Huangkui capsule was studied for its effects on lipopolysaccharide-induced acute lung injury in mice. The capsule reduced inflammation and oxidative stress, suggesting a protective role against lung injury."
+
+  21. Candida albicans  infection suppresses Lipopolysaccharide or  Pseudomonas aeruginosa  stimulated murine bone marrow derived macrophage (BMDM) responses
+     Christa P. Baker, Stephanie Laba, Jordan Warner, Karen Shepherd, Heather M. Wilson, J. Simon C. Arth...
+     bio_06a0aa486d25 · bioRxiv · 2025-06-05 · 2 citations (all versions)
+     Published (2026): https://doi.org/10.1038/s41598-026-39429-z
+     Preprint: https://doi.org/10.1101/2025.06.05.657992
+     Matched: C. albicans  infection modulated the LPS response in BMDMs · cat /papers/bio_06a0aa486d25/content.lines --lines 28-29
+     │ Overall, the effect of C. albicans infection on proteome remodelling was modest, despite the
+     │ important roles attributed to macrophage infection models in vivo ( 18 – 20 ). For this
+     │ reason, coupled to the finding that C. albicans did regulate some proteins with known
+     │ function in innate immunity, we compared the macrophages response to infection with live C.
+     │ albicans and the changes occurring with LPS or the bacterial pathogen P. aeruginosa . Given
+     │ that in vivo exposure to C. albicans may occur in a polymicrobial environment, we also
+     │ examined whether C. albicans might modulate the macrophage response to either LPS or P.
+     │ aeruginosa infection. LPS is a component of …
+     "Murine macrophages were studied for their response to *Candida albicans* infection, alone and with bacterial stimuli. *C. albicans* suppressed macrophage responses to LPS and *P. aeruginosa*, including cytokine production."
+
+  22. Absence of c-Maf and IL-10 enables Type I IFN enhancement of innate responses to low-dose LPS in alveolar macrophages
+     Pamelia N. Lim, Maritza M. Cervantes, Linh K. Pham, Sydney Doherty, Ankita Tufts, Divya Dubey, Dat M...
+     bio_6fd83ba67893 · bioRxiv · 2024-05-22 · 1 citation (all versions)
+     Published (2024): https://doi.org/10.1101/2024.05.22.594428
+     Matched: IFN β  enhances alveolar macrophage TNF and IL-6 response to low-dose  · cat /papers/bio_6fd83ba67893/content.lines --lines 47-48
+     │ One implication for an absence of IL-10 production by AMs is that conditions that would
+     │ normally stimulate robust IL-10 production might have alternative impacts. We hypothesized
+     │ that one of those conditions could be Type I IFN, which has been shown to induce IL-10 in
+     │ myeloid cells 27 . To test a role for Type I IFN, we stimulated AMs and BMDMs in vitro with
+     │ low- dose LPS (1 ng/mL) and IFNβ (1-100 ng/mL) for 20 hours. BMDMs produced a dose-dependent
+     │ increase in IL-10 and a significant decrease in TNF and IL-6 with increasing amounts of
+     │ rIFNβ ( Fig. 5A ). This response recapitulated previously described effects of Type I IFN
+     │ and IL-10 in macrophages 29 . In contrast, we observed an …
+     "Alveolar macrophages show dampened responses to low-dose LPS due to low surface TLR4/CD14 and lack of IL-10 production. Type I IFN enhances these responses by overcoming IL-10's inhibitory effect, which is linked to low c-Maf expression."
+
+  23. Effect of Sardine and Sprat Thermal Processing on Intestinal Integrity and Macrophage Activation In Vitro
+     Ivo Doskočil; Barbora Lampová; Petr Šmíd; Mariola Drozdowska; Aneta Kopeć
+     PMC12608999 · Foods · 2025-10-31 · 1 citation
+     https://doi.org/10.3390/foods14213754
+     Matched: 3.1. NO and TNF-α Production Following LPS Stimulation · cat /papers/PMC12608999/content.lines --lines 51-53
+     │ Boiled and steamed sardines triggered TNF-α levels comparable to those of the LPS control,
+     │ suggesting only a minimal inflammatory effect. A similar pattern was observed for sprats:
+     │ while frying and baking led to moderate increases in TNF-α production, the steamed and
+     │ boiled preparations maintained levels close to those of the LPS control. The control showed
+     │ minimal TNF-α secretion (31.4 pg/mL), confirming the dependence of the inflammatory response
+     │ on LPS. In particular, raw sprats induced considerable TNF-α release despite the absence of
+     │ thermal processing, suggesting that intrinsic properties of the species may contribute to
+     │ its immunostimulatory potential. Additional pairwise comparisons …
+     "This study investigated how different cooking methods affect the immunomodulatory and intestinal barrier properties of sardines and sprats. Steaming generally preserved beneficial anti-inflammatory and barrier-promoting effects, while dry heat methods like baking and frying altered these properties."
+
+  24. Anti-Inflammatory Activity of the Wild Mushroom, Echinodontium tinctorium, in RAW264.7 Macrophage Cells and Mouse Microcirculation
+     Sumreen Javed; Wai Ming Li; Mehreen Zeb; Almas Yaqoob; Linda E. Tackaberry; Hugues B. Massicotte; Ke...
+     PMC6804242 · Molecules · 2019-09-27 · 22 citations
+     https://doi.org/10.3390/molecules24193509
+     Matched: 2.4. AIPetinc Inhibited LPS-Induced NO Production and Histamine-Induce · cat /papers/PMC6804242/content.lines --lines 28-29
+     │ To further assess the anti-inflammatory potential of AIPetinc, we determined its effect on
+     │ nitric oxide (NO) production. NO, a critical biomarker for inflammation, plays a major role
+     │ in chronic inflammation and carcinogenesis [16,19]. It is produced by inducible nitric oxide
+     │ synthase upon induction by the transcription factor NF-κβ that is a downstream target of LPS
+     │ and TNF-α. As shown in Figure 6a, 1 mg/mL of AIPetinc significantly inhibited NO production
+     │ in response to LPS, further confirming the anti-inflammatory activity of AIPetinc.
+     │ Histamine, a commonly used inflammation inducer, was dose-dependently assessed for its
+     │ ability to induce TNF-α production in RAW264.7 cells. At 1 µM, …
+     "A wild mushroom extract was studied for anti-inflammatory properties. A purified polysaccharide from the mushroom demonstrated significant anti-inflammatory activity in cell and animal models."
+
+  25. Dietary palmitic acid induces trained immunity that controls inflammation and infection
+     AL Seufert, SK Traxler, JW Hickman, RM Peterson, SJ Lashley, N Shulzhenko, RJ Napier, BA Napier *
+     bio_a17b2e96717c · bioRxiv · 2021-06-15 · 2 citations (all versions)
+     Published (2021): https://doi.org/10.1101/2021.06.15.448579
+     Matched: Palmitic acid enhances macrophage response to LPS challenge · cat /papers/bio_a17b2e96717c/content.lines --lines 45
+     │ Pentadecanoic acid (PDA, C15:0) is a SFA containing 1 less carbon than PA and is likewise
+     │ found in milkfat, which is the primary fat source in the KD used in our in vivo studies. To
+     │ understand if this hyper-inflammatory response is specific to PA, we performed identical
+     │ assays using a physiologically relevant concentration of PDA (50μM) followed by a secondary
+     │ challenge with LPS ( 50 ). In accordance with our PA-treated BMDMs, 12 and 24 h PDA
+     │ treatments resulted in significantly increased expression of tnf, il-6, and il-1β upon
+     │ secondary stimulation with LPS (Fig S4G-L). This indicates that like PA, PDA alters
+     │ macrophage responses and leads to significantly enhanced expression of …
+     "Dietary palmitic acid was studied as a stimulus for trained immunity. It induces a hyper-inflammatory response to secondary challenges, harming during systemic inflammation but aiding infection resistance."
+
+  26. The use of Ipratropium and Tiotropium as novel agents to reduce inflammation in  in vitro  macrophage models
+     Ifteqar Hussain Mohammed *
+     bio_1ab02dae6d41 · bioRxiv · 2021-10-31 · 0 citations (all versions)
+     Published (2021): https://doi.org/10.1101/2021.10.31.466274
+     Matched: Comparison of TNF- α production in LPS treated and control (untreated) · cat /papers/bio_1ab02dae6d41/content.lines --lines 172-173
+     │ As shown in figure 3.6 , a substantial increase in the TNF- α cytokine concentration was
+     │ observed in LPS treated cells. The mean ± SEM data obtained was 726.33 ± 3.7 pg/ml for LPS
+     │ treated cells and 42.03 ± 0.8 pg/ml for control (untreated cells). The control showed least
+     │ concentration 42 pg/ml of TNF- α, whereas the LPS treated cells had a concentration of 726
+     │ pg/ml. The data represented in figure 11 confirms that TNF- α levels increased significantly
+     │ in LPS treated cells. The research methodology was thus validated. Figure 3.6. A comparison
+     │ of control (untreated) and LPS treated cells THP-1 cells. The data was represented as mean ±
+     │ S.E.M for N= 4 for both groups and the experiment was …
+     "Ipratropium and tiotropium were studied for their anti-inflammatory effects in macrophage models. These drugs were found to reduce pro-inflammatory cytokines, though less effectively than budesonide and fenoterol."
+
+  27. Immune Cell Dysfunction of SARS-CoV-2: Mathematical Modeling of the Within-Host Immune Dynamics
+     Pagnapech Ngoun, Nicolas Alvarez, Ayesh Awad, Hwayeon Ryu *
+     bio_204608277efc · bioRxiv · 2025-10-03 · 0 citations (all versions)
+     Published (2025): https://doi.org/10.1101/2025.10.03.680253
+     Matched: 3.7. *TNF- $\alpha$ inhibition of monocyte to macrophage differentiati · cat /papers/bio_204608277efc/content.lines --lines 711-712
+     │ - **A:** TNF- $\alpha$ production by CD8<sup>+</sup> T cells. Data points from Freeman et
+     │ al. (2010) are fitted by Eq. (29). TNF- $\alpha$ (pg/ml) is plotted against Time (hours). -
+     │ **B:** TNF- $\alpha$ production by NK cells. Data points from Wang et al. (2012) are fitted
+     │ by Eq. (31). TNF- $\alpha$ (pg/ml) is plotted against Time (days). - **C:** Monocyte
+     │ differentiation to macrophage inhibition by TNF- $\alpha$ . Data points from Chomarat et al.
+     │ (2003) are fitted by Eq. (32). Macrophage production (cells/ml) is plotted against TNF-
+     │ $\alpha$ (pg/ml). - **D:** TNF- $\alpha$ production by monocytes. Data points from Chentouh
+     │ et al. (2018) are fitted by Eq. (33). TNF- $\alpha$ (pg/ml) …
+     "A mathematical model of the SARS-CoV-2 immune response was developed, incorporating NK cells and cytokines. Simulations reproduce severe disease outcomes like cytokine storms and NK cell dysfunction, identifying potential therapeutic targets."
+
+  28. Lipopolysaccharide-mediated signal transduction: Stabilization of TNF-alpha mRNA contributes to increased lipopolysaccharide-stimulated TNF-alpha production by Kupffer cells after chronic ethanol feeding
+     Raj Kishore; Megan R McMullen; Enzo Cocuzzi; Laura E Nagy
+     PMC2410250 · Comparative Hepatology · 2004-01-14 · 36 citations
+     https://doi.org/10.1186/1476-5926-2-S1-S31
+     Matched: Chronic ethanol increases LPS-stimulated TNF– expression · cat /papers/PMC2410250/content.lines --lines 30-31
+     │ Figure 2: Chronic ethanol exposure sensitizes RAW 264.7 macrophages to low concentrations of
+     │ lipopolysaccharide. RAW 264.7 macrophages were cultured with and without 25 mM ethanol for
+     │ 48 h and then stimulated with 0–5 ng/ml lipopolysaccharide (E. coli serotype O26:B6) in the
+     │ presence of 10% serum for 60 min. RNA was isolated and quantity of TNF-alpha and GAPDH mRNA
+     │ measured by ribonuclease protection assay. Taken together, these data indicate that there is
+     │ a strong similarity between the effects of ethanol feeding on Kupffer cell responses to LPS
+     │ and the in vitro response of RAW 264.7 macrophages to culture with chronic ethanol. These
+     │ results suggest that changes in TNF-alpha production by …
+
+  29. Spatial confinement modulates macrophage response in microporous annealed particle (MAP) scaffolds
+     Yining Liu, Alejandra Suarez-Arnedo, Lindsay Riley, Tasman Miley, Jingyi Xia, Tatiana Segura *
+     bio_9d877cfe6ccd · bioRxiv · 2022-08-16 · 61 citations (all versions)
+     Published (2023): https://doi.org/10.1002/adhm.202300823
+     Preprint: https://doi.org/10.1101/2022.08.16.504156
+     Matched: Macrophage antigen presentation markers differed for LPS/IFNγ or IL-4  · cat /papers/bio_9d877cfe6ccd/content.lines --lines 33
+     │ We first wanted to confirm that macrophages cultured in 2D showed the expected differences
+     │ when activated with M1(LPS/IFNγ) or M2(IL-4) using ELISA quantification of inflammatory
+     │ cytokine secretion and flow cytometry analysis of inflammatory marker expression
+     │ (Supplementary Figure 3a, b). The inflammatory phenotype was studied using well documented
+     │ IL-6 and TNF cytokine secretion and iNOS and CD86 marker expression, and the regenerative
+     │ phenotype was studied using Arg1 and CD206 maker expression. In addition, we added two
+     │ markers of interest, MHCII and CD11c(antigen presenting markers), as macrophages are also
+     │ recognized for their antigen presenting properties. As expected, M1(LPS/IFNγ) …
+     "This study investigated how spatial confinement within microporous annealed particle scaffolds affects macrophage polarization. Macrophages confined in smaller pores exhibited a reduced inflammatory response, linked to altered cell morphology and motility."
+
+  30. Bioactive Lipids and Their Derivatives in Biomedical Applications
+     Jinwon Park; Jaehyun Choi; Dae-Duk Kim; Seunghee Lee; Bongjin Lee; Yunhee Lee; Sanghee Kim; Sungwon ...
+     PMC8411027 · PMC · 2021-09-01 · 73 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8411027/
+     Matched: Lipopolysaccharide (LPS) · cat /papers/PMC8411027/content.lines --lines 85-86
+     │ LPS consists of a lipid and O-antigen-containing polysaccharide. It is also known as
+     │ endotoxin, as it is a toxin located within bacterial cells. Lipid A, which is an
+     │ acylaminosugar present in gram-negative bacteria, is a component of LPS, along with
+     │ O-antigen and oligosaccharides. The structure of LPS allows bacteria to maintain the
+     │ integrity of the cell wall, to which it is tethered by lipid A. When the cell wall is
+     │ decomposed, lipid A is released from the bacterial wall to exert a toxic effect on the human
+     │ body. The complement cascade is initiated by C3a and C5a in macrophages, which causes the
+     │ release of histamine and triggers an inflammatory response via the release of TNF,
+     │ cytokines, …
+     "This review examines bioactive lipids and their derivatives, detailing their diverse biological functions. These lipids show promise for therapeutic applications in areas like autoimmune disease, metabolic disorders, and cancer immunotherapy."
+
+  31. Palmitoleate protects against lipopolysaccharide-induced inflammation and inflammasome activity
+     Prakash Kumar Sahoo; Aiswariya Ravi; Baolong Liu; Jiujiu Yu; Sathish Kumar Natarajan
+     PMC11585775 · PMC · 2024-10-11 · 9 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11585775/
+     Matched: PO protects against LPS-induced macrophage inflammation · cat /papers/PMC11585775/content.lines --lines 59-60
+     │ To determine the protective role of PO against inflammation, we used mouse BMDMs and
+     │ stimulated them with LPS (10 ng/ml) for 3 h to induce inflammation. We observed that
+     │ treatment of LPS to BMDMs increased mRNA expression of proinflammatory cytokines such as
+     │ IL-1β, IL-6, and TNF-α (Fig. 1A). When BMDMs were pretreated with PO followed by LPS
+     │ induction, we observed a significantly reduced expression of proinflammatory cytokines
+     │ compared to LPS treated BMDMs (Fig. 1A). Similar to BMDMs, mouse macrophage cell RAW264.7
+     │ also responded to LPS (10 ng/ml) induction by increasing the mRNA synthesis of
+     │ proinflammatory cytokines, and pretreatment of PO followed by LPS induction resulted in
+     │ significant …
+     "Palmitoleate was studied for its anti-inflammatory effects against lipopolysaccharide (LPS)-induced inflammation. It was found to inhibit pro-inflammatory cytokine production, inflammasome activation, and cell death."
+
+  32. Differential proteomics highlights macrophage-specific responses to   amorphous silica nanoparticles
+     Bastien Dalzon (LCBM - UMR 5249), Catherine Aude-Garcia (LCBM - UMR 5249), V\'eronique Collin-Faure ...
+     arx_1801.08421 · arXiv · 2018-01-25 · 36 citations (all versions)
+     Published (2017): https://doi.org/10.1039/c7nr02140b
+     Preprint: https://arxiv.org/abs/1801.08421
+     Matched: 4. Discussion · cat /papers/arx_1801.08421/content.lines --lines 103-104
+     │ One of the major problems in the field of nanotoxicology is the variability of the results
+     │ presented in the scientific literature. The variability of the nanomaterials, even if they
+     │ bear the same chemical name, and their poor characterization have often been blamed as the
+     │ main cause of this observed variability. However, in many cases both the cell types and the
+     │ nanoparticles used change from one study to another, and it is difficult to evaluate the
+     │ influence of each factor on the final variability. Even worse, some cell lines such as those
+     │ used in the present study can be cultured in two different media, namely RPMI 1640 and DMEM.
+     │ When comparing our results with those obtained by Panas et …
+
+  33. The Anti-Inflammatory Effect of Trichilia martiana C. DC. in the Lipopolysaccharide- Stimulated Inflammatory Response in Macrophages and Airway Epithelial Cells and in LPS-Challenged Mice
+     Ji-Won Park; Hyung Won Ryu; Hye In Ahn; Jae-Hong Min; Seong-Man Kim; Min-Gu Kim; Ok-Kyoung Kwon; Das...
+     PMC9728236 · PMC · 2020-08-28 · 15 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9728236/
+     Matched: Effects of TMEE on Macrophage Influx and TNF-α Production in LPS-Induc · cat /papers/PMC9728236/content.lines --lines 49
+     │ The sustained influx of macrophages is a characteristic of ALI, and leads to hyper-
+     │ inflammation by inducing inflammatory molecules, including TNF-α [17]. Therefore, the
+     │ regulation of macrophage recruitment and TNF-α production is an important therapeutic
+     │ approach in ALI. Based on this result, the current study investigated whether TMEE affected
+     │ macrophage recruitment in ALI mice. ALI was achieved by LPS administration (Fig. 8). The
+     │ results of Diff Quik staining showed the numbers of macrophageswere increased in the BALF of
+     │ LPS-induced ALI mice (Figs. 9A and 9B). However, treatment with TMEE reduced the LPS-induced
+     │ increase of macrophages. The inhibitory rates of TMEE on macrophage numbers …
+     "The anti-inflammatory effects of *Trichilia martiana* extract were studied in LPS-stimulated cells and mice. The extract reduced inflammatory mediators and activated protective pathways, suggesting therapeutic potential for endotoxin-mediated inflammation."
+
+  34. microRNA-721 is a host regulator of TNF-IRF1 axis in Leishmania infected macrophage
+     Jonathan Miguel Zanatta; Ian Antunes Ferreira Bahia; Emanuella Sarmento Alho de Sousa; Clara Andrade...
+     bio_29a6378f891a · bioRxiv · 2026-01-01 · 0 citations (all versions)
+     Published (2026): https://doi.org/10.64898/2026.05.13.724987
+     Matched: cat /papers/bio_29a6378f891a/content.lines --lines 29-32
+     │ Figure 3.: Experimental analysis of the miR-721, Tnf and Irf1 expression axis in C57BL/6 and
+     │ BALB/c BMDMs. a) Schematic overview of the validation strategy. b) Infection parameters
+     │ showing the percentage of infected macrophages and the amastigote-to-macrophage ratio at 4 h
+     │ and 24 h post infection. c) Expression of miR-721, Tnf, and Irf1 in C57BL/6 macrophages
+     │ under Ctrl, La, and LPS conditions. d) Expression of miR-721, Tnf, and Irf1 in BALB/c
+     │ macrophages under Ctrl, La, and LPS conditions. Next, we evaluated the expression of Tnf and
+     │ Irf1 in BMDMs from C57BL/6 and BALB/c macrophages. In C57BL/6 macrophages, L. amazonensis
+     │ infection did not significantly alter Tnf expression at 4 h compared …
+     "MicroRNAs (miRNAs) are small noncoding RNAs that play critical roles in regulating immune responses and have emerged as potential biomarkers and therapeutic targets in complex diseases. Leishmaniasis "
+
+  35. Macrophage migration-dependent retraction fibers and migrasomes - a structural basis for spatiotemporal cytokine secretion
+     Xichun Li, Azadeh Anbarlou, Vrushali Maste, Nicholas D. Condon, Darren Brown, Hongyu Shen, Hao-Ruei ...
+     bio_3a7f2a5d6df9 · bioRxiv · 2024-12-12 · 0 citations (all versions)
+     Published (2024): https://doi.org/10.1101/2024.12.12.627632
+     Matched: Migrating macrophages mediate TNF-dependent apoptosis in epithelial co · cat /papers/bio_3a7f2a5d6df9/content.lines --lines 56
+     │ TNF binding to the receptor TNFR1 triggers downstream signaling in target cells with
+     │ subsequent apoptosis providing a read-out for bioactive TNF secretion ( 39 , 40 ). Direct
+     │ addition of exogenous TNF to IMCD3 cell monocultures demonstrates the appearance of annexin
+     │ V-stained apoptotic epithelial cells ( Fig 9D ). In other controls, co-cultures without LPS
+     │ or the addition of LPS to monocultures of IMCD3 cells did not produce annexin V staining. In
+     │ macrophage and IMCD3 cocultures treated with LPS, the release of TNF from migrating
+     │ macrophages with RF trails, induces annexin staining of apoptotic epithelial cells ( Fig 9D
+     │ ). Thus we demonstrate that the deployment of TNF by migrating …
+     "Migrating macrophages form retraction fibers and migrasomes containing specific proteins. These structures act as sites for localized cytokine secretion, increasing overall cytokine release and influencing local inflammation."
+
+  36. Promising impacts of Achillea spp., beyond A medicinal plant, against toxins, toxicities, and injuries: In vivo and in vitro mechanisms
+     Mohammad Mahdi Dabbaghi; Mohammad Saleh Fadaei; Maral Goldoozian; Mohammad Reza Fadaei; Vafa Baradar...
+     PMC12051127 · PMC · 2025-04-22 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12051127/
+     Matched: Lipopolysaccharide (LPS) · cat /papers/PMC12051127/content.lines --lines 192-194
+     │ Lipopolysaccharide (LPS) is a major component of the wall of Gram-negative bacteria and
+     │ their endotoxin. As a mitogen, LPS induces cell proliferation in B lymphocytes and secretion
+     │ of cytokines such as IL-1β and TNF-α in macrophages. LPS is heat-stable and has a long shelf
+     │ life. These compounds have been known for many years to be the major factors in human septic
+     │ shock. By binding to the CD14/TLR4/MD2 receptor complex, LPS causes the release of
+     │ inflammatory cytokines, such as IL-1β and TNF-α, thus generating a very strong immune
+     │ response in the mammalian body [74]. In a research study, a total of 19 compounds were
+     │ detected in the essential oil of A. millefolium (AM-EO). The most abundant …
+     "This review examines the protective effects of *Achillea* species against toxins and injuries. *Achillea* species demonstrate significant antioxidant, anti-inflammatory, and organ-protective properties, highlighting their therapeutic potential."
+
+  37. Macrophage κ-opioid receptor inhibits hypoxic pulmonary hypertension progression and right heart dysfunction via an SCD1-dependent anti-inflammatory response
+     Qiaojuan Wang; Jiayuan Liu; Renqi Li; Sihan Kong; Yinjie Wang; Guoyang Huang; Shumiao Zhang; Na Feng...
+     PMC12765096 · PMC · 2025-03-18 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12765096/
+     Matched: Macrophage-specific κ-OR deficiency exacerbated the lipopolysaccharide · cat /papers/PMC12765096/content.lines --lines 72-73
+     │ Mouse peritoneal macrophages were isolated for in vitro experiments. The peritoneal
+     │ macrophages were assessed using flow cytometry for F4/80 and CD11b, demonstrating greater
+     │ than 95 % of purity (Fig. 3A, B). We treated peritoneal macrophages with LPS and found that
+     │ LPS significantly increased CD86 mRNA expression but decreased CD206 mRNA expression (Fig.
+     │ 3C). Consistent with the in vivo data, LPS significantly decreased κ-OR protein expression
+     │ in macrophages (Fig. 3D). We then established in vitro κ-OR-deficient peritoneal macrophages
+     │ via infection with adenovirus carrying EGFP and Cre recombinase (AD-Cre) (Fig. 3E). Control
+     │ macrophages were infected with adenovirus carrying only EGFP …
+     "Macrophage κ-opioid receptor (κ-OR) was studied in the context of hypoxic pulmonary hypertension (HPH). Macrophage κ-OR activation inhibits HPH progression and right heart dysfunction by up-regulating SCD1, which suppresses macrophage inflammation."
+
+  38. Cigarette Smoke and E-Cigarette Aerosol Extracts Induce Myelopoiesis and Suppress Inflammatory Cytokine Production
+     Jeanette YC Sullivan, Helen X Huang, Jianhong C Heidmann, Francisco Diaz, Camille Brzechffa, Jane H ...
+     bio_515bd3d27bc7 · bioRxiv · 2025-12-21 · 0 citations (all versions)
+     Published (2025): https://doi.org/10.64898/2025.12.21.693601
+     Matched: Standardized in vitro model reveals differential inhibitory effects of · cat /papers/bio_515bd3d27bc7/content.lines --lines 54-56
+     │ To investigate how smoke or e-cigarette exposure influences inflammatory responses, we
+     │ established a standardized workflow in which all cell culture and analytic protocols were
+     │ consistent across experiments. Single-use aliquots of the original batches of CSE and EVE,
+     │ ensuring that the only variable was the cell type under study. This approach enabled a
+     │ direct, side-by-side comparison of different monocyte and macrophage models. Because higher
+     │ concentrations of CSE and EVE can impair cell proliferation and viability, we selected
+     │ minimal concentrations (0.5-2%), which did not induce significant cell death under our
+     │ culture conditions. We first examined how CSE and EVE influence tumor necrosis …
+     "This study investigated how cigarette smoke and e-cigarette aerosol affect immune cells and blood cell development. Both exposures suppressed inflammatory responses and increased myeloid cell production, accelerating blood cell aging."
+
+  39. Inorganic Polyphosphate Suppresses Lipopolysaccharide-Induced Inducible Nitric Oxide Synthase (iNOS) Expression in Macrophages
+     Kana Harada; Toshikazu Shiba; Kazuya Doi; Koji Morita; Takayasu Kubo; Yusuke Makihara; Adriano Piatt...
+     PMC3767636 · PLoS ONE · 2013-09-09 · 16 citations
+     https://doi.org/10.1371/journal.pone.0074650
+     Matched: Effects of poly(P) on LPS-induced TNF release · cat /papers/PMC3767636/content.lines --lines 53-54
+     │ In addition to iNOS, the activation of TLR4 by LPS causes the expression of various
+     │ inflammatory mediators including TNF in macrophages [20]. Thus, we examined whether poly(P)
+     │ could suppress TNF release from LPS-stimulated macrophages as well as iNOS expression. For
+     │ the TNF assay, macrophages were pretereated with poly(P)14, poly(P)60, or poly(P)130 for 5
+     │ min, and then stimulated with LPS, similar to iNOS. After the 3-h or 24-h stimulation with
+     │ LPS, the amount of TNF released was significantly elevated. However, poly(P)14, poly(P)60,
+     │ and poly(P)130 did not have significant effects on LPS-induced TNF release (Figure 6A and
+     │ B). Moreover, the 24-h pretreatment with poly(P) also did not …
+     "Inorganic polyphosphate was studied for its effect on lipopolysaccharide-induced nitric oxide synthase expression in macrophages. Polyphosphate suppresses this expression at the mRNA level, suggesting a role in regulating innate immunity."
+
+  40. Synthesis, Characterization, and Anti-Inflammatory Activities of Methyl Salicylate Derivatives Bearing Piperazine Moiety
+     Jingfen Li; Yong Yin; Lisheng Wang; Pengyun Liang; Menghua Li; Xu Liu; Lichuan Wu; Hua Yang
+     PMC6273818 · PMC · 2016-11-23 · 24 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6273818/
+     Matched: 2.4. Inhibitory Screening against Lipopolysaccharide (LPS)-Induced Int · cat /papers/PMC6273818/content.lines --lines 22
+     │ TNF-α and IL-6, which are important pro-inflammatory mediators, can be triggered by
+     │ lipopolysaccharide (LPS) [20,21]. TNF-α is released in macrophages upon LPS treatment. The
+     │ secreted TNF-α or LPS subsequently induces the cells to release IL-6 [22]. In this study,
+     │ the in vitro anti-inflammatory effects of four target compounds were evaluated in the
+     │ macrophage RAW264.7 cells by measuring the expressions of TNF-α and IL-6 through ELISA
+     │ assays. RAW264.7 macrophages were pretreated with different doses (6.25, 12.5, and 25 µM)
+     │ for 2 h and then exposed to LPS (1 µg/mL) for an additional 22 h. The levels of TNF-α and
+     │ IL-6 in the media were determined. The results displayed that all four target …
+     "Sixteen methyl salicylate derivatives with a piperazine group were synthesized and tested for anti-inflammatory effects. Compounds M15 and M16 showed strong activity, with M16 also inhibiting key inflammatory markers in cell studies."
+
+  41. The lipid peroxidation product 4-hydroxynonenal inhibits NLRP3 inflammasome activation and macrophage pyroptosis
+     Chia George Hsu, Camila Lage Chávez, Chongyang Zhang, Mark Sowden, Chen Yan, Bradford C. Berk *
+     bio_b1f695156c22 · bioRxiv · 2022-02-01 · 165 citations (all versions)
+     Published (2022): https://doi.org/10.1038/s41418-022-00966-5
+     Preprint: https://doi.org/10.1101/2022.02.01.478693
+     Matched: Supplementary Figure S11. HNE-GSH has no effect on cell death after LP · cat /papers/bio_b1f695156c22/content.lines --lines 381-385
+     │ ![](b05fbb6a015ea153c1e25245772b1a1b_img.jpg) B. Bar graph showing BAL fluid
+     │ $\text{TNF}\alpha$ concentration (pg/mL) for four groups: Saline, LPS, LPS+ethanol, and
+     │ LPS+HNE. The LPS group shows significantly higher $\text{TNF}\alpha$ levels compared to
+     │ Saline (indicated by an asterisk). The LPS+ethanol group shows levels similar to LPS. The
+     │ LPS+HNE group shows significantly lower $\text{TNF}\alpha$ levels compared to LPS+ethanol
+     │ (indicated by 'ns' for non-significant difference between LPS+ethanol and LPS+HNE). 1 2
+     │ Supplementary Figure S12. HNE inhibits neutrophil and macrophage infiltration in 3 mouse
+     │ acute lung injury model. 4 A-B. Ethanol (0.01%) in saline (50 $\mu\text{l}$ ), …
+     "This study investigated the effect of 4-hydroxynonenal (HNE) on NLRP3 inflammasome activation and pyroptosis. HNE was found to inhibit these processes by directly binding to NLRP3 and preventing its interaction with NEK7."
+
+  42. Cycloartane-type saponins from Curculigo orchioides and their anti-inflammatory activity
+     Le Thanh Huong; Vu Duong Bach; Pham The Hai; Vu Mai Thao; Nguyen Xuan Nhiem; Nguyen Hai Dang
+     PMC12571148 · PMC · 2025-10-29 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12571148/
+     Matched: Compound 1 inhibited LPS-induced TNF-α and IL-6 secretion in LPS-murin · cat /papers/PMC12571148/content.lines --lines 78-79
+     │ TNF-α and IL-6 are key pro-inflammatory cytokines that play a vital role in immune response
+     │ during inflammation. To assess their expression, ELISA was performed on RAW 264.7 cells. As
+     │ shown in Fig. 2, LPS stimulation led to a significant increase in TNF-α and IL-6 levels.
+     │ Notably, pretreatment with compound 1 (10–50–100 μM) markedly reduced the expression of both
+     │ cytokines. These findings indicate that compound 1 effectively inhibits the production of
+     │ inflammatory mediators TNF-α and IL-6 in LPS-stimulated RAW 264.7 cells (Fig. 3). Fig. 3:
+     │ Compound 1 inhibits LPS-induced TNF-α and IL-6 secretion in LPS-murine macrophage RAW 264.7
+     │ cells. Cells were pre-treated with different concentrations …
+     "Six new cycloartane-type saponins were isolated from *Curculigo orchioides*. One novel compound showed anti-inflammatory activity by inhibiting nitric oxide and inflammatory cytokine production."
+
+  43. Annexin A5 Binds to Lipopolysaccharide and Reduces Its Endotoxin Activity
+     Jacob H. Rand; Xiao-Xuan Wu; Elaine Y. Lin; Alexander Griffel; Philip Gialanella; John C. McKitrick
+     PMC3312215 · mBio · 2012-03-13 · 56 citations
+     https://doi.org/10.1128/mBio.00292-11
+     Matched: Effects of AnxA5 in vitro on LPS-induced TNF-α production. · cat /papers/PMC3312215/content.lines --lines 55-56
+     │ Since LPS is known to stimulate macrophages to produce TNF-α (27, 28), we studied whether in
+     │ vitro the binding of AnxA5 to LPS might affect LPS-induced TNF-α production by a mouse
+     │ macrophage cell line named RAW 264.7 (American Type Culture Collection). Pilot experiments
+     │ indicated that treatment of RAW cells with 1 ng/ml LPS increased TNF-α levels 8-fold over
+     │ those in buffer-treated RAW cells. We therefore used this LPS concentration for the studies
+     │ described below. RAW cells were seeded into the wells of a 96-well tissue culture plate
+     │ (Becton Dickinson Labware) at a density of 1 × 104/well in Dulbecco’s modified Eagle’s
+     │ medium (DMEM) containing 10% fetal bovine serum and antibiotics …
+     "Annexin A5 was studied for its interaction with lipopolysaccharide (LPS). The protein binds to LPS and reduces its endotoxin activity, as shown by reduced TNF-α release and Limulus assay results."
+
+  44. Blockage of Lamin-A/C loss diminishes the pro-inflammatory macrophage response
+     Johanna L. Mehl, Ashley Earle, Jan Lammerding, Musa Mhlanga, Viola Vogel *, Nikhil Jain *
+     bio_da3f471a6c58 · bioRxiv · 2022-02-22 · 25 citations (all versions)
+     Published (2022): https://doi.org/10.1016/j.isci.2022.105528
+     Preprint: https://doi.org/10.1101/2022.02.22.481454
+     Matched: Macrophage activation · cat /papers/bio_da3f471a6c58/content.lines --lines 84
+     │ All studies were performed with primary BMDMs unless stated differently. Unlike the
+     │ frequently used immortalized cell lines, BMDMs more closely mimic macrophage behaviour in
+     │ vivo. Pro-inflammatory activation was achieved by stimulating macrophages with LPS (50
+     │ ng/ml) (L3129 Sigma). TNF-α treatment was done by treating BMDMs with 100ng/ml TNF-α
+     │ (410-MT-010, R&D Systems).
+     "Pro-inflammatory macrophage activation reduces Lamin-A/C levels through phosphorylation and degradation. Blocking this loss significantly inhibits pro-inflammatory gene expression and cytokine secretion."
+
+  45. Type I Interferon, Induced by Adenovirus or Adenoviral Vector Infection, Regulates the Cytokine Response to Lipopolysaccharide in a Macrophage Type-Specific Manner
+     Mareike D. Maler; Sophie Zwick; Carsten Kallfass; Peggy Engelhard; Hexin Shi; Laura Hellig; Pang Zhe...
+     PMC11023693 · PMC · 2024-03-25 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11023693/
+     Matched: Ability of Ad and IFN-αβ to Enhance the TNF-α and IL-6 Response to LPS · cat /papers/PMC11023693/content.lines --lines 62-64
+     │ Macrophages are the major source of cytokines in LPS-injected animals. As shown in Figure
+     │ 4a, adenovirus infection enhances the TNF-α response to LPS in alveolar macrophage-like MPI
+     │ cells similarly to the Ad-LPS hypersensitivity shown already earlier in vivo. The absence of
+     │ enhanced TNF-α response in infected IFN-αβR−/− MPI cells (shown in Fig. 4b) shows that the
+     │ sensitization in these MARCO-expressing cells is a result of autocrine activation by Ad-
+     │ induced IFN-αβ. Notably, only certain macrophage subtypes express MARCO. Macrophages lacking
+     │ MARCO, such as BMM (online suppl. Fig. S2, bottom left) or RPM (Fig. 3) show impaired Ad
+     │ uptake and IFN-αβ response ([17] and Fig. 2b), which excludes …
+     "Adenovirus infection was studied for its effect on macrophage cytokine response to lipopolysaccharide. Type I interferon, induced by adenovirus, enhances LPS-induced TNF-α and IL-6 in a macrophage type-specific manner."
+
+  46. Systemic Autoimmunity in TAM Triple Knockout Mice Causes Inflammatory Brain Damage and Cell Death
+     Qiutang Li; Qingjun Lu; Huayi Lu; Shifu Tian; Qingxian Lu
+     PMC3688737 · PMC · 2013-06-20 · 28 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3688737/
+     Matched: Peritoneal Macrophage Preparation, LPS Treatment and TNF-α ELISA Assay · cat /papers/PMC3688737/content.lines --lines 37
+     │ Peritoneal macrophages were prepared from day 4 of 3% thioglycollate induced WT and TKO
+     │ mice, detailed procedures was described previously [6]. Briefly, 3×106 cells were plated
+     │ into each well of a six-well plate. Nonadherent cells were removed 2 h later, and the
+     │ remaining adherent cells were cultured in complete medium for 3 d, and then were treated
+     │ with 100 ng/mL LPS for indicated time points before harvesting the culture medium for TNF-α
+     │ quantification. TNF-α level in the mouse serum or macrophage culture medium were measured
+     │ using the TNF-α ELISA kits and following the manufacturer’s instruction (eBiosciences, CA).
+     "TAM triple knockout mice develop systemic autoimmunity, leading to brain blood barrier breakdown and T cell infiltration. This neuroinflammation causes neuronal damage and cell death."
+
+  47. Procyanidin A2, a polyphenolic compound, exerts anti-inflammatory and anti-oxidative activity in lipopolysaccharide-stimulated RAW264.7 cells
+     Qin-Qin Wang; Hongwei Gao; Renyikun Yuan; Shan Han; Xin-Xing Li; Meiwen Tang; Baiqing Dong; Jun-Xiu ...
+     PMC7406031 · PMC · 2020-08-05 · 54 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7406031/
+     Matched: PCA2 suppressed LPS-induced macrophage activation · cat /papers/PMC7406031/content.lines --lines 41-42
+     │ Employing LPS-stimulated RAW264.7 cells, we studied whether PCA2 showed anti-inflammatory
+     │ activity. Initially, the Griess reagent and the flow cytometry assays were used to detect
+     │ nitrite and nitride oxide (NO) levels, respectively. Results indicated that PCA2 (20, 40, 80
+     │ μM) inhibited the increase of LPS-induced nitrite (Fig 1B) and NO levels (Fig 1C and 1D) in
+     │ RAW264.7 cells. Furthermore, PCA2 (80 μM) not only restrained the iNOS and COX-2’s mRNA
+     │ expression, but also the expression of the protein (Fig 1E–1H), the proteins expression and
+     │ COX-2. Furthermore, to investigate the effect of PCA2 on proinflammatory cytokines release
+     │ in LPS-induced RAW264.7 cells, we detected IL-6, TNF-α, and …
+     "Procyanidin A2 was tested for anti-inflammatory and anti-oxidative effects in LPS-stimulated RAW264.7 cells. PCA2 suppressed inflammation and oxidative stress by modulating NF-κB, MAPK, and Nrf2 pathways."
+
+  48. Pretreated Mesenchymal Stem Cells and Their Secretome: Enhanced Immunotherapeutic Strategies
+     Yuran Su; Chenyu Xu; Wen Cheng; Yanmei Zhao; Lei Sui; Yanhong Zhao
+     PMC9864323 · PMC · 2023-01-09 · 70 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9864323/
+     Matched: 2.2.4. Lipopolysaccharide (LPS) · cat /papers/PMC9864323/content.lines --lines 36-38
+     │ LPS is the main cell wall component of Gram-negative bacteria and play a crucial role in the
+     │ interaction between pathogens and the host immune system [90]. It is also a commonly
+     │ inflammatory inducer in the study of inflammatory diseases. It was found that a low
+     │ concentration of LPS-pretreated MSCs inhibited activated T-cell by up-regulating nitric
+     │ oxide (NO) [58]. Pretreated MSCs displayed high levels of IL-6, IL-8 and more effectively
+     │ promoted diabetic skin-flap survival [59]. The CM of pretreated MSCs defended against V.
+     │ cholerae infection by inducing vibriocidal antibodies and regulating inflammatory and anti-
+     │ inflammatory effects [60]. Meanwhile, the CM promoted the recruitment and …
+     "This paper reviews how pretreating mesenchymal stem cells (MSCs) alters their secretome. Such pretreatment can enhance the immunomodulatory properties of MSCs and their secretome for treating inflammatory diseases."
+
+  49. Acute Respiratory Distress Syndrome is associated with impaired alveolar macrophage efferocytosis
+     Rahul Y. Mahida *, Aaron Scott, Dhruv Parekh, Sebastian T. Lugg, Rowan S. Hardy, Gareth G. Lavery, M...
+     med_db727afd6c2c · medRxiv · 2021-03-15 · 63 citations (all versions)
+     Published (2021): https://doi.org/10.1183/13993003.00829-2021
+     Preprint: https://doi.org/10.1101/2021.03.15.21253591
+     Matched: ### **Supplemental Figure 6: Effect of ARDS BAL and ROCK-inhibitor tre · cat /papers/med_db727afd6c2c/content.lines --lines 393
+     │ IFN- $\gamma$ = Interferon- $\gamma$ . IL = Interleukin. TNF- $\alpha$ = Tumor necrosis
+     │ factor- $\alpha$ . MCP-1 = macrophage chemoattractant protein-1. LPS = Lipopolysaccharide.
+     │ VEGF = vascular endothelial growth factor.
+     "This study investigated alveolar macrophage efferocytosis in sepsis-related ARDS patients. ARDS was associated with impaired efferocytosis, increased neutrophil apoptosis, and worse clinical outcomes."
+
+  50. Macrophage-Specific Coxsackievirus and Adenovirus Receptor Deletion Enhances Macrophage M1 Polarity in CVB3-Induced Myocarditis
+     Ha-Hyeon Shin; Eun-Seok Jeon; Byung-Kwan Lim
+     PMC10049483 · PMC · 2023-03-10 · 10 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10049483/
+     Matched: 2.1. CAR Expression Was Increased in LPS and TNF-α Stimulated Macropha · cat /papers/PMC10049483/content.lines --lines 16
+     │ The expression of CAR in macrophages was observed in the Raw264.7 mouse macrophage cell
+     │ line. The cell was stimulated by LPS (200 ng/mL) and tumor necrosis factor (TNF)-α (100
+     │ ng/mL) for 24 h. CAR expression was significantly increased by the LPS and TNF-α treatment
+     │ (Figure 1A). For the LPS treatment, CAR expression was observed at two hours after LPS
+     │ stimulation (Figure 1B). These observations focused on the macrophage activation related to
+     │ CAR expression. To identify CAR induction from macrophages in the case of inflammatory
+     │ conditions, CAR expression was confirmed using the thioglycolate-induced peritonitis model.
+     │ Mice were intra-peritoneally injected with 1 mg/mL thioglycollate (Thio) …
+     "This study investigated the role of CAR in macrophages during CVB3 myocarditis. Deleting CAR in macrophages increased M1 polarization and myocarditis severity, while reducing type I interferon production."
+
+[234ms, saved to s_e57d971f]
+
+💡 Extract data across these results with: map --from s_e57d971f "your question"
+[234ms, saved to s_e57d971f]  [repo: mva-lof-molecular]

@@ -1,0 +1,22 @@
+{
+  "gene": "Tnf",
+  "query": "Tnf (tumor necrosis factor) LPS macrophage",
+  "also": [],
+  "mode": "map",
+  "strict": true,
+  "stimulus_check": true,
+  "question": "Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Tnf (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, quote the single sentence that reports that result; it must name the gene or its protein, name LPS or the infection, and state the change. Use an empty string if no.",
+  "date": "2026-09-25T13:40:04Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_18080549",
+  "judge_id": "m_5ea4da16",
+  "parent_n": 25,
+  "yes": 19,
+  "downgraded": 4,
+  "no": 6,
+  "paper_errors": 0,
+  "seconds_search": 5.7,
+  "seconds_judge": 20.7,
+  "seconds_total": 26.4
+}

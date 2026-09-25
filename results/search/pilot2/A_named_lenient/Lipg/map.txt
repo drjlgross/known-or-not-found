@@ -1,0 +1,162 @@
+$ src/pc.sh map --from s_b32edcc9 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}}} Does this paper describe the expression of the gene Lipg (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_f0b7dcc8
+
+  ✓ LIPG is a novel prognostic biomarker and correlated with immune infilt
+    PMC9833968 · 940ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Regulatory roles of bioactive lipids in vascular homeostasis and remod
+    PMC12955355 · 1174ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LIPG‐promoted lipid storage mediates adaptation to oxidative stress in
+    PMC6618071 · 1070ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Endothelial Lipase: A New Risk Factor for Atherosclerosis?
+    PMC1316069 · 959ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Endothelial lipase facilitates low-density lipoprotein (LDL) uptake in
+    bio_c6ad2160 · 860ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ A host lipase prevents lipopolysaccharide-induced foam cell formation
+    PMC8426562 · 1115ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Angiopoietin like protein 3 regulates low-density lipoprotein transpor
+    bio_81ee9438 · 1018ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Inhibition of LIPG phospholipase activity suppresses tumor formation o
+    PMC7265491 · 888ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Analysis of the transcriptional networks underpinning the activation o
+    PMC4378362 · 1058ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Which is the Best Predictor for the Development of Atherosclerosis Amo
+    PMC6753242 · 842ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Population-Based Resequencing of LIPG and ZNF202 Genes in Subjects wit
+    PMC3375090 · 1259ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Mining the LIPG Allelic Spectrum Reveals the Contribution of Rare and 
+    PMC3234219 · 1413ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Effects of activation on lipoprotein lipase secretion by macrophages. 
+    PMC2188426 · 693ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Effect of Interactions Between Endothelial Lipase Gene Polymorphisms a
+    PMC12326425 · 1241ms
+    {"answer": "yes", "evidence": "Its expression is upregulated in response to acute inflammatory stimuli, endotoxin exposure, and alterations in vascular wall shear stress."}
+
+  ✓ FoxA and LIPG endothelial lipase control the uptake of extracellular l
+    PMC4822041 · 877ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ LIPG endothelial lipase and breast cancer risk by subtypes
+    PMC8129130 · 857ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Expression analysis of G Protein-Coupled Receptors in mouse macrophage
+    PMC2394514 · 928ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipid Metabolism in Inflammation and Immune Function
+    PMC9002396 · 820ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ A Global Picture of Molecular Changes Associated to LPS Treatment in T
+    PMC9656053 · 1097ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ LIPG supports adaption to oxidative stress
+    PMC6694707 · 848ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ ZDHHC1 downregulates LIPG and inhibits colorectal cancer growth via IG
+    PMC11405259 · 1030ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Protective effect of bacterial lipase on lipopolysaccharide-induced to
+    PMC7080329 · 1201ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ NCBP2 drives colorectal cancer growth and metastasis through LIPG-medi
+    PMC13172313 · 1012ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Increased expression of endothelial lipase in symptomatic and unstable
+    PMC3296002 · 918ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Genetic and Structure-Function Studies of Missense Mutations in Human 
+    PMC3607615 · 1077ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[30.1s, saved to m_f0b7dcc8]
+
+  [....................]  1/25 papers  run m_f0b7dcc8  [2s]
+  [########............]  10/25 papers  run m_f0b7dcc8  [4s]
+  [##############......]  18/25 papers  run m_f0b7dcc8  [16s]
+  [###################.]  24/25 papers  run m_f0b7dcc8  [18s]
+  [####################]  25/25 papers  run m_f0b7dcc8  [20s]
+

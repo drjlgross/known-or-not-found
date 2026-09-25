@@ -1,0 +1,244 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 --also endothelial lipase LPS macrophage Lipg LPS macrophage
+# exit 0
+Found 25 papers  [s_1f54e3a9]
+
+  1. Macrophage stimulation by bacterial lipopolysaccharides. II. Evidence for differentiation signals delivered by lipid A and by a protein rich fraction of lipopolysaccharides
+     PMC2184939 · PMC · 1978-08-01 · 78 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2184939/
+     Matched: Abstract · cat /papers/PMC2184939/content.lines --lines 1-3
+     "This study investigated how lipopolysaccharides (LPS) stimulate macrophages to kill tumor cells. Lipid A and a protein-rich fraction (LAP) both independently deliver signals for macrophage differentiation."
+
+  2. The orientation of choroidal macrophage polarization significantly influences the development of myopia in murine models
+     Jing Hou, Shin-ichi Ikeda, Kiwako Mori, Heonuk Jeong, Hidemasa Torii, Kazuno Negishi, Kazuo Tsubota ...
+     bio_b06931d16f63 · bioRxiv · 2023-06-12 · 1 citation (all versions)
+     Published (2023): https://doi.org/10.1101/2023.06.12.544445
+     Matched: LPS treatment · cat /papers/bio_b06931d16f63/content.lines --lines 60
+     │ Lipopolysaccharides from Escherichia coli O111:B4 (Merck, Tokyo, Japan) were dissolved in
+     │ PBS and injected intraperitoneally to induce systemic M1 macrophage polarization. The
+     │ concentration of LPS was 10 mg/ml, and the injection dose was increased proportionally to
+     │ the body weight of the mice, with 10 μg of LPS given per gram of mice. Since LPS injections
+     │ caused a large reduction in mouse weight, we monitored and documented the mouse body weight
+     │ before each injection. In addition, a corresponding volume of PBS was injected
+     │ intraperitoneally as a vehicle control.
+     "Choroidal macrophages were studied for their role in myopia development. Their polarization towards M1 or M2 phenotypes significantly influences choroidal thickness and myopia progression."
+
+  3. Macrophage stimulation by bacterial lipopolysaccharides. I. Cytolytic effect on tumor target cells
+     PMC2184936 · PMC · 1978-08-01 · 136 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2184936/
+     Matched: Abstract · cat /papers/PMC2184936/content.lines --lines 1-3
+     "Mouse macrophages were stimulated with bacterial lipopolysaccharides to kill tumor cells in vitro. This LPS-induced macrophage cytotoxicity is nonspecific, requires viable effector cells, and is dependent on macrophage density."
+
+  4. Comparative Study of The Effect of LPS on The Function of BALB/c and C57BL/6 Peritoneal Macrophages
+     Sara Soudi; Ahmad Zavaran-Hosseini; Zuhair Muhammad Hassan; Masoud Soleimani; Fatemeh Jamshidi Adega...
+     PMC3660024 · Cell Journal (Yakhteh) · 2013-05-05
+     Matched: Introduction · cat /papers/PMC3660024/content.lines --lines 18-19
+     "Peritoneal macrophages from BALB/c and C57BL/6 mice were stimulated with LPS to compare their responses. Different mouse strains exhibit distinct cytokine profiles and functional activities when exposed to LPS."
+
+  5. Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyromonas endodontalis, Induces Macrophage M1 Profile
+     Pablo Veloso; Alejandra Fernández; Jessica Astorga; David González-Quintanilla; Alfredo Castro; Alej...
+     PMC9456100 · PMC · 2022-09-02 · 16 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9456100/
+     Matched: 5. Conclusions · cat /papers/PMC9456100/content.lines --lines 70-73
+     "This study investigated the effects of lipopolysaccharides from *Porphyromonas gingivalis* and *Porphyromonas endodontalis* on macrophage polarization. *P. gingivalis* LPS induced an M1 macrophage profile, while *P. endodontalis* LPS did not."
+
+  6. Lipopolysaccharide-Activated Macrophages Suppress Cellular Senescence and Promote Rejuvenation in Human Dermal Fibroblasts
+     Hiroyuki Inagawa; Chie Kohchi; Miyuki Uehiro; Gen-Ichiro Soma
+     PMC12346749 · PMC · 2025-07-22 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12346749/
+     Matched: 3. Discussion · cat /papers/PMC12346749/content.lines --lines 40-42
+     "LPS-activated macrophages were studied for their effect on senescent human dermal fibroblasts. Their secretions suppressed senescence and partially rejuvenated aged fibroblasts."
+
+  7. Lipopolysaccharide preconditioning augments the antibacterial activity of renal macrophages and ameliorates acute kidney injury caused by Staphylococcus aureus bacteremia in mice
+     Keiko Tanoue; Manabu Kinoshita; Bradley M Kearney; Seigo Ito; Hiroyasu Goto; Aoi Yamashiro; Tsugumi ...
+     PMC12035103 · PMC · 2025-04-17 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12035103/
+     Matched: LPS preconditioning · cat /papers/PMC12035103/content.lines --lines 20
+     "Lipopolysaccharide preconditioning was studied for its effects on renal macrophages and acute kidney injury in mice infected with *Staphylococcus aureus*. Preconditioning enhanced renal macrophage antibacterial activity, reducing bacterial growth and ameliorating kidney injury."
+
+  8. A Global Picture of Molecular Changes Associated to LPS Treatment in THP-1 Derived Human Macrophages by Fourier Transform Infrared Microspectroscopy
+     Diletta Ami; Ana Rita Franco; Valentina Artusa; Paolo Mereghetti; Francesco Peri; Antonino Natalello
+     PMC9656053 · International Journal of Molecular Sciences · 2022-11-03 · 7 citations
+     https://doi.org/10.3390/ijms232113447
+     Matched: 1. Introduction · cat /papers/PMC9656053/content.lines --lines 10-12
+     │ Inflammation is a key host response that ensures protection against injury or infection. In
+     │ the case of microbial infection, the innate immune system plays a very important role in the
+     │ initiation of the inflammatory response. It can recognize highly conserved pathogen-
+     │ associated molecular patterns (PAMPs) through different specialised receptors, thus starting
+     │ a cascade of pro-inflammatory events in order to protect the host from the pathogen [1].
+     │ Among the first lines of cellular defence against infection, macrophages are extremely
+     │ plastic cells able to rapidly change their functional profile through a process defined as
+     │ polarisation. Polarisation is the process by which macrophages respond …
+     "Fourier transform infrared microspectroscopy analyzed THP-1 derived macrophages treated with LPS. The study identified spectral markers in lipids, proteins, and sulfated sugars, highlighting their role in inflammation."
+
+  9. LPS adsorption and inflammation alleviation by polymyxin B-modified liposomes for atherosclerosis treatment
+     Huiwen Liu; Honglan Wang; Qiyu Li; Yiwei Wang; Ying He; Xuejing Li; Chunyan Sun; Onder Ergonul; Füsu...
+     PMC10501887 · Acta Pharmaceutica Sinica. B · 2023-06-13 · 33 citations
+     https://doi.org/10.1016/j.apsb.2023.06.005
+     Matched: Inhibitive effect of PLPs on LPS-induced macrophage activation · cat /papers/PMC10501887/content.lines --lines 58-59
+     │ The effect of LPS sponged by PLPs in vitro was investigated using BMDMs as the macrophage
+     │ model. As the results showed (Fig. 3 A and B), the proportion of M1-type macrophages was
+     │ 63.85 ± 4.02% and 62.60 ± 4.25% in the LPS group and PMB group, respectively, whereas the
+     │ ratio in the PLPs group was sharply reduced to 26.70 ± 2.74%, which was close to the
+     │ baseline in the PBS group (21.53 ± 0.89%), indicating PLPs could effectively block LPS-
+     │ mediated macrophage activation by sponging LPS. In addition, it was revealed that LPS
+     │ treatment could induce macrophages to secrete more pro-inflammatory cytokines (TNF-α, IL-1β,
+     │ IL-6, and IFN-γ) compared with the PBS group, which was consistent with …
+     "Polymyxin B-modified liposomes were developed to adsorb lipopolysaccharide (LPS) for atherosclerosis treatment. This approach reduced inflammation, stabilized plaques, and attenuated atherosclerosis progression by targeting circulating LPS."
+
+  10. Lipopolysaccharide from biofilm-forming Pseudomonas aeruginosa PAO1 induces macrophage hyperinflammatory responses
+     Sufei Wang; Dandan Xiang; Fangbing Tian; Ming Ni
+     PMC8289208 · PMC · 2021-04-28 · 23 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8289208/
+     Matched: Aim · cat /papers/PMC8289208/content.lines --lines 11
+     "Biofilm-forming *Pseudomonas aeruginosa* LPS was studied for its effect on macrophage polarization. This LPS induced hyperinflammatory responses and increased bacterial growth in macrophages compared to planktonic LPS."
+
+  11. Lipopolysaccharide-induced inflammation in monocytes/macrophages is blocked by liposomal delivery of Gi-protein inhibitor
+     Monica Madalina Tucureanu; Daniela Rebleanu; Cristina Ana Constantinescu; Mariana Deleanu; Geanina V...
+     PMC5743190 · PMC · 2017-12-20 · 130 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5743190/
+     Matched: Discussion · cat /papers/PMC5743190/content.lines --lines 86
+     │ There is evidence that there are differences between either cytokines or Toll-like receptor
+     │ mRNA expression by LPS-stimulated monocytes and monocyte-derived macrophages and that
+     │ monocytes and monocyte-derived macrophages respond differently to LPS, so they may have
+     │ different functions in the innate immune system.[44] Our data also showed that LPS
+     │ activation of macrophages induced higher expression of IL1β, IL6, TNFα, and MCP1 than in
+     │ LPS-activated monocytes. The data showed that macrophages constitutively secreted IL1β,
+     │ TNFα, and MCP1 (with an increase in concentration after 48 hours in culture), unlike
+     │ monocytes, which showed no secretion in control cells. Moreover, we found that LPS …
+     "Liposomes encapsulating a G$_i$-protein inhibitor were tested for anti-inflammatory effects in LPS-activated monocytes/macrophages. Liposomal delivery of the inhibitor effectively blocked LPS-induced inflammation, cytokine production, monocyte adhesion, and chemotaxis."
+
+  12. Oral and transdermal administration of lipopolysaccharide safely enhances self-healing ability through the macrophage network
+     Gen-Ichiro Soma; Masataka Oda; Vindy Tjendana Tjhin; Chie Kohchi; Hiroyuki Inagawa
+     PMC11994614 · PMC · 2025-03-31 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11994614/
+     Matched: Regulation of innate immunity by LPS as an environmental agent · cat /papers/PMC11994614/content.lines --lines 29-31
+     "Oral and transdermal LPS administration was studied for its effects on self-healing. This method safely enhances healing through a "macrophage network" involving mucosal immune cells."
+
+  13. Exosomal miR-148a-3p from LPS-Activated Macrophages Promotes M1 Polarization and Ferroptosis-Related Characteristics of Recipient Macrophages by Reducing SLC7A11
+     Jun Liang; Yingli Cai; Yiming Shao
+     PMC13199726 · Infection and Drug Resistance · 2026-05-20 · 0 citations
+     https://doi.org/10.2147/IDR.S590998
+     Matched: LPS Induces M1 Polarization and Inflammatory Response in RAW264.7 Macr · cat /papers/PMC13199726/content.lines --lines 100-101
+     "Gram-negative bacterial infection is a major cause of severe inflammatory disorders and cellular damage, with lipopolysaccharide (LPS) as a key pathogenic trigger. Macrophages are central players in L"
+
+  14. Transcriptional profiling of the LPS induced NF-κB response in macrophages
+     Omar Sharif; Viacheslav N Bolshakov; Stephanie Raines; Peter Newham; Neil D Perkins
+     PMC1781469 · BMC Immunology · 2007-01-12 · 447 citations
+     https://doi.org/10.1186/1471-2172-8-1
+     Matched: Analysis of LPS-induced gene expression in the THP-1 macrophage cell l · cat /papers/PMC1781469/content.lines --lines 26
+     "This study profiled gene expression in macrophages after LPS exposure. LPS induced a dynamic, time-dependent transcriptional response, with THP-1 cells closely mimicking primary macrophages."
+
+  15. Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni; Yanal Ghosheh; Akula Bala Pramod; Klaus Ley
+     PMC6543837 · Frontiers in Immunology · 2019-05-24 · 1909 citations
+     https://doi.org/10.3389/fimmu.2019.01084
+     Matched: Introduction · cat /papers/PMC6543837/content.lines --lines 14-15
+     "This study compared gene expression in *in vivo* M1/M2 macrophages with *in vitro* classically/alternatively activated macrophages. The findings indicate that *in vivo* M1/M2 polarization is not equivalent to *in vitro* activation states."
+
+  16. Motif prediction to distinguish LPS-stimulated pro-inflammatory vs. antibacterial macrophage genes
+     Rahul K Kollipara; Narayanan B Perumal
+     PMC2949756 · Immunome Research · 2010-09-21 · 5 citations
+     https://doi.org/10.1186/1745-7580-6-5
+     Matched: Classification of antibacterial and pro-inflammatory macrophage genes · cat /papers/PMC2949756/content.lines --lines 18-20
+     "This study analyzed gene expression patterns in LPS-stimulated macrophages to identify pro-inflammatory and antibacterial genes. It found distinct transcription factor binding site motifs associated with each gene set, helping to distinguish their regulatory mechanisms."
+
+  17. Macrophages enhance lipopolysaccharide induced apoptosis via Ang1 and NF-κB pathways in human umbilical vein endothelial cells
+     Guo-Long Cai; Zhou-Xin Yang; Dong-Yang Guo; Cai-Bao Hu; Mo-Lei Yan; Jing Yan
+     PMC7858588 · PMC · 2021-02-03 · 15 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7858588/
+     Matched: Discussion · cat /papers/PMC7858588/content.lines --lines 65-67
+     "Macrophages worsen LPS-induced endothelial cell dysfunction and apoptosis. This occurs through Ang1 downregulation and NF-κB activation, suggesting therapeutic targets for sepsis."
+
+  18. Mathematical modelling of activation-induced heterogeneity reveals cell state transitions underpinning macrophage responses to LPS
+     S. Dey, D. Boucher, J. W. Pitchford, D. Lagos *
+     bio_206e5a356c66 · bioRxiv · 2021-09-19 · 0 citations (all versions)
+     Published (2021): https://doi.org/10.1101/2021.09.19.461010
+     Matched: Macrophage community AIH is dependent on LPS dose · cat /papers/bio_206e5a356c66/content.lines --lines 42-45
+     │ Figure 1: Macrophage community AIH is dependent on LPS dose A. Flow cytometry gating to show
+     │ 16 sub-populations determined based on TNF, IL-6, pro-IL-1b and NOS2. B. Pie charts
+     │ represent the community composition at 16 hours post stimulus with the indicated doses of
+     │ LPS for RAW264.7. Data representative of three independent experiments. Next, we explored
+     │ AIH in BMDMs, a cell model more faithfully capturing heterogeneity of primary macrophages.
+     │ As in the case of RAW264.7 cells, exposure to LPS induced population heterogeneity in BMDMs
+     │ albeit with different kinetics to that observed in RAW264.7 cells (compare Figure 2 with
+     │ Figure 1B ). Whereas all populations were observed at 16h (12h …
+     "This study mathematically models macrophage responses to LPS, analyzing single-cell protein expression. Macrophage hypo-responsiveness to secondary LPS challenges is driven by altered transition rates to non-responsive states."
+
+  19. Progranulin inhibits LPS-induced macrophage M1 polarization via NF-кB and MAPK pathways
+     Lianlian Liu; Hongmei Guo; Aimei Song; Jiahui Huang; Yu Zhang; Shanshan Jin; Shutong Li; Liguo Zhang...
+     PMC7275413 · BMC Immunology · 2020-06-05 · 282 citations
+     https://doi.org/10.1186/s12865-020-00355-y
+     Matched: Effect of LPS on macrophage M1 polarization and PGRN expression · cat /papers/PMC7275413/content.lines --lines 25-26
+     │ After stimulated by 100 <ng/ml LPS or normal medium for 24 <h, LPS-stimulated RAW264.7 cells
+     │ showed significantly higher expression of CD86, the special surface phenotype marker of M1,
+     │ than negative control (Fig. 1a, b). In addition, mRNA and protein expression of iNOS and
+     │ TNF-α, the special functional markers for M1, and secretion of TNF-α also significantly
+     │ increased (Fig. 1c, d, e, f). Interestingly, compared to the control, LPS stimulation for 24
+     │ or 48 <h significantly down-regulated PGRN expression both in gene and protein expression
+     │ (Fig. 1g, i, j) and its secretion was also significantly decreased after 48 <h stimulation
+     │ (Fig. 1h). This suggests that PGRN may be involved in …
+     "Progranulin was studied for its effect on LPS-induced macrophage M1 polarization. Progranulin inhibits M1 polarization by suppressing NF-κB and MAPK pathways."
+
+  20. Macrophage–Bacteria Interactions—A Lipid-Centric Relationship
+     Ooiean Teng; Candice Ke En Ang; Xue Li Guan
+     PMC5742358 · Frontiers in Immunology · 2017-12-20 · 59 citations
+     https://doi.org/10.3389/fimmu.2017.01836
+     Matched: Glycolipids—Lipopolysaccharides (LPS) · cat /papers/PMC5742358/content.lines --lines 47
+     │ A combined lipidomics and transcriptomics study on mouse macrophages upon LPS stimulation by
+     │ Dennis and coworkers has brought together a system-based overview of the temporal and
+     │ subcellular dynamics of macrophage lipid remodeling elicited by LPS (176). Treating RAW264.7
+     │ cells with Kdo2-lipid A, a chemically defined substructure of LPS, increased COX-2 related
+     │ lipid metabolites immediately after the stimulation, followed by sterols, sphingolipids,
+     │ glycerophospholipids, and glycerolipids (176). Based on the reported findings on LPS-induced
+     │ changes in sphingolipids, KÖberlin and coworkers recently examined the lipid metabolic
+     │ network of RAW264.7 cells during TLR signaling and showed that …
+     "This review examines how macrophages and bacteria interact through lipid metabolism. Manipulating host lipids is a key bacterial strategy, offering potential therapeutic targets for infections."
+
+  21. AZD6738 Attenuates LPS-Induced Corneal Inflammation and Fibrosis by Modulating Macrophage Function and Polarization
+     Longxiang Huang; Youfang Luo
+     PMC12596304 · Inflammation · 2025-02-04 · 3 citations
+     https://doi.org/10.1007/s10753-025-02251-2
+     Matched: AZD6738 Reduces LPS-induced Corneal Structural Damage and Inhibits Mac · cat /papers/PMC12596304/content.lines --lines 62
+     "AZD6738, an ATR inhibitor, was tested in a mouse model of LPS-induced bacterial keratitis. The drug reduced corneal inflammation and fibrosis by modulating macrophage function and polarization."
+
+  22. Free Fatty Acids and LPS Synergistically Promote Macrophage M1 Polarization and Insulin Resistance Via FTO-Mediated CSF1 Degradation
+     Xiaohui Xiao; Junhao Zhao; Guiwen Ye; Hui Li; Xiuji Huang
+     PMC12847160 · Inflammation · 2026-01-08 · 4 citations
+     https://doi.org/10.1007/s10753-025-02369-3
+     Matched: FFA + LPS Mediates Macrophage M1 Polarization by Upregulating FTO · cat /papers/PMC12847160/content.lines --lines 51-52
+     "This study investigated how free fatty acids and LPS promote macrophage M1 polarization and insulin resistance. These factors synergistically induce insulin resistance by promoting M1 polarization via FTO-mediated CSF1 degradation."
+
+  23. BRD4 contributes to LPS-induced macrophage senescence and promotes progression of atherosclerosis-associated lipid uptake
+     Hui Wang; Haiping Fu; Ruigong Zhu; Xuan Wu; Xian Ji; Xuesong Li; Hong Jiang; Zhe Lin; Xin Tang; Shix...
+     PMC7288959 · Aging (Albany NY) · 2020-05-11 · 92 citations
+     https://doi.org/10.18632/aging.103200
+     Matched: BRD4 is indispensable for LPS-induced peritoneal macrophage senescence · cat /papers/PMC7288959/content.lines --lines 27-28
+     "Lipopolysaccharide (LPS) induces macrophage senescence, which is mediated by BRD4. Inhibiting BRD4 prevents LPS-induced macrophage senescence and lipid accumulation, suggesting therapeutic potential for atherosclerosis."
+
+  24. Species-Specificity of Transcriptional Regulation and the Response to Lipopolysaccharide in Mammalian Macrophages
+     Stephen J. Bush; Mary E. B. McCulloch; Zofia M. Lisowski; Charity Muriuki; Emily L. Clark; Rachel Yo...
+     PMC7386301 · Frontiers in Cell and Developmental Biology · 2020-07-21 · 32 citations
+     https://doi.org/10.3389/fcell.2020.00661
+     Matched: Introduction · cat /papers/PMC7386301/content.lines --lines 13-14
+     "This study analyzed the transcriptional response of sheep macrophages to lipopolysaccharide (LPS) and compared it to other mammalian species. A conserved transcriptional network was found, but large animals and rodents differed in their metabolic responses to LPS."
+
+  25. A host lipase prevents lipopolysaccharide-induced foam cell formation
+     Jintao Feng; Wei Jiang; Xiaofang Cheng; Benkun Zou; Alan W. Varley; Ting Liu; Guojun Qian; Wenjiao Z...
+     PMC8426562 · iScience · 2021-08-19 · 9 citations
+     https://doi.org/10.1016/j.isci.2021.103004
+     Matched: LPS-exposed Aoah−/− peritoneal macrophages accumulate more cholesterol · cat /papers/PMC8426562/content.lines --lines 20-21
+     │ In preliminary experiments, we confirmed that approximately 75% of the macrophages isolated
+     │ from peritoneal fluid two weeks after intraperitoneally (i.p.) LPS injection were derived
+     │ from recruited monocytes (Figures S1A and S1B) (Ghosn et al., 2010). We considered these
+     │ cells to be representative of recruited monocyte-macrophages in other tissues, including
+     │ arterial lesions (Moore et al., 2013; Williams et al., 2020). The inflammatory impact of an
+     │ intraperitoneal dose of LPS lasts only a few days in Aoah+/+ mice, which deacylate the LPS
+     │ within 10 days of injection (Lu et al., 2008). In contrast, for at least 2–4 weeks after
+     │ Aoah−/− mice receive a small intraperitoneal dose of LPS (10 μg), …
+     "A host lipase, acyloxyacyl hydrolase (AOAH), was studied for its role in preventing lipopolysaccharide (LPS)-induced foam cell formation. AOAH inactivates LPS, and its absence leads to increased cholesterol accumulation and inflammation in macrophages."
+
+[3.4s, saved to s_1f54e3a9]
+
+💡 Extract data across these results with: map --from s_1f54e3a9 "your question"
+[3.4s, saved to s_1f54e3a9]  [repo: mva-lof-molecular]
+

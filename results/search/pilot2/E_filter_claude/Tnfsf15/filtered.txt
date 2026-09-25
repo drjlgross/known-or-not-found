@@ -1,0 +1,160 @@
+$ src/pc.sh results s_788da534
+# exit 0
+  Query: search -s pmc,biorxiv,medrxiv,arxiv 'Tnfsf15 (tumor necrosis factor (ligand) superfamily, member 15) LPS macrophage' --source pmc,biorxiv,medrxiv,arxiv --limit 25
+Found 25 papers  [s_788da534]
+
+  1. TNFSF15 Promotes Antimicrobial Pathways in Human Macrophages and These Are Modulated by TNFSF15 Disease-Risk Variants
+     Rui Sun; Matija Hedl; Clara Abraham
+     PMC7689184 · pmc · 2020-08-19
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7689184/
+     "TNFSF15 was studied for its role in human macrophage antimicrobial pathways. Increased TNFSF15 expression enhances bacterial clearance in macrophages, with disease-risk variants potentially conferring an advantage."
+
+  2. TNFSF15 facilitates differentiation and polarization of macrophages toward M1 phenotype to inhibit tumor growth
+     Can-Can Zhao; Qiu-Ju Han; Hao-Yan Ying; Xiang-Xiang Gu; Na Yang; Lu-Yuan Li; Qiang-Zhe Zhang
+     PMC8812784 · pmc · 2022-02-01
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8812784/
+     "TNFSF15 was studied for its role in macrophage differentiation and polarization. TNFSF15 promotes M1 macrophage polarization, which inhibits tumor growth."
+
+  3. Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni; Yanal Ghosheh; Akula Bala Pramod; Klaus Ley
+     PMC6543837 · pmc · 2019-05-24
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6543837/
+     "This study compared gene expression in *in vivo* M1/M2 macrophages with *in vitro* classically/alternatively activated macrophages. The findings indicate that *in vivo* M1/M2 polarization is not equivalent to *in vitr..."
+
+  4. LITAF and TNFSF15, two downstream targets of AMPK, exert inhibitory effects on tumor growth
+     Jing Zhou; Zhanmin Yang; Takanori Tsuji; Jun Gong; Jian Xie; Changyan Chen; Wande Li; Salomon Amar; ...
+     PMC3431012 · pmc · 2011-01-10
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3431012/
+     "AMPK activation upregulates LITAF and TNFSF15, which then inhibit prostate cancer cell growth and tumor progression. LITAF and TNFSF15 together form a regulatory axis that suppresses tumor growth."
+
+  5. Identifying and testing candidate genetic polymorphisms in irritable bowel syndrome: association with TNFSF15 and tumor necrosis factor-α
+     Amit H. Sachdev; Mark Pimentel
+     PMC3959508 · pmc · 2013
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3959508/
+
+  6. Quantitative Proteomics Reveals Fh15 as an Antagonist of TLR4 Downregulating the Activation of NF-κB, Inducible Nitric Oxide, Phagosome Signaling Pathways, and Oxidative Stress of LPS-Stimulated Macrophages
+     Albersy Armina-Rodriguez; Bianca N. Valdés Fernandez; Carlimar Ocasio-Malavé; Yadira M. Cantres Rosa...
+     PMC12294962 · pmc · 2025-07-18
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12294962/
+     "Quantitative proteomics identified proteins downregulated by Fh15 in LPS-stimulated macrophages. Fh15 broadly targets multiple TLR4 downstream pathways, modulating inflammatory responses."
+
+  7. Reduced monocyte and macrophage TNFSF15/TL1A expression is associated with susceptibility to inflammatory bowel disease
+     Arianne C. Richard; James E. Peters; Natalia Savinykh; James C. Lee; Eric T. Hawley; Françoise Meyla...
+     PMC6130856 · pmc · 2018-09-10
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6130856/
+     "This study investigated the relationship between TNFSF15 gene expression and inflammatory bowel disease (IBD) susceptibility. Reduced TNFSF15 expression in monocytes is associated with increased IBD risk, suggesting t..."
+
+  8. Protective effect of growth differentiation factor 15 in sepsis by regulating macrophage polarization and its mechanism
+     Xinliang Zhang; Shimin Dong
+     PMC9161903 · pmc · 2022-04-14
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9161903/
+     "Growth differentiation factor 15 (GDF15) was studied for its protective effects in sepsis by regulating macrophage polarization. GDF15 activates the PI3K/Akt pathway, promoting M2 polarization, reducing inflammation, ..."
+
+  9. Distinct Expression Patterns of Two Tumor Necrosis Factor Superfamily Member 15 Gene Isoforms in Human Colon Cancer
+     Tomasz Jerzy Ślebioda; Marcin Stanisławowski; Marta Cyman; Piotr Mieczysław Wierzbicki; Dorota Żuraw...
+     PMC6584785 · pmc · 2019-02-20
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6584785/
+     "The study examined the expression of two TNFSF15 gene isoforms and their receptor in colon cancer. Higher VEGI-192 and lower TL1A expression correlated with longer patient survival, suggesting prognostic value."
+
+  10. GDF15 orchestrates mitochondrial-immune crosstalk via SMAD7-HIF-1α-PKM2 cascade to attenuate septic liver injury
+     Xiandong Kuang; Zhili Niu; Wenqiang Liu; Zhaoyang Huang; Shuo Li; Ye Zhang; Li Wang; Xin Cai; Faxi W...
+     PMC12872506 · pmc · 2026-01-22
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12872506/
+     "Sepsis-induced multi-organ failure involves pathological crosstalk between mitochondrial dysfunction and hyperinflammation, yet endogenous protective mechanisms remain incompletely defined. This study"
+
+  11. Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review
+     Leah Elson; Niels Eijkelkamp; J. Henk Coert
+     PMC13372918 · pmc · 2026-07-15
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13372918/
+     "This systematic review synthesized evidence for a conserved lipopolysaccharide (LPS)-mediated pathogenic mechanism across diverse tissues and evaluated its potential relevance to peripheral neuropathy"
+
+  12. Differential mRNA and miRNA Profiles Reveal the Potential Roles of Genes and miRNAs Involved in LPS Infection in Chicken Macrophages
+     Qi Zhang; Jie Wang; Jin Zhang; Jie Wen; Guiping Zhao; Qinghe Li
+     PMC8155903 · pmc · 2021-05-17
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8155903/
+     "Chicken macrophages were stimulated with LPS, and their mRNA and miRNA profiles were analyzed. This revealed differentially expressed genes and miRNAs involved in immune responses, offering insights into bacterial inf..."
+
+  13. Monocyte normal immune response to LPS stimulation
+     P Myrianthefs; K Venetsanou; E Grouzi; E Boutzouka; P Evagelopoulou; G Fildissis; I Spiliotopoulou; ...
+     PMC3333514 · pmc · 2002-03-01
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3333514/
+
+  14. Cytokine Expression and Macrophage Localization in Xenograft and Allograft Tumor Models Stimulated with Lipopolysaccharide
+     Junko Masuda; Tsukasa Shigehiro; Takuma Matsumoto; Ayano Satoh; Akifumi Mizutani; Chiho Umemura; Sho...
+     PMC5979423 · pmc · 2018-04-23
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5979423/
+     "This study compared myeloid cell responses in xenograft and allograft tumor models after LPS stimulation. Xenografts showed sustained macrophage and DC function, while allografts exhibited suppressed responses to LPS."
+
+  15. Tremella fuciformis Polysaccharides Attenuate Oxidative Stress and Inflammation in Macrophages through miR-155
+     Yang Ruan; Hong Li; Lianmei Pu; Tao Shen; Zening Jin
+     PMC5954968 · pmc · 2018-05-02
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5954968/
+     "Tremella fuciformis polysaccharides were studied for their effects on LPS-induced inflammation and oxidative stress in macrophages. TFPS attenuates these processes by downregulating miR-155 and inhibiting NF-κB activa..."
+
+  16. Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyromonas endodontalis, Induces Macrophage M1 Profile
+     Pablo Veloso; Alejandra Fernández; Jessica Astorga; David González-Quintanilla; Alfredo Castro; Alej...
+     PMC9456100 · pmc · 2022-09-02
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9456100/
+     "This study investigated the effects of lipopolysaccharides from *Porphyromonas gingivalis* and *Porphyromonas endodontalis* on macrophage polarization. *P. gingivalis* LPS induced an M1 macrophage profile, while *P. e..."
+
+  17. Genetic and Epigenetic Etiology of Inflammatory Bowel Disease: An Update
+     Sara Jarmakiewicz-Czaja; Magdalena Zielińska; Aneta Sokal; Rafał Filip
+     PMC9778199 · pmc · 2022-12-16
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9778199/
+     "This review examines genetic and epigenetic factors contributing to inflammatory bowel disease (IBD). It highlights the complex interplay of genetic predisposition and drug response in IBD development."
+
+  18. The Clinical Value of GDF15 and Its Prospective Mechanism in Sepsis
+     Huan Li; Dongling Tang; Juanjuan Chen; Yuanhui Hu; Xin Cai; Pingan Zhang
+     PMC8456026 · pmc · 2021-09-08
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8456026/
+     "This study investigated the clinical value of GDF15 in sepsis and its effects on macrophage inflammation. Elevated GDF15 levels are associated with sepsis severity and prognosis, and GDF15 reduces inflammation and enh..."
+
+  19. Analysis of the human monocyte-derived macrophage transcriptome and response to lipopolysaccharide provides new insights into genetic aetiology of inflammatory bowel disease
+     J. Kenneth Baillie; Erik Arner; Carsten Daub; Michiel De Hoon; Masayoshi Itoh; Hideya Kawaji; Timo L...
+     PMC5358891 · pmc · 2017-03-06
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5358891/
+     "Human monocyte-derived macrophages were profiled for gene expression changes in response to lipopolysaccharide. The study found that inflammatory bowel disease susceptibility loci are enriched for monocyte-specific ge..."
+
+  20. Oral and transdermal administration of lipopolysaccharide safely enhances self-healing ability through the macrophage network
+     Gen-Ichiro Soma; Masataka Oda; Vindy Tjendana Tjhin; Chie Kohchi; Hiroyuki Inagawa
+     PMC11994614 · pmc · 2025-03-31
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11994614/
+     "Oral and transdermal LPS administration was studied for its effects on self-healing. This method safely enhances healing through a "macrophage network" involving mucosal immune cells."
+
+  21. Macrophages as a Source and Target of GDF-15
+     Lina Susana Silva-Bermudez; Harald Klüter; Julia G. Kzhyshkowska
+     PMC11242731 · pmc · 2024-07-03
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11242731/
+     "This paper reviews how macrophages produce and respond to GDF-15. Macrophages are a key source and target of GDF-15, influencing inflammation, fibrosis, and angiogenesis."
+
+  22. Transcriptional profiling of the LPS induced NF-κB response in macrophages
+     Omar Sharif; Viacheslav N Bolshakov; Stephanie Raines; Peter Newham; Neil D Perkins
+     PMC1781469 · pmc · 2007-01-12
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1781469/
+     "This study profiled gene expression in macrophages after LPS exposure. LPS induced a dynamic, time-dependent transcriptional response, with THP-1 cells closely mimicking primary macrophages."
+
+  23. Growth Differentiation Factor-15 Deficiency Augments Inflammatory Response and Exacerbates Septic Heart and Renal Injury Induced by Lipopolysaccharide
+     Palida Abulizi; Neruja Loganathan; Duo Zhao; Tina Mele; Yixin Zhang; Terry Zwiep; Kexiang Liu; Xiufe...
+     PMC5430818 · pmc · 2017-04-21
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5430818/
+     "This study investigated the role of Growth Differentiation Factor-15 (GDF15) in a mouse model of sepsis. GDF15 deficiency worsened inflammatory responses and organ damage, suggesting GDF15 has therapeutic potential."
+
+  24. TNFSF15 facilitates the differentiation of CD11b+ myeloid cells into vascular pericytes in tumors
+     Xiangxiang Gu; Yipan Zhu; Cancan Zhao; Yixin Cao; Jingying Wang; Qiangzhe Zhang; Luyuan Li
+     PMC10690882 · pmc · 2023-11-02
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10690882/
+     "TNFSF15 was studied for its role in myeloid cell differentiation into tumor vascular pericytes. TNFSF15 promotes CD11b+ myeloid cell differentiation into pericytes, potentially stabilizing tumor vasculature."
+
+  25. Role of TNFSF15 in the intestinal inflammatory response
+     Tanya Kadiyska; Ivan Tourtourikov; Ana-Maria Popmihaylova; Hilda Kadian; Ani Chavoushian
+     PMC6384511 · pmc · 2018-11-12
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6384511/
+     "TNFSF15 gene variants are linked to inflammatory bowel diseases and other gastrointestinal disorders. These variants contribute to autoimmune pathology by altering TNFSF15 expression, affecting T cell responses and cy..."
+
+
+$ src/pc.sh results s_788da534
+# exit 0
+  Query: filter 'Does this paper describe the expression of the gene Tnfsf15 changing in response to LPS or bacterial infection?' --from s_788da534
+Found 0 papers  [s_788da534]
+
+

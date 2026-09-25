@@ -1,0 +1,231 @@
+Found 25 papers  [s_d341e798]
+
+  1. A host lipase prevents lipopolysaccharide-induced foam cell formation
+     Jintao Feng; Wei Jiang; Xiaofang Cheng; Benkun Zou; Alan W. Varley; Ting Liu; Guojun Qian; Wenjiao Z...
+     PMC8426562 · iScience · 2021-08-19 · 9 citations
+     https://doi.org/10.1016/j.isci.2021.103004
+     Matched: LPS-induced inflammation · cat /papers/PMC8426562/content.lines --lines 149
+     │ Co-housed Aoah+/+ and Aoah-/- mice were injected with 10 μg LPS or PBS i.p. Fourteen days
+     │ later, their peritoneal cells were obtained and cultured in RPMI 1640 containing 10% fetal
+     │ bovine serum, 100 U/ml penicillin, 0.1 mg/ml streptomycin and 2 mM L-glutamine (Gibco). The
+     │ macrophages were purified by adherence to culture plates before they were lysed for
+     │ microarray or qPCR. The methods for the microarray experiment and analysis have been
+     │ published (Lu et al., 2013). Aoah+/+ and Aoah-/- mice were injected i.p with 10 μg LPS.
+     │ Twenty-one days later, their peritoneal macrophages were collected, purified and cultured
+     │ either untreated (Aoah+/+, Aoah-/-) or treated with 1 μg/ml LPS for 2 h …
+     "A host lipase, acyloxyacyl hydrolase (AOAH), was studied for its role in preventing lipopolysaccharide (LPS)-induced foam cell formation. AOAH inactivates LPS, and its absence leads to increased cholesterol accumulation and inflammation in macrophages."
+
+  2. Regulatory roles of bioactive lipids in vascular homeostasis and remodeling
+     Jie Yang; Haiyan Xiao; Zhongze Zhang; Liuyang Zhang; Xu Zhang
+     PMC12955355 · Medical Review · 2026-02-09 · 3 citations
+     https://doi.org/10.1515/mr-2025-0073
+     Matched: Lysophospholipids and atherosclerosis · cat /papers/PMC12955355/content.lines --lines 70
+     │ Evidence regarding other LPLs in AS is relatively limited. Current data suggest that LPI
+     │ activates GPR55 to promote endothelial activation and suppress autophagy: in an in vitro
+     │ endothelial model, LPI upregulates GPR55 and ICAM1, and induces the long noncoding RNA
+     │ LINC01235. The latter acts as a sponge for miR-224-3p and regulates RABEP1, thereby
+     │ inhibiting the autophagy pathway and exacerbating adhesion molecule expression and
+     │ inflammatory responses [50]. By contrast, LPS exerts bidirectional effects in macrophages:
+     │ on one hand, it enhances the expression of CD36, MSR1, LOX1, and TLR4, promotes oxLDL uptake
+     │ and cholesterol accumulation, and thus favors foam cell formation and …
+     "Bioactive lipids regulate vascular health by signaling through synthesis, localization, and inactivation pathways. This review details how eicosanoids, lysophospholipids, sphingolipids, and sterol-derived mediators impact vascular homeostasis and remodeling in diseases like atherosclerosis and hypertension. These lipid pathways offer potential therapeutic targets for cardiovascular conditions."
+
+  3. LIPG is a novel prognostic biomarker and correlated with immune infiltrates in lung adenocarcinoma
+     Shan Wang; Zhaoxin Chen; Hongwei Lv; Cong wang; Huamin Wei; Jing Yu
+     PMC9833968 · PMC · 2022-12-26 · 6 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9833968/
+     Matched: LIPG function in LUAD · cat /papers/PMC9833968/content.lines --lines 119-120
+     "This study investigated the role of LIPG in lung adenocarcinoma. High LIPG expression is linked to poor prognosis, immune cell infiltration, and better response to certain anti-tumor drugs."
+
+  4. Endothelial Lipase: A New Risk Factor for Atherosclerosis?
+     PMC1316069 · PLoS Medicine · 2005-12-20 · 0 citations
+     https://doi.org/10.1371/journal.pmed.0030054
+     Matched: cat /papers/PMC1316069/content.lines --lines 9-10
+
+  5. Macrophages enhance lipopolysaccharide induced apoptosis via Ang1 and NF-κB pathways in human umbilical vein endothelial cells
+     Guo-Long Cai; Zhou-Xin Yang; Dong-Yang Guo; Cai-Bao Hu; Mo-Lei Yan; Jing Yan
+     PMC7858588 · Scientific Reports · 2021-02-03 · 15 citations
+     https://doi.org/10.1038/s41598-021-82531-7
+     Matched: Discussion · cat /papers/PMC7858588/content.lines --lines 65-67
+     "Macrophages worsen LPS-induced endothelial cell dysfunction and apoptosis. This occurs through Ang1 downregulation and NF-κB activation, suggesting therapeutic targets for sepsis."
+
+  6. Endothelial lipase facilitates low-density lipoprotein (LDL) uptake in LDL receptor deficiency by a heparan sulfate proteoglycan-dependent mechanism
+     Olivia White, Zahra Aligabi, Kendall H. Burks, Jingrong Tang, Nathan O. Stitziel, Ira J. Goldberg, A...
+     bio_c6ad21607925 · bioRxiv · 2025-03-02 · 3 citations (all versions)
+     Published (2025): https://doi.org/10.1101/2025.03.02.640965
+     Matched: Overexpression of endothelial lipase · cat /papers/bio_c6ad21607925/content.lines --lines 31
+     │ Control and LDLR -KO HepG2 cells were transfected with an empty plasmid or a plasmid
+     │ containing human LIPG gene to enhance basal expression of EL. Cells were plated in 24-well
+     │ plates in DMEM supplemented with 100 IU/ml of penicillin G, 100 µg/mL streptomycin and 10%
+     │ (vol/vol) FBS, at a density of 40,000 cells/well. After overnight incubation for cell
+     │ adherence, cells were then transfected with an empty plasmid or a plasmid containing the
+     │ Myc-DDK-tagged human LIPG by lipofection using Lipofectamine 2000 following the
+     │ manufacturer’s instructions (Invitrogen, Waltham, MA). After 72 hours, cells were processed
+     │ for total RNA or protein extraction and cellular LDL uptake as described below.
+     "Endothelial lipase (EL) was studied for its role in low-density lipoprotein (LDL) uptake in cells lacking the LDL receptor. EL facilitates LDL uptake via a heparan sulfate proteoglycan-dependent mechanism, independent of the LDL receptor."
+
+  7. Increased expression of endothelial lipase in symptomatic and unstable carotid plaques
+     Matias Trbušić; Monika Riederer; Majda Vučić; Ivo Lovričević; Božo Krušlin; Martin Gauster; Sonja Mo...
+     PMC3296002 · Journal of Neurology · 2011-08-13 · 5 citations
+     https://doi.org/10.1007/s00415-011-6198-3
+     Matched: Discussion · cat /papers/PMC3296002/content.lines --lines 130-132
+     "Endothelial lipase (EL) expression was evaluated in human carotid artery plaques. High EL expression correlated with unstable and symptomatic plaques, suggesting a role in plaque instability."
+
+  8. A novel co-culture model for investigation of the effects of LPS-induced macrophage-derived cytokines on brain endothelial cells
+     Junling Yang; Yinchuan Li; Ambuj Bhalla; Mark Maienschein-Cline; Ken-ichiro Fukuchi
+     PMC10343049 · PLOS ONE · 2023-07-13 · 4 citations
+     https://doi.org/10.1371/journal.pone.0288497
+     Matched: Comparison of cytokine expression profiling between endothelial/macrop · cat /papers/PMC10343049/content.lines --lines 60-61
+     │ Because proinflammatory cytokines/chemokines induced by systemic inflammation alter the BBB
+     │ integrity and functions [42–44] and because brain endothelial cells, one of the components
+     │ of the BBB, are first responders to peripheral inflammatory molecules including LPS, bEnd.3
+     │ cells were co-cultured with LPS-activated Raw 264.7 cells to mimic in vivo models of LPS-
+     │ induced systemic inflammation (Fig 1). On day 4, 1ml of cell medium from the bottom wells
+     │ where Raw 264.7 cells were located was applied to the cytokines profiling analysis. In the
+     │ co-culture model, twelve cytokines were significantly upregulated by LPS, which include
+     │ G-CSF (P = 0.002), GM-CSF (P = 0.025), IL-1ra (P < 0.001), IL-6 (P …
+     "A co-culture model of brain endothelial cells and LPS-activated macrophages was developed. This model effectively mimics in vivo inflammatory responses, unlike monocultures, and shows increased fibrinogen adherence."
+
+  9. Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review
+     Leah Elson; Niels Eijkelkamp; J. Henk Coert
+     PMC13372918 · Inflammation Research · 2026-07-15 · 0 citations
+     https://doi.org/10.1007/s00011-026-02317-3
+     Matched: Adipose macrophages · cat /papers/PMC13372918/content.lines --lines 90-91
+     "This systematic review synthesized evidence for a conserved lipopolysaccharide (LPS)-mediated pathogenic mechanism across diverse tissues and evaluated its potential relevance to peripheral neuropathy"
+
+  10. Which is the Best Predictor for the Development of Atherosclerosis Among Circulating Lipoprotein Lipase, Hepatic Lipase, and Endothelial Lipase?
+     Junji Kobayashi
+     PMC6753242 · Journal of Atherosclerosis and Thrombosis · 2019-09-01 · 5 citations
+     https://doi.org/10.5551/jat.ED108
+     Matched: cat /papers/PMC6753242/content.lines --lines 10-13
+
+  11. Effects of activation on lipoprotein lipase secretion by macrophages. Evidence for autoregulation
+     PMC2188426 · The Journal of Experimental Medicine · 1986-10-01 · 28 citations
+     https://doi.org/10.1084/jem.164.4.1362
+     Matched: cat /papers/PMC2188426/content.lines --lines 5
+     "Macrophage LPL secretion was studied in different activation states. Fully activated macrophages autoregulate LPL secretion by releasing an inhibitory factor."
+
+  12. Angiopoietin like protein 3 regulates low-density lipoprotein transport through aortic endothelial cells via endothelial lipase
+     Yen Way Isabell Trinh, Grigorios Panteloglou, Evelina Voloviceva, Museer A. Lone, Stephanie Bernhard...
+     bio_81ee94387dff · bioRxiv · 2025-09-30 · 0 citations (all versions)
+     Published (2025): https://doi.org/10.1101/2025.09.30.679508
+     Matched: LIPG knockdown by siRNA transfections · cat /papers/bio_81ee94387dff/content.lines --lines 26
+     │ HAEC and Huh-7 cells were reverse transfected with siRNA targeting LIPG (catalog no.
+     │ M-009601-01-0005, Horizon Discovery Dharmacon™, USA), ANGPTL4 (catalog no. M-007807-02-0010,
+     │ Horizon Discovery Dharmacon™), or a non-targeting control sequence (catalog no.
+     │ D-001810-10-50, Horizon Discovery Dharmacon™). Briefly, trypsinized cells in complete growth
+     │ medium were added at an 8:2 ratio to a mixture of siRNA (final concentration 10 nM) and
+     │ Lipofectamine™ RNAiMAX (final dilution 1:1000; Invitrogen, Thermo Fisher Scientific, USA) in
+     │ Opti-MEM™ (Gibco, Thermo Fisher Scientific). Cells were then cultured for 72 hours without a
+     │ media change prior to experimentation.
+     "This study investigated how ANGPTL3 and endothelial lipase (EL) affect lipoprotein transport across aortic endothelial cells. ANGPTL3 was found to inhibit EL-mediated transport of LDL into the arterial wall."
+
+  13. Association of the LIPG 584C > T polymorphism and serum lipid levels in the Guangxi Bai Ku Yao and Han populations
+     Wan-Ying Liu; Rui-Xing Yin; Lin Zhang; Xiao-Li Cao; Lin Miao; Dong-Feng Wu; Lynn Htet Htet Aung; Xi-...
+     PMC2976738 · PMC · 2010-10-06 · 17 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2976738/
+     Matched: Introduction · cat /papers/PMC2976738/content.lines --lines 16-17
+     "This study investigated the association of the LIPG 584C>T polymorphism with serum lipid levels in Guangxi Bai Ku Yao and Han populations. The T allele was associated with higher HDL-C and TC levels in both ethnic groups."
+
+  14. Population-Based Resequencing of LIPG and ZNF202 Genes in Subjects with Extreme HDL Levels
+     Hamid Razzaghi; Stephanie A. Santorico; M. Ilyas Kamboh
+     PMC3375090 · PMC · 2012-06-14 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3375090/
+     Matched: LIPG · cat /papers/PMC3375090/content.lines --lines 135
+     "The study resequenced the *LIPG* and *ZNF202* genes in individuals with extreme HDL levels. Sequence variants in these genes, particularly in non-exonic regions, may significantly influence HDL-cholesterol levels."
+
+  15. Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyromonas endodontalis, Induces Macrophage M1 Profile
+     Pablo Veloso; Alejandra Fernández; Jessica Astorga; David González-Quintanilla; Alfredo Castro; Alej...
+     PMC9456100 · International Journal of Molecular Sciences · 2022-09-02 · 16 citations
+     https://doi.org/10.3390/ijms231710011
+     Matched: 5. Conclusions · cat /papers/PMC9456100/content.lines --lines 70-73
+     "This study investigated the effects of lipopolysaccharides from *Porphyromonas gingivalis* and *Porphyromonas endodontalis* on macrophage polarization. *P. gingivalis* LPS induced an M1 macrophage profile, while *P. endodontalis* LPS did not."
+
+  16. Hepatic Overexpression of Endothelial Lipase Lowers High-Density Lipoprotein but Maintains Reverse Cholesterol Transport in Mice
+     Shunichi Takiguchi; Makoto Ayaori; Emi Yakushiji; Takafumi Nishida; Kazuhiro Nakaya; Makoto Sasaki; ...
+     PMC6039415 · Arteriosclerosis, Thrombosis, and Vascular Biology · 2018-04-05 · 25 citations
+     https://doi.org/10.1161/ATVBAHA.118.311056
+     Matched: In Vivo Macrophage RCT Studies · cat /papers/PMC6039415/content.lines --lines 34-36
+     "Hepatic overexpression of endothelial lipase was studied in mice. This manipulation lowered high-density lipoprotein levels while preserving reverse cholesterol transport."
+
+  17. LIPG-mediated regulation of lipid deposition and proliferation in goat intramuscular preadipocytes involves the PPARα signaling pathway
+     Yinggui Wang; Lian Huang; JiangJiang Zhu; Wenyang Zhang; Yinmei Tang; Changheng Yang; Yaqiu Lin; Yon...
+     PMC11825097 · PMC · 2025-02-13 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11825097/
+     Matched: Cloning and expression analysis of the goat LIPG gene · cat /papers/PMC11825097/content.lines --lines 44-45
+     "This study investigated the role of the LIPG gene in goat intramuscular preadipocytes. LIPG knockdown inhibited preadipocyte proliferation and lipid deposition, mediated by the PPARα signaling pathway."
+
+  18. Effect of Interactions Between Endothelial Lipase Gene Polymorphisms and Traditional Cardiovascular Risk Factors on Coronary Heart Disease Susceptibility
+     Chunhui He; Xingming Song; Ting He; Qing Tian; Yuhui Zhang; Halisha Airikenjiang; Dilihumaer Abulait...
+     PMC12326425 · Reviews in Cardiovascular Medicine · 2025-07-25 · 1 citation
+     https://doi.org/10.31083/RCM37356
+     Matched: 3.2 Association of Endothelial Lipase Gene Polymorphisms With Coronary · cat /papers/PMC12326425/content.lines --lines 81-105
+     "This study investigated endothelial lipase gene polymorphisms and their interactions with cardiovascular risk factors for coronary heart disease. The rs2000813CT genotype was associated with increased CHD risk in women, with BMI showing the greatest interaction effect."
+
+  19. Oral and transdermal administration of lipopolysaccharide safely enhances self-healing ability through the macrophage network
+     Gen-Ichiro Soma; Masataka Oda; Vindy Tjendana Tjhin; Chie Kohchi; Hiroyuki Inagawa
+     PMC11994614 · PMC · 2025-03-31 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11994614/
+     Matched: Safety of orally and transdermally administered LPS · cat /papers/PMC11994614/content.lines --lines 38-40
+     "Oral and transdermal LPS administration was studied for its effects on self-healing. This method safely enhances healing through a "macrophage network" involving mucosal immune cells."
+
+  20. BRD4 contributes to LPS-induced macrophage senescence and promotes progression of atherosclerosis-associated lipid uptake
+     Hui Wang; Haiping Fu; Ruigong Zhu; Xuan Wu; Xian Ji; Xuesong Li; Hong Jiang; Zhe Lin; Xin Tang; Shix...
+     PMC7288959 · Aging (Albany NY) · 2020-05-11 · 92 citations
+     https://doi.org/10.18632/aging.103200
+     Matched: BRD4 is indispensable for LPS-induced peritoneal macrophage senescence · cat /papers/PMC7288959/content.lines --lines 27-28
+     "Lipopolysaccharide (LPS) induces macrophage senescence, which is mediated by BRD4. Inhibiting BRD4 prevents LPS-induced macrophage senescence and lipid accumulation, suggesting therapeutic potential for atherosclerosis."
+
+  21. Mining the LIPG Allelic Spectrum Reveals the Contribution of Rare and Common Regulatory Variants to HDL Cholesterol
+     Sumeet A. Khetarpal; Andrew C. Edmondson; Avanthi Raghavan; Hemanth Neeli; Weijun Jin; Karen O. Bade...
+     PMC3234219 · PMC · 2011-12-08 · 37 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3234219/
+     Matched: Functional analysis of common LIPG regulatory variants · cat /papers/PMC3234219/content.lines --lines 141-164
+     "This study resequenced the LIPG gene's promoter and 5' UTR in individuals with extreme HDL-C levels. Both rare and common noncoding regulatory variants significantly contribute to HDL-C levels by affecting LIPG expression and EL protein levels."
+
+  22. Transcriptional profiling of the LPS induced NF-κB response in macrophages
+     Omar Sharif, Viacheslav N Bolshakov, Stephanie Raines, Peter Newham, Neil D Perkins
+     PMC1781469 · biomedrxiv · 2007-01-01 · 447 citations
+     https://doi.org/10.1186/1471-2172-8-1
+     "This study profiled gene expression in macrophages after LPS exposure. LPS induced a dynamic, time-dependent transcriptional response, with THP-1 cells closely mimicking primary macrophages."
+
+  23. LIPG endothelial lipase and breast cancer risk by subtypes
+     Manuela Gago-Dominguez; Carmen M. Redondo; Manuel Calaza; Marcos Matabuena; Maria A. Bermudez; Roman...
+     PMC8129130 · Scientific Reports · 2021-05-17 · 2 citations
+     https://doi.org/10.1038/s41598-021-89669-4
+     Matched: Discussion · cat /papers/PMC8129130/content.lines --lines 169-172
+     │ Cadenas and collaborators also contributed substantially to this topic. They reported that
+     │ LIPG is increased during oxidative stress and increases survival of cells that are no longer
+     │ able to generate a sufficient supply of fatty acids by de novo synthesis [29]. Similar to
+     │ Slebe et al.[15], Riederer et al. [30] has also shown that LIPG releases free fatty acids
+     │ which can be taken up by cells. It has also been shown that overexpression of an oncogenic
+     │ form of HER2 leads to strong expression of LIPG[31] and LIPG has been reported to be
+     │ associated with tumor growth [15] and with metastasis in triple-negative breast cancer [32].
+     │ Cadenas and colleagues also showed that LIPG enables breast cancer …
+     "This study examined the association between endothelial lipase (LIPG) and breast cancer risk. Higher LIPG levels were linked to increased breast cancer risk, particularly in pre-menopausal, Luminal A, HER2-negative, and high-cholesterol women."
+
+  24. Identification of stable reference genes for lipopolysaccharide-stimulated macrophage gene expression studies
+     Roshini Kalagara, Weimin Gao, Honor L. Glenn, Colleen Ziegler, Laura Belmont, Deirdre R. Meldrum
+     PMC6994071 · biomedrxiv · 2016-03-01 · 9 citations
+     https://doi.org/10.1093/biomethods/bpw005
+     "This study evaluated the expression stability of eight common reference genes in LPS-stimulated macrophages. Ubiquitin C (UBC) and Beta-2-microglobulin (B2M) were found to be the most stable, while GAPDH was the least stable."
+
+  25. Protective effect of bacterial lipase on lipopolysaccharide-induced toxicity in rat cardiomyocytes; H9C2 cell line
+     Mina Mamipour; Mohammadreza Yousefi; Alireza Dehnad; Yousef Faridvand; Reza Zarezadeh; Majid Khaksar...
+     PMC7080329 · Journal of Cardiovascular and Thoracic Research · 2019-12-23 · 5 citations
+     https://doi.org/10.34172/jcvtr.2020.06
+     Matched: LPS and a lipase treatment · cat /papers/PMC7080329/content.lines --lines 22
+     │ To detect the possible neutralizing activity of bacterium lipase on LPS structure, we aimed
+     │ to examine Pseudomonascepasia-derived lipase (Cat no: 62309, Sigma) on LPS before adding LPS
+     │ to the culture medium. In the current experiment, cells were classified into three main
+     │ groups as follows; Control, LPS, and LPS plus lipase groups. No treatment was added to the
+     │ control cells. In LPS group, cells were treated with different concentrations of LPS
+     │ including 0.1, 1 and 10 µg/mL for 72 hours. In the LPS + Lipase group, cells received the
+     │ same concentration of LPS which were incubated with 5 mg/ml lipase at 37˚C overnight. Prior
+     │ to adding to the culture medium, the mixture of LPS and lipase was …
+     "Bacterial lipase was tested for its protective effect against lipopolysaccharide (LPS)-induced toxicity in rat cardiomyocytes. Lipase significantly improved cell viability, reduced inflammatory markers, and preserved fatty acid composition, suggesting a protective role."
+
+[3.5s, saved to s_d341e798]
+
+💡 Extract data across these results with: map --from s_d341e798 "your question"
+[3.5s, saved to s_d341e798]  [repo: mva-lof-molecular]

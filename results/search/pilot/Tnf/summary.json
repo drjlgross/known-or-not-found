@@ -1,0 +1,18 @@
+{
+  "gene": "Tnf",
+  "query": "Tnf LPS macrophage",
+  "mode": "map",
+  "question": "Does this paper describe the expression of the gene Tnf (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).",
+  "date": "2026-09-24T18:00:54Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_3e96f027",
+  "judge_id": "m_436cf0f2",
+  "parent_n": 25,
+  "yes": 25,
+  "no": 0,
+  "paper_errors": 0,
+  "seconds_search": 6.1,
+  "seconds_judge": 192.5,
+  "seconds_total": 198.6
+}

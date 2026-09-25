@@ -1,0 +1,138 @@
+Map results  [m_bd11743a]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Hcar2 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes in response to LPS or bacterial infection? Answer yes or no. If yes, quote the sentence reporting that result; it must name the gene or its protein. Use an empty string if no.
+
+--- [1] [success] Expression analysis of G Protein-Coupled Receptors in mouse macrophages ---
+doc_id: PMC2394514
+{"answer": "yes", "evidence": "Examples of these include Fzd1, Htr2b, Gpr84 (induced by LPS, Table 3), and P2ry1 and 5 (repressed by LPS, Table 4)." }
+
+--- [2] [success] Metabolite-sensing GPCRs controlling interactions between adipose tissue and inflammation ---
+doc_id: PMC10357040
+{"answer": "yes", "evidence": "A similar increase in HCA2 expression in response to LPS is also observed in cultured adipocyte models in vitro (66)."}
+
+--- [3] [success] Hydroxycarboxylic acid receptor 2 (HCAR2/GPR109A) expression and signaling promotes the maintenance of an immunoinhibitory retinal environment ---
+doc_id: bio_24b6555f70b8
+{"answer": "no", "evidence": ""}
+
+--- [4] [success] Activated niacin receptor HCA2 inhibits chemoattractant-mediated macrophage migration via Gβγ/PKC/ERK1/2 pathway and heterologous receptor desensitization ---
+doc_id: PMC5301212
+{
+  "answer": "yes",
+  "evidence": "Furthermore, LPS also markedly increased HCA2 in primary mouse macrophages (Fig. 1D)."
+}
+
+--- [5] [success] Biological Roles and Therapeutic Potential of Hydroxy-Carboxylic Acid Receptors ---
+doc_id: PMC3356039
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [6] [success] Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC6543837
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [7] [success] The hydroxycarboxylic acid receptor HCA2 is required for the protective effect of ketogenic diet in epilepsy ---
+doc_id: PMC11496569
+{"answer": "no", "evidence": ""}
+
+--- [8] [success] Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review ---
+doc_id: PMC13372918
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [9] [success] Dysregulation of macrophage lipid metabolism underlies intracellular bacterial neuroinvasion ---
+doc_id: PMC13253848
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [10] [success] Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC7053374
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [11] [success] Monocyte normal immune response to LPS stimulation ---
+doc_id: PMC3333514
+{"answer": "no", "evidence": ""}
+
+--- [12] [success] Histone deacetylase 2 is essential for LPS‐induced inflammatory responses in macrophages ---
+doc_id: PMC7379312
+{"answer": "no", "evidence": ""}
+
+--- [13] [success] Anti-inflammatory and polarization-modulating effects of Houttuynia cordata in LPS-stimulated RAW264.7 macrophages ---
+doc_id: PMC12957811
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [14] [success] HCX3 Mitigates LPS-Induced Inflammatory Responses in Macrophages by Suppressing the Activation of the NF-κB Signaling Pathway ---
+doc_id: PMC12562522
+{"answer": "no", "evidence": ""}
+
+--- [15] [success] Lipopolysaccharide alters expression of incretin receptors in monocytic and hepatocytic cell lines ---
+doc_id: PMC3254936
+{"answer": "no", "evidence": ""}
+
+--- [16] [success] Signaling metabolite L-2-hydroxyglutarate activates the transcription factor HIF-1α in lipopolysaccharide-activated macrophages ---
+doc_id: PMC8784330
+{"answer": "no", "evidence": ""}
+
+--- [17] [success] The Regulatory Roles of Ezh2 in Response to Lipopolysaccharide (LPS) in Macrophages and Mice with Conditional Ezh2 Deletion with LysM-Cre System ---
+doc_id: PMC10049283
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [18] [success] Lactate Suppresses Macrophage Pro-Inflammatory Response to LPS Stimulation by Inhibition of YAP and NF-κB Activation via GPR81-Mediated Signaling ---
+doc_id: PMC7573489
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [19] [success] HuR modulation counteracts lipopolysaccharide response in murine macrophages ---
+doc_id: PMC10110401
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [20] [success] Methyl p-Hydroxycinnamate Suppresses Lipopolysaccharide-Induced Inflammatory Responses through Akt Phosphorylation in RAW264.7 Cells ---
+doc_id: PMC3936424
+{"answer": "no", "evidence": ""}
+
+--- [21] [success] Expression and anti-inflammatory role of activin receptor-interacting protein 2 in lipopolysaccharide-activated macrophages ---
+doc_id: PMC5583376
+{"answer": "no", "evidence": ""}
+
+--- [22] [success] Lipopolysaccharide uptake is augmented in lipopolysaccharide‐tolerant mouse macrophage‐like cells via increased CD14 expression ---
+doc_id: PMC13398632
+{"answer": "no", "evidence": ""}
+
+--- [23] [success] LncRNA HOTAIR regulates lipopolysaccharide-induced cytokine expression and inflammatory response in macrophages ---
+doc_id: PMC6199307
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [24] [success] Selection of reliable reference genes for the normalisation of gene expression levels following time course LPS stimulation of murine bone marrow derived macrophages ---
+doc_id: PMC5627409
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [25] [success] Lipopolysaccharide induces a downregulation of adiponectin receptors in-vitro and in-vivo ---
+doc_id: PMC4655095
+{"answer": "no", "evidence": ""}

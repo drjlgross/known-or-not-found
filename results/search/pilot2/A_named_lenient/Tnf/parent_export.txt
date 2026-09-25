@@ -1,0 +1,4 @@
+$ src/pc.sh results s_520cf8ff --save /Users/julia/known-or-not-found/results/search/pilot2/A_named_lenient/Tnf/parent.csv
+# exit 0
+  ✓ Saved 25 papers to /Users/julia/known-or-not-found/results/search/pilot2/A_named_lenient/Tnf/parent.csv
+

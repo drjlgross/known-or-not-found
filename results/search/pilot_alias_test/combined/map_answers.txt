@@ -1,0 +1,156 @@
+Map results  [m_e477b659]
+Query: Does this paper describe the expression of the gene Lipg (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).
+
+--- [1] [success] A host lipase prevents lipopolysaccharide-induced foam cell formation ---
+doc_id: PMC8426562
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [2] [success] Regulatory roles of bioactive lipids in vascular homeostasis and remodeling ---
+doc_id: PMC12955355
+{"answer": "no", "evidence": ""}
+
+--- [3] [success] LIPG is a novel prognostic biomarker and correlated with immune infiltrates in lung adenocarcinoma ---
+doc_id: PMC9833968
+{"answer": "no", "evidence": ""}
+
+--- [4] [success] Endothelial Lipase: A New Risk Factor for Atherosclerosis? ---
+doc_id: PMC1316069
+{"answer": "no", "evidence": ""}
+
+--- [5] [success] Macrophages enhance lipopolysaccharide induced apoptosis via Ang1 and NF-κB pathways in human umbilical vein endothelial cells ---
+doc_id: PMC7858588
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [6] [success] Endothelial lipase facilitates low-density lipoprotein (LDL) uptake in LDL receptor deficiency by a heparan sulfate proteoglycan-dependent mechanism ---
+doc_id: bio_c6ad21607925
+{"answer": "no", "evidence": ""}
+
+--- [7] [success] Increased expression of endothelial lipase in symptomatic and unstable carotid plaques ---
+doc_id: PMC3296002
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [8] [success] A novel co-culture model for investigation of the effects of LPS-induced macrophage-derived cytokines on brain endothelial cells ---
+doc_id: PMC10343049
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [9] [success] Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review ---
+doc_id: PMC13372918
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [10] [success] Which is the Best Predictor for the Development of Atherosclerosis Among Circulating Lipoprotein Lipase, Hepatic Lipase, and Endothelial Lipase? ---
+doc_id: PMC6753242
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [11] [success] Effects of activation on lipoprotein lipase secretion by macrophages. Evidence for autoregulation ---
+doc_id: PMC2188426
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [12] [success] Angiopoietin like protein 3 regulates low-density lipoprotein transport through aortic endothelial cells via endothelial lipase ---
+doc_id: bio_81ee94387dff
+{"answer": "no", "evidence": ""}
+
+--- [13] [success] Association of the LIPG 584C > T polymorphism and serum lipid levels in the Guangxi Bai Ku Yao and Han populations ---
+doc_id: PMC2976738
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [14] [success] Population-Based Resequencing of LIPG and ZNF202 Genes in Subjects with Extreme HDL Levels ---
+doc_id: PMC3375090
+{"answer": "no", "evidence": ""}
+
+--- [15] [success] Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyromonas endodontalis, Induces Macrophage M1 Profile ---
+doc_id: PMC9456100
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [16] [success] Hepatic Overexpression of Endothelial Lipase Lowers High-Density Lipoprotein but Maintains Reverse Cholesterol Transport in Mice ---
+doc_id: PMC6039415
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [17] [success] LIPG-mediated regulation of lipid deposition and proliferation in goat intramuscular preadipocytes involves the PPARα signaling pathway ---
+doc_id: PMC11825097
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [18] [success] Effect of Interactions Between Endothelial Lipase Gene Polymorphisms and Traditional Cardiovascular Risk Factors on Coronary Heart Disease Susceptibility ---
+doc_id: PMC12326425
+{
+  "answer": "yes",
+  "evidence": "Its expression is upregulated in response to acute inflammatory stimuli, endotoxin exposure, and alterations in vascular wall shear stress."
+}
+
+--- [19] [success] Oral and transdermal administration of lipopolysaccharide safely enhances self-healing ability through the macrophage network ---
+doc_id: PMC11994614
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [20] [success] BRD4 contributes to LPS-induced macrophage senescence and promotes progression of atherosclerosis-associated lipid uptake ---
+doc_id: PMC7288959
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [21] [success] Mining the LIPG Allelic Spectrum Reveals the Contribution of Rare and Common Regulatory Variants to HDL Cholesterol ---
+doc_id: PMC3234219
+{"answer": "no", "evidence": ""}
+
+--- [22] [success] Transcriptional profiling of the LPS induced NF-κB response in macrophages ---
+doc_id: PMC1781469
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [23] [success] LIPG endothelial lipase and breast cancer risk by subtypes ---
+doc_id: PMC8129130
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [24] [success] Identification of stable reference genes for lipopolysaccharide-stimulated macrophage gene expression studies ---
+doc_id: PMC6994071
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [25] [success] Protective effect of bacterial lipase on lipopolysaccharide-induced toxicity in rat cardiomyocytes; H9C2 cell line ---
+doc_id: PMC7080329
+{
+  "answer": "no",
+  "evidence": ""
+}

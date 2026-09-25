@@ -1,0 +1,177 @@
+$ src/pc.sh map --from s_ccccf36b --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}}} Does this paper describe the expression of the gene Tnfsf15 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_58fc3ef0
+
+  ✓ TNFSF15 facilitates differentiation and polarization of macrophages to
+    PMC8812784 · 948ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 877ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ TNFSF15 Promotes Antimicrobial Pathways in Human Macrophages and These
+    PMC7689184 · 937ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ LITAF and TNFSF15, two downstream targets of AMPK, exert inhibitory ef
+    PMC3431012 · 1161ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Identifying and testing candidate genetic polymorphisms in irritable b
+    PMC3959508 · 1061ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Quantitative Proteomics Reveals Fh15 as an Antagonist of TLR4 Downregu
+    PMC12294962 · 920ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Reduced monocyte and macrophage TNFSF15/TL1A expression is associated 
+    PMC6130856 · 1116ms
+    {
+      "answer": "yes",
+      "evidence": "In monocytes stimulated with immune complex and intracellular poly(I:C), the protective allele was associated with higher levels of TNFSF15 mRNA (p 1.33 x 10−3 and p 0.0155, respectively), similar to results in unstimulated cells, while LPS-stimulated monocytes showed a comparable trend but with more variability (p 0.273, Fig 2A)."
+    }
+
+  ✓ Protective effect of growth differentiation factor 15 in sepsis by reg
+    PMC9161903 · 858ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Distinct Expression Patterns of Two Tumor Necrosis Factor Superfamily 
+    PMC6584785 · 885ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ GDF15 orchestrates mitochondrial-immune crosstalk via SMAD7-HIF-1α-PKM
+    PMC12872506 · 1174ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide-mediated macrophage polarization, conserved pathoge
+    PMC13372918 · 933ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ The Clinical Value of GDF15 and Its Prospective Mechanism in Sepsis
+    PMC8456026 · 955ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Differential mRNA and miRNA Profiles Reveal the Potential Roles of Gen
+    PMC8155903 · 857ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Monocyte normal immune response to LPS stimulation
+    PMC3333514 · 749ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Cytokine Expression and Macrophage Localization in Xenograft and Allog
+    PMC5979423 · 779ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Tremella fuciformis Polysaccharides Attenuate Oxidative Stress and Inf
+    PMC5954968 · 800ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide from biofilm-forming Pseudomonas aeruginosa PAO1 in
+    PMC8289208 · 972ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyr
+    PMC9456100 · 769ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Genetic and Epigenetic Etiology of Inflammatory Bowel Disease: An Upda
+    PMC9778199 · 1032ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Analysis of the human monocyte-derived macrophage transcriptome and re
+    PMC5358891 · 1286ms
+    {
+      "answer": "yes",
+      "evidence": "Both TNF receptor genes TNFR1 (TNFRSF1A) and TNFR2 (TNFRSF1B) were induced later in the response to LPS. Aside from TNF, five other members of the TNF superfamily, TNFSF15, TNFSF8 (encoding CD30L), TNFSF10 (TRAIL), TNFSF14 (LIGHT) and TNFSF9 (CD137L) were each induced ahead of induction of their respective receptors TNFRSF6B, TNFRSF8, TNFRSF10A and 10B and TNFRSF9 (CD137)."
+    }
+
+  ✓ Oral and transdermal administration of lipopolysaccharide safely enhan
+    PMC11994614 · 1020ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Macrophages as a Source and Target of GDF-15
+    PMC11242731 · 975ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Transcriptional profiling of the LPS induced NF-κB response in macroph
+    PMC1781469 · 816ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Growth Differentiation Factor-15 Deficiency Augments Inflammatory Resp
+    PMC5430818 · 1087ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ TNFSF15 facilitates the differentiation of CD11b+ myeloid cells into v
+    PMC10690882 · 825ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[22.1s, saved to m_58fc3ef0]
+
+  [##..................]  3/25 papers  run m_58fc3ef0  [2s]
+  [###########.........]  14/25 papers  run m_58fc3ef0  [4s]
+  [################....]  20/25 papers  run m_58fc3ef0  [6s]
+  [###################.]  24/25 papers  run m_58fc3ef0  [8s]
+  [####################]  25/25 papers  run m_58fc3ef0  [10s]
+

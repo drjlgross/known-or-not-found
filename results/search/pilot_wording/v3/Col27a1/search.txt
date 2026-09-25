@@ -1,0 +1,295 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Col27a1 LPS macrophage
+# exit 0
+Found 25 papers  [s_392a0a96]
+
+  1. The orientation of choroidal macrophage polarization significantly influences the development of myopia in murine models
+     Jing Hou, Shin-ichi Ikeda, Kiwako Mori, Heonuk Jeong, Hidemasa Torii, Kazuno Negishi, Kazuo Tsubota ...
+     bio_b06931d16f63 · bioRxiv · 2023-06-12 · 1 citation (all versions)
+     Published (2023): https://doi.org/10.1101/2023.06.12.544445
+     Matched: LPS treatment · cat /papers/bio_b06931d16f63/content.lines --lines 60
+     │ Lipopolysaccharides from Escherichia coli O111:B4 (Merck, Tokyo, Japan) were dissolved in
+     │ PBS and injected intraperitoneally to induce systemic M1 macrophage polarization. The
+     │ concentration of LPS was 10 mg/ml, and the injection dose was increased proportionally to
+     │ the body weight of the mice, with 10 μg of LPS given per gram of mice. Since LPS injections
+     │ caused a large reduction in mouse weight, we monitored and documented the mouse body weight
+     │ before each injection. In addition, a corresponding volume of PBS was injected
+     │ intraperitoneally as a vehicle control.
+     "Choroidal macrophages were studied for their role in myopia development. Their polarization towards M1 or M2 phenotypes significantly influences choroidal thickness and myopia progression."
+
+  2. Induction of unique macrophage subset by simultaneous stimulation with LPS and IL-4
+     Kei Ishida; Takahiro Nagatake; Azusa Saika; Soichiro Kawai; Eri Node; Koji Hosomi; Jun Kunisawa
+     PMC10167635 · PMC · 2023-04-21 · 64 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10167635/
+     Matched: Photographs of each macrophage · cat /papers/PMC10167635/content.lines --lines 39
+     "This study analyzed macrophages induced by simultaneous LPS and IL-4 stimulation. These macrophages exhibited unique properties, blending M1 and M2 characteristics with distinct energy metabolism."
+
+  3. Interleukins-27 Aggravates Liver Injury by Impairing the Antimicrobial Response of Macrophages via the Promotion of Mitochondrial Dysfunction in the Context of Sepsis
+     Yuehua You; Yuyan Li; Lin Ye; Fang Xu; Jing Fan
+     PMC11882325 · PMC · 2025-02-26 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11882325/
+     Matched: 2.4. Cell Culture · cat /papers/PMC11882325/content.lines --lines 27
+     │ RAW264.7 cells were grown in DMEM containing 10% fetal bovine serum (FBS) and exposed to LPS
+     │ (100 ng/mL; Sigma–Aldrich, St Louis, MO, USA) and/or IL-27 (50 ng/mL; ProSpec, Rehovot,
+     │ Israel) for 36 h when they reached 70%–80% confluences.
+     "IL-27 exacerbates liver injury in sepsis by impairing macrophage antimicrobial responses. This occurs through IL-27-induced mitochondrial dysfunction, which reduces bacterial clearance."
+
+  4. LPS combined with CD47mAb enhances the anti‑osteosarcoma ability of macrophages
+     Peng Yuan; Yukang Que; Yulei Liu; Peng He; Zehao Guo; Yong Hu
+     PMC10091190 · PMC · 2023-03-28 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10091190/
+     Matched: Effect of LPS and CD47mAb on macrophage activation · cat /papers/PMC10091190/content.lines --lines 52
+     │ Different subtypes of macrophages express different proteins and cytokines (40). To verify
+     │ the activation effect of LPS (0.1 µg/ml) and CD47mAb (10 µg/ml) on macrophages, the
+     │ expression of M1 macrophage-related proteins was analyzed in RAW264.7 cells that were co-
+     │ cultured with LPS, CD47mAb or both. The results of western blot analysis demonstrated that
+     │ LPS could increase the expression of NOS2 in macrophages, but CD47mAb had no such effect
+     │ (Fig. 2A and B). The supernatant from the macrophage cultures was collected from the
+     │ different treatment groups, and the content of NO and TNF-α was measured; the results (Fig.
+     │ 2C and D) agreed with the results of the western blot analysis. To further …
+     "This study investigated the combined effect of LPS and CD47mAb on macrophage anti-osteosarcoma activity. The combination significantly enhanced macrophage phagocytosis, suppressed tumor growth and migration, and promoted apoptosis."
+
+  5. Transcriptional profiling of the LPS induced NF-κB response in macrophages
+     Omar Sharif; Viacheslav N Bolshakov; Stephanie Raines; Peter Newham; Neil D Perkins
+     PMC1781469 · PMC · 2007-01-12 · 447 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1781469/
+     Matched: Analysis of LPS-induced gene expression in the THP-1 macrophage cell l · cat /papers/PMC1781469/content.lines --lines 26
+     "This study profiled gene expression in macrophages after LPS exposure. LPS induced a dynamic, time-dependent transcriptional response, with THP-1 cells closely mimicking primary macrophages."
+
+  6. INVOLVEMENT OF MACROPHAGES IN COLLAGEN RESORPTION
+     Paul F. Parakkal
+     PMC2107732 · PMC · 1969-04-01 · 155 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2107732/
+
+  7. Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni; Yanal Ghosheh; Akula Bala Pramod; Klaus Ley
+     PMC6543837 · PMC · 2019-05-24 · 1909 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6543837/
+     Matched: Introduction · cat /papers/PMC6543837/content.lines --lines 14-15
+     │ The M1/M2 macrophage polarization nomenclature was introduced in 2000, based on the
+     │ propensity of C57BL/6J macrophages to be more easily activated to produce NO (M1 polarized)
+     │ than Balb/c mice (M2 polarized) (12). Different metabolism of arginine after LPS injection
+     │ elicits different phenotypes of macrophages in C57BL/6J and Balb/c mice. C57BL/6J peritoneal
+     │ macrophages induced iNOS resulting in nitric oxide and a T-helper 1 (Th1) CD4 T cell
+     │ response, while Balb/c mice induced arginase to produce ornithine and a Th2 response. In
+     │ analogy to Th1 and Th2, these macrophages were named M1 and M2. Subsequent work showed that
+     │ M1 macrophages have a pro-inflammatory phenotype with pathogen-killing …
+     "This study compared gene expression in *in vivo* M1/M2 macrophages with *in vitro* classically/alternatively activated macrophages. The findings indicate that *in vivo* M1/M2 polarization is not equivalent to *in vitro* activation states."
+
+  8. Comparative Study of The Effect of LPS on The Function of BALB/c and C57BL/6 Peritoneal Macrophages
+     Sara Soudi; Ahmad Zavaran-Hosseini; Zuhair Muhammad Hassan; Masoud Soleimani; Fatemeh Jamshidi Adega...
+     PMC3660024 · PMC · 2013-05-05
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3660024/
+     Matched: Cytokine assay · cat /papers/PMC3660024/content.lines --lines 44-46
+     │ To determine the nature of the immune responses of macrophages from BALB/c and C57BL/6 mice
+     │ to LPS stimulation, we measured the amount of IFN-λ, IL-4, TGF-β1, IL-17, and IL-10 produced
+     │ in the supernatant at 0 (pre-LPS treatment), and 3, 24, 48, and 72 hours post- LPS
+     │ treatment. As shown in figure 2, TGF-β1 production increased significantly (p≤0.05) in
+     │ BALB/c macrophages compared to C57BL/6 macrophages in response to LPS. Cytokine analysis
+     │ showed that IL-17 production was induced in both mice groups after LPS stimulation, but the
+     │ production level of C57BL/6 macrophages was significantly higher than the production level
+     │ of BALB/c macrophages at 0 (pre-stimulation), and 3, 24, and 48 hours …
+     "Peritoneal macrophages from BALB/c and C57BL/6 mice were stimulated with LPS to compare their responses. Different mouse strains exhibit distinct cytokine profiles and functional activities when exposed to LPS."
+
+  9. Exosomal miR-148a-3p from LPS-Activated Macrophages Promotes M1 Polarization and Ferroptosis-Related Characteristics of Recipient Macrophages by Reducing SLC7A11
+     Jun Liang; Yingli Cai; Yiming Shao
+     PMC13199726 · PMC · 2026-05-20 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13199726/
+     Matched: LPS Induces M1 Polarization and Inflammatory Response in RAW264.7 Macr · cat /papers/PMC13199726/content.lines --lines 100-101
+     "Gram-negative bacterial infection is a major cause of severe inflammatory disorders and cellular damage, with lipopolysaccharide (LPS) as a key pathogenic trigger. Macrophages are central players in L"
+
+  10. IL-27 Aggravates Sepsis-Induced ARDS by Driving Macrophage Ferroptosis Through Activation of NCOA4-Mediated Ferritinophagy
+     Minkang Guo; Meng Xiong; Jindian Shi; Qiaozhi Peng; Shihui Lin; Fang Xu
+     PMC12967598 · PMC · 2026-03-03 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12967598/
+     Matched: Inhibiting Ferritinophagy Effectively Alleviates the Inflammatory Resp · cat /papers/PMC12967598/content.lines --lines 71-72
+     "IL-27 worsens sepsis-induced ARDS by promoting macrophage ferroptosis. It achieves this by activating NCOA4, which drives ferritinophagy and M1 polarization. A novel NCOA4 degrader, CV3, reverses these effects, offering a potential therapeutic strategy."
+
+  11. A sequential macrophage activation strategy for bone regeneration: A micro/nano strontium-releasing composite scaffold loaded with lipopolysaccharide
+     Jinhui Huang; Jiawei Wei; Xue Xia; Shiqi Xiao; Shue Jin; Qin Zou; Yi Zuo; Yubao Li; Jidong Li
+     PMC11063594 · PMC · 2024-04-21 · 11 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11063594/
+     Matched: Immune response induced by the scaffold in subcutaneous implantation m · cat /papers/PMC11063594/content.lines --lines 100-102
+     "A composite scaffold sequentially releases lipopolysaccharide and strontium ions to modulate macrophage phenotypes. This strategy effectively promotes bone regeneration by balancing initial inflammation with later anti-inflammatory effects."
+
+  12. IL-27 neutralization enhances macrophage polarization and improves immune checkpoint efficacy
+     Quentin Glaziou, Laetitia Basset, Sènan d’Almeida, Pascale Pignon, Nabila Jabrane-Ferrat, Christophe...
+     bio_5e67bb726e21 · bioRxiv · 2024-09-13 · 2 citations (all versions)
+     Published (2024): https://doi.org/10.1101/2024.09.13.612803
+     Matched: IL-27 neutralization during macrophage differentiation reduces immunos · cat /papers/bio_5e67bb726e21/content.lines --lines 56-58
+     │ Conversely, IL-27 neutralization increased the expression of several co-stimulatory or pro-
+     │ inflammatory surface molecules on macrophages. Mα27 cells had significantly higher levels of
+     │ CD80 and CD40 than Miso cells ( Figure 1D , 1E). CD80 provides a co-stimulatory signal to T
+     │ cells (via CD28) and is typically associated with classically activated M1 macrophages.
+     │ CD40, a TNF receptor family member, is an activation-induced molecule on macrophages and
+     │ dendritic cells that can license these cells to better prime T cells via CD40L interactions
+     │ ( 42 ). We also observed a moderate but significant increase in CD48 on Mα27 macrophages (
+     │ Figure 1F ). CD48 can function as an activating receptor on …
+     "IL-27 neutralization was studied for its effects on tumor-associated macrophages and the tumor immune microenvironment. Blocking IL-27 repolarized macrophages, enhancing T cell responses and immune checkpoint therapy efficacy."
+
+  13. LPS‐Induced Inflammation Prior to Injury Exacerbates the Development of Post‐Traumatic Osteoarthritis in Mice
+     Melanie E Mendez; Aimy Sebastian; Deepa K Murugesh; Nicholas R Hum; Jillian L McCool; Allison W Hsia...
+     PMC7689775 · PMC · 2020-08-03 · 41 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7689775/
+     Matched: Cellular infiltration by type 1 macrophages is elevated in LPS‐treated · cat /papers/PMC7689775/content.lines --lines 38-39
+     "Systemic inflammation induced by LPS before joint injury was studied in mice. Pre-injury inflammation significantly worsened post-traumatic osteoarthritis development, characterized by greater cartilage loss and bone volume reduction."
+
+  14. Motif prediction to distinguish LPS-stimulated pro-inflammatory vs. antibacterial macrophage genes
+     Rahul K Kollipara; Narayanan B Perumal
+     PMC2949756 · PMC · 2010-09-21 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2949756/
+     Matched: Classification of antibacterial and pro-inflammatory macrophage genes · cat /papers/PMC2949756/content.lines --lines 18-20
+     "This study analyzed gene expression patterns in LPS-stimulated macrophages to identify pro-inflammatory and antibacterial genes. It found distinct transcription factor binding site motifs associated with each gene set, helping to distinguish their regulatory mechanisms."
+
+  15. Effect of regulating macrophage polarization phenotype on intervertebral disc degeneration
+     Xuefeng Hou; Yucheng Shen; Minli Sun; Bing Zhang; Jiuming Dai; Dong Chen; Zhidong Liu
+     PMC9609449 · PMC · 2022-10-27 · 11 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9609449/
+     Matched: M1 macrophages promoted the expression of type II collagen and Aggreca · cat /papers/PMC9609449/content.lines --lines 48-49
+     │ The culture medium of NPCs was replaced by the above macrophage culture medium and was used
+     │ to incubate the cells for 48 h. It can be seen that LPS induction decreased the cell
+     │ viability compared with control group, after further addition of M1 medium, cell viability
+     │ was decreased again. Compared with that in LPS + M1 medium, cell viability in M1/Mino medium
+     │ and M1/Sino medium showed an increasing trend (Figure 3A). Additionally, the expressions of
+     │ type II collagen and Aggrecan were decreased in cells after LPS induction compared with the
+     │ Control group, which were further reduced in LPS + M1 medium group relative to the LPS
+     │ group. The decreased expressions of type II collagen and Aggrecan …
+     "This study investigated how regulating macrophage polarization affects intervertebral disc degeneration. M1 macrophage polarization promotes degeneration, while minocycline and sinomenine treatments mitigated this effect."
+
+  16. Overview of RAW264.7 for osteoclastogensis study: Phenotype and stimuli
+     Lingbo Kong; Wanli Smith; Dingjun Hao
+     PMC6484317 · PMC · 2019-03-20 · 173 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6484317/
+     Matched: LIPOPOLYSACCHARIDE AND ITS ROLE IN RAW‐OCS INDUCTION · cat /papers/PMC6484317/content.lines --lines 26-28
+     │ Physiological defense responding is important for the host to survive infection.76, 102
+     │ Lipopolysaccharide (LPS) as a major component of the outer membrane of Gram‐negative
+     │ bacterial factor for inflammation has ability to induce the expression of a variety of
+     │ pro‐inflammatory cytokines and nitric oxide producing enzyme iNOS in macrophage.30, 103 LPS
+     │ or the consequent various cytokines elicited in infectious lesions may modulate
+     │ physiological and pathological osteoclastogenesis respectively. However, further lead to a
+     │ pathological bone resorptive condition. RAW264.7 is one of the three cloned cell lines
+     │ (RAW309 and WR19M), which have been established from murine tumours induced with Abelson …
+     "This paper reviews RAW264.7 cell characteristics and their use in osteoclastogenesis studies. It highlights the need for better understanding of stimuli-induced RAW-OC formation due to cell variability."
+
+  17. LPS Counter Regulates RNA Expression of Extracellular Proteases and Their Inhibitors in Murine Macrophages
+     Andreas Hald; Birgitte Rønø; Leif R. Lund; Kristoffer L. Egerod
+     PMC3317238 · PMC · 2012-03-14 · 19 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3317238/
+     Matched: 2.1. RAW 264.7 Cells · cat /papers/PMC3317238/content.lines --lines 17
+     │ The mouse-derived macrophage cell line RAW 264.7 was propagated in culture medium defined as
+     │ DMEM, containing 10% FCS and 1% Penicillin-Streptomycin (Sigma-Aldrich, Brøndby, Denmark).
+     │ Experimental cell cultures were set up in 6-well culture plates by seeding 5 × 105 cells in
+     │ 4 mL culture medium in each well. The following day, the culture medium was exchanged with
+     │ serum-free DMEM. After 4 hours, vehicle (PBS) or LPS (Sigma-Aldrich, Brøndby, Denmark) was
+     │ added to appropriate cultures to a final concentration of 100 ng/mL. After 0, 2, 6, and 18
+     │ hours of vehicle or LPS stimulation, the RAW 264.7 cultures were harvested by removing the
+     │ supernatant and lysing the cells using the NucleoSpin RNAII …
+     "LPS stimulation of murine macrophages was studied for its effect on extracellular protease and inhibitor gene expression. LPS differentially regulates matrix metalloproteinases and serine proteases, impacting extracellular matrix degradation."
+
+  18. Mathematical modelling of activation-induced heterogeneity reveals cell state transitions underpinning macrophage responses to LPS
+     S. Dey, D. Boucher, J. W. Pitchford, D. Lagos *
+     bio_206e5a356c66 · bioRxiv · 2021-09-19 · 0 citations (all versions)
+     Published (2021): https://doi.org/10.1101/2021.09.19.461010
+     Matched: Macrophage community AIH is dependent on LPS dose · cat /papers/bio_206e5a356c66/content.lines --lines 42-45
+     │ Figure 1: Macrophage community AIH is dependent on LPS dose A. Flow cytometry gating to show
+     │ 16 sub-populations determined based on TNF, IL-6, pro-IL-1b and NOS2. B. Pie charts
+     │ represent the community composition at 16 hours post stimulus with the indicated doses of
+     │ LPS for RAW264.7. Data representative of three independent experiments. Next, we explored
+     │ AIH in BMDMs, a cell model more faithfully capturing heterogeneity of primary macrophages.
+     │ As in the case of RAW264.7 cells, exposure to LPS induced population heterogeneity in BMDMs
+     │ albeit with different kinetics to that observed in RAW264.7 cells (compare Figure 2 with
+     │ Figure 1B ). Whereas all populations were observed at 16h (12h …
+     "This study mathematically models macrophage responses to LPS, analyzing single-cell protein expression. Macrophage hypo-responsiveness to secondary LPS challenges is driven by altered transition rates to non-responsive states."
+
+  19. Progranulin inhibits LPS-induced macrophage M1 polarization via NF-кB and MAPK pathways
+     Lianlian Liu; Hongmei Guo; Aimei Song; Jiahui Huang; Yu Zhang; Shanshan Jin; Shutong Li; Liguo Zhang...
+     PMC7275413 · PMC · 2020-06-05 · 282 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7275413/
+     Matched: Effect of LPS on macrophage M1 polarization and PGRN expression · cat /papers/PMC7275413/content.lines --lines 25-26
+     │ After stimulated by 100 <ng/ml LPS or normal medium for 24 <h, LPS-stimulated RAW264.7 cells
+     │ showed significantly higher expression of CD86, the special surface phenotype marker of M1,
+     │ than negative control (Fig. 1a, b). In addition, mRNA and protein expression of iNOS and
+     │ TNF-α, the special functional markers for M1, and secretion of TNF-α also significantly
+     │ increased (Fig. 1c, d, e, f). Interestingly, compared to the control, LPS stimulation for 24
+     │ or 48 <h significantly down-regulated PGRN expression both in gene and protein expression
+     │ (Fig. 1g, i, j) and its secretion was also significantly decreased after 48 <h stimulation
+     │ (Fig. 1h). This suggests that PGRN may be involved in …
+     "Progranulin was studied for its effect on LPS-induced macrophage M1 polarization. Progranulin inhibits M1 polarization by suppressing NF-κB and MAPK pathways."
+
+  20. Mmu-miR-27a-5p-Dependent Upregulation of MCPIP1 Inhibits the Inflammatory Response in LPS-Induced RAW264.7 Macrophage Cells
+     Ying Cheng; Li Du; Hanwei Jiao; Huapei Zhu; Kailian Xu; Shiyu Guo; Qiaoyun Shi; Tianjing Zhao; Feng ...
+     PMC4534598 · PMC · 2015-07-30 · 30 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4534598/
+     Matched: 1. Introduction · cat /papers/PMC4534598/content.lines --lines 11
+     │ To dissect the regulatory mechanisms that LPS affects innate immunity of macrophage more
+     │ clearly, based on previous finding that mmu-miR-27a-5p in LPS-induced RAW264.7 macrophage
+     │ was downregulated, in the study, we, for the first time, identify MCP-1-induced protein 1
+     │ (MCPIP1, also known as ZC3H12A and Regnase-1), which was originally found in human monocytes
+     │ after treatment with MCP-1 and is proapoptosis [18], as a target of mmu-miR-27a-5p. We also
+     │ demonstrate that mmu-miR-27a-5p regulates the LPS-induced upregulation of MCPIP1, as well as
+     │ subsequent proinflammatory cytokine secretion. Our studies provide conclusive mechanistic
+     │ evidence for mmu-miR-27a-5p as regulator of MCPIP1 signaling …
+     "This study investigated the role of mmu-miR-27a-5p in LPS-induced macrophage inflammation. Mmu-miR-27a-5p directly targets MCPIP1, and its upregulation inhibits the secretion of inflammatory cytokines."
+
+  21. LPS Tolerance Inhibits Cellular Respiration and Induces Global Changes in the Macrophage Secretome
+     Joseph Gillen; Thunnicha Ondee; Devikala Gurusamy; Jiraphorn Issara-Amphorn; Nathan P. Manes; Sung H...
+     PMC7918892 · PMC · 2021-01-27 · 59 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7918892/
+     Matched: 3.1. LPS-Tolerant Macrophages Decrease Cellular Respiration · cat /papers/PMC7918892/content.lines --lines 34-35
+     │ LPS tolerance is the decreased response of immune cells following secondary or prolonged
+     │ stimulation with LPS. This process is typified by the decreased secretion of cytokines
+     │ (Figure 1A–C), but the causes of tolerance and the processes that maintain it are not
+     │ completely elucidated. This decreased response, although useful as a mechanism preventing a
+     │ lethal outcome, can have tragic consequences for patients as the decreased secretion of
+     │ cytokines might often lead to an increase in secondary infections. To examine the causes and
+     │ regulation of LPS tolerance in macrophages, we used purified LPS to stimulate RAW 264.7
+     │ cells as an in vitro model, a methodology successfully used previously for …
+     "This study investigated metabolic and secretome changes in macrophages during LPS tolerance induction. LPS tolerance significantly reduces cellular metabolism and alters secreted proteins towards cell survival and metabolism."
+
+  22. STAT3 blockade ameliorates LPS-induced kidney injury through macrophage-driven inflammation
+     Song-Hee Lee; Kyu Hong Kim; Seong Min Lee; Seong Joon Park; Sunhwa Lee; Ran-Hui Cha; Jae Wook Lee; D...
+     PMC11453053 · PMC · 2024-10-04 · 78 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11453053/
+     Matched: STAT3 inhibitor alleviates LPS-induced inflammation in RAW264.7 cells · cat /papers/PMC11453053/content.lines --lines 94-95
+     │ We have observed changes in the L-AKI mouse model, so far. Next, we attempted to examine the
+     │ effects of STAT3 inhibition on macrophages in LPS stimulation in vitro using FACS analysis.
+     │ iNOS expression considerably increased 12 h after LPS treatment. This suggests that LPS
+     │ induced inflammation in resting macrophages. Although we were unable to observe the dose-
+     │ dependent effects of LPS, we confirmed that treatment with 0.25 µg/mL LPS alone considerably
+     │ increased iNOS expression in RAW264.7 cells. LPS-induced iNOS expression was inhibited by
+     │ treatment with 2 µM Stattic (Fig. 5A). We also observed the activation of STAT3 by LPS
+     │ treatment and the inhibitory effect of Stattic on STAT3 (Figure …
+     "STAT3 blockade was studied in LPS-induced kidney injury models. Inhibiting STAT3 reduced kidney injury and fibrosis by modulating macrophage phenotypes and decreasing inflammation."
+
+  23. IL-27 amplifies cytokine responses to Gram-negative bacterial products and Salmonella typhimurium infection
+     C. Petes; N. Odoardi; S. M. Plater; N. L. Martin; K. Gee
+     PMC6135775 · PMC · 2018-09-12 · 18 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6135775/
+     Matched: Co-stimulation of LPS and IL-27 upregulates proinflammatory cytokine e · cat /papers/PMC6135775/content.lines --lines 14-15
+     "This study investigated IL-27's effect on human monocyte and macrophage responses to bacterial products and infection. IL-27 amplified pro-inflammatory cytokine production in response to LPS and *Salmonella typhimurium* infection."
+
+  24. IL-27 induces an IFN-like signature in murine macrophages which in turn modulate colonic epithelium
+     Caroline Andrews; Mairi H. McLean; Julie A. Hixon; Sergio M. Pontejo; Tregei Starr; Courtney Malo; M...
+     PMC10157156 · PMC · 2023-04-20 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10157156/
+     Matched: Discussion · cat /papers/PMC10157156/content.lines --lines 50-51
+     "Murine macrophages were studied for their response to IL-27. IL-27 induces an IFN-like signature in macrophages, which then produce factors that affect colonic epithelium."
+
+  25. Mathematical modelling of activation-induced heterogeneity in TNF, IL6, NOS2, and IL1β expression reveals cell state transitions underpinning macrophage responses to LPS
+     Shoumit Dey; Dave Boucher; Jon Pitchford; Dimitris Lagos
+     PMC9411976 · PMC · 2022-07-25 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9411976/
+     Matched: Macrophage community AIH is dependent on LPS dose · cat /papers/PMC9411976/content.lines --lines 78-79
+     │ Figure 2.: Macrophage community AIH kinetics for BMDMs. Pie charts represent the community
+     │ composition at 8, 12 and 16 hours post stimulus with the indicated doses of LPS for BMDMs.
+     │ BMDMs are pre-gated on Live/Singlets/FSC-SSC/CD11b+F4/80+ population. Data representative of
+     │ three independent experiments. Overall, our findings indicated that exposure to LPS induced
+     │ population heterogeneity in macrophage communities for both a macrophage cell line (RAW264.7
+     │ cells) and primary BMDMs. As expected, cell-type specific differences were observed with
+     │ BMDM responses occurring and peaking faster and reaching a plateau at lower LPS
+     │ concentrations. These could be linked to differential sensitivity to …
+     "Mathematical models explored macrophage states and their responses to LPS. Macrophage hypo-responsiveness to a second LPS challenge is driven by altered transition rates between activation states."
+
+[64ms, saved to s_392a0a96]
+
+💡 Extract data across these results with: map --from s_392a0a96 "your question"
+[64ms, saved to s_392a0a96]  [repo: mva-lof-molecular]

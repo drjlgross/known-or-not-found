@@ -1,0 +1,6 @@
+$ src/pc.sh filter --from s_16f7374c Does this paper describe the expression of the gene Lipg changing in response to LPS or bacterial infection?
+# exit 0
+Filtered: 25 → 0 papers (25 removed as irrelevant) in 570ms
+  → 0 papers after filtering
+Results ID: s_16f7374c (updated in place)
+[614ms, saved to s_16f7374c]  [repo: mva-lof-molecular]

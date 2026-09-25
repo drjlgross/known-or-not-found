@@ -1,0 +1,13 @@
+gene	query	search_id	date	rank	paper_id	title	verdict	status
+Tnf	Tnf (tumor necrosis factor) LPS macrophage	s_4d95050f	2026-09-24T22:39:29Z			ERROR at map: map exit 1; no map id		error
+Edn1	Edn1 (endothelin 1) LPS macrophage	s_f41d5480	2026-09-24T22:39:29Z			ERROR at map: map exit 1; no map id		error
+Nos2	Nos2 (nitric oxide synthase 2, inducible) LPS macrophage	s_4cd0debc	2026-09-24T22:39:29Z			ERROR at map: map exit 1; no map id		error
+Slc7a2	Slc7a2 (solute carrier family 7 (cationic amino acid transporter, y+ system), member 2) LPS macrophage	s_8b34c91d	2026-09-24T22:39:29Z			ERROR at map: map exit 1; no map id		error
+Tnfsf15	Tnfsf15 (tumor necrosis factor (ligand) superfamily, member 15) LPS macrophage	s_1e60004e	2026-09-24T22:39:38Z			ERROR at map: map exit 1; no map id		error
+Hdc	Hdc (histidine decarboxylase) LPS macrophage	s_fae50452	2026-09-24T22:39:39Z			ERROR at map: map exit 1; no map id		error
+Calhm6	Calhm6 (calcium homeostasis modulator family member 6) LPS macrophage	s_537ab7b6	2026-09-24T22:39:40Z			ERROR at map: map exit 1; no map id		error
+Tarm1	Tarm1 (T cell-interacting, activating receptor on myeloid cells 1) LPS macrophage	s_faa803d1	2026-09-24T22:39:40Z			ERROR at map: map exit 1; no map id		error
+Rnd1	Rnd1 (Rho family GTPase 1) LPS macrophage	s_a0f9095b	2026-09-24T22:39:42Z			ERROR at map: map exit 1; no map id		error
+Hcar2	Hcar2 (hydroxycarboxylic acid receptor 2) LPS macrophage	s_109883b3	2026-09-24T22:39:44Z			ERROR at map: map exit 1; no map id		error
+Lipg	Lipg (lipase G, endothelial type) LPS macrophage	s_1b95d77c	2026-09-24T22:39:47Z			ERROR at map: map exit 1; no map id		error
+Col27a1	Col27a1 (collagen, type XXVII, alpha 1) LPS macrophage	s_a1175599	2026-09-24T22:39:48Z			ERROR at map: map exit 1; no map id		error

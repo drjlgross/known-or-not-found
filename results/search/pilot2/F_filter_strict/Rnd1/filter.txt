@@ -1,0 +1,7 @@
+$ src/pc.sh filter --from s_ddb4cc86 Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Rnd1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes in response to LPS or bacterial infection?
+# exit 0
+Filtered: 25 → 1 papers (24 removed as irrelevant) in 537ms
+  → 1 papers after filtering
+Results ID: s_ddb4cc86 (updated in place)
+[599ms, saved to s_ddb4cc86]  [repo: mva-lof-molecular]
+

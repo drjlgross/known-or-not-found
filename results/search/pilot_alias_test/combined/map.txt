@@ -1,0 +1,169 @@
+$ src/pc.sh map --from s_d341e798 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}}} Does this paper describe the expression of the gene Lipg (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_e477b659
+
+  ✓ A host lipase prevents lipopolysaccharide-induced foam cell formation
+    PMC8426562 · 1389ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Regulatory roles of bioactive lipids in vascular homeostasis and remod
+    PMC12955355 · 1295ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ LIPG is a novel prognostic biomarker and correlated with immune infilt
+    PMC9833968 · 1190ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Endothelial Lipase: A New Risk Factor for Atherosclerosis?
+    PMC1316069 · 1086ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Macrophages enhance lipopolysaccharide induced apoptosis via Ang1 and 
+    PMC7858588 · 1139ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Endothelial lipase facilitates low-density lipoprotein (LDL) uptake in
+    bio_c6ad2160 · 962ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Increased expression of endothelial lipase in symptomatic and unstable
+    PMC3296002 · 1084ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ A novel co-culture model for investigation of the effects of LPS-induc
+    PMC10343049 · 1463ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide-mediated macrophage polarization, conserved pathoge
+    PMC13372918 · 1121ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Which is the Best Predictor for the Development of Atherosclerosis Amo
+    PMC6753242 · 1032ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Effects of activation on lipoprotein lipase secretion by macrophages. 
+    PMC2188426 · 905ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Angiopoietin like protein 3 regulates low-density lipoprotein transpor
+    bio_81ee9438 · 1007ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Association of the LIPG 584C > T polymorphism and serum lipid levels i
+    PMC2976738 · 1967ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Population-Based Resequencing of LIPG and ZNF202 Genes in Subjects wit
+    PMC3375090 · 1584ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyr
+    PMC9456100 · 980ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Hepatic Overexpression of Endothelial Lipase Lowers High-Density Lipop
+    PMC6039415 · 1058ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LIPG-mediated regulation of lipid deposition and proliferation in goat
+    PMC11825097 · 1571ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Effect of Interactions Between Endothelial Lipase Gene Polymorphisms a
+    PMC12326425 · 967ms
+    {
+      "answer": "yes",
+      "evidence": "Its expression is upregulated in response to acute inflammatory stimuli, endotoxin exposure, and alterations in vascular wall shear stress."
+    }
+
+  ✓ Oral and transdermal administration of lipopolysaccharide safely enhan
+    PMC11994614 · 1188ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ BRD4 contributes to LPS-induced macrophage senescence and promotes pro
+    PMC7288959 · 1016ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Mining the LIPG Allelic Spectrum Reveals the Contribution of Rare and 
+    PMC3234219 · 1172ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Transcriptional profiling of the LPS induced NF-κB response in macroph
+    PMC1781469 · 1047ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LIPG endothelial lipase and breast cancer risk by subtypes
+    PMC8129130 · 1108ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Identification of stable reference genes for lipopolysaccharide-stimul
+    PMC6994071 · 1022ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Protective effect of bacterial lipase on lipopolysaccharide-induced to
+    PMC7080329 · 1128ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[22.1s, saved to m_e477b659]
+
+  [##..................]  3/25 papers  run m_e477b659  [2s]
+  [#########...........]  12/25 papers  run m_e477b659  [4s]
+  [############........]  16/25 papers  run m_e477b659  [6s]
+  [#################...]  22/25 papers  run m_e477b659  [8s]
+  [###################.]  24/25 papers  run m_e477b659  [10s]
+  [####################]  25/25 papers  run m_e477b659  [14s]
+

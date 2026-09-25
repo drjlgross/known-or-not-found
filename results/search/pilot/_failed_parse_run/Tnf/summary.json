@@ -1,0 +1,11 @@
+{
+  "gene": "Tnf",
+  "query": "Tnf LPS macrophage",
+  "filter_question": "Does this paper describe the expression of the gene Tnf changing in response to LPS or bacterial infection?",
+  "date": "2026-09-24T17:53:30Z",
+  "n": 25,
+  "status": "error",
+  "stage": "search-parse",
+  "detail": "parsed 4 entries, CLI reported 25",
+  "seconds": 4.4
+}

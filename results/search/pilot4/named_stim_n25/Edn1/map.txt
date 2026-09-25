@@ -1,0 +1,177 @@
+$ src/pc.sh map --from s_0e6f47dd --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Edn1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, quote the single sentence that reports that result; it must name the gene or its protein, name LPS or the infection, and state the change. Use an empty string if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_b0063adb
+
+  ✓ Endothelins, peptides with potent vasoactive properties, are produced 
+    PMC2188743 · 1355ms
+    {"answer": "yes", "evidence": "From a basal level of 11 pg/ml, LPS induced a sixfold increase of endothelin 1 to 65 pg/ml."}
+
+  ✓ Nlrp3, Csf3, and Edn1 in Macrophage Response to Saturated Fatty Acids 
+    PMC7779813 · 1158ms
+    {
+      "answer": "yes",
+      "evidence": "The relative expression of Edn1 in cells treated with mmLDL and LPS was higher than that in cells treated with LPS alone (Figure 4A)."
+    }
+
+  ✓ Rodent Models of Lung Disease: A Road Map for Translational Research
+    PMC12429320 · 1139ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Endothelin-1 stimulates human monocytes in vitro to release TNF-α , IL
+    PMC2365438 · 1118ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Macrophages enhance lipopolysaccharide induced apoptosis via Ang1 and 
+    PMC7858588 · 1002ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Systemic and Splanchnic Lipopolysaccharide and Endothelin-1 Plasma Lev
+    PMC4753051 · 1273ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Correction: Alternatively Activated (M2) Macrophage Phenotype Is Induc
+    PMC5373621 · 1370ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Preferential recruitment of neutrophils by endothelin-1 in acute lung 
+    PMC2629980 · 960ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Enhanced Endothelin A and B Receptor Expression and Receptor-Mediated 
+    PMC6881566 · 965ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Alternatively Activated (M2) Macrophage Phenotype Is Inducible by Endo
+    PMC5112853 · 1017ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Effect of Human Umbilical Vein Endothelial Cells on Immune Responses o
+    PMC6144854 · 909ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Extracellular vesicles derived from endothelial cells modulate macroph
+    PMC10634087 · 824ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ miR-379-5p serves as a biomarker and regulates sepsis-associated acute
+    PMC13483658 · 885ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(
+    PMC7053374 · 786ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 1008ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide-mediated macrophage polarization, conserved pathoge
+    PMC13372918 · 1094ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Chlorella 11-Peptide Inhibits the Production of Macrophage-Induced Adh
+    PMC3826139 · 967ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ A novel co-culture model for investigation of the effects of LPS-induc
+    PMC10343049 · 888ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Transcriptional profiling of the LPS induced NF-κB response in macroph
+    PMC1781469 · 1500ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Responses of perivascular macrophages to circulating lipopolysaccharid
+    PMC6375194 · 892ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Epigenetic profile in lipopolysaccharide-stimulated macrophages
+    PMC3953056 · 803ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Macrophage EHD1 promotes inflammation and stabilizes sortilin to accel
+    bio_5a4c8a83 · 1125ms
+    {"answer": "yes", "evidence": "We found that LPS dramatically induced EHD1 expression at both the protein and mRNA levels ( Figure 1E and 1F )."}
+
+  ✓ A novel role for myeloid endothelin-B receptors in hypertension
+    PMC6396028 · 1849ms
+    {
+      "answer": "yes",
+      "evidence": "BMDM stimulation with LPS/INF\u0393 (but not IL-4/IL-13) increased the media concentration of ET-1 at 24 h (see Supplementary material online, Figure S7), an effect that was blocked by phosphoramidon, an inhibitor of endothelin converting enzyme (ECE) which catalyzes the conversion of big ET-1 to the mature peptide."
+    }
+
+  ✓ Differential mRNA and miRNA Profiles Reveal the Potential Roles of Gen
+    PMC8155903 · 1551ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LPS Tolerance Inhibits Cellular Respiration and Induces Global Changes
+    PMC7918892 · 1302ms
+    {"answer": "no", "evidence": ""}
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[21.7s, saved to m_b0063adb]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  0/25 papers  run m_b0063adb  [2s]
+  [#########...........]  12/25 papers  run m_b0063adb  [4s]
+  [############........]  16/25 papers  run m_b0063adb  [6s]
+  [#################...]  22/25 papers  run m_b0063adb  [8s]
+  [###################.]  24/25 papers  run m_b0063adb  [10s]
+  [####################]  25/25 papers  run m_b0063adb  [15s]
+  [####################]  25/25 papers  run m_b0063adb  [21s]
+

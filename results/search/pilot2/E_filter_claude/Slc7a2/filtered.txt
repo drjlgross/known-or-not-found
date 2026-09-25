@@ -1,0 +1,6 @@
+$ src/pc.sh results s_4dba9f90
+# exit 0
+  Query: filter 'Does this paper describe the expression of the gene Slc7a2 changing in response to LPS or bacterial infection?' --from s_4dba9f90
+Found 0 papers  [s_4dba9f90]
+
+

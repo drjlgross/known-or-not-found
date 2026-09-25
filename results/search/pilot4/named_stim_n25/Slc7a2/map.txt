@@ -1,0 +1,164 @@
+$ src/pc.sh map --from s_dbc77b76 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Slc7a2 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, quote the single sentence that reports that result; it must name the gene or its protein, name LPS or the infection, and state the change. Use an empty string if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_58daa05c
+
+  ✓ Species-Specific Transcriptional Regulation of Genes Involved in Nitri
+    PMC6245571 · 1184ms
+    {
+      "answer": "yes",
+      "evidence": "In rats, as in mice (19), LPS greatly increased (18-fold) expression of the cationic amino acid transporter, Slc7a2, whereas goats were the only large animal species in which SLC7A2 mRNA was detectable (TPM 6) and regulated to any degree by LPS, with an induced level (TPM≈16) still lower than the basal level in the rat (TPM 46)."
+    }
+
+  ✓ FOCIS abstract supplement
+    PMC7128890 · 3285ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ The NF-κB-SLC7A11 axis regulates ferroptosis sensitivity in inflammato
+    PMC12268560 · 971ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Characterisation of genes differentially expressed in macrophages by v
+    PMC6411972 · 1554ms
+    {
+      "answer": "yes",
+      "evidence": "The expression level of Slc7a2 was significantly increased later (12–24 h) after infection in Ra-infected macrophages compared with macrophages infected with Rv (Fig. 3A–C)."
+    }
+
+  ✓ Amino acid transporters within the solute carrier superfamily: Underap
+    PMC11112377 · 1200ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(
+    PMC7053374 · 976ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Exosomal miR-148a-3p from LPS-Activated Macrophages Promotes M1 Polari
+    PMC13199726 · 1008ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Cationic Amino Acid Transporter 2 Enhances Innate Immunity during Heli
+    PMC3237590 · 1095ms
+    {"answer": "yes", "evidence": "While iNOS protein expression was induced in infected wild type mice, levels were substantially decreased in infected CAT2\u2212/\u2212 mice (Figure 3A)."}
+
+  ✓ l-Arginine Uptake by Cationic Amino Acid Transporter Promotes Intra-Ma
+    PMC5526900 · 1005ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ “Of Mice and Men”: Arginine Metabolism in Macrophages
+    PMC4188127 · 964ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Sulfur metabolic response in macrophage limits excessive inflammatory 
+    PMC10412850 · 989ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Slc7a11‐Mediated Cystine/Glutamate Antiport Reprograms Macrophage Pola
+    PMC12950507 · 971ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ In Lysinuric Protein Intolerance system y+L activity is defective in m
+    PMC2999609 · 1167ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ A new metabolomic assay to examine inflammation and redox pathways fol
+    PMC3507808 · 979ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Frontline Science: LPS‐inducible SLC30A1 drives human macrophage‐media
+    PMC7891337 · 943ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Species-Specificity of Transcriptional Regulation and the Response to 
+    PMC7386301 · 1319ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Cationic Amino Acid Transporter-2 Regulates Immunity by Modulating Arg
+    PMC2265428 · 1163ms
+    {
+      "answer": "yes",
+      "evidence": "Several pro-inflammatory mediators including LPS can regulate the expression of CAT2; thus, it likely functions as the key L-arginine transporter during inflammatory responses."
+    }
+
+  ✓ Downregulation of SLC7A7 Triggers an Inflammatory Phenotype in Human M
+    PMC5868322 · 991ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Single-cell to pre-clinical evaluation of Trem2, Folr2, and Slc7a7 as 
+    PMC12713647 · 1244ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Solute Carrier Family 37 Member 2 (SLC37A2) Negatively Regulates Murin
+    PMC7232099 · 1052ms
+    {
+      "answer": "yes",
+      "evidence": "Toll-like receptor (TLR) 4 stimulation by lipopolysaccharide (LPS) rapidly increases macrophage SLC37A2 protein expression."
+    }
+
+  ✓ Role of SLC7A5 in Metabolic Reprogramming of Human Monocyte/Macrophage
+    PMC5788887 · 1220ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Hematopoietic Cell-Specific SLC37A2 Deficiency Accelerates Atheroscler
+    PMC8702732 · 1183ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Loss of Solute Carrier Family 7 Member 2 Exacerbates Inflammation-Asso
+    PMC6377304 · 1209ms
+    {"answer": "yes", "evidence": "IFN-\\u03b3 + LPS stimulation resulted in robust expression of the M1 markers Nos2 and Il1b (Figure 6a) in both WT and Slc7a2\\u2013/\\u2013 BMmacs."}
+
+  ✓ Expression and Regulation of the Proton-Coupled Oligopeptide Transport
+    PMC4051248 · 1044ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Aberrant Expression of SLC7A11 Impairs the Antimicrobial Activities of
+    PMC11077379 · 1130ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[21.4s, saved to m_58daa05c]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  0/25 papers  run m_58daa05c  [2s]
+  [########............]  11/25 papers  run m_58daa05c  [4s]
+  [###############.....]  19/25 papers  run m_58daa05c  [6s]
+  [################....]  21/25 papers  run m_58daa05c  [10s]
+  [####################]  25/25 papers  run m_58daa05c  [12s]
+  [####################]  25/25 papers  run m_58daa05c  [21s]
+

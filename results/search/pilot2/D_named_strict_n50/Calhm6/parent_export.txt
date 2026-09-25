@@ -1,0 +1,4 @@
+$ src/pc.sh results s_537ab7b6 --save /Users/julia/known-or-not-found/results/search/pilot2/D_named_strict_n50/Calhm6/parent.csv
+# exit 0
+  ✓ Saved 50 papers to /Users/julia/known-or-not-found/results/search/pilot2/D_named_strict_n50/Calhm6/parent.csv
+

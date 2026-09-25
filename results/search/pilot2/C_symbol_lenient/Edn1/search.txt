@@ -1,0 +1,249 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Edn1 LPS macrophage
+# exit 0
+Found 25 papers  [s_665b0f34]
+
+  1. Correction: Alternatively Activated (M2) Macrophage Phenotype Is Inducible by Endothelin-1 in Cultured Human Macrophages
+     Stefano Soldano; Carmen Pizzorni; Sabrina Paolino; Amelia Chiara Trombetta; Paola Montagna; Renata B...
+     PMC5373621 · PMC · 2017-03-30 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5373621/
+
+  2. The orientation of choroidal macrophage polarization significantly influences the development of myopia in murine models
+     Jing Hou, Shin-ichi Ikeda, Kiwako Mori, Heonuk Jeong, Hidemasa Torii, Kazuno Negishi, Kazuo Tsubota ...
+     bio_b06931d16f63 · bioRxiv · 2023-06-12 · 1 citation (all versions)
+     Published (2023): https://doi.org/10.1101/2023.06.12.544445
+     Matched: LPS treatment · cat /papers/bio_b06931d16f63/content.lines --lines 60
+     │ Lipopolysaccharides from Escherichia coli O111:B4 (Merck, Tokyo, Japan) were dissolved in
+     │ PBS and injected intraperitoneally to induce systemic M1 macrophage polarization. The
+     │ concentration of LPS was 10 mg/ml, and the injection dose was increased proportionally to
+     │ the body weight of the mice, with 10 μg of LPS given per gram of mice. Since LPS injections
+     │ caused a large reduction in mouse weight, we monitored and documented the mouse body weight
+     │ before each injection. In addition, a corresponding volume of PBS was injected
+     │ intraperitoneally as a vehicle control.
+     "Choroidal macrophages were studied for their role in myopia development. Their polarization towards M1 or M2 phenotypes significantly influences choroidal thickness and myopia progression."
+
+  3. Comparative Study of The Effect of LPS on The Function of BALB/c and C57BL/6 Peritoneal Macrophages
+     Sara Soudi; Ahmad Zavaran-Hosseini; Zuhair Muhammad Hassan; Masoud Soleimani; Fatemeh Jamshidi Adega...
+     PMC3660024 · Cell Journal (Yakhteh) · 2013-05-05
+     Matched: Discussion · cat /papers/PMC3660024/content.lines --lines 61-62
+     "Peritoneal macrophages from BALB/c and C57BL/6 mice were stimulated with LPS to compare their responses. Different mouse strains exhibit distinct cytokine profiles and functional activities when exposed to LPS."
+
+  4. Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review
+     Leah Elson; Niels Eijkelkamp; J. Henk Coert
+     PMC13372918 · Inflammation Research · 2026-07-15 · 0 citations
+     https://doi.org/10.1007/s00011-026-02317-3
+     Matched: Study overview · cat /papers/PMC13372918/content.lines --lines 34-39
+     "This systematic review synthesized evidence for a conserved lipopolysaccharide (LPS)-mediated pathogenic mechanism across diverse tissues and evaluated its potential relevance to peripheral neuropathy"
+
+  5. Induction of unique macrophage subset by simultaneous stimulation with LPS and IL-4
+     Kei Ishida; Takahiro Nagatake; Azusa Saika; Soichiro Kawai; Eri Node; Koji Hosomi; Jun Kunisawa
+     PMC10167635 · Frontiers in Immunology · 2023-04-21 · 64 citations
+     https://doi.org/10.3389/fimmu.2023.1111729
+     Matched: Photographs of each macrophage · cat /papers/PMC10167635/content.lines --lines 39
+     "This study analyzed macrophages induced by simultaneous LPS and IL-4 stimulation. These macrophages exhibited unique properties, blending M1 and M2 characteristics with distinct energy metabolism."
+
+  6. Motif prediction to distinguish LPS-stimulated pro-inflammatory vs. antibacterial macrophage genes
+     Rahul K Kollipara; Narayanan B Perumal
+     PMC2949756 · Immunome Research · 2010-09-21 · 5 citations
+     https://doi.org/10.1186/1745-7580-6-5
+     Matched: Classification of antibacterial and pro-inflammatory macrophage genes · cat /papers/PMC2949756/content.lines --lines 18-20
+     "This study analyzed gene expression patterns in LPS-stimulated macrophages to identify pro-inflammatory and antibacterial genes. It found distinct transcription factor binding site motifs associated with each gene set, helping to distinguish their regulatory mechanisms."
+
+  7. Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni; Yanal Ghosheh; Akula Bala Pramod; Klaus Ley
+     PMC6543837 · Frontiers in Immunology · 2019-05-24 · 1909 citations
+     https://doi.org/10.3389/fimmu.2019.01084
+     Matched: Introduction · cat /papers/PMC6543837/content.lines --lines 14-15
+     "This study compared gene expression in *in vivo* M1/M2 macrophages with *in vitro* classically/alternatively activated macrophages. The findings indicate that *in vivo* M1/M2 polarization is not equivalent to *in vitro* activation states."
+
+  8. Responses of perivascular macrophages to circulating lipopolysaccharides in the subfornical organ with special reference to endotoxin tolerance
+     Shoko Morita-Takemura; Kazuki Nakahara; Sanae Hasegawa-Ishii; Ayami Isonishi; Kouko Tatsumi; Hiroaki...
+     PMC6375194 · PMC · 2019-02-14 · 23 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6375194/
+     Matched: Discussion · cat /papers/PMC6375194/content.lines --lines 75
+     "Perivascular macrophages in the subfornical organ produce IL-1β in response to LPS. Endotoxin tolerance involves these macrophages ceasing IL-1β production despite LPS presence."
+
+  9. New Model of Macrophage Acquisition of the Lymphatic Endothelial Phenotype
+     Kelly L. Hall; Lisa D. Volk-Draper; Michael J. Flister; Sophia Ran
+     PMC3292559 · PLoS ONE · 2012-03-02 · 77 citations
+     https://doi.org/10.1371/journal.pone.0031794
+     Matched: LPS-activated CD11b+ macrophages are massively recruited to the proxim · cat /papers/PMC3292559/content.lines --lines 74-75
+     │ To better understand the behavior of endogenous LECPs, we first analyzed the kinetics of
+     │ their recruitment into the diaphragm in response to LPS. Group of 3 mice were daily treated
+     │ with either endotoxin-free saline or 20 µg LPS for three days. Diaphragms were harvested at
+     │ days 0 to 5 after the first injection and analyzed for co-localization of macrophage
+     │ markers, CD11b and F4/80, and lymphatic marker, LYVE-1. All secondary IgG controls produced
+     │ minimal background (Fig. 2A, bottom row). Before LPS treatment, diaphragms contained very
+     │ few macrophages that were distantly located in relation to the LYVE-1+ vessels (Fig. 2A, Day
+     │ 0). In sharp contrast, 24 hours after LPS treatment, the numbers …
+     "A new model using LPS-activated RAW264.7 cells was developed to study macrophage-to-lymphatic endothelial cell progenitor differentiation. This model effectively mimics endogenous M-LECPs, showing similar gene expression and vascular integration."
+
+  10. Lipopolysaccharide from biofilm-forming Pseudomonas aeruginosa PAO1 induces macrophage hyperinflammatory responses
+     Sufei Wang; Dandan Xiang; Fangbing Tian; Ming Ni
+     PMC8289208 · Journal of Medical Microbiology · 2021-04-28 · 23 citations
+     https://doi.org/10.1099/jmm.0.001352
+     Matched: Methodology · cat /papers/PMC8289208/content.lines --lines 13
+     "Biofilm-forming *Pseudomonas aeruginosa* LPS was studied for its effect on macrophage polarization. This LPS induced hyperinflammatory responses and increased bacterial growth in macrophages compared to planktonic LPS."
+
+  11. A Global Picture of Molecular Changes Associated to LPS Treatment in THP-1 Derived Human Macrophages by Fourier Transform Infrared Microspectroscopy
+     Diletta Ami; Ana Rita Franco; Valentina Artusa; Paolo Mereghetti; Francesco Peri; Antonino Natalello
+     PMC9656053 · International Journal of Molecular Sciences · 2022-11-03 · 7 citations
+     https://doi.org/10.3390/ijms232113447
+     Matched: 1. Introduction · cat /papers/PMC9656053/content.lines --lines 10-12
+     "Fourier transform infrared microspectroscopy analyzed THP-1 derived macrophages treated with LPS. The study identified spectral markers in lipids, proteins, and sulfated sugars, highlighting their role in inflammation."
+
+  12. A polycomb group protein EED epigenetically regulates responses in lipopolysaccharide tolerized macrophages
+     Atsadang Boonmee; Salisa Benjaskulluecha; Patipark Kueanjinda; Benjawan Wongprom; Thitiporn Pattarak...
+     PMC11606203 · PMC · 2024-11-29 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11606203/
+     Matched: Loss of Eed, but not Ezh2, restrained inflammatory responses in LPS to · cat /papers/PMC11606203/content.lines --lines 66-68
+     "EED, a Polycomb group protein, epigenetically regulates LPS tolerance in macrophages by modifying histone marks. Loss of EED dampens pro-inflammatory responses and alters metabolic and signaling pathways during LPS tolerance."
+
+  13. LPS Tolerance Inhibits Cellular Respiration and Induces Global Changes in the Macrophage Secretome
+     Joseph Gillen; Thunnicha Ondee; Devikala Gurusamy; Jiraphorn Issara-Amphorn; Nathan P. Manes; Sung H...
+     PMC7918892 · Biomolecules · 2021-01-27 · 59 citations
+     https://doi.org/10.3390/biom11020164
+     Matched: 3.1. LPS-Tolerant Macrophages Decrease Cellular Respiration · cat /papers/PMC7918892/content.lines --lines 34-35
+     "This study investigated metabolic and secretome changes in macrophages during LPS tolerance induction. LPS tolerance significantly reduces cellular metabolism and alters secreted proteins towards cell survival and metabolism."
+
+  14. Exosomal miR-148a-3p from LPS-Activated Macrophages Promotes M1 Polarization and Ferroptosis-Related Characteristics of Recipient Macrophages by Reducing SLC7A11
+     Jun Liang; Yingli Cai; Yiming Shao
+     PMC13199726 · Infection and Drug Resistance · 2026-05-20 · 0 citations
+     https://doi.org/10.2147/IDR.S590998
+     Matched: LPS Induces M1 Polarization and Inflammatory Response in RAW264.7 Macr · cat /papers/PMC13199726/content.lines --lines 100-101
+     "Gram-negative bacterial infection is a major cause of severe inflammatory disorders and cellular damage, with lipopolysaccharide (LPS) as a key pathogenic trigger. Macrophages are central players in L"
+
+  15. Mathematical modelling of activation-induced heterogeneity reveals cell state transitions underpinning macrophage responses to LPS
+     S. Dey, D. Boucher, J. W. Pitchford, D. Lagos *
+     bio_206e5a356c66 · bioRxiv · 2021-09-19 · 0 citations (all versions)
+     Published (2021): https://doi.org/10.1101/2021.09.19.461010
+     Matched: Macrophage community AIH is dependent on LPS dose · cat /papers/bio_206e5a356c66/content.lines --lines 42-45
+     │ Figure 1: Macrophage community AIH is dependent on LPS dose A. Flow cytometry gating to show
+     │ 16 sub-populations determined based on TNF, IL-6, pro-IL-1b and NOS2. B. Pie charts
+     │ represent the community composition at 16 hours post stimulus with the indicated doses of
+     │ LPS for RAW264.7. Data representative of three independent experiments. Next, we explored
+     │ AIH in BMDMs, a cell model more faithfully capturing heterogeneity of primary macrophages.
+     │ As in the case of RAW264.7 cells, exposure to LPS induced population heterogeneity in BMDMs
+     │ albeit with different kinetics to that observed in RAW264.7 cells (compare Figure 2 with
+     │ Figure 1B ). Whereas all populations were observed at 16h (12h …
+     "This study mathematically models macrophage responses to LPS, analyzing single-cell protein expression. Macrophage hypo-responsiveness to secondary LPS challenges is driven by altered transition rates to non-responsive states."
+
+  16. Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyromonas endodontalis, Induces Macrophage M1 Profile
+     Pablo Veloso; Alejandra Fernández; Jessica Astorga; David González-Quintanilla; Alfredo Castro; Alej...
+     PMC9456100 · International Journal of Molecular Sciences · 2022-09-02 · 16 citations
+     https://doi.org/10.3390/ijms231710011
+     Matched: 5. Conclusions · cat /papers/PMC9456100/content.lines --lines 70-73
+     │ In summary, P. gingivalis LPS induces a macrophage polarization profile predominantly
+     │ towards M1, similarly, although less evidently, than that generated by E. coli LPS, based on
+     │ their cell surface markers and secreted cytokines. On the other hand, P. endodontalis LPS
+     │ did not cause a clear immune response in THP-1 macrophages. P. gingivalis and P.
+     │ endodontalis LPS stimulation did not induce TLR2 or TLR4 levels changes in THP-1
+     │ macrophages. These data suggest that macrophage polarization towards M1 during AP
+     │ progression might be associated with the LPS burden of specific pathogens, such as P
+     │ gingivalis. Figure 1: Representative silver-stained Tris-Tricine gels of P. gingivalis and
+     │ P. …
+     "This study investigated the effects of lipopolysaccharides from *Porphyromonas gingivalis* and *Porphyromonas endodontalis* on macrophage polarization. *P. gingivalis* LPS induced an M1 macrophage profile, while *P. endodontalis* LPS did not."
+
+  17. LPS combined with CD47mAb enhances the anti‑osteosarcoma ability of macrophages
+     Peng Yuan; Yukang Que; Yulei Liu; Peng He; Zehao Guo; Yong Hu
+     PMC10091190 · Oncology Letters · 2023-03-28 · 1 citation
+     https://doi.org/10.3892/ol.2023.13777
+     Matched: Effect of LPS and CD47mAb on macrophage activation · cat /papers/PMC10091190/content.lines --lines 52
+     "This study investigated the combined effect of LPS and CD47mAb on macrophage anti-osteosarcoma activity. The combination significantly enhanced macrophage phagocytosis, suppressed tumor growth and migration, and promoted apoptosis."
+
+  18. RETRACTION: Epinephrine Enhances the Response of Macrophages under LPS Stimulation
+     BioMed Research International
+     PMC13261286 · BioMed Research International · 2026-06-12 · 0 citations
+     https://doi.org/10.1155/bmri/9864769
+
+  19. A novel role for myeloid endothelin-B receptors in hypertension
+     Alicja Czopek; Rebecca Moorhouse; Léa Guyonnet; Tariq Farrah; Olivia Lenoir; Elizabeth Owen; Job van...
+     PMC6396028 · PMC · 2019-01-17 · 39 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6396028/
+     Matched: Macrophages possess endothelin receptors but are not polarized by endo · cat /papers/PMC6396028/content.lines --lines 32
+     │ BMDM stimulation with LPS/INFγ (but not IL-4/IL-13) increased the media concentration of
+     │ ET-1 at 24 h (see Supplementary material online, Figure S7), an effect that was blocked by
+     │ phosphoramidon, an inhibitor of endothelin converting enzyme (ECE) which catalyzes the
+     │ conversion of big ET-1 to the mature peptide. Thus, this increase in ET-1 likely represents
+     │ de novo production.
+     "Myeloid endothelin-B receptors were studied for their role in hypertension. These receptors are crucial for myeloid cells to clear endothelin-1, and their deficiency exacerbates hypertension."
+
+  20. Progranulin inhibits LPS-induced macrophage M1 polarization via NF-кB and MAPK pathways
+     Lianlian Liu; Hongmei Guo; Aimei Song; Jiahui Huang; Yu Zhang; Shanshan Jin; Shutong Li; Liguo Zhang...
+     PMC7275413 · BMC Immunology · 2020-06-05 · 282 citations
+     https://doi.org/10.1186/s12865-020-00355-y
+     Matched: Effect of LPS on macrophage M1 polarization and PGRN expression · cat /papers/PMC7275413/content.lines --lines 25-26
+     │ After stimulated by 100 <ng/ml LPS or normal medium for 24 <h, LPS-stimulated RAW264.7 cells
+     │ showed significantly higher expression of CD86, the special surface phenotype marker of M1,
+     │ than negative control (Fig. 1a, b). In addition, mRNA and protein expression of iNOS and
+     │ TNF-α, the special functional markers for M1, and secretion of TNF-α also significantly
+     │ increased (Fig. 1c, d, e, f). Interestingly, compared to the control, LPS stimulation for 24
+     │ or 48 <h significantly down-regulated PGRN expression both in gene and protein expression
+     │ (Fig. 1g, i, j) and its secretion was also significantly decreased after 48 <h stimulation
+     │ (Fig. 1h). This suggests that PGRN may be involved in …
+     "Progranulin was studied for its effect on LPS-induced macrophage M1 polarization. Progranulin inhibits M1 polarization by suppressing NF-κB and MAPK pathways."
+
+  21. miR-379-5p serves as a biomarker and regulates sepsis-associated acute kidney injury via targeting EDN1
+     Xiaoyu Wang; Hongdong Li; Xianfeng Yu; Mengmeng Li
+     PMC13483658 · PMC · 2026-08-03 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13483658/
+     Matched: miR-379-5p mediates LPS-induced HK-2 through EDN1 · cat /papers/PMC13483658/content.lines --lines 138-139
+     │ The transfection efficiency of EDN1 was shown in Fig. 4A (P < 0.001). There was no
+     │ statistically significant difference between these two groups in terms of EDN1 levels (Fig.
+     │ 4A), cell viability (Fig. 4B), or inflammatory factor expression (Fig. 4C) between the LPS +
+     │ miR-379-5p group and the LPS + miR-379-5p + ovNC group. Overexpression of EDN1 can reverse
+     │ the protective effect of miR-379-5p overexpression on LPS-induced HK-2, inhibit cell
+     │ viability (P = 0.030, Fig. 4B), and promote the concentration of inflammatory factors (Fig.
+     │ 4C). Fig. 4: miR-379-5p regulates LPS-induced HK-2 cell viability and inflammation factors
+     │ by targeting EDN1. A Transfection efficiency of EDN1. B CCK-8 was used …
+     "Sepsis-associated acute kidney injury (SA-AKI) is a serious complication for sepsis patients, and microRNA (miRNA) is involved in its occurrence and development. This study investigated the clinical v"
+
+  22. Erlotinib protests against LPS-induced parthanatos through inhibiting macrophage surface TLR4 expression
+     Qiong Xue; Xiaolei Liu; Cuiping Chen; Xuedi Zhang; Pengyun Xie; Yupin Liu; Shuangnan Zhou; Jing Tang
+     PMC8290014 · Cell Death Discovery · 2021-07-16 · 25 citations
+     https://doi.org/10.1038/s41420-021-00571-4
+     Matched: TLR4 receptor is required for LPS-induced parthanatos · cat /papers/PMC8290014/content.lines --lines 28-29
+     "Erlotinib was studied for its effect on LPS-induced parthanatos in macrophages. The drug inhibited parthanatos by reducing macrophage surface TLR4 expression."
+
+  23. Mathematical modelling of activation-induced heterogeneity in TNF, IL6, NOS2, and IL1β expression reveals cell state transitions underpinning macrophage responses to LPS
+     Shoumit Dey; Dave Boucher; Jon Pitchford; Dimitris Lagos
+     PMC9411976 · Wellcome Open Research · 2022-07-25 · 2 citations
+     https://doi.org/10.12688/wellcomeopenres.17557.2
+     Matched: Macrophage community AIH is dependent on LPS dose · cat /papers/PMC9411976/content.lines --lines 78-79
+     │ Figure 2.: Macrophage community AIH kinetics for BMDMs. Pie charts represent the community
+     │ composition at 8, 12 and 16 hours post stimulus with the indicated doses of LPS for BMDMs.
+     │ BMDMs are pre-gated on Live/Singlets/FSC-SSC/CD11b+F4/80+ population. Data representative of
+     │ three independent experiments. Overall, our findings indicated that exposure to LPS induced
+     │ population heterogeneity in macrophage communities for both a macrophage cell line (RAW264.7
+     │ cells) and primary BMDMs. As expected, cell-type specific differences were observed with
+     │ BMDM responses occurring and peaking faster and reaching a plateau at lower LPS
+     │ concentrations. These could be linked to differential sensitivity to …
+     "Mathematical models explored macrophage states and their responses to LPS. Macrophage hypo-responsiveness to a second LPS challenge is driven by altered transition rates between activation states."
+
+  24. Lipopolysaccharide regulation of antiinflammatory tristetraprolin family and proinflammatory gene expression in mouse macrophages
+     Heping Cao
+     PMC10949775 · BMC Research Notes · 2024-03-19 · 4 citations
+     https://doi.org/10.1186/s13104-024-06743-6
+     Matched: Effect of LPS on cell toxicity · cat /papers/PMC10949775/content.lines --lines 33-44
+     │ Macrophage viability was measured with MTT assay after cells were treated with the bacterial
+     │ endotoxin LPS. RAW macrophage viability was increased by 10–35% after cells were treated
+     │ with a range of concentrations of LPS up to 1000 ng/mL for 24 h (Table 2). MTT assay is a
+     │ colorimetric assay for assessing cell metabolic activity based on NAD(P)H-dependent cellular
+     │ oxidoreductase reducing the tetrazolium dye MTT to its insoluble formazan. These results
+     │ suggest that LPS was not toxic and slightly increased cellular activity under 24 h
+     │ treatment. Table 2: LPS effect on the viability of mouse macrophages LPS concentration;
+     │ (ng/mL) | A570nm ± SD (2 h); (%) | A570nm ± SD (24 h); (%) 0 | 100.0 ± 4.4 …
+     "Lipopolysaccharide (LPS) was studied for its effects on tristetraprolin (TTP) family and proinflammatory gene expression in mouse macrophages. LPS increased TTP, TNF, and COX2 mRNA but had minimal impact on other TTP homologues and proinflammatory cytokine genes."
+
+  25. Nlrp3, Csf3, and Edn1 in Macrophage Response to Saturated Fatty Acids and Modified Low-Density Lipoprotein
+     Harin Youk; Miso Kim; Chan Joo Lee; Jaewon Oh; Sungha Park; Seok-Min Kang; Jeong-Ho Kim; Soo-jin Ann...
+     PMC7779813 · Korean Circulation Journal · 2020-08-25 · 9 citations
+     https://doi.org/10.4070/kcj.2020.0117
+     Matched: Validation of the role of  Edn1  in macrophage activation by minimally · cat /papers/PMC7779813/content.lines --lines 55-56
+     │ Edil3 | 2.33 | Nr4a1 | 5.14 C1pc | 2.21 | Tnfsf9 | 4.52
+     "This study investigated how palmitate and modified LDL affect macrophage inflammatory responses. These agents promote macrophage activation and gene expression, with TLR4 signaling being a key pathway."
+
+[6.0s, saved to s_665b0f34]
+
+💡 Extract data across these results with: map --from s_665b0f34 "your question"
+[6.0s, saved to s_665b0f34]  [repo: mva-lof-molecular]
+

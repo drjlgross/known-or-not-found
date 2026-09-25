@@ -1,0 +1,159 @@
+Map results  [m_268490d1]
+Query: Does this paper describe the expression of the gene Hcar2 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).
+
+--- [1] [success] Constitutive Androstane Receptor in Macrophages Regulates Toll‐Like Receptor 4‐Mediated Innate Immune Responses Against Endotoxemic Liver Injury ---
+doc_id: PMC12622418
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [2] [success] Comparative Study of The Effect of LPS on The Function of BALB/c and C57BL/6 Peritoneal Macrophages ---
+doc_id: PMC3660024
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [3] [success] The orientation of choroidal macrophage polarization significantly influences the development of myopia in murine models ---
+doc_id: bio_b06931d16f63
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [4] [success] Hydroxycarboxylic acid receptor 2 (HCAR2/GPR109A) expression and signaling promotes the maintenance of an immunoinhibitory retinal environment ---
+doc_id: bio_24b6555f70b8
+{"answer": "no", "evidence": ""}
+
+--- [5] [success] Motif prediction to distinguish LPS-stimulated pro-inflammatory vs. antibacterial macrophage genes ---
+doc_id: PMC2949756
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [6] [success] Transcriptional profiling of the LPS induced NF-κB response in macrophages ---
+doc_id: PMC1781469
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [7] [success] Lipopolysaccharide preconditioning augments the antibacterial activity of renal macrophages and ameliorates acute kidney injury caused by Staphylococcus aureus bacteremia in mice ---
+doc_id: PMC12035103
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [8] [success] Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC6543837
+{"answer": "no", "evidence": ""}
+
+--- [9] [success] Histone deacetylase 2 is essential for LPS‐induced inflammatory responses in macrophages ---
+doc_id: PMC7379312
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [10] [success] LncRNA HOTAIR regulates lipopolysaccharide-induced cytokine expression and inflammatory response in macrophages ---
+doc_id: PMC6199307
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [11] [success] Dysregulation of macrophage lipid metabolism underlies intracellular bacterial neuroinvasion ---
+doc_id: PMC13253848
+{"answer": "no", "evidence": ""}
+
+--- [12] [success] HCX3 Mitigates LPS-Induced Inflammatory Responses in Macrophages by Suppressing the Activation of the NF-κB Signaling Pathway ---
+doc_id: PMC12562522
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [13] [success] Mathematical modelling of activation-induced heterogeneity in TNF, IL6, NOS2, and IL1β expression reveals cell state transitions underpinning macrophage responses to LPS ---
+doc_id: PMC9411976
+{"answer": "no", "evidence": ""}
+
+--- [14] [success] Anti-inflammatory and polarization-modulating effects of Houttuynia cordata in LPS-stimulated RAW264.7 macrophages ---
+doc_id: PMC12957811
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [15] [success] LPS combined with CD47mAb enhances the anti‑osteosarcoma ability of macrophages ---
+doc_id: PMC10091190
+{"answer": "no", "evidence": ""}
+
+--- [16] [success] Lipopolysaccharide uptake is augmented in lipopolysaccharide‐tolerant mouse macrophage‐like cells via increased CD14 expression ---
+doc_id: PMC13398632
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [17] [success] Progranulin inhibits LPS-induced macrophage M1 polarization via NF-кB and MAPK pathways ---
+doc_id: PMC7275413
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [18] [success] Macrophage-Specific Coxsackievirus and Adenovirus Receptor Deletion Enhances Macrophage M1 Polarity in CVB3-Induced Myocarditis ---
+doc_id: PMC10049483
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [19] [success] LPS Tolerance Inhibits Cellular Respiration and Induces Global Changes in the Macrophage Secretome ---
+doc_id: PMC7918892
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [20] [success] Activated niacin receptor HCA2 inhibits chemoattractant-mediated macrophage migration via Gβγ/PKC/ERK1/2 pathway and heterologous receptor desensitization ---
+doc_id: PMC5301212
+{
+  "answer": "yes",
+  "evidence": "We found that proinflammatory stimulants LPS, IL-6 and IL-1\u0322 up-regulated the expression of HCA2 on macrophages."
+}
+
+--- [21] [success] Mathematical modelling of activation-induced heterogeneity reveals cell state transitions underpinning macrophage responses to LPS ---
+doc_id: bio_206e5a356c66
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [22] [success] The Regulatory Roles of Ezh2 in Response to Lipopolysaccharide (LPS) in Macrophages and Mice with Conditional Ezh2 Deletion with LysM-Cre System ---
+doc_id: PMC10049283
+{"answer": "no", "evidence": ""}
+
+--- [23] [success] Effect of Human Umbilical Vein Endothelial Cells on Immune Responses of Lipopolysaccharide-Induced THP1 Macrophages ---
+doc_id: PMC6144854
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [24] [success] HCAR2 the rescue: sensing heme, steering inflammation ---
+doc_id: PMC12413307
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [25] [success] Macrophage subsets exhibit distinct E. coli-LPS tolerisable cytokines associated with the negative regulators, IRAK-M and Tollip ---
+doc_id: PMC6533032
+{
+  "answer": "no",
+  "evidence": ""
+}

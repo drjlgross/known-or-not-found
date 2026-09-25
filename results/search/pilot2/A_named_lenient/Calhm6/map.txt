@@ -1,0 +1,181 @@
+$ src/pc.sh map --from s_d1b51908 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}}} Does this paper describe the expression of the gene Calhm6 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_e926c6bc
+
+  ✓ Calhm6 Governs Macrophage Polarization Through Chp1‐Camk4‐Creb1 Axis a
+    PMC12766987 · 1571ms
+    {
+      "answer": "yes",
+      "evidence": "Additionally, in mouse BMDMs treated with Escherichia coli, Staphylococcus aureus, Candida albicans, or LPS, Calhm6 expression was significantly elevated after 24 h (Figure S1H, Supporting Information)."
+    }
+
+  ✓ HDAC6 Deacetylase Activity Is Critical for Lipopolysaccharide-Induced 
+    PMC4199742 · 1230ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 863ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(
+    PMC7053374 · 866ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Macrophages release neuraminidase and cleaved calreticulin for program
+    PMC12130849 · 906ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Epigenetic profile in lipopolysaccharide-stimulated macrophages
+    PMC3953056 · 820ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ The ion channel CALHM6 controls bacterial infection‐induced cellular c
+    PMC10068325 · 1531ms
+    {
+      "answer": "yes",
+      "evidence": "Both LPS and IFN-\u0393 upregulated CALHM6, with high and sustained levels of CALHM6 expression induced by IFN-\u0393, while LPS‐induced expression was lower and transient over 48 h (L22)."
+    }
+
+  ✓ Store-operated calcium entry facilitates LPS-induced superoxide anion-
+    PMC12308322 · 1418ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Resolving macrophage polarization through distinct Ca2+ entry channel 
+    PMC8591423 · 1065ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Ionized calcium‐binding adaptor molecule 1 positive macrophages and HO
+    PMC5484384 · 955ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Monocyte normal immune response to LPS stimulation
+    PMC3333514 · 755ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Inhibition of Extracellular Calcium Influx Results in Enhanced IL-12 P
+    PMC4904125 · 1027ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Structure and assembly of calcium homeostasis modulator proteins
+    PMC7015811 · 962ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Correction to “Calhm6 Governs Macrophage Polarization Through Chp1‐Cam
+    PMC13383683 · 815ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Microglial Calhm2 regulates neuroinflammation and contributes to Alzhe
+    PMC8386937 · 1020ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Baicalin Modulates Inflammatory Response of Macrophages Activated by L
+    PMC9563021 · 1035ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ CTRP6 promotes the macrophage inflammatory response, and its deficienc
+    PMC10789631 · 918ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Moutan Cortex Extract Modulates Macrophage Activation via Lipopolysacc
+    PMC9916843 · 805ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ miR-106a Targets Anoctamin 1 (ANO1) to Regulate Lipopolysaccharide (LP
+    PMC7556292 · 958ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Dietary targeting of TRPM8 rewires macrophage immunometabolism reducin
+    PMC12032354 · 991ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Osteocalcin Alleviates Lipopolysaccharide-Induced Acute Inflammation v
+    PMC9138386 · 1053ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Calcitonin Peptide Family Members Are Differentially Regulated by LPS 
+    PMC5063294 · 1019ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Mitochondrial Calcium Nanoregulators Reverse the Macrophage Proinflamm
+    PMC10046163 · 1040ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Selection of reliable reference genes for the normalisation of gene ex
+    PMC5627409 · 1162ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Calcium Signaling in Macrophages During a Wound Response In Vivo
+    PMC13206805 · 1075ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[24.1s, saved to m_e926c6bc]
+
+  [####................]  5/25 papers  run m_e926c6bc  [2s]
+  [########............]  11/25 papers  run m_e926c6bc  [4s]
+  [#########...........]  12/25 papers  run m_e926c6bc  [6s]
+  [###############.....]  19/25 papers  run m_e926c6bc  [12s]
+  [##################..]  23/25 papers  run m_e926c6bc  [14s]
+  [####################]  25/25 papers  run m_e926c6bc  [18s]
+

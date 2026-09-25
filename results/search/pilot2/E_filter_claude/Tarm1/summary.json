@@ -1,0 +1,21 @@
+{
+  "gene": "Tarm1",
+  "query": "Tarm1 (T cell-interacting, activating receptor on myeloid cells 1) LPS macrophage",
+  "also": [],
+  "mode": "filter",
+  "strict": false,
+  "question": "Does this paper describe the expression of the gene Tarm1 changing in response to LPS or bacterial infection?",
+  "date": "2026-09-24T22:58:28Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_fed93e8a",
+  "judge_id": "s_fed93e8a",
+  "parent_n": 25,
+  "yes": 0,
+  "downgraded": 0,
+  "no": 25,
+  "paper_errors": 0,
+  "seconds_search": 1.5,
+  "seconds_judge": 1.5,
+  "seconds_total": 3.0
+}

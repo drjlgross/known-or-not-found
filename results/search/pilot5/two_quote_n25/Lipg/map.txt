@@ -1,0 +1,194 @@
+$ src/pc.sh map --from s_232ac6d0 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Lipg (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_7fcccaef
+
+  ✓ LIPG is a novel prognostic biomarker and correlated with immune infilt
+    PMC9833968 · 1140ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Regulatory roles of bioactive lipids in vascular homeostasis and remod
+    PMC12955355 · 1395ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ LIPG‐promoted lipid storage mediates adaptation to oxidative stress in
+    PMC6618071 · 1209ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Endothelial Lipase: A New Risk Factor for Atherosclerosis?
+    PMC1316069 · 1046ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Endothelial lipase facilitates low-density lipoprotein (LDL) uptake in
+    bio_c6ad2160 · 1642ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ A host lipase prevents lipopolysaccharide-induced foam cell formation
+    PMC8426562 · 1007ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Angiopoietin like protein 3 regulates low-density lipoprotein transpor
+    bio_81ee9438 · 1177ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Inhibition of LIPG phospholipase activity suppresses tumor formation o
+    PMC7265491 · 1039ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Analysis of the transcriptional networks underpinning the activation o
+    PMC4378362 · 1215ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Which is the Best Predictor for the Development of Atherosclerosis Amo
+    PMC6753242 · 1587ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Population-Based Resequencing of LIPG and ZNF202 Genes in Subjects wit
+    PMC3375090 · 1068ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Mining the LIPG Allelic Spectrum Reveals the Contribution of Rare and 
+    PMC3234219 · 2043ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Effects of activation on lipoprotein lipase secretion by macrophages. 
+    PMC2188426 · 1115ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Effect of Interactions Between Endothelial Lipase Gene Polymorphisms a
+    PMC12326425 · 928ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ FoxA and LIPG endothelial lipase control the uptake of extracellular l
+    PMC4822041 · 953ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Lipopolysaccharide-mediated macrophage polarization, conserved pathoge
+    PMC13372918 · 1465ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ LIPG endothelial lipase and breast cancer risk by subtypes
+    PMC8129130 · 1138ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Expression analysis of G Protein-Coupled Receptors in mouse macrophage
+    PMC2394514 · 922ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Lipid Metabolism in Inflammation and Immune Function
+    PMC9002396 · 910ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ A Global Picture of Molecular Changes Associated to LPS Treatment in T
+    PMC9656053 · 1631ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ LIPG supports adaption to oxidative stress
+    PMC6694707 · 1464ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ ZDHHC1 downregulates LIPG and inhibits colorectal cancer growth via IG
+    PMC11405259 · 1695ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ NCBP2 drives colorectal cancer growth and metastasis through LIPG-medi
+    PMC13172313 · 1117ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Increased expression of endothelial lipase in symptomatic and unstable
+    PMC3296002 · 900ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Genetic and Structure-Function Studies of Missense Mutations in Human 
+    PMC3607615 · 2090ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[23.6s, saved to m_7fcccaef]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  0/25 papers  run m_7fcccaef  [2s]
+  [#######.............]  9/25 papers  run m_7fcccaef  [4s]
+  [############........]  15/25 papers  run m_7fcccaef  [6s]
+  [#################...]  22/25 papers  run m_7fcccaef  [8s]
+  [##################..]  23/25 papers  run m_7fcccaef  [10s]
+  [###################.]  24/25 papers  run m_7fcccaef  [14s]
+  [####################]  25/25 papers  run m_7fcccaef  [17s]
+  [####################]  25/25 papers  run m_7fcccaef  [23s]
+

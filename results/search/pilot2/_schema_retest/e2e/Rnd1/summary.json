@@ -1,0 +1,21 @@
+{
+  "gene": "Rnd1",
+  "query": "Rnd1 (Rho family GTPase 1) LPS macrophage",
+  "also": [],
+  "mode": "map",
+  "strict": true,
+  "question": "Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Rnd1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes in response to LPS or bacterial infection? Answer yes or no. If yes, quote the sentence reporting that result; it must name the gene or its protein. Use an empty string if no.",
+  "date": "2026-09-25T12:22:58Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_4c1e99c1",
+  "judge_id": "m_e75034f7",
+  "parent_n": 25,
+  "yes": 1,
+  "downgraded": 0,
+  "no": 24,
+  "paper_errors": 0,
+  "seconds_search": 3.7,
+  "seconds_judge": 26.5,
+  "seconds_total": 30.2
+}

@@ -1,0 +1,276 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Hcar2 LPS macrophage
+# exit 0
+Found 25 papers  [s_8b34d3ac]
+
+  1. Constitutive Androstane Receptor in Macrophages Regulates Toll‐Like Receptor 4‐Mediated Innate Immune Responses Against Endotoxemic Liver Injury
+     Renjie Cao; Tingting Zhao; Ying Wang; Shaofei Song; Yuan Li; Mengling Hou; Yanxin Zhang; Sengpeng Wo...
+     PMC12622418 · PMC · 2025-08-18 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12622418/
+     Matched: CAR Activation Reduces Proinflammatory Macrophages and Attenuates Infl · cat /papers/PMC12622418/content.lines --lines 25-26
+     │ Since the inflammatory effects of LPS on the liver are initiated primarily by macrophages,
+     │ we next examined the modulatory effects of CAR activation on macrophage phenotype and
+     │ function in vitro. Murine macrophage RAW264.7 cells and BMDMs were pretreated with TCP and
+     │ then incubated with LPS (Figure 3A,C). The expression of CYP2B10, UGT1A1, and SULT2A1 was
+     │ increased after TCP treatment, suggesting successful activation of CAR in macrophages
+     │ (Figure S2C, Supporting Information). The results showed that TCP treatment reduced the
+     │ proportions of CD86+ and iNOS+ cells (Figure 3B,D; Figure S2A,B,E,F, Supporting Information)
+     │ and decreased the fluorescence intensity of CD86 and iNOS in RAW264.7 …
+     "Constitutive androstane receptor (CAR) in macrophages was studied for its role in endotoxemic liver injury. CAR activation in macrophages suppresses Toll-Like Receptor 4 (TLR4) signaling, reducing liver inflammation and damage."
+
+  2. Comparative Study of The Effect of LPS on The Function of BALB/c and C57BL/6 Peritoneal Macrophages
+     Sara Soudi; Ahmad Zavaran-Hosseini; Zuhair Muhammad Hassan; Masoud Soleimani; Fatemeh Jamshidi Adega...
+     PMC3660024 · Cell Journal (Yakhteh) · 2013-05-05
+     Matched: Introduction · cat /papers/PMC3660024/content.lines --lines 18-19
+     "Peritoneal macrophages from BALB/c and C57BL/6 mice were stimulated with LPS to compare their responses. Different mouse strains exhibit distinct cytokine profiles and functional activities when exposed to LPS."
+
+  3. The orientation of choroidal macrophage polarization significantly influences the development of myopia in murine models
+     Jing Hou, Shin-ichi Ikeda, Kiwako Mori, Heonuk Jeong, Hidemasa Torii, Kazuno Negishi, Kazuo Tsubota ...
+     bio_b06931d16f63 · bioRxiv · 2023-06-12 · 1 citation (all versions)
+     Published (2023): https://doi.org/10.1101/2023.06.12.544445
+     Matched: LPS treatment · cat /papers/bio_b06931d16f63/content.lines --lines 60
+     │ Lipopolysaccharides from Escherichia coli O111:B4 (Merck, Tokyo, Japan) were dissolved in
+     │ PBS and injected intraperitoneally to induce systemic M1 macrophage polarization. The
+     │ concentration of LPS was 10 mg/ml, and the injection dose was increased proportionally to
+     │ the body weight of the mice, with 10 μg of LPS given per gram of mice. Since LPS injections
+     │ caused a large reduction in mouse weight, we monitored and documented the mouse body weight
+     │ before each injection. In addition, a corresponding volume of PBS was injected
+     │ intraperitoneally as a vehicle control.
+     "Choroidal macrophages were studied for their role in myopia development. Their polarization towards M1 or M2 phenotypes significantly influences choroidal thickness and myopia progression."
+
+  4. Hydroxycarboxylic acid receptor 2 (HCAR2/GPR109A) expression and signaling promotes the maintenance of an immunoinhibitory retinal environment
+     Folami L. Powell, Amany Tawfik, Pachiappan Arjunan, Deeksha Gambhir Chopra, Mohamed Al-Shabrawey, Na...
+     bio_24b6555f70b8 · bioRxiv · 2021-03-15 · 2 citations (all versions)
+     Published (2021): https://doi.org/10.1101/2021.03.15.435493
+     Matched: Lipopolysaccharide (LPS)-induced uveitis · cat /papers/bio_24b6555f70b8/content.lines --lines 56
+     │ Acute inflammation was induced in wildtype and HCAR2/GPR109A knockout mice (male, age 6
+     │ weeks) using LPS ( Salmonella typhimurium , 4 mg/kg) ( Catorce and Gevorkian 2016 ).
+     │ Wildtype and HCAR2/GPR109A knockout mice were injected intraperitoneally with PBS or
+     │ β-hydroxybutyrate (BHB, 300mg/kg) once daily for three consecutive days. On day 4, LPS (4
+     │ mg/kg) was administered intraperitoneally in conjunction with PBS or with BHB (300 mg/kg)
+     │ and, 24 h later some animals were subjected to leukostasis assay (as described below) and,
+     │ others were sacrificed and eyes enucleated and processed for FACS analyses, also as
+     │ described below.
+     "HCAR2/GPR109A expression was studied in retinal cells and its role in immune regulation investigated. HCAR2/GPR109A activation promotes an immunoinhibitory retinal environment, potentially protecting against degenerative diseases."
+
+  5. Motif prediction to distinguish LPS-stimulated pro-inflammatory vs. antibacterial macrophage genes
+     Rahul K Kollipara; Narayanan B Perumal
+     PMC2949756 · Immunome Research · 2010-09-21 · 5 citations
+     https://doi.org/10.1186/1745-7580-6-5
+     Matched: Classification of antibacterial and pro-inflammatory macrophage genes · cat /papers/PMC2949756/content.lines --lines 18-20
+     "This study analyzed gene expression patterns in LPS-stimulated macrophages to identify pro-inflammatory and antibacterial genes. It found distinct transcription factor binding site motifs associated with each gene set, helping to distinguish their regulatory mechanisms."
+
+  6. Transcriptional profiling of the LPS induced NF-κB response in macrophages
+     Omar Sharif; Viacheslav N Bolshakov; Stephanie Raines; Peter Newham; Neil D Perkins
+     PMC1781469 · BMC Immunology · 2007-01-12 · 447 citations
+     https://doi.org/10.1186/1471-2172-8-1
+     Matched: Analysis of LPS-induced gene expression in the THP-1 macrophage cell l · cat /papers/PMC1781469/content.lines --lines 26
+     "This study profiled gene expression in macrophages after LPS exposure. LPS induced a dynamic, time-dependent transcriptional response, with THP-1 cells closely mimicking primary macrophages."
+
+  7. Lipopolysaccharide preconditioning augments the antibacterial activity of renal macrophages and ameliorates acute kidney injury caused by Staphylococcus aureus bacteremia in mice
+     Keiko Tanoue; Manabu Kinoshita; Bradley M Kearney; Seigo Ito; Hiroyasu Goto; Aoi Yamashiro; Tsugumi ...
+     PMC12035103 · Innate Immunity · 2025-04-17 · 1 citation
+     https://doi.org/10.1177/17534259251335770
+     Matched: LPS preconditioning did not alter TLR2 expression on BMDM or TRM in th · cat /papers/PMC12035103/content.lines --lines 80-81
+     "Lipopolysaccharide preconditioning was studied for its effects on renal macrophages and acute kidney injury in mice infected with *Staphylococcus aureus*. Preconditioning enhanced renal macrophage antibacterial activity, reducing bacterial growth and ameliorating kidney injury."
+
+  8. Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni, Yanal Ghosheh, Akula Bala Pramod, Klaus Ley
+     PMC6543837 · Frontiers in Immunology · 2019-05-24 · 1909 citations
+     https://doi.org/10.3389/fimmu.2019.01084
+     Matched: Introduction · cat /papers/PMC6543837/content.lines --lines 14-15
+     "This study compared gene expression in *in vivo* M1/M2 macrophages with *in vitro* classically/alternatively activated macrophages. The findings indicate that *in vivo* M1/M2 polarization is not equivalent to *in vitro* activation states."
+
+  9. Histone deacetylase 2 is essential for LPS‐induced inflammatory responses in macrophages
+     Chenming Wu; Ang Li; Jian Hu; Jiuhong Kang
+     PMC7379312 · Immunology and Cell Biology · 2018-10-31 · 52 citations
+     https://doi.org/10.1111/imcb.12203
+     Matched: BMM adoptive transfer, LPS challenge and bacterial sepsis model · cat /papers/PMC7379312/content.lines --lines 61
+     "Histone deacetylase 2 (HDAC2) is essential for LPS-induced inflammatory responses in macrophages. HDAC2 regulates these responses by deacetylating c-Jun, which then represses pro-inflammatory gene transcription."
+
+  10. LncRNA HOTAIR regulates lipopolysaccharide-induced cytokine expression and inflammatory response in macrophages
+     Monira Obaid; S. M. Nashir Udden; Paromita Deb; Nadine Shihabeddin; Md. Hasan Zaki; Subhrangsu S. Ma...
+     PMC6199307 · Scientific Reports · 2018-10-23 · 106 citations
+     https://doi.org/10.1038/s41598-018-33722-2
+     Matched: Cell culture and treatment with Lipopolysaccharide (LPS) · cat /papers/PMC6199307/content.lines --lines 12
+     │ Mouse macrophage RAW264.7 cells were obtained from American Type Cell Culture Collection,
+     │ and cultured in Dulbecco’s modified Eagle’s medium (DMEM; Sigma-Aldrich, St. Louis, MO)
+     │ supplemented with 10% heat-inactivated FBS (Fetal bovine serum), 2 mM L-glutamine, 100
+     │ units/mL penicillin and 0.1 mg/mL streptomycin in a humidified incubator with 5% CO2 and 95%
+     │ air at 37 °C[58]. 2 × 106 cells were seeded in 60 mm cell culture plates and after overnight
+     │ culture cells were treated with ultrapure E.coli-derived LPS (Invivogen) at 1.0 μg/mL
+     │ concentration for different time periods[58]. Notably, this concentration of LPS has been
+     │ widely used in various other laboratories to induce immune and …
+     "LncRNA HOTAIR's role in LPS-induced inflammation in macrophages was studied. HOTAIR promotes NF-κB activation and cytokine expression by facilitating IκBα degradation."
+
+  11. Dysregulation of macrophage lipid metabolism underlies intracellular bacterial neuroinvasion
+     Zhou Sha; Kun Yang; Shoupeng Fu; Xiaoyong Tong; Hui Yang; Huiling Fang; Qianqian He; Ning Li; Xinyu ...
+     PMC13253848 · PMC · 2026-04-14 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13253848/
+     Matched: BHB promotes the survival of macrophages via HCAR2-mediated calcium in · cat /papers/PMC13253848/content.lines --lines 49-50
+     │ Because the foamy stage appears to be a terminal point of macrophage differentiation[47], we
+     │ wondered whether, in addition to converting peritoneal macrophages to the foamy phenotype,
+     │ cell survival also contributed to the increase in absolute quantity of CD36+ macrophages
+     │ induced by BHB treatment. The HCAR2+/+ and HCAR2−/− macrophages were isolated and infected
+     │ with L. monocytogenes (MOI = 10) for 6 h, and then the cells were washed with PBS containing
+     │ gentamicin to eliminate extracellular bacteria. Immunofluorescence was then performed to
+     │ verify intracellular bacterial localization and to confirm comparable infection efficiency
+     │ across groups, showing that approximately 83–89% of …
+     "Acute central nervous system infection is highly lethal, yet the mechanisms by which intracellular bacteria infiltrate the brain remain unclear. Phagocytes are central to host defense, but how infecte"
+
+  12. HCX3 Mitigates LPS-Induced Inflammatory Responses in Macrophages by Suppressing the Activation of the NF-κB Signaling Pathway
+     Qianyi Wu; Jiyuan Shi; Luojin Wu; Lingxi Li; Yong Ling; Liming Mao; Jie Zhang
+     PMC12562522 · Current Issues in Molecular Biology · 2025-10-01 · 2 citations
+     https://doi.org/10.3390/cimb47100809
+     Matched: 3.2. The Effect of HCX3 on Cell Viability of Macrophages · cat /papers/PMC12562522/content.lines --lines 43
+     "HCX3, a novel canthin-6-one derivative, was studied for its effects on LPS-induced inflammation in macrophages. HCX3 suppressed pro-inflammatory mediator release and NF-κB pathway activation, suggesting therapeutic potential for acute lung injury."
+
+  13. Mathematical modelling of activation-induced heterogeneity in TNF, IL6, NOS2, and IL1β expression reveals cell state transitions underpinning macrophage responses to LPS
+     Shoumit Dey; Dave Boucher; Jon Pitchford; Dimitris Lagos
+     PMC9411976 · Wellcome Open Research · 2022-07-25 · 2 citations
+     https://doi.org/10.12688/wellcomeopenres.17557.2
+     Matched: Macrophage community AIH is dependent on LPS dose · cat /papers/PMC9411976/content.lines --lines 78-79
+     │ Figure 2.: Macrophage community AIH kinetics for BMDMs. Pie charts represent the community
+     │ composition at 8, 12 and 16 hours post stimulus with the indicated doses of LPS for BMDMs.
+     │ BMDMs are pre-gated on Live/Singlets/FSC-SSC/CD11b+F4/80+ population. Data representative of
+     │ three independent experiments. Overall, our findings indicated that exposure to LPS induced
+     │ population heterogeneity in macrophage communities for both a macrophage cell line (RAW264.7
+     │ cells) and primary BMDMs. As expected, cell-type specific differences were observed with
+     │ BMDM responses occurring and peaking faster and reaching a plateau at lower LPS
+     │ concentrations. These could be linked to differential sensitivity to …
+     "Mathematical models explored macrophage states and their responses to LPS. Macrophage hypo-responsiveness to a second LPS challenge is driven by altered transition rates between activation states."
+
+  14. Anti-inflammatory and polarization-modulating effects of Houttuynia cordata in LPS-stimulated RAW264.7 macrophages
+     Kuo-Liang Huang; Mei-Chen Yang; Yao-Kuang Wu; Meng-Jiun Wei; Hsiu-Fan Kang; Guan-Ting Liu; Chan-Yen ...
+     PMC12957811 · Journal of Traditional and Complementary Medicine · 2025-05-27 · 3 citations
+     https://doi.org/10.1016/j.jtcme.2025.05.001
+     Matched: HC attenuates M1 surface marker expression in LPS-stimulated RAW264.7  · cat /papers/PMC12957811/content.lines --lines 68-69
+     │ To evaluate the effect of HC on macrophage polarization, we first examined macrophage
+     │ surface marker expression. CD80(−)/CD163(−) macrophages were the predominant macrophages in
+     │ the control and HC groups (Fig. 5A). Compared with that in the control group, the percentage
+     │ of CD80(+)/CD163(−) RAW264.7 macrophages in the group treated with LPS was greater (Fig.
+     │ 5B). However, compared with LPS alone, pretreatment with HC followed by LPS stimulation and
+     │ posttreatment with HC after LPS stimulation caused a decreased percentage of
+     │ CD80(+)/CD163(−) macrophages and an increased percentage of CD80(−)/CD163(+) macrophages.
+     │ This trend of variation in surface marker expression was more pronounced in the …
+     "Houttuynia cordata extract reduces inflammatory cytokine production and modulates key signaling pathways in LPS-stimulated macrophages. It also shifts macrophages towards an anti-inflammatory phenotype, particularly when administered after inflammation begins. These findings suggest therapeutic potential for inflammatory diseases."
+
+  15. LPS combined with CD47mAb enhances the anti‑osteosarcoma ability of macrophages
+     Peng Yuan; Yukang Que; Yulei Liu; Peng He; Zehao Guo; Yong Hu
+     PMC10091190 · Oncology Letters · 2023-03-28 · 1 citation
+     https://doi.org/10.3892/ol.2023.13777
+     Matched: Effect of LPS and CD47mAb on macrophage activation · cat /papers/PMC10091190/content.lines --lines 52
+     "This study investigated the combined effect of LPS and CD47mAb on macrophage anti-osteosarcoma activity. The combination significantly enhanced macrophage phagocytosis, suppressed tumor growth and migration, and promoted apoptosis."
+
+  16. Lipopolysaccharide uptake is augmented in lipopolysaccharide‐tolerant mouse macrophage‐like cells via increased CD14 expression
+     Saeka Nishihara; Takayuki Manabe; Mika Jouta; Kiyoshi Kawasaki
+     PMC13398632 · PMC · 2026-04-26 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13398632/
+     Matched: LPS endocytosis is enhanced in LPS‐tolerant RAW264.7 cells compared wi · cat /papers/PMC13398632/content.lines --lines 48-49
+     "Lipopolysaccharide (LPS) tolerance can be recognized as a modulation of innate immune responses rather than merely a hyporesponsiveness to LPS, with CD14 being crucial for both LPS uptake and LPS sign"
+
+  17. Progranulin inhibits LPS-induced macrophage M1 polarization via NF-кB and MAPK pathways
+     Lianlian Liu; Hongmei Guo; Aimei Song; Jiahui Huang; Yu Zhang; Shanshan Jin; Shutong Li; Liguo Zhang...
+     PMC7275413 · BMC Immunology · 2020-06-05 · 282 citations
+     https://doi.org/10.1186/s12865-020-00355-y
+     Matched: Effect of LPS on macrophage M1 polarization and PGRN expression · cat /papers/PMC7275413/content.lines --lines 25-26
+     │ After stimulated by 100 <ng/ml LPS or normal medium for 24 <h, LPS-stimulated RAW264.7 cells
+     │ showed significantly higher expression of CD86, the special surface phenotype marker of M1,
+     │ than negative control (Fig. 1a, b). In addition, mRNA and protein expression of iNOS and
+     │ TNF-α, the special functional markers for M1, and secretion of TNF-α also significantly
+     │ increased (Fig. 1c, d, e, f). Interestingly, compared to the control, LPS stimulation for 24
+     │ or 48 <h significantly down-regulated PGRN expression both in gene and protein expression
+     │ (Fig. 1g, i, j) and its secretion was also significantly decreased after 48 <h stimulation
+     │ (Fig. 1h). This suggests that PGRN may be involved in …
+     "Progranulin was studied for its effect on LPS-induced macrophage M1 polarization. Progranulin inhibits M1 polarization by suppressing NF-κB and MAPK pathways."
+
+  18. Macrophage-Specific Coxsackievirus and Adenovirus Receptor Deletion Enhances Macrophage M1 Polarity in CVB3-Induced Myocarditis
+     Ha-Hyeon Shin; Eun-Seok Jeon; Byung-Kwan Lim
+     PMC10049483 · International Journal of Molecular Sciences · 2023-03-10 · 10 citations
+     https://doi.org/10.3390/ijms24065309
+     Matched: 2.1. CAR Expression Was Increased in LPS and TNF-α Stimulated Macropha · cat /papers/PMC10049483/content.lines --lines 16
+     "This study investigated the role of CAR in macrophages during CVB3 myocarditis. Deleting CAR in macrophages increased M1 polarization and myocarditis severity, while reducing type I interferon production."
+
+  19. LPS Tolerance Inhibits Cellular Respiration and Induces Global Changes in the Macrophage Secretome
+     Joseph Gillen; Thunnicha Ondee; Devikala Gurusamy; Jiraphorn Issara-Amphorn; Nathan P. Manes; Sung H...
+     PMC7918892 · Biomolecules · 2021-01-27 · 59 citations
+     https://doi.org/10.3390/biom11020164
+     Matched: 3.1. LPS-Tolerant Macrophages Decrease Cellular Respiration · cat /papers/PMC7918892/content.lines --lines 34-35
+     "This study investigated metabolic and secretome changes in macrophages during LPS tolerance induction. LPS tolerance significantly reduces cellular metabolism and alters secreted proteins towards cell survival and metabolism."
+
+  20. Activated niacin receptor HCA2 inhibits chemoattractant-mediated macrophage migration via Gβγ/PKC/ERK1/2 pathway and heterologous receptor desensitization
+     Ying Shi; Xiangru Lai; Lingyan Ye; Keqiang Chen; Zheng Cao; Wanghua Gong; Lili Jin; Chunyan Wang; Mi...
+     PMC5301212 · PMC · 2017-02-10 · 37 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5301212/
+     Matched: LPS-induced acute endotoxemia in mice · cat /papers/PMC5301212/content.lines --lines 56-57
+     │ Animals were housed in the Laboratory Animal Center of Zhejiang University. Hca2−/− mice
+     │ were obtained by intercrossing Hca2+/− mice. Genotyping of the Hca2 alleles was performed by
+     │ PCR using the primers Hca2-sense-1(5′-TCA GAT CTG ACT CGT CCA CC-3′) and 333-KO (5′-CCT CTT
+     │ CGC TAT TAC GCC AGC-3′) for the inactivated allele and the primers Hca2-sense-1 and 333-WT
+     │ (5′-CCA TTG CCC AGG AGT CCG AAC-3′) for the wild-type allele as previous reported[12]. For
+     │ entoxemia, 4–6 week-old Hca2 KO (C57BL) and WT (C57BL) mice were used. Mice were divided
+     │ into three groups (n = 8–12 each group): saline gavage with saline injection, saline gavage
+     │ with LPS (10 mg/kg) injection and niacin (200 mg/kg) gavage …
+     "Activated niacin receptor HCA2 was studied in macrophages to understand its role in inflammation. Niacin inhibits macrophage migration via Gβγ/PKC/ERK1/2 signaling and receptor desensitization, protecting against septic shock."
+
+  21. Mathematical modelling of activation-induced heterogeneity reveals cell state transitions underpinning macrophage responses to LPS
+     S. Dey, D. Boucher, J. W. Pitchford, D. Lagos *
+     bio_206e5a356c66 · bioRxiv · 2021-09-19 · 0 citations (all versions)
+     Published (2021): https://doi.org/10.1101/2021.09.19.461010
+     Matched: Macrophage community AIH is dependent on LPS dose · cat /papers/bio_206e5a356c66/content.lines --lines 42-45
+     │ Figure 1: Macrophage community AIH is dependent on LPS dose A. Flow cytometry gating to show
+     │ 16 sub-populations determined based on TNF, IL-6, pro-IL-1b and NOS2. B. Pie charts
+     │ represent the community composition at 16 hours post stimulus with the indicated doses of
+     │ LPS for RAW264.7. Data representative of three independent experiments. Next, we explored
+     │ AIH in BMDMs, a cell model more faithfully capturing heterogeneity of primary macrophages.
+     │ As in the case of RAW264.7 cells, exposure to LPS induced population heterogeneity in BMDMs
+     │ albeit with different kinetics to that observed in RAW264.7 cells (compare Figure 2 with
+     │ Figure 1B ). Whereas all populations were observed at 16h (12h …
+     "This study mathematically models macrophage responses to LPS, analyzing single-cell protein expression. Macrophage hypo-responsiveness to secondary LPS challenges is driven by altered transition rates to non-responsive states."
+
+  22. The Regulatory Roles of Ezh2 in Response to Lipopolysaccharide (LPS) in Macrophages and Mice with Conditional Ezh2 Deletion with LysM-Cre System
+     Areerat Kunanopparat; Asada Leelahavanichkul; Peerapat Visitchanakun; Patipark Kueanjinda; Pornpimol...
+     PMC10049283 · International Journal of Molecular Sciences · 2023-03-10 · 13 citations
+     https://doi.org/10.3390/ijms24065363
+     Matched: 4.4. Bone-Marrow-Derived Macrophages and Extracellular Flux Analysis · cat /papers/PMC10049283/content.lines --lines 46
+     "This study investigated the role of Ezh2 in macrophage responses to LPS. Loss of Ezh2 in macrophages leads to less severe LPS-induced inflammation and reduced LPS tolerance."
+
+  23. Effect of Human Umbilical Vein Endothelial Cells on Immune Responses of Lipopolysaccharide-Induced THP1 Macrophages
+     Zhou-Xin Yang; Dong-Yang Guo; An-Bang Wei; Cai-Bao Hu; Mo-Lei Yan; Guo-Long Cai
+     PMC6144854 · Chinese Medical Journal · 2018-09-20 · 2 citations
+     https://doi.org/10.4103/0366-6999.240795
+     Matched: cat /papers/PMC6144854/content.lines --lines 10-11
+     │ LPS is a component of the outer cell wall of Gram-negative bacteria, which can be recognized
+     │ by immune cells such as macrophages. It induces cytokine production. The present study
+     │ explored whether cytokine production induced by LPS was further affected by HUVECs. As shown
+     │ in Figure 1a, HUVECs cocultured with LPS-induced THP1 macrophages showed enhanced IL-1β,
+     │ TNF-α, IL-6, IL-10, and IL-12 production compared with LPS-induced THP1 macrophages alone (P
+     │ < 0.01). HUVECs cocultured with THP1 macrophages without LPS also showed higher
+     │ concentrations of these cytokines compared with THP1 macrophages alone. The expression of
+     │ IL-1β, TNF-α, IL-6, IL-10, and IL-12 mRNA in THP-1 macrophages was …
+
+  24. HCAR2 the rescue: sensing heme, steering inflammation
+     Yunfeng Liu; Karina Yazdanbakhsh
+     PMC12413307 · PMC · 2025-09-01 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12413307/
+     Matched: cat /papers/PMC12413307/content.lines --lines 6-8
+     │ In this issue of Blood Advances, Grunenwald et al[1] have identified hydroxycarboxylic acid
+     │ receptor 2 (HCAR2), a G-protein–coupled receptor (GPCR), as a novel receptor for cell-free
+     │ heme in the context of sickle cell disease (SCD), thereby revealing a new axis of heme
+     │ sensing with anti-inflammatory potential. Their study adds an important layer to our
+     │ understanding of how the body regulates the toxic and inflammatory effects of heme that is
+     │ released during intravascular hemolysis. SCD, a monogenic disorder, is caused by a mutation
+     │ in the β-globin gene, which leads to the production of red blood cells that are prone to
+     │ hemolysis and thus the release of free hemoglobin and heme. Cell-free …
+
+  25. Macrophage subsets exhibit distinct E. coli-LPS tolerisable cytokines associated with the negative regulators, IRAK-M and Tollip
+     Khalid Al-Shaghdali; Barbara Durante; Christopher Hayward; Jane Beal; Andrew Foey
+     PMC6533032 · PLoS ONE · 2019-05-23 · 14 citations
+     https://doi.org/10.1371/journal.pone.0214681
+     Matched: E. coli K12-LPS differentially tolerises macrophage subset cytokines · cat /papers/PMC6533032/content.lines --lines 55
+     "This study investigated endotoxin tolerance mechanisms in M1 and M2 macrophage subsets using *E. coli* K12-LPS. *E. coli* K12-LPS differentially tolerizes macrophage subsets at the anti-inflammatory cytokine level, linked to distinct negative regulators."
+
+[3.5s, saved to s_8b34d3ac]
+
+💡 Extract data across these results with: map --from s_8b34d3ac "your question"
+[3.5s, saved to s_8b34d3ac]  [repo: mva-lof-molecular]
+

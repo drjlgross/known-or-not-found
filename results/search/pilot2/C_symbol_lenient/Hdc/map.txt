@@ -1,0 +1,160 @@
+$ src/pc.sh map --from s_50b538fb --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}}} Does this paper describe the expression of the gene Hdc (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_edf952a2
+
+  ✓ HDAC6 Deacetylase Activity Is Critical for Lipopolysaccharide-Induced 
+    PMC4199742 · 897ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Histone deacetylase 2 is essential for LPS‐induced inflammatory respon
+    PMC7379312 · 967ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Histone Deacetylation Inhibitors as Therapy Concept in Sepsis
+    PMC6359123 · 994ms
+    {
+      "answer": "yes",
+      "evidence": "In bone-marrow-derived macrophages, Aung et al. found that LPS regulates pro-inflammatory gene expression in macrophages by altering histone deacetylase expression [57]."
+    }
+
+  ✓ Histone deacetylase 7 mediates lipopolysaccharide-inducible mitochondr
+    PMC12539210 · 988ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Inhibitory Effects of Ginsenoside Compound K on Lipopolysaccharide-Sti
+    PMC10096759 · 825ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ HDAC3 Mediates the Inflammatory Response and LPS Tolerance in Human Mo
+    PMC7573361 · 1175ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Myeloid-specific Hdac10 deletion protects against LPS-induced acute lu
+    PMC11221109 · 1311ms
+    {
+      "answer": "yes",
+      "evidence": "Our findings revealed an obvious increase of HDAC10 mRNA levels in LPS-exposed ALI mice lung tissues compared to those of normal controls (Fig. 1A)."
+    }
+
+  ✓ Histone deacetylase 2 (HDAC2) attenuates lipopolysaccharide (LPS)-indu
+    PMC5763578 · 1193ms
+    {"answer": "yes", "evidence": "L25: RAW264.7 cells transfected with HDAC2 showed around a 1.5-fold increase in HDAC2 protein expression, when compared to the cells transfected with the vector control (Fig. 2a). HDAC2 repressed LPS-induced secretion of PAI-1, TNF, and MIP-2 (Fig. 2b-d), but increased uPA secretion (Fig. 2e)."}
+
+  ✓ Dichotomous Engagement of HDAC3 Activity Governs Inflammatory Response
+    PMC7725280 · 1103ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Expression of Histidine Decarboxylase and Its Roles in Inflammation
+    PMC6359378 · 1599ms
+    {
+      "answer": "yes",
+      "evidence": "Stimulation of RAW 264 cells with a toll-like receptor 4 stimulant lipopolysaccharide (LPS) or chemical stimulants, such as the calcium-ATPase inhibitor thapsigargin and the protein kinase C activator 12-O-tetradecanoylphorbol 13-acetate, increased histamine levels in the conditioned medium. This increase was associated with HDC expression."
+    }
+
+  ✓ Sympathetic signaling activation alleviated acute respiratory distress
+    PMC13493966 · 997ms
+    {
+      "answer": "yes",
+      "evidence": "Volcano plot highlighting upregulation of HDC after NE treatment."
+    }
+
+  ✓ HDAC2 mediates the activation of macrophage in sepsis induced lung inj
+    PMC12395717 · 1511ms
+    {"answer": "yes", "evidence": "Subsequent authors: \"For in vitro experiments, lipopolysaccharide (LPS)-induced macrophages were employed to model SLI.\" \"Furthermore, western blot analysis confirmed that protein expression of HDAC2 was upregulated in the lung tissue of CLP mice and in macrophages following LPS treatment\" (L9, L54)"}
+
+  ✓ Histone deacetylase 9 deficiency exaggerates uterine M2 macrophage pol
+    PMC8358884 · 1064ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Lactobacillus rhamnosus HDB1258 modulates gut microbiota-mediated immu
+    PMC8120827 · 1632ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Degradation of histone deacetylase 4 via the TLR4/JAK/STAT1 signaling 
+    PMC6026695 · 985ms
+    {
+      "answer": "yes",
+      "evidence": "As shown Fig. 3A, the protein expression of HDAC4 decreased in a time-dependent manner after LPS treatment, which was reversed by MG132, a proteasome inhibitor (Fig. 3B), suggesting that LPS treatment enhanced HDAC4 loss by proteasome-dependent degradation."
+    }
+
+  ✓ HDAC3 promotes macrophage pyroptosis via regulating histone deacetylat
+    PMC10316655 · 1252ms
+    {"answer": "yes", "evidence": "As shown in Figures 1A and 1B, compared with the baseline status, both the protein and mRNA expression levels of HDAC3 were obviously increased in lung tissues from LPS-treated mice."}
+
+  ✓ Comparative Study of The Effect of LPS on The Function of BALB/c and C
+    PMC3660024 · 1163ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Histone deacetylase 5 regulates the inflammatory response of macrophag
+    PMC4568921 · 1440ms
+    {"answer": "yes", "evidence": "Toll-like receptor-mediated stimulation of murine RAW264.7 cells significantly reduced HDAC5 mRNA within 7 hrs but presented baseline levels after 24 hrs, a mechanism that was also found for Interferon-\u0393 treatment. If treated with lipopolysaccharide, RAW264.7 cells transfected for over-expression only of full-length but not of mutant HDAC5, significantly elevated secretion of tumour necrosis factor \u0311 and of the monocyte chemotactic protein-1."}
+
+  ✓ Lipopolysaccharide from biofilm-forming Pseudomonas aeruginosa PAO1 in
+    PMC8289208 · 989ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide-mediated macrophage polarization, conserved pathoge
+    PMC13372918 · 905ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LPS mediates cuproptosis and inflammation in THP-1 macrophages through
+    PMC12748187 · 1162ms
+    {"answer": "yes", "evidence": "We found that LPS promoted the expressions of inflammatory factors and decreased cuproptosis levels in THP-1-derived macrophages while also activating glycolysis and inducing the expression of HKDC1 via the Toll-like receptor 4 (TLR4) receptor."}
+
+  ✓ Phenotypic and Functional Heterogeneity of Low-Density and High-Densit
+    PMC8147777 · 867ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Induction of unique macrophage subset by simultaneous stimulation with
+    PMC10167635 · 1081ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide-induced expansion of histidine decarboxylase-expres
+    PMC6821885 · 1277ms
+    {
+      "answer": "yes",
+      "evidence": "Quantitative RT-PCR analysis demonstrated that the endogenous Hdc mRNA level was increased 6.1-fold in the lung at 4 hours after LPS administration (L33)."
+    }
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 861ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[16.1s, saved to m_edf952a2]
+
+  [####................]  5/25 papers  run m_edf952a2  [2s]
+  [#############.......]  17/25 papers  run m_edf952a2  [4s]
+  [####################]  25/25 papers  run m_edf952a2  [6s]
+

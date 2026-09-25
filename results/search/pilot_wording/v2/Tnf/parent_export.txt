@@ -1,0 +1,3 @@
+$ src/pc.sh results s_c637c8b7 --save /Users/julia/known-or-not-found/results/search/pilot_wording/v2/Tnf/parent.csv
+# exit 0
+  ✓ Saved 25 papers to /Users/julia/known-or-not-found/results/search/pilot_wording/v2/Tnf/parent.csv

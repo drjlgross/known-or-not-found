@@ -1,0 +1,1594 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv --bool --ranking bm25 --full-text -n 500 ("Hcar2" OR "hydroxycarboxylic acid receptor 2" OR "PUMA-G" OR "HM74" OR "Pumag" OR "Gpr109b" OR "Gpr109a" OR "Niacr1") AND ("LPS" OR "lipopolysaccharide") AND "macrophage"
+# exit 0
+Found 166 papers (of 500 requested)  [s_429de313]
+
+  1. Ligilactobacillus Murinus and Lactobacillus Johnsonii Suppress Macrophage Pyroptosis in Atherosclerosis through Butyrate‐GPR109A‐GSDMD Axis
+     Rui Hua; Ning Ding; Yiming Hua; Xiaoke Wang; Yu Xu; Xiangrui Qiao; Xue Shi; Ting Bai; Ying Xiong; Xi...
+     PMC12520491 · PMC · 2025-07-29 · 27 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12520491/
+     Matched: Butyrate Inhibits Macrophage Pyroptosis through Activating GPR109A · cat /papers/PMC12520491/content.lines --lines 44-45
+     │ It is widely accepted that SCFAs regulate cellular biology mainly by activating their
+     │ natural receptors, including G protein‐coupled receptors 41, 43, and 109A (GPR41, GPR43, and
+     │ GPR109A),[ 22 ] or by inhibiting the activity of histone deacetylase (HDAC).[ 23 ] We then
+     │ set out to explore the downstream signaling pathways of butyrate in macrophages (Figure 7A).
+     │ Notably, both butyrate and agonists of GPR109A inhibited the expression of NLRP3 and IL‐1β
+     │ in LPS‐treated macrophages, while the HDAC inhibitor and GPR41/43 agonist did not induce
+     │ similar changes (Figure 7B). To further confirm which receptor was responsible for the
+     │ downstream effects mediated by butyrate, siRNAs targeting these …
+     "Ligilactobacillus murinus and Lactobacillus johnsonii were studied for their role in atherosclerosis. These probiotics suppress macrophage pyroptosis via a butyrate-GPR109A-GSDMD pathway."
+
+  2. Qingfei Tongluo Jiedu Formula Regulates M2 Macrophage Polarization via the Butyric Acid-GPR109A-MAPK Pathway for the Treatment of Mycoplasma pneumoniae Pneumonia
+     Zhilin Liu; Qiuyue Fan; Ruohan Sun; Yonghong Jiang
+     PMC12943385 · PMC · 2026-01-26 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12943385/
+     Matched: 3.3. Mechanism of MAPK Signaling Pathway Mediating Macrophage Polariza · cat /papers/PMC12943385/content.lines --lines 45
+     │ The butyric acid-GPR109A receptor can regulate MAPK, PI3K, mTOR, and other pathways. Among
+     │ them, MAPK is a group of evolutionarily conserved serine-threonine kinases that can be
+     │ classified into four subfamilies, each representing one of the four classical MAPK pathways
+     │ [50]. MAPK also plays a vital role in regulating systemic macrophage polarization [51,52].
+     │ In the locomotor system, osteoarthritis is aggravated by LPS and IFN-γ, which activate the
+     │ MAPK signaling pathway, including p-JNK, p-ERK, and p-P38, to increase the M1 phenotype
+     │ [53]. Simultaneously, ginsenoside (Kin) dose-dependently inhibits MAPK signaling, reducing
+     │ its activation and highly expressing CD206 and Arg-1, phenotypic …
+     "Qingfei Tongluo Jiedu formula treats Mycoplasma pneumoniae pneumonia by promoting M2 macrophage polarization. It increases butyric acid, activating the GPR109A-MAPK pathway to reduce inflammation. This mechanism alleviates the disease and offers a potential new therapeutic strategy."
+
+  3. Nicotinic Acid Receptor GPR109A Is Down-Regulated in Human Macrophage-Derived Foam Cells
+     Joshua T. Chai; Janet E. Digby; Neil Ruparelia; Andrew Jefferson; Ashok Handa; Robin P. Choudhury
+     PMC3642175 · PMC · 2013-05-02 · 20 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3642175/
+     Matched: NA Suppresses LPS-induced Transcription of Pro-inflammatory Mediators · cat /papers/PMC3642175/content.lines --lines 35-36
+     │ We first established the response to NA in basal state (i.e. non-foam cell) macrophages. The
+     │ TLR-4 agonist lipopolysaccharide (LPS) was used as an inflammatory stimulus. THP-1
+     │ macrophages were incubated with LPS (50 ng/mL) for 18 hours, followed by 1×10−4 M NA for 24
+     │ hours. Previous dose-response experiments (1×10−3 to 10−6 M) established optimal dosing of
+     │ NA and excluded detrimental effects on cell viability [24]. Pre-incubation with LPS
+     │ increased mRNA transcription of pro-inflammatory cytokines: MCP-1 by 80-fold (P<0.001, n = 3
+     │ per group); and TNFα by 10-fold (P<0.001, n = 3 per group) (Figure 1A). As we have
+     │ previously reported, NA treatment significantly attenuated this LPS-induced …
+     "This study investigated the role of nicotinic acid (NA) and its receptor GPR109A in macrophage-derived foam cells. GPR109A is down-regulated in foam cells, preventing NA from influencing cholesterol transport."
+
+  4. GPR109a-AMPK axis mediates the Attenuation of uric acid-induced M1 macrophage polarization by β-hydroxybutyrate from Lacticaseibacillus rhamnosus M2b
+     Manxi Du; Yi He; Yuqiu Zhu; Wujin Chen; Xiaoyu Chen; Dan Yang; Qingqing Yang; Bei Zhang; Yuping Sun
+     PMC13168670 · PMC · 2026-03-25 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13168670/
+     Matched: Introduction · cat /papers/PMC13168670/content.lines --lines 15-16
+     │ β-hydroxybutyrate (BHB), a derivative of SCFAs, has demonstrated a considerable reduction in
+     │ systemic inflammatory reactions generated by lipopolysaccharide (LPS)[12]. GPR109a is a G
+     │ protein-coupled receptor found in several immune cells, capable of modulating cellular
+     │ metabolism and inflammatory responses[13],[14]. Research indicates that GPR109a activation
+     │ can mitigate inflammatory disorders via AMP-activated protein kinase (AMPK)
+     │ phosphorylation[15],[16]. BHB, a non-specific GPR109a agonist, possesses well-defined
+     │ regulatory roles in endogenous ketone body metabolism[17],[18]. The role of probiotic-
+     │ derived BHB in modulating UA-induced macrophage M1 polarization through the same mechanism …
+     "Hyperuricemia (HUA) is a metabolic disorder characterized by elevated blood uric acid (UA) levels, closely associated with conditions such as gout. UA-induced macrophage M1 polarization fundamentally "
+
+  5. Ketone Body 3‐Hydroxybutyrate Ameliorates Atherosclerosis via Receptor Gpr109a‐Mediated Calcium Influx
+     Shu‐jie Zhang; Zi‐hua Li; Yu‐dian Zhang; Jin Chen; Yuan Li; Fu‐qing Wu; Wei Wang; Zong Jie Cui; Guo‐...
+     PMC8097358 · PMC · 2021-03-01 · 94 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8097358/
+     Matched: 3‐HB Suppresses M1 Polarization and Promotes Cholesterol Efflux via Gp · cat /papers/PMC8097358/content.lines --lines 36-37
+     │ As described in Figure 3, 3‐HB has been shown to inhibit M1 polarization and promote
+     │ cholesterol efflux in vivo. Further studies were conducted to investigate its underlying
+     │ molecular mechanism. 3‐HB has been reported to activate its endogenous receptor Gpr109a on
+     │ cell membranes among various cell signaling functions.[ 35 ] Given that 3‐HB was quickly
+     │ metabolized in vivo and that 3‐HB generated faster outcomes through Gpr109a,[ 36 ] it is
+     │ likely that 3‐HB exerted its protective role in atherosclerosis through activating Gpr109a
+     │ signaling rather than though other mechanisms requiring chromatin remodeling, especially
+     │ when Gpr109a is highly expressed in macrophages.[ 37 ] 3‐HB effectively …
+     "3-Hydroxybutyrate was studied for its effects on atherosclerosis in mice. It was found to ameliorate the condition by activating Gpr109a, inhibiting NLRP3 inflammasome activation, and promoting cholesterol efflux."
+
+  6. Niacin Ameliorates Neuro-Inflammation in Parkinson’s Disease via GPR109A
+     Banabihari Giri; Kasey Belanger; Marissa Seamon; Eric Bradley; Sharad Purohit; Raymond Chong; John C...
+     PMC6770365 · PMC · 2019-09-14 · 70 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6770365/
+     Matched: 5. Conclusions · cat /papers/PMC6770365/content.lines --lines 69-72
+     │ Figure 3: Effect of niacin on the expression of IL-6, TNF-α and IL-1β mRNA induced by LPS in
+     │ RAW264.7 macrophage cell line by PCR analysis. (A) Expression of IL-6, TNF-α and IL-1β
+     │ transcripts induced by LPS in the RAW264.7 macrophage cell line. Untreated cells (lane 1),
+     │ treated with 0.4 mM niacin (lane 2), LPS (lane 3) nd LPS in the presence of niacin (lane 4).
+     │ β-actin was used as an internal control. (B) Densitometric analysis showing the fold changes
+     │ in expression of IL-6, TNF-α and IL-1β transcripts after normalization with β-actin. Data
+     │ presented is Mean ± SD (n = 3). * p < 0.05. Figure 4: Knockdown of GPR109A protein
+     │ expression in RAW264.7 cells after transfection with GPR109A-specific …
+     "Niacin was studied for its anti-inflammatory effects on macrophage cells. Niacin reduces inflammation by inhibiting NF-κB translocation via its receptor GPR109A."
+
+  7. Propionate and butyrate attenuate macrophage pyroptosis and osteoclastogenesis induced by CoCrMo alloy particles
+     Yang-Lin Wu; Chen-Hui Zhang; Yun Teng; Ying Pan; Nai-Cheng Liu; Pei-Xin Liu; Xu Zhu; Xin-Lin Su; Jun...
+     PMC9396885 · PMC · 2022-08-23 · 78 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9396885/
+     Matched: Effects of C3 do not depend on G protein-coupled receptors or HDAC inh · cat /papers/PMC9396885/content.lines --lines 62-63
+     │ C3 and C4 are known as signal molecules that can bind and activate G protein-coupled
+     │ receptors (GPCRs) or act as a histone deacetylase (HDAC) inhibitor [41, 42]. We observed
+     │ that neither TSA nor another HDAC inhibitor, Panobinostat, inhibited inflammasome activation
+     │ or IL-1β secretion (Fig. 4a, b and Additional file 1: Fig. S5a). It has been suggested that
+     │ C3 could activate GPR41 and partially GPR43, while C4 mainly binds and activates GPR109A and
+     │ partially GPR41 [41]. Activation of GPR41 with the agonist AR420626, or of GPR43 with the
+     │ agonist 4-CMTB did not affect inflammasome activation or IL-1β release (Fig. 4a, b and
+     │ Additional file 1: Fig. S5a). However, niacin, a GPR109A agonist, had …
+     "Propionate and butyrate were tested for their effects on CoCrMo alloy particle-induced osteolysis. These SCFAs reduced osteolysis by inhibiting macrophage pyroptosis and osteoclastogenesis."
+
+  8. Analysis of the human monocyte-derived macrophage transcriptome and response to lipopolysaccharide provides new insights into genetic aetiology of inflammatory bowel disease
+     J. Kenneth Baillie; Erik Arner; Carsten Daub; Michiel De Hoon; Masayoshi Itoh; Hideya Kawaji; Timo L...
+     PMC5358891 · PMC · 2017-03-06 · 119 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5358891/
+     Matched: Inducible feedback inhibition of the LPS response · cat /papers/PMC5358891/content.lines --lines 43-44
+     │ Many proinflammatory genes encode short-lived mRNAs with AU-rich elements in their 3’UTR,
+     │ subject to degradation by the ZFP36 (tristetraprolin) gene product [62,67]. Two related
+     │ genes, ZFP36L1 and ZFP36L2, have also been implicated in control of mRNA stability in LPS-
+     │ stimulated mouse macrophages [68]. However, by contrast to mouse macrophages, in human MDM,
+     │ ZFP36 is repressed by CSF1 (compared to high levels in monocytes), and none of the ZFP36
+     │ family genes was highly-inducible by LPS. Instead, ZC3H12A, another gene encoding a novel
+     │ ribonuclease that controls stability of other inflammatory cytokine mRNAs, notably IL6 and
+     │ IL12p40 [69], was highly-induced by LPS, within a similar time course …
+     "Human monocyte-derived macrophages were profiled for gene expression changes in response to lipopolysaccharide. The study found that inflammatory bowel disease susceptibility loci are enriched for monocyte-specific genes regulated during differentiation and activation."
+
+  9. Colon-Targeted Trans-Cinnamic Acid Ameliorates Rat Colitis by Activating GPR109A
+     Changyu Kang; Jaejeong Kim; Sanghyun Ju; Heeyeong Cho; Hyun Young Kim; In-Soo Yoon; Jin-Wook Yoo; Yu...
+     PMC9865397 · PMC · 2022-12-22 · 18 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9865397/
+     Matched: 3.4. tCA Is an Agonist of GPR109A · cat /papers/PMC9865397/content.lines --lines 54
+     │ To investigate the molecular mechanism of the tCA-GA-mediated anti-colitic activity, we
+     │ determined whether tCA acts as an agonist of GPR109A. This hypothesis was based on the
+     │ structural similarity of tCA to the GPR109A agonist, butyric acid (Supplementary Data S5),
+     │ and the therapeutic benefits of GPR109A agonists in rat colitis [28,[30],31]. tCA was
+     │ subjected to a cell-based calcium mobilization assay using CHO/Gα16 cells stably transfected
+     │ with the GPR109A cDNA. NA, a full agonist of GPR109A, was used as the reference agonist. As
+     │ shown in Figure 4A, tCA increased calcium mobilization in a concentration-dependent manner,
+     │ and the activity of 2 mM tCA was equivalent to that of 10 µM NA. This …
+     "Colon-targeted trans-cinnamic acid conjugates were developed and tested in a rat colitis model. These conjugates effectively delivered trans-cinnamic acid to the colon, activating GPR109A and demonstrating superior anti-colitic effects compared to sulfasalazine."
+
+  10. Investigation of HCAR2 antagonists as a potential strategy to modulate bovine leukocytes
+     Laman K. Mamedova; Kirby C. Krogstad; Paiton O. McDonald; Laxman Pokhrel; Duy H. Hua; Evan C. Titgem...
+     PMC10916251 · PMC · 2024-03-06 · 6 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10916251/
+     Matched: Discussion · cat /papers/PMC10916251/content.lines --lines 68-70
+     │ Dampened immune cell response has been associated with several health disorders in dairy
+     │ cows. For instance, reduced neutrophil function is associated with greater risk of retained
+     │ placenta and metritis [41, 42] and depressed macrophage function may increase the risk of
+     │ clinical mastitis and interdigital dermatitis [43]. Therefore, inhibiting BHBA activation of
+     │ HCAR2 could improve leukocyte function and their capacity to respond to tissue injury or
+     │ pathogens. The fragment-based approach to drug discovery has been established as an
+     │ efficient tool in the search for new drugs, involving the construction of potent small-
+     │ molecule ligands from low-molecular mass fragment molecules [21]. In the …
+     "HCAR2 expression and function on bovine leukocytes were investigated. Antagonists of HCAR2 were found to alter leukocyte calcium mobilization and cyclic AMP responses."
+
+  11. Emerging roles of GPR109A in regulation of neuroinflammation in neurological diseases and pain
+     Kyle Taing; Lawrence Chen; Han-Rong Weng
+     PMC9700108 · PMC · 2022-09-16 · 40 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9700108/
+     Matched: History and the Pharmacological Features of GPR109A · cat /papers/PMC9700108/content.lines --lines 20-23
+     │ Macrophages (Knowles et al., 2006; Wakade et al., 2018) | Retinal pigment epithelial cells
+     │ (Martin et al., 2009) | Kidney podocytes (Felizardo et al., 2019) Monocytes (Liu et al.,
+     │ 2014) | Schwann cells (Boccella et al., 2019) | Mammary epithelial cells (Guo et al., 2021b)
+     │ Multinucleated osteoclasts (Chen et al., 2021) | Satellite cells (Boccella et al., 2019) |
+     │ Neutrophils (Kostylina et al., 2008) | |
+     "This review summarizes current data on GPR109A's role in neuroinflammation. GPR109A is highlighted as a potential therapeutic target for neurological diseases and pain by ameliorating neuroinflammation."
+
+  12. Structural insights into ligand recognition and selectivity of the human hydroxycarboxylic acid receptor HCAR2
+     Xin Pan; Fang Ye; Peiruo Ning; Zhiyi Zhang; Xinyu Li; Binghao Zhang; Qian Wang; Geng Chen; Wei Gao; ...
+     PMC10682194 · PMC · 2023-11-28 · 20 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10682194/
+     Matched: Introduction · cat /papers/PMC10682194/content.lines --lines 13-14
+     │ Hydroxycarboxylic acid receptor 2 (HCAR2), also known as GPR109A, is an important
+     │ metabolite-sensing receptor present in most mammalian species, and belongs to the class A G
+     │ protein-coupled receptor (GPCR) family[1]–[3]. HCAR2 is highly expressed in multiple cell
+     │ types (e.g., adipocytes, vascular endothelium, immune cells, retinal pigmented cells,
+     │ colonic epithelial cells, keratinocytes, and microglia) and mediates downstream signaling
+     │ transducers by coupling to the Gi/o family of G proteins[4],[5]. The endogenous ligands of
+     │ HCAR2 are β-hydroxybutyrate (β-OHB) and butyrate, both of which serve as nutrient sources
+     │ for cells under various physiological conditions[2],[6]. In particular, upon …
+     "Four cryo-EM structures of human HCAR2 with and without agonists reveal its ligand recognition mechanism. Key residues R111, S179, and Y284 define agonist pharmacophores and HCAR2/HCAR3 selectivity."
+
+  13. Hydroxycarboxylic Acid Receptor 2, a Pleiotropically Linked Receptor for the Multiple Sclerosis Drug, Monomethyl Fumarate. Possible Implications for the Inflammatory Response
+     Benedetta Parodi; Alessia Sanna; Alessia Cedola; Antonio Uccelli; Nicole Kerlero de Rosbo
+     PMC8167049 · PMC · 2021-05-18 · 20 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8167049/
+     Matched: DC Cultures and Treatments · cat /papers/PMC8167049/content.lines --lines 17-18
+     │ Bone marrow-derived DC (BM-DC) were isolated from femurs and tibias of 8-10-week-old
+     │ C57BL/6J WT mice as previously described (16). Briefly, at day 0, BM cells were flushed out
+     │ and the cell suspension was filtered through a 100-µm cell strainer (Becton–Dickinson) and
+     │ seeded (1 x 106 in 6-well plates) in RPMI (containing 10% fetal bovine serum (FBS), 1% non-
+     │ essential amino acids, 1% Na pyruvate, 1% penicillin/streptomycin) in the presence of
+     │ granulocyte macrophage colony-stimulating factor (20 ng/ml, Miltenyi). Half of the medium
+     │ was replaced on alternate days. At day 7, the purity of CD11c+ cells assessed by flow
+     │ cytometry with PE-conjugated anti-CD11c antibody (1:100, Biolegend cod. …
+     "Hydroxycarboxylic acid receptor 2 (HCAR2) mediates monomethyl fumarate's diverse effects on cell activation and inflammation. In the gut, DMF treatment alters dendritic cell migration and profile, potentially impacting inflammation despite not worsening EAE-induced morphological changes."
+
+  14. HIF-α signaling regulates the macrophage inflammatory response during Leishmania major infection
+     Lucy G. Fry; Charity L. Washam; Hayden Roys; Anne K. Bowlin; Gopinath Venugopal; Jordan T. Bird; Ste...
+     PMC11969800 · PMC · 2025-03-21 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11969800/
+     Matched: Results · cat /papers/PMC11969800/content.lines --lines 98-118
+     │ Figure 3: Inflammation related transcriptomic changes are both HIF-α dependent and
+     │ independent. Macrophages were infected or infected and treated with LPS/IFNγ and prepped for
+     │ subsequent analysis utilizing RNASeq. (A, B) An MD plot illustrates transcriptomic changes
+     │ during infection and stimulation with LPS/IFNγ in HIF-α competent (ARNTf/+ PI vs. ARNTf/+P)
+     │ and HIF-α deficient macrophages (ARNTf/f PI vs. ARNTf/f P). Here the PI indicates parasites
+     │ and inflammatory stimuli, LPS/IFNγ, and P describes parasite infection alone. Red dots
+     │ identify upregulated transcripts and blue dots identify downregulated transcripts. (C, D)
+     │ Enriched pathways were identified using KEGG analysis for both …
+     "This study investigated macrophage HIF-α signaling during *Leishmania major* infection. HIF-α suppresses protein translation in macrophages during infection within a pro-inflammatory environment."
+
+  15. Lachnospiraceae-derived butyrate mediates protection of high fermentable fiber against placental inflammation in gestational diabetes mellitus
+     Shuangbo Huang; Jianzhao Chen; Zhijuan Cui; Kaidi Ma; Deyuan Wu; Jinxi Luo; Fuyong Li; Wenyu Xiong; ...
+     PMC10624355 · PMC · 2023-11-03 · 169 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10624355/
+     Matched: Butyrate alleviates gut barrier impairment and placental inflammation  · cat /papers/PMC10624355/content.lines --lines 47
+     │ G protein–coupled receptor 109A (GPR109A) is an important mediator of butyrate (34), so we
+     │ hypothesized that GPR109A can mediate the role of butyrate in regulating gut barrier,
+     │ placental inflammation, and subsequent anti-GDM (fig. S11A). The presence of a specific
+     │ inhibitor of GPR109A [mepenzolate bromide (MPN)] was shown to partially reverse the effects
+     │ of butyrate on reducing serum FITC flux, serum LPS, placental LPS levels, and increasing
+     │ tight junction protein expression (fig. S11, B to E). Moreover, MPN could partially abolish
+     │ the protective effect of butyrate on placental inflammation associated with placental immune
+     │ dysfunction (macrophage infiltration and M1 macrophage polarization) …
+     "High fermentable fiber reduces placental inflammation in gestational diabetes by increasing Lachnospiraceae and butyrate. This mechanism improves gut barrier function and reduces bacterial toxin transfer, ameliorating pregnancy outcomes."
+
+  16. HCAR2 is a novel receptor for heme∗
+     Anne Grunenwald; Julie Peliconi; Alessandra Zarantonello; Jordan D. Dimitrov; Lubka T. Roumenina; Ni...
+     PMC12410535 · PMC · 2025-05-13 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12410535/
+     Matched: Discussion · cat /papers/PMC12410535/content.lines --lines 68-69
+     │ Proinflammatory stimuli such as lipopolysaccharide, interleukin-6, and interleukin-1β are
+     │ known to upregulate HCAR2 expression in macrophages.[36] Given that heme-induced TLR4
+     │ signaling, similar to lipopolysaccharide stimulation, promotes inflammatory responses, this
+     │ mechanism may contribute to the upregulation of HCAR2 in hemolytic conditions. In vivo
+     │ models of heme overload here similarly exhibited increased Hcar2 expression in the liver and
+     │ kidney, which reproduced the effect of injection of cell-free heme or blocking of HO-1.
+     │ Analysis of public data sets suggests that Kupffer cells express HCAR2 under basal
+     │ condition, and we demonstrate that ECs can upregulate this receptor upon …
+     "HCAR2 was identified as a receptor for heme. Heme triggers HCAR2 expression in mice with SCD and intravascular hemolysis, regulated by HO-1."
+
+  17. A high-calorie diet exacerbates lipopolysaccharide-induced pneumonia by promoting acetate-mediated macrophage polarization via the HDAC9/10–HIF-1α–glycolysis axis
+     Qianqian Li; Hui Liu; Chen Bai; Lin Jiang; Chen Su; Xueying Qin; Tiegang Liu; Xiaohong Gu
+     PMC12510825 · PMC · 2025-09-26 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12510825/
+     Matched: Acetate reduction caused by a high-calorie diet mainly affects HDAC 9  · cat /papers/PMC12510825/content.lines --lines 88-89
+     │ Our study found that acetate could drive changes in the lung macrophage phenotype whereas
+     │ acetate mainly carries out its effects via GPCR activation and HDAC inhibition (24, 25). To
+     │ investigate how a high-calorie diet-induced acetate decrease affects lung macrophage
+     │ phenotypic changes, we isolated lung macrophages by flow cytometry and measured major GPCRs
+     │ (GPR41, GPR43, GPR109A) and all canonical HDACs (HDAC1–11). We found that Gpr43 mRNA levels
+     │ were increased in lung tissue macrophages in GP group mice after acetate supplementation (
+     │ Figure 5B ); however, this was not statistically significant. There was no significant
+     │ change in Gpr41 and Gpr109a mRNA levels ( Figures 5A, C ), and Hdacs …
+     "A high-calorie diet worsens pneumonia by disrupting gut microbiota, reducing acetate, and promoting M1 macrophage polarization via the HDAC9/10–HIF-1α–glycolysis axis. Acetate supplementation reverses this imbalance, suggesting a therapeutic target."
+
+  18. Ketogenesis acts as an endogenous protective programme to restrain inflammatory macrophage activation during acute pancreatitis
+     Li Zhang; Juanjuan Shi; Dan Du; Ningning Niu; Shiyu Liu; Xiaotong Yang; Ping Lu; Xuqing Shen; Na Shi...
+     PMC8960978 · PMC · 2022-03-25 · 51 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8960978/
+     Matched: βOHB limits proinflammatory macrophage activation via class I HDACs · cat /papers/PMC8960978/content.lines --lines 127-128
+     │ Notably, the inhibitory effect of βOHB on proinflammatory macrophage activation was
+     │ independent of its known receptors HCAR2 and FFAR3 (Fig. S5a–c). Furthermore, GSEA showed
+     │ that genes affected by βOHB were positively correlated with HDAC pan-inhibitor TSA
+     │ upregulated signature genes in murine BMDMs (GSE22049) (Figure 6a). When applied to the
+     │ GSE33162 database, the genes altered in the βOHB-treated group were positively correlated
+     │ with genes that were downregulated in Hdac3−/− BMDMs (versus WT BMDMs) upon LPS treatment
+     │ for 4 h (Figure 6b). According to the public database, HDAC1, HDAC2, and HDAC3 were the
+     │ dominant isoforms of HDACs both in BMDMs and pancreatic macrophages (Fig. S5d). Next, …
+     "Ketogenesis was studied in acute pancreatitis to understand its role in immune response. Elevated ketone bodies protect against severe pancreatitis by suppressing inflammatory macrophage activation."
+
+  19. Signaling Through SCFA Receptors Gpr43 and Gpr109a Drives Pro‐Inflammatory M1 Macrophage Polarization in Periodontitis
+     Kun Liu; Ruolin Wang; Lingxue Kong; Lisi Ai
+     PMC13058726 · PMC · 2026-04-08 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13058726/
+     Matched: 1. Introduction · cat /papers/PMC13058726/content.lines --lines 21-22
+     │ Macrophages are pivotal innate immune cells within the inflammatory microenvironment of
+     │ periodontitis, playing critical roles in pathogen recognition, inflammation amplification,
+     │ and tissue repair. They exhibit high plasticity and can differentiate into pro‐inflammatory
+     │ M1 and anti‐inflammatory/repair‐oriented M2 phenotypes [20]. The M1 phenotype is induced by
+     │ IFN‐γ and LPS [21, 22], characterized by high expression of pro‐inflammatory cytokines such
+     │ as TNF‐α, IL‐1β, IL‐6, and reactive oxygen species, which contribute to tissue destruction.
+     │ Conversely, the M2 phenotype is stimulated by IL‐4 and IL‐13, secreting anti‐inflammatory
+     │ cytokines like IL‐10 that promote repair and angiogenesis …
+     "This study investigated the link between an imbalance in microbiota‐derived short‐chain fatty acids (SCFAs) and dysregulated host immunity in periodontitis, focusing on the metabolic reprograming of i"
+
+  20. Expression analysis of G Protein-Coupled Receptors in mouse macrophages
+     Jane E Lattin; Kate Schroder; Andrew I Su; John R Walker; Jie Zhang; Tim Wiltshire; Kaoru Saijo; Chr...
+     PMC2394514 · PMC · 2008-04-29 · 403 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2394514/
+     Matched: LPS-regulated GPCR expression in mouse macrophages · cat /papers/PMC2394514/content.lines --lines 89-105
+     │ LPS, the archetypal macrophage-activating stimulus that signals via toll-like receptor (TLR)
+     │ 4, regulated the expression of several GPCRs in macrophages (Table 3 and 4). Whilst LPS is
+     │ already known to regulate the expression of many of these (e.g. Gpr109b/PUMA-G, Fpr1, Ccrl2
+     │ and Ednrb) ([12-16], Sweet et al, unpublished data), regulated expression of others has not
+     │ been widely studied. Examples of these include Fzd1, Htr2b, Gpr84 (induced by LPS, Table 3),
+     │ and P2ry1 and 5 (repressed by LPS, Table 4). We recently validated the LPS-mediated
+     │ repression of P2ry5 mRNA expression in BMM by real time PCR [2]. Figure 3 highlights two
+     │ examples of regulated GPCR expression: mRNA expression of Gpr84 …
+     "This study analyzed GPCR expression in mouse macrophages, comparing it to other cell types and LPS-stimulated macrophages. Several P2RY family members showed macrophage-specific expression or LPS-regulated changes, suggesting roles in macrophage biology and inflammation."
+
+  21. Ketone-body receptor GPR109A suppresses hepatic inflammation via gut–liver axis regulation
+     Akari Nishida; Shota Nishikawa; River Budau; Mayu Yamano; Ryuji Ohue-Kitano; Takako Ikeda; Nobuo Sas...
+     bio_0a0ac63b9122 · bioRxiv · 2026-01-01 · 0 citations (all versions)
+     Published (2025): https://doi.org/10.1101/2025.08.21.671439
+     Matched: cat /papers/bio_0a0ac63b9122/content.lines --lines 31-32
+     │ All cell lines were cultured at 37°C under 5% CO2. RAW264.7 cells (mouse macrophage cell
+     │ line; ATCC, Manassas, VA, USA) were cultured in Dulbecco’s Modified Eagle Medium (DMEM,
+     │ FUJIFILM Wako Pure Chemical Corporation) supplemented with 10% FBS, (Gibco, Thermo Fisher
+     │ Scientific, Waltham, MA, USA) and 1% penicillin–streptomycin (Gibco) (43). Cells were
+     │ stimulated with βHB (1 and 10 mM, Sigma-Aldrich), MK-6892 (MedChemExpress LLC, Monmouth
+     │ Junction, NJ, USA), or capric acid (C10:0; Nu-Chek Prep, Elysian, MN, USA) as a positive
+     │ control, in the presence of lipopolysaccharide (LPS, 1 µg/mL; Sigma-Aldrich) for 10 h. After
+     │ stimulation, cells were harvested for RNA isolation. Each in vitro …
+     "The ketogenic diet (KD) promotes ketone body synthesis and has been used as an effective treatment for disorders such as epilepsy. Although elevated ketone bodies, including β-hydroxybutyrate (βHB) an"
+
+  22. GPR43 deficiency aggravates sepsis by promoting gut microbiota–dependent barrier disruption and HIF-1α–ENO1 axis–mediated M1 polarization of macrophages
+     Mingyang Tang; Hongru Li; Fei Tang; Yuanlong Shu; Bao Meng; Qingyue Zhang; Chengcheng Li; Yuexin Xu;...
+     PMC12849540 · PMC · 2025-12-24 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12849540/
+     Matched: GPR43 deficiency promotes LPS + IFN-γ–induced M1-like macrophage polar · cat /papers/PMC12849540/content.lines --lines 85-86
+     │ We next investigated whether SCFAs themselves could modulate macrophage polarization. The
+     │ treatment of BMDMs with SCFAs followed by M1/M2 stimulation reduced M1 polarization while
+     │ enhancing M2 polarization (Supplementary Fig. S4B-C), suggesting a bidirectional regulatory
+     │ role of SCFAs. However, given that SCFAs not only activate FFAR2 but also act on FFAR1 and
+     │ HCAR2, function as histone deacetylase (HDAC) inhibitors (notably HDAC1, HDAC2, and HDAC3),
+     │ and directly participate in cellular energy metabolism, their effects on macrophage
+     │ polarization are likely mediated through multiple parallel mechanisms [43, 44]. To dissect
+     │ the specific contribution of GPR43 from the pleiotropic effects of …
+     "GPR43 deficiency was studied in a mouse model of sepsis to understand its role in gut microbiota, barrier function, and macrophage polarization. GPR43 deficiency exacerbates sepsis by disrupting the gut barrier and promoting M1 macrophage polarization via the HIF-1α–ENO1 axis."
+
+  23. GPR109A alleviate mastitis and enhances the blood milk barrier by activating AMPK/Nrf2 and autophagy
+     Wenjin Guo; Wen Li; Yingchun Su; Shu Liu; Xingchi Kan; Xin Ran; Yu Cao; Shoupeng Fu; Juxiong Liu
+     PMC8579459 · PMC · 2021-10-17 · 50 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8579459/
+     Matched: Discussion · cat /papers/PMC8579459/content.lines --lines 81-83
+     │ The blood milk barrier, which plays an important role during lactation, is very important in
+     │ mother and baby. Some studies have shown that autophagy can enhance the tight junction of
+     │ the intestinal epithelium [49]. Other studies have shown that a lack of Nrf2 can seriously
+     │ damage the esophagus of mice [50]. These studies indicate that Nrf2 also participates in the
+     │ repair of the barrier. Our research also found that GPR109A can enhance the barrier function
+     │ through autophagy and Nrf2. Interestingly, we found that the protection of the blood milk
+     │ barrier by autophagy is better than that mediated by Nrf2. Since niacin promotes autophagy
+     │ and Nrf2 nuclear import, autophagy and Nrf2 play a …
+     "GPR109A activation by niacin alleviates mastitis in mice by protecting the blood-milk barrier. This occurs through activating AMPK, which promotes autophagy and Nrf2 nuclear import, reducing inflammation."
+
+  24. Niacin-mediated rejuvenation of macrophage/microglia enhances remyelination of the aging central nervous system
+     Khalil S. Rawji; Adam M.H. Young; Tanay Ghosh; Nathan J. Michaels; Reza Mirzaei; Janson Kappen; Kath...
+     PMC7181452 · PMC · 2020-02-06 · 141 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7181452/
+     Matched: Results · cat /papers/PMC7181452/content.lines --lines 72-73
+     │ Fig. 3: Niacin is a novel stimulator of phagocytosis and acts through the niacin receptor
+     │ (Hcar2) to upregulate CD36. a, b ELISA for TNF-α shows medications that increase TNF-α
+     │ production in LPS (100 ng/mL)-stimulated condition in young (a) and middle-aged (from 9 to
+     │ 12-month-old animals) (b) mouse BMDM. Note that without LPS, the compounds did not elevate
+     │ TNF-α (data not shown). c Representative images of young and aged (from > 15 month old)
+     │ mouse microglia and human microglia exposed to myelin debris and treated with niacin (100
+     │ μM) and stained for Iba1 (red) and MBP (green). d Niacin (100 μM) by itself significantly
+     │ increases the engulfment of MBP+ myelin debris within Iba1+ young and …
+     "This study investigated niacin's effect on aging microglia and macrophages. Niacin rejuvenates these cells, enhancing myelin clearance and promoting remyelination in the aging central nervous system."
+
+  25. The Specificity and Broad Multitarget Properties of Ligands for the Free Fatty Acid Receptors FFA3/GPR41 and FFA2/GPR43 and the Related Hydroxycarboxylic Acid Receptor HCA2/GPR109A
+     Egils Bisenieks; Brigita Vigante; Ramona Petrovska; Baiba Turovska; Ruslan Muhamadejev; Vitalijs Sol...
+     PMC8537386 · PMC · 2021-09-28 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8537386/
+     Matched: 2.7. Ligands of HCA2/GPR109A, FFA3/GPR41, and FFA2/GPR43 Receptors Sup · cat /papers/PMC8537386/content.lines --lines 77-79
+     │ As the next step, we measured cytokine levels secreted into the medium when THP-1
+     │ macrophages were exposed to LPS (1 µg/mL) in the presence or absence of compounds (50
+     │ µg/mL). After 4 h, the culture medium was collected and cytokine concentrations were
+     │ measured with a Luminex kit. Cytokine secretion significantly increased following macrophage
+     │ treatment with LPS (Figure 5). All of the compounds were able to significantly reduce LPS-
+     │ stimulated secretion of IL-6, TNF-α and MCP-1 from macrophages (Figure 5). The results
+     │ showed that the activation of HCA2/GPR109A, FFA3/GPR41, and FFA2/GPR43 by the studied
+     │ compounds can reduce the proinflammatory cytokine levels in macrophages, which would be …
+     "Novel quinoline, pyranopyrimidine, and S-alkyl pyranopyrimidine derivatives were synthesized and tested for activity on FFA3, FFA2, and HCA2 receptors. These compounds demonstrated multitarget activity and reduced inflammatory responses in macrophages."
+
+  26. Cooperative and distinct functions of MK2 and MK3 in the regulation of the macrophage transcriptional response to lipopolysaccharide
+     Christian Ehlting; Julia Rex; Ute Albrecht; René Deenen; Christopher Tiedje; Karl Köhrer; Oliver Saw...
+     PMC6667695 · PMC · 2019-07-30 · 12 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6667695/
+     Matched: Analysis of the differential regulation of LPS-inducible gene expressi · cat /papers/PMC6667695/content.lines --lines 26-27
+     │ Figure 3: Classification and allocation of the MK2/3-dependent genes by 6 different patterns
+     │ of regulation and distribution of MK2- and MK2/3-regulated genes according to their
+     │ expression pattern. The proposed 6 different patterns of regulation dependent on MK2 and MK3
+     │ are shown in (a) (groups I-VI). The long bars indicate high induction and the short bars
+     │ indicate low induction of LPS-responsive genes. The red bars reflect the condition in wild-
+     │ type macrophages, the blue bars reflect the MK2−/− condition, and the green bars reflect the
+     │ MK2/3−/− condition. According to their expression patterns, all the analyzed genes listed in
+     │ Supplemental Fig. S2, of which the top 25 are listed in the …
+     "MK2 and MK3 were studied for their roles in regulating macrophage responses to LPS. They cooperatively and distinctly control inflammatory gene expression, with MK3 also negatively regulating IFN-β in MK2's absence."
+
+  27. BHBA Suppresses LPS-Induced Inflammation in BV-2 Cells by Inhibiting NF-κB Activation
+     Shou-Peng Fu; Su-Nan Li; Jian-Fa Wang; Yang Li; Shan-Shan Xie; Wen-Jing Xue; Hong-Mei Liu; Bing-Xu H...
+     PMC3997897 · PMC · 2014-04-06 · 134 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3997897/
+     Matched: 1. Introduction · cat /papers/PMC3997897/content.lines --lines 9-10
+     │ In the healthy central nervous system (CNS), microglial cells are the immune cells belonging
+     │ to the innate part of the immune system. Beneficial functions of microglia include release
+     │ of trophic and anti-inflammatory factors [1, 2] and clearance of cellular debris [3]. In
+     │ contrast, microglial cells can exhibit detrimental capacities involving overproduction of
+     │ neurotoxic factors like nitric oxide, superoxide radicals, and TNF-α [4, 5]. Activation of
+     │ microglia has been implicated in the pathogenesis of a variety of neurodegenerative
+     │ diseases, including multiple sclerosis, Parkinson's disease, Huntington's disease, and
+     │ Alzheimer's disease [6–8]. Activation of microglia and consequent release …
+     "BHBA was studied for its effects on LPS-induced inflammation in BV-2 cells. BHBA suppresses inflammation by inhibiting NF-κB activation via GPR109A, without affecting MAPK pathways."
+
+  28. Parabacteroides distasonis ameliorates insulin resistance via activation of intestinal GPR109a
+     Yonggan Sun; Qixing Nie; Shanshan Zhang; Huijun He; Sheng Zuo; Chunhua Chen; Jingrui Yang; Haihong C...
+     PMC10676405 · PMC · 2023-11-25 · 156 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10676405/
+     Matched: DOP alleviates HFD-induced IR · cat /papers/PMC10676405/content.lines --lines 26-27
+     │ Inflammation contributes to the development of HFD-induced IR[10],[32]. As expected, DOP
+     │ reduced serum TNF-α and IL-1β levels compared to the HFD group (Fig. 3j, k). Inflammation in
+     │ the liver also contributes to systemic IR[33]. We found that macrophages accumulated in
+     │ ‘crown-like structures’, a histological hallmark of inflammation, and DOP-treated mice
+     │ showed little macrophage accumulation (Supplementary Fig. 3h). Moreover, our data showed
+     │ that DOP significantly reduced the mRNA expression of TNF-α, IL-1β, and IL-6 in the liver of
+     │ IR mice (Supplementary Fig. 3i). Notably, DOP significantly reduced serum lipopolysaccharide
+     │ (LPS) levels and increased the expression of Claudin-1, Occludin, …
+     "*Parabacteroides distasonis* was studied for its role in insulin resistance. This bacterium ameliorates insulin resistance by producing nicotinic acid, which activates intestinal GPR109a."
+
+  29. Pyroptosis in Periprosthetic Osteolysis
+     Jian Yin; Zhaoyang Yin; Peng Lai; Xinhui Liu; Jinzhong Ma
+     PMC9775904 · PMC · 2022-11-23 · 16 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9775904/
+     Matched: 4. Pyroptosis in Macrophage · cat /papers/PMC9775904/content.lines --lines 23-24
+     │ Macrophages can be divided into M1-polarized pro-inflammatory phenotype and M2-polarized
+     │ anti-inflammatory phenotype. The former can be activated by LPS and IFN-γ to aggravate the
+     │ inflammatory response, while the latter can be activated by IL-1 and IL-13 to alleviate
+     │ inflammation [73]. Osteoclasts are multinucleated giant bone-resorbing cells of the myeloid
+     │ lineage, and their formation is a multistep process that requires macrophage colony-
+     │ stimulating factor (M-CSF) and receptor activator of nuclear factor kappa B ligand
+     │ (RANKL)/RANK activation [74]. Cathepsin K (CTSK), a critical specific lysosomal protease, is
+     │ secreted by osteoclasts that contributes to bone matrix resorption [75]. In …
+     "This review examines pyroptosis's role in periprosthetic osteolysis caused by wear particles. Inhibiting pyroptosis and inflammation offers a promising therapeutic strategy for treating this condition."
+
+  30. Regulation of mononuclear phagocyte function by the microbiota at mucosal sites
+     Nicholas A. Scott; Elizabeth R. Mann
+     PMC6904663 · PMC · 2019-11-27 · 33 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6904663/
+     Matched: Compartmentalization of macrophage function in the intestine · cat /papers/PMC6904663/content.lines --lines 56-61
+     │ Secondary bile acids | Microbiome | Microbiota metabolism of liver‐derived primary bile
+     │ acids | Intestine: tolerogenic properties (unclear mechanism) | GPBAR1 and FXR | Cipriani et
+     │ al.;143 Vavassori et al.;144 Butyrate | Microbiome | Fermentation of dietary fibre
+     │ (Bacteroidetes and Firmicutes) | Intestine: inhibits IL‐6, IL‐12 and NO in colonic
+     │ macrophages Sustains production of IL‐10 by MNPs and Treg numbers Lungs: promotes
+     │ alternative activation of lung macrophages through expansion of monocytes in the bone marrow
+     │ | GPR41, GPR43 and GPR109a; inhibition of histone deacetylases; shifting metabolism
+     │ directly? | Chang et al.;49 Schulthess et al.58 Scott et al.;57 Singh et al.;56 Trompette et
+     │ …
+     "This review examines how the microbiota regulates mononuclear phagocyte function at mucosal sites. It highlights that intestinal MNPs are hyporesponsive to bacteria, preventing harmful immune responses against commensals."
+
+  31. In Vitro Targeted Delivery of Simvastatin and Niacin to Macrophages Using Mannan-Grafted Magnetite Nanoparticles
+     Banafsheh Rastegari; Atefe Ghamar Talepoor; Shahdad Khosropanah; Mehrnoosh Doroudchi
+     PMC10785661 · PMC · 2023-12-18 · 10 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10785661/
+     Matched: Discussion · cat /papers/PMC10785661/content.lines --lines 80-81
+     │ To be more specific, after successful treatment of macrophages with LPS/IFN-γ and IL-4 to
+     │ induce M1 and M2 deviation, the effects of simvastatin, niacin, and simvastatin/niacin
+     │ combination as well as S@MN-MNPs, N@MN-MNPs, and S + N@MN-MNPs on expression levels of M1
+     │ (IL-6) and M2 (ARG1) marker genes were investigated. Free simvastatin reduced IL-6 in
+     │ LPS/IFN-γ-stimulated (M1) macrophages at low concentrations (0.2 and 0.4 μg/mL). Free
+     │ administration of simvastatin at high doses caused a time-dependent increased expression of
+     │ IL-6 which may accelerate progression of atherosclerosis in vivo. Therefore, free
+     │ simvastatin shifted macrophages from the M1 to M2 subsets only at low concentrations. …
+     "Mannan-grafted magnetite nanoparticles were developed to deliver simvastatin and niacin to macrophages. These nanoparticles effectively delivered the drugs, reduced toxicity, and modulated macrophage polarization."
+
+  32. Combined Chromatin and Expression Analysis Reveals Specific Regulatory Mechanisms within Cytokine Genes in the Macrophage Early Immune Response
+     Maria Jesus Iglesias; Sarah-Jayne Reilly; Olof Emanuelsson; Bengt Sennblad; Mohammad Pirmoradian Naj...
+     PMC3288078 · PMC · 2012-02-27 · 19 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3288078/
+     Matched: Group 1 genes are up-regulated in response to LPS but typically lack H · cat /papers/PMC3288078/content.lines --lines 115-140
+     │ Table 5: Inflammation related genes without histone acetylation in their annotated
+     │ promoters. | | | | | Annotated promoter composition | Annotated promoter composition |
+     │ Annotated promoter composition | Annotated promoter composition | Annotated promoter
+     │ composition | Annotated promoter composition Gene | Chr. Pos | TSS position | P-value | Fold
+     │ change | CommonH3Ac | Peak extension | S5P RNAPII | Sp1 Peak | CpG Island | TATA Box ATP2B1
+     │ | 12q21.33 | 90,020,392 | 2.82E-3 | 2.95 | NO | - | NO | NO | NO | YES | | 90,049,844 | | |
+     │ NO | - | NO | NO | NO | NO BCL2A1 | 15q25.1 | 80,263,643 | 3.32E-04 | 2.76 | NO | - | NO |
+     │ NO | NO | YESΔ CD69 | 12p13.31 | 9,804,764 | 8.74E-06 | 5.11 | NO | - | NO | …
+     "This study analyzed gene expression and chromatin modifications in macrophages responding to LPS. It found distinct regulatory mechanisms for different types of inflammatory genes based on chromatin features and transcription initiation markers."
+
+  33. The Potential Use of Exosomes in Anti-Cancer Effect Induced by Polarized Macrophages
+     Chizumi Abe; Maharshi Bhaswant; Teruo Miyazawa; Taiki Miyazawa
+     PMC10054161 · PMC · 2023-03-22 · 22 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10054161/
+     Matched: 2. Macrophage Polarization · cat /papers/PMC10054161/content.lines --lines 13-14
+     │ Macrophages are immune cells that are responsible for innate immunity, which includes
+     │ engulfing pathogens and promoting internal and external changes within the body. Macrophages
+     │ are not homogeneous; they comprise three phenotypes: naïve macrophages (M0), pro-
+     │ inflammatory macrophages (M1), and anti-inflammatory macrophages (M2) (Figure 1). M0
+     │ macrophages are widely distributed throughout the body and clean senescent/apoptotic cells
+     │ and pathogens by phagocytosis, which are exposed to signaling molecules and released by
+     │ lymphocytes or damaged tissues. M0 macrophages are stimulated by various cytokines and
+     │ differentiate into M1 or M2 macrophages, which is called “macrophage polarization”. …
+     "This review explores using exosomes to regulate macrophage polarization for cancer treatment. Exosomes offer a promising, natural approach to indirectly combat cancer by influencing the tumor microenvironment."
+
+  34. Fumarates modulate microglia activation through a novel HCAR2 signaling pathway and rescue synaptic dysregulation in inflamed CNS
+     Benedetta Parodi; Silvia Rossi; Sara Morando; Christian Cordano; Alberto Bragoni; Caterina Motta; Ce...
+     PMC4503882 · PMC · 2015-04-29 · 177 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4503882/
+     Matched: Discussion · cat /papers/PMC4503882/content.lines --lines 80-81
+     │ We confirm the data of Linker et al. [28] that therapeutic administration of MMF in ongoing
+     │ disease alleviates EAE. Our data further show that such amelioration is associated with the
+     │ promotion of a less inflammatory environment in the CNS of treated mice and with the
+     │ upregulation of microglia markers typical of an alternatively activated homeostatic
+     │ phenotype, an observation commensurate with previous demonstration that DMF treatment of
+     │ mice induced to develop EAE results in reduced macrophage/microglia infiltration/migration
+     │ at early disease phase [28, 45]. In the brain parenchyma, microglia interact intimately with
+     │ neurons, contacting synaptic elements, and evidence is accumulating for a …
+     "Fumarates were studied for their effects on microglia activation and synaptic function in a mouse model of MS. Fumarates activate HCAR2, shifting microglia to a neuroprotective state and rescuing synaptic dysregulation."
+
+  35. Identification of novel monosodium urate crystal regulated mRNAs by transcript profiling of dissected murine air pouch membranes
+     Frank Pessler; Christian T Mayer; Sung Mun Jung; Ed M Behrens; Lie Dai; Joseph P Menetski; H Ralph S...
+     PMC2483455 · PMC · 2008-06-03 · 49 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2483455/
+     Matched: Identification of differentially expressed genes by microarray analysi · cat /papers/PMC2483455/content.lines --lines 49-64
+     │ Table 1: The 12 air pouch membrane mRNAs most highly upregulated by MSU crystals Gene |
+     │ Genbank accession number | Ref. | Linear ratio: MSU/control | Function | Function |
+     │ Function(s) | | | | Inflammationa | MSUb | PUMA-g (GPR 109/HM74) | NM 030701 | [29] | 64.2 |
+     │ + | - | Macrophage activation, prostaglandin synthesis Hdc | AF 109137 | [46] | 33.8 | + | ±
+     │ | Histamine synthesis TREM-1 | NM 021406 | [15] | 31.9 | + | + | Expressed on activated
+     │ macrophages, neutrophils CSF3 (also known as G-CSF) | NM 007782 | [47] | 29.1 | + | - |
+     │ Granulocyte development and recruitment Similar to MAPK phosphatase (cpg21; unpublished) |
+     │ BB 442784 | NA | 27.9 | ± | - | Potentially, intracellular signal …
+     "MSU crystals were injected into murine air pouches to identify regulated mRNAs. Eleven of the twelve most upregulated mRNAs were related to innate immunity and inflammation, suggesting a "second wave" of inflammatory amplification."
+
+  36. Butyrate suppresses mucosal inflammation in inflammatory bowel disease primarily through HDAC3 inhibition in monocytes and macrophages
+     Daniela Parada‐Venegas; Marjorie De la Fuente López; Karen Dubois‐Camacho; Glauben Landskron; Tjasso...
+     PMC12631161 · PMC · 2025-10-19 · 21 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12631161/
+     Matched: Treatment conditions · cat /papers/PMC12631161/content.lines --lines 131-133
+     │ For butyrate effect experiments, 2 mm sodium butyrate (Sigma‐Aldrich, Saint Louis, MO, USA)
+     │ was added to the culture medium, while 100 nm dexamethasone (Steraloids, Inc., Newport, RI,
+     │ USA) was used as a positive control, as previously described in ex vivo models [29, 64]. In
+     │ addition, a range of butyrate concentrations (0.2–20 mm) was used in colonic organoid,
+     │ monocyte, and THP‐1 macrophage cultures, either alone or in co‐incubation with inflammatory
+     │ stimuli, based on earlier studies [11, 33]. For the monocyte and THP‐1 macrophage
+     │ experiments, inflammatory stimuli included 0.1 ng·mL−1 lipopolysaccharide (LPS) (E. coli
+     │ strain O111:B4; Sigma‐Aldrich, Saint Louis, MO, USA) and 20 ng·mL−1 IFN‐γ …
+     "Butyrate was studied for its anti-inflammatory effects in IBD tissues and cell models. It suppresses IBD mucosal inflammation primarily by inhibiting HDAC3 in monocytes and macrophages."
+
+  37. Pulmonary injury in inflammatory bowel disease: intestinal barrier disruption, gut–lung axis remodeling, and treatment-related lung toxicity
+     Ziyi Mu; Renmin Zhou; Wujuan Hao; Ying Chen; Xingli Zhu; Lan Gu; Qiong Lin
+     PMC13408397 · PMC · 2026-07-14 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13408397/
+     Matched: Microbiota–metabolite–immune remodeling along the gut–lung axis · cat /papers/PMC13408397/content.lines --lines 48-51
+     │ Figure 3: Microbiota-derived signals and metabolite-centered immune remodeling along the
+     │ gut–lung axis in IBD. Gut dysbiosis in IBD, characterized by the loss of beneficial
+     │ commensals, expansion of AIEC, mycobiome imbalance, and outer membrane vesicle release,
+     │ reshapes the output of microbiota-derived mediators, including short-chain fatty acids,
+     │ tryptophan metabolites, and postbiotics. These signals engage receptor-mediated and
+     │ epigenetic pathways, including FFAR2/3, HCAR2, HDAC inhibition, and AhR–IL-22 signaling, and
+     │ converge on immune-programming processes such as bone marrow hematopoiesis and Treg
+     │ programming. Through these interconnected mechanisms, intestinal microbial perturbation …
+     "Inflammatory bowel disease (IBD)-associated pulmonary injury is one of the frequently underestimated extraintestinal manifestations in clinical practice. It can present as subclinical pulmonary functi"
+
+  38. Potential mechanism and key genes involved in mechanical ventilation and lipopolysaccharide-induced acute lung injury
+     Wen-Wen Dong; Zhou Feng; Yun-Qian Zhang; Zheng-Shang Ruan; Lai Jiang
+     PMC7533521 · PMC · 2020-09-14 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7533521/
+     Matched: Discussion · cat /papers/PMC7533521/content.lines --lines 61-62
+     │ In the present study, a total of 63, 538 and 1,635 DEGs were identified as associated with
+     │ MV, LPS, and MV + LPS, respectively. The MV DEG set was significantly enriched in genes
+     │ associated with ‘negative regulation of cysteine-type endopeptidase activity involved in
+     │ apoptotic process’ and ‘purine ribonucleotide metabolic process’. The LPS and MV + LPS DEG
+     │ sets were significantly enriched in genes associated with ‘cellular response to cytokine
+     │ stimulus’, ‘response to molecule of bacterial origin’ and ‘cell chemotaxis’. Notably, these
+     │ three groups of genes were significantly enriched in the ‘TNF signaling pathway’ and ‘IL-17
+     │ signaling pathway’. Li et al (27) have reported that LPS-induced …
+     "This study analyzed gene expression data to identify key genes and mechanisms in mechanical ventilation (MV) and lipopolysaccharide (LPS)-induced acute lung injury (ALI). MV and LPS induce distinct gene expression changes, but both involve inflammatory pathways, with MV potentially exacerbating LPS effects."
+
+  39. B Vitamins and Their Role in Immune Regulation and Cancer
+     Christine Tara Peterson; Dmitry A. Rodionov; Andrei L. Osterman; Scott N. Peterson
+     PMC7693142 · PMC · 2020-11-04 · 283 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7693142/
+     Matched: 5. Niacin B3 · cat /papers/PMC7693142/content.lines --lines 38-39
+     │ Mice fed a diet enriched in saturated fatty acids to induce blood-brain barrier (BBB)
+     │ defects and neuroinflammation, were completely protected by treatment with either niacin or
+     │ nicotinamide [62]. Parkinson’s Disease patients provided low-dose niacin showed an increased
+     │ M2 macrophage at the expense of the M1 macrophage, which was associated with an improved
+     │ quality of life [63]. Immune activation by treatment of mice with LPS, TNF-α or IL-1 led to
+     │ an increase in GPR109A expression in adipose tissue and LPS increased receptor expression in
+     │ the spleen, as did lipoteichoic acid, poly dI:dC and macrophage-produced TNF-α and IL-1
+     │ [64]. GPR109A influences physiology in a tissue-dependent manner; …
+     "This paper reviews the literature on B vitamins' role in immune regulation and cancer. B vitamins are essential for metabolism and cellular functions, and their interaction with the immune system may influence cancer development."
+
+  40. Dextran Sulfate Sodium Salt-Induced Colitis Aggravates Gut Microbiota Dysbiosis and Liver Injury in Mice With Non-alcoholic Steatohepatitis
+     Bo Shen; Junjun Wang; Yuecheng Guo; Tianyi Gu; Zhenyang Shen; Cui Zhou; Binghang Li; Xianjun Xu; Fei...
+     PMC8593467 · PMC · 2021-11-02 · 35 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8593467/
+     Matched: Introduction · cat /papers/PMC8593467/content.lines --lines 15-16
+     │ Studies have suggested that the gut microbiota is associated with NASH development (Aron-
+     │ Wisnewsky et al., 2020). Microbe-derived metabolites such as short-chain fatty acids
+     │ (SCFAs), which mainly include acetate, propionate, and butyrate may alleviate the
+     │ progression of NASH (den Besten et al., 2015). Moreover, a previous study reported that
+     │ SCFAs can reduce the hepatic aggregation of macrophages and proinflammatory responses (Deng
+     │ et al., 2020). G-protein-coupled receptor 43 (GPR43) and GPR109A are the main receptors for
+     │ SCFAs. GPR43 is mainly expressed in immune cells, such as neutrophils, eosinophils,
+     │ dendritic cells, and monocytes, indicating its broad role in inflammatory and immune …
+     "DSS-induced colitis was studied in mice with NASH to assess its impact on gut microbiota and liver injury. Colitis aggravated gut dysbiosis and worsened liver inflammation and fibrosis in NASH mice."
+
+  41. Sodium butyrate regulates macrophage polarization by TGR5/β-arrestin2 in vitro
+     Miao Liu; Wen-jie Xie; Xu Zhang; Wei Wu; Guang Li; Lu Wang
+     PMC11781001 · PMC · 2025-01-29 · 17 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11781001/
+     Matched: Discussion · cat /papers/PMC11781001/content.lines --lines 75-76
+     │ UC is a chronic non-specific intestinal inflammatory disease. The incidence of UC is
+     │ increasing year by year in the world (Du and Ha 2020), and it is prone to recurrence and
+     │ difficult to cure, which brings heavy burden to individuals and countries. Immune
+     │ dysfunction is an important pathogenesis of UC (Kondo et al. 2021). Intestinal macrophages
+     │ are derived from hematopoietic cell and embryonic precursor cell. Blood derived monocyte
+     │ constantly supplement most of the intestinal macrophages through a series of intermediates.
+     │ Macrophages are widely accepted for their unique plasticity, which are able to alter their
+     │ phenotype based on changes in the microenvironment (Mantovani et al. 2005). The …
+     "Sodium butyrate's effect on macrophage polarization was studied in vitro. Sodium butyrate promotes M2-like polarization by targeting TGR5 and β-arrestin2, reversing LPS-induced M1-like polarization."
+
+  42. Immune System, Microbiota, and Microbial Metabolites: The Unresolved Triad in Colorectal Cancer Microenvironment
+     Michelle Hanus; Daniela Parada-Venegas; Glauben Landskron; Ana Maria Wielandt; Claudia Hurtado; Kari...
+     PMC8033001 · PMC · 2021-03-26 · 194 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8033001/
+     Matched: Short-Chain Fatty Acids (SCFAs) · cat /papers/PMC8033001/content.lines --lines 75-78
+     │ Microbiota communicates with the host through the generation of metabolites, being the most
+     │ well-studied the short-chain fatty acids (SCFAs), including acetate, propionate, and
+     │ butyrate, corresponding to fermentation products of complex polysaccharides, such as
+     │ starches and fiber (118). The Bacteroidetes phylum mainly produces acetate and propionate,
+     │ whereas the Firmicutes phylum butyrate (119). SCFAs are produced in the colon and absorbed
+     │ into the bloodstream to be delivered to target tissues, with host cells responding to SCFAs
+     │ through receptors (GPR41/FFAR3, GPR43/FFAR2, GPR109A/HCAR2) or transporters (MCT1/SLC16A1,
+     │ SMCT1/SLC5A8) (4). Butyrate is relevant in intestinal function being the …
+     "This review examines the interplay between the immune system, gut microbiota, and microbial metabolites in the colorectal cancer microenvironment. Findings suggest these factors significantly influence tumor progression in both sporadic and hereditary colorectal cancer."
+
+  43. Activation of HCA2 regulates microglial responses to alleviate neurodegeneration in LPS-induced in vivo and in vitro models
+     Dewei He; Shoupeng Fu; Bojian Ye; Hefei Wang; Yuan He; Zhe Li; Jie Li; Xiyu Gao; Dianfeng Liu
+     PMC10053461 · PMC · 2023-03-29 · 36 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10053461/
+     Matched: Introduction · cat /papers/PMC10053461/content.lines --lines 21-22
+     │ Nicotinic acid (NA) belongs to the B group of vitamins, also known as vitamin B3. It mainly
+     │ exists in animal offal, milk, eggs, bran, and fresh vegetables. Presently, NA is primarily
+     │ used as a feed additive that improves the utilization rate of feed protein. NA is a well-
+     │ known pharmaceutical intermediate used as a raw material to synthesize various medicines
+     │ [15, 16]. As a ligand of HCA2, NA has been implicated in numerous diseases where it
+     │ activates HCA2. Guo et al. found that NA alleviates dairy cow mastitis by activating GPR109A
+     │ [17]. Miguel et al. found that NA regulates microglial responses and limits disease
+     │ progression by activating HCA2 in a mouse model of Alzheimer's disease [18]. …
+     "This study investigated HCA2 activation's role in microglial responses to neurodegeneration. Activating HCA2 with nicotinic acid reduces neuroinflammation and protects dopaminergic neurons in Parkinson's disease models."
+
+  44. Short-chain fatty acids regulate macrophage-mediated immune responses in intestinal inflammation: Implications for pigs
+     Junlei Chang; Hua Zhao; Gang Tian; Jingyi Cai; Xiaoling Chen; Jiayong Tang; Gang Jia
+     PMC13091290 · PMC · 2026-03-05 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13091290/
+     Matched: Nuclear factor kappa B (NF-κB) pathway · cat /papers/PMC13091290/content.lines --lines 41-42
+     │ Nuclear factor-kappa B is a dimeric transcription factor expressed in nearly all animal
+     │ cells. It is essential in inflammation and immune responses, mainly through the regulation
+     │ of pro-inflammatory cytokines such as TNF-α and IL-1β. Furthermore, NF-κB stimulates immune
+     │ cell activation and proliferation, thereby contributing significantly to the body's immune
+     │ defense mechanisms (Barnabei et al., 2021; Capece et al., 2022). Nuclear factor-kappa B
+     │ signaling has been shown to be significantly activated in drug-induced intestinal
+     │ inflammation models in mice, as well as in pigs with inflammation triggered by bacterial or
+     │ viral pathogens (Mukherjee et al., 2024; Shi et al., 2019; Zhang et al., …
+     "Short-chain fatty acids (SCFAs) regulate macrophage-mediated immune responses to reduce intestinal inflammation in pigs. These metabolites influence key inflammatory pathways like HDACs and NF-κB. Dietary interventions can leverage SCFAs to improve gut health and pig production."
+
+  45. Therapeutic strategies for hypertension: exploring the role of microbiota-derived short-chain fatty acids in kidney physiology and development
+     Giovane G. Tortelote
+     PMC12953496 · PMC · 2025-07-10 · 12 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12953496/
+     Matched: SCFA signaling in kidney and systemic physiology · cat /papers/PMC12953496/content.lines --lines 68-69
+     │ In a recent study, Felizardo et al. [84] demonstrated that GPR109A, a receptor activated by
+     │ butyrate, is expressed in podocytes. To explore its role in kidney injury, the authors
+     │ induced nephropathy in Gpr109a knockout and wild-type mice using a single dose of
+     │ adriamycin, followed by treatment with either sodium butyrate or a diet enriched in
+     │ butyrate-releasing high-amylose maize starch. In wild-type mice, butyrate treatment
+     │ significantly reduced proteinuria, preserved podocyte integrity at the glomerular basement
+     │ membrane, and attenuated both glomerulosclerosis and kidney inflammation. These protective
+     │ effects were absent in Gpr109a-deficient mice, indicating that GPR109A function is …
+     "Microbiota-derived short-chain fatty acids (SCFAs) influence kidney physiology, development, and blood pressure regulation. SCFAs modulate kidney function and vascular tone via specific receptors, and dysbiosis can contribute to hypertension and kidney disease. Interventions targeting SCFA pathways may offer therapeutic strategies for these conditions."
+
+  46. Early transcriptional responses of internalization defective Brucella abortus mutants in professional phagocytes, RAW 264.7
+     Seung Bin Cha; Won Jung Lee; Min Kyoung Shin; Myung Hwan Jung; Seung Won Shin; An Na Yoo; Jong Wan K...
+     PMC3716731 · PMC · 2013-06-27 · 16 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3716731/
+     Matched: Microarray analysis of differentially expressed genes following infect · cat /papers/PMC3716731/content.lines --lines 43-48
+     │ This study used microarrays to analyze early transcriptional responses of murine macrophage
+     │ cell line infected with wild type or mutant B. abortus using the Illumina Mouse WG-6 v2
+     │ Expression BeadChip which covers more than 45,000 transcripts. The threshold value for the
+     │ microarray was chosen with an expression change of ≥1.5 or ≤1.5 –fold of both up- and down-
+     │ regulated genes within a p-value of less than 0.05. Based on this criterion for selection,
+     │ the 147, 115, 145, 157 and 152 genes were up-regulated and the 36, 21, 42, 64 and 57 genes
+     │ were down-regulated in B. abortus 1119–3, C10, C29, D6 and D7 infected macrophages,
+     │ respectively (Figure 1). Among the 30,854 genes analyzed, only the 183 …
+     "This study examined transcriptional changes in RAW 264.7 macrophages infected with wild-type and internalization-defective *Brucella abortus* mutants. No significant differences in host transcriptional response were detected between the wild-type and mutant infections."
+
+  47. Diet–Microbiota Interplay: An Emerging Player in Macrophage Plasticity and Intestinal Health
+     Cian O’Mahony; Asma Amamou; Subrata Ghosh
+     PMC8998881 · PMC · 2022-03-31 · 22 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8998881/
+     Matched: 3.1. Short-Chain Fatty Acids · cat /papers/PMC8998881/content.lines --lines 31-33
+     │ Over the past decades, it has been well established that foods that generate high levels of
+     │ SCFAs are protective against IBD. Indeed, several important pieces of evidence now support
+     │ the hypothesis that these effects are at least partly resulting from the effects of SCFA on
+     │ immune cells. Of particular significance are studies proposing that favourable outcomes are
+     │ largely stemming from modulation of intestinal macrophages. A deeper understanding of these
+     │ interactions, especially regarding the mechanisms that SCFAs can reprogram macrophages
+     │ toward anti-inflammatory behaviour, would be an invaluable tool for IBD therapy. Following
+     │ production by the microbiota, SCFAs are available to interact …
+     "This review examines how diet and gut microbes influence macrophage behavior and intestinal health. It highlights that microbiota-derived metabolites and dietary fats can modulate macrophages, offering potential therapeutic avenues for inflammatory bowel diseases."
+
+  48. Exerkines mitigating Alzheimer's disease progression by regulating inflammation: Focusing on macrophage/microglial NLRP3 inflammasome pathway
+     Jaehwan Cheon; Soonyong Kwon; Mikyung Kim
+     PMC11848186 · PMC · 2024-12-06 · 16 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11848186/
+     Matched: Anti‐inflammatory effects of exerkines on AD · cat /papers/PMC11848186/content.lines --lines 36-39
+     │ Increasing studies have reported that exerkines such as irisin,[114] β‐hydroxybutyrate
+     │ (BHB),[115] meteorin‐like (METRNL, also known as IL‐41),[116] and IL‐6[117] are associated
+     │ with anti‐inflammatory effects, which may influence AD progression. Among these exerkines,
+     │ irisin stands out as one of the most extensively studied in relation to its effects on AD.
+     │ Recent studies have suggested that irisin may exert beneficial effects on AD.[118], [119],
+     │ [120] These effects of irisin are associated with the attenuation of NF‐κB activity and a
+     │ reduction in neuroinflammation, primarily mediated through the STAT[99] and extracellular
+     │ signal‐regulated kinase 1/2 (ERK 1/2)[121] signaling pathways.[122] …
+     "This paper reviews how inflammation, particularly the NLRP3 inflammasome pathway, contributes to Alzheimer's disease progression. It concludes that exercise and exerkines may mitigate AD by regulating this inflammatory pathway."
+
+  49. Gut Microbiota Crosstalk with Resident Macrophages and Their Role in Invasive Amebic Colitis and Giardiasis—Review
+     Panagiota Xaplanteri; Nikiforos Rodis; Charalampos Potsios
+     PMC10221053 · PMC · 2023-05-04 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10221053/
+     Matched: 3. Gut Microbiota, Mucosal Homeostasis, and Infection · cat /papers/PMC10221053/content.lines --lines 26-29
+     │ In mice, Bacteroides fragilis has proven to promote immune system maturation and is an
+     │ orchestrator of the Th1/Th2 balance [4]. Upon disturbance of intestinal homeostasis, Proteus
+     │ mirabilis interacts with monocytes to release IL-1b in a NLRP3-dependent manner [4].
+     │ Ruminococcaceae and Eubacterium of the Order Clostridiales, members of the intestinal flora,
+     │ ferment dietary fibers and starches that cannot be decomposed by digestive enzymes to
+     │ provide the host with short-chain fatty acids [17]. Short-chain fatty acids play multiple
+     │ roles in gut homeostasis. They regulate the blood flow in the mucus membrane and are
+     │ involved in mucus production. They also influence fluid absorption and the …
+     "This review examines how gut microbiota interacts with resident macrophages in parasitic infections. This crosstalk is crucial for maintaining gut homeostasis and mounting an effective immune response against amebiasis and giardiasis."
+
+  50. Analysis of microbiota-host communication mediated by butyrate in Atlantic salmon
+     Rodrigo A. Vargas; Sarita Soto-Aguilera; Mick Parra; Sebastian Herrera; Alvaro Santibañez; Camila Ko...
+     PMC10130356 · PMC · 2023-03-31 · 14 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10130356/
+     Matched: Introduction · cat /papers/PMC10130356/content.lines --lines 20-21
+     │ The action of SCFAs on cell metabolism can occur by passive diffusion using transporters
+     │ such as monocarboxylate transporter 1 and sodium-coupled monocarboxylate transporter 1
+     │ (SMCT1), as well as by directly activating G protein-coupled receptors (GPRs) [21]. The
+     │ classical receptors reported in mammals for the detection of SCFAs are free fatty acid
+     │ receptor FFAR3 (GPR41), FFAR2 (GPR43) and HCAR2 (GPR109A), which show different affinities
+     │ for acetate, propionate and butyrate [22]. Studies carried out on FFAR4 in the fish
+     │ Larimichthys crocea showed that this receptor is capable of regulating the inflammatory
+     │ effects induced by bacterial Lipopolysaccharide (LPS) [23]. Studies of the HCAR1 …
+     "This study investigated butyrate-producing bacteria and host receptors in Atlantic salmon. Butyrate was found to modulate immune responses, reducing inflammation and viral load, suggesting a significant role in host-microbiota communication."
+
+  51. Medium-chain fatty acids modify macrophage expression of metabolic and inflammatory genes in a PPAR β/δ-dependent manner
+     Paula V. Gaete; Luz D. Nieves-Barreto; Valentina Guatibonza-García; Mónica Losada-Barragán; Karina V...
+     PMC10353988 · PMC · 2023-07-18 · 21 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10353988/
+     Matched: Discussion · cat /papers/PMC10353988/content.lines --lines 115-117
+     "Medium-chain fatty acids were studied for their effects on macrophage gene expression and PPAR β/δ involvement. MCFA promote cholesterol efflux and reduce inflammation, with partial mediation by PPAR β/δ."
+
+  52. Ketone Bodies in Neurological Diseases: Focus on Neuroprotection and Underlying Mechanisms
+     Huajun Yang; Wei Shan; Fei Zhu; Jianping Wu; Qun Wang
+     PMC6581710 · PMC · 2019-06-12 · 190 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6581710/
+     Matched: Modulating Inflammatory Responses · cat /papers/PMC6581710/content.lines --lines 37-38
+     "This paper reviews the neuroprotective effects of ketone bodies in neurological diseases. Ketone bodies protect neurons through antioxidant, energy supply, anti-inflammatory, and deacetylation mechanisms, suggesting potential for ketogenic diet therapy."
+
+  53. Gut Microbiota Metabolite Messengers in Brain Function and Pathology at a View of Cell Type-Based Receptor and Enzyme Reaction
+     Bada Lee; Soo Min Lee; Jae Won Song; Jin Woo Choi
+     PMC11214962 · PMC · 2024-06-20 · 43 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11214962/
+     Matched: SCFAs and target proteins · cat /papers/PMC11214962/content.lines --lines 21-22
+     "This review examines how gut microbiota metabolites interact with brain cells. It highlights their roles in brain function and diseases by focusing on specific receptors and enzymes."
+
+  54. Short Chain Fatty Acids (SCFAs)-Mediated Gut Epithelial and Immune Regulation and Its Relevance for Inflammatory Bowel Diseases
+     Daniela Parada Venegas; Marjorie K. De la Fuente; Glauben Landskron; María Julieta González; Rodrigo...
+     PMC6421268 · PMC · 2019-03-11 · 3531 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6421268/
+     Matched: Anti-inflammatory Effects of SCFAs · cat /papers/PMC6421268/content.lines --lines 99-100
+     "This paper reviews how gut bacteria produce SCFAs and their effects on the intestinal lining and immune system. Reduced SCFA levels are linked to IBD, and SCFAs show therapeutic potential for these diseases."
+
+  55. Niacin and Butyrate: Nutraceuticals Targeting Dysbiosis and Intestinal Permeability in Parkinson’s Disease
+     Tennekoon B. Karunaratne; Chijioke Okereke; Marissa Seamon; Sharad Purohit; Chandramohan Wakade; Amo...
+     PMC7824468 · PMC · 2020-12-23 · 50 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7824468/
+     Matched: 10. Conclusions · cat /papers/PMC7824468/content.lines --lines 42-46
+     "This paper reviews niacin and butyrate as nutraceuticals targeting gut dysbiosis and intestinal permeability in Parkinson's disease. These compounds, acting via GPR109A, may improve intestinal barrier function and reduce inflammation."
+
+  56. Ketone body β-hydroxybutyrate blocks the NLRP3 inflammasome-mediated inflammatory disease
+     Yun-Hee Youm; Kim Y. Nguyen; Ryan W. Grant; Emily L. Goldberg; Monica Bodogai; Dongin Kim; Dominic D...
+     PMC4352123 · Nature medicine · 2015-02-16 · 2052 citations
+     https://doi.org/10.1038/nm.3804
+     Matched: cat /papers/PMC4352123/content.lines --lines 20-21
+     "This study investigated the effect of ketone body β-hydroxybutyrate (BHB) on the NLRP3 inflammasome. BHB was found to suppress NLRP3 activation and reduce associated inflammation in cellular and animal models."
+
+  57. cAMP Signaling in Pathobiology of Alcohol Associated Liver Disease
+     Mohamed Elnagdy; Shirish Barve; Craig McClain; Leila Gobejishvili
+     PMC7600246 · PMC · 2020-10-11 · 34 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7600246/
+     Matched: 4.2. Immune Cells/Alcohol Associated Hepatitis (AH) · cat /papers/PMC7600246/content.lines --lines 52
+     "This review examines the role of cAMP signaling in alcohol-associated liver disease (ALD). Disturbances in cAMP homeostasis are implicated in ALD progression, suggesting therapeutic potential for targeting this pathway."
+
+  58. Niacin Enhancement for Parkinson’s Disease: An Effectiveness Trial
+     Raymond Chong; Chandramohan Wakade; Marissa Seamon; Banabihari Giri; John Morgan; Sharad Purohit
+     PMC8245760 · PMC · 2021-06-17 · 38 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8245760/
+     Matched: Discussion · cat /papers/PMC8245760/content.lines --lines 110-112
+     "An effectiveness trial investigated the impact of niacin supplementation on Parkinson's disease symptoms over 12 months. Niacin showed potential to improve motor function, fatigue, mood, and postural control, suggesting it may slow disease progression."
+
+  59. Gut microbiota metabolite regulation of host defenses at mucosal surfaces: implication in precision medicine
+     Anthony J Bilotta; Yingzi Cong
+     PMC6598739 · PMC · 2019-06-18 · 102 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6598739/
+     Matched: SCFA regulation of macrophages · cat /papers/PMC6598739/content.lines --lines 40
+     "Dietary fiber is metabolized by gut bacteria into short-chain fatty acids (SCFAs). SCFAs regulate gut homeostasis and immune responses, offering potential for precision medicine in treating inflammatory bowel disease."
+
+  60. Unraveling the mechanisms of PCOS: the interplay between gut microbiota and the immune system
+     Jun Liu; Li Wang; Min Jiang; Heqiu Yan; Guohui Zhang; Ningjing Li; Yuhong Zhao; Xinrong Du; Qin Zeng...
+     PMC13374169 · PMC · 2026-02-27 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13374169/
+     Matched: Short-chain fatty acids(SCFAs) · cat /papers/PMC13374169/content.lines --lines 51-52
+     "Polycystic ovary syndrome(PCOS), a reproductive endocrine disorder that affects fertility in women of reproductive age, is characterized by high prevalence, diverse clinical manifestations, and unclea"
+
+  61. Recent advances in the positive role of Clostridium in autoimmune diseases: as a crucial regulator of restoring immune-metabolic equilibrium
+     Jing-Yi Zhan; Wen-Ru Wang; Tian Zhan; Jia-Yi Yang; Ying Liang; Ren-Huan Yu; Xin-Hui Wang
+     PMC13057458 · PMC · 2026-03-25 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13057458/
+     Matched: Clostridium in scleroderma · cat /papers/PMC13057458/content.lines --lines 163-166
+     "Reduced Clostridium species are linked to autoimmune diseases. These bacteria restore immune-metabolic balance by improving gut barrier function and modulating immune cells. Clostridium-based treatments show promise for autoimmune conditions."
+
+  62. Regulatory role of short-chain fatty acids in inflammatory bowel disease
+     Zhilin Zhang; Huan Zhang; Tian Chen; Lin Shi; Daorong Wang; Dong Tang
+     PMC9097439 · PMC · 2022-05-11 · 253 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9097439/
+     Matched: Anti-inflammatory mechanism of SCFAs · cat /papers/PMC9097439/content.lines --lines 18-31
+     "This review summarizes how short-chain fatty acids (SCFAs) are generated and their potential therapeutic effects on inflammatory bowel disease (IBD). SCFAs may modulate immune responses and cytokine production, potentially intervening in IBD progression."
+
+  63. The Parkinson's disease–associated kinase LRRK2 regulates genes required for cell adhesion, polarization, and chemotaxis in activated murine macrophages
+     Daniel R. Levy; Atul Udgata; Panagiotis Tourlomousis; Martyn F. Symmons; Lee J. Hopkins; Clare E. Br...
+     PMC7397110 · PMC · 2020-02-28 · 15 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397110/
+     Matched: Discussion · cat /papers/PMC7397110/content.lines --lines 65-67
+     "This study investigated LRRK2's role in activated murine macrophages using RNA-Seq. LRRK2 was found to modulate genes essential for cell adhesion, polarization, and chemotaxis, including Rapgef3."
+
+  64. Gut microbiota and spleen-strengthening and dampness-dispelling therapies in obesity and related metabolic disorders: key mechanisms and therapeutic potential
+     Huiyi Peng; Jincheng Jiang; Zhoujin Tan; Ping Jiang
+     PMC13013495 · PMC · 2026-03-11 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13013495/
+     Matched: Gut microbiota in host inflammation · cat /papers/PMC13013495/content.lines --lines 70-76
+     "Traditional Chinese Medicine's spleen-strengthening and dampness-dispelling therapies rebalance gut microbiota in obesity. These therapies improve lipid and glucose metabolism, reduce inflammation, and combat oxidative stress by modulating gut bacteria."
+
+  65. Gut microbiota in type 2 diabetes mellitus: mechanistic links between dysbiosis, insulin resistance, and chronic low-grade inflammation
+     Yi Chen; Danru Jin; Xue Han; Xiaoting Liu; Yisi Liu; Li Wang
+     PMC13311780 · PMC · 2026-06-02 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13311780/
+     Matched: Other metabolites · cat /papers/PMC13311780/content.lines --lines 39-46
+     "It is becoming more well acknowledged that type 2 diabetes mellitus (T2DM) is a metabolic and inflammatory condition linked to microbiota that involves interrelated disruptions in intestinal integrity"
+
+  66. Modulatory Effects of Regulated Cell Death: An Innovative Preventive Approach for the Control of Mastitis
+     Xiaojing Xia; Pengfei Ren; Yilin Bai; Jingjing Li; Huihui Zhang; Lei Wang; Jianhe Hu; Xinwei Li; Ke ...
+     PMC11506078 · PMC · 2024-10-14 · 9 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11506078/
+     Matched: 3.3. Potential Therapeutic Applications of Autophagy in Mastitis · cat /papers/PMC11506078/content.lines --lines 30
+     "This paper reviews regulated cell death (RCD) mechanisms in mastitis. Understanding RCD's role offers a new preventive strategy for mastitis treatment."
+
+  67. The hydroxycarboxylic acid receptor HCA2 is required for the protective effect of ketogenic diet in epilepsy
+     Jill C. Richardson; Guy A. Higgins; Neil Upton; Peter Massey; Mark Cunningham; Steve Wilson; Joerg H...
+     PMC11496569 · PMC · 2024-10-22 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11496569/
+     Matched: INTRODUCTION · cat /papers/PMC11496569/content.lines --lines 37-38
+     "This study investigated the role of the HCA2 receptor in the ketogenic diet's anti-seizure effects. The HCA2 receptor is essential for the diet's protective benefits, suggesting it's a potential therapeutic target for epilepsy."
+
+  68. Gut Microbiota in Acute Myeloid Leukemia: From Biomarkers to Interventions
+     Meifen Ji; Meixia Ji; Yebo Zhong; Lewen Shao
+     PMC12471731 · PMC · 2025-08-25 · 6 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12471731/
+     Matched: 2. Potential Mechanisms of Gut Microbiota in AML Pathogenesis · cat /papers/PMC12471731/content.lines --lines 20-23
+     "This paper reviews the role of gut microbiota in acute myeloid leukemia (AML). Gut microbiota dysbiosis is linked to AML progression, treatment resistance, and patient outcomes, offering potential for diagnostic biomarkers and therapeutic interventions."
+
+  69. Unraveling the Gut–Liver–Brain Axis: Microbiome, Inflammation, and Emerging Therapeutic Approaches
+     Hiral Aghara; Manali Patel; Prashsti Chadha; Kirti Parwani; Ruchi Chaturvedi; Palash Mandal
+     PMC12197523 · PMC · 2025-06-18 · 29 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12197523/
+     Matched: 6.3. Postbiotics · cat /papers/PMC12197523/content.lines --lines 76-77
+     "This paper reviews the gut-liver-brain axis and its role in metabolic and neurological disorders. Microbiome-targeted therapies show promise for treating these conditions by restoring gut balance."
+
+  70. The gastrointestinal microbiome and constituent short-chain fatty acids: a narrative review of an underexplored axis in acute lymphoblastic leukemia
+     Cate V. Cheney; Elyse C. Page; David T. Yeung; Deborah L. White
+     PMC13429023 · PMC · 2026-06-28 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13429023/
+     Matched: Prevention of septic morbidity/mortality in ALL · cat /papers/PMC13429023/content.lines --lines 92
+     "Acute Lymphoblastic Leukemia (ALL) is an aggressive malignancy of lymphoid progenitors, and remains the most commonly diagnosed hematological cancer in the pediatric population. Although 5-year overal"
+
+  71. Crosstalk between gut microbiota and gut resident macrophages in inflammatory bowel disease
+     Haohao Zhang; Xueying Wang; Jing Zhang; Yixuan He; Xiumin Yang; Yongzhan Nie; Lijuan Sun
+     PMC10732497 · PMC · 2023-12-20 · 58 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10732497/
+     Matched: SCFAs · cat /papers/PMC10732497/content.lines --lines 52-53
+     "This review examines how gut microbiota and resident macrophages interact in inflammatory bowel disease. These interactions, influenced by microbial products, are critical to IBD progression and may offer new therapeutic targets."
+
+  72. Structural insights into ligand recognition and activation of the medium-chain fatty acid-sensing receptor GPR84
+     Heng Liu; Qing Zhang; Xinheng He; Mengting Jiang; Siwei Wang; Xiaoci Yan; Xi Cheng; Yang Liu; Fa-Jun...
+     PMC10241960 · PMC · 2023-06-06 · 57 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10241960/
+     Matched: Introduction · cat /papers/PMC10241960/content.lines --lines 16-17
+     "Cryo-EM structures of GPR84 bound to synthetic and endogenous ligands were determined. These structures reveal a unique hydrophobic binding patch and the role of ECL2 in ligand entry and receptor activation."
+
+  73. AllergoOncology: Microbiota in allergy and cancer—A European Academy for Allergy and Clinical Immunology position paper
+     Eva Untersmayr; Heather J. Bax; Christoph Bergmann; Rodolfo Bianchini; Wendy Cozen; Hannah J. Gould;...
+     PMC6563061 · PMC · 2019-03-06 · 24 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6563061/
+     Matched: Macrophages · cat /papers/PMC6563061/content.lines --lines 150
+     "This paper reviews the role of the microbiota in allergy and cancer development. Imbalances in microbiota are linked to increased risk of these diseases, suggesting potential therapeutic interventions."
+
+  74. Molecular interactions between the intestinal microbiota and the host
+     Salomé Hertli; Petra Zimmermann
+     PMC9325447 · PMC · 2022-04-25 · 67 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9325447/
+     Matched: Butyrate · cat /papers/PMC9325447/content.lines --lines 37-39
+     "This review examines how intestinal microbes interact with the host through direct contact and secreted metabolites. These interactions influence host metabolism, immunity, and neurobiology, offering potential therapeutic targets for various diseases."
+
+  75. An overview of basic pathophysiological interactions between gut bacteria and their host
+     Mathilde Simonson; Thomas Simonson; Estelle Nobécourt
+     PMC12378288 · PMC · 2025-08-12 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12378288/
+     Matched: Interactions mediated by G-protein coupled receptors, or GPCRs · cat /papers/PMC12378288/content.lines --lines 74-75
+     "This review examines basic interactions between gut bacteria and their host. Key findings highlight how bacterial metabolites influence host gene expression and maintain homeostasis."
+
+  76. Mechanism of Microbiota-Gut-Brain in Perimenopausal Depression: An Inflammatory Perspective
+     Xia Yu; Yi Zuo; Yang Yang; Wei Cheng; Mingxiu Shi; Luona Cheng; Qixiang Shao; Yongjun Xu; Li Chen
+     PMC12558631 · PMC · 2025-09-04 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12558631/
+     Matched: SCFAs mechanisms in PMD · cat /papers/PMC12558631/content.lines --lines 51-52
+     "This review examines the role of gut microbiota and inflammation in perimenopausal depression via the microbiota-gut-brain axis. Gut microbiota dysbiosis and associated inflammation are implicated in perimenopausal depression, with probiotics showing therapeutic potential."
+
+  77. Crosstalk between macrophages and immunometabolism and their potential roles in tissue repair and regeneration
+     Hongbo Ma; Limei Gao; Rong Chang; Lihong Zhai; Yanli Zhao
+     PMC11458987 · PMC · 2024-09-18 · 21 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11458987/
+     Matched: Lung · cat /papers/PMC11458987/content.lines --lines 102-108
+     "This review examines how macrophage metabolic pathways, including glucose, lipid, and amino acid metabolism, influence tissue repair and regeneration. Macrophage metabolic activity, differing between pro-inflammatory (M1) and anti-inflammatory (M2) states, produces key intermediates that regulate these processes."
+
+  78. Gut microbiota-derived fatty acid and sterol metabolites: biotransformation and immunomodulatory functions
+     Haohao Zhang; Yadong Xie; Fei Cao; Xinyang Song
+     PMC11271093 · PMC · 2024-07-24 · 61 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11271093/
+     Matched: Innate immunity · cat /papers/PMC11271093/content.lines --lines 58-59
+     "This review summarizes microbial biotransformation of host/dietary lipids into bioactive signaling molecules. These gut microbiota-derived fatty acids and sterols modulate host immune and metabolic processes."
+
+  79. Microbiome and cancer: mechanistic insights, diagnostic potential, and therapeutic strategies
+     Vivek Kumar; Amit Chaudhary; Mansi Gautam; Pankaj Verma; Meenu Singh
+     PMC13375887 · PMC · 2026-07-03 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13375887/
+     Matched: Microbial metabolites and tumorigenesis · cat /papers/PMC13375887/content.lines --lines 32
+     "The human microbiome is now recognized as an active and dynamic participant in cancer biology rather than a passive bystander. Increasing evidence demonstrates that microbial dysbiosis contributes to "
+
+  80. The Impact of Microbiome on Breast Cancer and Regulatory Strategies
+     Jiaxin Wang; Dongyan Xu; Shiyao Hu; Beiwen Zheng; Yiding Chen; Tao Pan
+     PMC12843940 · PMC · 2025-12-29 · 6 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12843940/
+     Matched: 6. Conclusions and Perspective · cat /papers/PMC12843940/content.lines --lines 125-140
+     "This review examines the microbiome's role in breast cancer development, progression, and treatment response. Findings suggest targeting the microbiome could improve cancer therapy efficacy and reduce side effects."
+
+  81. Natural Bioactive Compounds Targeting Gut Barrier Integrity and Metabolic Endotoxemia in Cardiometabolic Disease: Mechanistic Insights and Translational Perspectives
+     Roko Šantić; Lovre Martinović; Nikola Pavlović; Dinko Martinović; Josip Vrdoljak; Marko Kumrić; Mari...
+     PMC13258247 · PMC · 2026-05-27 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13258247/
+     Matched: 8.4. Natural Polysaccharides and Oligosaccharides · cat /papers/PMC13258247/content.lines --lines 94-95
+     "Cardiometabolic diseases are increasingly recognized as disorders of chronic low-grade systemic inflammation and gut barrier dysfunction that mutually reinforce one another. Each condition amplifies t"
+
+  82. Niacin Modulates Pro-inflammatory Cytokine Secretion. A Potential Mechanism Involved in its Anti-atherosclerotic Effect
+     Pedro Saul Lipszyc; Graciela Alicia Cremaschi; María Zorrilla Zubilete; Maria Laura Aón Bertolino; F...
+     PMC3805984 · PMC · 2013-09-20 · 53 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3805984/
+     Matched: Niacin-mediated Modulation of Pro-inflammatory Cytokines · cat /papers/PMC3805984/content.lines --lines 41-42
+     "This study investigated niacin's effect on pro-inflammatory cytokine secretion in macrophages from mice on an atherogenic diet. Niacin reduced elevated cytokine levels, suggesting an anti-inflammatory mechanism contributing to its anti-atherosclerotic effects."
+
+  83. Decoding the microbiome: artificial intelligence-targeted gut microenvironment breakthroughs in personalized cancer therapy
+     Jingwen Liu; Pu Zhao; Deming Jiang; Shuyan Li; Chaoqiao Jin; Dingting Xu; Xiaoying Wang; Yan Chen; B...
+     PMC13224768 · PMC · 2026-05-29 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13224768/
+     Matched: Clinical association between the gut microbiota and tumors · cat /papers/PMC13224768/content.lines --lines 27-28
+     "The gut microbiome functions as a key regulator of tumorigenesis and progression, thereby modulating tumor development and treatment outcomes (including chemoresistance, immunotherapy efficacy, and ad"
+
+  84. Cysteine Donor-Based Brain-Targeting Prodrug: Opportunities and Challenges
+     Gaoyang Ni; Zhenbiao Hu; Ziteng Wang; Min Zhang; Xingyu Liu; Guihong Yang; Zhaowei Yan; Yang Zhang
+     PMC8894025 · PMC · 2022-02-24 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8894025/
+     Matched: 6. Discussion and Conclusion · cat /papers/PMC8894025/content.lines --lines 76-78
+     "This review discusses cysteine donor-based prodrugs for brain delivery. These prodrugs offer potential for treating neurodegenerative disorders by leveraging cysteine's properties and transporter recognition."
+
+  85. Skin Microbiome, Metabolome and Skin Phenome, from the Perspectives of Skin as an Ecosystem
+     Huizhen Chen; Qi Zhao; Qian Zhong; Cheng Duan; Jean Krutmann; Jiucun Wang; Jingjing Xia
+     PMC9712873 · PMC · 2022-10-10 · 76 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9712873/
+     Matched: Regulation of Immunity and Inflammation · cat /papers/PMC9712873/content.lines --lines 75-76
+     "This review examines the skin microbiome as an ecosystem, focusing on host and environmental factors, microbial adaptations, and their impact on skin phenotypes. Key findings highlight how skin microbes influence immunity, physiology, and protection."
+
+  86. Gut microbiota and osteoarthritis: mechanisms and translation
+     Xiaoyuan Tian; Zhenan Qu; Ying Cao; Yichen Wang; Bocheng Zhang
+     PMC13388197 · PMC · 2026-07-08 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13388197/
+     Matched: Subchondral bone, metabolism and sex differences · cat /papers/PMC13388197/content.lines --lines 74-80
+     "Osteoarthritis (OA) is increasingly recognised as a whole-joint disease driven by biomechanical stress, metabolic dysfunction, low-grade inflammation and immune dysregulation, yet effective disease-mo"
+
+  87. Dietary ketone ester attenuates the accretion of adiposity and liver steatosis in mice fed a high-fat, high-sugar diet
+     Kelsey A. Rushing; Mickey L. Bolyard; Taylor Kelty; Nicole Wieschhaus; Gregory Pavela; R. Scott Rect...
+     PMC10128912 · PMC · 2023-04-11 · 11 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10128912/
+     Matched: 4 Discussion · cat /papers/PMC10128912/content.lines --lines 85-86
+     "A ketone ester was added to a high-fat, high-sugar diet in mice. This addition attenuated adiposity and reduced liver steatosis, inflammation, and fibrosis."
+
+  88. Molecular signature of penumbra in acute ischemic stroke: a pilot transcriptomics study
+     Zurab Nadareishvili; Devon Kelley; Marie Luby; Alexis N. Simpkins; Richard Leigh; John K. Lynch; Ami...
+     PMC6469246 · PMC · 2019-03-13 · 10 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6469246/
+     Matched: Discussion · cat /papers/PMC6469246/content.lines --lines 80-83
+     "This pilot study analyzed peripheral blood gene expression in acute ischemic stroke patients with penumbra. Penumbral volume correlated with a gene signature involving inflammation and neuroprotection, potentially regulated by lipopolysaccharide inhibition."
+
+  89. Low-Dose Niacin Supplementation Improves Motor Function in US Veterans with Parkinson’s Disease: A Single-Center, Randomized, Placebo-Controlled Trial
+     Chandramohan Wakade; Raymond Chong; Marissa Seamon; Sharad Purohit; Banabihari Giri; John C. Morgan
+     PMC8698595 · PMC · 2021-12-10 · 19 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8698595/
+     Matched: 4. Discussion · cat /papers/PMC8698595/content.lines --lines 51-52
+     "A randomized trial investigated low-dose niacin for Parkinson's disease motor symptoms. Niacin supplementation over one year showed potential for improving motor function and was well-tolerated."
+
+  90. The Immunomodulatory Potential of Short-Chain Fatty Acids in Multiple Sclerosis
+     Laura Barcutean; Smaranda Maier; Mihai Burai-Patrascu; Lenard Farczadi; Rodica Balasa
+     PMC10970107 · PMC · 2024-03-11 · 47 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10970107/
+     Matched: 2.1.2. Butyrate and Immunomodulation · cat /papers/PMC10970107/content.lines --lines 26-27
+     "This review examines short-chain fatty acids (SCFAs) and their role in modulating immune responses relevant to multiple sclerosis (MS). SCFAs show therapeutic potential by reducing inflammation and restoring immune balance in MS."
+
+  91. From neuro-immune command circuits to microbiota-mediated regulation in the gastrointestinal tumor microenvironment
+     Yuhan Chen; Dong Tang
+     PMC12891202 · PMC · 2026-01-28 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12891202/
+     Matched: The microbial modulator: gut microbiota rewires the neuro-immune circu · cat /papers/PMC12891202/content.lines --lines 59-60
+     "The nervous system plays a profound role in human health and disease, particularly in regulating cancer development through immune system interactions. The enteric nervous system (ENS), often referred"
+
+  92. The roles of microglia and astrocytes in inflammasomes and neurological disorders
+     Yuze Xia; Yimin Huang; Yuan Liu; Xincheng Zhang; Huayu Kang; Yanchao Liu; Chenxuan Yu; Chao Gan; Hua...
+     PMC13378817 · PMC · 2025-08-13 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13378817/
+     Matched: Overview of microglia and neuroinflammation · cat /papers/PMC13378817/content.lines --lines 39-40
+     "Inflammasomes, a category of protein complexes, recognize exogenous pathogens and endogenous tissue damage. In response, they induce inflammatory responses and pyroptosis, and are involved in both inn"
+
+  93. Advances in the study of gut microecology and mechanisms of hyperuricemia and gouty arthritis
+     Youliang Zhang; Hengyu Zhang; Tianwen Miao; Xuetao Wang; Yanan Zuo; Renwei Zhang; Liangtong Zhang; Y...
+     PMC12823916 · PMC · 2026-01-08 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12823916/
+     Matched: Immune regulation · cat /papers/PMC12823916/content.lines --lines 36
+     "This review examines the gut microbiota's role in hyperuricemia and gouty arthritis. Gut dysbiosis contributes to disease pathogenesis, and interventions targeting the gut microbiota show therapeutic promise."
+
+  94. Immunomodulation of Avian Dendritic Cells under the Induction of Prebiotics
+     Vladimir Zmrhal; Petr Slama
+     PMC7222706 · PMC · 2020-04-17 · 15 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7222706/
+     Matched: 6.3. Short-Chain Fatty Acid Production Induced by Fructooligosaccharid · cat /papers/PMC7222706/content.lines --lines 42-44
+     "This review explores how prebiotics might modulate avian dendritic cells in the chicken gut. It suggests prebiotics could activate dendritic cells, influencing immune responses and supporting future research on feed additives."
+
+  95. Gut microbiota–immune crosstalk in childhood and adolescent obesity: mechanistic insights and therapeutic potential focused on short-chain fatty acids and emerging metabolites
+     Xingmeng Song; Qiongyue Zhang; Ahmad Khan; Jing Shang; Jianjiang Xue
+     PMC13462688 · PMC · 2026-07-29 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13462688/
+     Matched: Integrated regulation of systemic immunity and metabolism by SCFAs · cat /papers/PMC13462688/content.lines --lines 47-52
+     "Childhood and adolescent obesity should not be explained only as a problem of eating too much energy and using too little energy. Research now shows that obesity in young people is also linked to chan"
+
+  96. Expression of fatty acid sensing G-protein coupled receptors in peripartal Holstein cows
+     Alea Agrawal; Abdulrahman Alharthi; Mario Vailati-Riboni; Zheng Zhou; Juan J. Loor
+     PMC5331663 · PMC · 2017-03-01 · 18 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5331663/
+     Matched: Background · cat /papers/PMC5331663/content.lines --lines 18-23
+     "Fatty acid sensing GPCRs were profiled in peripartal Holstein cows. These receptors play variable roles in adipose and immune cells, but not the liver, suggesting potential targets for metabolic and immune health."
+
+  97. Tributyrin Intake Attenuates Angiotensin II-Induced Abdominal Aortic Aneurysm in LDLR-/- Mice
+     Chih-Pei Lin; Po-Hsun Huang; Chi-Yu Chen; I-Shiang Tzeng; Meng-Yu Wu; Jia-Shiong Chen; Jaw-Wen Chen;...
+     PMC10178859 · PMC · 2023-04-28 · 6 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10178859/
+     Matched: 3. Discussion · cat /papers/PMC10178859/content.lines --lines 39-40
+     "Tributyrin was administered to mice to study its effects on Angiotensin II-induced abdominal aortic aneurysm. Tributyrin reduced aneurysm size, elastin fragmentation, and macrophage infiltration by inhibiting HDAC activity and AT1R signaling."
+
+  98. Causal Relationship Between Gut Microbiota and Leukemia: Future Perspectives
+     Qiang Yang; Zexin Wang; Miao Liu; Lingling Gan
+     PMC11573970 · PMC · 2024-09-01 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11573970/
+     Matched: Gut Microbiota and Metabolites · cat /papers/PMC11573970/content.lines --lines 51-52
+     "This review explores the intricate relationship between gut microbiota and leukemia, examining causal associations and therapeutic potential. Understanding this link could lead to novel diagnostic and treatment strategies for leukemia."
+
+  99. Endocrine-metabolic imbalance drives osteoarthritis: From whole-joint pathobiology to precision therapy (Review)
+     Ruhui Yang; Haimin Zeng; Qi Xiao; Yining Xie; Yi Long; Xiang Chen
+     PMC13378586 · PMC · 2026-07-09 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13378586/
+     Matched: The Gut-Joint axis: An upstream regulator of metabolic and endocrine s · cat /papers/PMC13378586/content.lines --lines 50-51
+     "Osteoarthritis (OA) is a chronic degenerative joint disease closely associated with aging and metabolic dysfunction, characterized by cartilage degeneration, synovial inflammation, aberrant subchondra"
+
+  100. Butyrate regulates neutrophil homeostasis and impairs early antimicrobial activity in the lung
+     Anh Thu Dang; Christina Begka; Céline Pattaroni; Laura R. Caley; R. Andres Floto; Daniel G. Peckham;...
+     PMC10412508 · PMC · 2023-08-01 · 39 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10412508/
+     Matched: Butyrate influences CXCL2 expression and early Pseudomonas aeruginosa  · cat /papers/PMC10412508/content.lines --lines 20-21
+     "Butyrate was studied for its effects on neutrophil homeostasis and lung immunity. It impairs early bacterial control by reducing neutrophil bactericidal activity, despite increasing their numbers."
+
+  101. Intratumoral Microbiota in Tumor: Current Understandings and Future Perspectives
+     Jiawei Chen; Yupan Bai; Lu Shen; Jiacheng Ying; Jie Xu; Jiayin Tang; Yujie Bao
+     PMC13287974 · PMC · 2026-06-23 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13287974/
+     Matched: Metabolic Modulation and Immune Crosstalk · cat /papers/PMC13287974/content.lines --lines 174-178
+     "Intratumoral bacteria are increasingly recognized as integral and dynamic components of the tumor microenvironment (TME), with profound implications for tumor initiation, progression, metastasis, immu"
+
+  102. The Role of the Gut Microbiota in Female Reproductive and Gynecological Health: Insights into Endometrial Signaling Pathways
+     Patricia Escorcia Mora; Diana Valbuena; Antonio Diez-Juan
+     PMC12113314 · PMC · 2025-05-09 · 66 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12113314/
+     Matched: 4.1. Endometriosis Pathogenesis Through Gut-Driven Inflammatory and Es · cat /papers/PMC12113314/content.lines --lines 44-46
+     "This review examines how gut microbes influence female reproductive health via molecular signaling pathways. Microbial metabolites and shared mechanisms like estrogen recycling and inflammation implicate gut dysbiosis in gynecological disorders."
+
+  103. A Special Network Comprised of Macrophages, Epithelial Cells, and Gut Microbiota for Gut Homeostasis
+     Wei Chen; Dan Liu; Changhao Ren; Xiaomin Su; Chun-Kwok Wong; Rongcun Yang
+     PMC8774616 · PMC · 2022-01-17 · 31 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8774616/
+     Matched: 2.1.2. Effects of Gut Microbiota Metabolites on Resident Macrophages · cat /papers/PMC8774616/content.lines --lines 22-23
+     "This review examines the network formed by gut microbiota, macrophages, and epithelial cells. This network is crucial for maintaining intestinal homeostasis through their cooperative interactions."
+
+  104. Gut microbiome, short-chain fatty acids, alpha-synuclein, neuroinflammation, and ROS/RNS: Relevance to Parkinson's disease and therapeutic implications
+     Balaraman Kalyanaraman; Gang Cheng; Micael Hardy
+     PMC10891329 · PMC · 2024-02-16 · 161 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10891329/
+     Matched: SCFAs, the gut microbiome, alpha-synuclein, microglia, and neuroinflam · cat /papers/PMC10891329/content.lines --lines 22-23
+     "This review examines how gut microbiome-produced short-chain fatty acids influence Parkinson's disease by modulating alpha-synuclein, neuroinflammation, and oxidative stress. Lower SCFA levels in PD patients suggest a potential therapeutic role for restoring them."
+
+  105. Exploring the Triple Interaction between the Host Genome, the Epigenome, and the Gut Microbiome in Type 1 Diabetes
+     Duaa Ahmed Elhag; Manoj Kumar; Souhaila Al Khodor
+     PMC7795494 · PMC · 2020-12-24 · 20 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7795494/
+     Matched: 7. Conclusions · cat /papers/PMC7795494/content.lines --lines 64-67
+     "This paper reviews the interplay between host genetics, epigenetics, and the gut microbiome in Type 1 Diabetes. It suggests these factors likely interact to influence disease development and autoimmunity."
+
+  106. The Encapsulation Strategies for Targeted Delivery of Probiotics in Preventing and Treating Colorectal Cancer: A Review
+     Hao Zhong; Jin Jiang; Muhammad Hussain; Haoxuan Zhang; Ling Chen; Rongfa Guan
+     PMC12079478 · PMC · 2025-04-07 · 64 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12079478/
+     Matched: Effects of Probiotic‐Derived Metabolites in CRC · cat /papers/PMC12079478/content.lines --lines 97-98
+     "This review examines probiotic encapsulation strategies for targeted delivery in colorectal cancer. Single-cell encapsulation shows promise for improving probiotic survival and efficacy in the gastrointestinal tract."
+
+  107. Taming fatty liver: can taurine combat metabolic dysfunction in MASLD?
+     Lin Meng; Fayu Lu; Bing Zhang; Yujia Ma; Jian Gao
+     PMC12522807 · PMC · 2025-10-15 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12522807/
+     Matched: Microbial metabolites and epigenetics · cat /papers/PMC12522807/content.lines --lines 35-36
+     "This review examines MASLD pathogenesis and taurine's potential role in mitigating it. Taurine may offer a novel therapeutic avenue for MASLD management through the gut-liver axis."
+
+  108. Suppression of autoimmune arthritis and neuroinflammation via an amino acid-conjugated butyrate prodrug with enhanced oral bioavailability
+     Shijie Cao *, Erica Budina, Michal M. Raczy, Ani Solanki, Mindy Nguyen, Taryn N. Beckman, Joseph W. ...
+     bio_0812b284726f · bioRxiv · 2023-04-28 · 2 citations (all versions)
+     Published (2023): https://doi.org/10.1101/2023.04.28.538720
+     Matched: Discussion · cat /papers/bio_0812b284726f/content.lines --lines 57-58
+     │ In this study, we investigated the therapeutic potential of SerBut in treating RA and MS
+     │ using CAIA and EAE as murine models. Orally administered free butyrate can be absorbed and
+     │ quickly metabolized by host tissues and cells via butyryl-CoA/acetate CoA transferase and
+     │ phosphotransbutyrylase-butyrate kinase pathways 62 . In the colon, butyrate is primarily
+     │ consumed by the colonocytes as an energy source 29 . By employing a simple chemical strategy
+     │ to conjugate serine to butyrate, we improved the oral bioavailability of butyrate including
+     │ into the CNS, engineering a prodrug candidate that offers several advantages, including a
+     │ lack of unpleasant odor and taste, and higher efficacy compared …
+     "An amino acid-conjugated butyrate prodrug (SerBut) was developed to improve oral bioavailability. SerBut effectively suppressed autoimmune arthritis and neuroinflammation in mouse models."
+
+  109. Microbial metabolites are involved in tumorigenesis and development by regulating immune responses
+     Jiahui Liu; Ruxian Tian; Caiyu Sun; Ying Guo; Lei Dong; Yumei Li; Xicheng Song
+     PMC10758836 · PMC · 2023-12-19 · 40 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10758836/
+     Matched: SCFA directly or indirectly inhibits HDAC to regulate the immune syste · cat /papers/PMC10758836/content.lines --lines 53-54
+     "This review summarizes how microbial metabolites regulate immune responses to influence tumorigenesis and development. These metabolites can both promote and inhibit cancer by modulating immune cell function and mucosal immunity."
+
+  110. Dietary metabolites and the gut microbiota: an alternative approach to control inflammatory and autoimmune diseases
+     James L Richards; Yu Anne Yap; Keiran H McLeod; Charles R Mackay; Eliana Mariño
+     PMC4910123 · PMC · 2016-05-13 · 233 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4910123/
+     Matched: 'You are what you eat': the role of microbial SCFAs in T2D and diabeti · cat /papers/PMC4910123/content.lines --lines 21-22
+     "Dietary metabolites and gut microbiota influence inflammatory and autoimmune diseases. Modulating these factors through diet, probiotics, or metabolites offers a promising approach for prevention and treatment."
+
+  111. A serine-conjugated butyrate prodrug with high oral bioavailability suppresses autoimmune arthritis and neuroinflammation in mice
+     Shijie Cao; Erica Budina; Michal M. Raczy; Ani Solanki; Mindy Nguyen; Taryn N. Beckman; Joseph W. Re...
+     PMC11161413 · PMC · 2024-04-01 · 65 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11161413/
+     Matched: Discussion · cat /papers/PMC11161413/content.lines --lines 59-60
+     "A serine-conjugated butyrate prodrug, SerBut, was developed to improve oral bioavailability. SerBut effectively suppressed autoimmune arthritis and neuroinflammation in mice by modulating immune cells."
+
+  112. Beneficial effect of the short-chain fatty acid propionate on vascular calcification through intestinal microbiota remodelling
+     Jianlong Yan; Yanbin Pan; Wenming Shao; Caiping Wang; Rongning Wang; Yaqiong He; Min Zhang; Yongshun...
+     PMC9667615 · PMC · 2022-11-16 · 145 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9667615/
+     Matched: Discussion · cat /papers/PMC9667615/content.lines --lines 73-74
+     "Propionate supplementation was studied for its effect on vascular calcification via intestinal microbiota. Propionate ameliorates vascular calcification by remodeling the gut microbiota, improving barrier function, and reducing inflammation."
+
+  113. Exploring the Role of Microbiota-Mediated Gut-Kidney Axis in Acute Kidney Injury: Immunomodulation and Therapy
+     Litong Zhu; Shifeng Jiang; Qiulong Yan; Yujia Zhou; Yunfang Zhang; Hongquan Peng; Lili Zhou
+     PMC13441276 · PMC · 2026-06-23 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13441276/
+     Matched: Effects of Metabolites on Immune Cells in AKI · cat /papers/PMC13441276/content.lines --lines 29-38
+     "Acute kidney injury (AKI) remains a major clinical problem characterized by high morbidity and an increased risk of progression to chronic kidney disease (CKD). Immune cell infiltration and activation"
+
+  114. Combined Short-Chain Fatty Acids Induce an Anti-Inflammatory and Anti-Chemotactic Secretory Profile from 3T3-L1 Adipocytes in Normoxic and Hypoxic Environmental Conditions
+     Ala Alzubi; Hannah X. Glowacki; Kelsey Van; Clara E. Cho; Jennifer M. Monk
+     PMC13466062 · PMC · 2026-07-24 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13466062/
+     Matched: 3. Discussion · cat /papers/PMC13466062/content.lines --lines 32-33
+     "Short-chain fatty acids (SCFAs), acetate, propionate, and butyrate, are typically produced in a 3:1:1 ratio, respectively, via microbial fermentation of non-digestible carbohydrates, and to a lesser d"
+
+  115. Impact of fasting & ketogenic interventions on the NLRP3 inflammasome: A narrative review
+     Helena Neudorf; Jonathan P. Little
+     PMC10821592 · PMC · 2023-11-07 · 42 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10821592/
+     Matched: Methods · cat /papers/PMC10821592/content.lines --lines 43-51
+     "This review summarizes how ketogenic interventions impact the NLRP3 inflammasome. Ketogenic interventions, likely through multiple mechanisms including beta-hydroxybutyrate, can reduce NLRP3 inflammasome activation."
+
+  116. Gut microbiota in anemia: mechanistic insights into iron metabolism, vitamin synthesis, and immune regulation
+     Lanxin Xu; Ying Gao; Yang Li; Zunsong Wang
+     PMC13442011 · PMC · 2026-07-23 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13442011/
+     Matched: Mechanisms by which gut microbiota regulates host immune system · cat /papers/PMC13442011/content.lines --lines 40
+     "The gut microbiota, as a vital micro-ecological system within the human body, plays a crucial role in regulating diverse physiological functions. Recent research has increasingly demonstrated its clos"
+
+  117. Gut-lung immunometabolic crosstalk in sepsis: from microbiota to respiratory failure
+     Qixiu Li; Xi-Cheng Song; Kefeng Li; Jing Wang
+     PMC12613236 · PMC · 2025-10-30 · 16 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12613236/
+     Matched: Trimethylamine N-oxide · cat /papers/PMC12613236/content.lines --lines 78-83
+     "This paper reviews the gut-lung axis's role in sepsis, detailing how gut dysbiosis triggers lung inflammation and injury. Interventions targeting the microbiota and vagus nerve show promise but require further mechanistic investigation due to individual variability."
+
+  118. Gut microbial metabolites SCFAs and chronic kidney disease
+     Meng He; Wenqian Wei; Yichen Zhang; Zhouxia Xiang; Dan Peng; Ayijiaken Kasimumali; Shu Rong
+     PMC10874542 · PMC · 2024-02-18 · 110 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10874542/
+     Matched: Vascular calcification · cat /papers/PMC10874542/content.lines --lines 53-55
+     "This paper reviews how gut microbial metabolites, specifically SCFAs, influence chronic kidney disease. SCFAs play a pivotal role in CKD development and prognosis by modulating host inflammatory responses and other pathways."
+
+  119. Sugar Fructose Triggers Gut Dysbiosis and Metabolic Inflammation with Cardiac Arrhythmogenesis
+     Wan-Li Cheng; Shao-Jung Li; Ting-I Lee; Ting-Wei Lee; Cheng-Chih Chung; Yu-Hsun Kao; Yi-Jen Chen
+     PMC8301417 · PMC · 2021-06-25 · 37 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8301417/
+     Matched: 6.3. Effects of SCFAs on Controlling Inflammation · cat /papers/PMC8301417/content.lines --lines 48-49
+     "This review examines how excess fructose intake disrupts gut microbiota and causes inflammation. This gut dysbiosis and inflammation contribute to cardiac arrhythmias and metabolic diseases."
+
+  120. Maternal gut microbiota in the health of mothers and offspring: from the perspective of immunology
+     Xiaowen Lu; Zhan Shi; Lingling Jiang; Songying Zhang
+     PMC10965710 · PMC · 2024-03-13 · 77 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10965710/
+     Matched: Maternal gut microbiota: the role in the immune environment at the mat · cat /papers/PMC10965710/content.lines --lines 33-35
+     "This review examines how maternal gut microbiota influences pregnancy complications and offspring health via immunology. It highlights probiotics and fiber as beneficial interventions."
+
+  121. Microbiota substances modulate dendritic cells activity: A critical view
+     Yuliia Shvets; Natalia Khranovska; Natalia Senchylo; Danylo Ostapchenko; Iryna Tymoshenko; Svitlana ...
+     PMC10912702 · PMC · 2024-02-25 · 20 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10912702/
+     Matched: Interaction of DCs with SCFAs · cat /papers/PMC10912702/content.lines --lines 76-78
+     "This paper reviews how microbiota substances affect dendritic cell activity. These interactions modulate immune responses, influencing susceptibility to pathogens, inflammation, and vaccine efficacy."
+
+  122. Modulating gut microbial biofilms for intestinal barrier repair: opportunities in nutritional intervention
+     Yunhan Huang; Jiayao An; Tianyi Cui; Zhi Cui; Tingting Xia; Xin Zhao
+     PMC13437625 · PMC · 2026-07-22 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13437625/
+     Matched: Biofilms shape anti-inflammatory immune responses · cat /papers/PMC13437625/content.lines --lines 48-49
+     "The gut microbiota has emerged as a key therapeutic target in clinical nutrition for special medical purposes for repairing intestinal barrier damage. However, current strategies primarily focus on mo"
+
+  123. Recent Insights Into the Role of Immune Cells in Alcoholic Liver Disease
+     Sha Li; Hor-Yue Tan; Ning Wang; Yigang Feng; Xuanbin Wang; Yibin Feng
+     PMC6581703 · PMC · 2019-06-12 · 88 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6581703/
+     Matched: Potential Therapeutic Approaches to Treat ALD via Regulation of Immune · cat /papers/PMC6581703/content.lines --lines 51-53
+     "Immune cells, both innate and adaptive, fuel inflammation and disease progression in alcoholic liver disease. Understanding these immune roles offers potential for improved treatments."
+
+  124. Potential of gut-derived short-chain fatty acids to control enteric pathogens
+     Ziyang Zhan; Hao Tang; Ying Zhang; Xinxiang Huang; Min Xu
+     PMC9530198 · PMC · 2022-09-20 · 53 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9530198/
+     Matched: Regulation of the immune system · cat /papers/PMC9530198/content.lines --lines 66-67
+     "This paper reviews how gut-derived short-chain fatty acids (SCFAs) influence enteric pathogens. SCFAs can inhibit pathogens by modifying bacterial proteins and regulating host immunity."
+
+  125. Macrophages play a role in inflammatory transformation of colorectal cancer
+     Lu Lu; Yu-Jing Liu; Pei-Qiu Cheng; Dan Hu; Han-Chen Xu; Guang Ji
+     PMC8713318 · PMC · 2021-12-15 · 15 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8713318/
+     Matched: Intestinal flora and intestinal macrophages · cat /papers/PMC8713318/content.lines --lines 31-33
+     "This paper examines the function and mechanisms of macrophages in colorectal cancer development and its immune microenvironment. Macrophages are identified as crucial players in CRC's inflammatory transformation and potential therapeutic targets."
+
+  126. The role of gut microbiota in neuropathic pain: insights into immune mechanisms
+     Zexiong Gong; Jipeng Zou; Yuxiang Fang; Jie Li; Yan Luo; Qingsheng Xue; Buwei Yu; Bo Hua; Zhiheng Li...
+     PMC12836980 · PMC · 2025-12-23 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12836980/
+     Matched: Lipid · cat /papers/PMC12836980/content.lines --lines 22-23
+     "This review examines how gut microbiota metabolites influence immune cells and neuroinflammation in neuropathic pain. Findings suggest microbiota-targeted therapies hold promise, but sex-specific responses require further study."
+
+  127. The Multifactorial Pathogenesis of Endometriosis: A Narrative Review Integrating Hormonal, Immune, and Microbiome Aspects
+     Zaure Datkhayeva; Ainur Iskakova; Alla Mireeva; Aida Seitaliyeva; Raikhan Skakova; Gulshat Kulniyazo...
+     PMC12113382 · PMC · 2025-04-27 · 21 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12113382/
+     Matched: 4. The Role of Gut Microbiota in the Pathogenesis and Progression of E · cat /papers/PMC12113382/content.lines --lines 62-64
+     "This review examines the gut microbiota's role in endometriosis, focusing on dysbiosis, inflammation, and estrogen metabolism. The gut microbiome significantly influences endometriosis development and may offer targets for future therapies."
+
+  128. Bat-Inspired Longevity: Immune Damage Management and Nutritional Modulation for Healthy Aging
+     Sunmin Park; James W. Daily
+     PMC13207680 · PMC · 2026-05-16 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13207680/
+     Matched: 7.1. Biological Plausibility of Nutritional Modulation · cat /papers/PMC13207680/content.lines --lines 85-86
+     "The exceptional longevity of bats challenges classical theories of inflammaging and suggests an alternative that improved resilience in responding to pathogens and cellular damage can increase longevi"
+
+  129. Interaction between microbiota and immunity and its implication in colorectal cancer
+     Changsheng Xing; Yang Du; Tianhao Duan; Kelly Nim; Junjun Chu; Helen Y. Wang; Rong-Fu Wang
+     PMC9373904 · PMC · 2022-07-29 · 45 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9373904/
+     Matched: 3.3.1 Short-chain fatty acids · cat /papers/PMC9373904/content.lines --lines 97-100
+     "This paper reviews the interaction between gut microbiota and immunity in colorectal cancer (CRC). The microbiota composition influences inflammation and CRC development through immune cell activation and signaling pathways."
+
+  130. Asthma in the Precision Medicine Era: Biologics and Probiotics
+     Chiao-Juno Chiu; Miao-Tzu Huang
+     PMC8123613 · PMC · 2021-04-26 · 56 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8123613/
+     Matched: 6.2. Gut–Lung Axis and Microbial Mechanisms · cat /papers/PMC8123613/content.lines --lines 35-37
+     "This review discusses asthma pathogenesis, focusing on heterogeneity and precision medicine approaches. It highlights the potential of probiotics as an add-on therapy for asthma management."
+
+  131. The Nrf2 Pathway in Depressive Disorders: A Systematic Review of Animal and Human Studies
+     Gabriele Sani; Stella Margoni; Andrea Brugnami; Ottavia Marianna Ferrara; Evelina Bernardi; Alessio ...
+     PMC10135298 · PMC · 2023-03-27 · 38 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10135298/
+     Matched: 3. Results · cat /papers/PMC10135298/content.lines --lines 125-126
+     "This systematic review examined the role of the Nrf2 pathway in depressive disorders across animal and human studies. Findings indicate Nrf2 levels are reduced in depression, and antidepressant treatments increase them, suggesting a protective role."
+
+  132. The Abca7V1613M variant reduces Aβ generation, plaque load, and neuronal damage
+     Claire A. Butler; Adrian Mendoza Arvilla; Giedre Milinkeviciute; Celia Da Cunha; Shimako Kawauchi; N...
+     PMC11247689 · PMC · 2024-03-20 · 16 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11247689/
+     Matched: DISCUSSION · cat /papers/PMC11247689/content.lines --lines 114-115
+     "A mouse model of the human ABCA7 V1599M variant was created and studied. This variant reduces amyloid beta generation, plaque load, and neuronal damage in mice."
+
+  133. Gut Microbiota-Derived Metabolites in the Development of Diseases
+     Guangyu Shen; Jing Wu; Bang-Ce Ye; Nan Qi
+     PMC7815404 · PMC · 2021-01-08 · 52 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7815404/
+     Matched: 2.3. Relationship between Short-Chain Fatty Acids and Inflammation · cat /papers/PMC7815404/content.lines --lines 17-18
+     "This review examines gut microbiota-derived metabolites and their role in disease development. These metabolites, influenced by diet, are key regulators of host responses and contribute to conditions like diabetes and heart disease."
+
+  134. Monocytes differentiated into macrophages and dendritic cells in the presence of human IFN‐λ3 or IFN‐λ4 show distinct phenotypes
+     Manjarika De; Anand Bhushan; Sreedhar Chinnaswamy
+     PMC7611425 · PMC · 2020-11-17 · 15 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7611425/
+     Matched: IFN‐λ4 induces peripheral blood monocyte differentiation into a distin · cat /papers/PMC7611425/content.lines --lines 66-67
+     "Monocytes were differentiated into macrophages and dendritic cells with IFN-λ3 or IFN-λ4. IFN-λ4 induced M1 macrophages with higher IL-10 secretion and promoted a Th2-biased T cell response, unlike IFN-λ3."
+
+  135. Foam Cell Macrophages in Tuberculosis
+     Pooja Agarwal; Siamon Gordon; Fernando O. Martinez
+     PMC8714672 · PMC · 2021-12-15 · 45 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8714672/
+     Matched: Abbreviations · cat /papers/PMC8714672/content.lines --lines 48
+     "This paper discusses foam cell macrophages in tuberculosis, which are lipid-laden immune cells formed in response to infection. These cells play a significant role in the immune and metabolic response to *Mycobacterium tuberculosis*."
+
+  136. Role of Gut Microbiota in Bridging Vitamin D Deficiency and Type 2 Diabetes Mellitus Pathogenesis
+     Yinghua Zhan; Jing Liu; Qiannan Di; Lixin Na
+     PMC13028635 · PMC · 2026-03-11 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13028635/
+     Matched: 5.3. The Mediating Role of Microbial Metabolites in the Vitamin D–T2DM · cat /papers/PMC13028635/content.lines --lines 81-82
+     "Gut microbiota may link vitamin D deficiency and type 2 diabetes. Gut dysbiosis in diabetes can worsen inflammation, a process potentially exacerbated by low vitamin D. Vitamin D might regulate glucose metabolism partly through these gut-related pathways."
+
+  137. The interplay of dietary sugar, chronic inflammation, and bladder cancer: mechanistic insights, evidence, and prevention strategies
+     Larisa Tratnjek; Aleksandar Janev; Tadeja Kuret; Urška Dragin Jerman
+     PMC12926174 · PMC · 2026-02-09 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12926174/
+     Matched: Sugar intake and chronic inflammation in bladder cancer · cat /papers/PMC12926174/content.lines --lines 75-77
+     "High dietary sugar intake promotes bladder cancer by increasing inflammation and metabolic dysregulation. Elevated glucose levels fuel cancer cell growth and invasion, while AGEs and gut microbiota changes activate inflammatory pathways. Maintaining blood sugar control and adopting healthy dietary habits may help prevent bladder cancer."
+
+  138. The effect of short-chain fatty acids on M2 macrophages polarization in vitro and in vivo
+     Chunrong Huang; Wei Du; Yingmeng Ni; Gelei Lan; Guochao Shi
+     PMC8802183 · PMC · 2021-11-29 · 90 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8802183/
+     Matched: Introduction · cat /papers/PMC8802183/content.lines --lines 11-12
+     "Short-chain fatty acids (SCFAs) were studied for their effect on M2 macrophage polarization in vitro and in vivo. SCFAs, particularly butyrate and propionate, inhibit M2 polarization and airway inflammation, likely via GPR43 activation and/or HDAC inhibition."
+
+  139. Postbiotics as Metabolites and Their Biotherapeutic Potential
+     Emília Hijová
+     PMC11121590 · PMC · 2024-05-16 · 98 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11121590/
+     Matched: 5.5. Short-Chain Fatty Acids · cat /papers/PMC11121590/content.lines --lines 72-74
+     "This review examines postbiotics, microbial metabolites with therapeutic potential. Further research is needed to identify new postbiotics and understand their mechanisms for combating metabolic diseases."
+
+  140. Nopalea cochenillifera Regulates the Immune Response and Gut Microbiota in Mice
+     Hana Kozai; Chihiro Watanabe; Rina Kosaka; Takafumi Aoki; Hiroki Hamada; Masato Kawashima; Takumi Ko...
+     PMC11677944 · PMC · 2024-12-19 · 6 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11677944/
+     Matched: 4. Discussion · cat /papers/PMC11677944/content.lines --lines 50-51
+     "This study investigated the effects of a cactus (Nopalea cochenillifera) diet on immune response and gut microbiota in mice. Cactus supplementation regulated immune function and altered the gut microbiota, suggesting potential as a functional food."
+
+  141. Feeding the gut-immune axis: dietary, prebiotic, and probiotic strategies to target persistent inflammation in ART-treated HIV: a narrative review
+     Aaron A. Fletcher; Ziad Koberssy; Joviane Daher; Nicolas Moussallem; Grace A. McComsey
+     PMC13423678 · PMC · 2026-07-17 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13423678/
+     Matched: Introduction · cat /papers/PMC13423678/content.lines --lines 12-13
+     "People living with HIV (PWH) experience ongoing systemic inflammation driven by gut dysbiosis, epithelial barrier disruption, and microbial translocation, despite antiretroviral therapy (ART). This re"
+
+  142. WNT6-ACC2-induced accumulation of triacylglycerol rich lipid droplets is exploited by  M. tuberculosis
+     Julius Brandenburg, Sebastian Marwitz, Simone C. Tazoll, Franziska Waldow, Barbara Kalsdorf, Tim Vie...
+     bio_b9796cdb6dbf · bioRxiv · 2020-06-26 · 2 citations (all versions)
+     Published (2020): https://doi.org/10.1101/2020.06.26.174110
+     Matched: Discussion · cat /papers/bio_b9796cdb6dbf/content.lines --lines 66-67
+     │ Independent studies have documented that pathogens including different mycobacterial species
+     │ can trigger foam cell formation in a Toll-like receptor (TLR) mediated manner 56 – 58 , 59 ,
+     │ 60 . From a metabolic perspective, exposure of macrophages to already a single TLR ligand
+     │ increases TAG storage 12 , 61 , enhances fatty acid uptake 12 , 62 , and diminishes
+     │ mitochondrial fatty acid oxidation even in the presence of sufficient oxygen 12 , 62 . We
+     │ have previously shown that synthetic lipopeptides (Pam3CSK4), lipopolysaccharide (LPS) and
+     │ various mycobacterial species including Mtb induce WNT6 in a TLR - NF-κB-dependent manner 25
+     │ . We now demonstrate that WNT6 drives the accumulation of …
+     "The WNT6-ACC2 pathway was studied for its role in promoting foamy macrophage formation and *M. tuberculosis* growth. Inhibiting this pathway reduces lipid accumulation, bacterial replication, and enhances anti-TB treatment."
+
+  143. Exploring effects of gut microbiota on tertiary lymphoid structure formation for tumor immunotherapy
+     Yuqing Liu; Fan Li; Juanjuan Wang; Rongcun Yang
+     PMC11925796 · PMC · 2025-03-07 · 43 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11925796/
+     Matched: Gut microbiota metabolites · cat /papers/PMC11925796/content.lines --lines 48-49
+     "This review summarizes how gut microbiota-mediated inflammation affects tertiary lymphoid structure formation in tumors. Manipulating gut microbiota could enhance TLS formation for improved anti-tumor immunotherapy."
+
+  144. Impact of Intestinal Microbiota on Growth and Feed Efficiency in Pigs: A Review
+     Gillian E. Gardiner; Barbara U. Metzler-Zebeli; Peadar G. Lawlor
+     PMC7761281 · PMC · 2020-11-28 · 153 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7761281/
+     Matched: 4.2. Modulation of Inflammation · cat /papers/PMC7761281/content.lines --lines 48-49
+     "This review examines the relationship between pig gut microbiota and growth/feed efficiency. Specific bacterial taxa and metabolic pathways are linked to improved productivity, offering potential targets for enhancement."
+
+  145. Parenteral Nutrition-Associated Liver Disease: The Role of the Gut Microbiota
+     Monika Cahova; Miriam Bratova; Petr Wohl
+     PMC5622747 · PMC · 2017-09-07 · 64 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5622747/
+     Matched: 3.2. The Microbiota and Intestinal Macrophages · cat /papers/PMC5622747/content.lines --lines 34
+     "This review examines how parenteral nutrition alters the gut microbiome and its role in liver disease. Findings suggest microbial dysbiosis contributes to PNALD, with probiotics and prebiotics showing therapeutic potential."
+
+  146. Immune mechanism of gut microbiota and its metabolites in the occurrence and development of cardiovascular diseases
+     Jing Lu; Xiao Jin; Shengjie Yang; Yujuan Li; Xinyue Wang; Min Wu
+     PMC9794627 · PMC · 2022-12-14 · 29 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9794627/
+     Matched: SCFAs · cat /papers/PMC9794627/content.lines --lines 52-53
+     "This review examines how gut microbiota and their metabolites influence cardiovascular disease through immune mechanisms. Disruptions in the gut-heart axis, driven by these changes, contribute to CVD development and progression."
+
+  147. Gut Microbiota, Immunity, and Metabolism in the Progression From Chronic Liver Disease to Hepatocellular Carcinoma
+     Yi Hu; Caiyan Lin; Lijie Zhang; Xue Jiang; Huawen Li; Yangzhe Wu
+     PMC13353184 · PMC · 2026-07-10 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13353184/
+     Matched: Gut Microbiota Homeostasis in Healthy Liver Function · cat /papers/PMC13353184/content.lines --lines 98-100
+     "The progression from chronic liver injury to hepatocellular carcinoma (HCC) should be viewed as a heterogeneous continuum of immune, metabolic, fibrotic, and microbial remodeling rather than as a sing"
+
+  148. The Immune System Bridges the Gut Microbiota with Systemic Energy Homeostasis: Focus on TLRs, Mucosal Barrier, and SCFAs
+     Martina Spiljar; Doron Merkler; Mirko Trajkovski
+     PMC5670327 · PMC · 2017-10-30 · 199 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5670327/
+     Matched: Dysregulation of Gut Mucosal Surfaces Can Contribute to Systemic Micro · cat /papers/PMC5670327/content.lines --lines 43-44
+     "This paper reviews how the immune system, through TLRs, the mucosal barrier, and SCFAs, connects the gut microbiota to systemic energy balance. Microbial signals influence immune responses and metabolism, impacting susceptibility to metabolic diseases."
+
+  149. Rhamnocitrin Ameliorates the Intestinal Fibrosis in DSS-Induced Colitis Mice by Modulating Host-Metabolites and Remodeling the Gut Microbiome
+     Ming-Yu Zhang; Zhi-Zhu Ke; Pei-Lin Deng; Yi-Yan Qin; Shu-Lan Mo; Lin-Ting Qiu; Jie-Jing Xu; Chen-Xi ...
+     PMC13203514 · PMC · 2026-05-18 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13203514/
+     Matched: 4. Discussion · cat /papers/PMC13203514/content.lines --lines 59
+     "Ulcerative colitis (UC) is characterized by barrier disruption, microbiota dysbiosis, fibrosis, and impaired autophagy. We investigated the effects of Rhamnocitrin (Rha) in dextran sulfate sodium (DSS"
+
+  150. Gut microbiota and its metabolic products in acute respiratory distress syndrome
+     Dong-Wei Zhang; Jia-Li Lu; Bi-Ying Dong; Meng-Ying Fang; Xia Xiong; Xue-Jun Qin; Xian-Ming Fan
+     PMC10904571 · PMC · 2024-02-16 · 27 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10904571/
+     Matched: Short-chain fatty acids (butyric, acetic, and propionic acids) produce · cat /papers/PMC10904571/content.lines --lines 53-57
+     "This review examines how acute respiratory distress syndrome (ARDS) affects gut microbiota and its metabolites. Altered gut microbiota and its products can influence immune and cellular functions, impacting ARDS development and progression."
+
+  151. Ketogenic diet ameliorates inflammation by inhibiting the NLRP3 inflammasome in osteoarthritis
+     Ganggang Kong; Jinyang Wang; Rong Li; Zhiping Huang; Le Wang
+     PMC9116003 · PMC · 2022-05-18 · 38 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9116003/
+     Matched: Discussion · cat /papers/PMC9116003/content.lines --lines 88-89
+     "A ketogenic diet was studied in a rat model of osteoarthritis. The diet reduced OA damage and inflammation by inhibiting the NLRP3 inflammasome."
+
+  152. Ameliorating Role of Hydrogen-Rich Water Against NSAID-Induced Enteropathy via Reduction of ROS and Production of Short-Chain Fatty Acids
+     Yoshihiro Akita; Masaaki Higashiyama; Chie Kurihara; Suguru Ito; Shin Nishii; Akinori Mizoguchi; Ken...
+     PMC9734488 · PMC · 2022-12-07 · 14 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9734488/
+     Matched: Discussion · cat /papers/PMC9734488/content.lines --lines 72-73
+     "Hydrogen-rich water was studied for its effects on NSAID-induced enteropathy in mice. It ameliorated damage by reducing oxidative stress and increasing short-chain fatty acids, suggesting therapeutic potential."
+
+  153. Multi‐Omics Analysis Reveals the Potential Preventive Mechanism of Lactobacillus salivarius Li01 Against L‐Arginine‐Induced Acute Pancreatitis in Mice
+     Jiamin Duan; Jing Lou; Feiyu Wang; Huiyong Jiang; Longxian Lv; Hongwei Fu
+     PMC12810401 · PMC · 2026-01-16 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12810401/
+     Matched: Discussion · cat /papers/PMC12810401/content.lines --lines 59-60
+     "This study investigated the preventive effects of *Lactobacillus salivarius* Li01 on L-arginine-induced acute pancreatitis in mice. Li01 pretreatment alleviated pancreatic damage by modulating gut microbiota, increasing beneficial bacteria, and regulating steroid hormone biosynthesis metabolites, which impacted inflammatory pathways."
+
+  154. Gut Microbiota and Atherosclerotic Plaque Instability: Cellular and Molecular Mechanisms
+     Riccardo Nieri; Martina Pitolli; Matteo Antonio Russo; Federica Limana
+     PMC13361490 · PMC · 2026-07-03 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13361490/
+     Matched: 3.2.2. Short-Chain Fatty Acids (SCFAs) · cat /papers/PMC13361490/content.lines --lines 56-57
+     "Atherosclerosis is a chronic multifactorial inflammatory vascular disease and the major risk factor for cardiovascular diseases (CVDs), characterized by arterial wall thickening, loss of arterial elas"
+
+  155. Effects of total abdominal irradiation on gut microbiota and metabolome during acute tissue injury
+     Lina Lu; Qingyu Huang; Chao Sun; Shuhe Kang; Pen Jin; Xin Wang; Xingping Luo; Jia Li
+     PMC12714879 · PMC · 2025-12-05 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12714879/
+     Matched: Discussion · cat /papers/PMC12714879/content.lines --lines 109-110
+     "Total abdominal irradiation was studied in mice to characterize radiation-induced intestinal injury. The study found that irradiation caused gut dysbiosis and altered metabolic pathways, contributing to inflammation and tissue damage."
+
+  156. Microbial sensing in the intestine
+     Tingting Wan; Yalong Wang; Kaixin He; Shu Zhu
+     PMC10636641 · PMC · 2023-05-16 · 43 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10636641/
+     Matched: Myeloid cells · cat /papers/PMC10636641/content.lines --lines 63-64
+     "This review examines how host immune cells sense gut microbes and their products. It highlights key receptors and mechanisms involved in maintaining intestinal homeostasis and discusses how disruptions in microbial sensing can lead to diseases like IBD."
+
+  157. Nutritional Components in Western Diet Versus Mediterranean Diet at the Gut Microbiota–Immune System Interplay. Implications for Health and Disease
+     Cielo García-Montero; Oscar Fraile-Martínez; Ana M. Gómez-Lahoz; Leonel Pekarek; Alejandro J. Castel...
+     PMC7927055 · PMC · 2021-02-22 · 407 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7927055/
+     Matched: 4.2. Microbial Metabolites · cat /papers/PMC7927055/content.lines --lines 48-49
+     "This review examines how Western and Mediterranean diets affect the gut microbiota and immune system. The Mediterranean diet positively influences this interplay, while the Western diet negatively impacts it, contributing to non-communicable diseases."
+
+  158. β-cell heterogeneity and molecular plasticity in type 2 diabetes: multi-omics perspectives and the role of gut microbiota
+     Evgeny Ruchko; Maria Chernysheva; Vasily Sokolov; Zakhar Starinnov; Marat Sabirov; Andrey Vasiliev
+     PMC12823862 · PMC · 2026-01-08 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12823862/
+     Matched: Microbial production of SCFAs and their systemic effects · cat /papers/PMC12823862/content.lines --lines 40-41
+     "This paper reviews multi-omics data on pancreatic beta-cell heterogeneity and plasticity in type 2 diabetes. It highlights the role of gut microbiota in glucose homeostasis and beta-cell function, suggesting therapeutic potential."
+
+  159. Dual-Phase Immunomodulation by the Bovine β-Casein Peptide KEMPFPK: Insights into Potential TLR Interaction and Gut Microbiota-Mediated Effects
+     Junpeng Zhang; Xinyu Zhang; Jianping Wu; Guangqing Mu; Xiaomeng Wu
+     PMC13025458 · PMC · 2026-03-19 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13025458/
+     Matched: 3.6. KEMPFPK Modulates Gut Microbiota Composition in Immunosuppressed  · cat /papers/PMC13025458/content.lines --lines 59
+     "The peptide KEMPFPK exhibits dual-phase immunomodulation by enhancing immune cell function and suppressing inflammation. It may interact with TLR2/4, inhibit NF-κB/MAPK pathways, and reshape the gut microbiota to promote beneficial bacteria. This suggests KEMPFPK could be used in functional foods for immune support."
+
+  160. Targeting the gut-lung axis in COPD: from microbial metabolites to fecal microbiota transplantation
+     Zaixin Yu; Weishi Qian; Yanbiao Chu
+     PMC13079329 · PMC · 2026-04-01 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13079329/
+     Matched: Short-chain fatty acids · cat /papers/PMC13079329/content.lines --lines 49-50
+     "Gut microbiota dysbiosis and altered metabolites contribute to COPD by worsening lung inflammation. Fecal microbiota transplantation shows promise in preclinical studies to restore gut health and reduce lung damage. This suggests potential for targeted therapies addressing the gut-lung axis."
+
+  161. Breast Milk and Solid Food Shaping Intestinal Immunity
+     Sara M. Parigi; Maria Eldh; Pia Larssen; Susanne Gabrielsson; Eduardo J. Villablanca
+     PMC4541369 · PMC · 2015-08-19 · 77 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4541369/
+     Matched: Short-chain fatty acids · cat /papers/PMC4541369/content.lines --lines 74
+     "This review discusses how breast milk and solid foods influence the development of the intestinal immune system. Dietary components are crucial for educating the newborn immune system to tolerate harmless antigens and fight pathogens, preventing diseases like allergies and IBD."
+
+  162. A Comprehensive Study of Bidirectional Interactions Between the Human Microbiome and Blood Malignancies and Hematologic Conditions: Focus on Novel Therapeutic Strategies
+     Alireza Molajafari; Hadi Sedigh Ebrahim‐Saraie; Majid Taati Moghadam; Meysam Hasannejad‐Bibalan
+     PMC13399610 · PMC · 2026-07-09 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13399610/
+     Matched: Microbiome and Hematopoiesis · cat /papers/PMC13399610/content.lines --lines 134-135
+     "The human microbiota plays a key role in maintaining host homeostasis by regulating immune responses, metabolism, and hematopoiesis. Microbial dysbiosis has been increasingly associated with immune dy"
+
+  163. Achieving healthy aging through gut microbiota-directed dietary intervention: Focusing on microbial biomarkers and host mechanisms
+     Yue Xiao; Yingxuan Feng; Jianxin Zhao; Wei Chen; Wenwei Lu
+     PMC11785574 · PMC · 2024-03-09 · 68 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11785574/
+     Matched: Gut microbiota-derived metabolites in aging · cat /papers/PMC11785574/content.lines --lines 62-63
+     "This review synthesizes evidence on aging-related gut microbiota, highlighting centenarian features and dietary interventions. Targeting specific microbial biomarkers, like δ-valerobetaine, may promote healthy aging."
+
+  164. Nfil3 integrates circadian rhythm and microbial metabolite signaling to maintain gut–liver immune–metabolic homeostasis under high-fat diet stress
+     Yung-Ni Lin; Wei-Hao Peng; Yu-Chin Huang; Chi-Yu Lai; Jia-Rou Hsu; Jzy-Yu Wang; Yi-Chu Kao; Li-Ling ...
+     PMC13137608 · PMC · 2026-03-24 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13137608/
+     Matched: Abstract · cat /papers/PMC13137608/content.lines --lines 1-30
+     "Disruption of circadian regulation and gut microbial homeostasis is a hallmark of metabolic dysfunction associated with steatotic liver disease (MASLD). Nuclear factor interleukin 3 (Nfil3) integrates"
+
+  165. Microbial metabolites in tumor metabolic reprogramming and immunotherapy: new insights
+     Yi Wang; Dan Huang; Rongrong Wang; Jiaojiao Yin; Jianying Pei; Chong Zhang
+     PMC12631634 · PMC · 2025-11-06 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12631634/
+     Matched: SCFAs · cat /papers/PMC12631634/content.lines --lines 36-37
+     "This review examines microbial metabolites' roles in tumor metabolic reprogramming and immunotherapy. These metabolites directly affect metabolic enzymes, signaling pathways, and immunometabolism, influencing cancer progression and treatment efficacy."
+
+  166. Integrated Metagenomics and Metabolomics Studies Reveal Core Bacterial Guild Regulating Carbohydrate Metabolism in Pediatric MASLD
+     Jiating Huang; Xuelian Zhou; Huiying Wang; Ana Liu; Junfen Fu; Guanping Dong; Ying Shen; Wenqing Xia...
+     bio_2004302b84ab · bioRxiv · 2026-01-01 · 0 citations (all versions)
+     Published (2026): https://doi.org/10.64898/2026.05.11.724093
+     Matched: cat /papers/bio_2004302b84ab/content.lines --lines 60
+     │ 1.Rinella, M.E., et al., A multisociety Delphi consensus statement on new fatty liver
+     │ disease nomenclature. Ann Hepatol, 2024. 29(1): p. 101133. 2.Schwimmer, J.B., S.B.
+     │ Biddinger, and S.H. Ibrahim, MASLD in children: integrating epidemiological trends with
+     │ mechanistic and translational advances. J Clin Invest, 2025. 135(13). 3.Schwimmer, J.B., et
+     │ al., Long-term mortality and extrahepatic outcomes in 1096 children with MASLD: A
+     │ retrospective cohort study. Hepatology, 2025. 4.Li, J., et al., Meta-analysis: global
+     │ prevalence, trend and forecasting of non-alcoholic fatty liver disease in children and
+     │ adolescents, 2000-2021. Aliment Pharmacol Ther, 2022. 56(3): p. 396–406. 5.Omana-Guzman, I.,
+     │ et …
+     "Metabolic dysfunction-associated steatotic liver disease (MASLD) is a prevalent pediatric disorder with limited treatment options, primarily due to an incomplete understanding of its molecular drivers"
+
+[316ms, saved to s_429de313]
+
+💡 Extract data across these results with: map --from s_429de313 "your question"
+[316ms, saved to s_429de313]  [repo: mva-lof-molecular]
+

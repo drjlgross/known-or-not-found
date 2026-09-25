@@ -1,0 +1,21 @@
+{
+  "gene": "Calhm6",
+  "query": "Calhm6 (calcium homeostasis modulator family member 6) LPS macrophage",
+  "also": [],
+  "mode": "filter",
+  "strict": false,
+  "question": "Does this paper describe the expression of the gene Calhm6 changing in response to LPS or bacterial infection?",
+  "date": "2026-09-24T22:58:25Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_8f938fdb",
+  "judge_id": "s_8f938fdb",
+  "parent_n": 25,
+  "yes": 0,
+  "downgraded": 0,
+  "no": 25,
+  "paper_errors": 0,
+  "seconds_search": 9.1,
+  "seconds_judge": 1.5,
+  "seconds_total": 10.7
+}

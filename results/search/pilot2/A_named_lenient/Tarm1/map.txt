@@ -1,0 +1,181 @@
+$ src/pc.sh map --from s_e356de00 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}}} Does this paper describe the expression of the gene Tarm1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_9b451d5a
+
+  ✓ Macrophage autophagy protects against acute kidney injury by inhibitin
+    PMC11702950 · 1619ms
+    {
+      "answer": "yes",
+      "evidence": "Among these, TARM1, a newly identified member of the leukocyte immunoglobulin-like receptor family, was significantly upregulated in atg5\u2212/\u2212 BMDMs compared to WT BMDMs after treatment with LPS and IFNG (Figure 5B, C)."
+    }
+
+  ✓ Triggering Receptor Expressed on Myeloid Cells-1 (TREM-1) in Inflammat
+    PMC12608911 · 1265ms
+    {
+      "answer": "yes",
+      "evidence": "Studies on RAW264.7 macrophage-like cells have shown that Trem-1 gene transcription is regulated by NFκB-1 and the cyclic AMP response element (CRE), both of which contribute to LPS-induced upregulation of TREM-1 promoter activity (L27)."
+    }
+
+  ✓ Expression analysis of G Protein-Coupled Receptors in mouse macrophage
+    PMC2394514 · 1010ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(
+    PMC7053374 · 907ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 942ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Expression of Siglec-E Alters the Proteome of Lipopolysaccharide (LPS)
+    PMC5775731 · 1057ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Physical exercise mitigates chronic psychological stress‐induced vascu
+    PMC13096691 · 942ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Commentary: Triggering Receptor Expressed on Myeloid Cells-1 Inhibitor
+    PMC7026307 · 736ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Gut microbiota and tumor-associated macrophages: potential in tumor di
+    PMC10653702 · 927ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide-mediated macrophage polarization, conserved pathoge
+    PMC13372918 · 1182ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Induction of unique macrophage subset by simultaneous stimulation with
+    PMC10167635 · 1264ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Monocyte normal immune response to LPS stimulation
+    PMC3333514 · 936ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Oral and transdermal administration of lipopolysaccharide safely enhan
+    PMC11994614 · 966ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ A Global Picture of Molecular Changes Associated to LPS Treatment in T
+    PMC9656053 · 874ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Leukadherin-1-Mediated Activation of CD11b Inhibits LPS-Induced Pro-in
+    PMC6379471 · 1349ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ A New Triggering Receptor Expressed on Myeloid Cells (TREM) Family Mem
+    PMC4637344 · 1247ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyr
+    PMC9456100 · 1122ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ TET1 Knockdown Inhibits Porphyromonas gingivalis LPS/IFN-γ-Induced M1 
+    PMC6514734 · 1032ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Hyperinflammation, T cells, and endotoxemia
+    PMC4695100 · 933ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Species-Specificity of Transcriptional Regulation and the Response to 
+    PMC7386301 · 1079ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ LPS combined with CD47mAb enhances the anti‑osteosarcoma ability of ma
+    PMC10091190 · 975ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Inhibition of Triggering Receptor Expressed on Myeloid Cells 1 Amelior
+    PMC6312652 · 1068ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide from biofilm-forming Pseudomonas aeruginosa PAO1 in
+    PMC8289208 · 1123ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ TREM‐1 deficiency attenuates the inflammatory responses in LPS‐induced
+    PMC6801141 · 872ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Macrophage subsets exhibit distinct E. coli-LPS tolerisable cytokines 
+    PMC6533032 · 897ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[24.1s, saved to m_9b451d5a]
+
+  [####................]  5/25 papers  run m_9b451d5a  [2s]
+  [#################...]  22/25 papers  run m_9b451d5a  [4s]
+  [####################]  25/25 papers  run m_9b451d5a  [6s]
+

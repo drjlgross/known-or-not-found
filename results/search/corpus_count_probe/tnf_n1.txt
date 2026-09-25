@@ -1,0 +1,19 @@
+Found 1 papers  [s_c69be12a]
+
+  1. Interactions between Lipopolysaccharide and Peptide Bacteriocin BacSp222 Influence Their Biological Activities
+     Justyna Śmiałek-Bartyzel; Monika Bzowska; Alicja Frączek; Iwona Wojda; Renata Mężyk-Kopeć; Piotr Bo...
+     PMC12340957 · PMC · 2025-07-08 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12340957/
+     Matched: BacSp22 Modulates LPS-Induced TNF Production by Murine Monocytic-Macro · cat /papers/PMC12340957/content.lines --lines 19-21
+     │ The interaction of various bacteriocins with LPS has been previously reported, but the
+     │ biological relevance of such a phenomenon is diversified. − , The present research
+     │ investigated the impact of the staphylococcal bacteriocin BacSp222 on the inflammatory
+     │ response of cells treated with LPS. Two LPS preparations were used in the experiments from
+     │ serotypes O55:B5 and O111:B4. Both are commonly applied in biomedical studies , and belong
+     │ to the R3 type of lipopolysaccharides, containing all three typical chemical structures
+     │ (i.e., O-specific polysaccharides, core oligosaccharides, and lipid A) but differ in details
+     │ of composition of O-antigen, and, to a lesser degree, core oligosaccharides. We …
+     "Interactions between lipopolysaccharide (LPS) and peptide bacteriocin BacSp222 were studied. Complex formation between LPS and BacSp222 selectively reduced their biological activities by interfering with receptor binding and immune responses."
+
+[148ms, saved to s_c69be12a]
+[148ms, saved to s_c69be12a]  [repo: mva-lof-molecular]

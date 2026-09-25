@@ -1,0 +1,47 @@
+$ src/pc.sh results s_8ee84977
+# exit 0
+  Query: filter --from s_8ee84977 'Does this paper describe the expression of the gene Nos2 changing in response to LPS or bacterial infection?'
+Found 7 papers  [s_8ee84977]
+
+  1. Mathematical modelling of activation-induced heterogeneity in TNF, IL6, NOS2, and IL1β expression reveals cell state transitions underpinning macrophage responses to LPS
+     Shoumit Dey; Dave Boucher; Jon Pitchford; Dimitris Lagos
+     PMC9411976 · Wellcome Open Research · 2022-07-25
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9411976/
+     "Mathematical models explored macrophage states and their responses to LPS. Macrophage hypo-responsiveness to a second LPS challenge is driven by altered transition rates between activation states."
+
+  2. Species-Specific Transcriptional Regulation of Genes Involved in Nitric Oxide Production and Arginine Metabolism in Macrophages
+     Rachel Young; Stephen J. Bush; Lucas Lefevre; Mary E. B. McCulloch; Zofia M. Lisowski; Charity Muriu...
+     PMC6245571 · pmc · 2018-11-05
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6245571/
+     "This study analyzed gene expression related to nitric oxide production in macrophages from various species. Macrophage responses to LPS stimulation, including NOS2 induction, are not conserved across species and may b..."
+
+  3. Pheophytin a Inhibits Inflammation via Suppression of LPS-Induced Nitric Oxide Synthase-2, Prostaglandin E2, and Interleukin-1β of Macrophages
+     Chun-Yu Lin; Chien-Hsing Lee; Yu-Wei Chang; Hui-Min Wang; Chung-Yi Chen; Yen-Hsu Chen
+     PMC4284740 · pmc · 2014-12-09
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4284740/
+     "Pheophytin a was studied for its anti-inflammatory effects on macrophages. It was found to suppress key inflammatory mediators like nitric oxide and prostaglandin E2 by inhibiting specific signaling pathways."
+
+  4. Activation of macrophage nuclear factor-κB and induction of inducible nitric oxide synthase by LPS
+     Ying-Hua Li; Zhong-Qun Yan; Annelie Brauner; Kjell Tullus
+     PMC150509 · pmc · 2002-09-05
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC150509/
+     "This study investigated how LPS activates macrophage NF-κB and iNOS, and how steroids affect these processes. LPS induces iNOS expression and NO production via NF-κB activation, which is suppressed by dexamethasone an..."
+
+  5. Dataset on the differentiation of THP-1 monocytes to LPS inducible adherent macrophages and their capacity for NO/iNOS signaling
+     Adem Ozleyen; Yakup Berkay Yilmaz; Tugba Boyunegmez Tumer
+     PMC7851796 · pmc · 2021-01-21
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7851796/
+     "This study details optimized conditions for differentiating THP-1 monocytes into adherent macrophages and inducing inflammatory responses. The differentiated cells exhibit significant NO/iNOS signaling and altered exp..."
+
+  6. Innate Resistance to Leishmania amazonensis Infection in Rat Is Dependent on NOS2
+     Yun-Fu Chen; Si-Fei Yu; Chang-You Wu; Na Wu; Jia Shen; Juan Shen; Jiang-Mei Gao; Yan-Zi Wen; Geoff H...
+     PMC8586549 · pmc · 2021-10-29
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8586549/
+     "This study investigated the role of NOS2 in rat resistance to *Leishmania amazonensis*. The findings indicate that NOS2-dependent nitric oxide production is crucial for innate resistance to this infection."
+
+  7. The Sur1-Trpm4 channel regulates NOS2 transcription in TLR4-activated microglia
+     David B. Kurland; Volodymyr Gerzanich; Jason K. Karimy; Seung Kyoon Woo; Rudi Vennekens; Marc Freich...
+     PMC4888589 · pmc · 2016-06-01
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4888589/
+     "Sur1-Trpm4 channels regulate NOS2 transcription in TLR4-activated microglia. These channels control calcineurin/NFAT signaling, impacting NO production and pro-inflammatory gene expression."
+

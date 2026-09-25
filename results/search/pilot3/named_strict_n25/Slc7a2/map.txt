@@ -1,0 +1,162 @@
+$ src/pc.sh map --from s_40c3813a --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Slc7a2 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes in response to LPS or bacterial infection? Answer yes or no. If yes, quote the sentence reporting that result; it must name the gene or its protein. Use an empty string if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_425b8d86
+
+  ✓ Species-Specific Transcriptional Regulation of Genes Involved in Nitri
+    PMC6245571 · 1470ms
+    {
+      "answer": "yes",
+      "evidence": "In rats, as in mice (19), LPS greatly increased (18-fold) expression of the cationic amino acid transporter, Slc7a2, whereas goats were the only large animal species in which SLC7A2 mRNA was detectable (TPM 6) and regulated to any degree by LPS, with an induced level (TPM≈16) still lower than the basal level in the rat (TPM 46)."
+    }
+
+  ✓ FOCIS abstract supplement
+    PMC7128890 · 6689ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ The NF-κB-SLC7A11 axis regulates ferroptosis sensitivity in inflammato
+    PMC12268560 · 1116ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Characterisation of genes differentially expressed in macrophages by v
+    PMC6411972 · 1406ms
+    {
+      "answer": "yes",
+      "evidence": "The expression level of Slc7a2 was significantly increased later (12–24 h) after infection in Ra-infected macrophages compared with macrophages infected with Rv (Fig. 3A–C)."
+    }
+
+  ✓ Amino acid transporters within the solute carrier superfamily: Underap
+    PMC11112377 · 1190ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(
+    PMC7053374 · 1014ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Exosomal miR-148a-3p from LPS-Activated Macrophages Promotes M1 Polari
+    PMC13199726 · 1037ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Cationic Amino Acid Transporter 2 Enhances Innate Immunity during Heli
+    PMC3237590 · 1410ms
+    {
+      "answer": "yes",
+      "evidence": "We have demonstrated that cationic amino acid transporter 2 (CAT2) expression is upregulated in macrophages in vitro, and in mouse and human gastritis tissues, with co-localization to gastric macrophages by immunostaining; we also identified CAT2 as the protein responsible for the uptake of l-arginine (L-Arg) into macrophages [4]."
+    }
+
+  ✓ l-Arginine Uptake by Cationic Amino Acid Transporter Promotes Intra-Ma
+    PMC5526900 · 1078ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ “Of Mice and Men”: Arginine Metabolism in Macrophages
+    PMC4188127 · 920ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Sulfur metabolic response in macrophage limits excessive inflammatory 
+    PMC10412850 · 995ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Slc7a11‐Mediated Cystine/Glutamate Antiport Reprograms Macrophage Pola
+    PMC12950507 · 945ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ In Lysinuric Protein Intolerance system y+L activity is defective in m
+    PMC2999609 · 998ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ A new metabolomic assay to examine inflammation and redox pathways fol
+    PMC3507808 · 944ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Frontline Science: LPS‐inducible SLC30A1 drives human macrophage‐media
+    PMC7891337 · 858ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Species-Specificity of Transcriptional Regulation and the Response to 
+    PMC7386301 · 1336ms
+    {"answer": "yes", "evidence": "As noted previously (Young et al., 2018) the sheep BMDM did not show induction of NOS2 mRNA, nor of the inducible arginine transporter SLC7A2 at any time point."}
+
+  ✓ Cationic Amino Acid Transporter-2 Regulates Immunity by Modulating Arg
+    PMC2265428 · 1074ms
+    {
+      "answer": "yes",
+      "evidence": "Several pro-inflammatory mediators including LPS can regulate the expression of CAT2; thus, it likely functions as the key L-arginine transporter during inflammatory responses."
+    }
+
+  ✓ Downregulation of SLC7A7 Triggers an Inflammatory Phenotype in Human M
+    PMC5868322 · 804ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Single-cell to pre-clinical evaluation of Trem2, Folr2, and Slc7a7 as 
+    PMC12713647 · 1078ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Solute Carrier Family 37 Member 2 (SLC37A2) Negatively Regulates Murin
+    PMC7232099 · 1075ms
+    {"answer": "yes", "evidence": "Interestingly, LPS rapidly increased SLC37A2 protein level in wild-type (WT) bone marrow-derived macrophages (BMDMs) at 1 h."}
+
+  ✓ Role of SLC7A5 in Metabolic Reprogramming of Human Monocyte/Macrophage
+    PMC5788887 · 902ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Hematopoietic Cell-Specific SLC37A2 Deficiency Accelerates Atheroscler
+    PMC8702732 · 1008ms
+    {"answer": "yes", "evidence": "L15: SLC37A2 deletion reprograms macrophages to a hyper-glycolytic state of energy metabolism and accelerates M (LPS) activation, partially depending on nicotinamide adenine dinucleotide (NAD+) biosynthesis."}
+
+  ✓ Loss of Solute Carrier Family 7 Member 2 Exacerbates Inflammation-Asso
+    PMC6377304 · 920ms
+    {
+      "answer": "yes",
+      "evidence": "Slc7a2 mRNA levels were not detectable in control or AOM-DSS treated Slc7a2−/− mice (Supplementary Figure 1)."
+    }
+
+  ✓ Expression and Regulation of the Proton-Coupled Oligopeptide Transport
+    PMC4051248 · 1466ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Aberrant Expression of SLC7A11 Impairs the Antimicrobial Activities of
+    PMC11077379 · 916ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[21.8s, saved to m_425b8d86]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  0/25 papers  run m_425b8d86  [2s]
+  [#######.............]  9/25 papers  run m_425b8d86  [4s]
+  [###########.........]  14/25 papers  run m_425b8d86  [6s]
+  [############........]  16/25 papers  run m_425b8d86  [8s]
+  [#################...]  22/25 papers  run m_425b8d86  [10s]
+  [####################]  25/25 papers  run m_425b8d86 (1 failed)  [13s]
+  [####################]  25/25 papers  run m_425b8d86 (1 failed)  [21s]
+

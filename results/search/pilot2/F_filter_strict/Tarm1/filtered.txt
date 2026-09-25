@@ -1,0 +1,6 @@
+$ src/pc.sh results s_c4d940e5
+# exit 0
+  Query: filter 'Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Tarm1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes in response to LPS or bacterial infection?' --from s_c4d940e5
+Found 0 papers  [s_c4d940e5]
+
+

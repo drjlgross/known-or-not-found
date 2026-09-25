@@ -1,0 +1,261 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Calhm6 (calcium homeostasis modulator family member 6) LPS macrophage
+# exit 0
+Found 25 papers  [s_075a2b60]
+
+  1. Calhm6 Governs Macrophage Polarization Through Chp1‐Camk4‐Creb1 Axis and Ectosomal Delivery in Inflammatory Responses
+     Yanlong Xin; Xiaofan Xiong; Yan Zhang; Siyu Zhang; Shuting Zhang; Yu Yang; Yingxue Liang; Lulu Zang;...
+     PMC12766987 · PMC · 2025-09-26 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12766987/
+     Matched: Ectosomes Carrying Calhm6 Suppress Severe Inflammation in Response to  · cat /papers/PMC12766987/content.lines --lines 24-25
+     │ Expression profiling demonstrated high levels of Calhm6 mRNA in the spleen, bone marrow, and
+     │ peripheral blood mononuclear cells (PBMCs) (Figure S1D, Supporting Information), consistent
+     │ with data from The Human Protein Atlas, which highlights CALHM6 expression in the
+     │ hematological system, particularly in macrophages. We next generated RAW 264.7 cells
+     │ overexpressing GFP‐flagged Calhm6 (OE‐Calhm6) and control cells (empty vector, EV).
+     │ OE‐Calhm6 cells secreted ectosomes enriched in Calhm6, which were confirmed to be within the
+     │ 100–200 nm size range (Figure 1G). These ectosomes were efficiently internalized by RAW
+     │ 264.7 cells (Figure 1H) and restored Calhm6 expression in Calhm6‐knockout bone …
+     "Calhm6-bearing ectosomes were studied for their role in macrophage polarization and inflammatory responses. These ectosomes promote anti-inflammatory M2 polarization, while Calhm6 deficiency leads to pro-inflammatory M1 polarization."
+
+  2. HDAC6 Deacetylase Activity Is Critical for Lipopolysaccharide-Induced Activation of Macrophages
+     Bing Yan; Songbo Xie; Zhu Liu; Jie Ran; Yuanyuan Li; Jian Wang; Yang Yang; Jun Zhou; Dengwen Li; Min...
+     PMC4199742 · PLoS ONE · 2014-10-16 · 59 citations
+     https://doi.org/10.1371/journal.pone.0110718
+     Matched: Abstract · cat /papers/PMC4199742/content.lines --lines 1-7
+     "This study investigated the role of HDAC6 in lipopolysaccharide-induced macrophage activation. HDAC6 deacetylase activity is critical for this activation, mediated by its effects on cell adhesion and microtubule acetylation, not F-actin."
+
+  3. Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni, Yanal Ghosheh, Akula Bala Pramod, Klaus Ley
+     PMC6543837 · Frontiers in Immunology · 2019-05-24 · 1909 citations
+     https://doi.org/10.3389/fimmu.2019.01084
+     "This study compared gene expression in *in vivo* M1/M2 macrophages with *in vitro* classically/alternatively activated macrophages. The findings indicate that *in vivo* M1/M2 polarization is not equivalent to *in vitro* activation states."
+
+  4. Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni; Yanal Ghosheh; Akula Bala Pramod; Klaus Ley
+     PMC7053374 · Frontiers in Immunology · 2020-02-25 · 77 citations
+     https://doi.org/10.3389/fimmu.2020.00234
+
+  5. Macrophages release neuraminidase and cleaved calreticulin for programmed cell removal
+     Allison Banuelos; Michelle Baez; Allison Zhang; Leyla Yılmaz; William Kasberg; Regan Volk; Nardin Ge...
+     PMC12130849 · PMC · 2025-05-21 · 10 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12130849/
+     Matched: LPS Activation Promotes CALR Translocation to the Cell Surface and Sec · cat /papers/PMC12130849/content.lines --lines 17-19
+     │ Previous studies demonstrated that lipopolysaccharide (LPS) activation via TLR4 signaling
+     │ induces a robust increase in CALR on the surface of mouse macrophages (14). To assess
+     │ whether this increase also occurs in human macrophages, we isolated CD14+ monocytes from
+     │ healthy donor peripheral blood mononuclear cells (PBMCs) and differentiated them into
+     │ macrophages in media containing human serum (Fig. 1A). By day 7 of differentiation,
+     │ macrophages displayed characteristic morphology and robust expression of CD64, confirming
+     │ successful differentiation (SI Appendix, Fig. S1 A and B). Fig. 1.: LPS activation promotes
+     │ CALR secretion by macrophages. (A) CD14+ monocytes were isolated from healthy …
+     "Macrophages release cleaved calreticulin and neuraminidase to mark cells for removal. This coordinated process facilitates target cell recognition and clearance by macrophages."
+
+  6. Epigenetic profile in lipopolysaccharide-stimulated macrophages
+     Ester Correia Sarmento Rios; Thais Martins Lima Salgado; Francisco Garcia Soriano
+     PMC3953056 · Critical Care · 2013-11-05 · 0 citations
+     https://doi.org/10.1186/cc12987
+
+  7. The ion channel CALHM6 controls bacterial infection‐induced cellular cross‐talk at the immunological synapse
+     Sara Danielli; Zhongming Ma; Eirini Pantazi; Amrendra Kumar; Benjamin Demarco; Fabian A Fischer; Ush...
+     PMC10068325 · PMC · 2023-03-02 · 27 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10068325/
+     Matched: Single‐cell calcium imaging · cat /papers/PMC10068325/content.lines --lines 275-277
+     │ Macrophages and N2a cells were plated on poly‐L‐lysine–coated glass coverslips. Cells were
+     │ loaded with Fura‐2 by incubation in medium containing 4 μM Fura‐2‐AM for 30 min or 2 μM for
+     │ 45 min for macrophages and N2a cells, respectively, followed by 5 min continuous perfusion
+     │ with dye‐free 2‐mM Ca2+ bath solution. The background‐subtracted emitted light at 520 nm
+     │ upon excitation with 340 and 380 nm light was used to calculate the F340/380 ratio with
+     │ VisiView. 2 mM Ca2+ bath solution (in mM): 140 NaCl, 5 KCl, 2 CaCl2, 10 Glucose, 5
+     │ Na‐Pyruvate, 10 HEPES, pH 7.4 with NaOH. 0‐Ca2+ bath solution (in mM): 140 NaCl, 5 KCl, 5
+     │ EGTA, 10 Glucose, 5 Na‐Pyruvate, 10 HEPES, pH 7.4 with NaOH.
+     "CALHM6's role in regulating early innate control of Listeria monocytogenes infection was studied in mice. CALHM6 facilitates ATP release at the macrophage-NK cell synapse, controlling NK cell activation kinetics."
+
+  8. Store-operated calcium entry facilitates LPS-induced superoxide anion-dependent macrophage extracellular traps
+     Thang Ngoc Nguyen; Tzu-Chien Lin; Waratchaya Chimphlee; Kon Xuen Siew; Naphatsawan Vongmanee; Shih-C...
+     PMC12308322 · PMC · 2025 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12308322/
+     Matched: Funding · cat /papers/PMC12308322/content.lines --lines 68
+     │ This work was supported by the National Science and Technology Council of Taiwan (NSTC
+     │ 113-2740-B-006-002 and NSTC 113-2311-B-006-009).
+     "This study investigated the role of calcium in LPS-induced macrophage extracellular traps (METs). Store-operated calcium entry (SOCE) facilitates superoxide anion generation, leading to METosis."
+
+  9. Resolving macrophage polarization through distinct Ca2+ entry channel that maintains intracellular signaling and mitochondrial bioenergetics
+     Viviane Nascimento Da Conceicao; Yuyang Sun; Karthik Ramachandran; Arun Chauhan; Amritha Raveendran;...
+     PMC8591423 · PMC · 2021-10-23 · 58 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8591423/
+     Matched: Characterization of store-operated Ca2+ channels in naive bone marrow- · cat /papers/PMC8591423/content.lines --lines 20
+     │ We next studied the role of bacterial lipopolysaccharide (LPS) that is known to induce the
+     │ M1 phenotype. Naive Mφ cells treated with LPS (100 ng/mL for 6 h) showed an increase in
+     │ [Ca2+]i, which was again inhibited by the addition of SKF-96365 or 2APB (Figures 1H and 1I).
+     │ Immunoblot analysis of the Ca2+ entry channels showed an increase in TRPC1 expression,
+     │ whereas no significant change in Orai1 or STIM1 expression was observed upon LPS treatment
+     │ (Figures 1J and S1D). Of interest, the current properties were also different in LPS-treated
+     │ cells as a more linear (outward rectifying) TRPC1-like Ca2+ current was observed, which was
+     │ still blocked by SKF-96365 or 2APB (Figures 1K and 1L) (Liu et …
+     "Distinct calcium entry channels, Orai1 for M2 and TRPC1 for M1, regulate macrophage polarization. These channels are crucial for signaling, mitochondrial function, and cytokine production, influencing inflammatory responses."
+
+  10. Ionized calcium‐binding adaptor molecule 1 positive macrophages and HO‐1 up‐regulation in intestinal muscularis resident macrophages
+     Hanne B. Mikkelsen; Jan D. Huizinga; Jytte O. Larsen; Svend Kirkeby
+     PMC5484384 · PMC · 2017-02-12 · 18 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5484384/
+     Matched: Animals · cat /papers/PMC5484384/content.lines --lines 23
+     │ Eight to nine week‐old female C57Bl/6 (B6) mice (Taconic) were used. One group of mice (N =
+     │ 10) was injected intraperitoneally with 20 µg/g LPS (Escherichia coli) (Sigma, Serotype
+     │ 055:B5, L‐2880) dissolved in sterile saline. Another group of animals (N = 8) was
+     │ sham‐injected with sterile saline. The animals were fed with standard laboratory chow, had
+     │ free access to water and food, and were killed by cervical dislocation 6 hr after injection.
+     │ The mice were housed in a high quality barrier with high hygienic standards and housed and
+     │ experimentally manipulated in accordance with current national regulations issued by The
+     │ Danish Council on Animal Care.
+     "Resident macrophages in the intestinal muscularis externa were studied after LPS stimulation. LPS up-regulates HO-1 in a subset of these macrophages, suggesting a pro-inflammatory response."
+
+  11. Monocyte normal immune response to LPS stimulation
+     P Myrianthefs; K Venetsanou; E Grouzi; E Boutzouka; P Evagelopoulou; G Fildissis; I Spiliotopoulou; ...
+     PMC3333514 · Critical Care · 2002-03-01 · 1 citation
+     https://doi.org/10.1186/cc1554
+
+  12. Inhibition of Extracellular Calcium Influx Results in Enhanced IL-12 Production in LPS-Treated Murine Macrophages by Downregulation of the CaMKKβ-AMPK-SIRT1 Signaling Pathway
+     Xin Liu; Ning Wang; Yuanfeng Zhu; Yongjun Yang; Xiaoli Chen; Shijun Fan; Qian Chen; Hong Zhou; Jiang...
+     PMC4904125 · PMC · 2016-05-30 · 28 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4904125/
+     Matched: 2.2. Cell Treatment · cat /papers/PMC4904125/content.lines --lines 17
+     "Extracellular calcium influx was studied in LPS-treated macrophages and found to inhibit IL-12 production. Blocking this influx enhances IL-12 by downregulating the CaMKKβ-AMPK-SIRT1 pathway."
+
+  13. Structure and assembly of calcium homeostasis modulator proteins
+     Johanna L Syrjanen; Kevin Michalski; Tsung-Han Chou; Timothy Grant; Shanlin Rao; Noriko Simorowski; ...
+     PMC7015811 · PMC · 2020-01-27 · 86 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7015811/
+     Matched: cat /papers/PMC7015811/content.lines --lines 11-12
+     │ Permeation of ions and/or substrates such as ATP by CALHM proteins is fundamental to the
+     │ physiology of depression[1] and cognition[2] as well as the pathology of Alzheimer’s disease
+     │ (AD)[3]. The CALHM family comprises six members, CALHM1–6 (sequence homology ~30–50%),
+     │ amongst which CALHM1 has been the most extensively studied family to date. CALHM1 forms a
+     │ channel that conducts ATP[4] and ions including Ca2+, Na+, K+, and Cl− in a voltage-
+     │ dependent manner[5]. A single nucleotide polymorphism (SNP) within the calhm1 gene that
+     │ results in a Pro86Leu mutation was reported to be a risk factor for early onset of AD[3] and
+     │ at the cellular level, this mutation has been shown to promote deposition …
+     "Structures of chicken CALHM1 and human CALHM2 channels were determined using cryo-EM. CALHM1 forms 8-mers and CALHM2 forms 11-mers, with CALHM2's larger pore potentially accommodating lipids."
+
+  14. Correction to “Calhm6 Governs Macrophage Polarization Through Chp1‐Camk4‐Creb1 Axis and Ectosomal Delivery in Inflammatory Responses”
+     PMC13383683 · PMC · 2026-07-20 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13383683/
+     Matched: cat /papers/PMC13383683/content.lines --lines 8-11
+     │ Correction 2 After verifying the original files, we confirm that Figure 6M is fully correct
+     │ and requires no changes. The error is limited to Figure 7E, where the IP‐Chp1 and TCL‐Chp1
+     │ bands were mistakenly replaced by the Chp1 bands from Figure 6M. We have updated Figure 7E
+     │ using authentic raw data. The corrected Figure 7E is provided below. Corrected Figure 7E All
+     │ errors were caused by inadvertent copy‐paste mistakes during figure preparation. These
+     │ revisions do not affect the original experimental data, results, or core conclusions of this
+     │ study.
+
+  15. Microglial Calhm2 regulates neuroinflammation and contributes to Alzheimer’s disease pathology
+     Jinbo Cheng; Yuan Dong; Jun Ma; Ruiyuan Pan; Yajin Liao; Xiangxi Kong; Xiaoheng Li; Shuoshuo Li; Pin...
+     PMC8386937 · PMC · 2021-08-25 · 115 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8386937/
+     Matched: Calhm2 knockout inhibits LPS-induced neuroinflammation in vivo and in  · cat /papers/PMC8386937/content.lines --lines 39-40
+     │ To further investigate the role of Calhm2 in neuroinflammation, we established an acute LPS
+     │ injection mouse model as previously described (31). Intraperitoneal injection of LPS
+     │ significantly increased the level of some inflammatory cytokines, including IL-1β, TNFα, and
+     │ IL-6. Notably, knockout of Calhm2 markedly inhibited the level of these cytokines (Fig. 5, G
+     │ to J), suggesting a vital role for Calhm2 in mediating neuroinflammation. Furthermore, we
+     │ analyzed the changes in microglial morphology by staining Iba1. Two LPS injections induced
+     │ significant changes to the microglial morphology, characterized by decreased branch numbers,
+     │ total branch length, and average branch length, and a …
+     "This study investigated the role of microglial Calhm2 in neuroinflammation and Alzheimer's disease. Microglial Calhm2 was found to regulate neuroinflammation and contribute to Alzheimer's disease pathology."
+
+  16. Baicalin Modulates Inflammatory Response of Macrophages Activated by LPS via Calcium-CHOP Pathway
+     Hyo-Jin An; Ji-Young Lee; Wansu Park
+     PMC9563021 · PMC · 2022-09-30 · 35 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9563021/
+     Matched: 5. Conclusions · cat /papers/PMC9563021/content.lines --lines 55-60
+     "Baicalin was studied for its anti-inflammatory effects on LPS-activated macrophages. It significantly reduced inflammatory cytokine production and reactive oxygen species via the calcium-CHOP pathway."
+
+  17. CTRP6 promotes the macrophage inflammatory response, and its deficiency attenuates LPS-induced inflammation
+     Cheng Xu; Dylan C. Sarver; Xia Lei; Ageline Sahagun; Jun Zhong; Chan Hyun Na; Assaf Rudich; G. Willi...
+     PMC10789631 · The Journal of Biological Chemistry · 2023-12-14 · 21 citations
+     https://doi.org/10.1016/j.jbc.2023.105566
+     Matched: Discussion · cat /papers/PMC10789631/content.lines --lines 173-174
+     │ Using a combination of unbiased and targeted approaches, we provided new insights concerning
+     │ the direct action of CTRP6 on macrophages. We showed that CTRP6 engages the MAPK and NF-κB
+     │ signaling pathways in macrophages to drive the expression of proinflammatory gene expression
+     │ and cytokine production and secretion. In resting BMDMs, CTRP6 treatment alone was
+     │ sufficient to promote the expression of proinflammatory genes, and induce a metabolic shift
+     │ from oxidative metabolism toward aerobic glycolysis, and enhanced mitochondrial ROS
+     │ production. Pretreatment with CTRP6 also sensitized and potentiated BMDMs response to LPS.
+     │ In contrast, BMDMs lacking CTRP6 had significantly reduced LPS-induced …
+     "CTRP6 was studied for its role in macrophage inflammation. CTRP6 promotes inflammatory responses in macrophages and dampens LPS-induced inflammation in mice."
+
+  18. Moutan Cortex Extract Modulates Macrophage Activation via Lipopolysaccharide-Induced Calcium Signaling and ER Stress-CHOP Pathway
+     Hyun-Ju Kim; Do-Hoon Kim; Wansu Park
+     PMC9916843 · PMC · 2023-01-20 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9916843/
+     Matched: 2.4. Cytosolic Calcium Level · cat /papers/PMC9916843/content.lines --lines 21
+     "Moutan Cortex extract was studied for its effects on lipopolysaccharide-induced macrophage activation. The extract significantly inhibited inflammatory mediators, calcium signaling, and ER stress-related gene expression."
+
+  19. miR-106a Targets Anoctamin 1 (ANO1) to Regulate Lipopolysaccharide (LPS)-Induced Inflammatory Response in Macrophages
+     Junfeng Heng; Dingye Wu; Shiqi Lu; Yiming Zhao
+     PMC7556292 · PMC · 2020-10-10 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7556292/
+     Matched: miR-106a level is increased and ANO1 level is downregulated in LPS-tre · cat /papers/PMC7556292/content.lines --lines 55
+     "This study investigated miR-106a and ANO1's role in LPS-induced inflammation in macrophages. MiR-106a targets ANO1 to regulate this inflammatory response, suggesting therapeutic potential."
+
+  20. Dietary targeting of TRPM8 rewires macrophage immunometabolism reducing colitis severity
+     D. Cicia; F. Biscu; FA. Iannotti; M. Miraglia; C. Ferrante; N. Iaccarino; S. Cadenas de Miguel; A. C...
+     PMC12032354 · PMC · 2025-04-25 · 13 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12032354/
+     Matched: TRPM8 is required for LPS-induced Ca2+ influx in macrophages · cat /papers/PMC12032354/content.lines --lines 33-35
+     │ In macrophages LPS initiates a rapid rise in intracellular Ca2+ levels [37], however, the
+     │ underlying mechanism remains largely unclear. Considering that TRPM8 can mediate Ca2+
+     │ responses in macrophages and is upregulated upon stimulation with LPS in our experimental
+     │ conditions (Fig. 2A–D), we hypothesized that TRPM8 mediates the Ca2+ currents evoked by LPS.
+     │ To test this, we measured LPS-induced intracellular Ca2+ changes in WT or Trpm8−/− BMDMs. In
+     │ line with previous reports, WT macrophages displayed a robust rise in cytosolic calcium
+     │ levels after LPS (100 ng/mL) stimulation (Fig. 2E–H). In sharp contrast, Trpm8−/− BMDMs
+     │ showed significantly lower levels of basal fluorescence intensity and …
+     "TRPM8 channels in macrophages were targeted with luteolin, a dietary flavonoid. This intervention reduced colitis severity by promoting a tolerogenic macrophage phenotype and decreasing pro-inflammatory cytokine production."
+
+  21. Osteocalcin Alleviates Lipopolysaccharide-Induced Acute Inflammation via Activation of GPR37 in Macrophages
+     Zhengjiang Qian; Chunhua Liu; Hongchao Li; Haiyang Yang; Jianhao Wu; Jing Liu; Yanjiao Li; Xuhui Che...
+     PMC9138386 · PMC · 2022-04-27 · 16 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9138386/
+     Matched: 3.2. OCN Inhibits the Release of Pro-Inflammatory Factors in LPS-Treat · cat /papers/PMC9138386/content.lines --lines 45
+     "Osteocalcin alleviates LPS-induced acute inflammation by activating GPR37 in macrophages. This activation reduces inflammatory cytokine release and enhances phagocytic function, offering a potential therapeutic strategy."
+
+  22. Calcitonin Peptide Family Members Are Differentially Regulated by LPS and Inhibit Functions of Rat Alveolar NR8383 Macrophages
+     Aichurek Soultanova; Zbigniew Mikulski; Uwe Pfeil; Veronika Grau; Wolfgang Kummer
+     PMC5063294 · PMC · 2016-10-13 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5063294/
+     Matched: Calcium measurements · cat /papers/PMC5063294/content.lines --lines 51-53
+     "Calcitonin peptide family members and their receptors are differentially regulated by LPS in rat alveolar macrophages. These peptides inhibit macrophage phagocytosis and TNF-α production, suggesting a feedback mechanism in bacterial infection."
+
+  23. Mitochondrial Calcium Nanoregulators Reverse the Macrophage Proinflammatory Phenotype Through Restoring Mitochondrial Calcium Homeostasis for the Treatment of Osteoarthritis
+     Xiao Lei; Guodong Tan; Yiming Wang; Li Chen; Yuan Cao; Bingxin Si; Zhen Zhen; Bei Li; Yan Jin; Wei W...
+     PMC10046163 · PMC · 2023-03-24 · 20 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10046163/
+     Matched: METP NPs Regulate Calcium Homeostasis in BMDMs Under LPS Stimulation i · cat /papers/PMC10046163/content.lines --lines 81-83
+     │ To clarify the effects of METP NPs on m[Ca2+] levels and global calcium homeostasis in
+     │ macrophages under an inflammatory microenvironment, changes in the m[Ca2+] level, ER[Ca2+]
+     │ level and c[Ca2+] level in LPS-activated macrophages were investigated. Firstly, to explore
+     │ whether macrophages actively capture and internalize METP NPs in vitro, METP NPs were
+     │ conjugated with a FITC fluorescent dye and incubated with BMDMs. Mitochondria were
+     │ specifically labeled with the MitoTracker Deep Red probe at each time point. The infrared
+     │ and green fluorescence signals were analyzed by Pearson’s coefficient index and
+     │ statistically analyzed. The colocalization of infrared and FITC fluorescence signals …
+     "Mitochondrial calcium nanoregulators (METP NPs) were developed to target and block excess calcium influx into mitochondria. These nanoparticles effectively reversed the proinflammatory phenotype of macrophages in osteoarthritis by restoring mitochondrial calcium homeostasis."
+
+  24. Selection of reliable reference genes for the normalisation of gene expression levels following time course LPS stimulation of murine bone marrow derived macrophages
+     Akane Tanaka, Joyce To, Bronwyn O’Brien, Sheila Donnelly, Maria Lund
+     PMC5627409 · biomedrxiv · 2017-10-03 · 29 citations
+     https://doi.org/10.1186/s12865-017-0223-y
+     "This study assessed the stability of eight common reference genes in LPS-stimulated murine macrophages. It found that some traditional genes are unreliable, and identified two new, stable reference genes for accurate gene expression analysis."
+
+  25. Calcium Signaling in Macrophages During a Wound Response In Vivo
+     Jordan A. Munos; Pui-Ying Lam
+     PMC13206805 · biomedrxiv · 2026-05-16 · 0 citations
+     https://doi.org/10.3390/ijms27104463
+
+[2.9s, saved to s_075a2b60]
+
+💡 Extract data across these results with: map --from s_075a2b60 "your question"
+[2.9s, saved to s_075a2b60]  [repo: mva-lof-molecular]
+

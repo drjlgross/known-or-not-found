@@ -1,0 +1,197 @@
+$ src/pc.sh map --from s_054f62ac --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Rnd1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_d08ce3d4
+
+  ✓ Essential role of Rnd1 in innate immunity during viral and bacterial i
+    PMC9161769 · 1305ms
+    {
+      "answer": "yes",
+      "evidence": "Results suggest that Rnd1 is induced by virus and bacterial infection and pro-inflammatory cytokines but not by Type-I interferons (Fig. 1D).",
+      "context": "To confirm the induction of Rnd1 in humans, we infected A549 cells with influenza virus H1N1 strain PR8 (PR8) and Hela or peripheral blood mononuclear cells (PBMCs) with Listeria monocytogenes (LM) and analysed the expression of Rnd1 (Fig. 1A–C)."
+    }
+
+  ✓ Rho GTPase Expression in Human Myeloid Cells
+    PMC3420873 · 1769ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ The RND1 Small GTPase: Main Functions and Emerging Role in Oncogenesis
+    PMC6696182 · 953ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Deletion of Rac1GTPase in the Myeloid Lineage Protects against Inflamm
+    PMC4777421 · 1100ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ A New Member of the Rho Family, Rnd1, Promotes Disassembly of Actin Fi
+    PMC2132722 · 914ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ RvD1 accelerates the resolution of inflammation by promoting apoptosis
+    PMC8575873 · 1344ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Macrophage Migration and Its Regulation by CSF-1
+    PMC3296313 · 1150ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ A Global Picture of Molecular Changes Associated to LPS Treatment in T
+    PMC9656053 · 925ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Monocyte normal immune response to LPS stimulation
+    PMC3333514 · 1547ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Data in support of Rap2a GTPase expression, activation and effects in 
+    PMC6531833 · 938ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Mice Genetically Hyporesponsive to Lipopolysaccharide (LPS) Exhibit a 
+    PMC2196359 · 1389ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Species-Specificity of Transcriptional Regulation and the Response to 
+    PMC7386301 · 1158ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Exosomal miR-148a-3p from LPS-Activated Macrophages Promotes M1 Polari
+    PMC13199726 · 943ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Macrophages form dendrite-like pseudopods to enhance bacterial ingesti
+    PMC12402336 · 1147ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Lipopolysaccharide-induced inflammation in monocytes/macrophages is bl
+    PMC5743190 · 975ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Mathematical modelling of activation-induced heterogeneity reveals cel
+    bio_206e5a35 · 1133ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Rho family GTPase 1 (RND1), a novel regulator of p53, enhances ferropt
+    PMC9066768 · 954ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyr
+    PMC9456100 · 1513ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Role and mechanism of miR-144-5p in LPS-induced macrophages
+    PMC6909656 · 1483ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Differential Regulation of Rab GTPase Expression in Monocyte-Derived D
+    PMC3764041 · 1193ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Dynamic nucleosome redistribution and increases in nucleosome sensitiv
+    bio_eb053077 · 1311ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ RND3 Potentiates Proinflammatory Activation through NOTCH Signaling in
+    PMC10857877 · 1361ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Lipopolysaccharide uptake is augmented in lipopolysaccharide‐tolerant 
+    PMC13398632 · 1190ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Impaired Rho GTPase activation abrogates cell polarization and migrati
+    PMC3214256 · 1101ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Spatiotemporal proteomic profiling of the pro-inflammatory response to
+    PMC8486773 · 1148ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[23.3s, saved to m_d08ce3d4]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  0/25 papers  run m_d08ce3d4  [2s]
+  [########............]  10/25 papers  run m_d08ce3d4  [4s]
+  [##############......]  18/25 papers  run m_d08ce3d4  [6s]
+  [################....]  21/25 papers  run m_d08ce3d4  [8s]
+  [##################..]  23/25 papers  run m_d08ce3d4  [10s]
+  [####################]  25/25 papers  run m_d08ce3d4  [12s]
+  [####################]  25/25 papers  run m_d08ce3d4  [23s]
+

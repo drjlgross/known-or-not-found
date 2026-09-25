@@ -1,0 +1,175 @@
+$ src/pc.sh map --from s_c6d98963 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}}} Does this paper describe the expression of the gene Col27a1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_d7c856c3
+
+  ✓ The orientation of choroidal macrophage polarization significantly inf
+    bio_b06931d1 · 1362ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Induction of unique macrophage subset by simultaneous stimulation with
+    PMC10167635 · 1276ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Interleukins-27 Aggravates Liver Injury by Impairing the Antimicrobial
+    PMC11882325 · 1157ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ LPS combined with CD47mAb enhances the anti‑osteosarcoma ability of ma
+    PMC10091190 · 1058ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Transcriptional profiling of the LPS induced NF-κB response in macroph
+    PMC1781469 · 1416ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ INVOLVEMENT OF MACROPHAGES IN COLLAGEN RESORPTION
+    PMC2107732 · 1502ms
+    {"answer":"no","evidence":""}
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 1207ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Comparative Study of The Effect of LPS on The Function of BALB/c and C
+    PMC3660024 · 1125ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Exosomal miR-148a-3p from LPS-Activated Macrophages Promotes M1 Polari
+    PMC13199726 · 998ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ IL-27 Aggravates Sepsis-Induced ARDS by Driving Macrophage Ferroptosis
+    PMC12967598 · 953ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ A sequential macrophage activation strategy for bone regeneration: A m
+    PMC11063594 · 1238ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ IL-27 neutralization enhances macrophage polarization and improves imm
+    bio_5e67bb72 · 1192ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LPS‐Induced Inflammation Prior to Injury Exacerbates the Development o
+    PMC7689775 · 1039ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Motif prediction to distinguish LPS-stimulated pro-inflammatory vs. an
+    PMC2949756 · 1312ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Effect of regulating macrophage polarization phenotype on intervertebr
+    PMC9609449 · 1050ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Overview of RAW264.7 for osteoclastogensis study: Phenotype and stimul
+    PMC6484317 · 1210ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LPS Counter Regulates RNA Expression of Extracellular Proteases and Th
+    PMC3317238 · 1014ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Mathematical modelling of activation-induced heterogeneity reveals cel
+    bio_206e5a35 · 1374ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Progranulin inhibits LPS-induced macrophage M1 polarization via NF-кB 
+    PMC7275413 · 972ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Mmu-miR-27a-5p-Dependent Upregulation of MCPIP1 Inhibits the Inflammat
+    PMC4534598 · 1005ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LPS Tolerance Inhibits Cellular Respiration and Induces Global Changes
+    PMC7918892 · 1046ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ STAT3 blockade ameliorates LPS-induced kidney injury through macrophag
+    PMC11453053 · 915ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ IL-27 amplifies cytokine responses to Gram-negative bacterial products
+    PMC6135775 · 1219ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ IL-27 induces an IFN-like signature in murine macrophages which in tur
+    PMC10157156 · 1114ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Mathematical modelling of activation-induced heterogeneity in TNF, IL6
+    PMC9411976 · 926ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[22.1s, saved to m_d7c856c3]
+
+  [###.................]  4/25 papers  run m_d7c856c3  [2s]
+  [#############.......]  17/25 papers  run m_d7c856c3  [4s]
+  [################....]  21/25 papers  run m_d7c856c3  [6s]
+  [#################...]  22/25 papers  run m_d7c856c3  [8s]
+  [###################.]  24/25 papers  run m_d7c856c3  [10s]
+  [####################]  25/25 papers  run m_d7c856c3  [12s]
+

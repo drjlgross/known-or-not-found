@@ -1,0 +1,15 @@
+{
+  "gene": "Lipg",
+  "query": "Lipg LPS macrophage",
+  "filter_question": "Does this paper show that LPS or bacterial infection changes the level (mRNA or protein) of Lipg, including when it is referred to by an alias or its human ortholog name?",
+  "date": "2026-09-24T17:55:36Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_f38c8baf",
+  "parent_n": 25,
+  "yes": 0,
+  "no": 25,
+  "seconds_search": 0.7,
+  "seconds_filter": 1.5,
+  "seconds_total": 2.6
+}

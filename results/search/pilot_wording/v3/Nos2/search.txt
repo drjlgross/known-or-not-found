@@ -1,0 +1,277 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Nos2 LPS macrophage
+# exit 0
+Found 25 papers  [s_41f6df11]
+
+  1. Protein Kinase Cε Is Required for Macrophage Activation and Defense Against Bacterial Infection
+     Antonio Castrillo; Daniel J. Pennington; Florian Otto; Peter J. Parker; Michael J. Owen; Lisardo Bos...
+     PMC2195971 · PMC · 2001-11-05 · 211 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2195971/
+     Matched: Macrophages from PKCε−/− Mice Generate Reduced NO and Express Lower Le · cat /papers/PMC2195971/content.lines --lines 50-51
+     │ As macrophages are known to generate NO via the upregulation of the expression of NOS-2, the
+     │ protein level of NOS-2 was assessed in vitro after the activation of thioglycollate-elicited
+     │ macrophages by LPS and IFNγ. Fig. 3 A demonstrates that cultured macrophages from PKCε−/−
+     │ mice displayed a severely reduced level of NOS-2 protein expression after both 18 and 24 h
+     │ of stimulation when compared with wild-type cells. To verify this decrease in LPS-induced
+     │ NOS-2 expression, LPS was administered in vivo via an intraperitoneal injection. After 24 h,
+     │ macrophages were isolated from the peritoneal cavity and again assayed for NOS-2 protein
+     │ expression. As shown in Fig. 3 B, the extent of induction of …
+     "This study investigated the role of Protein Kinase Cε (PKCε) in macrophage activation and bacterial infection. PKCε is essential for macrophage response to bacterial stimuli and host defense, with its absence leading to increased mortality."
+
+  2. Nitric oxide produced by NOS2 copes with the cytotoxic effects of superoxide in macrophages
+     Sho Kobayashi; Takujiro Homma; Junichi Fujii
+     PMC7905073 · PMC · 2021-02-20 · 9 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7905073/
+     Matched: NO production was elevated in WT and SOD1-deficient macrophages upon L · cat /papers/PMC7905073/content.lines --lines 63-64
+     │ We then assessed the release of NO from macrophages by measuring nitrite, the oxidation
+     │ product of NO in culture media. Nitrite levels were elevated only in the LPS-stimulated WT
+     │ and SOD1KO macrophages but not in the NOS2-deficient cells (Fig. 3A). It is noteworthy that
+     │ NO production was significantly higher in the SOD1KO macrophages than that for the WT
+     │ macrophages upon LPS stimulation. The NOS2 protein catalyzes the production of NO from
+     │ arginine and releases citrulline as another product [2]. Citrulline and ornithine as well as
+     │ arginine are amino acids that are involved in the urea cycle, and hence their levels are
+     │ correlated. We then measured contents of amino acids and GSH-related …
+     "This study investigated the role of nitric oxide (NO) in protecting macrophages from superoxide toxicity. NO produced by NOS2 was found to counteract superoxide's cytotoxic effects, particularly under inflammatory conditions."
+
+  3. Mathematical modelling of activation-induced heterogeneity reveals cell state transitions underpinning macrophage responses to LPS
+     S. Dey, D. Boucher, J. W. Pitchford, D. Lagos *
+     bio_206e5a356c66 · bioRxiv · 2021-09-19 · 0 citations (all versions)
+     Published (2021): https://doi.org/10.1101/2021.09.19.461010
+     Matched: Macrophage community AIH is dependent on LPS dose · cat /papers/bio_206e5a356c66/content.lines --lines 42-45
+     │ Figure 1: Macrophage community AIH is dependent on LPS dose A. Flow cytometry gating to show
+     │ 16 sub-populations determined based on TNF, IL-6, pro-IL-1b and NOS2. B. Pie charts
+     │ represent the community composition at 16 hours post stimulus with the indicated doses of
+     │ LPS for RAW264.7. Data representative of three independent experiments. Next, we explored
+     │ AIH in BMDMs, a cell model more faithfully capturing heterogeneity of primary macrophages.
+     │ As in the case of RAW264.7 cells, exposure to LPS induced population heterogeneity in BMDMs
+     │ albeit with different kinetics to that observed in RAW264.7 cells (compare Figure 2 with
+     │ Figure 1B ). Whereas all populations were observed at 16h (12h …
+     "This study mathematically models macrophage responses to LPS, analyzing single-cell protein expression. Macrophage hypo-responsiveness to secondary LPS challenges is driven by altered transition rates to non-responsive states."
+
+  4. Lipopolysaccharide-Induced Nitric Oxide and Prostaglandin E2 Production Is Inhibited by Tellimagrandin II in Mouse and Human Macrophages
+     Chun-Yu Lin; Shih-Han Kao; Ling-Chien Hung; Hsin-Ju Chien; Wen-Hung Wang; Yu-Wei Chang; Yen-Hsu Chen
+     PMC8146495 · PMC · 2021-04-30 · 26 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8146495/
+     Matched: 3.2. TGII Reduces LPS-Stimulated NO Production in Macrophages by Regul · cat /papers/PMC8146495/content.lines --lines 40
+     "Tellimagrandin II was studied for its anti-inflammatory effects on macrophages stimulated by lipopolysaccharide. TGII significantly inhibited nitric oxide and prostaglandin E2 production by reducing key inflammatory signaling pathways."
+
+  5. Mathematical modelling of activation-induced heterogeneity in TNF, IL6, NOS2, and IL1β expression reveals cell state transitions underpinning macrophage responses to LPS
+     Shoumit Dey; Dave Boucher; Jon Pitchford; Dimitris Lagos
+     PMC9411976 · Wellcome Open Research · 2022-07-25 · 2 citations
+     https://doi.org/10.12688/wellcomeopenres.17557.2
+     Matched: LPS challenge · cat /papers/PMC9411976/content.lines --lines 29-30
+     │ LPS from Escherichia coli serotype 055:B5 (Sigma-Aldrich, L2880) was used. This is a phenol
+     │ extracted LPS with <3% protein impurity. Approximately 125-150,000 RAW264.7 cells or BMDMs
+     │ were plated overnight before experiments. All cells were plated in a Corning 24 well plate
+     │ in 500ul of DMEM. For LPS titration experiments, cells were either stimulated with LPS or
+     │ were left in media (untreated) on day 1. Cells were challenged with 1, 10, 100 or 1000 ng/ml
+     │ of LPS. Supernatant was collected at 24 hours and stored at -20 oC. Cells were harvested for
+     │ flow cytometry at 16 or 24 hours from LPS stimulus. For inducing hypo-responsiveness, cells
+     │ were either stimulated with 10 or 1000 ng/ml of LPS or …
+     "Mathematical models explored macrophage states and their responses to LPS. Macrophage hypo-responsiveness to a second LPS challenge is driven by altered transition rates between activation states."
+
+  6. Species-Specific Transcriptional Regulation of Genes Involved in Nitric Oxide Production and Arginine Metabolism in Macrophages
+     Rachel Young; Stephen J. Bush; Lucas Lefevre; Mary E. B. McCulloch; Zofia M. Lisowski; Charity Muriu...
+     PMC6245571 · PMC · 2018-11-05 · 52 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6245571/
+     Matched: The bovine NOS2 BOV-A2 element is LPS responsive · cat /papers/PMC6245571/content.lines --lines 43
+     "This study analyzed gene expression related to nitric oxide production in macrophages from various species. Macrophage responses to LPS stimulation, including NOS2 induction, are not conserved across species and may be influenced by retrotransposon insertions."
+
+  7. Selective PPARδ Agonist GW501516 Protects Against LPS-Induced Macrophage Inflammation and Acute Liver Failure in Mice via Suppressing Inflammatory Mediators
+     Hyun-Joung Lim; Hyun Jeong Kwak
+     PMC11547330 · Molecules · 2024-11-02 · 6 citations
+     https://doi.org/10.3390/molecules29215189
+     Matched: 2.3. GW501516 Suppresses NOS2 Expression in LPS-Activated RAW264.7 Cel · cat /papers/PMC11547330/content.lines --lines 20
+     │ LPS induces inflammatory response primarily by activating Kupffer cells in the liver.
+     │ Therefore, we used LPS-induced RAW264.7 cells as an in vitro surrogate model for Kupffer
+     │ cells to estimate the in vitro inflammatory response. Treatment with LPS (100 ng/mL)
+     │ significantly increased both mRNA and protein levels of NOS2 in RAW264.7 cells. In contrast,
+     │ pretreatment with GW501516 (100 nM, 12 h prior to LPS activation) significantly, although
+     │ not completely, reduced LPS-induced NOS2 expression at both mRNA and protein levels (Figure
+     │ 3A,B). Additionally, the level of nitrite (NO2−), one of the major metabolites of nitrogen
+     │ monoxide (NO) and an indicator of NO production [26], was greatly …
+     "GW501516, a PPARδ agonist, was studied for its effects on macrophage inflammation and acute liver failure. It protected against liver injury by suppressing inflammatory mediators, including IL-1β, IL-6, and TNF-α."
+
+  8. Pheophytin a Inhibits Inflammation via Suppression of LPS-Induced Nitric Oxide Synthase-2, Prostaglandin E2, and Interleukin-1β of Macrophages
+     Chun-Yu Lin; Chien-Hsing Lee; Yu-Wei Chang; Hui-Min Wang; Chung-Yi Chen; Yen-Hsu Chen
+     PMC4284740 · PMC · 2014-12-09 · 41 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4284740/
+     Matched: 3.10. NOS2 Promoter Activity Assay · cat /papers/PMC4284740/content.lines --lines 56
+     "Pheophytin a was studied for its anti-inflammatory effects on macrophages. It was found to suppress key inflammatory mediators like nitric oxide and prostaglandin E2 by inhibiting specific signaling pathways."
+
+  9. Lipopolysaccharide-Induced Nitric Oxide, Prostaglandin E2, and Cytokine Production of Mouse and Human Macrophages Are Suppressed by Pheophytin-b
+     Chun-Yu Lin; Wen-Hung Wang; Shin-Huei Chen; Yu-Wei Chang; Ling-Chien Hung; Chung-Yi Chen; Yen-Hsu Ch...
+     PMC5751240 · PMC · 2017-12-06 · 48 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5751240/
+     Matched: 1. Introduction · cat /papers/PMC5751240/content.lines --lines 13-14
+     "Pheophytin-b was studied for its anti-inflammatory effects on lipopolysaccharide-stimulated macrophages. It suppressed nitric oxide, prostaglandin E2, and cytokine production by inhibiting STAT-1 and PI3K/Akt pathways."
+
+  10. Inducible nitric oxide synthase-derived extracellular nitric oxide flux regulates proinflammatory responses at the single cell level
+     Veena Somasundaram; Anne C. Gilmore; Debashree Basudhar; Erika Mariana Palmieri; David A. Scheiblin;...
+     PMC6920088 · PMC · 2019-11-01 · 62 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6920088/
+     Matched: Different proinflammatory stimuli induce distinct extracellular NO flu · cat /papers/PMC6920088/content.lines --lines 21-22
+     "This study investigated how nitric oxide (NO) flux from inducible NO synthase (iNOS) affects proinflammatory macrophages. High NO flux, restricted to specific cells, limits hypoxic gradients and influences macrophage function, impacting tumor progression."
+
+  11. Acetylation of mitogen-activated protein kinase phosphatase-1 inhibits Toll-like receptor signaling
+     Wangsen Cao; Clare Bao; Elizaveta Padalko; Charles J. Lowenstein
+     PMC2413043 · PMC · 2008-06-09 · 172 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2413043/
+     Matched: HDAC inhibitors decrease LPS activation of NOS2 expression · cat /papers/PMC2413043/content.lines --lines 14-15
+     │ To explore the effect of global protein acetylation upon NOS2 expression, we pretreated RAW
+     │ 264.7 murine macrophages with the HDAC inhibitor trichostatin A (TSA) or control, added LPS,
+     │ and measured the concentration of the nitric oxide (NO) metabolite nitrite (NO2−) in the
+     │ media. TSA decreases LPS-activated NO production in a dose-dependent manner (Fig. 1 A).
+     │ Another HDAC inhibitor, sodium butyrate, also inhibits NO production (Fig. 1 B). To explore
+     │ the mechanism by which TSA inhibits NO production, we measured the steady-state RNA and
+     │ protein levels of NOS2 in LPS-stimulated macrophages. TSA decreases NOS2 mRNA levels in a
+     │ dose- and time-dependent manner (Fig. 1, C and D). TSA also …
+     "Mitogen-activated protein kinase phosphatase-1 (MKP-1) acetylation was studied in Toll-like receptor signaling. Acetylation enhances MKP-1's ability to inhibit MAPK signaling, reducing inflammation."
+
+  12. Activation of macrophage nuclear factor-κB and induction of inducible nitric oxide synthase by LPS
+     Ying-Hua Li; Zhong-Qun Yan; Annelie Brauner; Kjell Tullus
+     PMC150509 · PMC · 2002-09-05 · 46 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC150509/
+     Matched: LPS stimulated NO production and iNOS expression · cat /papers/PMC150509/content.lines --lines 40-44
+     │ After treatment with LPS, the alveolar macrophage produced NO in a dose and time dependent
+     │ fashion (Fig. 1A &1B). LPS at concentrations ≥10 ng/ml induced the production of NO (p <
+     │ 0.05) at 24 hours. This effect could be further enhanced in the presence of IFN-γ (10–100
+     │ IU/ml, p < 0.05) (Fig. 1C). The induced NO production could be detected in the conditioned
+     │ media after 6 hours stimulation with LPS and reached peak levels at 24 hours in our time
+     │ setting. Since iNOS is regulated mainly at the transcriptional level, we further checked
+     │ iNOS transcripts by a semi-quantitative RT-PCR. Abundant iNOS mRNA was found in the LPS
+     │ stimulated cells at 24 hours compared to untreated cells (Fig. 2). The …
+     "This study investigated how LPS activates macrophage NF-κB and iNOS, and how steroids affect these processes. LPS induces iNOS expression and NO production via NF-κB activation, which is suppressed by dexamethasone and budesonide."
+
+  13. Comparative Study of The Effect of LPS on The Function of BALB/c and C57BL/6 Peritoneal Macrophages
+     Sara Soudi; Ahmad Zavaran-Hosseini; Zuhair Muhammad Hassan; Masoud Soleimani; Fatemeh Jamshidi Adega...
+     PMC3660024 · Cell Journal (Yakhteh) · 2013-05-05
+     Matched: Nitric oxide measurement · cat /papers/PMC3660024/content.lines --lines 50-52
+     │ NO production was measured in the supernatant of BALB/c and C57BL/6 macrophages at different
+     │ time points after LPS treatment. NO production increased significantly in both groups after
+     │ LPS stimulation (Fig 4). The increasing pattern of NO production at different time points
+     │ differed betweenBALB/c and C57BL/6 macrophages. At 3 and 24 hours after LPS stimulation,
+     │ BALB/c macrophages produced significantly higher amounts of NO than C57BL/6 macrophages.
+     │ However,at 72 hours after LPS stimulation C57BL/6 macrophages produced significantly higher
+     │ amounts of NO than BALB/c macrophages. Fig 3: Kynurenine production by BALB/c and C57BL/6
+     │ peritoneal macrophages at 0 (pre-treatment), and 3, 24, 48, and …
+     "Peritoneal macrophages from BALB/c and C57BL/6 mice were stimulated with LPS to compare their responses. Different mouse strains exhibit distinct cytokine profiles and functional activities when exposed to LPS."
+
+  14. Neutrophilic granule protein promotes lipopolysaccharide-induced iNOS/NO expression via JAK2/STAT1 signaling pathway and augments bacteria clearance of macrophages
+     Lixing Tian; Shuangqin Yin; Jing Wang; Hongyan Xiao; Tianyin Kuang; Li Luo; Shengxiang Ao; Jing Zhou...
+     PMC12592619 · PMC · 2025-11-06 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12592619/
+     Matched: RNA sequencing revealed that Nos2 (iNOS gene) and NGP exhibited positi · cat /papers/PMC12592619/content.lines --lines 55-56
+     "Neutrophilic granule protein (NGP) was studied for its role in macrophage response to lipopolysaccharide (LPS). NGP enhances LPS-induced nitric oxide production via the JAK2/STAT1 pathway, promoting bacterial clearance."
+
+  15. Dataset on the differentiation of THP-1 monocytes to LPS inducible adherent macrophages and their capacity for NO/iNOS signaling
+     Adem Ozleyen; Yakup Berkay Yilmaz; Tugba Boyunegmez Tumer
+     PMC7851796 · PMC · 2021-01-21 · 26 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7851796/
+     Matched: Data Description · cat /papers/PMC7851796/content.lines --lines 27-38
+     │ Table 1: The Ct values of pro-inflammatory genes in control and LPS-stimulated macrophage-
+     │ like THP-1 cells. | Ct Values | Ct Values Genes | Non-treated group | LPS-treated group
+     │ TNF-α | 30.39 ± 0.58 | 27.32 ± 0.92 IL-1β | 24.84 ± 1.62 | 20.53 ± 1.75 COX-2 | 29.54 ± 0.98
+     │ | 27.07 ± 0.36 Nitric oxide (NO) is synthesized through the catalytic action of nitric oxide
+     │ synthase (NOS) [5]. Mainly, three genes found in different chromosomes encode the NOS
+     │ isoforms called endothelial NOS, neuronal NOS, and inducible NOS (iNOS) [6]. Apart from
+     │ others, the expression of iNOS is triggered by various inflammatory stimuli such as
+     │ bacterial lipopolysaccharides (LPS) and cytokines (IL-1β, TNF-α, IFN-γ, and …
+     "This study details optimized conditions for differentiating THP-1 monocytes into adherent macrophages and inducing inflammatory responses. The differentiated cells exhibit significant NO/iNOS signaling and altered expression of pro-inflammatory genes upon LPS stimulation."
+
+  16. Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni; Yanal Ghosheh; Akula Bala Pramod; Klaus Ley
+     PMC6543837 · Frontiers in Immunology · 2019-05-24 · 1909 citations
+     https://doi.org/10.3389/fimmu.2019.01084
+     Matched: Introduction · cat /papers/PMC6543837/content.lines --lines 14-15
+     │ The M1/M2 macrophage polarization nomenclature was introduced in 2000, based on the
+     │ propensity of C57BL/6J macrophages to be more easily activated to produce NO (M1 polarized)
+     │ than Balb/c mice (M2 polarized) (12). Different metabolism of arginine after LPS injection
+     │ elicits different phenotypes of macrophages in C57BL/6J and Balb/c mice. C57BL/6J peritoneal
+     │ macrophages induced iNOS resulting in nitric oxide and a T-helper 1 (Th1) CD4 T cell
+     │ response, while Balb/c mice induced arginase to produce ornithine and a Th2 response. In
+     │ analogy to Th1 and Th2, these macrophages were named M1 and M2. Subsequent work showed that
+     │ M1 macrophages have a pro-inflammatory phenotype with pathogen-killing …
+     "This study compared gene expression in *in vivo* M1/M2 macrophages with *in vitro* classically/alternatively activated macrophages. The findings indicate that *in vivo* M1/M2 polarization is not equivalent to *in vitro* activation states."
+
+  17. Acute exacerbation of idiopathic pulmonary fibrosis model by small amount of lipopolysaccharide in rats
+     Hikaru Miyamoto; Shigekazu Takemura; Yukiko Minamiyama; Takuma Tsukioka; Michihito Toda; Noritoshi N...
+     PMC8921716 · PMC · 2021-10-01 · 9 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8921716/
+     Matched: Infiltration of macrophage and NOS2 in the lung · cat /papers/PMC8921716/content.lines --lines 53-54
+     "A rat model was developed to study acute exacerbation of idiopathic pulmonary fibrosis. A small amount of lipopolysaccharide exacerbated bleomycin-induced lung injury, suggesting a role for macrophage-derived nitric oxide."
+
+  18. Wheatgrass inhibits the lipopolysaccharide-stimulated inflammatory effect in RAW 264.7 macrophages
+     Somesh Banerjee; Parul Katiyar; Vijay Kumar; Bhairavnath Waghmode; Sandip Nathani; Vengadesan Krishn...
+     PMC8320646 · PMC · 2021-02-23 · 29 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8320646/
+     Matched: Introduction · cat /papers/PMC8320646/content.lines --lines 11-12
+     │ Inflammation is a physio-pathological condition involving nitric oxide synthase (NOS)
+     │ regulating a central role. NOS exists in three isomeric forms, neuronal NOS (nNOS, NOS1),
+     │ endothelial NOS (eNOS, NOS3) (both expressed constitutively) and inducible NOS (iNOS, NOS2)
+     │ (expressed in both physiological and pathophysiological conditions) (Förstermann and Sessa,
+     │ 2012). In the presence of inflammatory stimuli, various cells associated with innate immune
+     │ response, such as macrophages, hepatocytes, astrocytes, keratinocytes, produce iNOS enzyme
+     │ in considerably high amounts. NOS enzyme is responsible for catalytic conversion of amino
+     │ acid L-arginine into L-citrulline and nitric oxide (NO) as gaseous …
+     "Wheatgrass extract was studied for its anti-inflammatory effects on LPS-stimulated macrophages. The extract inhibited nitric oxide, reactive oxygen species, and pro-inflammatory markers, with molecular docking suggesting COX-2 inhibition."
+
+  19. Transcriptional profiling of the LPS induced NF-κB response in macrophages
+     Omar Sharif; Viacheslav N Bolshakov; Stephanie Raines; Peter Newham; Neil D Perkins
+     PMC1781469 · BMC Immunology · 2007-01-12 · 447 citations
+     https://doi.org/10.1186/1471-2172-8-1
+     Matched: Analysis of LPS-induced gene expression in the THP-1 macrophage cell l · cat /papers/PMC1781469/content.lines --lines 26
+     "This study profiled gene expression in macrophages after LPS exposure. LPS induced a dynamic, time-dependent transcriptional response, with THP-1 cells closely mimicking primary macrophages."
+
+  20. Motif prediction to distinguish LPS-stimulated pro-inflammatory vs. antibacterial macrophage genes
+     Rahul K Kollipara; Narayanan B Perumal
+     PMC2949756 · Immunome Research · 2010-09-21 · 5 citations
+     https://doi.org/10.1186/1745-7580-6-5
+     Matched: Classification of antibacterial and pro-inflammatory macrophage genes · cat /papers/PMC2949756/content.lines --lines 18-20
+     "This study analyzed gene expression patterns in LPS-stimulated macrophages to identify pro-inflammatory and antibacterial genes. It found distinct transcription factor binding site motifs associated with each gene set, helping to distinguish their regulatory mechanisms."
+
+  21. Lipopolysaccharide-induced selective priming effects on tumor necrosis factor alpha and nitric oxide production in mouse peritoneal macrophages
+     PMC2190891 · The Journal of Experimental Medicine · 1993-02-01 · 141 citations
+     https://doi.org/10.1084/jem.177.2.511
+     Matched: cat /papers/PMC2190891/content.lines --lines 5
+     "Macrophages were precultured with low-dose LPS, then restimulated. This pretreatment selectively primes macrophages for differential responses to subsequent stimuli, rather than causing total refractoriness."
+
+  22. Nitroalkene inhibition of pro-inflammatory macrophage effector function via modulation of signaling metabolite levels
+     Emily R. Stevenson; James P. O’Brien; Allison M. Manuel; Crystal E. Uvalle; Gregory J. Buchan; Steve...
+     PMC12572803 · PMC · 2025-10-16 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12572803/
+     Matched: Pharmacological inhibition of NOS2 by NO2-OA and 1400W inhibits NO pro · cat /papers/PMC12572803/content.lines --lines 24-25
+     "Nitroalkene NO₂-OA was studied for its effect on pro-inflammatory macrophage metabolism and function. NO₂-OA inhibits macrophage pro-inflammatory responses by altering central carbon metabolism, reducing succinate levels, and destabilizing HIF1α."
+
+  23. Phenolic-Enriched Fractions of Rubus buergeri Attenuate LPS-Induced Nitric Oxide Production and Inflammatory Gene Expression in Macrophages
+     Theophilus Bhatti; Hong-Yi Xiang; Jihyun Lee; Ji-Yeong Bae; Jinu Kim
+     PMC13204866 · PMC · 2026-05-14 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13204866/
+     Matched: 3.7. Effects of Major Phenolic Compounds of RBE on LPS-Induced Nos2 mR · cat /papers/PMC13204866/content.lines --lines 53
+     "Rubus buergeri Miq., a wild species native to Jeju Island (Republic of Korea), is a relatively understudied plant with potential as a source of bioactive phenolic compounds. This study investigated th"
+
+  24. Innate Resistance to Leishmania amazonensis Infection in Rat Is Dependent on NOS2
+     Yun-Fu Chen; Si-Fei Yu; Chang-You Wu; Na Wu; Jia Shen; Juan Shen; Jiang-Mei Gao; Yan-Zi Wen; Geoff H...
+     PMC8586549 · PMC · 2021-10-29 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8586549/
+     Matched: NOS2 Activity Is Essential for Rat Peritoneal Macrophage Resistance Ag · cat /papers/PMC8586549/content.lines --lines 48-49
+     │ To investigate the mechanism of rat resistance against Leishmania infection, macrophages
+     │ were targeted since they play a crucial role in the host innate immune response and are the
+     │ major cell type inhabited by Leishmania during infection (Rittig and Bogdan, 2000). Naïve
+     │ peritoneal macrophages were isolated from mice and Sprague Dawley (SD) rats and infected
+     │ with L. amazonensis in vitro. In accordance with previous studies (Giannini, 1985; Soong et
+     │ al., 1997), macrophages from both BALB/c and C57BL/6 mice are susceptible to L. amazonensis
+     │ infection as indicated by unrestrained intracellular parasite replication during infection
+     │ and by NO being absent in the culture supernatant (Figures …
+     "This study investigated the role of NOS2 in rat resistance to *Leishmania amazonensis*. The findings indicate that NOS2-dependent nitric oxide production is crucial for innate resistance to this infection."
+
+  25. The Sur1-Trpm4 channel regulates NOS2 transcription in TLR4-activated microglia
+     David B. Kurland; Volodymyr Gerzanich; Jason K. Karimy; Seung Kyoon Woo; Rudi Vennekens; Marc Freich...
+     PMC4888589 · PMC · 2016-06-01 · 77 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4888589/
+     Matched: Sur1-Trpm4 regulates binding of NFATc1 to the Nos2 promoter · cat /papers/PMC4888589/content.lines --lines 163-165
+     "Sur1-Trpm4 channels regulate NOS2 transcription in TLR4-activated microglia. These channels control calcineurin/NFAT signaling, impacting NO production and pro-inflammatory gene expression."
+
+[2.1s, saved to s_41f6df11]
+
+💡 Extract data across these results with: map --from s_41f6df11 "your question"
+[2.1s, saved to s_41f6df11]  [repo: mva-lof-molecular]

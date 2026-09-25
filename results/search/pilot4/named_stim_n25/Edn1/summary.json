@@ -1,0 +1,22 @@
+{
+  "gene": "Edn1",
+  "query": "Edn1 (endothelin 1) LPS macrophage",
+  "also": [],
+  "mode": "map",
+  "strict": true,
+  "stimulus_check": true,
+  "question": "Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Edn1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, quote the single sentence that reports that result; it must name the gene or its protein, name LPS or the infection, and state the change. Use an empty string if no.",
+  "date": "2026-09-25T13:40:04Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_0e6f47dd",
+  "judge_id": "m_b0063adb",
+  "parent_n": 25,
+  "yes": 3,
+  "downgraded": 1,
+  "no": 22,
+  "paper_errors": 0,
+  "seconds_search": 7.5,
+  "seconds_judge": 22.5,
+  "seconds_total": 30.0
+}

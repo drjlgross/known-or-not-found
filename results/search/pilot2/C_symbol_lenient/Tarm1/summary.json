@@ -1,0 +1,21 @@
+{
+  "gene": "Tarm1",
+  "query": "Tarm1 LPS macrophage",
+  "also": [],
+  "mode": "map",
+  "strict": false,
+  "question": "Does this paper describe the expression of the gene Tarm1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).",
+  "date": "2026-09-24T19:08:14Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_81fa956b",
+  "judge_id": "m_0cd6d622",
+  "parent_n": 25,
+  "yes": 0,
+  "downgraded": 0,
+  "no": 25,
+  "paper_errors": 0,
+  "seconds_search": 8.0,
+  "seconds_judge": 21.5,
+  "seconds_total": 29.5
+}

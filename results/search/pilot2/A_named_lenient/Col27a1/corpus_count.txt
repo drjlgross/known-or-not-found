@@ -1,0 +1,37 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv --bool --ranking bm25 --full-text -n 500 ("Col27a1" OR "collagen, type XXVII, alpha 1") AND ("LPS" OR "lipopolysaccharide") AND "macrophage"
+# exit 0
+Found 2 papers (of 500 requested)  [s_039fb39c]
+
+  1. A class of secreted mammalian peptides with potential to expand cell-cell communication
+     Amanda L. Wiggenhorn, Hind Z. Abuzaid, Laetitia Coassolo, Veronica L. Li, Julia T. Tanzo, Wei Wei, X...
+     bio_edeb8c9f6bf8 · bioRxiv · 2023-06-02 · 22 citations (all versions)
+     Published (2023): https://doi.org/10.1038/s41467-023-43857-0
+     Preprint: https://doi.org/10.1101/2023.06.02.543503
+     Matched: Dynamic regulation of capped plasma levels in mice · cat /papers/bio_edeb8c9f6bf8/content.lines --lines 39-40
+     │ The capped peptide/perturbation pair resulting in the most dramatic regulation was CAP-CSF1
+     │ (pGlu-LLLPKSHSWGIVLPLGELE-NH2), derived from amino acids 419-438 of full-length prepro-CSF1.
+     │ Plasma CAP-CSF1 levels were induced by ∼84-fold after LPS treatment (P < 0.01, Fig. 3A, B ).
+     │ Importantly, CAP-CSF1 levels were unchanged in any of the other comparisons ( Fig. 3A ),
+     │ establishing that induction of CAP-CSF1 in plasma is a specific response to an inflammatory
+     │ stimulus. Previously, the most well-known polypeptide product derived from full-length
+     │ prepro-CSF1 is m-CSF1 (macrophage colony-stimulating factor 1), which is itself an LPS-
+     │ inducible cytokine ( Benmerzoug et al., 2018 ). The co-induction …
+     "A new class of capped peptides, modified with pyroglutamylation and amidation, has been identified in mammalian blood. These peptides, including CAP-TAC1 and CAP-GDF15, exhibit regulatory characteristics and influence physiological processes like appetite and receptor signaling."
+
+  2. Single-cell RNA sequencing reveals collagen interactions between detached osteoclasts and activated fibroblasts in granulation tissue surrounding sequestra in medication-related osteonecrosis of the jaw
+     Chika Nakanishi, Takeshi Yoshida, Takuo Emoto, Yasumasa Kakei, Daisuke Takeda, Yujiro Hiraoka, Manab...
+     bio_f81425fb6e20 · bioRxiv · 2026-01-30 · 0 citations (all versions)
+     Published (2026): https://doi.org/10.64898/2026.01.30.702745
+     Matched: Discussion · cat /papers/bio_f81425fb6e20/content.lines --lines 77-78
+     │ MRONJ is a rare but serious complication of ARA treatment for osteoporosis and bone
+     │ metastasis. As the global population ages, the growing number of patients affected by MRONJ
+     │ should not be overlooked. Active osteoclasts have traditionally been considered difficult to
+     │ analyze using scRNA-Seq because of their firm adhesion to bone surfaces. However, it is
+     │ known that the multinucleated giant cells seen in osteonecrosis of the jaw are not firmly
+     │ attached to bone surfaces because of the effects of ARAs and instead float near these
+     │ surfaces. We focused on this characteristic and performed scRNA-Seq on granulation tissue
+     │ surrounding the sequestrum in MRONJ, successfully detecting abnormal …
+
+[214ms, saved to s_039fb39c]
+[214ms, saved to s_039fb39c]  [repo: mva-lof-molecular]
+

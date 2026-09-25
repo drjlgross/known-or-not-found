@@ -1,0 +1,97 @@
+$ src/pc.sh results s_573b7268
+# exit 0
+  Query: filter 'Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Tnf (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes in response to LPS or bacterial infection?' --from s_573b7268
+Found 16 papers  [s_573b7268]
+
+  1. Antagonism of the histamine H4 receptor reduces LPS-induced TNF production in vivo
+     Jeffery M. Cowden; Fuqu Yu; Mamatha Challapalli; Jing-Feng Huang; Sunhwa Kim; Wai-Ping Fung-Leung; J...
+     PMC3654183 · Inflammation Research · 2013-03-27
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3654183/
+     "Histamine H4 receptor antagonists and deficiency reduced LPS-induced TNF production in mice. This suggests H4 receptor activation contributes to TLR-mediated inflammation in vivo, particularly in the liver."
+
+  2. Macrophage priming and lipopolysaccharide-triggered release of tumor necrosis factor alpha during graft-versus-host disease
+     PMC2119110 · pmc · 1992-02-01
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2119110/
+     "This study examined macrophage activation and TNF-alpha release during graft-versus-host disease (GVHD). Macrophages are primed during GVHD, leading to lethal TNF-alpha release upon encountering endogenous lipopolysac..."
+
+  3. Lipopolysaccharide-induced selective priming effects on tumor necrosis factor alpha and nitric oxide production in mouse peritoneal macrophages
+     PMC2190891 · The Journal of Experimental Medicine · 1993-02-01
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2190891/
+     "Macrophages were precultured with low-dose LPS, then restimulated. This pretreatment selectively primes macrophages for differential responses to subsequent stimuli, rather than causing total refractoriness."
+
+  4. Extinction of the tumor necrosis factor locus, and of genes encoding the lipopolysaccharide signaling pathway
+     PMC2190998 · pmc · 1993-05-01
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2190998/
+     "The TNF gene and LPS signaling pathway were studied in macrophage-fibroblast hybrids. Fusion activated a system that silenced TNF and LPS signaling, potentially during cell differentiation."
+
+  5. LPS‐stimulated NF‐κB p65 dynamic response marks the initiation of TNF expression and transition to IL‐10 expression in RAW 264.7 macrophages
+     Stuart Hobbs; Marinaliz Reynoso; Alyssa V. Geddis; Alexander Y. Mitrophanov; Ronald W. Matheny
+     PMC6234144 · Physiological Reports · 2018-11-13
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6234144/
+     "LPS stimulation kinetics of NF-κB, TNF-α, and IL-10 were studied in macrophages. NF-κB activation precedes TNF-α expression, which then transitions to IL-10 expression."
+
+  6. AS-703026 Inhibits LPS-Induced TNFα Production through MEK/ERK Dependent and Independent Mechanisms
+     Ping Li; Yonghong Wu; Manxiang Li; Xiaojuan Qiu; Xiaoyan Bai; Xiaojing Zhao
+     PMC4575053 · pmc · 2015-09-18
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4575053/
+     "AS-703026 was studied for its effect on LPS-induced TNFα production in macrophages and human cells. The compound inhibits TNFα production through MEK/ERK dependent and independent pathways, including NFκB inhibition."
+
+  7. Lipopolysaccharide regulation of antiinflammatory tristetraprolin family and proinflammatory gene expression in mouse macrophages
+     Heping Cao
+     PMC10949775 · BMC Research Notes · 2024-03-19
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10949775/
+     "Lipopolysaccharide (LPS) was studied for its effects on tristetraprolin (TTP) family and proinflammatory gene expression in mouse macrophages. LPS increased TTP, TNF, and COX2 mRNA but had minimal impact on other TTP ..."
+
+  8. Augmentation and Suppression of Release of Tumor Necrosis Factor from Macrophages by Negatively Charged Phospholipids
+     Satoru Yui; Masatoshi Yamazaki
+     PMC5918604 · pmc · 1991
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5918604/
+     "Negatively charged phospholipids, cardiolipin and peroxidized phosphatidylserine, were studied for their effects on macrophage TNF release. High concentrations of these lipids suppressed TNF release, while lower conce..."
+
+  9. Kappa B-type enhancers are involved in lipopolysaccharide-mediated transcriptional activation of the tumor necrosis factor alpha gene in primary macrophages
+     PMC2187654 · The Journal of Experimental Medicine · 1990-01-01
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2187654/
+     "Kappa B-type enhancers were studied for their role in LPS-mediated TNF-alpha gene activation in macrophages. These enhancers, along with factors interacting with the Y box, are crucial for LPS-induced TNF-alpha gene t..."
+
+  10. Signaling pathways involved in LPS induced TNFalpha production in human adipocytes
+     Laurence Hoareau; Karima Bencharif; Philippe Rondeau; Ravi Murumalla; Palaniyandi Ravanan; Frank Tal...
+     PMC2819999 · Journal of Inflammation (London, England) · 2010-01-08
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2819999/
+     "Human adipocytes were treated with LPS to study TNFalpha production. TNFalpha secretion is primarily mediated by NFkappaB and p38 MAP Kinase pathways, with PI3Kinase involved in the initial step."
+
+  11. Differential Cell Sensitivity between OTA and LPS upon Releasing TNF-α
+     Lauy Al-Anati; Ebtisam Essid; Ulla Stenius; Knut Beuerlein; Klaus Schuh; Ernst Petzinger
+     PMC3153254 · pmc · 2010-06-01
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3153254/
+     "This study compared TNF-α release from various cell lines exposed to ochratoxin A (OTA) and lipopolysaccharide (LPS). Macrophages and macrophage-derived cells, but not other cell types, released TNF-α in response to OTA."
+
+  12. RNA from LPS-stirnulated macrophages induces the release of tumour necrosis factor-α and interleukin-1 by resident macrophages
+     R. A. Ribeiro, F. L. De Lucca, C. A. Flores, F. Q. Cunha, S. H. Ferreira
+     PMC2365439 · biomedrxiv · 1993-01-01
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2365439/
+     "Cytoplasmic RNA from LPS-stimulated macrophages was studied for its effect on resident macrophages. This RNA induced the release of TNF-α and IL-1, suggesting a role for extracellular RNA in inflammatory responses."
+
+  13. Lipopolysaccharide-mediated signal transduction: Stabilization of TNF-alpha mRNA contributes to increased lipopolysaccharide-stimulated TNF-alpha production by Kupffer cells after chronic ethanol feeding
+     Raj Kishore; Megan R McMullen; Enzo Cocuzzi; Laura E Nagy
+     PMC2410250 · pmc · 2004-01-14
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2410250/
+
+  14. CD14 Mediates Binding of High Doses of LPS but Is Dispensable for TNF-α Production
+     Kinga Borzęcka; Agnieszka Płóciennikowska; Hanna Björkelund; Andrzej Sobota; Katarzyna Kwiatkowska
+     PMC3892557 · Mediators of Inflammation · 2013-12-30
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3892557/
+     "CD14's role in LPS binding and TNF-α production was analyzed. CD14 is crucial for low-dose LPS binding and TNF-α production, but its role diminishes at higher LPS doses."
+
+  15. Lead Increases Lipopolysaccharide-Induced Liver Injury through Tumor Necrosis Factor-α Overexpression by Monocytes/Macrophages: Role of Protein Kinase C and p42/44 Mitogen-Activated Protein Kinase
+     Yu-Jung Cheng; Bei-Chang Yang; Ming-Yie Liu
+     PMC1440772 · pmc · 2005-11-10
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1440772/
+     "Lead exposure amplifies lipopolysaccharide-induced liver injury by increasing TNF-α production in monocytes/macrophages. This occurs via the PKC/MAPK pathway, leading to excessive TNF-α and subsequent liver damage."
+
+  16. Catecholamines Attenuate LPS-Induced Inflammation through β2 Adrenergic Receptor Activation- and PKA Phosphorylation-Mediated TLR4 Downregulation in Macrophages
+     Cong Wang; Guo-Gang Feng; Junko Takagi; Yoshihiro Fujiwara; Tsuyoshi Sano; Hideaki Note
+     PMC11506017 · Current Issues in Molecular Biology · 2024-10-12
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11506017/
+     "Catecholamines were studied for their anti-inflammatory effects on LPS-induced inflammation in macrophages. Catecholamines suppress inflammation by activating β2-AR, leading to PKA-mediated TLR4 downregulation."
+
+

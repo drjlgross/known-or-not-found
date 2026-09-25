@@ -1,0 +1,332 @@
+$ src/pc.sh map --from s_84ecc1e3 --limit 50 -j 50 --output-schema {"type": "object", "required": ["answer", "evidence"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Col27a1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes in response to LPS or bacterial infection? Answer yes or no. If yes, quote the sentence reporting that result; it must name the gene or its protein. Use an empty string if no.
+# exit 0
+Map complete: 50/50 papers
+Results ID: m_96582ffc
+
+  ✓ INVOLVEMENT OF MACROPHAGES IN COLLAGEN RESORPTION
+    PMC2107732 · 814ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 989ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Collagen Fibril Density Modulates Macrophage Activation and Cellular F
+    PMC7356036 · 1044ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ LPS combined with CD47mAb enhances the anti‑osteosarcoma ability of ma
+    PMC10091190 · 1077ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Interleukins-27 Aggravates Liver Injury by Impairing the Antimicrobial
+    PMC11882325 · 949ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Transcriptome Analysis Provides Insights into the Markers of Resting a
+    PMC6274997 · 990ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ IL-27 neutralization enhances macrophage polarization and improves imm
+    bio_5e67bb72 · 985ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Exosomal miR-148a-3p from LPS-Activated Macrophages Promotes M1 Polari
+    PMC13199726 · 924ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Osteocalcin Alleviates Lipopolysaccharide-Induced Acute Inflammation v
+    PMC9138386 · 991ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ IL-27 amplifies cytokine responses to Gram-negative bacterial products
+    PMC6135775 · 1046ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Comparative Study of The Effect of LPS on The Function of BALB/c and C
+    PMC3660024 · 930ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ IL-27 Aggravates Sepsis-Induced ARDS by Driving Macrophage Ferroptosis
+    PMC12967598 · 1143ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Selection of reliable reference genes for the normalisation of gene ex
+    PMC5627409 · 944ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Collagen XXVII Organises the Pericellular Matrix in the Growth Plate
+    PMC3242791 · 852ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Effect of regulating macrophage polarization phenotype on intervertebr
+    PMC9609449 · 1074ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LPS‐Induced Inflammation Prior to Injury Exacerbates the Development o
+    PMC7689775 · 885ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LPS Counter Regulates RNA Expression of Extracellular Proteases and Th
+    PMC3317238 · 827ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(
+    PMC7053374 · 852ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LPS-induced senescence of macrophages aggravates calcification and sen
+    PMC11232647 · 1266ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Biomimetic collagenous scaffold to tune inflammation by targeting macr
+    PMC4765811 · 1074ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Epigenetic profile in lipopolysaccharide-stimulated macrophages
+    PMC3953056 · 923ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ High-Resolution Mapping and Dynamics of the Transcriptome, Transcripti
+    PMC5778122 · 948ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Mmu-miR-27a-5p-Dependent Upregulation of MCPIP1 Inhibits the Inflammat
+    PMC4534598 · 792ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Mathematical modelling of activation-induced heterogeneity reveals cel
+    bio_206e5a35 · 1084ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Mathematical modelling of activation-induced heterogeneity in TNF, IL6
+    PMC9411976 · 1110ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LncRNA HOTAIR regulates lipopolysaccharide-induced cytokine expression
+    PMC6199307 · 1312ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Bioinformatics Analysis and Experimental Verification Identify Downreg
+    PMC8849967 · 1363ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LPS-Induced Modifications in Macrophage Transcript and Secretion Profi
+    PMC10940789 · 1181ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Gadolinium Chloride Inhibits the Production of Liver Interleukin-27 an
+    PMC7867451 · 997ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ A macrophage-collagen fragment axis mediates subcutaneous adipose tiss
+    PMC10861897 · 916ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Genetic control of the innate immune response
+    PMC194878 · 957ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LPS-induced down-regulation of signal regulatory protein α contributes
+    PMC2118489 · 925ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Dynamic nucleosome redistribution and increases in nucleosome sensitiv
+    bio_eb053077 · 943ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ IL-27 induces an IFN-like signature in murine macrophages which in tur
+    PMC10157156 · 925ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Histatin-1 Attenuates LPS-Induced Inflammatory Signaling in RAW264.7 M
+    PMC8345949 · 933ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Dual regulatory effects of medical bovine collagen sponge on macrophag
+    PMC13405066 · 1043ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Monocyte normal immune response to LPS stimulation
+    PMC3333514 · 1394ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Flaxseed orbitides, linusorbs, inhibit LPS-induced THP-1 macrophage in
+    PMC9054600 · 883ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LPS adsorption and inflammation alleviation by polymyxin B-modified li
+    PMC10501887 · 981ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ CD163 deficiency facilitates lipopolysaccharide‐induced inflammatory r
+    PMC7518957 · 912ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Extracellular glucose is crucially involved in the fate decision of LP
+    PMC7324593 · 863ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide regulation of antiinflammatory tristetraprolin fami
+    PMC10949775 · 792ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Leukadherin-1-Mediated Activation of CD11b Inhibits LPS-Induced Pro-in
+    PMC6379471 · 969ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ GATA-2 Transduces LPS-Induced il-1β Gene Expression in Macrophages via
+    PMC3735524 · 881ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Dexamethasone inhibits the LPS-induced activation of hypoxia-inducible
+    bio_7e3cf889 · 941ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ MSC-secreted TGF-β regulates lipopolysaccharide-stimulated macrophage 
+    PMC6878630 · 923ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Mineralized collagen scaffold pore architecture and glycosaminoglycan 
+    bio_893e2183 · 873ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ PDX regulates inflammatory cell infiltration via resident macrophage i
+    PMC7521295 · 904ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LncRNA Gm26917 regulates inflammatory response in macrophages by enhan
+    PMC9663662 · 919ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Overabundance of Veillonella parvula promotes intestinal inflammation 
+    PMC9076897 · 892ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[50.9s, saved to m_96582ffc]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  1/50 papers  run m_96582ffc  [2s]
+  [###.................]  8/50 papers  run m_96582ffc  [4s]
+  [#####...............]  14/50 papers  run m_96582ffc  [6s]
+  [#######.............]  18/50 papers  run m_96582ffc  [8s]
+  [########............]  21/50 papers  run m_96582ffc  [13s]
+  [############........]  30/50 papers  run m_96582ffc  [15s]
+  [############........]  31/50 papers  run m_96582ffc  [17s]
+  [###############.....]  39/50 papers  run m_96582ffc  [19s]
+  [#################...]  44/50 papers  run m_96582ffc  [21s]
+  [####################]  50/50 papers  run m_96582ffc  [23s]
+  [####################]  50/50 papers  run m_96582ffc  [34s]
+  [####################]  50/50 papers  run m_96582ffc  [44s]
+  [####################]  50/50 papers  run m_96582ffc  [48s]
+  [####################]  50/50 papers  run m_96582ffc  [50s]
+

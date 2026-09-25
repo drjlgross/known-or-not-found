@@ -1,0 +1,156 @@
+Map results  [m_48489eb9]
+Query: Does this paper describe the expression of the gene Edn1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).
+
+--- [1] [success] Endothelins, peptides with potent vasoactive properties, are produced by human macrophages ---
+doc_id: PMC2188743
+{
+  "answer": "yes",
+  "evidence": "From a basal level of 11 pg/ml, LPS induced a sixfold increase of endothelin 1 to 65 pg/ml."
+}
+
+--- [2] [success] Rodent Models of Lung Disease: A Road Map for Translational Research ---
+doc_id: PMC12429320
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [3] [success] Endothelin-1 stimulates human monocytes in vitro to release TNF-α , IL-1β and IL-6 ---
+doc_id: PMC2365438
+{"answer": "no", "evidence": ""}
+
+--- [4] [success] Macrophages enhance lipopolysaccharide induced apoptosis via Ang1 and NF-κB pathways in human umbilical vein endothelial cells ---
+doc_id: PMC7858588
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [5] [success] Systemic and Splanchnic Lipopolysaccharide and Endothelin-1 Plasma Levels in Liver Cirrhosis before and after Transjugular Intrahepatic Portosystemic Shunt ---
+doc_id: PMC4753051
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [6] [success] Correction: Alternatively Activated (M2) Macrophage Phenotype Is Inducible by Endothelin-1 in Cultured Human Macrophages ---
+doc_id: PMC5373621
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [7] [success] Preferential recruitment of neutrophils by endothelin-1 in acute lung inflammation induced by lipopolysaccharide or cigarette smoke ---
+doc_id: PMC2629980
+{
+  "answer": "yes",
+  "evidence": "Studies have shown that LPS stimulates the synthesis of ET-1 both in vivo and in vitro (Ohta et al 1990; Forni et al 2005; Zaedi et al 2006)."
+}
+
+--- [8] [success] Enhanced Endothelin A and B Receptor Expression and Receptor-Mediated Vasoconstriction in Rat Mesenteric arteries after Lipopolysaccharide Challenge ---
+doc_id: PMC6881566
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [9] [success] Nlrp3, Csf3, and Edn1 in Macrophage Response to Saturated Fatty Acids and Modified Low-Density Lipoprotein ---
+doc_id: PMC7779813
+{
+  "answer": "yes",
+  "evidence": "To validate the results of RNA sequencing, the Edn1 mRNA level in macrophages was determined after mmLDL treatment. Macrophages were treated with LPS with or without mmLDL. The relative expression of Edn1 in cells treated with mmLDL and LPS was higher than that in cells treated with LPS alone (Figure 4A)."
+}
+
+--- [10] [success] Alternatively Activated (M2) Macrophage Phenotype Is Inducible by Endothelin-1 in Cultured Human Macrophages ---
+doc_id: PMC5112853
+{"answer": "no", "evidence": ""}
+
+--- [11] [success] Effect of Human Umbilical Vein Endothelial Cells on Immune Responses of Lipopolysaccharide-Induced THP1 Macrophages ---
+doc_id: PMC6144854
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [12] [success] Extracellular vesicles derived from endothelial cells modulate macrophage phenotype in vitro ---
+doc_id: PMC10634087
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [13] [success] miR-379-5p serves as a biomarker and regulates sepsis-associated acute kidney injury via targeting EDN1 ---
+doc_id: PMC13483658
+{
+  "answer": "yes",
+  "evidence": "EDN1 has been confirmed to be upregulated in renal fibroblasts after LPS attack [34]. This study also found this result."
+}
+
+--- [14] [success] Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC7053374
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [15] [success] Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC6543837
+{"answer": "no", "evidence": ""}
+
+--- [16] [success] Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review ---
+doc_id: PMC13372918
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [17] [success] Chlorella 11-Peptide Inhibits the Production of Macrophage-Induced Adhesion Molecules and Reduces Endothelin-1 Expression and Endothelial Permeability ---
+doc_id: PMC3826139
+{
+  "answer": "yes",
+  "evidence": "The addition of 50% RAW-conditioned medium strongly induced the endothelin-1 (ET-1) mRNA expression in SVEC4-10 endothelial cells (p < 0.005, Figure 5)."
+}
+
+--- [18] [success] A novel co-culture model for investigation of the effects of LPS-induced macrophage-derived cytokines on brain endothelial cells ---
+doc_id: PMC10343049
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [19] [success] Transcriptional profiling of the LPS induced NF-κB response in macrophages ---
+doc_id: PMC1781469
+{"answer": "no", "evidence": ""}
+
+--- [20] [success] Responses of perivascular macrophages to circulating lipopolysaccharides in the subfornical organ with special reference to endotoxin tolerance ---
+doc_id: PMC6375194
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [21] [success] Epigenetic profile in lipopolysaccharide-stimulated macrophages ---
+doc_id: PMC3953056
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [22] [success] Macrophage EHD1 promotes inflammation and stabilizes sortilin to accelerate atherosclerosis ---
+doc_id: bio_5a4c8a837ab5
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [23] [success] A novel role for myeloid endothelin-B receptors in hypertension ---
+doc_id: PMC6396028
+{"answer": "yes", "evidence": "BMDM stimulation with LPS/INF\u0332\u0307g (but not IL-4/IL-13) increased the media concentration of ET-1 at 24 h (see Supplementary material online, Figure S7), an effect that was blocked by phosphoramidon, an inhibitor of endothelin converting enzyme (ECE) which catalyzes the conversion of big ET-1 to the mature peptide."}
+
+--- [24] [success] Differential mRNA and miRNA Profiles Reveal the Potential Roles of Genes and miRNAs Involved in LPS Infection in Chicken Macrophages ---
+doc_id: PMC8155903
+{"answer": "no", "evidence": ""}
+
+--- [25] [success] LPS Tolerance Inhibits Cellular Respiration and Induces Global Changes in the Macrophage Secretome ---
+doc_id: PMC7918892
+{"answer": "no", "evidence": ""}

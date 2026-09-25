@@ -1,0 +1,159 @@
+Map results  [m_68762c77]
+Query: Does this paper describe the expression of the gene Lipg (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).
+
+--- [1] [success] Macrophage stimulation by bacterial lipopolysaccharides. II. Evidence for differentiation signals delivered by lipid A and by a protein rich fraction of lipopolysaccharides ---
+doc_id: PMC2184939
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [2] [success] The orientation of choroidal macrophage polarization significantly influences the development of myopia in murine models ---
+doc_id: bio_b06931d16f63
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [3] [success] Macrophage stimulation by bacterial lipopolysaccharides. I. Cytolytic effect on tumor target cells ---
+doc_id: PMC2184936
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [4] [success] Comparative Study of The Effect of LPS on The Function of BALB/c and C57BL/6 Peritoneal Macrophages ---
+doc_id: PMC3660024
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [5] [success] Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyromonas endodontalis, Induces Macrophage M1 Profile ---
+doc_id: PMC9456100
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [6] [success] Lipopolysaccharide-Activated Macrophages Suppress Cellular Senescence and Promote Rejuvenation in Human Dermal Fibroblasts ---
+doc_id: PMC12346749
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [7] [success] Lipopolysaccharide preconditioning augments the antibacterial activity of renal macrophages and ameliorates acute kidney injury caused by Staphylococcus aureus bacteremia in mice ---
+doc_id: PMC12035103
+{"answer": "no", "evidence": ""}
+
+--- [8] [success] A Global Picture of Molecular Changes Associated to LPS Treatment in THP-1 Derived Human Macrophages by Fourier Transform Infrared Microspectroscopy ---
+doc_id: PMC9656053
+{"answer": "no", "evidence": ""}
+
+--- [9] [success] LPS adsorption and inflammation alleviation by polymyxin B-modified liposomes for atherosclerosis treatment ---
+doc_id: PMC10501887
+{"answer":"no","evidence":""}
+
+--- [10] [success] Lipopolysaccharide from biofilm-forming Pseudomonas aeruginosa PAO1 induces macrophage hyperinflammatory responses ---
+doc_id: PMC8289208
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [11] [success] Lipopolysaccharide-induced inflammation in monocytes/macrophages is blocked by liposomal delivery of Gi-protein inhibitor ---
+doc_id: PMC5743190
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [12] [success] Oral and transdermal administration of lipopolysaccharide safely enhances self-healing ability through the macrophage network ---
+doc_id: PMC11994614
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [13] [success] Exosomal miR-148a-3p from LPS-Activated Macrophages Promotes M1 Polarization and Ferroptosis-Related Characteristics of Recipient Macrophages by Reducing SLC7A11 ---
+doc_id: PMC13199726
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [14] [success] Transcriptional profiling of the LPS induced NF-κB response in macrophages ---
+doc_id: PMC1781469
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [15] [success] Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC6543837
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [16] [success] Motif prediction to distinguish LPS-stimulated pro-inflammatory vs. antibacterial macrophage genes ---
+doc_id: PMC2949756
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [17] [success] Mathematical modelling of activation-induced heterogeneity reveals cell state transitions underpinning macrophage responses to LPS ---
+doc_id: bio_206e5a356c66
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [18] [success] Progranulin inhibits LPS-induced macrophage M1 polarization via NF-кB and MAPK pathways ---
+doc_id: PMC7275413
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [19] [success] Macrophage–Bacteria Interactions—A Lipid-Centric Relationship ---
+doc_id: PMC5742358
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [20] [success] AZD6738 Attenuates LPS-Induced Corneal Inflammation and Fibrosis by Modulating Macrophage Function and Polarization ---
+doc_id: PMC12596304
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [21] [success] Free Fatty Acids and LPS Synergistically Promote Macrophage M1 Polarization and Insulin Resistance Via FTO-Mediated CSF1 Degradation ---
+doc_id: PMC12847160
+{
+  "answer": "no",
+  "evidence": ""
+}
+
+--- [22] [success] BRD4 contributes to LPS-induced macrophage senescence and promotes progression of atherosclerosis-associated lipid uptake ---
+doc_id: PMC7288959
+{"answer": "no", "evidence": ""}
+
+--- [23] [success] Species-Specificity of Transcriptional Regulation and the Response to Lipopolysaccharide in Mammalian Macrophages ---
+doc_id: PMC7386301
+{"answer": "no", "evidence": ""}
+
+--- [24] [success] A host lipase prevents lipopolysaccharide-induced foam cell formation ---
+doc_id: PMC8426562
+{"answer": "no", "evidence": ""}
+
+--- [25] [success] Translation control of TAK1 mRNA by hnRNP K modulates LPS-induced macrophage activation ---
+doc_id: PMC4024643
+{
+  "answer": "no",
+  "evidence": ""
+}

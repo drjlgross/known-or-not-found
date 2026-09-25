@@ -14,3 +14,6 @@ data/raw/
 # rnaseq-de bundles: keep de_results.csv, report.md, result.json, qc_summary.csv,
 # figures/, and reproducibility/; drop large normalized counts.
 results/de/*/tables/normalized_counts.csv
+
+# search_gene.py ledger lock files
+*.lock

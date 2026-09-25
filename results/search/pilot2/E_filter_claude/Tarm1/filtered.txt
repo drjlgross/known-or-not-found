@@ -1,0 +1,6 @@
+$ src/pc.sh results s_fed93e8a
+# exit 0
+  Query: filter 'Does this paper describe the expression of the gene Tarm1 changing in response to LPS or bacterial infection?' --from s_fed93e8a
+Found 0 papers  [s_fed93e8a]
+
+

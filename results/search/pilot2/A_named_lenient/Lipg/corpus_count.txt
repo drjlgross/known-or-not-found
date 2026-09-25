@@ -1,0 +1,160 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv --bool --ranking bm25 --full-text -n 500 ("Lipg" OR "lipase G, endothelial type" OR "mEDL" OR "endothelial lipase") AND ("LPS" OR "lipopolysaccharide") AND "macrophage"
+# exit 0
+Found 10 papers (of 500 requested)  [s_2d1feec4]
+
+  1. Advanced phosphocreatine-grafted chitosan hydrogel promote wound healing by macrophage modulation
+     Weibei Sheng; Haotian Qin; Tiehua Wang; Jin Zhao; Chongzhou Fang; Peng Zhang; Peng Liu; Anjaneyulu U...
+     PMC10213409 · PMC · 2023-05-12 · 17 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10213409/
+     Matched: 3.5 BMM cells’ behavior when cultured with hydrogels · cat /papers/PMC10213409/content.lines --lines 93-95
+     │ The pro-inflammatory factor-treated BMMs were co-cultured with hydrogels, and the expression
+     │ of pro-inflammatory genes was investigated using RT-qPCR. The RT-qPCR results were presented
+     │ in Figure 4. In the results, the pro-inflammatory genes expression, including IL-1β, IL-6,
+     │ TNF-α, CCL2, IL-12β, iNOS, and CD86 were detected. As shown, all of these pro-inflammatory
+     │ genes were upregulated after being treated with LPS and IFNγ, but when cultured with CSM or
+     │ CSMP hydrogels, their expression was downregulated, particularly in the case of the CSMP
+     │ hydrogel. This result demonstrated that the CSMP possessed a greater ability to inhibit the
+     │ inflammatory response of LPS and IFNγ treated BMMs …
+     "A phosphocreatine-grafted chitosan hydrogel was synthesized and tested for wound healing properties. The hydrogel promoted wound healing by modulating macrophages, reducing inflammation and M1 polarization."
+
+  2. HIF-α signaling regulates the macrophage inflammatory response during Leishmania major infection
+     Lucy G. Fry; Charity L. Washam; Hayden Roys; Anne K. Bowlin; Gopinath Venugopal; Jordan T. Bird; Ste...
+     PMC11969800 · PMC · 2025-03-21 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11969800/
+     Matched: Results · cat /papers/PMC11969800/content.lines --lines 98-118
+     │ Figure 3: Inflammation related transcriptomic changes are both HIF-α dependent and
+     │ independent. Macrophages were infected or infected and treated with LPS/IFNγ and prepped for
+     │ subsequent analysis utilizing RNASeq. (A, B) An MD plot illustrates transcriptomic changes
+     │ during infection and stimulation with LPS/IFNγ in HIF-α competent (ARNTf/+ PI vs. ARNTf/+P)
+     │ and HIF-α deficient macrophages (ARNTf/f PI vs. ARNTf/f P). Here the PI indicates parasites
+     │ and inflammatory stimuli, LPS/IFNγ, and P describes parasite infection alone. Red dots
+     │ identify upregulated transcripts and blue dots identify downregulated transcripts. (C, D)
+     │ Enriched pathways were identified using KEGG analysis for both …
+     "This study investigated macrophage HIF-α signaling during *Leishmania major* infection. HIF-α suppresses protein translation in macrophages during infection within a pro-inflammatory environment."
+
+  3. Janus-Faced Myeloid-Derived Suppressor Cell Exosomes for the Good and the Bad in Cancer and Autoimmune Disease
+     Margot Zöller
+     PMC5801414 · PMC · 2018-02-02 · 47 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5801414/
+     Matched: Abbreviations · cat /papers/PMC5801414/content.lines --lines 94
+     │ AA, alopecia areata; AGO, argonaute; Arg, arginase; ATRA, all-transretinoic acid; BclXl,
+     │ Bcl2-like; BMC, bone marrow cells; BMSC, BM stroma cells; C, complement; CCL, C-C motif
+     │ chemokine ligand; CEBP, CCAAT/enhancer binding protein; COX, cytochrome C oxidase; CSC,
+     │ cancer stem cell; CXCL, C-X-C motif chemokine ligand; DC, dendritic cells; DSS, dextran
+     │ sodium sulfate; EAE, experimental autoimmune encephalomyelitis; EC, endothelial cell; ECM,
+     │ extracellular matrix; EMT, epithelial–mesenchymal transition; Dicer, ribonuclease; ESCRT,
+     │ endosomal sorting complex required for transport; Exo, exosomes; Fbg, fibrinogen; FN,
+     │ fibronectin; FOXO, forkhead box O; G-MDSC, granulocytic-MDSC; GM-CSF, …
+     "This paper reviews the dual role of MDSC-derived exosomes in cancer and autoimmune diseases. It explores blocking these exosomes for cancer immunotherapy and using them therapeutically for autoimmune conditions."
+
+  4. Identification of Pathways Associated with Placental Adaptation to Maternal Nutrient Restriction in Sheep
+     Ashley K. Edwards; Kathrin A. Dunlap; Thomas E. Spencer; M. Carey Satterfield
+     PMC7565845 · PMC · 2020-09-02 · 10 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7565845/
+     Matched: 5. Conclusions · cat /papers/PMC7565845/content.lines --lines 64-83
+     │ Table 1: Placentomal mRNA expression for selected genes identified using the microarray
+     │ analysis in nutrient restricted (NR) non-intrauterine growth restriction (non-IUGR) compared
+     │ to NR IUGR pregnancies (p < 0.05). Gene Symbol | Gene Name | Fold Change | Gene Symbol |
+     │ Gene Name | Fold Change A4IFS4 | Pregnancy-associated glycoprotein 16 | 2.11 | LBP |
+     │ Lipopolysaccharide binding protein | −1.68 ADH6 | Alcohol dehydrogenase 6 (class V) | −1.99
+     │ | LIPG | Endothelial lipase | 2.00 AGR2 | Anterior gradient protein 2 homolog | −2.32 |
+     │ Mamu-DRA | Mamu class II histocompatibility antigen, DR alpha chain | −1.78 AGTR2 |
+     │ Angiotensin II receptor, type 2 | −1.89 | MCEMP1 | Mast cell-expressed membrane …
+     "This study identified placental gene expression differences between nutrient-restricted sheep with normal fetal growth and those with growth restriction. Upregulated genes in non-growth-restricted placentas suggest altered immune response and signaling pathways are key to adaptation."
+
+  5. Tryptophan metabolite norharman secreted by cultivated Lactobacillus attenuates acute pancreatitis as an antagonist of histone deacetylases
+     Qi Zhou; Xufeng Tao; Fangyue Guo; Yu Wu; Dawei Deng; Linlin Lv; Deshi Dong; Dong Shang; Hong Xiang
+     PMC10463520 · PMC · 2023-08-28 · 37 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10463520/
+     Matched: Norharman targeted Raftlin 1 (Rftn1) to restrain M1 polarization of ma · cat /papers/PMC10463520/content.lines --lines 48-50
+     │ To further investigate the targets of norharman that regulate macrophage polarization, we
+     │ used RNA sequencing to analyze gene alterations at the transcriptome level. The heatmap in
+     │ Fig. 4A shows the top 10 DEGs between the LPS group and the LPS + Nor group, including
+     │ placenta-expressed transcript 1 (Plet1), histone cluster 1 (Hist), casitas B-lineage proto-
+     │ oncogene like 1 (Cbll1), threonine aldolase (Tha1), interleukin-19 (Il-19), endothelial
+     │ lipase (Lipg), chemokine (C–C motif) ligand 6 (Ccl6), ski sarcoma viral oncogene homolog
+     │ (Ski), tissue inhibitor of metalloproteinase 1 (Timp1) and Rftn1; these genes were verified
+     │ by qPCR in vitro (Fig. 4B). According to a literature review, we found …
+     "This study investigated how Lactobacillus-derived tryptophan metabolites affect acute pancreatitis. The metabolite norharman was found to attenuate acute pancreatitis by inhibiting M1 macrophage activation and maintaining lipid raft integrity."
+
+  6. Diosgenin and Its Analogs: Potential Protective Agents Against Atherosclerosis
+     Dan Wang; Xiaolong Wang
+     PMC9304635 · PMC · 2022-07-17 · 44 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9304635/
+     Matched: Overview of the Structures, Sources, and Safety of Diosgenin and Its A · cat /papers/PMC9304635/content.lines --lines 23-27
+     │ Protodioscin | C 51 H 84 O 22 | 1049.2 | The Rhizome of Dioscorea tokoro, the rhizomes of
+     │ Dioscorea nipponica, the seeds of fenugreek (T. foenum graecum Linn), the seeds of Tribulus
+     │ Terrestris | [171–174] Methylprotodioscin | C 52 H 86 O 22 | 1063.2 | The rhizomes of
+     │ Dioscorea collettii var. hypoglauca (Dioscoreaceae) | [175] Yamogenin | C 27 H 42 O 3 |
+     │ 414.6 | The dried stems of Asparagus officinalis L, the seeds of fenugreek (T. foenum
+     │ graecum Linn) | [101,[176],177] Tomatidine | C27H45NO2 | 415.7 | The unripe fruits, leaves,
+     │ stems and roots of tomato plant | [178] Abbreviations: MPD, Methylprotodioscin; PPD,
+     │ pseudoprotodioscin; NO, nitric oxide; cGMP, cyclic guanosine monophosphate; …
+     "This review summarizes diosgenin and its analogs' effects on atherosclerosis mechanisms. These compounds show potential as protective agents due to anti-inflammatory, antioxidant, and lipid-lowering properties."
+
+  7. Wireless flexible patch based on ultrasound-responsive SenA@ZIF-8 release for on-demand medication of periodontitis
+     Bo Peng; Jing Yang; Rui Lin; Yuling Han; Hongning Wang; Runqi Zhou; Tong Yan; Shilin Liu; Hanwei Jia...
+     PMC13471616 · PMC · 2026-06-06 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13471616/
+     Matched: Transcriptome sequencing analysis of RAW264.7 cells · cat /papers/PMC13471616/content.lines --lines 77-79
+     │ RAW264.7 macrophages were cocultured with ZIF-8, SenA, or SenA@ZIF-8 and subsequently
+     │ stimulated with LPS for transcriptome sequencing (Fig. 5A). The expression of eleven genes
+     │ (Il10, Upp1, Lcn2, Il36a, Procr, Egr2, Akap12, Lad1, Mmp13, Lipg, and Fabp4) showed
+     │ consistent changes across all treatment groups; therefore, this finding indicates a shared
+     │ immunomodulatory signature. We compared the SenA@ZIF-8 group and the free SenA group (LPS +
+     │ ZS vs. LPS + SenA) to determine the specific effects of ZIF-8-mediated delivery. A total of
+     │ 7,264 genes were upregulated, and 1,174 genes were downregulated (Fig. 5B). Gene Ontology
+     │ (GO) and KEGG pathway analyses revealed significant enrichment in immune- …
+     "Periodontitis is a prevalent chronic inflammatory disease that causes progressive periodontal tissue loss and systemic complications. However, conventional therapies often remove biofilms without full"
+
+  8. Kynurenine-3-monooxygenase (KMO) broadly inhibits viral infections via triggering NMDAR/Ca2+ influx and CaMKII/ IRF3-mediated IFN-β production
+     Jin Zhao; Jiaoshan Chen; Congcong Wang; Yajie Liu; Minchao Li; Yanjun Li; Ruiting Li; Zirong Han; Ju...
+     PMC8920235 · PMC · 2022-03-02 · 33 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8920235/
+     Matched: KMO is an interferon-dependent gene · cat /papers/PMC8920235/content.lines --lines 18-19
+     │ To identify the potential genes with antiviral activity, we used a recombinant HSV-GFP-Luc
+     │ reporter virus to screen the 288 ISGs induced by IFN-α and IFN-γ as we previously reported
+     │ [23]. Besides the well-known antiviral genes including IRF1 [24], CH25H [25], IFITM2 [26],
+     │ TAP1 [27], LY6E [28], we also identified some novel genes including KMO, SERPINA5, SLFN12,
+     │ GPR146, and LIPG, which are uncharacterized with antiviral activity previously (Fig 1A). Our
+     │ further analysis demonstrated that IFITM2, KMO, LIPG genes exerted the most obvious
+     │ inhibition against viral infections in this study (Fig 1B). Fig 1: The expression of KMO is
+     │ interferon-inducible. (A,B) 288 genes were screened by a …
+     "Kynurenine-3-monooxygenase (KMO) and its product quinolinic acid (QUIN) were studied for antiviral activity. QUIN triggers interferon-beta production via NMDAR/Ca2+ influx and CaMKII/IRF3, broadly inhibiting viral infections."
+
+  9. Phospholipases of Mineralization Competent Cells and Matrix Vesicles: Roles in Physiological and Pathological Mineralizations
+     Saida Mebarek; Abdelkarim Abousalham; David Magne; Le Duy Do; Joanna Bandorowicz-Pikula; Slawomir Pi...
+     PMC3634480 · PMC · 2013-03-01 · 61 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3634480/
+     Matched: 11. Concluding Remarks · cat /papers/PMC3634480/content.lines --lines 194-246
+     │ LPE | 2.0 ± 0.4 | 3.3 ± 0.7 | 2.4 ± 0.4 | 4.9 ± 1.2 | 6.5 ± 1.2 PS | 5.1 ± 0.8 | 3.3 ± 0.3 |
+     │ 5.0 ± 1.0 | 5.4 ± 0.7 | 9.3 ± 1.1 LPS | 0.5 ± 0.2 | 0.2 ± 0.1 | 0.3 ± 0.2 | 2.2 ± 0.7 | 2.4
+     │ ± 0.8 PI | 7.2 ± 0.8 | 6.2 ± 0.8 | 6.4 ± 0.8 | 6.1 ± 0.8 | 6.6 ± 0.6 LPI | 1.1 ± 0.7 | 1.0 ±
+     │ 0.6 | 0.5 ± 0.4 | 0.3 ± 0.2 | 1.1 ± 0.3 PA | 2.0 ± 0.5 | 0.8 ± 0.3 | 1.6 ± 0.5 | 1.1 ± 0.2 |
+     │ 0.9 ± 0.3 PG | 1.2 ± 0.6 | 0.7 ± 0.3 | 1.2 ± 0.6 | 0.9 ± 0.2 | 1.3 ± 0.3 di-PG | 3.0 ± 0.6 |
+     │ 2.5 ± 0.4 | 2.9 ± 0.6 | 1.7 ± 0.3 | 1.5 ± 1.4 Table 2: PLA1 family (adapted from [69]).
+     │ Types of PLA1 | Groups | Origin Extracellular PLA1 | PS-PLA1 | Human | mPLA1α | Human |
+     │ mPLA1β | Human | Hepatic lipase | Human | Endothelial …
+     "This review analyzes phospholipases and their roles in physiological and pathological mineralization. These enzymes are crucial for lipid metabolism, cell signaling, and matrix vesicle function during mineralization processes."
+
+  10. Current status and challenges of multi-omics research using animal models of atherosclerosis☆
+     Tijana Mitić; Adriana Georgescu; Nicoleta Alexandru-Moise; Michael J. Davies; Cecile Vindis; Susana ...
+     PMC12301843 · PMC · 2025-07-10 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12301843/
+     Matched: Lipidomics studies · cat /papers/PMC12301843/content.lines --lines 174-175
+     │ In recent years, mass spectrometry-based lipidomic investigations have emerged as a
+     │ promising approach to study the lipid profiles in animal models of atherosclerosis for
+     │ elucidating the progression of the disease and developing novel treatment strategies.
+     │ Hereby, key lipidomic/metabolomic databases used in atherosclerosis research are listed in
+     │ Table 1D. Several studies have been performed in the ApoE−/− mouse, a widely used animal
+     │ model for the study of atherosclerosis. Lipidomic profiling showed that ApoE−/− mice in
+     │ normal diet displayed elevated levels, two to five times, of specific plasma
+     │ lysophosphatidylcholine (LPC), sphingomyelin (SM) and ceramide (Cer) species, in addition to
+     │ …
+     "This paper reviews multi-omics research in animal models of atherosclerosis. It highlights the need for better models and structured databases to advance understanding and therapeutic development."
+
+[181ms, saved to s_2d1feec4]
+
+💡 Extract data across these results with: map --from s_2d1feec4 "your question"
+[181ms, saved to s_2d1feec4]  [repo: mva-lof-molecular]
+

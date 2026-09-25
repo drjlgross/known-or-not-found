@@ -1,0 +1,4 @@
+$ src/pc.sh results s_b676ad62 --save /Users/julia/known-or-not-found/results/search/pilot2/F_filter_strict/Lipg/parent.csv
+# exit 0
+  ✓ Saved 25 papers to /Users/julia/known-or-not-found/results/search/pilot2/F_filter_strict/Lipg/parent.csv
+

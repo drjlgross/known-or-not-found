@@ -1,0 +1,24 @@
+  [....................]  0/0 papers  [0s]  [####################]  3/3 papers  run m_5736a043  [2s]  [####################]  3/3 papers  run m_5736a043  [4s]
+Map complete: 3/3 papers
+Results ID: m_5736a043
+
+  ✓ Essential role of Rnd1 in innate immunity during viral and bacterial i
+    PMC9161769 · 1327ms
+    {"answer": "yes", "evidence": "To confirm the induction of Rnd1 in humans, we infected A549 cells with influenza virus H1N1 strain PR8 (PR8) and Hela or peripheral blood mononuclear cells (PBMCs) with Listeria monocytogenes (LM) and analysed the expression of Rnd1 (Fig. 1A\u2013C)." }
+
+  ✓ Rho GTPase Expression in Human Myeloid Cells
+    PMC3420873 · 1158ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ The RND1 Small GTPase: Main Functions and Emerging Role in Oncogenesis
+    PMC6696182 · 1108ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[4.6s, saved to m_5736a043]

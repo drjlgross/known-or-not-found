@@ -1,0 +1,298 @@
+Found 25 papers  [s_2c7d554f]
+
+  1. Activation of macrophage nuclear factor-κB and induction of inducible nitric oxide synthase by LPS
+     Ying-Hua Li; Zhong-Qun Yan; Annelie Brauner; Kjell Tullus
+     PMC150509 · Respiratory Research · 2002-09-05 · 46 citations
+     https://doi.org/10.1186/rr173
+     Matched: LPS stimulated NO production and iNOS expression · cat /papers/PMC150509/content.lines --lines 40-44
+     │ After treatment with LPS, the alveolar macrophage produced NO in a dose and time dependent
+     │ fashion (Fig. 1A &1B). LPS at concentrations ≥10 ng/ml induced the production of NO (p <
+     │ 0.05) at 24 hours. This effect could be further enhanced in the presence of IFN-γ (10–100
+     │ IU/ml, p < 0.05) (Fig. 1C). The induced NO production could be detected in the conditioned
+     │ media after 6 hours stimulation with LPS and reached peak levels at 24 hours in our time
+     │ setting. Since iNOS is regulated mainly at the transcriptional level, we further checked
+     │ iNOS transcripts by a semi-quantitative RT-PCR. Abundant iNOS mRNA was found in the LPS
+     │ stimulated cells at 24 hours compared to untreated cells (Fig. 2). The …
+     "This study investigated how LPS activates macrophage NF-κB and iNOS, and how steroids affect these processes. LPS induces iNOS expression and NO production via NF-κB activation, which is suppressed by dexamethasone and budesonide."
+
+  2. A Defective TLR4 Signaling for IFN-β Expression Is Responsible for the Innately Lower Ability of BALB/c Macrophages to Produce NO in Response to LPS as Compared to C57BL/6
+     Luciana S. Oliveira; Nina M. G. P. de Queiroz; Laura V. S. Veloso; Thaís G. Moreira; Fernanda S. Oli...
+     PMC4049611 · PLoS ONE · 2014-06-09 · 12 citations
+     https://doi.org/10.1371/journal.pone.0098913
+     Matched: Differential production of NO in C57BL/6 and BALB/c macrophages correl · cat /papers/PMC4049611/content.lines --lines 43-44
+     │ We next investigated whether the LPS-induced differential production of NO by C57BL/6 and
+     │ BALB/c macrophages was due to differences in the levels of iNOS. We showed by Western blot
+     │ that LPS induces a strong expression of iNOS (130 kDa) (Fig. 3A) in C57BL/6 macrophages,
+     │ detected as early as 6 h (Fig. 3B). The production of iNOS in C57BL/6 macrophages continues
+     │ to increase over the next 42 h, and by 72 h it is again undetectable, probably due to the
+     │ low cell metabolism. At the peak points, the expression of iNOS in C57BL/6 macrophages is,
+     │ depending on the experiment, 3-7-fold higher than that of BALB/c macrophages, which barely
+     │ express the protein (Fig. 3B) and never reach comparable levels …
+     "BALB/c macrophages produce less NO than C57BL/6 macrophages upon LPS stimulation due to a defective TLR4-induced IFN-β signaling pathway. This defect impairs STAT-1 activation, leading to lower iNOS mRNA and protein levels."
+
+  3. Inhibition of inducible Nitric Oxide Synthase by a mustard gas analog in murine macrophages
+     Min Qui; Victor M Paromov; Hongsong Yang; Milton Smith; William L Stone
+     PMC1698482 · BMC Cell Biology · 2006-11-30 · 23 citations
+     https://doi.org/10.1186/1471-2121-7-39
+     Matched: CEES transiently suppresses NO production and iNOS expression in LPS s · cat /papers/PMC1698482/content.lines --lines 20-22
+     │ In order to determine if CEES influenced cellular levels of iNOS, we performed Western blot
+     │ analyses (Figure 1c) of the cell lysates using highly selective anti-iNOS antibodies with
+     │ equal amounts of total protein applied to each lane. Control RAW 264.7 macrophages had no
+     │ detectable iNOS protein, CEES treatment alone did not induce any iNOS protein but LPS (10
+     │ ng/ml for 24 hours) produced a marked induction of iNOS protein. When simultaneously treated
+     │ with LPS (10 ng/ml) and CEES (300 μM) there was a marked reduction in the LPS induction of
+     │ iNOS protein. We then examined the influence of 300 μM CEES on the time course of NO
+     │ production in macrophage stimulated with 10 ng/ml LPS. Figure 2a …
+     "This study investigated the effect of a mustard gas analog (CEES) on nitric oxide production in LPS-stimulated macrophages. CEES was found to inhibit nitric oxide synthesis by decreasing iNOS protein expression."
+
+  4. iNOS activity is critical for the clearance of Burkholderia mallei from infected RAW 264.7 murine macrophages
+     Paul J Brett; Mary N Burtnick; Hua Su; Vinod Nair; Frank C Gherardini
+     PMC2228653 · PMC · 2007-10-28 · 28 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2228653/
+     Matched: INOS inhibition and LPS stimulation assays · cat /papers/PMC2228653/content.lines --lines 61-116
+     │ iNOS inhibition and LPS stimulation assays were performed using similar approaches to those
+     │ described for the macrophage survival assays. For iNOS inhibition assays, RAW 264.7 cells
+     │ were infected with B. mallei at an moi of 10. The monolayers were incubated with the
+     │ bacteria for 1 h and then washed twice with HBSS. Infected monolayers were then incubated
+     │ for a further 2 or 23 h in either DMEM-10K or DMEM-10K containing 200 μg ml−1 AG. For the
+     │ LPS stimulation assays, RAW 264.7 cells were infected with B. mallei at an moi of 1. The
+     │ monolayers were incubated with the bacteria for 1 h and then washed twice with HBSS.
+     │ Infected monolayers were then incubated for a further 2 or 23 h in DMEM-10K …
+     "This study investigated *Burkholderia mallei*'s interaction with murine macrophages. Macrophage clearance of the bacteria is dependent on inducible nitric oxide synthase (iNOS) activity."
+
+  5. Aspirin inhibits LPS-induced macrophage activation via the NF-κB pathway
+     Yitong Liu; Silian Fang; Xiaoyan Li; Jie Feng; Juan Du; Lijia Guo; Yingying Su; Jian Zhou; Gang Ding...
+     PMC5599518 · Scientific Reports · 2017-09-14 · 91 citations
+     https://doi.org/10.1038/s41598-017-10720-4
+     Matched: ASA inhibited LPS-induced iNOS positive macrophage in the rat mandibul · cat /papers/PMC5599518/content.lines --lines 71-72
+     │ We next examined whether aspirin treatment could reduce the number of local LPS-induced iNOS
+     │ positive macrophages in vivo. On the 3rd day after surgery, the percentage of LPS-induced
+     │ iNOS positive macrophages increased in both groups (Fig. 5A–D). However, compared to the
+     │ control group, the aspirin group had a lower percentage of iNOS-expressing cells (Fig. 5I; P
+     │ < 0.05). By the 5th day after surgery, the percentage of LPS-induced iNOS positive
+     │ macrophages had decreased with time passed by (Fig. 5E–H). The percentage of iNOS-expressing
+     │ cells remained lower in the aspirin group than in the control group (Fig. 5J; P < 0.05).
+     │ Figure 5: ASA inhibited LPS-induced iNOS+ macrophages during the …
+     "Aspirin was studied for its effect on LPS-induced macrophage activation. Aspirin inhibits macrophage activation via the NF-κB pathway, improving bone regeneration in inflammatory conditions."
+
+  6. Dataset on the differentiation of THP-1 monocytes to LPS inducible adherent macrophages and their capacity for NO/iNOS signaling
+     Adem Ozleyen; Yakup Berkay Yilmaz; Tugba Boyunegmez Tumer
+     PMC7851796 · Data in Brief · 2021-01-21 · 26 citations
+     https://doi.org/10.1016/j.dib.2021.106786
+     Matched: Data Description · cat /papers/PMC7851796/content.lines --lines 27-38
+     │ Table 1: The Ct values of pro-inflammatory genes in control and LPS-stimulated macrophage-
+     │ like THP-1 cells. | Ct Values | Ct Values Genes | Non-treated group | LPS-treated group
+     │ TNF-α | 30.39 ± 0.58 | 27.32 ± 0.92 IL-1β | 24.84 ± 1.62 | 20.53 ± 1.75 COX-2 | 29.54 ± 0.98
+     │ | 27.07 ± 0.36 Nitric oxide (NO) is synthesized through the catalytic action of nitric oxide
+     │ synthase (NOS) [5]. Mainly, three genes found in different chromosomes encode the NOS
+     │ isoforms called endothelial NOS, neuronal NOS, and inducible NOS (iNOS) [6]. Apart from
+     │ others, the expression of iNOS is triggered by various inflammatory stimuli such as
+     │ bacterial lipopolysaccharides (LPS) and cytokines (IL-1β, TNF-α, IFN-γ, and …
+     "This study details optimized conditions for differentiating THP-1 monocytes into adherent macrophages and inducing inflammatory responses. The differentiated cells exhibit significant NO/iNOS signaling and altered expression of pro-inflammatory genes upon LPS stimulation."
+
+  7. CME‐1, a novel polysaccharide, suppresses iNOS expression in lipopolysaccharide‐stimulated macrophages through ceramide‐initiated protein phosphatase 2A activation
+     Joen‐Rong Sheu; Zhih‐Cherng Chen; Ming‐Jen Hsu; Shwu‐Huey Wang; Kuo‐Wei Jung; Wei‐Fan Wu; Szu‐Han Pa...
+     PMC5783865 · PMC · 2017-12-07 · 22 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5783865/
+     Matched: Effects of CME‐1 on nitric oxide production and iNOS expression in RAW · cat /papers/PMC5783865/content.lines --lines 45-46
+     "This study investigated CME-1's anti-inflammatory effects on LPS-stimulated macrophages. CME-1 suppresses iNOS expression by activating ceramide-initiated protein phosphatase 2A and reducing reactive oxygen species."
+
+  8. Phyllolobium chinense Fisch Flavonoids (PCFF) Suppresses the M1 Polarization of LPS-Stimulated RAW264.7 Macrophages by Inhibiting NF-κB/iNOS Signaling Pathway
+     Hua Fan; Qiong Wu; Longping Peng; Du Li; Yidan Dong; Min Cao; Ping Liu; Xu Wang; Xudong Hu; Youhua W...
+     PMC7314944 · PMC · 2020-06-18 · 27 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7314944/
+     Matched: Inhibition Effects of PCFF on iNOS Gene Expression in LPS-Stimulated M · cat /papers/PMC7314944/content.lines --lines 89-90
+     │ Inducible nitric oxide synthase (iNOS) is the main catalytic enzyme for NO production during
+     │ macrophage inflammation. The results show that, PCFF can significantly reduce iNOS gene
+     │ transcription ( Figure 6 ). Figure 6: Effect of PCFF on LPS-induced inflammatory factor iNOS
+     │ gene in RAW264.7 cells. Each value indicates the mean ± SD from three independent
+     │ experiments. Compared with NC group, ##P <0.01; compared with LPS group, **P <0.01.
+     "Phyllolobium chinense Fisch flavonoids (PCFF) were studied for their anti-inflammatory effects in zebrafish and macrophages. PCFF suppresses M1 macrophage polarization by inhibiting the NF-κB/iNOS signaling pathway."
+
+  9. Modulation of nitric oxide synthase activity in macrophages
+     P. G. Jorens; K. E. Matthys; H. Bult
+     PMC2365621 · Mediators of Inflammation · 1995 · 57 citations
+     https://doi.org/10.1155/S0962935195000135
+     Matched: Abstract · cat /papers/PMC2365621/content.lines --lines 1-6
+     "This review examines the induction and regulation of inducible nitric oxide synthase (iNOS) in macrophages. It highlights how cytokines and other factors control NO release, a key molecule in host defense."
+
+  10. Cholecystokinin Inhibits Inducible Nitric Oxide Synthase Expression by Lipopolysaccharide-Stimulated Peritoneal Macrophages
+     Rafael Simone Saia; Fabíola Leslie Mestriner; Giuliana Bertozi; Fernando Queiróz Cunha; Evelin Capel...
+     PMC4122025 · PMC · 2014-07-13 · 19 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4122025/
+     Matched: 1. Introduction · cat /papers/PMC4122025/content.lines --lines 10-11
+     "Cholecystokinin (CCK) was studied for its effect on inducible nitric oxide synthase (iNOS) expression in lipopolysaccharide-stimulated macrophages. CCK was found to inhibit iNOS expression and nitric oxide production via CCK-1R, NF-κB, and cAMP-PKA pathways."
+
+  11. Butanol extracts of Asparagus cochinchinensis fermented with Weissella cibaria inhibit iNOS-mediated COX-2 induction pathway and inflammatory cytokines in LPS-stimulated RAW264.7 macrophage cells
+     Hyun Ah Lee; Bo Ram Song; Hye Ryeong Kim; Ji Eun Kim; Woo Bin Yun; Jin Ju Park; Mi Lim Lee; Jun Youn...
+     PMC5704323 · PMC · 2017-09-25 · 17 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5704323/
+     Matched: Suppression effects on the iNOS-mediated COX-2 induction pathway · cat /papers/PMC5704323/content.lines --lines 52-53
+     │ The signaling pathway for iNOS-mediated COX-2 induction has a key role during the
+     │ inflammation process (25). Thus, we investigated the suppressive effects of BAW on the
+     │ potential iNOS-mediated COX-2 induction pathway in LPS-activated Raw264.7 cells after BAW
+     │ pretreatment. Firstly, we observed that the enhanced NO concentration after LPS treatment
+     │ was dramatically decreased in the BAW-treated group (Fig. 3A). Also, the levels of the iNOS
+     │ and COX-2 gene transcripts were higher in the Vehicle+LPS-treated group than that in the No-
+     │ treated group. However, these levels were slightly decreased in BAWHi+LPS-treated Raw264.7
+     │ cells (Fig. 3B). These results suggest that BAW pretreatment can recover …
+     "Fermented *Asparagus cochinchinensis* extract was tested for anti-inflammatory effects in LPS-stimulated macrophages. The extract suppressed inflammatory pathways and cytokine expression, suggesting potential anti-inflammatory properties."
+
+  12. Ethyl acetate extract from Asparagus cochinchinensis exerts anti-inflammatory effects in LPS-stimulated RAW264.7 macrophage cells by regulating COX-2/iNOS, inflammatory cytokine expression, MAP kinase pathways, the cell cycle and anti-oxidant activity
+     Hyun Ah Lee; Eun Kyoung Koh; Ji Eun Sung; Ji Eun Kim; Sung Hwa Song; Dong Seob Kim; Hong Joo Son; Ch...
+     PMC5364973 · PMC · 2017-02-03 · 36 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5364973/
+     Matched: Effects of EaEAC on NO production, iNOS and COX-2 expression · cat /papers/PMC5364973/content.lines --lines 45-46
+     │ To examine the anti-inflammatory properties of EaEAC, alterations in NO concentration, and
+     │ iNOS and COX-2 transcription were measured in LPS-stimulated RAW264.7 cells following EaEAC
+     │ pretreatment. The concentration of NO was significantly increased in the vehicle + LPS-
+     │ treated group compared with the NC group (P=0.01; Fig. 3A). However, the concentration of NO
+     │ decreased by 18 and 33% in cells pretreated with 100 and 200 µg/ml EaEAC, respectively, with
+     │ the concentration in the cells that were pretreated with 200 µg/ml EaEAC significantly
+     │ reduced compared with the vehicle + LPS group (P=0.002; Fig. 3A). Similarly, increased
+     │ levels of iNOS and COX-2 mRNA expression were detected in the vehicle …
+     "Ethyl acetate extract from *Asparagus cochinchinensis* root was tested on LPS-stimulated macrophages. The extract reduced inflammation by inhibiting NO, COX-2, and ROS, and regulating MAPK pathways and cell cycle."
+
+  13. Kmeria duperreana (Pierre) Dandy Extract Suppresses LPS-Induced iNOS and NO via Regulation of NF-κB Pathways and p38 in Murin Macrophage RAW 264.7 Cells
+     Bo Ram So; Tran The Bach; Jin Hyub Paik; Sung Keun Jung
+     PMC7333012 · PMC · 2020-06-30 · 10 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7333012/
+     Matched: Effect of KDE on LPS-induced iNOS and COX-2 expression in RAW 264.7 ce · cat /papers/PMC7333012/content.lines --lines 39
+     │ We investigated the effect of KDE on expression of iNOS involved in NO production in RAW
+     │ 264.7 cells. Using Western blot analysis, we showed that KDE suppressed expression of LPS-
+     │ induced iNOS in a dose-dependent manner but had no impact on expression of COX-2 (Fig. 2).
+     "Kmeria duperreana extract was studied for its anti-inflammatory effects on LPS-induced markers in macrophage cells. The extract suppressed nitric oxide production and iNOS expression by regulating NF-κB and p38 pathways."
+
+  14. Neocryptotanshinone inhibits lipopolysaccharide-induced inflammation in RAW264.7 macrophages by suppression of NF-κB and iNOS signaling pathways
+     Chuanhong Wu; Wenwen Zhao; Xuenong Zhang; Xiuping Chen
+     PMC4629269 · Acta Pharmaceutica Sinica. B · 2015-04-07 · 78 citations
+     https://doi.org/10.1016/j.apsb.2015.01.010
+     Matched: NCTS inhibited LPS-induced iNOS protein expression but not COX-2 · cat /papers/PMC4629269/content.lines --lines 38
+     "Neocryptotanshinone (NCTS) was studied for its anti-inflammatory effects on LPS-stimulated macrophages. NCTS suppresses LPS-induced inflammation by inhibiting NF-κB and iNOS signaling pathways."
+
+  15. The inhibitory effect of quercitrin gallate on iNOS expression induced by lipopolysaccharide in Balb/c mice
+     Hyun-Ye Jo; Youngsoo Kim; Sang-Yoon Nam; Beom Jun Lee; Yun-Bae Kim; Young Won Yun; Byeongwoo Ahn
+     PMC2811838 · PMC · 2008-09-30 · 31 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2811838/
+     Matched: Introduction · cat /papers/PMC2811838/content.lines --lines 10-13
+     "Quercitrin gallate (QGR) was studied for its effect on nitric oxide (NO) and iNOS expression in LPS-stimulated mice. QGR significantly reduced LPS-induced NO production and iNOS expression, demonstrating anti-inflammatory potential."
+
+  16. MEK inhibitors increase the mortality rate in mice with LPS-induced inflammation through IL-12-NO signaling
+     Ryota Hashimoto; Hiroshi Koide; Youichi Katoh
+     PMC10575927 · PMC · 2023-10-13 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10575927/
+     Matched: LPS-induced NO production in macrophages is enhanced by MEK inhibitors · cat /papers/PMC10575927/content.lines --lines 18-20
+     "MEK inhibitors were studied in combination with LPS in mice to understand their effect on inflammation. MEK inhibitors increased mortality by enhancing IL-12-induced NO production."
+
+  17. Downregulation of Caveolin‐2 Is a Novel Mechanism Involved in Activation of Inducible Nitric Oxide Synthase (iNOS) in Mouse Peritoneal Macrophages
+     Sungchan Jang; Grzegorz Sowa
+     PMC13200602 · Mediators of Inflammation · 2026-05-25 · 0 citations
+     https://doi.org/10.1155/mi/9244130
+     Matched: 3.1. Cav‐2 Is Regulated in a Time‐Dependent Manner in Primary Mouse Re · cat /papers/PMC13200602/content.lines --lines 32-34
+     │ Figure 2: Time‐dependent effect of LPS and IFN‐γ on Cav‐2 and iNOS expression as well as
+     │ nitrite production in RAW264.7 macrophages. RAW264.7 cells were plated at 3 x 105 (A–C and
+     │ F) per well of 12‐well plates or at 7.5 x 105 per well of 6‐well plate (D, E) for 24 h,
+     │ followed by medium change and treatment without (−) or with (+) LPS (100 ng/mL), IFN‐γ (100
+     │ U/mL), or combination of LPS and IFN‐γ for 4, 8, and 24 h. Medium was collected from 12‐well
+     │ plates to determine nitrite accumulation and cells were lysed at indicated time points and
+     │ processed for SDS‐PAGE and immunoblotting (A–C) or RNA isolation followed by qRT‐PCR (D, E)
+     │ as described in experimental procedures. (A) Immunoblots with …
+     "Here we report that membrane protein caveolin‐2 (Cav‐2) is regulated during activation of primary mouse peritoneal macrophages and RAW264.7 macrophage cell line by a bacterial lipopolysaccharide (LPS)"
+
+  18. Panax Notoginseng flower saponins (PNFS) inhibit LPS-stimulated NO overproduction and iNOS gene overexpression via the suppression of TLR4-mediated MAPK/NF-kappa B signaling pathways in RAW264.7 macrophages
+     Xiao-Xu Peng; Shu-Hui Zhang; Xiao-Ling Wang; Ting-Jie Ye; Hua Li; Xiao-Feng Yan; Li Wei; Zhong-Ping ...
+     PMC4493833 · PMC · 2015-07-01 · 41 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4493833/
+     Matched: PNFS significantly inhibits iNOS gene overexpression, but does not aff · cat /papers/PMC4493833/content.lines --lines 62-64
+     │ We next assessed whether PNFS inhibited NO overproduction by suppressing iNOS gene
+     │ overexpression using western blotting and real-time PCR to measure total proteins and total
+     │ RNA, respectively. iNOS protein and mRNA levels were significantly increased after
+     │ stimulated by LPS, while PNFS (50, 100, 200 μg/mL) apparently inhibited iNOS protein
+     │ overproduction (P < 0.001, P < 0.001, P < 0.001) and iNOS mRNA overexpression (P < 0.001, P
+     │ < 0.001, P < 0.001) (Fig. 4a and b). This suggested that PNFS could decrease NO
+     │ overproduction via inhibiting iNOS gene overexpression. Fig. 4: PNFS significantly inhibited
+     │ the iNOS gene overexpression, but did not affect iNOS enzymatic activity in LPS-stimulated …
+     "Panax Notoginseng flower saponins (PNFS) were studied for their anti-inflammatory effects in LPS-stimulated macrophages. PNFS inhibits NO overproduction and iNOS overexpression by suppressing TLR4-mediated MAPK and NF-κB signaling."
+
+  19. Cholecystokinin inhibits inducible nitric oxide synthase expression in lipopolysaccharide-stimulated macrophages
+     Evelin C Carnio; Luiz GS Branco; Rafael S Saia
+     PMC3953226 · PMC · 2013-11-05 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3953226/
+
+  20. A Novel Herbal Medicine KIOM-MA Exerts an Anti-Inflammatory Effect in LPS-Stimulated RAW 264.7 Macrophage Cells
+     You-Chang Oh; Won-Kyung Cho; Yun Hee Jeong; Ga Young Im; Aeyung Kim; Youn-Hwan Hwang; Taesoo Kim; Kw...
+     PMC3518860 · PMC · 2012-11-27 · 14 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3518860/
+     Matched: 3.3. KIOM-MA Inhibits LPS-Induced iNOS and COX-2 Expression · cat /papers/PMC3518860/content.lines --lines 49
+     "KIOM-MA was studied for its anti-inflammatory effects in LPS-stimulated RAW 264.7 cells. The herbal medicine inhibited inflammatory mediators, cytokines, and key signaling pathways."
+
+  21. EP2 and EP4 receptors on muscularis resident macrophages mediate LPS-induced intestinal dysmotility via iNOS upregulation through cAMP/ERK signals
+     Tsuyoshi Tajima; Takahisa Murata; Kosuke Aritake; Yoshihiro Urade; Masaki Michishita; Toshiyuki Mats...
+     PMC3311437 · American Journal of Physiology - Gastrointestinal and Liver Physiology · 2011-12-08 · 41 citations
+     https://doi.org/10.1152/ajpgi.00264.2011
+     Matched: LPS induces iNOS and COX-2 expression in intestinal resident macrophag · cat /papers/PMC3311437/content.lines --lines 79-81
+     │ Fig. 6.: PG signaling for iNOS mRNA induction in ileal muscularis resident macrophages. A:
+     │ fluorescence-activated cell sorting (FACS) detection of CD11b-positive resident macrophages
+     │ in an enzymatically digested ileum cell suspension from C57BL/6J. CD11bHigh population (in
+     │ the circle) was isolated. SSC, side scatter; PE, phycoerythrin. B: effect of LPS and EP
+     │ agonists on iNOS mRNA expression in isolated resident macrophages. LPS (1 μg/ml) stimulation
+     │ for 4 h was used as a positive control. *P < 0.05 compared with resting macrophages. We used
+     │ the concentration of each EP agonist (1 μM) that induces submaximum responses in biological
+     │ reactions, as determined from published references. EP1, …
+     "Muscularis resident macrophages mediate LPS-induced intestinal dysmotility via iNOS upregulation. This occurs through EP2 and EP4 receptor activation, leading to cAMP/ERK signaling."
+
+  22. The altered tumoricidal capacity of macrophages isolated from tumor- bearing mice is related to reduce expression of the inducible nitric oxide synthase gene
+     PMC2192536 · PMC · 1996-04-01 · 160 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2192536/
+     Matched: Abstract · cat /papers/PMC2192536/content.lines --lines 1-3
+     "Macrophages from tumor-bearing mice show reduced tumoricidal capacity due to lower inducible nitric oxide synthase (iNOS) expression. This suppression is more pronounced in macrophages within the tumor, indicating a spatial gradient of impaired immune function."
+
+  23. Inorganic Polyphosphate Suppresses Lipopolysaccharide-Induced Inducible Nitric Oxide Synthase (iNOS) Expression in Macrophages
+     Kana Harada; Toshikazu Shiba; Kazuya Doi; Koji Morita; Takayasu Kubo; Yusuke Makihara; Adriano Piatt...
+     PMC3767636 · PLoS ONE · 2013-09-09 · 16 citations
+     https://doi.org/10.1371/journal.pone.0074650
+     Matched: Effects of poly(P) on LPS-induced iNOS mRNA expression · cat /papers/PMC3767636/content.lines --lines 50-51
+     │ We then examined whether poly(P) affects the expression of iNOS mRNA. As shown in Figure 5,
+     │ poly(P)130 (100 µM) treatment led to a significant decrease in iNOS mRNA expression induced
+     │ by LPS, suggesting that poly(P) reduces LPS-induced iNOS expression at least in part by
+     │ down-regulating the expression level of iNOS mRNA. Figure 5: poly(P) suppresses LPS-induced
+     │ iNOS mRNA expression in macrophages. The cells were pretreated with poly(P)130 (100 µM) for
+     │ 5 min and stimulated with LPS (100 ng/mL) for 6 h. iNOS mRNA expression was quantified by
+     │ real-time RT-PCR. Values are expressed as means ± SD of the percentage of iNOS mRNA
+     │ expression compared with LPS alone from three independent experiments …
+     "Inorganic polyphosphate was studied for its effect on lipopolysaccharide-induced nitric oxide synthase expression in macrophages. Polyphosphate suppresses this expression at the mRNA level, suggesting a role in regulating innate immunity."
+
+  24. Experimental Control of Macrophage Pro-Inflammatory Dynamics Using Predictive Models
+     Laura D. Weinstock; James E. Forsmo; Alexis Wilkinson; Jun Ueda; Levi B. Wood
+     PMC7381235 · Frontiers in Bioengineering and Biotechnology · 2020-07-13 · 6 citations
+     https://doi.org/10.3389/fbioe.2020.00666
+     Matched: Experimental Implementation of Predicted LPS Input Temporarily Sustain · cat /papers/PMC7381235/content.lines --lines 31-33
+     │ Each controller above defined a temporally increasing magnitude of the stimulus u, or LPS
+     │ concentration, where the input is increased at each time step. Experimentally, the model
+     │ predicted input values represent a fraction of the normalized maximum (high) LPS
+     │ concentration, 1 μg/mL. For example, 0.2 is 20% of the maximum 1 μg/mL, or 200 ng/mL, and
+     │ 0.4 is 400 ng/mL as in our data used for model fitting. To test the PI controller input
+     │ strategy, RAW 264.7 macrophages were treated with 40 ng/mL of LPS for 24 h, followed by 1
+     │ μg/mL from hour 24 until fixation at 72 h (Figure 3G, dashed line). Despite the controller
+     │ requiring u of 1.2, biologically this would have led to excessive cell death, …
+     "A model-predictive control framework was developed to regulate macrophage polarization. This framework successfully predicted and experimentally controlled iNOS expression duration and magnitude using external stimuli."
+
+  25. The Uremic Toxin Indoxyl Sulphate Enhances Macrophage Response to LPS
+     Simona Adesso; Ada Popolo; Giuseppe Bianco; Rosalinda Sorrentino; Aldo Pinto; Giuseppina Autore; Ste...
+     PMC3786936 · PLoS ONE · 2013-09-30 · 114 citations
+     https://doi.org/10.1371/journal.pone.0076778
+     Matched: IS enhances NO release, iNOS and COX-2 expression from LPS-stimulated  · cat /papers/PMC3786936/content.lines --lines 62
+     │ To asses if IS influences NO production we measured NO2 − release, a stable end-product of
+     │ NO, in cellular medium of the murine macrophage cell line J774A1 stimulated with IS
+     │ (1000–62.5 µM) alone or in combination with LPS (1 µg/ml). A marked increase of NO2 −
+     │ production in cellular medium was observed at 24 h after LPS (44.21±0.8 µM; P<0.001, vs
+     │ control). When IS (1000–62.5 µM) was added to J774A.1 macrophages, 1 h before or together
+     │ with LPS, a significant and concentration-dependent increase of NO2 − production in cell
+     │ medium was observed by 68.9±0.60 µM P<0.001 vs LPS; 62.19±0.63 µM P<0.001 vs LPS; 51.16±0.5
+     │ µM P<0.001 vs LPS; 46.12±0.23 µM P<0.01 vs LPS respectively for 1000, 500, 250 …
+     "Indoxyl sulphate was studied for its effects on macrophage activation by LPS. IS enhances macrophage inflammatory responses to LPS, increasing ROS, NO, and pro-inflammatory cytokine production."
+
+[2.5s, saved to s_2c7d554f]
+
+💡 Extract data across these results with: map --from s_2c7d554f "your question"
+[2.5s, saved to s_2c7d554f]  [repo: mva-lof-molecular]

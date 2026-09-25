@@ -1,0 +1,226 @@
+$ src/pc.sh map --from s_26bece1a --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Tnf (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 24/25 papers
+Results ID: m_a8198647
+
+  ✓ Complementation of Lymphotoxin α Knockout Mice with Tumor Necrosis Fac
+    PMC2213356 · 1381ms
+    {
+      "answer": "yes",
+      "evidence": "Compared with background-matched wild-type control mice, LT\u0331 knockout mice show severely reduced accumulation of TNF protein in both sera and macrophage exudates (Fig. 4), indicating that in addition to the LT\u0331 null mutation, this strain of mice may show further complications due to inherent defects in the neighboring TNF gene expression.",
+      "context": "Thioglycollate-elicited peritoneal macrophages from LT\u0331\u2212/\u2212 (n = 4) mice and wild-type (n = 3) controls were stimulated with 1 \u0331g/ml LPS for 24 h, and supernatants from individual cultures were assayed for the presence of TNF."
+    }
+
+  ✓ Antagonism of the histamine H4 receptor reduces LPS-induced TNF produc
+    PMC3654183 · 1400ms
+    {
+      "answer": "yes",
+      "evidence": "L12: The TNF mRNA analysis showed that the major source of the cytokine was the liver and not blood, and that the H4R antagonist only reduced the expression levels in the liver.",
+      "context": "L28: Two hours post LPS injection, animals were euthanized and blood collected via cardiac puncture."
+    }
+
+  ✓ Transmembrane TNFα-Expressed Macrophage Membrane-Coated Chitosan Nanop
+    PMC6990626 · 1369ms
+    {
+      "answer": "yes",
+      "evidence": "The gel image (Figure 2C) revealed a distinct band corresponding to transmembrane TNFα around 750 bp in 100 ng/mL LPS-treated macrophages, while there was no amplification in the untreated ones.",
+      "context": "The gel image (Figure 2C) revealed a distinct band corresponding to transmembrane TNFα around 750 bp in 100 ng/mL LPS-treated macrophages, while there was no amplification in the untreated ones."
+    }
+
+  ✓ Macrophage priming and lipopolysaccharide-triggered release of tumor n
+    PMC2119110 · 1373ms
+    {
+      "answer": "yes",
+      "evidence": "L141-L144: In acute GVH-reactive mice, injection of LPS 7 d after transplantation induced serum TNF levels of 14,759 U/ml.",
+      "context": "L139-L140: To determine whether TNF was produced in response to LPS and also to induce maximal TNF release, animals were injected intravenously with 25 /g of LPS and bled 2 h later (Table 4)."
+    }
+
+  ✓ Lipopolysaccharide-induced selective priming effects on tumor necrosis
+    PMC2190891 · 1843ms
+    {
+      "answer": "yes",
+      "evidence": "This representative experiment indicates that a concentration of 10 ng/ml of S-LPS is the threshold for effective stimulation of macrophages as assessed by either TNF-alpha or NO production, whereas significant responses were always observed with approximately 100 ng/ml S-LPS.",
+      "context": "To characterize the properties of primary LPS-induced downregulation of subsequent LPS-stimulated macrophage responses, it is important to define both the minimum and the optimal concentrations of LPS required for TNF-alpha and NO production."
+    }
+
+  ✓ Extinction of the tumor necrosis factor locus, and of genes encoding t
+    PMC2190998 · 1701ms
+    {
+      "answer": "yes",
+      "evidence": "On the other hand, both LPS and cycloheximide readily induced TNF gene expression in RAW 264.7 cells (Fig. 2).",
+      "context": "Cells were either not induced (O), or induced for 2 h using 1 #g/ml LPS (L), or 100/~g/ml cycloheximide (C)."
+    }
+
+  ✓ LPS‐stimulated NF‐κB p65 dynamic response marks the initiation of TNF 
+    PMC6234144 · 1409ms
+    {
+      "answer": "yes",
+      "evidence": "After 1-h of LPS stimulation, TNF\u0311\u03B1 mRNA expression increased (7.0-fold) significantly (Fig. 3A).",
+      "context": "RAW 264.7 cells were either Mock-treated or treated with LPS (10 ng/mL) for 15 min, 30 min, 45 min, 1, 2, 4, 6, 10, 16, 24, 48, and 72 h, after which lysates and conditioned growth media was harvested."
+    }
+
+  ✓ Mathematical modelling of activation-induced heterogeneity reveals cel
+    bio_206e5a35 · 1694ms
+    {
+      "answer": "yes",
+      "evidence": "Notably, the percentage of TNF-positive BMDMs peaked at 4h post stimulation, demonstrating a faster TNF response in BMDMs in comparison to RAW264.7 cells.",
+      "context": "Pie charts represent the community composition at 8, 12 and 16 hours post stimulus with the indicated doses of LPS for BMDMs."
+    }
+
+  ✓ AS-703026 Inhibits LPS-Induced TNFα Production through MEK/ERK Depende
+    PMC4575053 · 1488ms
+    {"answer": "yes", "evidence": "LPS treatment (100 ng/mL) in BMDMs induced significant TNF\u0315a production, which was remarkably inhibited by AS-703026 (10\u2013250 nM) co-treatment", "context": "Murine BMDMs were treated with LPS (100 ng /mL), or plus indicated concentrations of AS-703026, TNF\u0315a content in conditional medium (C, after 24 h) and relative TNF\u0315a mRNA expression in the BMDM cells (D, after 8 h) were tested."}
+
+  ✓ Lipopolysaccharide regulation of antiinflammatory tristetraprolin fami
+    PMC10949775 · 1325ms
+    {
+      "answer": "yes",
+      "evidence": "LPS rapidly increased mRNA levels of TNF by 12, 71, 82, 196, 311, 113 and 215 fold after 5, 10, 20, 50, 100, 500 and 1000 ng/mL treatment for 2 h, respectively (Fig. 3A).",
+      "context": "RAW264.7 macrophages were treated with LPS for 2–24 h."
+    }
+
+  ✓ Augmentation and Suppression of Release of Tumor Necrosis Factor from 
+    PMC5918604 · 1783ms
+    {
+      "answer": "yes",
+      "evidence": "Ten to 20 μg/ml of cardiolipin, which is a suboptimal concentration for macrophage growth‐stimulation, augmented macrophage TNF release triggered by lipopolysaccharide (LPS) in vitro.",
+      "context": ""
+    }
+
+  ✓ Macrophage tumor necrosis factor-alpha deletion does not protect again
+    PMC8716064 · 1571ms
+    {
+      "answer": "yes",
+      "evidence": "Similar to the results of others,[13] mice with LyzMCre deletion of TNF-α displayed a significantly reduced TNF-α response to the LPS challenge (P < .05) (Figure S1).",
+      "context": "A subset of TNF-αFlox/Flox, LyzMcre−/− (TNF-αF/F) and TNF-αFlox/Flox, LyzMcre± (TNF-αF/F,LyzMCre) mice were administered 100ng of lipopolysaccharide (LPS) (Sigma Aldrich, St. Louis, MO) intraperitoneally and were subsequently sacrificed 1hour after LPS administration."
+    }
+
+  ✓ Kappa B-type enhancers are involved in lipopolysaccharide-mediated tra
+    PMC2187654 · 1253ms
+    {
+      "answer": "yes",
+      "evidence": "Primary macrophages accumulate large amounts of TNFa mRNA after exposure to LPS, and this accumulation is due at least in part to increased transcription of the TNFa gene.",
+      "context": "LPS (form W from Escherichia coli 055:115; Difco Laboratories, Detroit, Michigan) was added between 24 and 36 h after transfection."
+    }
+
+  ✓ Macrophages employ quorum licensing to regulate collective activation
+    PMC7018708 · 1235ms
+    {
+      "answer": "yes",
+      "evidence": "Without LPS, BFA had no appreciable effect on intracellular TNF, indicating no detectable basal TNF production. However, when added after stimulation with LPS, BFA led to wide-ranging accumulation of on average several-fold more TNF cell−1 h−1 (Fig. 1c, Supplementary Fig. 1c).",
+      "context": "L23: To obtain a more direct readout of TNF production, we applied brefeldin A (BFA) to inhibit anterograde transport from the endoplasmic reticulum to the Golgi apparatus and prevent secretion."
+    }
+
+  ✓ Mathematical modelling of activation-induced heterogeneity in TNF, IL6
+    PMC9411976 · 1567ms
+    {
+      "answer": "yes",
+      "evidence": "Notably, the percentage of TNF-positive BMDMs peaked at 4h post stimulation, demonstrating a faster TNF response in BMDMs in comparison to RAW264.7 cells.",
+      "context": "Pie charts represent the community composition at 8, 12 and 16 hours post stimulus with the indicated doses of LPS for BMDMs."
+    }
+
+  ✓ Divergent effects of tumor necrosis factor (TNF) in sepsis: a meta-ana
+    PMC11373197 · 1566ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Signaling pathways involved in LPS induced TNFalpha production in huma
+    PMC2819999 · 1680ms
+    {
+      "answer": "yes",
+      "evidence": "In a similar way NFkappaBi is responsible for a 30% and 70% reduction in TNFalpha gene transcription at 5 and 6 hours, respectively, following treatment with LPS (Figure 1B).",
+      "context": "Figure 1: Activation of p38 MAP Kinase and NFkappaB pathways regulate LPS induced TNFalpha synthesis from human mature adipocytes. Panel B: TNFalpha gene expression. TNFalpha gene expression was determined at 4, 5 and 6 hours of treatment in mature adipocyte cultures, treated or not with: 1 \u0393\u0398g/mL of LPS alone; LPS and NFkappaB inhibitor (NFkBi, 1 \u0393\u0398M); LPS and p38 MAP kinase inhibitor (SB, 1 \u0393\u0398M); LPS and NFkBi (1 \u0393\u0398M) + SB (1 \u0393\u0398M)."
+    }
+
+  ✓ Differential Cell Sensitivity between OTA and LPS upon Releasing TNF-α
+    PMC3153254 · 1555ms
+    {"answer": "yes", "evidence": "LPS caused significant (P < 0.001) release of TNF-\u0311\u0301\u0325\u0300\u0301\u0302\u0308\u0323a as early as 1 h after addition and reached 3000 \u0071 50 pg/mL after 24 h.", "context": "Primary rat macrophages, i.e., Kupffer cells and peritoneal macrophages, were exposed to the vehicle or a standard dose of 2.5 \u0001mol/L OTA or 0.1\u0001g/mL LPS, respectively, during 24 h in culture."}
+
+  ✓ RNA from LPS-stirnulated macrophages induces the release of tumour nec
+    PMC2365439 · 1162ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Lipopolysaccharide-mediated signal transduction: Stabilization of TNF-
+    PMC2410250 · 1427ms
+    {
+      "answer": "yes",
+      "evidence": "While LPS increased TNF-alpha production in control cells, secretion of TNF-alpha in response to LPS was increased by 1.7–2.2-fold in cells cultured with ethanol compared to controls [30].",
+      "context": "RAW264.7 macrophages were cultured with and without 25 mM ethanol for 48 h and then stimulated or not with 100 ng/ml LPS for 2 to 4 h."
+    }
+
+  ✓ CD14 Mediates Binding of High Doses of LPS but Is Dispensable for TNF-
+    PMC3892557 · 1293ms
+    {
+      "answer": "yes",
+      "evidence": "RAW264 cells were stimulated with 1–1000 ng/mL of sLPS or rLPS of E. coli in the presence of 4C1 antibody which excluded LPS binding to CD14 [29]. We found that this blocking of function of CD14 nearly abolished TNF-α and RANTES production induced by 1 ng/mL of sLPS.",
+      "context": ""
+    }
+
+  ✓ Lead Increases Lipopolysaccharide-Induced Liver Injury through Tumor N
+    PMC1440772 · 1351ms
+    {
+      "answer": "yes",
+      "evidence": "LFS (5 mg/kg) alone showed a small amount of serum TNF-α (< 250 pg/mL) and a slight increase in AST (300 U/L) and ALT (30 U/L).",
+      "context": "A/J mice were intraperitoneally given Pb (100 µmol/kg), LPS (5 mg/kg), Pb+LPS, or saline (control)."
+    }
+
+  ✓ Tumor Necrosis Factor (TNF) Receptor Shedding Controls Thresholds of I
+    PMC2211976 · 1290ms
+    {
+      "answer": "yes",
+      "evidence": "Although p55 \u0394NS/\u0394NS macrophages showed similar kinetics of TNF mRNA production as wild-type cells, they displayed substantially increased levels of TNF mRNA at all time points measured.",
+      "context": "To investigate whether macrophages expressing the nonsheddable p55TNFR show increased expression of TNF, we isolated thioglycollate-elicited peritoneal macrophages from p55 \u0394NS/\u0394NS and wild-type mice, and we compared the kinetics and the levels of TNF mRNA production after LPS induction using Northern analysis."
+    }
+
+  ✗ Untitled
+    ? · 180002ms
+    error: Timed out after 180002ms (per-task cutoff)
+
+  ✓ Catecholamines Attenuate LPS-Induced Inflammation through β2 Adrenergi
+    PMC11506017 · 1339ms
+    {
+      "answer": "yes",
+      "evidence": "TNFα expression was clearly enhanced from 1 h after LPS treatment, with a peak at 2 h, then gradually diminishing at both the mRNA and protein levels (Figure 1).",
+      "context": "We first examined the expression of TNFα in LPS-treated RAW264.7 cells using RT-qPCR and immunoblotting assays."
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[190.4s, saved to m_a8198647]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  0/25 papers  run m_a8198647  [2s]
+  [########............]  10/25 papers  run m_a8198647  [4s]
+  [############........]  15/25 papers  run m_a8198647  [6s]
+  [##################..]  23/25 papers  run m_a8198647  [8s]
+  [###################.]  24/25 papers  run m_a8198647  [10s]
+  [###################.]  24/25 papers  run m_a8198647  [21s]
+  [###################.]  24/25 papers  run m_a8198647  [31s]
+  [###################.]  24/25 papers  run m_a8198647  [41s]
+  [###################.]  24/25 papers  run m_a8198647  [51s]
+  [###################.]  24/25 papers  run m_a8198647  [61s]
+  [###################.]  24/25 papers  run m_a8198647  [71s]
+  [###################.]  24/25 papers  run m_a8198647  [82s]
+  [###################.]  24/25 papers  run m_a8198647  [92s]
+  [###################.]  24/25 papers  run m_a8198647  [102s]
+  [###################.]  24/25 papers  run m_a8198647  [112s]
+  [###################.]  24/25 papers  run m_a8198647  [122s]
+  [###################.]  24/25 papers  run m_a8198647  [132s]
+  [###################.]  24/25 papers  run m_a8198647  [143s]
+  [###################.]  24/25 papers  run m_a8198647  [153s]
+  [###################.]  24/25 papers  run m_a8198647  [163s]
+  [###################.]  24/25 papers  run m_a8198647  [173s]
+  [###################.]  24/25 papers  run m_a8198647  [183s]
+  [###################.]  24/25 papers  run m_a8198647  [187s]
+  [###################.]  24/25 papers  run m_a8198647  [190s]
+
+$ src/pc.sh map --resume m_a8198647 --retry-failed
+# exit 1
+[error] Something went wrong. Please try again.
+

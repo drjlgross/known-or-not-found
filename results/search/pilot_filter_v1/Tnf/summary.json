@@ -1,0 +1,15 @@
+{
+  "gene": "Tnf",
+  "query": "Tnf LPS macrophage",
+  "filter_question": "Does this paper describe the expression of the gene Tnf changing in response to LPS or bacterial infection?",
+  "date": "2026-09-24T17:54:13Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_6ed070d1",
+  "parent_n": 25,
+  "yes": 3,
+  "no": 22,
+  "seconds_search": 0.8,
+  "seconds_filter": 1.6,
+  "seconds_total": 2.8
+}

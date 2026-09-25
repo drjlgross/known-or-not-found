@@ -1,0 +1,170 @@
+$ src/pc.sh map --from s_a930014d --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}}} Does this paper describe the expression of the gene Slc7a2 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_b1acf927
+
+  ✓ Loss of Solute Carrier Family 7 Member 2 Exacerbates Inflammation-Asso
+    PMC6377304 · 1122ms
+    {
+      "answer": "yes",
+      "evidence": "In animal models, we have shown SLC7A2 to be upregulated in the setting of experimental colitis[10], [18], [19]."
+    }
+
+  ✓ FOCIS abstract supplement
+    PMC7128890 · 5453ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Species-Specific Transcriptional Regulation of Genes Involved in Nitri
+    PMC6245571 · 1252ms
+    {
+      "answer": "yes",
+      "evidence": "In rats, as in mice (19), LPS greatly increased (18-fold) expression of the cationic amino acid transporter, Slc7a2, whereas goats were the only large animal species in which SLC7A2 mRNA was detectable (TPM 6) and regulated to any degree by LPS, with an induced level (TPM≈16) still lower than the basal level in the rat (TPM 46)."
+    }
+
+  ✓ The L-Arginine Transporter Solute Carrier Family 7 Member 2 Mediates t
+    PMC5081186 · 981ms
+    {
+      "answer": "yes",
+      "evidence": "When compared to uninfected mice, there was a significant increase in Slc7a2 mRNA levels in colonic tissues from C. rodentium-infected mice (Fig 1A)."
+    }
+
+  ✓ Solute Carrier Family 37 Member 2 (SLC37A2) Negatively Regulates Murin
+    PMC7232099 · 882ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ The NF-κB-SLC7A11 axis regulates ferroptosis sensitivity in inflammato
+    PMC12268560 · 793ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Exosomal miR-148a-3p from LPS-Activated Macrophages Promotes M1 Polari
+    PMC13199726 · 1055ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Slc7a11‐Mediated Cystine/Glutamate Antiport Reprograms Macrophage Pola
+    PMC12950507 · 1249ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ The orientation of choroidal macrophage polarization significantly inf
+    bio_b06931d1 · 1085ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Induction of unique macrophage subset by simultaneous stimulation with
+    PMC10167635 · 976ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 1311ms
+    {
+      "answer": "yes",
+      "evidence": "This effect is mediated by different genes such as the cationic amino acid transporters Slc7a2, Slc12a4, Slc1a4, Slc39a14, Slc3a2, and Slc4a7 found expressed exclusively in the in vivo M1(=LPS+)C57BL/6J signature."
+    }
+
+  ✓ Sulfur metabolic response in macrophage limits excessive inflammatory 
+    PMC10412850 · 796ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Frontline Science: LPS‐inducible SLC30A1 drives human macrophage‐media
+    PMC7891337 · 954ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Hematopoietic Cell-Specific SLC37A2 Deficiency Accelerates Atheroscler
+    PMC8702732 · 867ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Comparative Study of The Effect of LPS on The Function of BALB/c and C
+    PMC3660024 · 792ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Transcriptional profiling of the LPS induced NF-κB response in macroph
+    PMC1781469 · 876ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Motif prediction to distinguish LPS-stimulated pro-inflammatory vs. an
+    PMC2949756 · 785ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide preconditioning augments the antibacterial activity
+    PMC12035103 · 727ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Species-Specificity of Transcriptional Regulation and the Response to 
+    PMC7386301 · 888ms
+    {
+      "answer": "yes",
+      "evidence": "As noted previously (Young et al., 2018) the sheep BMDM did not show induction of NOS2 mRNA, nor of the inducible arginine transporter SLC7A2 at any time point."
+    }
+
+  ✓ Hematopoietic-SLC37A2 deficiency accelerates atherosclerosis in LDL re
+    bio_4372973f · 993ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Targeting SLC22A5 fosters mitophagy inhibition-mediated macrophage imm
+    PMC10998134 · 1492ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ LPS combined with CD47mAb enhances the anti‑osteosarcoma ability of ma
+    PMC10091190 · 915ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Progranulin inhibits LPS-induced macrophage M1 polarization via NF-кB 
+    PMC7275413 · 813ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Role of SLC7A5 in Metabolic Reprogramming of Human Monocyte/Macrophage
+    PMC5788887 · 806ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Age-associated metabolic dysregulation in bone marrow-derived macropha
+    PMC4778050 · 921ms
+    {
+      "answer": "yes",
+      "evidence": "The gene expression of Arg1, iNOS (Nos2) and the cationic amino acid transport (Slc7a2) were quantified."
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[26.1s, saved to m_b1acf927]
+
+  [###.................]  4/25 papers  run m_b1acf927  [2s]
+  [##############......]  18/25 papers  run m_b1acf927  [4s]
+  [###############.....]  19/25 papers  run m_b1acf927  [8s]
+  [####################]  25/25 papers  run m_b1acf927  [12s]
+

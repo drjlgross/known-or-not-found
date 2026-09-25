@@ -1,0 +1,21 @@
+{
+  "gene": "Nos2",
+  "query": "Nos2 (nitric oxide synthase 2, inducible) LPS macrophage",
+  "also": [],
+  "mode": "filter",
+  "strict": false,
+  "question": "Does this paper describe the expression of the gene Nos2 changing in response to LPS or bacterial infection?",
+  "date": "2026-09-24T22:58:14Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_fc600d2c",
+  "judge_id": "s_fc600d2c",
+  "parent_n": 25,
+  "yes": 6,
+  "downgraded": 0,
+  "no": 19,
+  "paper_errors": 0,
+  "seconds_search": 1.7,
+  "seconds_judge": 4.2,
+  "seconds_total": 5.9
+}

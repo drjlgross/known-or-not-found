@@ -1,0 +1,6 @@
+$ src/pc.sh filter --from s_f38c8baf Does this paper show that LPS or bacterial infection changes the level (mRNA or protein) of Lipg, including when it is referred to by an alias or its human ortholog name?
+# exit 0
+Filtered: 25 → 0 papers (25 removed as irrelevant) in 672ms
+  → 0 papers after filtering
+Results ID: s_f38c8baf (updated in place)
+[730ms, saved to s_f38c8baf]  [repo: mva-lof-molecular]

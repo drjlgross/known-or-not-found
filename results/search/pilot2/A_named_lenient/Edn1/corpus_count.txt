@@ -1,0 +1,2004 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv --bool --ranking bm25 --full-text -n 500 ("Edn1" OR "endothelin 1" OR "ET-1") AND ("LPS" OR "lipopolysaccharide") AND "macrophage"
+# exit 0
+Found 220 papers (of 500 requested)  [s_b106e080]
+
+  1. Nlrp3, Csf3, and Edn1 in Macrophage Response to Saturated Fatty Acids and Modified Low-Density Lipoprotein
+     Harin Youk; Miso Kim; Chan Joo Lee; Jaewon Oh; Sungha Park; Seok-Min Kang; Jeong-Ho Kim; Soo-jin Ann...
+     PMC7779813 · PMC · 2020-08-25 · 9 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7779813/
+     Matched: Validation of the role of  Edn1  in macrophage activation by minimally · cat /papers/PMC7779813/content.lines --lines 55-56
+     │ Edil3 | 2.33 | Nr4a1 | 5.14 C1pc | 2.21 | Tnfsf9 | 4.52
+     "This study investigated how palmitate and modified LDL affect macrophage inflammatory responses. These agents promote macrophage activation and gene expression, with TLR4 signaling being a key pathway."
+
+  2. Chlorella 11-Peptide Inhibits the Production of Macrophage-Induced Adhesion Molecules and Reduces Endothelin-1 Expression and Endothelial Permeability
+     Mei Fen Shih; Lih Chi Chen; Jong Yuh Cherng
+     PMC3826139 · PMC · 2013-10-14 · 58 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3826139/
+     Matched: 2.1. Inhibitory Effects of Chlorella 11-Peptide on LPS-Induced MCP-1 P · cat /papers/PMC3826139/content.lines --lines 17-18
+     │ The difference of MCP-1 production between LPS-treated and basal groups reached a maximum at
+     │ 12 h after LPS stimulation [23]. Therefore, this time point was chosen for further study (p
+     │ < 0.005, Figure 1). The LPS-induced MCP-1 production was significantly inhibited (p < 0.005
+     │ and p < 0.05) by Chlorella 11-peptide (38 µM and 9 µM, respectively). Indomethacin, a non-
+     │ steroidal anti-inflammatory drug, also showed an inhibition on LPS-induced MCP-1 production.
+     │ The inhibitory effect of indomethacin (0.25 mM) on MCP-1 production was found to be similar
+     │ to that of Chlorella 11-peptide in a low dose (9 µM) but less potent in comparison to a high
+     │ dose (38 µM) of Chlorella 11-peptide. Studies have …
+     "This study investigated Chlorella 11-peptide's effects on inflammatory markers in endothelial cells. The peptide significantly reduced adhesion molecules, MCP-1, and endothelin-1 expression, and decreased endothelial permeability."
+
+  3. Whole Genome Microarray Analysis of DUSP4-Deletion Reveals A Novel Role for MAP Kinase Phosphatase-2 (MKP-2) in Macrophage Gene Expression and Function
+     Thikryat Neamatallah; Shilan Jabbar; Rothwelle Tate; Juliane Schroeder; Muhannad Shweash; James Alex...
+     PMC6679025 · PMC · 2019-07-12 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6679025/
+     Matched: 2.1. The Effect of MKP-2 in the Gene Expression Pattern of LPS-Stimula · cat /papers/PMC6679025/content.lines --lines 16-17
+     │ The relative importance of MKP-2 in macrophage function was studied using microarray gene
+     │ expression analysis. A four-hour LPS stimulation was selected to cover early and late innate
+     │ immune response genes in macrophages since most of the genes are induced or repressed in a
+     │ temporal pattern. Generally, LPS induced the expression of a large number of cytokines,
+     │ chemokines, and growth factors with disparate expressions between wt and MKP-2-ko
+     │ macrophages. Table 1 shows the top 10-upregulated Agilent SurePrint G3 (8× 60K) array probes
+     │ in response to LPS. Gene ontology analysis showed that highly enriched biological processes
+     │ following LPS stimulation in both MKP-2-wt and ko macrophages are …
+     "Whole genome microarray analysis investigated MKP-2's role in macrophage gene expression. MKP-2 deletion down-regulated genes involved in macrophage development and proliferation."
+
+  4. Ketogenesis acts as an endogenous protective programme to restrain inflammatory macrophage activation during acute pancreatitis
+     Li Zhang; Juanjuan Shi; Dan Du; Ningning Niu; Shiyu Liu; Xiaotong Yang; Ping Lu; Xuqing Shen; Na Shi...
+     PMC8960978 · PMC · 2022-03-25 · 51 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8960978/
+     Matched: βOHB limits proinflammatory macrophage activation via class I HDACs · cat /papers/PMC8960978/content.lines --lines 129-130
+     │ Previous studies have shown that LPS-induced histone acetylation, strongly dependent on
+     │ HDAC3, also contributes to inflammatory gene expression in macrophages.[44] We confirmed
+     │ that βOHB was able to decrease LPS-induced histone acetylation of the target genes (e.g.,
+     │ Edn1, IL12a, and Nos2) in BMDMs (Figure. 6e, S5e). The targets of HDACs are not restricted
+     │ to histones, but also to non-histone proteins. Thus, we imported the genes of cluster A into
+     │ Ingenuity Pathway Analysis (IPA) to further explore the key effectors of βOHB. Of note, NF-
+     │ κB, which is crucial for proinflammatory macrophage activation, is the most evident pathway
+     │ affected by βOHB in the context of LPS stimulation (Figure 6f). …
+     "Ketogenesis was studied in acute pancreatitis to understand its role in immune response. Elevated ketone bodies protect against severe pancreatitis by suppressing inflammatory macrophage activation."
+
+  5. Abnormal Distribution and Upregulation of Tenascin-C mRNA Expression in the Liver of 90% Hepatectomy Rats are Related to Post-hepatectomy Liver Failure
+     Xinlan Ge; Ke Pan; Qiyue Yang; Lijie Gao; Chonghui Li
+     PMC12970764 · PMC · 2026-01-30 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12970764/
+     Matched: Lipopolysaccharide treatment significantly enhances tenascin-C express · cat /papers/PMC12970764/content.lines --lines 75-77
+     │ The bacterial translocation from the gut or the increase of endotoxin level in the portal
+     │ blood after extended liver resection are important factors contributing to liver injury and
+     │ PHLF.[17, 18] Here, we detected the influence of LPS on TNC expression in the remnant liver
+     │ after 85PH and 90PH by giving LPS immediately after PH. As shown in Figure 8a, LPS treatment
+     │ significantly enhanced TNC mRNA expression in the remnant liver and serum TNC level of 85PH
+     │ and 90PH rats at 12 h after hepatectomy. LPS also increased the hepatic mRNA and serum
+     │ protein levels of TNC in the Sham group receiving LPS but without hepatectomy.
+     │ Immunostaining of the liver tissue sections demonstrated that TNC-positive …
+     "Post-hepatectomy liver failure (PHLF) is the most serious complication after extended hepatectomy, with a high perioperative mortality rate. Matricellular protein tenascin-C (TNC) has been related to "
+
+  6. Sex-linked Lung Estrobolome May Contribute to Pulmonary Hypertension Penetrance of Bmpr2 R899X Mutation via an ET-1high Endoregulatory Macrophage Phenotype
+     O Loya; ES Villarreal; A Carneiro; S Agarwal; D Fraidenburg; J Sun; V de Jesus Perez; T Lahm; SD Oli...
+     bio_594ce2c27305 · bioRxiv · 2026-01-01 · 0 citations (all versions)
+     Published (2026): https://doi.org/10.64898/2026.06.08.729693
+     Matched: cat /papers/bio_594ce2c27305/content.lines --lines 33-34
+     │ Figure 6:: LPS and 16α-OHE synergistically increased macrophage phagocytosis and ET-1
+     │ production in Female Bmpr2+/R899X animals. Immunocytochemistry showing the phagocytosis of
+     │ FITC-tagged E. coli (green), Endothelin-1 (ET-1), and DAPI (blue) in the Bone Marrow Derived
+     │ Macrophages (BMDM) of male (left) and female (right) Bmpr2+/R899X mutant (MT) mice (A).
+     │ Inset: A higher magnification image shows BMDM with less ET-1 and more E. coli (top) and
+     │ more ET-1 and less E. coli (bottom). Phagocytosis Assay showing the intake of fluorescent
+     │ tagged E. coli in BMDM from MT male (dark blue) and female (cyan) mice after treated for 24
+     │ hours with a vehicle control, 100 ng/mL of Lipopolysaccharide (LPS), …
+     "Mutations in the bone morphogenetic protein receptor 2 (BMPR2) are a major genetic driver of pulmonary arterial hypertension (PAH), yet their penetrance is strikingly sex-biased: females are dispropor"
+
+  7. The Role of Endothelin-1 and Endothelin Receptor Antagonists in Inflammatory Response and Sepsis
+     Agata Kowalczyk; Paulina Kleniewska; Michal Kolodziejczyk; Beata Skibska; Anna Goraca
+     PMC4289534 · PMC · 2014-10-07 · 277 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4289534/
+     Matched: Pathogenesis of Sepsis · cat /papers/PMC4289534/content.lines --lines 10-11
+     │ Sepsis is defined as a systemic inflammatory response syndrome, most commonly provoked by
+     │ severe bacterial infection (Naito et al. 2014; Sagy et al. 2013; Zhang et al. 2014) This
+     │ critical condition, with a mortality rate of about 50–80 %, is characterised by hyperthermia
+     │ or hypothermia, tachypnea, tachycardia, leucocytosis or leucopenia, with immature
+     │ neutrophils, and organ dysfunction due to impaired tissue perfusion (Sagy et al. 2013).
+     │ Endotoxic shock is also associated with pulmonary hypertension, systemic hypotension and
+     │ cardiac dysfunction (Forni et al. 2005). The mechanisms underlying the pathogenic effects of
+     │ sepsis are still not completely understood. The primary cause of escalated …
+     "This paper reviews the role of Endothelin-1 (ET-1) in inflammation and sepsis. ET-1 receptor antagonists may help mitigate these pathological effects."
+
+  8. The human milk oligosaccharide 3′sialyllactose reduces low-grade inflammation and atherosclerosis development in mice
+     Ariane R. Pessentheiner; Nathanael J. Spann; Chloe A. Autran; Tae Gyu Oh; Kaare V. Grunddal; Joanna ...
+     PMC11601559 · PMC · 2024-11-08 · 17 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11601559/
+     Matched: 3′SL represses and induces a selected group of LPS-responsive inflamma · cat /papers/PMC11601559/content.lines --lines 35
+     │ To investigate 3′SL-induced changes in macrophage gene expression throughout the course of
+     │ an inflammatory response, we subjected BMDMs treated for 6 hours with or without (10 ng/mL)
+     │ LPS in the presence or absence of (100 μg/mL) 3′SL to whole transcriptome (RNA-Seq)
+     │ analysis. RNA-Seq results show that using a 1.5-fold difference and FDR < 0.05, 3′SL altered
+     │ the mRNA levels of 133 genes under LPS stimulation and 53 genes under basal conditions
+     │ (Figure 3, A and B). In contrast, LPS activation induced changes in more than 5,000 genes
+     │ using these same criteria (Supplemental Figure 3A). The subset of the 79 genes downregulated
+     │ by 3′SL under LPS stimulation are categorized by gene ontology …
+     "3'sialyllactose (3'SL), a human milk oligosaccharide, was studied for its anti-inflammatory effects. 3'SL reduces low-grade inflammation and atherosclerosis development in mice by modulating macrophage and endothelial cell inflammatory responses."
+
+  9. Endothelin-1 stimulates human monocytes in vitro to release TNF-α , IL-1β and IL-6
+     E. Helset; T. Sildnes; R. Seljelid; Z.S. Konopski
+     PMC2365438 · PMC · 1993 · 55 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2365438/
+     Matched: cat /papers/PMC2365438/content.lines --lines 8
+     │ Research Paper Mediators of Inflammation 2, 417-422 (1993) INCREASED plasma- and tissue
+     │ levels of endothelin-1 (ET- 1) during inflammatory diseases, have suggested a role of ET-1
+     │ in the pathophysiology of inflammatory reactions. The authors have studied the effect of
+     │ ET-1 on cytokine release from monocytes and monocyte-derived macro- phages. ET-1 increased
+     │ secretion of TNF-, IL-1/I and IL-6 in a dose- and time-dependent manner. Optimal ET-1
+     │ concentration ranged from 0.01 to 1 nM. The maximal response was a 200 to 400% increase in
+     │ cytokine release. A time-course study revealed that the pattern of cytokines induced by ET-1
+     │ was different in monocytes and macro- phages, although an early …
+     "Endothelin-1 was studied for its effect on cytokine release from human monocytes and macrophages. Endothelin-1 stimulates these cells to release TNF-α, IL-1β, and IL-6, suggesting a role in inflammatory responses."
+
+  10. Exosomal Non-Coding RNA Mediates Macrophage Polarization: Roles in Cardiovascular Diseases
+     Hongyun Wang; Xuan Ye; Michail Spanos; Huanxin Wang; Zijiang Yang; Guoping Li; Junjie Xiao; Lei Zhou
+     PMC10215119 · PMC · 2023-05-19 · 15 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10215119/
+     Matched: 3.1. Atherosclerosis · cat /papers/PMC10215119/content.lines --lines 29-31
+     │ Atherosclerosis (AS), an inflammatory disease caused by lipid deposition resulting in damage
+     │ to the vascular walls, is characterized primarily by the transformation of macrophages into
+     │ foam cells [7,44]. EVs originating from a variety of tissues or cells can transmit ncRNA to
+     │ macrophages, thereby regulating their polarization (Figure 1) and affecting inflammation,
+     │ lipid metabolism, and other pathological processes associated with AS. In addition to their
+     │ basic structural component, endothelial cells (ECs) play a critical role in the progression
+     │ and development of atherosclerosis. In an atherosclerosis-prone microenvironment, ECs
+     │ secrete miR-92a-rich EVs that promote macrophage polarization …
+     "This review examines how exosomal non-coding RNAs regulate macrophage polarization in cardiovascular diseases. It concludes that these RNAs are key mediators in this process, offering therapeutic potential."
+
+  11. The Human Milk Oligosaccharide 3’Sialyllactose Promotes Inflammation Resolution and Reduces Atherosclerosis Development in Mice
+     Ariane R. Pessentheiner, Nathanael J. Spann, Chloe A. Autran, Bastian Ramms, Austin W.T. Chiang, Kaa...
+     bio_8b09dd1f6cb8 · bioRxiv · 2021-03-19 · 4 citations (all versions)
+     Published (2021): https://doi.org/10.1016/j.atherosclerosis.2021.06.089
+     Preprint: https://doi.org/10.1101/2021.03.19.433472
+     Matched: 3’SL Represses and Induces a Selected Group of LPS-Responsive Inflamma · cat /papers/bio_8b09dd1f6cb8/content.lines --lines 39-40
+     │ To investigate 3’SL-induced changes in macrophage gene expression throughout the course of
+     │ an inflammatory response, we subjected BMDMs treated for 6 hours with or without (10 ng/ml)
+     │ LPS in the presence or absence of (100 µg/ml) 3’SL to whole transcriptome (RNA-Seq)
+     │ analysis. RNA-Seq results showed that using a 1.5-fold difference and false discovery rate
+     │ of <0.05, 3’SL altered the expression of 133 genes under LPS stimulation and 53 genes under
+     │ basal conditions ( Fig. 3a -b). In contrast, LPS activation induced changes in over 5,000
+     │ genes using these same criteria (Extended Data Fig. 2a ). The subset of the 79 genes
+     │ downregulated by 3’SL under LPS stimulation are categorized by gene …
+     "3'Sialyllactose (3'SL), a human milk oligosaccharide, was studied for its effects on inflammation and atherosclerosis. 3'SL reduces inflammation and atherosclerosis development by modulating macrophage gene expression and histone acetylation."
+
+  12. Decreased Ambient Oxygen Tension Alters the Expression of Endothelin-1, iNOS and cGMP in Rat Alveolar Macrophages
+     I-Chen Chen; Yu-Tsai Lin; Jhy-Shrian Huang; Bin-Nan Wu; Jong-Hau Hsu; Mian-Shin Tan; Zen-Kong Dai
+     PMC6428981 · PMC · 2019-02-28 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6428981/
+     Matched: Introduction · cat /papers/PMC6428981/content.lines --lines 17-20
+     │ Acute hypoxia causes pulmonary vasoconstriction, whereas chronic hypoxia leads to the
+     │ development of pulmonary hypertension and pulmonary vascular remodeling [1]. Alveolar
+     │ hypoxia, which is present in many lung diseases such as acute respiratory distress syndrome,
+     │ asthma, bronchopulmonary dysplasia, and obstructive sleep apnea syndrome may lead to severe
+     │ cardiopulmonary diseases such as pulmonary hypertension [2]-[4]. Growing evidence has
+     │ indicated that hypoxia alters the expression of various vasoactivators and inflammatory
+     │ factors in pulmonary non-vascular cells such as macrophages, leukocytes, and dendritic cells
+     │ [1]. Alveolar macrophages (AMs) respond rapidly to foreign material, play a …
+     "Hypoxia was studied in rat alveolar macrophages to assess changes in ET-1, iNOS, and cGMP. Hypoxia increased ET-1, phosphorylated iNOS, and cGMP, suggesting a role in the hypoxic lung."
+
+  13. Metabolic syndrome in New Zealand Obese mice promotes microglial-vascular interactions and reduces microglial plasticity
+     Michael MacLean, Olivia J. Marola, Travis Cossette, Cory Diemler, Amanda A. Hewes, Kelly J. Keezer, ...
+     bio_7a4e1a376df7 · bioRxiv · 2023-10-04 · 2 citations (all versions)
+     Published (2023): https://doi.org/10.1101/2023.10.04.560877
+     Matched: NZO mice displayed a dampened response to LPS · cat /papers/bio_7a4e1a376df7/content.lines --lines 62-63
+     │ As NZO microglia appeared to have a reduction in DEGs relevant to immune responses compared
+     │ to B6J microglia ( Figure 4 ,S5), we sought to probe the responsiveness of NZO microglia to
+     │ an acute inflammatory challenge. LPS was administered to 4mo NZO and B6J mice, and bulk
+     │ hemibrain RNA-seq ( Figure 6A ) was performed. As we suspected from the observed fibrin
+     │ deposition, NZO animals exhibited altered CNS expression of vascular associated pathways and
+     │ genes including Edn1, Angpt1, and Serpine1 ( Figure 6B-C ) even with PBS-treatment. LPS-
+     │ treated NZO animals also displayed fewer DEGs than LPS-treated B6J mice ( Figure 6D ). The
+     │ strain-dependent LPS effects suggested potential differences in …
+     "Metabolic syndrome in obese mice was studied by comparing NZO and C57BL/6J strains. The syndrome promotes microglial-vascular interactions and reduces microglial plasticity."
+
+  14. Mild COVID-19 imprints a long-term inflammatory eicosanoid- and chemokine memory in monocyte-derived macrophages
+     Sina Bohnacker; Franziska Hartung; Fiona Henkel; Alessandro Quaranta; Johan Kolmert; Alina Priller; ...
+     PMC9038526 · PMC · 2022-12-31 · 56 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9038526/
+     Matched: Monocyte-derived macrophages of convalescent COVID-19 patients show pr · cat /papers/PMC9038526/content.lines --lines 29-31
+     │ CCL2, which is increased in monocytes during severe, acute disease[6], was upregulated in
+     │ post COVID-19 monocytes, suggesting a persistent inflammatory imprint despite mild disease
+     │ in the investigated cohort (Fig. 1b). RNA-sequencing (RNAseq) analysis identified 163
+     │ differentially expressed genes (DEGs) in MDM differentiated from monocytes of seropositive
+     │ individuals 3–5 months post infection compared to MDM from seronegative subjects (Fig. 1c,
+     │ d, Table S1). Post COVID-19 MDM showed higher expression of pro-inflammatory chemokines
+     │ (CCL2, CCL8, CCL7), driving neutrophil recruitment, including in COVID-19[18], [19] (Fig.
+     │ 1c, d, Table S1). FCGBP and endothelin-1 (EDN1), implicated in …
+     "Mild COVID-19 infection creates a lasting inflammatory memory in monocyte-derived macrophages. These cells exhibit altered eicosanoid metabolism and exaggerated responses to stimuli for months post-infection."
+
+  15. Turnour necrosis factor stimulates endothelin-1 gene expression in cultured bovine endothelial cells
+     Silvia Orisio; Marina Morigi; Carla Zoja; Norberto Perico; Giuseppe Remuzzi
+     PMC2365346 · PMC · 1992 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2365346/
+     Matched: cat /papers/PMC2365346/content.lines --lines 8
+     │ Research Paper Mediators of Inflammation, 1, 263-266 (1992) WE have studied the effect of
+     │ human recombinant tumour necrosis factor-t (TNF-t) on gene expression and produc- tion of
+     │ endothelin-1 in cultured bovine aortic endothelial cells. TNF-0t (10 and 100 ng m1-1)
+     │ increased in a time dependent manner the preproendothelin-1 mRNA levels in respect to
+     │ unstimulated endothelial cells. TNF-t in- duced endothelin-1 gene expression was associated
+     │ with a parallel increase in the release of the corresponding peptide in the culture medium.
+     │ These findings suggest that the enhanced synthesis and release of endothelin-1 occurring in
+     │ conditions of increased generation of TNF, may act as a modulatory …
+     "Tumor necrosis factor-alpha was studied for its effect on endothelin-1 gene expression in bovine endothelial cells. TNF-alpha increased endothelin-1 mRNA and peptide release, suggesting a counter-regulatory role against TNF's hypotensive effects."
+
+  16. Mechanosensitive Piezo1 protein as a novel regulator in macrophages and macrophage-mediated inflammatory diseases
+     Yu Tang; Chuanxiang Zhao; Ying Zhuang; Anjing Zhong; Ming Wang; Wei Zhang; Liqun Zhu
+     PMC10275567 · PMC · 2023-06-02 · 63 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10275567/
+     Matched: Role of Piezo1 channel in macrophages · cat /papers/PMC10275567/content.lines --lines 27-28
+     │ A wealth of evidence has shown that Piezo1 mRNA, rather than Piezo2, is highly expressed in
+     │ bone-marrow derived macrophages (36–38). After stimulation by IFN-γ and LPS or “stiff,”
+     │ macrophages exhibit increased Piezo1 expression (38), suggesting that Piezo1 acts as an
+     │ important regulator of macrophage function and polarization. Piezo1 has been shown to
+     │ regulate macrophage function. According to a study, LPS or the Piezo1 agonist Yodal can
+     │ incite the interaction between Pizeo1 and TLR4. Moreover, LPS can stimulate TLR4 to induce
+     │ Ca2+ influx requiring Piezo1, thus shedding light on the role of Piezo1 in TLR4 signaling
+     │ (36, 38). In addition, mice with a Lyz2-Cre-mediated knockout of Piezo1 …
+     "This review examines the Piezo1 channel's role in macrophages and inflammatory diseases. Piezo1 acts as a mechanical sensor, influencing macrophage function and disease progression."
+
+  17. A transcriptome-based approach to identify functional modules within and across primary human immune cells
+     Saraï Mola; Sylvain Foisy; Gabrielle Boucher; François Major; Claudine Beauchamp; Mohamad Karaky; Ph...
+     PMC7259617 · PMC · 2020-05-29 · 10 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7259617/
+     Matched: Modules associated with LPS-activated macrophages · cat /papers/PMC7259617/content.lines --lines 127-128
+     │ In addition to identifying co-regulated genes associated with specific cell types, we also
+     │ explored our ability to use this experimental approach to examine the transcriptional impact
+     │ of modifying the activation state of a cell. Specifically, we cultured CD14+ enriched
+     │ mononuclear cells from human peripheral blood with M-CSF for a total of 8 days to obtain
+     │ macrophages [93, 94] and activated macrophages were generated by stimulating the macrophages
+     │ with LPS during the last 24h of culture [95]. As can be seen in Fig 3, module 29 stands out
+     │ as being highly associated with response to LPS cells (Table 1). A global analysis of the 93
+     │ genes within this module identified 29 significantly enriched …
+     "This study sequenced transcriptomes from nine human immune cell types to identify functional co-expression modules. These modules revealed cell lineage-specific and shared functions, along with transcription factors crucial for immune cell development."
+
+  18. Genetic variation in IL-4 activated tissue resident macrophages alters the epigenetic state to determine strain specific synergistic responses to LPS
+     Mingming Zhao; Dragana Jankovic; Katherine M. Hornick; Verena M. Link; Camila Oliveira Silva Souza; ...
+     PMC11071541 · PMC · 2024-01-18 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11071541/
+     Matched: Cell-intrinsic strain-specific responses to IL-4 and LPS synergy are o · cat /papers/PMC11071541/content.lines --lines 45
+     │ Representative genes with no synergistic response (Fig.7F, left), those exhibiting a
+     │ synergistic response (Fig.7F, middle), and those displaying a more pronounced response in
+     │ the LPS treatment group in BALB/c macrophages compared to BL/6 macrophage (Fig.7F, right)
+     │ are shown. Genes identified to be synergistically upregulated by IL-4+LPS, such as Ccl2,
+     │ Ccl12, Ccl7, and Edn1, had comparable percentage of cells expressing these genes between
+     │ BL/6 and BALB/c macrophages. However, the induced level of expression per cell is higher in
+     │ BL/6 macrophages compared with Ctrl (Fig. 7F, middle), consistent with a cell intrinsic
+     │ response. Next, we re-clustered the macrophages into distinct phenotypes to …
+     "This study investigated how genetic background influences IL-4 activated tissue-resident macrophages. Genetic variation alters IL-4-induced epigenetic reprogramming, leading to strain-specific synergistic responses to LPS."
+
+  19. Epigallocatechin gallate (EGCG) inhibits lipopolysaccharide‐induced inflammation in RAW 264.7 macrophage cells via modulating nuclear factor kappa‐light‐chain enhancer of activated B cells (NF‐κB) signaling pathway
+     Imam Hossen; Zhang Kaiqi; Wu Hua; Xiao Junsong; Huang Mingquan; Cao Yanping
+     PMC10420764 · PMC · 2023-05-25 · 43 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10420764/
+     Matched: Transcriptome analysis · cat /papers/PMC10420764/content.lines --lines 92-94
+     │ FIGURE 13: Analysis of KEGG pathway enrichment of differential genes. The color depth of
+     │ nodes refers to the p‐value. The size of nodes refers to the number of genes. Heatmap
+     │ analysis of the NF‐κB pathway shows that EGCG inhibits LPS‐induced upregulation of Ccl4,
+     │ Cxcl2, Ptgs2, TNF, Bcl21, Card11, Ltb, and Plcg1. Among them, Ptgs2 is a promoter of tumor
+     │ and cancer formation, and Cxcl2 is a chemokine, which is closely related to inflammation.
+     │ CD40 can activate PI3K, Rel/NF‐κB transcription factors, induce proteins such as Bcl‐xL and
+     │ Cdk4, and inhibit Pidd1. p53 induces death domain proteins, causing inflammation, etc. In
+     │ the TNF signaling pathway, LPS induces upregulation of Ptgs2, Cxcl2, …
+     "Epigallocatechin gallate (EGCG) was studied for its anti-inflammatory effects on LPS-induced RAW 264.7 macrophage cells. EGCG reduced inflammation by inhibiting the NF-κB signaling pathway, lowering nitric oxide and ROS production."
+
+  20. Interplay between Saturated Free Fatty Acids and mmLDL Induces Inflammation in LPS-stimulated Macrophages
+     Jeong Su Park; Soo Han Bae
+     PMC7779815 · Korean Circulation Journal · 2020-10-08 · 1 citation
+     https://doi.org/10.4070/kcj.2020.0386
+     Matched: cat /papers/PMC7779815/content.lines --lines 7-9
+     │ We have followed an article titled “Nlrp3, Csf3, and Edn1 in Macrophage Response to
+     │ Saturated Fatty Acids and Modified Low-Density Lipoprotein” by Lee et al. 1) with profound
+     │ interest. The study showed that saturated fatty acids, palmitic acid (PA) in particular, and
+     │ minimally modified low-density lipoprotein (mmLDL) induce the secretion of pro-inflammatory
+     │ cytokines through activation of the extracellular signal-regulated kinase/mitogen-activated
+     │ protein kinase pathway in lipopolysaccharide (LPS)-stimulated macrophages. Further, the
+     │ authors identified several genes targeted by PA or mmLDL via RNA sequencing of LPS-
+     │ stimulated macrophages. Although this study provides insights into the …
+
+  21. Glutathione Fine-Tunes the Innate Immune Response toward Antiviral Pathways in a Macrophage Cell Line Independently of Its Antioxidant Properties
+     Marina Diotallevi; Paola Checconi; Anna Teresa Palamara; Ignacio Celestino; Lucia Coppo; Arne Holmgr...
+     PMC5626850 · PMC · 2017-09-29 · 77 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5626850/
+     Matched: Effect of GSH Depletion on the Gene Expression Profile of Control or L · cat /papers/PMC5626850/content.lines --lines 65-87
+     │ Slc7a11a | NM_011990 | <0.0001 | 1.00 | Prdx1 | NM_011034 | <0.0001 | 1.12 3110068a07rika |
+     │ AK039947 | 0.0033 | 0.97 | Fosl1 | NM_010235 | 0.0082 | 1.11 Prdx1a | NM_011034 | <0.0001 |
+     │ 0.97 | Gema | NM_010276 | 0.0275 | 1.09 Hunka | NM_015755 | 0.0008 | 0.94 | Slc7a11a |
+     │ NM_011990 | <0.0001 | 1.07 Zdhhc18 | NM_001017968 | <0.0001 | 0.70 | Acta2a | NM_007392 |
+     │ <0.0001 | 1.01 Zfpm2 | NM_011766 | 0.0006 | 0.69 | Vwce | NM_027913 | 0.0009 | 1.00 Most
+     │ down-regulated by BSO (Group 2) | Most down-regulated by BSO (Group 2) | Most down-regulated
+     │ by BSO (Group 2) | Most down-regulated by BSO (Group 2) | Most down-regulated by BSO (Group
+     │ 2) | Most down-regulated by BSO (Group 2) | Most down-regulated …
+     "This study investigated the role of glutathione (GSH) in macrophage immune responses. GSH depletion impaired antiviral gene induction and viral clearance, suggesting its primary function is fine-tuning innate immunity, not solely limiting inflammation."
+
+  22. Reduction of Adhesion Molecule Production and Alteration of eNOS and Endothelin-1 mRNA Expression in Endothelium by Euphorbia hirta L. through Its Beneficial β-Amyrin Molecule
+     Mei Fen Shih; Jong Yuh Cherng
+     PMC6271859 · PMC · 2014-07-18 · 11 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6271859/
+     Matched: 2.1. Inhibitory Effects of β-amyrin on Proinflammatory Cytokine-Induce · cat /papers/PMC6271859/content.lines --lines 16-18
+     │ The three most frequently addressed adhesion molecules, E-selectin, sICAM-1, and sVCAM-1,
+     │ can be induced by several types of proinflammatory cytokines, including TNF-α, IL-1 and IL-6
+     │ [30]. LPS‑induced macrophages produce high levels of TNF-α and IL-6 [29,31], therefore,
+     │ culture media from LPS-activated macrophages were used to stimulate the productions of CAMs.
+     │ E-selectin production in SVEC4-10 endothelial cells was significantly induced by 50% RAW
+     │ conditioned medium treatment (p < 0.005, Figure 2) compared to normal culture medium-treated
+     │ endothelial cells (referred to as the basal). The induction was significantly prevented by
+     │ both 0.6 and 0.3 µM concentrations of β-amyrin (p < 0.005). …
+     "This study investigated the effects of β-amyrin on inflammatory mediator-induced adhesion molecule production and gene expression in endothelial cells. β-Amyrin suppressed adhesion molecule production and ET-1 expression, while restoring eNOS expression."
+
+  23. Genetic variation in IL-4 activated tissue resident macrophages determines strain-specific synergistic responses to LPS epigenetically
+     Mingming Zhao; Dragana Jankovic; Verena M. Link; Camila Oliveira Silva Souza; Katherine M. Hornick; ...
+     PMC11762786 · PMC · 2025-01-25 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11762786/
+     Matched: Cell-intrinsic strain-specific responses to IL-4 and LPS synergy are o · cat /papers/PMC11762786/content.lines --lines 51-52
+     │ To assess the cell intrinsic and strain specific in vivo transcriptional response to IL-4
+     │ and LPS synergy in the same tissue environment, we performed scRNA-seq analysis of PECs from
+     │ mixed BM-chimeric mice (Fig. 7b, c). We compared naïve untreated mice (Ctrl), mice treated
+     │ with LPS alone, and those pre-treated with IL-4 and subsequently challenged with LPS. The
+     │ separation of BL/6 and BALB/c cells from the mixed BM-chimeric F1 mice was achieved through
+     │ Souporcell[34] and cell types were annotated by singleR[37](Fig. 7c). As expected, LPS
+     │ treatment resulted in reduction of the macrophage population (Fig. 7d, Supplementary Fig.
+     │ 6c) through the “macrophage disappearance reaction”[2]. LPS …
+     "This study investigated IL-4 activation of tissue-resident macrophages from different mouse strains. Genetic variation influences IL-4-induced epigenetic changes, leading to strain-specific synergistic responses to LPS."
+
+  24. Leveraging a comprehensive unbiased RNAseq database to characterize human monocyte-derived macrophage gene expression profiles within commonly employed in vitro polarization methods
+     Timothy Smyth; Alexis Payton; Elise Hickman; Julia E. Rager; Ilona Jaspers
+     PMC11538326 · PMC · 2024-11-05 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11538326/
+     Matched: Random Forest modeling accurately classifies pro-inflammatory macropha · cat /papers/PMC11538326/content.lines --lines 58-60
+     │ As M(IFN-γ), M(LPS), and M(LPS + IFN-γ) macrophages demonstrated clear differences in gene
+     │ expression profiles and canonical pathway activity, we sought to determine whether
+     │ macrophages could be accurately classified by polarization method using random forest
+     │ modeling[40],[41] (see Methods), and to determine the genes most impactful in producing
+     │ classification predictions. Following initial modeling, genes were ranked based on
+     │ descending permutation importance (see Methods) retaining the top 10,000, and then top 1,000
+     │ genes by permutation importance (Supplemental File SF6), resulting in a model with an
+     │ overall accuracy of 0.98 and an out of bag (OOB) error rate of 0.59% (Fig. 3). The model …
+     "This study analyzed RNA sequencing data to compare common in vitro macrophage polarization methods. The findings reveal that these methods produce distinct gene expression profiles, indicating they are not interchangeable for simulating diverse immune responses."
+
+  25. Identification of novel transcriptional regulators involved in macrophage differentiation and activation in U937 cells
+     Young-Sook Baek; Stefan Haas; Holger Hackstein; Gregor Bein; Maria Hernandez-Santana; Hans Lehrach; ...
+     PMC2674038 · PMC · 2009-04-02 · 104 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2674038/
+     Matched: Differential gene expression of U937 cells manifests functional macrop · cat /papers/PMC2674038/content.lines --lines 31-56
+     │ Top 50 most highly up regulated genes, sorted by 24 hrs of PMA differentiation, are shown in
+     │ Table 1. Among them are several genes well known to be related with differentiation process
+     │ as well as monocyte and macrophage functions. This involves proteins known to be involved in
+     │ the differentiation process (CDK inhibitor p21), cytokine transporter like A2M, chemokines
+     │ like CCL3 and IP10 as well as matrix metalloproteinase protein such as MMP7 and MMP9
+     │ involved in the proteolysis of structural and adhesive matrixes. Table 1: List of top 50 up
+     │ regulated genes (sorted by PMA 24 hrs) | | Illumina array fold change | Illumina array fold
+     │ change | Illumina array fold change | Illumina array fold …
+     "This study identified novel transcriptional regulators in U937 cells mimicking macrophage differentiation and activation. MEF2 family, HDACs, and H2AV were found to be upregulated, shedding light on transcriptional and epigenetic control."
+
+  26. Feedback regulation by Atf3 in the endothelin-1-responsive transcriptome of cardiomyocytes: Egr1 is a principal Atf3 target
+     Alejandro Giraldo; Oliver P. T. Barrett; Marcus J. Tindall; Stephen J. Fuller; Emre Amirak; Bonhi S....
+     PMC3365354 · PMC · 2012-05-11 · 37 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3365354/
+     Matched: DISCUSSION · cat /papers/PMC3365354/content.lines --lines 57-58
+     │ Although Atf3 and Egr1 are co-regulated by a range of stimuli, their up-regulation is
+     │ usually rapid and transient. As transcription factors, IEGs such as Atf3 and Egr1 are
+     │ important in regulating downstream gene expression, and dysregulation leads to functional
+     │ abnormalities and abnormal phenotypic responses. As demonstrated in the present study
+     │ (Figure 8), cardiomyocyte hypertrophy cannot proceed normally in the absence of Atf3. This
+     │ is not inconsistent with induction of cardiac hypertrophy in mice in vivo by overexpression
+     │ of Atf3 [24]. Atf3 knockout also enhances cardiac hypertrophy induced by pressure overload
+     │ in mice, but, in this model, MAPK signalling (including ERK1/2) induced by …
+     "This study investigated Atf3's role in endothelin-1-induced gene expression in cardiomyocytes. Atf3 acts as a negative feedback regulator, primarily by suppressing Egr1 expression, and is crucial for normal cardiomyocyte growth."
+
+  27. Roles of Macrophages in Atherogenesis
+     Lia Farahi; Satyesh K. Sinha; Aldons J. Lusis
+     PMC8660976 · PMC · 2021-11-26 · 106 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8660976/
+     Matched: Macrophage Lipid Uptake and Foam Cells · cat /papers/PMC8660976/content.lines --lines 30-31
+     │ LOX-1 augments the uptake of Ox-LDL by Mφs and ECs. Thus, LOX-1 is implicated in atherogenic
+     │ deposition of lipids and foam cell formation. The expression of LOX-1 is low under normal
+     │ physiological conditions, but inflammatory modulators, including Ox-LDL, LPS, mitochondrial
+     │ ROS, angiotensin II, sheer stress, pro-inflammatory cytokines, AGEs, and conditions such as
+     │ high blood pressure, dyslipidemia, and diabetes mellitus, upregulate LOX-1 in AS (Kattoor et
+     │ al., 2019). In addition, Ox-LDL and pro-inflammatory molecules like TNF-α upregulate the
+     │ LOX-1 expression in VSMCs and facilitate VSMCs transformation to foam cells, a major source
+     │ of plaque foam cells in human atherogenesis (Kattoor et …
+     "This paper reviews the multifaceted roles of macrophages in atherosclerosis, from lesion initiation to advanced disease. Macrophages are key players in plaque development, foam cell formation, and inflammation, with potential for therapeutic targeting."
+
+  28. Serratiopeptidase Attenuates Lipopolysaccharide-Induced Vascular Inflammation by Inhibiting the Expression of Monocyte Chemoattractant Protein-1
+     Vikas Yadav; Satyam Sharma; Ashutosh Kumar; Sanjiv Singh; V. Ravichandiran
+     PMC10047379 · PMC · 2023-03-08 · 12 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10047379/
+     Matched: 1. Introduction · cat /papers/PMC10047379/content.lines --lines 17
+     │ Endothelium also serves as one of the initial obstacles against foreign invasion. Physical
+     │ factors including shear stress and pressure stress as well as biochemical stimuli such as
+     │ neurotransmitters and locally released vasoactive substances are examples of these
+     │ invasions. Endothelial cells respond to stimuli by releasing substances that govern
+     │ hemostasis, cell development, vasomotor functioning, and inflammatory processes. The
+     │ response is divided into vasodilatation and vasoconstrictors. Nitric oxide (NO),
+     │ prostacyclin, and endothelial-derived hyperpolarizing agents are all vasodilators.
+     │ Endothelin-1, angiotensin II (Ang II), and thromboxane A2 are vasoconstrictors [18,[19],20].
+     │ …
+     "Serratiopeptidase was studied for its effects on lipopolysaccharide-induced vascular inflammation in mice. The enzyme significantly reduced inflammation and damage by inhibiting monocyte chemoattractant protein-1 expression."
+
+  29. Epigenetic Control of Macrophage Polarisation and Soluble Mediator Gene Expression during Inflammation
+     Theodore S. Kapellos; Asif J. Iqbal
+     PMC4842078 · PMC · 2016-04-10 · 101 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4842078/
+     Matched: 8. Histone Deacetylases (HDACs) · cat /papers/PMC4842078/content.lines --lines 66-69
+     │ Use of a selective class I HDACs inhibitor, valproic acid (VPA), has been shown to reduce
+     │ expression of M1-associated genes in macrophages, including CD40, CD80, and proinflammatory
+     │ cytokines [63], implying that the members of this subfamily promote M1 activation in
+     │ macrophages. Indeed, HDAC1, HDAC2, and HDAC3 were shown to act as a network of enzymes,
+     │ aiming to enhance LPS-responsiveness in macrophages. Strikingly, this effect is mediated not
+     │ only by histone tail modulation, but also via nonhistone protein phosphorylation and
+     │ acetylation [120, 121]. Class I HDAC1 releases the IFNA promoter from bound repressive
+     │ complexes upon interaction with p300/CBP and subsequent acetylation and …
+     "This review summarizes advances in epigenetic regulation of macrophage polarization into M1 or M2 states. Epigenetic modifications of histones influence the expression of inflammatory cytokines and chemokines characteristic of these phenotypes."
+
+  30. Novel wine in an old bottle: Preventive and therapeutic potentials of andrographolide in atherosclerotic cardiovascular diseases
+     Tingting Gou; Minghao Hu; Min Xu; Yuchen Chen; Rong Chen; Tao Zhou; Junjing Liu; Li Guo; Hui Ao; Qia...
+     PMC10334359 · PMC · 2023-05-20 · 29 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10334359/
+     Matched: Inhibiting macrophage inflammation and foam cell formation · cat /papers/PMC10334359/content.lines --lines 64-65
+     │ Studies have shown that AG inhibits inflammatory responses and foam cells formation by
+     │ increasing cholesterol efflux and preventing the production of NO (Fig. 7). AG exerts anti-
+     │ inflammatory effects through the NF-κB signaling pathway. In RAW264.7 cells with ox-LDL-
+     │ induced inflammation, AG could decrease the expressions of MCP-1 and IL-6. These effects
+     │ were similar to those of PDTC (a selective NF-κB inhibitor). Additionally, AG (0.35 or 1.75
+     │ μg/mL) decreased p-p65 levels in a dose-dependent manner, indicating that it exerted anti-
+     │ inflammatory effects by inhibiting NF-κB signaling pathway [122]. Similarly, in
+     │ lipopolysaccharide (LPS)–treated RAW264.7 cells and found that the combination of …
+     "This review summarizes the effects of andrographolide (AG) on atherosclerotic cardiovascular disease (ASCVD) risk factors and mechanisms. AG shows potential for preventing and treating ASCVD by targeting multiple pathological processes."
+
+  31. Berberine in Cardiovascular and Metabolic Diseases: From Mechanisms to Therapeutics
+     Xiaojun Feng; Antoni Sureda; Samineh Jafari; Zahra Memariani; Devesh Tewari; Giuseppe Annunziata; Lu...
+     PMC6485276 · PMC · 2019-03-16 · 425 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6485276/
+     Matched: Inhibiting of macrophage-derived foam cell formation, inflammation, an · cat /papers/PMC6485276/content.lines --lines 41-42
+     │ The uptake of oxLDL into macrophages is mediated by diverse scavenger receptors (SRs), such
+     │ as scavenger receptor A (SR-A)I/II, scavenger receptor class B type I (SR-BI), LOX-1, and
+     │ the cluster of differentiation 36 (CD36)[75]. When oxLDL is endocytosed into macrophages,
+     │ they develop into foam cells that form the core of atherosclerotic lesion [76], [77]. BBR
+     │ reduced oxLDL uptake by inhibiting CD36 and LOX-1, and promoted cholesterol efflux by
+     │ suppressing the expression of adipocyte enhancer-binding protein 1 (AEBP1) in macrophages
+     │ [78]. BBR also inhibited the effect of oxLDL on macrophage-derived foam cell formation by
+     │ inhibiting LOX-1, while up-regulating SR-BI expression [79]. Moreover, …
+     "This review examines berberine's mechanisms and therapeutic potential for cardiovascular and metabolic diseases. Recent studies validate berberine as a promising drug candidate for these conditions."
+
+  32. Endothelins, peptides with potent vasoactive properties, are produced by human macrophages
+     PMC2188743 · PMC · 1990-12-01 · 371 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2188743/
+     Matched: Abstract · cat /papers/PMC2188743/content.lines --lines 1-3
+     "Human macrophages were studied for endothelin production. These cells synthesize and secrete endothelins, with secretion of endothelin 1 inducible by lipopolysaccharide or PMA."
+
+  33. HIF-α signaling regulates the macrophage inflammatory response during Leishmania major infection
+     Lucy G. Fry; Charity L. Washam; Hayden Roys; Anne K. Bowlin; Gopinath Venugopal; Jordan T. Bird; Ste...
+     PMC11969800 · PMC · 2025-03-21 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11969800/
+     Matched: Results · cat /papers/PMC11969800/content.lines --lines 154-187
+     │ Table 4: Significantly up- or down-regulated DEGs between infected ARNTf/f macrophages
+     │ treated with LPS/IFNg compared to infected ARNTf/f macrophages. Up-regulated | Up-regulated
+     │ | Up-regulated | Up-regulated SYMBOL | GENE NAME | logFC | PValue (adj.) Gpr18 | G protein-
+     │ coupled receptor 18 | 13.0 | 0.012418 Mmp25 | matrix metallopeptidase 25 | 12.7 | 0.024799
+     │ G530011O06Rik | RIKEN cDNA G530011O06 gene | 12.4 | 0.030841 Gfi1 | growth factor
+     │ independent 1 transcription repressor | 12.2 | 0.019407 Mir155hg | Mir155 host gene (non-
+     │ protein coding) | 11.5 | 0.010225 Fscn1 | fascin actin-bundling protein 1 | 11.4 | 0.009893
+     │ Dnase1l3 | deoxyribonuclease 1-like 3 | 11.4 | 0.043388 Slamf1 | signaling …
+     "This study investigated macrophage HIF-α signaling during *Leishmania major* infection. HIF-α suppresses protein translation in macrophages during infection within a pro-inflammatory environment."
+
+  34. Antofine suppresses endotoxin‐induced inflammation and metabolic disorder via AMP‐activated protein kinase
+     Shao‐Ting Chou; Fang Jung; Shih‐Hsing Yang; Hwei‐Ling Chou; Guey‐Mei Jow; Jau‐Chen Lin
+     PMC5684866 · PMC · 2017-07-25 · 12 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5684866/
+     Matched: Results · cat /papers/PMC5684866/content.lines --lines 107-110
+     │ Figure 3: The expressions of inflammatory mediators and extracellular matrix genes were
+     │ regulated by antofine. Raw264.7 macrophage cells were pretreated with antofine at the
+     │ indicated doses ranging from 0 to 10 ng/mL for 30 min and then stimulated by LPS (1 μg/mL)
+     │ for 24 h. (A) Quantitative real‐time RT‐PCR was performed with specific primers including
+     │ IL1F9, IL10, TNC, IL33, EDN1, and HYAL1 as shown in Table 1. The expression of β‐actin
+     │ served as an internal control for RNA quantity. (B) The protein amount of these genes
+     │ including HYAL1, EDN1, and ARG1 was analyzed by immunoblot. The expression of β‐actin served
+     │ as an internal control for protein amount loading. *P < 0.05 versus LPS alone …
+     "Antofine was studied for its anti-inflammatory effects on endotoxin-induced inflammation in macrophages. It suppresses inflammatory responses and metabolic disorders by activating AMP-activated protein kinase."
+
+  35. Ultrastructural Remodeling of the Blood–Brain Barrier and Neurovascular Unit by Lipopolysaccharide-Induced Neuroinflammation
+     Michelle A. Erickson; Tatyana Shulyatnikova; William A. Banks; Melvin R. Hayden
+     PMC9862046 · PMC · 2023-01-13 · 61 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9862046/
+     Matched: 3. Discussion · cat /papers/PMC9862046/content.lines --lines 36-37
+     │ Since LPS does not cross the BBB [17], we assume that LPS initially activates BECs with
+     │ ensuing changes to the NVU. However, LPS can exert its effects on the NVU by other
+     │ mechanisms as well, such as an increased passage across the BBB of cytokines and immune
+     │ cells [8]. Recently, it was shown that the chemokine CCL5 was a mediator of microglial
+     │ recruitment to the brain vasculature during inflammation [16]. The source of CCL5 in vivo
+     │ could not be identified in this ultrastructure study; however, prior work has shown that
+     │ CCL5 secretion by brain endothelial cells and other cell types of the NVU, as well as CCL5
+     │ transport across the BBB in the brain-to-blood direction, are increased following …
+     "Lipopolysaccharide (LPS) induced neuroinflammation was studied using transmission electron microscopy in mice. LPS treatment caused significant ultrastructural remodeling of brain endothelial cells, pericytes, microglia, and astrocytes within the neurovascular unit."
+
+  36. Spontaneously hypertensive rats display reduced microglial activation in response to ischemic stroke and lipopolysaccharide
+     Deborah De Geyter; Wendy Stoop; Tine Zgavc; Sophie Sarre; Yvette Michotte; Jacques De Keyser; Ron Ko...
+     PMC3410811 · PMC · 2012-05-30 · 20 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3410811/
+     Matched: Discussion · cat /papers/PMC3410811/content.lines --lines 64-65
+     │ The most commonly used rodent model for focal cerebral ischemia is blocking the blood flow
+     │ in MCA by insertion of an intraluminal suture [27,28]. In this model reperfusion takes place
+     │ directly after removal of the suture. In contrast, in the Et-1 rat model, reduction in blood
+     │ flow in the MCA is induced by injection of the vasoconstrictor Et-1 and reperfusion occurs
+     │ spontaneously as a result of elimination of Et-1. In this model, strain differences in
+     │ sensitivity to Et-1 or in degradation rate of Et-1 could lead to differences in the
+     │ reduction of the blood flow and, subsequently, to differences in infarct sizes [27].
+     │ Therefore, we investigated the effects of Et-1 on blood flow in …
+     "Spontaneously hypertensive rats showed larger infarcts and deficits after stroke, but these resolved over time. Microglial activation was reduced in these rats following stroke and LPS challenge."
+
+  37. Histone deacetylase 9 deficiency exaggerates uterine M2 macrophage polarization
+     Yanqin Liu; Meirong Du; Hai‐Yan Lin
+     PMC8358884 · PMC · 2021-06-19 · 29 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8358884/
+     Matched: DISCUSSION · cat /papers/PMC8358884/content.lines --lines 89-90
+     │ It has been reported that adoptive transfer of Tregs,[42], [43], [44] CD25+Foxp3+ NK
+     │ cells[45] and Tim‐3+ peripheral NK cells[46] can protect against foetal loss in
+     │ abortion‐prone mice. Adoptive transfer of RANK+ Mϕs, which are supposed to be more adaptive
+     │ to M2 phenotype than RANK− Mϕs, on gd5, reverses embryo absorption in pregnant C57BL/6 mice
+     │ with macrophage depletion.[13] Our data proved that LPS‐induced abortion was associated with
+     │ the predominant M1 phenotype and that adoptive transfer of M2 cells partially rescued
+     │ low‐dose LPS‐induced abortion in mice. As abortion is a shift in the immunological response
+     │ from Th2 to Th1 domination, our results correlate with lines of evidence that …
+     "This study investigated uterine macrophage polarization during pregnancy and the role of Histone deacetylase 9 (Hdac9). Hdac9 deficiency exaggerates M2 macrophage polarization, potentially impacting maternal-fetal tolerance."
+
+  38. Emodin Protects Against Lipopolysaccharide-Induced Acute Lung Injury via the JNK/Nur77/c-Jun Signaling Pathway
+     Pei Xie; Li-Jun Yan; Hong-Ling Zhou; Hui-Hui Cao; Yuan-Ru Zheng; Zi-Bin Lu; Hua-Yi Yang; Jia-Mei Ma;...
+     PMC8968870 · PMC · 2022-03-17 · 19 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8968870/
+     Matched: Introduction · cat /papers/PMC8968870/content.lines --lines 14-16
+     │ ALI is a deadly inflammatory disease that is mainly characterized by excessive neutrophil
+     │ infiltration and pro-inflammatory cytokines release, which further causes endothelial and
+     │ epithelial barrier disruption (Rubenfeld et al., 2005; Fanelli and Ranieri, 2015). The
+     │ existing therapeutic strategies for ALI are respiratory support and anti-inflammatory
+     │ therapies, including the inhibition of the release of inflammatory cytokines and the
+     │ protection of the endothelial and epithelial barrier from excessive inflammation-induced
+     │ damage (Johnson and Matthay, 2010). Despite the improvement in the diagnosis and treatment
+     │ of ALI in the past few years, the mortality of ALI remains high (Lalu et al., …
+     "Emodin was studied for its therapeutic effect on lipopolysaccharide-induced acute lung injury (ALI) in mice and cell models. Emodin protects against ALI by regulating the JNK/Nur77/c-Jun signaling pathway."
+
+  39. The role and mechanism of TSC in kidney diseases: a literature review
+     Qiulin Luo; Xinguo Zheng; Ye Xu; Yuxi Fan; Hedong Zhang; Tengfang Li; Xiangqi Zhang; Longkai Peng; X...
+     PMC12210502 · PMC · 2025-07-01 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12210502/
+     Matched: Acute kidney injury · cat /papers/PMC12210502/content.lines --lines 35-37
+     │ Acute kidney injury (AKI) is frequently precipitated by a steep decline in renal function
+     │ over a short period, which results in the accumulation of metabolic waste products. This
+     │ phenomenon is associated with a markedly increased risk of morbidity and mortality [32].
+     │ Renal fibroblasts have been demonstrated to exert a substantial influence on the survival of
+     │ tubular cells and prognosis of AKI. However, the precise mechanism by which this occurs
+     │ remains unclear. Gui et al. demonstrated that fibroblasts in a mouse renal ischemia-
+     │ reperfusion injury (IRI) model exhibited a substantial increase in the abundance of p-Akt
+     │ and p-S6 6 and 24 h after IRI, as determined by western blotting. This …
+     "This review examines the role of Tuberous Sclerosis Complex (TSC) in various kidney diseases. TSC acts as a key regulator in kidney disease pathogenesis and may offer targets for new immunotherapies and treatments."
+
+  40. Anti-Inflammatory Effect of an Apigenin-Maillard Reaction Product in Macrophages and Macrophage-Endothelial Cocultures
+     Qian Zhou; Hui Xu; Wenzhe Yu; Edmund Li; Mingfu Wang
+     PMC6541947 · PMC · 2019-05-16 · 21 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6541947/
+     Matched: 1. Introduction · cat /papers/PMC6541947/content.lines --lines 13
+     │ Chronic inflammation is linked to the provocation, progression, and exacerbation of many
+     │ diseases, such as obesity, cancer, and type 2 diabetes [12]. Proverbially, macrophages are
+     │ the leading contributors to pathological inflammatory processes in response to some danger
+     │ signals, for instance, LPS and AGEs [13]. Upon the stimulation, macrophages rapidly initiate
+     │ the production of inflammatory cytokines, including endothelin 1, IL 6, TNF-α, and IL-1β
+     │ [14], thus leading to inflammation in the human body. Almost immediately, macrophages and
+     │ lymphocytes are recruited from the peripheral blood to the endothelial cells, which stands
+     │ for an early and critical event in the development of vascular …
+     "Dimethylglyoxal apigenin (DMA) was studied for its anti-inflammatory effects in macrophages and cocultures. DMA inhibited inflammation by reducing RAGE expression, ROS, and pro-inflammatory cytokines."
+
+  41. An expanded analysis framework for multivariate GWAS connects inflammatory biomarkers to functional variants and disease
+     Sanni E. Ruotsalainen, Juulia J. Partanen, Anna Cichonska, Jake Lin, Christian Benner, Ida Surakka, ...
+     bio_be8149096bf4 · bioRxiv · 2019-12-06 · 26 citations (all versions)
+     Published (2021): https://doi.org/10.1038/s41431-020-00730-8
+     Preprint: https://doi.org/10.1101/867267
+     Matched: TABLES · cat /papers/bio_be8149096bf4/content.lines --lines 596
+     │ | Trait | Description |
+     │ |----------------|----------------------------------------------------------------------| |
+     │ Systolic bp | Systolic blood pressure | | Diastolic bp | Diastolic blood pressure | | HDL |
+     │ High density lipoprotein | | TG | Triglycerides | | TC | Total cholesterol | | LDL | Low
+     │ density lipoprotein …
+     "A new workflow enables multivariate GWAS follow-up by creating optimal univariate phenotypes. This approach identified novel associations between inflammatory biomarkers and disease-related variants."
+
+  42. CEBPD Potentiates the Macrophage Inflammatory Response but CEBPD Knock-Out Macrophages Fail to Identify CEBPD-Dependent Pro-Inflammatory Transcriptional Programs
+     C. Arnold Spek; Hella L. Aberson; Joe M. Butler; Alex F. de Vos; JanWillem Duitman
+     PMC8470509 · PMC · 2021-08-28 · 31 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8470509/
+     Matched: 1. Introduction · cat /papers/PMC8470509/content.lines --lines 10-11
+     │ CCAAT/enhancer-binding protein delta (C/EBPδ), also known as nuclear factor interleukin
+     │ (IL)-6β, is a member of the C/EBP family of transcription factors containing six members,
+     │ C/EBPα, C/EBPβ, C/EBPδ, C/EBPε, C/EBPγ and C/EBPζ [1,2]. All these members share substantial
+     │ sequence identity in the C-terminal region, which consists of a basic amino-acid-rich DNA-
+     │ binding domain followed by a leucine zipper imperative for homo- or hetero-dimerization and
+     │ subsequent DNA binding. Due to the conserved nature of the C-terminal region, all C/EBP
+     │ family members, except C/EBPζ, bind to identical DNA recognition sites in the promotor
+     │ regions of C/EBP target genes [3]. The subsequent transcriptional …
+     "This study investigated the role of CEBPD in macrophage inflammatory responses. CEBPD's impact varies by macrophage type and LPS concentration, and knock-out approaches may not accurately reveal its specific transcriptional targets due to compensatory mechanisms."
+
+  43. Amentoflavone for treating cardiocerebrovascular diseases and neurological disorders
+     Hang Zhang; Yin-mei Ban; De-mei Li; Gang Wang; Juan Gu; Lei Zhu
+     PMC11608994 · PMC · 2024-11-18 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11608994/
+     Matched: Glossary · cat /papers/PMC11608994/content.lines --lines 146-207
+     │ AME: Amentoflavone AGEs: Advanced glycation end-products ASK1: Apoptosis signal regulating
+     │ kinase 1 Akt: Protein kinase B AD: Alzheimer’s disease Aβ: β-amyloid AChE:
+     │ Acetylcholinesterase Ang: Angiotensin ACE: Angiotensin-converting enzyme AMPK: Adenosine
+     │ monophosphate-activated protein kinase AT1R: Angiotensin II receptor-1 Arg1: Arginase 1
+     │ AUC(0-t): Area under the concentration-time cure AUC(0-∞): From time zero to all original
+     │ drug elimination AMPA: α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid α7nACHR: α7
+     │ nicotinic acetylcholine receptor C max: Maximum blood concentration CL/F: Clearance COX-2:
+     │ Cyclooxygenase-2 CD36: Cluster of differentiation 36 C/EBP: Transcription factor CCAAT …
+     "This review summarizes amentoflavone's properties and its therapeutic potential for cardiocerebrovascular and neurological diseases. Despite promising activities, poor solubility and bioavailability hinder its drug development, requiring further pharmacokinetic and toxicological studies."
+
+  44. Synovial macrophage-targeted hierarchical microspheres achieve cartilage preservation and pain relief in osteoarthritis
+     Guojiang Zhang; Laibo Zhang; Xiangdong Wen; Guangxian Liu; Dengju Li; Chuanhong Qin; Senbo An; Yawei...
+     PMC13227287 · PMC · 2026-05-22 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13227287/
+     Matched: Therapeutic mechanisms of Tof@HA-TAGel demonstrated through RNA-seq · cat /papers/PMC13227287/content.lines --lines 85-86
+     │ This work established Tof@HA-TAGel as an exceptionally compelling candidate in the field of
+     │ OA pain. To elucidate the ability and mechanistic basis of Tof@HA-TAGel in treating OA, mRNA
+     │ sequencing was performed on RAW264.7 cells from Tof@HA-TAGel and LPS groups (n = 3).
+     │ Comparative analysis identified 748 differentially expressed genes (DEGs), comprising 461
+     │ upregulated and 287 downregulated transcripts (Fig. 5A). As shown in Fig. 5A, the
+     │ upregulated gene set showed strong associations with anti-inflammatory (Socs1, Il-10,
+     │ Foxo3), antioxidant (Oxr1, Gpx4, Cyp27), and analgesic processes (Scn9a, Frzb, Ccn3).
+     │ Conversely, downregulated genes were linked to inflammatory (Il-6, Tnf-α, Usp18), …
+     "Pain, the hallmark symptom of osteoarthritis (OA), drives most patients to seek medical care. The current analgesics only provide partial pain relief, while fail to modify disease progression and intr"
+
+  45. Beyond M1/M2: The Pivotal Role of Macrophage Metabolic Reprogramming in Chronic Bone Disease and Targeted Intervention
+     Qiao Wan; Zeling Fang; Jiarong Shi; Yu Jiang; Hua Jin; Chuangwei Sui; Xupeng Liu; Fangyu An; Yanxia ...
+     PMC13164380 · PMC · 2026-04-22 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13164380/
+     Matched: 6. Conclusions · cat /papers/PMC13164380/content.lines --lines 83-84
+     │ Furthermore, we speculate that future management of chronic bone diseases will shift from
+     │ non-specific anti-inflammatory strategies towards precise metabolic regulation, which
+     │ represents a promising direction for development. Achieving this goal will require the
+     │ integration of cutting-edge technologies, such as single-cell spatial transcriptomics, to
+     │ map the metabolic heterogeneity of specific macrophage subpopulations within the
+     │ pathological microenvironment (Figure 4). Concurrently, there is a need to develop
+     │ intelligent, stimulus-responsive biomaterials and nanodelivery systems capable of sensing
+     │ local metabolic signals, thereby enabling the spatiotemporally controlled release of …
+     "The progression of chronic bone diseases is intricately linked to dysregulated macrophage polarisation. However, a comprehensive understanding of the complex interplay between macrophage polarisation "
+
+  46. Phytoceuticals in Acute Pancreatitis: Targeting the Balance between Apoptosis and Necrosis
+     Laura Gaman; Dorin Dragos; Adelina Vlad; Georgiana Catalina Robu; Mugurel Petrinel Radoi; Laura Stro...
+     PMC5857302 · PMC · 2018-03-04 · 32 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5857302/
+     Matched: 4.2.1. In Vitro Studies · cat /papers/PMC5857302/content.lines --lines 67-69
+     │ Studies performed on macrophagic cells demonstrated the anti-inflammatory and antioxidative
+     │ effects of baicalin [140] which allows us to surmise a favourable effect in diseases
+     │ characterized by systemic inflammation, such as AP, especially SAP. Inflammation. Baicalin
+     │ blocked the activation of the macrophages and lipopolysaccharide (LPS) induced synthesis of
+     │ proinflammatory mediators [tumor necrosis factor α (TNF-α), endothelin-1 (ET-1), and
+     │ thromboxane A2 (TXA2)] in RAW264.7 (macrophage-type) cells [140]. Oxidative/Nitrosative
+     │ Stress. Baicalin staved off the augmentation in nitric oxide (NO) production and inducible
+     │ nitric oxide synthase (iNOS) expression promoted by LPS and Interferon-γ …
+     "This review discusses plant-derived compounds that may protect against acute pancreatitis by modulating acinar cell death. These compounds show promise by balancing apoptosis and necrosis, but human studies are needed."
+
+  47. Myeloproliferative neoplasm-driving Calr frameshift promotes the development of pulmonary hypertension in mice
+     Keiji Minakawa; Tetsuro Yokokawa; Koki Ueda; Osamu Nakajima; Tomofumi Misaka; Yusuke Kimishima; Kent...
+     PMC8011226 · PMC · 2021-03-30 · 10 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8011226/
+     Matched: To the editor, · cat /papers/PMC8011226/content.lines --lines 20-21
+     │ Fig. 2: STAT3 phosphorylation and Endothelin-1 expression in the lung and macrophages from
+     │ Calrdel10/WT mice. a Western blot of lung homogenates of the BMT recipients from CalrWT/WT
+     │ mice (WT-R) or Calrdel10/WT mice (del-R), immunoblotted with the indicated antibodies. b
+     │ Phosphorylated STAT3 (p-STAT3) to total STAT3 (t-STAT3) or Endothelin-1 to β-actin ratios
+     │ are shown in the graphs. The average value for WT-R under normoxia was set to 1 (n = 5,
+     │ each). *P < 0.05 versus the corresponding normoxia group and †P < 0.05 versus the
+     │ corresponding WT-R. c The lethally irradiated WT C57BL/6 J mice were transplanted with the
+     │ BM cells from Calrdel10/WT/CAG-EGFP mice. These recipient mice were subjected …
+     "A mouse model with a Calreticulin frameshift mutation was created to mimic human myeloproliferative neoplasms. This model developed pulmonary hypertension, suggesting a link between this mutation and the cardiovascular complication."
+
+  48. TCR repertoire landscape reveals macrophage-mediated clone deletion in endotoxin tolerance
+     Juanjuan Zhao; Li Jia; YiJing Tao; Xu Zhao; Jing Yang; Yanxin Lu; Yaping Yan; Ling Mao; Lin Hu; Jia ...
+     PMC10023648 · PMC · 2023-01-12 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10023648/
+     Matched: Introduction · cat /papers/PMC10023648/content.lines --lines 22-23
+     │ Sepsis, septic shock, and their sequelae including uncontrolled inflammation are the leading
+     │ causes of death in intensive care units, with limited therapeutic options.
+     │ Pathophysiological adaptations to regulate over-exuberant inflammation serve as an important
+     │ mechanism for host protection against endotoxin shock. One of these protective mechanisms is
+     │ endotoxin tolerance (ET) [1, 2]. Long-term exposure to lipopolysaccharide (LPS) or injection
+     │ of sub-lethal doses of LPS in animals can induce tolerance of endotoxin that reprograms the
+     │ inflammatory response, resulting in cells or organisms entering into a transient
+     │ unresponsive state where they are unable to respond to further challenges with …
+     "This study analyzed T cell receptor repertoires and macrophage activity during endotoxin tolerance in mice. Macrophages mediate the deletion of specific T cell clones, contributing to endotoxin tolerance."
+
+  49. 20-Hydroxy-3-Oxolupan-28-Oic Acid, a Minor Component From Mahonia bealei (Fort.) Carr. Leaves Alleviates Lipopolysaccharide-Induced Inflammatory in Murine Macrophages
+     Xiaojun Yang; Jing Zhou; Yang He; Lingyun Lv; Yufeng Cao; Weicheng Hu
+     PMC8247915 · PMC · 2021-06-17 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8247915/
+     Matched: Discussion · cat /papers/PMC8247915/content.lines --lines 120-121
+     │ GO enrichment analyses indicated that DEGs in the control/LPS group were mainly enriched in
+     │ the inflammatory response, immune system process, response to virus, and changes in IFN-β in
+     │ cells (Figure 4A). This is consistent with the mechanism of action of LPS on macrophages
+     │ (Mosser and Edwards, 2008). LPS stimulation activates macrophages to produce corresponding
+     │ inflammatory and immune responses, and studies have shown that TLR4 endocytosis occurs in a
+     │ dynamin-dependent manner after LPS stimulation, which induces IFN-β production. IFNs are
+     │ proteins with immune activity, which can activate and regulate immune cells (Medzhitov,
+     │ 2007). IFN interacts with specific receptors to activate STAT …
+     "This study investigated the transcriptional changes in macrophages treated with 20-hydroxy-3-oxolupan-28-oic acid (HOA) and lipopolysaccharide (LPS). HOA alleviates LPS-induced inflammation by modulating key inflammatory signaling pathways."
+
+  50. MicroRNA: role in macrophage polarization and the pathogenesis of the liver fibrosis
+     Wen Yu; Shu Wang; Yangyang Wang; Hui Chen; Hao Nie; Lian Liu; Xiaoting Zou; Quan Gong; Bing Zheng
+     PMC10149999 · PMC · 2023-04-17 · 38 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10149999/
+     Matched: MiRNAs regulate the M1 phenotype polarization of macrophages · cat /papers/PMC10149999/content.lines --lines 22
+     │ Extracellular vesicles (EVs) such as exosomes are cell-derived, membrane-bound organelles
+     │ involved in intercellular communication. Exosomes play an important regulatory role in the
+     │ progression of various liver diseases, delivering various biological components such as
+     │ miRNAs, proteins and lipids to neighboring or distant cells (50). In a rat model of
+     │ nonalcoholic fatty liver disease (NAFLD) induced by high-fat and high-cholesterol diet, the
+     │ lipotoxic injury-induced release of miR-192-5p-enriched hepatocyte exosomes played a
+     │ critical role in M1 macrophage activation; miR-192-5p drove macrophages to polarize towards
+     │ the proinflammatory M1 phenotype through modulating the Rictor/Akt/FoxO1 …
+     "This paper reviews the role of microRNAs in macrophage polarization and their contribution to liver fibrosis. It concludes that understanding these mechanisms offers a basis for new liver fibrosis therapies."
+
+  51. Emerging roles of mechanosensitive ion channels in acute lung injury/acute respiratory distress syndrome
+     Qi Jia; Yiyi Yang; Xiangdong Chen; Shanglong Yao; Zhiqiang Hu
+     PMC9764320 · PMC · 2022-12-20 · 19 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9764320/
+     Matched: Outlook and conclusion · cat /papers/PMC9764320/content.lines --lines 48-67
+     "Mechanosensitive ion channels (MSCs) in the lungs are implicated in acute lung injury/acute respiratory distress syndrome (ALI/ARDS). Targeting these channels shows promise as a therapeutic strategy for ALI/ARDS."
+
+  52. Macrophage cell membrane-based nanoparticles: a new promising biomimetic platform for targeted delivery and treatment
+     Yuesong Wu; Shengli Wan; Shuo Yang; Haiyang Hu; Chunxiang Zhang; Jia Lai; Jiahan Zhou; Wang Chen; Xi...
+     PMC9794113 · PMC · 2022-12-27 · 290 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9794113/
+     Matched: Cardiovascular diseases · cat /papers/PMC9794113/content.lines --lines 210-211
+     "Macrophage cell membranes were used to cloak synthetic nanoparticles. This biomimetic platform shows promise for targeted delivery and treatment by evading immune detection and targeting diseased tissues."
+
+  53. Bovine κ-Casein Fragment Induces Hypo-Responsive M2-Like Macrophage Phenotype
+     Richard Lalor; Sandra O’Neill
+     PMC6683041 · PMC · 2019-07-23 · 12 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6683041/
+     Matched: 4. Discussion · cat /papers/PMC6683041/content.lines --lines 56-57
+     "Bovine kappa-casein was studied for its effects on macrophage function. It induces an M2-like, hypo-responsive macrophage phenotype that suppresses inflammatory responses."
+
+  54. Vulnerability of vascular endothelium in lipopolysaccharide toxicity: effect of (acyl) carnitine on endothelial stability
+     W. C. Hülsmann
+     PMC2365446 · PMC · 1993 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2365446/
+     Matched: cat /papers/PMC2365446/content.lines --lines 7
+     "This study investigated how lipopolysaccharide (LPS) affects endothelial cells and the role of carnitine. LPS exposure leads to increased capillary permeability, and carnitine may help protect endothelial cells from this damage."
+
+  55. N6-Methyladenosine modification of circDcbld2 in Kupffer cells promotes hepatic fibrosis via targeting miR-144-3p/Et-1 axis
+     Sai Zhu; Xin Chen; Lijiao Sun; Xiaofeng Li; Yu Chen; Liangyun Li; Xiaoguo Suo; Chuanhui Xu; Minglu J...
+     PMC11873614 · PMC · 2024-11-05 · 13 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11873614/
+     Matched: Silencing circDcbld2 reduces HSC activation in HF mice · cat /papers/PMC11873614/content.lines --lines 95-96
+     "This study investigated circular RNAs in Kupffer cells of hepatic fibrosis. Upregulated circDcbld2, methylated by Wtap and stabilized by Igf2bp2, promotes fibrosis by targeting miR-144-3p/Et-1."
+
+  56. Hepatic microcirculatory disturbance in liver diseases: intervention with traditional Chinese medicine
+     Pei Liu; Wan-Li Liang; Rui-Ting Huang; Xin-Xing Chen; De-Hua Zou; Hiroshi Kurihara; Yi-Fang Li; You-...
+     PMC11300221 · PMC · 2024-07-23 · 10 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11300221/
+     Matched: Glossary · cat /papers/PMC11300221/content.lines --lines 138-189
+     "This review examines hepatic microcirculatory disturbances in various liver diseases and their detection methods. Traditional Chinese medicine shows promise in improving hepatic microcirculation and treating these conditions."
+
+  57. The emerging roles of piezo1 channels in animal models of multiple sclerosis
+     Kai Yang; Xueai He; Zhengqi Wu; Yimeng Yin; Hanyu Pan; Xinyue Zhao; Taolei Sun
+     PMC9513475 · PMC · 2022-09-13 · 21 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9513475/
+     Matched: Microglia and macrophages · cat /papers/PMC9513475/content.lines --lines 37-39
+     "This paper investigates the role of Piezo1 mechanosensitive channels in multiple sclerosis. Piezo1 activation negatively impacts myelination and inhibiting it can reduce disease symptoms, suggesting it's a potential therapeutic target."
+
+  58. Logic-Based Modeling of Inflammatory Macrophage Crosstalk with Glomerular Endothelial Cells in Diabetic Kidney Disease
+     Krutika Patidar, Ashlee N. Ford Versypt *
+     bio_8c29fe036d62 · bioRxiv · 2023-04-04 · 8 citations (all versions)
+     Published (2025): https://doi.org/10.1152/ajprenal.00362.2024
+     Preprint: https://doi.org/10.1101/2023.04.04.535594
+     Matched: DISCUSSION · cat /papers/bio_8c29fe036d62/content.lines --lines 100-101
+     │ In this work, we predicted the continuous signaling dynamics of proteins in macrophages and
+     │ GECs using an LBODEs modeling technique and prior knowledge of intracellular and
+     │ intercellular pathways compiled into the PSN. We fitted and validated the model using
+     │ published in vitro data. We demonstrated the effect of hyperglycemia and inflammation on
+     │ signaling pathways and protein expression. Glucose- and LPS-mediated upregulation of pro-
+     │ inflammatory cytokines further augments the phenotypic switch towards the pro-inflammatory
+     │ state in macrophages in the early stage of DKD ( Fig. 7a–c ). The model demonstrated this
+     │ pro-inflammatory phenotype in macrophages with an increased expression of …
+     "A logic-based model simulated inflammatory crosstalk between macrophages and glomerular endothelial cells in diabetic kidney disease. Simulations identified key signaling pathways and molecules that, when modulated, could partially restore glomerular endothelial cell morphology."
+
+  59. Inflammaging and Brain: Curcumin and Its Beneficial Potential as Regulator of Microglia Activation
+     Antonia Cianciulli; Rosa Calvello; Melania Ruggiero; Maria Antonietta Panaro
+     PMC8780663 · PMC · 2022-01-06 · 52 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8780663/
+     Matched: 7. Conclusions · cat /papers/PMC8780663/content.lines --lines 118-119
+     "This review discusses inflammaging and its link to age-related brain disorders. Curcumin shows potential as a regulator of microglia activation to combat these effects."
+
+  60. Organotypic liver culture models: Meeting current challenges in toxicity testing
+     Edward L. LeCluyse; Rafal P. Witek; Melvin E. Andersen; Mark J. Powers
+     PMC3423873 · PMC · 2012-05-15 · 308 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3423873/
+     Matched: 1.2.3 Hepatic stellate cells · cat /papers/PMC3423873/content.lines --lines 34-35
+     "Organotypic liver cultures were developed to address limitations of current in vitro toxicity testing. These more complex models better mimic liver function and architecture, improving prediction of human hepatotoxicity."
+
+  61. Roles of Mechanosensitive Channel Piezo1 in Wound Healing and Scar Formation
+     Hans-Oliver Rennekampff; Mayer Tenenhaus; Isabelle Rennekampff; Ziyad Alharbi
+     PMC10971801 · PMC · 2024-03-13 · 15 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10971801/
+     Matched: 2.3. Macrophages · cat /papers/PMC10971801/content.lines --lines 26-28
+     "This review examines the role of the mechanosensitive channel Piezo1 in wound healing. Blocking Piezo1 has been shown to reduce scarring in vivo, highlighting its importance in this process."
+
+  62. Particulate Matter-Induced Acute Coronary Syndrome: MicroRNAs as Microregulators for Inflammatory Factors
+     Nur Izah Ab Razak; Nor Eliani Ezani; Norzian Ismail
+     PMC8684514 · PMC · 2021-12-11 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8684514/
+     Matched: 5. Discussion and Conclusion · cat /papers/PMC8684514/content.lines --lines 75-93
+     "This review examines how particulate matter exposure impacts acute coronary syndrome, focusing on microRNAs. MicroRNAs are identified as key regulators of inflammatory factors in particulate matter-induced acute coronary syndrome."
+
+  63. The dual role of Piezo1 in tumor cells and immune cells: a new target for cancer therapy
+     Peng Qu; Hongyan Zhang
+     PMC12350401 · PMC · 2025-07-31 · 27 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12350401/
+     Matched: Regulatory role of Piezo1 in immune responses · cat /papers/PMC12350401/content.lines --lines 31-32
+     "This paper reviews Piezo1's dual role in tumor cells and immune cells, influencing cancer progression and immune responses. Targeting Piezo1, potentially with PD-1 blockade, could reverse immunosuppression and boost antitumor immunity."
+
+  64. Modulation of macrophage transcript and secretion profiles by Sargassum Serratifolium extract is associated with the suppression of muscle atrophy
+     Heeyeon Ryu; Hyeon Hak Jeong; Myeong-Jin Kim; Seungjun Lee; Won-Kyo Jung; Bonggi Lee
+     PMC11165015 · PMC · 2024-06-10 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11165015/
+     Matched: ESS-treated macrophages exhibit extensive alterations in gene expressi · cat /papers/PMC11165015/content.lines --lines 23-25
+     "Sargassum Serratifolium extract was studied for its effects on macrophages and muscle cells. The extract suppressed muscle atrophy by altering macrophage secretions."
+
+  65. Control of Inflammatory Response by Tissue Microenvironment
+     Zhongyang Wu, Scott D. Pope, Nasiha S. Ahmed, Diana L. Leung, Stephanie Hajjar, Qiuyu Yue, Diya M. A...
+     bio_ac5f165d6dfa · bioRxiv · 2024-05-10 · 5 citations (all versions)
+     Published (2024): https://doi.org/10.1101/2024.05.10.592432
+     Matched: Acidic pH modulates the gene-specific inflammatory response · cat /papers/bio_ac5f165d6dfa/content.lines --lines 32-33
+     │ In a murine model of acute inflammation, intraperitoneal (i.p.) injection of a sub-lethal
+     │ dose of LPS in wild-type mice (WT) triggered a TLR4-dependent systemic inflammatory
+     │ response. Consequently, the blood pH decreased significantly after 6 hours of injection (
+     │ Figure 1B ) and severe acidosis (< pH 6.5) was reported in various tissues at 24 hours, 45
+     │ underscoring the link between acidic pH levels and acute inflammatory response. In vitro ,
+     │ WT bone-marrow derived macrophages (BMDMs) acidified the extracellular environment to pH 6.5
+     │ at 24 hours after LPS stimulation ( Figure 1C and S1A), in the presence of a physiological
+     │ level buffer system (23.8 mM bicarbonate). Notably, this pH level …
+     "Macrophages sense tissue acidification, which alters gene expression and regulates inflammatory responses. This pH-dependent switch in transcriptional condensates, mediated by BRD4, acts as negative feedback to control inflammation."
+
+  66. Dapsone, More than an Effective Neuro and Cytoprotective Drug
+     Araceli Diaz-Ruiz; Juan Nader-Kawachi; Francisco Calderón-Estrella; Alfonso Mata Bermudez; Laura Alv...
+     PMC9199557 · PMC · 2022-01-10 · 23 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9199557/
+     Matched: Dapsone in Models of Lung Damage · cat /papers/PMC9199557/content.lines --lines 88-89
+     "This paper reviews evidence on dapsone's neuroprotective and cytoprotective effects. Dapsone is a safe and effective treatment for cell damage, warranting consideration for translational therapy."
+
+  67. Neuroprotective Effects of Sodium-Glucose Cotransporter-2 (SGLT2) Inhibitors (Gliflozins) on Diabetes-Induced Neurodegeneration and Neurotoxicity: A Graphical Review
+     Mina Gholami; Natalie Coleman-Fuller; Mahsa Salehirad; Sepideh Darbeheshti; Majid Motaghinejad
+     PMC11376549 · PMC · 2024-08-06 · 11 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11376549/
+     Matched: Abbreviations · cat /papers/PMC11376549/content.lines --lines 117
+     "This graphical review examines how SGLT2 inhibitors (gliflozins) protect against diabetes-induced neurodegeneration. Gliflozins show neuroprotective effects by improving mitochondrial function and reducing oxidative stress and inflammation."
+
+  68. Green Tea Polyphenol (-)-Epigallocatechin-3-Gallate (EGCG): A Time for a New Player in the Treatment of Respiratory Diseases?
+     Daniela Mokra; Jana Adamcakova; Juraj Mokry
+     PMC9405266 · PMC · 2022-08-13 · 111 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9405266/
+     Matched: 5.3. EGCG in Bronchial Asthma · cat /papers/PMC9405266/content.lines --lines 66-70
+     "This paper reviews the antioxidant, anti-inflammatory, and other beneficial effects of green tea polyphenol EGCG. EGCG shows potential for treating various respiratory diseases involving inflammation, oxidative stress, and fibrosis."
+
+  69. Alpha 7 nicotinic acetylcholine receptors signaling boosts cell-cell interactions in macrophages effecting anti-inflammatory and organ protection
+     Yasuna Nakamura; Hirotaka Matsumoto; Chia-Hsien Wu; Daichi Fukaya; Rie Uni; Yosuke Hirakawa; Mikako ...
+     PMC10290099 · PMC · 2023-06-23 · 43 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10290099/
+     Matched: GTS-21 increases the expression of adhesion factor between macrophages · cat /papers/PMC10290099/content.lines --lines 39-40
+     "This study investigated the role of alpha 7 nicotinic acetylcholine receptors (α7nAChRs) in macrophages. Activating these receptors increases macrophage-macrophage interactions, reducing inflammation and protecting organs."
+
+  70. Early transcriptional responses of internalization defective Brucella abortus mutants in professional phagocytes, RAW 264.7
+     Seung Bin Cha; Won Jung Lee; Min Kyoung Shin; Myung Hwan Jung; Seung Won Shin; An Na Yoo; Jong Wan K...
+     PMC3716731 · PMC · 2013-06-27 · 16 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3716731/
+     Matched: Microarray analysis of differentially expressed genes following infect · cat /papers/PMC3716731/content.lines --lines 43-48
+     "This study examined transcriptional changes in RAW 264.7 macrophages infected with wild-type and internalization-defective *Brucella abortus* mutants. No significant differences in host transcriptional response were detected between the wild-type and mutant infections."
+
+  71. Mechanotransduction in neutrophil: Mechanosensing and immune function regulation
+     Wenying Zhao; Jin Wang; Jing Wang
+     PMC12466219 · PMC · 2025-09-07 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12466219/
+     Matched: cat /papers/PMC12466219/content.lines --lines 10-12
+     "Neutrophil functions, including transcription and migration, are regulated by mechanical signals. These force-dependent processes offer insights into neutrophil plasticity and potential therapeutic targets for inflammatory diseases."
+
+  72. Cynanchum paniculatum and Its Major Active Constituents for Inflammatory-Related Diseases: A Review of Traditional Use, Multiple Pathway Modulations, and Clinical Applications
+     Jing-xian Chen; Chien-shan Cheng; Jie Chen; Ling-ling Lv; Zi-jie Chen; Chuan Chen; Lan Zheng
+     PMC7396087 · PMC · 2020-07-22 · 17 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7396087/
+     Matched: 5. Immunomodulatory Effect of Cynanchum paniculatum · cat /papers/PMC7396087/content.lines --lines 30
+     "This review examines *Cynanchum paniculatum*'s traditional use and modern research for inflammatory diseases. Its active constituents modulate multiple pathways, supporting its clinical applications."
+
+  73. Vasculotoxic and Proinflammatory Effects of Plasma Heme: Cell Signaling and Cytoprotective Responses
+     John D. Belcher; Karl A. Nath; Gregory M. Vercellotti
+     PMC4261193 · PMC · 2014 · 47 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4261193/
+     Matched: 3. Heme Stimulation of TLR4 Signaling Is Proinflammatory · cat /papers/PMC4261193/content.lines --lines 13-15
+     "This study investigated how plasma heme affects blood vessel cells and triggers inflammatory and protective responses. Heme acts as an inflammatory signal, but cells also activate defense mechanisms to counteract its damaging effects."
+
+  74. Caffeine Sodium Benzoate-Induced Macrophage M1 Polarization Promotes Endothelial Progenitor Cell Dysfunction by Inducing Mitochondrial Dysfunction Via Targeting let-7a-5p/OPA1 Axis
+     Tianwei Yu; Yuanyuan Yuan; Feiya Suo; Rong Guo; Weixin Li; Xiaofang Wang; Suriguga; Huiying Zhao; Li...
+     PMC13033029 · PMC · 2026-02-05 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13033029/
+     Matched: The CM from CSB-CS-Treated Macrophages Induced Endothelial Dysfunction · cat /papers/PMC13033029/content.lines --lines 84-85
+     "Our previous study showed that chronic exposure to caffeine sodium benzoate (CSB) can cause endothelial cell dysfunction, but the specific mechanism is unclear. Endothelial progenitor cells (EPCs), as"
+
+  75. The Modulatory Bioeffects of Pomegranate (Punica granatum L.) Polyphenols on Metabolic Disorders: Understanding Their Preventive Role against Metabolic Syndrome
+     Mehdi Alami; Kaoutar Boumezough; Abdelouahed Khalil; Mhamed Ramchoun; Samira Boulbaroud; Tamas Fulop...
+     PMC10707905 · PMC · 2023-11-22 · 12 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10707905/
+     Matched: 12. Conclusions · cat /papers/PMC10707905/content.lines --lines 148-156
+     "This review analyzes pomegranate's effects on metabolic disorders, focusing on its polyphenol compounds. Pomegranate shows promise in preventing metabolic syndrome by improving insulin sensitivity, lipid profiles, and cardiovascular health."
+
+  76. The Role of the Gut Microbiome and Trimethylamine Oxide in Atherosclerosis and Age-Related Disease
+     Racha El Hage; Nada Al-Arawe; Irene Hinterseher
+     PMC9917289 · PMC · 2023-01-25 · 52 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9917289/
+     Matched: 3. Gut Dysbiosis, Aging, and TMAO Levels · cat /papers/PMC9917289/content.lines --lines 17
+     "This paper reviews the gut microbiome's role in atherosclerosis and age-related disease, focusing on TMAO. Increased TMAO, linked to gut dysbiosis and aging, is associated with vascular aging and atherosclerosis, though precise mechanisms require further study."
+
+  77. Potential Benefits of Berberine in the Management of Perimenopausal Syndrome
+     Cristiana Caliceti; Paola Rizzo; Arrigo Francesco Giuseppe Cicero
+     PMC4346702 · PMC · 2015-02-17 · 25 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4346702/
+     Matched: 3. Role of Berberine in Cardiovascular Disease Risk · cat /papers/PMC4346702/content.lines --lines 24-27
+     "This review examines berberine's potential to manage perimenopausal syndrome. Berberine may offer a safe, natural alternative to hormone therapy for mitigating menopausal symptoms and related health risks."
+
+  78. Diosgenin and Its Analogs: Potential Protective Agents Against Atherosclerosis
+     Dan Wang; Xiaolong Wang
+     PMC9304635 · PMC · 2022-07-17 · 44 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9304635/
+     Matched: Overview of the Structures, Sources, and Safety of Diosgenin and Its A · cat /papers/PMC9304635/content.lines --lines 23-27
+     "This review summarizes diosgenin and its analogs' effects on atherosclerosis mechanisms. These compounds show potential as protective agents due to anti-inflammatory, antioxidant, and lipid-lowering properties."
+
+  79. Full-Term Human Placental Macrophages Eliminate Coxiella burnetii Through an IFN-γ Autocrine Loop
+     Soraya Mezouar; Imene Benammar; Asma Boumaza; Aïssatou Bailo Diallo; Céline Chartier; Christophe Buf...
+     PMC6842979 · PMC · 2019-10-29 · 32 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6842979/
+     Matched: Inflammatory Response of Placental Macrophages · cat /papers/PMC6842979/content.lines --lines 37-51
+     "Full-term human placental macrophages were studied for their interaction with *Coxiella burnetii*. These macrophages eliminate the bacteria through an autocrine interferon-gamma loop."
+
+  80. Association of Gut Hormones and Microbiota with Vascular Dysfunction in Obesity
+     Valentina Rovella; Giuseppe Rodia; Francesca Di Daniele; Carmine Cardillo; Umberto Campia; Annalisa ...
+     PMC7918888 · PMC · 2021-02-13 · 22 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7918888/
+     Matched: 13. Conclusions · cat /papers/PMC7918888/content.lines --lines 142-145
+     "This review discusses how obesity-related vascular dysfunction is linked to gut hormones, microbiota, and the central nervous system. It highlights the complex interplay of these factors in metabolic diseases and their potential as targets for obesity prevention."
+
+  81. MicroRNA Signature in Alcoholic Liver Disease
+     Shashi Bala; Gyongyi Szabo
+     PMC3296165 · PMC · 2012-01-30 · 121 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3296165/
+     Matched: 2.4. Potential Role of miRNA in Alcohol-Mediated Oxidative Stress · cat /papers/PMC3296165/content.lines --lines 20-21
+     "This study investigated microRNA expression in alcoholic liver disease. Increased miR-155 and miR-132 were found in liver cells of alcohol-fed mice, suggesting a role in disease pathogenesis."
+
+  82. Immunoregulatory Role of the Mechanosensitive Ion Channel Piezo1 in Inflammation and Cancer
+     Yuexin Wang; Zhiyuan Zhang; Qiuli Yang; Yejin Cao; Yingjie Dong; Yujing Bi; Guangwei Liu
+     PMC9822220 · PMC · 2022-12-26 · 37 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9822220/
+     Matched: 3. The Role of Piezo1 in Innate Immunity · cat /papers/PMC9822220/content.lines --lines 20-21
+     "This review summarizes Piezo1's role in immune cell regulation during inflammation and cancer. Piezo1 is a mechanosensitive ion channel involved in various diseases, including cancer and infectious inflammation."
+
+  83. Liver Fibrosis: From Basic Science towards Clinical Progress, Focusing on the Central Role of Hepatic Stellate Cells
+     Hikmet Akkız; Robert K. Gieseler; Ali Canbay
+     PMC11277292 · PMC · 2024-07-18 · 171 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11277292/
+     Matched: 7. Conclusions and Future Perspectives · cat /papers/PMC11277292/content.lines --lines 77-78
+     "Hepatic stellate cells (HSCs) are central to liver fibrosis, activating from a quiescent state to myofibroblasts that deposit excess extracellular matrix. While fibrosis can reverse with cause elimination, effective antifibrotic therapies are still lacking."
+
+  84. Roles of microRNAs in atherosclerosis and restenosis
+     Li-Jing Chen; Seh Hong Lim; Yi-Ting Yeh; Sheng-Chieh Lien; Jeng-Jiann Chiu
+     PMC3438039 · PMC · 2012-08-29 · 63 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3438039/
+     Matched: Abbreviations · cat /papers/PMC3438039/content.lines --lines 108
+     "This review summarizes research on microRNAs' roles in regulating vascular cell function in atherosclerosis and restenosis. These findings may offer new diagnostic and therapeutic opportunities for vascular diseases."
+
+  85. The Role of the Piezo1 Mechanosensitive Channel in Heart Failure
+     Weihua Yuan; Xicheng Zhang; Xiangming Fan
+     PMC10378680 · PMC · 2023-07-13 · 27 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10378680/
+     Matched: 3.2.1. Macrophages · cat /papers/PMC10378680/content.lines --lines 35-37
+     "This review examines Piezo1's function in heart failure cells and its role in mechanotransduction. Modulating Piezo1 activity offers a potential therapeutic target to slow heart failure progression."
+
+  86. Polyphenol-Microbiota Interactions in Atherosclerosis: The Role of Hydroxytyrosol and Tyrosol in Modulating Inflammation and Oxidative Stress
+     Mojgan Morvaridzadeh; Mehdi Alami; Hicham Berrougui; Kaoutar Boumezough; Hawa Sidibé; Ikram Salih; K...
+     PMC12694252 · PMC · 2025-12-02 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12694252/
+     Matched: 8. Conclusions · cat /papers/PMC12694252/content.lines --lines 225-227
+     "This review examines how gut microbes interact with hydroxytyrosol and tyrosol to influence their effects on atherosclerosis. Microbial metabolism of these polyphenols can alter their anti-inflammatory and antioxidant properties, impacting their therapeutic potential."
+
+  87. Erlotinib augmentation with dapsone for rash mitigation and increased anti-cancer effectiveness
+     R. E. Kast
+     PMC4628020 · PMC · 2015-10-23 · 18 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4628020/
+     Matched: Dapsone · cat /papers/PMC4628020/content.lines --lines 29-30
+     "Erlotinib's anti-cancer effectiveness is limited by increased interleukin-8, which also causes rash. Dapsone may mitigate rash and enhance erlotinib's anti-cancer effects by inhibiting interleukin-8."
+
+  88. Anti-Inflammatory and Anticancer Properties of Bioactive Compounds from Sesamum indicum L.—A Review
+     Ming-Shun Wu; Levent Bless B. Aquino; Marjette Ylreb U. Barbaza; Chieh-Lun Hsieh; Kathlia A. De Cast...
+     PMC6943436 · PMC · 2019-12-04 · 131 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6943436/
+     Matched: 2.1.8. Others · cat /papers/PMC6943436/content.lines --lines 99-106
+     "This review discusses the anti-inflammatory and anticancer properties of bioactive compounds from *Sesamum indicum* L. These lignans show potential in combating chronic inflammatory diseases and malignancies."
+
+  89. Can EAT be an INOCA goalkeeper
+     Tong Shan; Zheng Shuwen; Wu Hengbin; Zeng Min
+     PMC9895377 · PMC · 2023-01-20 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9895377/
+     Matched: 3.2.2 Endothelial function damage · cat /papers/PMC9895377/content.lines --lines 44-46
+     "This review examines the epidemiology of ischemia with non-obstructive coronary artery disease (INOCA) and its relationship with epicardial adipose tissue (EAT). EAT is investigated as a potential indicator for INOCA, a condition often lacking specific care despite increased CVD risk."
+
+  90. Cytokines and Chemokines: Disease Models, Mechanisms, and Therapies
+     Salahuddin Ahmed; Charles J. Malemud; Alisa E. Koch; Mohammad Athar; Dennis D. Taub
+     PMC4131415 · PMC · 2014-07-24 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4131415/
+     Matched: cat /papers/PMC4131415/content.lines --lines 32-34
+
+  91. Traditional Chinese medicine prescription Guizhi Fuling Pills in the treatment of endometriosis
+     Xin Wang; Yaxin Shi; Li Xu; Zilu Wang; Yanfei Wang; Wei Shi; Ke Ma
+     PMC8100639 · PMC · 2021-04-16 · 40 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8100639/
+     Matched: Poria Cocos (PC) · cat /papers/PMC8100639/content.lines --lines 20
+     "Guizhi Fuling Pills (GFPs) were studied for their use in treating endometriosis. GFPs primarily work by reducing pain, inflammation, and improving blood flow, with specific compounds identified as key active ingredients."
+
+  92. Urine microscopy can identify cholemic nephropathy as a distinct form of kidney dysfunction in patients with acute on chronic liver failure
+     Rakhi Maiwall; Ashini Kumar Hidam; Gaurav Tripathi; Archana Rastogi; Deepanshu Maheshwari; Dhananjay...
+     PMC13149504 · PMC · 2026-03-21 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13149504/
+     Matched: Urine microscopy-based diagnosis of CN is associated with higher serum · cat /papers/PMC13149504/content.lines --lines 134-144
+     "Urine microscopy can distinguish cholemic nephropathy (CN) from hepatorenal syndrome and acute tubular necrosis in liver failure patients. CN is characterized by bilirubin crystals and distinct biomarker profiles indicating preserved renal repair and metabolic adaptation."
+
+  93. Targeting the Hepatic Microenvironment to Improve Ischemia/Reperfusion Injury: New Insights into the Immune and Metabolic Compartments
+     Fengqiang Gao; Xun Qiu; Kai Wang; Chuxiao Shao; Wenjian Jin; Zhen Zhang; Xiao Xu
+     PMC9286916 · PMC · 2022-07-11 · 36 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9286916/
+     Matched: Pathophysiological alterations of hepatic IRI · cat /papers/PMC9286916/content.lines --lines 20-23
+     "This review examines the immune and metabolic components of the liver microenvironment in hepatic ischemia/reperfusion injury (IRI). Targeting these components offers new therapeutic strategies for IRI."
+
+  94. An Updated Review of Pro- and Anti-Inflammatory Properties of Plasma Lysophosphatidylcholines in the Vascular System
+     Eva Knuplez; Gunther Marsche
+     PMC7350010 · PMC · 2020-06-24 · 234 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7350010/
+     Matched: 4. Conclusions · cat /papers/PMC7350010/content.lines --lines 41-50
+     "This review examines the pro- and anti-inflammatory properties of plasma lysophosphatidylcholines in the vascular system. Recent studies suggest LPCs are homeostatic mediators involved in vascular inflammation, with lower plasma levels potentially linked to adverse outcomes."
+
+  95. Roles of mechanosensitive ion channels in immune cells
+     Kexin Xia; Xiaolin Chen; Wenyan Wang; Qianwen Liu; Mai Zhao; Jiacheng Ma; Hao Jia
+     PMC10750075 · PMC · 2023-12-04 · 19 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10750075/
+     Matched: Macrophages · cat /papers/PMC10750075/content.lines --lines 22-24
+     "Mechanosensitive ion channels in immune cells were studied for their role in immune responses. These channels regulate immune cell proliferation, activation, and inflammation by responding to mechanical forces."
+
+  96. HDAC1 is Involved in Neuroinflammation and Blood-Brain Barrier Damage in Stroke Pathogenesis
+     Hao-Kuang Wang; Yu-Ting Su; Yu-Cheng Ho; Yung-Kuo Lee; Tian-Huei Chu; Kuang-Ti Chen; Cheng-Chun Wu
+     PMC10516226 · PMC · 2023-09-18 · 29 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10516226/
+     Matched: Discussion · cat /papers/PMC10516226/content.lines --lines 69-70
+     "This study investigated the role of HDAC1 in stroke by inducing cerebral ischemia in rats. HDAC1 dysfunction exacerbates neuroinflammation and blood-brain barrier damage, worsening stroke outcomes."
+
+  97. Effects of miR-33 Deficiency on Metabolic and Cardiovascular Diseases: Implications for Therapeutic Intervention
+     Rebeca Ortega; Bo Liu; Shanta J. Persaud
+     PMC10342147 · PMC · 2023-06-28 · 44 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10342147/
+     Matched: 6. MiR-33 Is Involved in Endothelial Dysfunction and Contributes to th · cat /papers/PMC10342147/content.lines --lines 36-38
+     "This review examines miR-33's role in metabolic and cardiovascular diseases, including its regulation of lipid and glucose metabolism. miR-33 deficiency is presented as a potential therapeutic strategy for these conditions."
+
+  98. Mechanosensitive ion channels as novel targets in osteoporosis
+     Christoph Beyersdorf; Uwe Maus; Felix Wiedmann; Juliana Franziska Bousch; Maximilian Waibel; Constan...
+     PMC13017754 · PMC · 2025-12-10 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13017754/
+     Matched: Piezo channels · cat /papers/PMC13017754/content.lines --lines 53-56
+     "Mechanosensitive ion channels like TREK-1, Piezo, and VRACs are implicated in osteoporosis. These channels regulate bone cell activity and inflammation, suggesting they are promising therapeutic targets. Modulating them could improve bone density and reduce bone loss."
+
+  99. Medicinal Mushrooms and Their Bioactive Compounds: From Traditional Use to Therapeutic Potential
+     Anna Sadowska; Daria Włosek-Pawełas; Halina Car
+     PMC13209540 · PMC · 2026-05-20 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13209540/
+     Matched: 6. Conclusions · cat /papers/PMC13209540/content.lines --lines 128-129
+     "Medicinal mushrooms have become an important component of modern dietary supplementation and functional nutrition due to their diverse biological activities and long-standing use in traditional medici"
+
+  100. Reprograming of Gene Expression of Key Inflammatory Signaling Pathways in Human Peripheral Blood Mononuclear Cells by Soybean Lectin and Resveratrol
+     Nilofer Qureshi; Julia Desousa; Adeela Z. Siddiqui; David C. Morrison; Asaf A. Qureshi
+     PMC9659230 · PMC · 2022-10-26 · 9 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9659230/
+     Matched: 5. Conclusions · cat /papers/PMC9659230/content.lines --lines 77-100
+     "Soybean lectin and resveratrol were studied for their effects on gene expression in human peripheral blood mononuclear cells. Resveratrol downregulated inflammatory mediators, while lectins upregulated them, suggesting dietary components can influence inflammation."
+
+  101. The hepatic innate immune response is lobe-specific in a murine model endotoxemia
+     Leanna Nguyen; Jeryl Sandoval; Robyn De Dios; Elesa Yihdego; Miguel Zarate; Odalis Castro; Sarah McK...
+     PMC6784545 · PMC · 2019-02-06 · 11 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6784545/
+     Matched: Discussion · cat /papers/PMC6784545/content.lines --lines 52-53
+     "This study investigated lobe-specific gene expression in the mouse liver after endotoxemia. Early responses showed higher gene induction in the left medial lobe and caudate process, with differences diminishing over time."
+
+  102. Transcription of Tnfaip3 Is Regulated by NF-κB and p38 via C/EBPβ in Activated Macrophages
+     Ting-Yu Lai; Shang-Duen Wu; Mong-Hsun Tsai; Eric Y. Chuang; Li-Ling Chuang; Li-Chung Hsu; Liang-Chua...
+     PMC3759409 · PMC · 2013-09-02 · 37 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3759409/
+     Matched: Discussion · cat /papers/PMC3759409/content.lines --lines 87-88
+     "This study investigated how Tnfaip3 transcription is controlled in activated macrophages. Tnfaip3 is regulated by NF-κB and p38 through C/EBPβ."
+
+  103. Polysaccharide from Trichosanthes kirilowii Maxim ameliorates diphenoxylate-induced functional constipation in mice
+     Min Jiang; Chuangchuang Wang; Jian Chen; Guozhen Wu; Wei Liu; Tao Li; Xiao Wang
+     PMC12503411 · PMC · 2025-09-23 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12503411/
+     Matched: 3.2 Effect of TKP on biochemical indicators in constipated mice and RA · cat /papers/PMC12503411/content.lines --lines 53-55
+     "A polysaccharide from *Trichosanthes kirilowii* (TKP) was studied in a mouse model of functional constipation. TKP improved gut function, neurotransmitter balance, reduced inflammation and oxidative stress, and positively modulated gut microbiota and SCFAs."
+
+  104. The Programmed Cell Death of Macrophages, Endothelial Cells, and Tubular Epithelial Cells in Sepsis-AKI
+     Chao Li; Wei Wang; Shuai-shuai Xie; Wen-xian Ma; Qian-wen Fan; Ying Chen; Yuan He; Jia-nan Wang; Qin...
+     PMC8674574 · PMC · 2021-12-02 · 73 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8674574/
+     Matched: Necroptosis · cat /papers/PMC8674574/content.lines --lines 37-39
+     "This paper reviews programmed cell death in macrophages, endothelial cells, and tubular epithelial cells during sepsis-induced acute kidney injury. Such cell death, influenced by mitochondria, autophagy, and epigenetics, significantly contributes to AKI progression."
+
+  105. Inflammation increases the penetrance of behavioral impairment in  Shank3  haploinsufficiency mice – can it explain the behavioral regression in Autism?
+     Sheng-Nan Qiao, Sung Eun Wang, Kun-Yong Kim, Sungsin Jo, Yong-Hui Jiang *
+     bio_24eed16d70c9 · bioRxiv · 2025-08-07 · 3 citations (all versions)
+     Published (2026): https://doi.org/10.1038/s41380-026-03534-2
+     Preprint: https://doi.org/10.1101/2025.08.07.669241
+     Matched: Supplementary Figures: · cat /papers/bio_24eed16d70c9/content.lines --lines 373-376
+     │ Threshold Pathway Activation (positive z-score) Pathway Inhibition (negative z-score) -
+     │ Neutrophil degranulation - Cachexia Signaling Pathway - Role of Macrophages, Fibroblasts and
+     │ Endothelial Cells in Rheumatoid Arthritis - Interferon alpha/beta signaling - Role of
+     │ Pattern Recognition Receptors in Recognition of Bacteria and Viruses - Role of
+     │ Hypercytokinemia/hyperchemokinemia in the Pathogenesis of Influenza - Pathogen Induced
+     │ Cytokine Storm Signaling Pathway - Interferon gamma signaling - Production of Nitric Oxide
+     │ and Reactive Oxygen Species in Macrophages - Neuroinflammation Signaling Pathway - NOD1/2
+     │ Signaling Pathway - TREM1 Signaling - Interleukin-1 family signaling - Interleukin-4 …
+     "This study investigated how inflammation affects behavior in Shank3-deficient mice. Systemic inflammation triggered significant behavioral impairments in these mice, suggesting neuroinflammation may explain behavioral regression in related human disorders."
+
+  106. Roles of Piezo1 in chronic inflammatory diseases and prospects for drug treatment (Review)
+     Jun Yang; Chunmei Xu; Xudong Xie; Jun Wang; Peilei Shi
+     PMC12105466 · PMC · 2025-05-12 · 18 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12105466/
+     Matched: Conclusion and perspectives · cat /papers/PMC12105466/content.lines --lines 78-87
+     "This review examines Piezo1's role in chronic inflammation and its potential as a drug target. Piezo1 senses mechanical forces, influencing inflammatory cell function and disease progression."
+
+  107. Prenatal Melatonin Therapy Enhances Postnatal Lung Development in a Mouse Model of Inflammation-Induced Preterm Birth
+     So Hee Park; Hee Young Cho; Jin Hyun Jun; Haengseok Song; Ji Yeon Lee
+     PMC12466731 · PMC · 2025-09-08 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12466731/
+     Matched: 4. Discussion · cat /papers/PMC12466731/content.lines --lines 44-45
+     "This study investigated prenatal melatonin's effects on lung development in a mouse model of preterm birth. Melatonin reduced preterm birth rates and improved fetal and postnatal lung maturation by decreasing inflammation and enhancing structural development."
+
+  108. Epigenetic regulation of macrophages: from homeostasis maintenance to host defense
+     Siyuan Chen; Jing Yang; Yuquan Wei; Xiawei Wei
+     PMC6952359 · PMC · 2019-10-29 · 291 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6952359/
+     Matched: Initial inflammatory activation by TLRs · cat /papers/PMC6952359/content.lines --lines 65-67
+     "This review examines epigenetic regulation in macrophages, focusing on homeostasis, host defense, and immune memory. Epigenetic mechanisms are vital for macrophage plasticity, influencing tissue integrity and disease prevention."
+
+  109. Expression of cytokine and chemokine mRNA and secretion of tumor necrosis factor-α by gallbladder epithelial cells: Response to bacterial lipopolysaccharides
+     Christopher E Savard; Thane A Blinman; Ho-Soon Choi; Sung-Koo Lee; Stephen J Pandol; Sum P Lee
+     PMC130965 · BMC Gastroenterology · 2002-10-11 · 31 citations
+     https://doi.org/10.1186/1471-230X-2-23
+     Matched: Abstract · cat /papers/PMC130965/content.lines --lines 1-18
+     "Gallbladder epithelial cells were studied for their cytokine and chemokine mRNA expression and TNF-α secretion in response to lipopolysaccharide. These cells can alter their gene expression and secrete TNF-α, suggesting a role in gallbladder inflammation and disease."
+
+  110. Therapies for the Treatment of Cardiovascular Disease Associated with Type 2 Diabetes and Dyslipidemia
+     María Aguilar-Ballester; Gema Hurtado-Genovés; Alida Taberner-Cortés; Andrea Herrero-Cervera; Sergio...
+     PMC7826980 · PMC · 2021-01-11 · 21 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7826980/
+     Matched: 2.6.2. Investigations of GIP Therapies in Preclinical Models · cat /papers/PMC7826980/content.lines --lines 65-66
+     "This review summarizes recent anti-diabetic and lipid-lowering therapies for cardiovascular disease in type 2 diabetes. These therapies protect against cardiovascular events by reducing atherosclerosis progression and improving plaque stability."
+
+  111. Metabolism of hepatic stellate cells in chronic liver diseases: emerging molecular and therapeutic interventions
+     Mengyao Yan; Yimin Cui; Qian Xiang
+     PMC11780521 · PMC · 2025-01-02 · 71 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11780521/
+     Matched: Future perspectives · cat /papers/PMC11780521/content.lines --lines 116-117
+     "This paper reviews how hepatic stellate cell metabolism changes in chronic liver diseases. Targeting these metabolic shifts offers promising therapeutic strategies for liver disease."
+
+  112. Spatiotemporal Dynamics of Central Nervous System Diseases: Advancing Translational Neuropathology via Single‐Cell and Spatial Multiomics
+     Mingkai Xia; Quan Liu; Wenli Zhang; Jinwen Ge; Zhigang Mei
+     PMC12365347 · PMC · 2025-08-19 · 10 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12365347/
+     Matched: Ischemic Stroke · cat /papers/PMC12365347/content.lines --lines 79-80
+     "This paper reviews the integration of single-cell and spatial multiomics for studying CNS diseases. Combining these approaches reveals molecular mechanisms and communication networks, accelerating biomarker discovery and therapeutic development."
+
+  113. Effect of ginseng and ginsenosides on melanogenesis and their mechanism of action
+     Kwangmi Kim
+     PMC4268563 · PMC · 2014-11-24 · 62 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4268563/
+     Matched: Effects of ginseng and its components on factors related to melanogene · cat /papers/PMC4268563/content.lines --lines 35-37
+     "This paper reviews ginseng's effects on melanogenesis and its mechanisms. Ginseng and its compounds show potential as skin whitening agents by inhibiting melanin production through various pathways."
+
+  114. Time Series Transcriptomic Analysis of Bronchoalveolar Lavage Cells from Piglets Infected with Virulent or Low-Virulent Porcine Reproductive and Respiratory Syndrome Virus 1
+     J. M. Sánchez-Carvajal; I. M. Rodríguez-Gómez; I. Ruedas-Torres; S. Zaldívar-López; F. Larenas-Muñoz...
+     PMC8826917 · PMC · 2021-12-01 · 20 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8826917/
+     Matched: Early upregulation of chemokines and cytokines in response to virulent · cat /papers/PMC8826917/content.lines --lines 155-156
+     "Bronchoalveolar lavage cells from piglets infected with virulent or low-virulent PRRSV-1 were analyzed transcriptomically over time. Virulent PRRSV-1 induced a stronger negative immune regulation, associated with more severe lung lesions and viral load."
+
+  115. Corticosteroids in sepsis
+     Jihene Mahmoud; Marie Alice Bovy; Nicholas Heming; Djillali Annane
+     PMC12572860 · PMC · 2025-09-19 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12572860/
+     Matched: Preclinical Evidence for Corticosteroid Use in Sepsis · cat /papers/PMC12572860/content.lines --lines 25-26
+     "This review examines the effects of corticosteroids in sepsis. Supraphysiological doses of corticosteroids can improve organ function, reduce support therapies, and shorten hospital stays in septic patients."
+
+  116. The Endothelial Cell Perspective in Pulmonary Fibrosis: From Cell Fate Decisions, Intercellular Communication, and EndoMT to Emerging Therapies
+     Danni Chen; Fei Xiang
+     PMC13305133 · PMC · 2026-06-25 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13305133/
+     Matched: 4.3. Signaling Pathways in EndoMT · cat /papers/PMC13305133/content.lines --lines 51
+     "Pulmonary fibrosis (PF) is a progressive fibrotic interstitial lung disease characterized by aberrant activation of myofibroblasts and excessive deposition of extracellular matrix. In light of the com"
+
+  117. Effects of Baicalin on inflammatory mediators and pancreatic acinar cell apoptosis in rats with sever acute pancreatitis
+     Zhang Xiping; Tian Hua; Chen Hanqing; Chen Li; Yu Binyan; Ma Jing
+     PMC3129065 · PMC · 2009
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3129065/
+     Matched: CONCLUSIONS: · cat /papers/PMC3129065/content.lines --lines 17-18
+     "Baicalin and Octreotide were studied for their effects on inflammatory mediators and pancreatic acinar cell apoptosis in rats with severe acute pancreatitis. Baicalin reduced inflammatory mediators and induced apoptosis, offering a protective mechanism."
+
+  118. ROS-triggered endothelial cell death mechanisms: Focus on pyroptosis, parthanatos, and ferroptosis
+     Dongdong Zheng; Jia Liu; Hulin Piao; Zhicheng Zhu; Ran Wei; Kexiang Liu
+     PMC9663996 · PMC · 2022-11-01 · 566 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9663996/
+     Matched: Abbreviations · cat /papers/PMC9663996/content.lines --lines 63
+     "This review examines how reactive oxygen species (ROS) trigger endothelial cell death via pyroptosis, parthanatos, and ferroptosis. ROS-induced endothelial cell death contributes to various vascular diseases."
+
+  119. A comprehensive review of Tripterygium wilfordii hook. f. in the treatment of rheumatic and autoimmune diseases: Bioactive compounds, mechanisms of action, and future directions
+     Yu Shan; Jianan Zhao; Kai Wei; Ping Jiang; Lingxia Xu; Cen Chang; Linshuai Xu; Yiming Shi; Yixin Zhe...
+     PMC10646552 · PMC · 2023-11-01 · 66 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10646552/
+     Matched: Glossary · cat /papers/PMC10646552/content.lines --lines 146-208
+     "This review examines *Tripterygium wilfordii* for treating rheumatic and autoimmune diseases. The plant shows anti-inflammatory and immunomodulatory effects, but further research on mechanisms and toxicity is needed."
+
+  120. Can Youthful Mesenchymal Stem Cells from Wharton’s Jelly Bring a Breath of Fresh Air for COPD?
+     Andrzej M. Janczewski; Joanna Wojtkiewicz; Ewa Malinowska; Anna Doboszyńska
+     PMC5713416 · PMC · 2017-11-18 · 11 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5713416/
+     Matched: 9. Conclusions · cat /papers/PMC5713416/content.lines --lines 59-70
+     "This review discusses mesenchymal stem cells from Wharton's jelly for COPD treatment. These cells show promise due to their properties relevant to COPD's inflammatory processes."
+
+  121. The gut-heart axis in heart failure: from bidirectional pathophysiological mechanisms to integrative therapeutic strategies
+     Xue Rui; Lihong Wu; Hang Ren; Shanshan Jia; Jinjin Dou; Xiwu Zhang
+     PMC13199359 · PMC · 2026-05-11 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13199359/
+     Matched: Protective loss of anti-inflammatory metabolites · cat /papers/PMC13199359/content.lines --lines 54-56
+     "Heart failure (HF), as the terminal stage of cardiovascular diseases, involves complex pathophysiological mechanisms that extend beyond the heart itself and involve the interactive regulation of multi"
+
+  122. Liriopogons (Genera Ophiopogon and Liriope, Asparagaceae): A Critical Review of the Phytochemical and Pharmacological Research
+     Feiyi Lei; Caroline S. Weckerle; Michael Heinrich
+     PMC8678496 · PMC · 2021-12-03 · 30 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8678496/
+     Matched: Pharmacological Properties of Liriopogons · cat /papers/PMC8678496/content.lines --lines 133
+     "This review critically assesses phytochemical and pharmacological research on Liriopogons. While various bioactive compounds and therapeutic effects are identified, significant methodological issues and a lack of clear links to traditional uses necessitate more rigorous future research."
+
+  123. Protectin DX reduces inflammatory pain initiated by superoxide anion in mice: targeting leukocyte recruitment, oxidative stress, cytokine production and TRPV1+ nociceptive sensory neuron activation
+     Jessica A. Carneiro; Beatriz H. S. Bianchini; Geovana Martelossi-Cebinelli; Nayara A. Artero; Thaila...
+     PMC13046672 · PMC · 2026-04-02 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13046672/
+     Matched: Introduction · cat /papers/PMC13046672/content.lines --lines 27-28
+     "This study investigated the antinociceptive potential and mechanisms of Protectin DX (PDX) in a KO2-induced inflammatory pain. Male mice received PDX (1, 3, or 10 ng) or vehicle (0.7% ethanol in steri"
+
+  124. High-Resolution Regulatory Maps Connect Vascular Risk Variants to Disease-Related Pathways
+     Örjan Åkerborg; Rapolas Spalinskas; Sailendra Pradhananga; Anandashankar Anil; Pontus Höjer; Flore-A...
+     PMC8104016 · PMC · 2019-02-20 · 16 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8104016/
+     Matched: Promoter Interacting GWAS Variants Were Often Contained Within Regulat · cat /papers/PMC8104016/content.lines --lines 27-28
+     "This study generated high-resolution regulatory maps of human endothelial cells. These maps linked vascular risk variants to specific disease-related pathways."
+
+  125. C-Type Natriuretic Peptide Preserves Vascular and Cardiac Function in Sepsis
+     Amie J. Moyes; Claire Sand; Leanne Young; Cristina Pérez-Ternero; Aemun T. Salam; Reshma S. Baliga; ...
+     PMC13189390 · PMC · 2026-02-04 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13189390/
+     Matched: Discussion · cat /papers/PMC13189390/content.lines --lines 73-74
+     "Sepsis is a life-threatening condition and a major cause of mortality in intensive care units worldwide, a clear unmet medical need. CNP (C-type natriuretic peptide) regulates inflammation and cardiov"
+
+  126. Enhancer RNA Expression in Response to Glucocorticoid Treatment in Murine Macrophages
+     Franziska Greulich; Kirsten Adele Bielefeld; Ronny Scheundel; Aikaterini Mechtidou; Benjamin Strickl...
+     PMC8744892 · PMC · 2021-12-23 · 10 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8744892/
+     Matched: 3.3. Differential Expression of eRNAs upon Glucocorticoid Treatment in · cat /papers/PMC8744892/content.lines --lines 71-73
+     "Nascent transcription from intergenic GR binding sites was profiled in macrophages, liver, and compared. Tissue-specific enhancer RNAs correlate with target gene expression and may be therapeutic targets."
+
+  127. In Vitro Blood-Brain Barrier Models for Neuroinfectious Diseases: A Narrative Review
+     Ahmad Hussein Badawi; Nur Afiqah Mohamad; Johnson Stanslas; Brian Patrick Kirby; Vasantha Kumari Nee...
+     PMC11092920 · PMC · 2023-12-08 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11092920/
+     Matched: HUMAN BLOOD-BRAIN BARRIER CELLS AND BLOOD-BRAIN BARRIER PERMEABILITY · cat /papers/PMC11092920/content.lines --lines 24-26
+     "This review examines in vitro blood-brain barrier models for studying neuroinfectious diseases. A standardized, representative model is needed to accurately mimic the BBB's complexity for effective research."
+
+  128. Sinomenine in Cardio-Cerebrovascular Diseases: Potential Therapeutic Effects and Pharmacological Evidences
+     Meng-Wan Zhang; Xiao-Hui Wang; Jing Shi; Jian-Guang Yu
+     PMC8517137 · PMC · 2021-10-01 · 32 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8517137/
+     Matched: Suppression on Endothelial Inflammation and Immune Activation · cat /papers/PMC8517137/content.lines --lines 15-16
+     "This review examines sinomenine's effects on the cardio-cerebrovascular system. Sinomenine shows potential therapeutic benefits for various cardiovascular and cerebrovascular diseases due to its anti-inflammatory, immunosuppressive, and cardioprotective properties."
+
+  129. Promoting New Approach Methodologies (NAMs) for research on skin color changes in response to environmental stress factors: tobacco and air pollution
+     Katherine Virginia Bouchard; Gertrude-Emilia Costin
+     PMC10598764 · PMC · 2023-10-10 · 6 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10598764/
+     Matched: 3.1 Mitogen-Activated Protein Kinase (MAPK) signaling pathway and AhR  · cat /papers/PMC10598764/content.lines --lines 225-231
+     "This paper reviews New Approach Methodologies (NAMs) for studying how tobacco and air pollution affect skin pigmentation. NAMs can provide mechanistic insights to develop countermeasures against environmentally induced skin color changes."
+
+  130. Thrombospondin-1 CD47 Signalling: From Mechanisms to Medicine
+     Atharva Kale; Natasha M. Rogers; Kedar Ghimire
+     PMC8071034 · PMC · 2021-04-14 · 107 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8071034/
+     Matched: 11. Concluding Remarks · cat /papers/PMC8071034/content.lines --lines 47-49
+     "The TSP1-CD47 signaling pathway's role in various diseases, including cancer, renal, vascular, and metabolic conditions, was investigated. Anti-CD47 therapy shows promise in cancer, but further research is needed for renal and metabolic diseases."
+
+  131. Therapeutic Angiogenesis Using HGF Plasmid
+     Fumihiro Sanada; Tatsuya Fujikawa; Kana Shibata; Yoshiaki Taniyama; Hiromi Rakugi; Ryuichi Morishita
+     PMC7315247 · PMC · 2020-06-25 · 25 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7315247/
+     Matched: Anti-inflammatory and anti-fibrotic function of HGF · cat /papers/PMC7315247/content.lines --lines 27
+     "This review discusses hepatocyte growth factor (HGF) and its therapeutic potential for peripheral artery disease. HGF's pleiotropic actions, including angiogenesis, anti-inflammation, and anti-fibrosis, differentiate it from other growth factors."
+
+  132. Advances in natural-product-based nanomaterials for treatment of acute lung injury
+     Jiajing Yang; Yenna Hsu; Rui Liu; Dan Chen; Zhihang Zhou; Jingshan Zou; Peizheng Xiong; Li Zhou
+     PMC12434002 · PMC · 2025-09-01 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12434002/
+     Matched: 3.4 Mechanism of targeted delivery · cat /papers/PMC12434002/content.lines --lines 41
+     "This review examines natural-product-based nanomaterials for treating acute lung injury. These materials show promise for improved drug delivery and reduced side effects compared to current treatments."
+
+  133. Phytochemicals in the treatment of inflammation-associated diseases: the journey from preclinical trials to clinical practice
+     Akib Nisar; Suresh Jagtap; Suresh Vyavahare; Manasi Deshpande; Abhay Harsulkar; Prabhakar Ranjekar; ...
+     PMC10203425 · PMC · 2023-05-09 · 139 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10203425/
+     Matched: 5.4.1 Genistein · cat /papers/PMC10203425/content.lines --lines 135
+     "This review examines phytochemicals' anti-inflammatory potential, from lab studies to clinical use. These plant-derived compounds offer a promising alternative to conventional drugs with fewer side effects."
+
+  134. Transcriptome analysis of the effect of C-C chemokine receptor 5 deficiency on cell response to Toxoplasma gondii in brain cells
+     Kaoru Kobayashi; Kousuke Umeda; Fumiaki Ihara; Sachi Tanaka; Junya Yamagishi; Yutaka Suzuki; Yoshifu...
+     PMC6737708 · PMC · 2019-09-11 · 10 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6737708/
+     Matched: Discussion · cat /papers/PMC6737708/content.lines --lines 58-60
+     "This study analyzed gene expression in brain cells of mice lacking CCR5 during *Toxoplasma gondii* infection. CCR5 deficiency enhanced the brain's immune response, potentially contributing to inflammation and neurological injury."
+
+  135. Mechanosensing in macrophages and dendritic cells in steady-state and disease
+     Megan Lee; Huixun Du; Daniel A. Winer; Xavier Clemente-Casares; Sue Tsai
+     PMC9712790 · PMC · 2022-11-17 · 98 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9712790/
+     Matched: Impact of mechanical stimuli on the metabolism of macrophages · cat /papers/PMC9712790/content.lines --lines 106-107
+     "This review examines how mechanical cues from the tissue environment affect macrophages and dendritic cells. Findings suggest these physical stimuli influence immune cell function in both health and disease."
+
+  136. Nuclear receptors as therapeutic targets in metabolic and cardiovascular disorders
+     Feifei Li; Qiujing Chen; Yang Dai; Lin Lu
+     PMC12719103 · PMC · 2025-11-14 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12719103/
+     Matched: FXR · cat /papers/PMC12719103/content.lines --lines 253
+     "Nuclear receptors' roles in metabolism and disease were reviewed, focusing on their therapeutic potential. Targeting these receptors offers promise for treating metabolic and cardiovascular disorders."
+
+  137. Quillaja brasiliensis saponin-based nanoparticulate adjuvants are capable of triggering early immune responses
+     Samuel Paulo Cibulski; Mariana Rivera-Patron; Gustavo Mourglia-Ettlin; Cecilia Casaravilla; Anna Car...
+     PMC6134118 · PMC · 2018-09-11 · 45 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6134118/
+     Matched: Differential modulation of gene expression at dLN by QB-90 and IMXQB-9 · cat /papers/PMC6134118/content.lines --lines 36-48
+     "This study investigated Quillaja brasiliensis saponin-based nanoparticulate adjuvants. These adjuvants trigger early immune responses by activating the inflammasome and promoting immune cell recruitment and cytokine production."
+
+  138. Bench-to-bedside review: Ventilation-induced renal injury through systemic mediator release - just theory or a causal relationship?
+     Jan Willem Kuiper; Rosanna Vaschetto; Francesco Della Corte; Frans B Plötz; AB Johan Groeneveld
+     PMC3387589 · PMC · 2011-08-16 · 31 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3387589/
+     Matched: Mechanical ventilation, systemic mediator release and the kidney · cat /papers/PMC3387589/content.lines --lines 20-31
+     "Mechanical ventilation may induce acute kidney injury via systemic mediator release. While theoretically plausible, a causal relationship between these mediators and kidney injury remains unproven."
+
+  139. Stretching the Function of Innate Immune Cells
+     Erica M. Orsini; Apostolos Perelas; Brian D. Southern; Lisa M. Grove; Mitchell A. Olman; Rachel G. S...
+     PMC8593101 · PMC · 2021-11-02 · 85 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8593101/
+     Matched: Piezo1 and TRPV4 Crosstalk · cat /papers/PMC8593101/content.lines --lines 27-28
+     "This review discusses how innate immune cells sense mechanical forces through ion channels and adhesion molecules. These forces activate signaling pathways that modulate cellular function, offering potential therapeutic targets for various diseases."
+
+  140. Macrophages as Multifaceted Orchestrators of Tissue Repair: Bridging Inflammation, Regeneration, and Therapeutic Innovation
+     Li Wang; Kai Yang; Xinxin Xie; Shaohui Wang; Huiping Gan; Xiaoli Wang; Hailiang Wei
+     PMC12255350 · PMC · 2025-07-08 · 58 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12255350/
+     Matched: Extracellular Mechanosensing and Phenotypic Polarization · cat /papers/PMC12255350/content.lines --lines 28-29
+     "This paper reviews the multifaceted roles of macrophages in tissue repair, detailing their plasticity and regulation by origin, microenvironment, and biomechanics. Macrophages are presented as key orchestrators of inflammation, regeneration, and scar formation, offering potential targets for regenerative medicine."
+
+  141. The emerging role of brain neuroinflammatory responses in Alzheimer’s disease
+     Mandana Amelimojarad; Melika Amelimojarad; Xiaonan Cui
+     PMC11253199 · PMC · 2024-07-03 · 34 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11253199/
+     Matched: The blood–brain barrier and AD · cat /papers/PMC11253199/content.lines --lines 52-55
+     "This paper reviews how neuroinflammation contributes to Alzheimer's disease pathology. It discusses inflammatory biomarkers and potential anti-inflammatory therapies for AD."
+
+  142. Recent advances of traditional Chinese medicine against cardiovascular disease: overview and potential mechanisms
+     Junting Dai; Lulu Qiu; Yi Lu; Miao Li
+     PMC11471557 · PMC · 2024-09-30 · 30 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11471557/
+     Matched: TCM in the treatment of CVD · cat /papers/PMC11471557/content.lines --lines 131-142
+     "This review analyzes recent TCM research on cardiovascular disease, summarizing its therapeutic effects and mechanisms. TCM shows promise for CVD prevention and treatment due to its multi-component nature and low toxicity."
+
+  143. Exploring the association between interleukin-1β and its interacting proteins in Alzheimer’s disease
+     LUSHUANG XIE; YU LAI; FANG LEI; SUJUAN LIU; RAN LIU; TINGHUA WANG
+     PMC4368090 · PMC · 2015-01-12 · 31 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4368090/
+     Matched: Discussion · cat /papers/PMC4368090/content.lines --lines 113-129
+     "This study explored the protein interactions of interleukin-1β in Alzheimer's disease. Two novel networks were constructed, identifying important mechanisms in AD pathology."
+
+  144. Advances in intrahepatic and extrahepatic vascular dysregulations in cirrhotic portal hypertension
+     Yanqiu Li; Bingbing Zhu; Ke Shi; Yu Lu; Xuanwei Zeng; Yongqi Li; Qun Zhang; Ying Feng; Xianbo Wang
+     PMC11825794 · PMC · 2025-01-31 · 16 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11825794/
+     Matched: Intrahepatic structural changes · cat /papers/PMC11825794/content.lines --lines 15-17
+     "This review examines vascular dysregulations in cirrhotic portal hypertension, focusing on both intrahepatic and extrahepatic changes. It highlights how these vascular issues contribute to portal hypertension and discusses therapeutic strategies targeting them."
+
+  145. The Role of Toll-like Receptors and Viral Infections in the Pathogenesis and Progression of Pulmonary Arterial Hypertension—A Narrative Review
+     Agnieszka Styczeń; Martyna Krysa; Paulina Mertowska; Ewelina Grywalska; Tomasz Urbanowicz; Maciej Kr...
+     PMC12653618 · PMC · 2025-11-18 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12653618/
+     Matched: 2.4. TLR5 and TLR6 · cat /papers/PMC12653618/content.lines --lines 62-65
+     "This review examines Toll-like receptors (TLRs) and viral infections in pulmonary arterial hypertension (PAH). TLR activation can promote PAH, while TLR3 activation is protective, suggesting therapeutic targets."
+
+  146. Benefits of Curcumin in the Vasculature: A Therapeutic Candidate for Vascular Remodeling in Arterial Hypertension and Pulmonary Arterial Hypertension?
+     Ke-Xue Li; Zi-Chao Wang; Jeremiah Ong’Achwa Machuki; Meng-Zhen Li; Yu-Jie Wu; Ming-Kai Niu; Kang-Yin...
+     PMC9075737 · PMC · 2022-04-01 · 29 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9075737/
+     Matched: Curcumin Provides Vascular Protection in Arterial Hypertension and Pul · cat /papers/PMC9075737/content.lines --lines 24-25
+     "This review examines curcumin's effects on vascular remodeling in hypertension. Curcumin shows promise as a therapeutic agent for hypertension-related vascular remodeling, with ongoing research into its delivery and mechanisms."
+
+  147. COVID-19 Severity in Obesity: Leptin and Inflammatory Cytokine Interplay in the Link Between High Morbidity and Mortality
+     Radheshyam Maurya; Prince Sebastian; Madhulika Namdeo; Moodu Devender; Arieh Gertler
+     PMC8250137 · PMC · 2021-06-18 · 87 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8250137/
+     Matched: Adipose Tissue Linked Inflammation · cat /papers/PMC8250137/content.lines --lines 19-20
+     "This paper reviews the interplay between leptin and inflammatory cytokines in obese COVID-19 patients. Dysregulated leptin activity may contribute to high morbidity and mortality in these individuals."
+
+  148. Mitochondrial Effects in the Liver of C57BL/6 Mice by Low Dose, High Energy, High Charge Irradiation
+     Brooke L. Barnette; Yongjia Yu; Robert L. Ullrich; Mark R. Emmett
+     PMC8584048 · PMC · 2021-10-30 · 9 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8584048/
+     Matched: 5. Conclusions · cat /papers/PMC8584048/content.lines --lines 121-124
+     "This study investigated liver mitochondrial changes in mice exposed to high charge/high energy (HZE) irradiation. HZE exposure significantly impaired mitochondrial function, suggesting increased risks for deep space travel."
+
+  149. Helicobacter hepaticus polysaccharide induces an anti-inflammatory response in intestinal macrophages
+     Camille Danne; Fiona Powrie
+     PMC5878688 · PMC · 2018-03-22 · 18 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5878688/
+     Matched: cat /papers/PMC5878688/content.lines --lines 10-11
+     "*H. hepaticus* polysaccharide was studied for its interaction with intestinal macrophages. The polysaccharide induces an anti-inflammatory response in macrophages, promoting host-microbiota mutualism."
+
+  150. Transcriptomic characterization of platelet-rich fibrin-induced macrophage responses identifies U937 cells as a sensitive bioassay
+     Layla Panahipour; Xiaoyu Huang; Francesca Zampino; Richard J. Miron; Reinhard Gruber
+     PMC13143749 · PMC · 2026-04-22 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13143749/
+     Matched: Abstract · cat /papers/PMC13143749/content.lines --lines 1-16
+     "Platelet-rich fibrin (PRF) exposure activates inflammatory responses in U937 macrophages, as shown by transcriptomic analysis. This highlights U937 cells as a sensitive bioassay for studying PRF's impact on macrophage polarization. The identified gene signatures mimic early wound healing processes."
+
+  151. Post-Stroke Administration of L-4F Promotes Neurovascular and White Matter Remodeling in Type-2 Diabetic Stroke Mice
+     Min Zhou; Rongwen Li; Poornima Venkat; Yu Qian; Michael Chopp; Alex Zacharek; Julie Landschoot-Ward;...
+     PMC9100936 · PMC · 2022-04-28 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9100936/
+     Matched: Discussion · cat /papers/PMC9100936/content.lines --lines 60-61
+     "L-4F treatment was administered to type-2 diabetic stroke mice to assess its restorative effects. L-4F improved neurological function and promoted neurovascular and white matter remodeling by reducing inflammation and increasing structural integrity."
+
+  152. Circulating miRNAs as Epigenetic Mediators of Periodontitis and Preeclampsia Association
+     Wangmeng Zhang; Qishan Wu; Juan Su; Wenwen Wang; Xudong Zhao; Ping Cao
+     PMC9293528 · PMC · 2022-07-11 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9293528/
+     Matched: 4. Discussion · cat /papers/PMC9293528/content.lines --lines 37-38
+     "This study investigated circulating miRNAs as mediators between periodontitis and preeclampsia. Nine shared miRNAs were identified, potentially linking the two conditions through specific gene and pathway enrichment."
+
+  153. Mechanisms and Modulation of Sepsis-Induced Immune Dysfunction in Children
+     Leena B. Mithal; Mehreen Arshad; Lindsey R. Swigart; Aaruni Khanolkar; Aisha Ahmed; Bria Coates
+     PMC9752201 · PMC · 2021-12-24 · 48 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9752201/
+     Matched: Immunosuppressive therapies · cat /papers/PMC9752201/content.lines --lines 30-31
+     "This review examines how sepsis disrupts immune cell function and leads to hyperinflammation and immunosuppression in children. Future research needs to focus on personalized immunomodulatory therapies guided by rapid immune function assessment."
+
+  154. The gut-kidney axis in chronic kidney disease: a vicious cycle of microbial dysbiosis and uremic toxin accumulation
+     Ruohan Guan; Jiaxuan Peng; Qianxi Gu; Jiayi Xu; Jiaxin Zhang; Hamdalatu Adamu; Qiao Yang; Lu Wang; G...
+     PMC13193989 · PMC · 2026-05-08 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13193989/
+     Matched: Full activation of the immune effector phase · cat /papers/PMC13193989/content.lines --lines 135-137
+     "The progression of Chronic Kidney Disease (CKD) is governed by a pathogenic interplay between the host and the gut microbiota, a relationship encapsulated in the gut-kidney axis. This review synthesiz"
+
+  155. The Dual-Specificity Phosphatase 10 (DUSP10): Its Role in Cancer, Inflammation, and Immunity
+     Marta Jiménez-Martínez; Konstantinos Stamatakis; Manuel Fresno
+     PMC6480380 · PMC · 2019-04-01 · 68 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6480380/
+     Matched: 4. DUSP10 in Inflammation and Immunity · cat /papers/PMC6480380/content.lines --lines 22-24
+     "This review examines the function of DUSP10 in regulating MAPKs, which are crucial for cancer and inflammation. DUSP10 plays a significant role in these processes, impacting immune responses and cancer development."
+
+  156. NR4A3: A Key Nuclear Receptor in Vascular Biology, Cardiovascular Remodeling, and Beyond
+     José Martínez-González; Laia Cañes; Judith Alonso; Carme Ballester-Servera; Antonio Rodríguez-Sinova...
+     PMC8583700 · PMC · 2021-10-21 · 48 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8583700/
+     Matched: 3.1.3. NOR-1 in Monocytes/Macrophages · cat /papers/PMC8583700/content.lines --lines 38-39
+     "This paper reviews the role of NR4A3 in vascular and inflammatory cell responses that drive cardiovascular remodeling. NR4A3 is identified as a key regulator of cellular processes involved in diseases like atherosclerosis."
+
+  157. Tolerance to Haemophilus influenzae infection in human epithelial cells: Insights from a primary cell-based model
+     Ulrike Kappler; Anna Henningham; Marufa Nasreen; Ayaho Yamamoto; Andrew H. Buultjens; Timothy P. Sti...
+     PMC11239077 · PMC · 2024-07-11 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11239077/
+     Matched: Apoptotic signalling and antimicrobial responses increased on days 7 a · cat /papers/PMC11239077/content.lines --lines 52-54
+     │ Compared to the significant changes in gene expression on day1 and day3 p.i., changes
+     │ observed on day7 and day14 were less pronounced. Day7 gene expression patterns were enriched
+     │ in canonical pathways associated with immune responses, such as ‘Macrophage Classical
+     │ Activation Signalling’, IL17-, IL23- and pyroptosis signalling, and, at modest levels,
+     │ HIF1α-, TREM1- and acute phase response signalling were also enriched (Figure S3; Table S4).
+     │ The effectors controlling this were endothelin (EDN1), TGFB, the CCR5 chemokine receptor and
+     │ two interleukins, IL17 and IL36A, that were also involved in the day1 response to NTHi
+     │ infection (Figure S3). However, a strong hypoxia-related signature was …
+     "A primary human nasal epithelial cell model was used to study *Haemophilus influenzae* infection. The cells developed tolerance to the bacteria, with reduced inflammatory responses and interrupted NFκB signaling."
+
+  158. Vascular Changes and Hypoxia in Periodontal Disease as a Link to Systemic Complications
+     Dilek Celik; Alpdogan Kantarci
+     PMC8541389 · PMC · 2021-10-05 · 61 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8541389/
+     Matched: 4. Hypoxia in Local Inflammation · cat /papers/PMC8541389/content.lines --lines 41-43
+     "This review examines vascular changes and hypoxia in periodontal disease. These factors link oral inflammation to systemic complications by disrupting immune homeostasis."
+
+  159. Overview and New Insights into the Metabolic Syndrome: Risk Factors and Emerging Variables in the Development of Type 2 Diabetes and Cerebrocardiovascular Disease
+     Melvin R. Hayden
+     PMC10059871 · PMC · 2023-03-13 · 108 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10059871/
+     Matched: 8. Conclusions · cat /papers/PMC10059871/content.lines --lines 102-103
+     "This paper reviews metabolic syndrome (MetS) and its traditional risk factors. It proposes adding leptin resistance, mitochondrial stress, and other factors to the list of variables associated with MetS."
+
+  160. RasGRP1 promotes the acute inflammatory response and restricts inflammation-associated cancer cell growth
+     Cong Wang; Xue Li; Binbin Xue; Changping Yu; Luoling Wang; Rilin Deng; Hui Liu; Zihao Chen; Yingdan ...
+     PMC9669001 · PMC · 2022-11-16 · 28 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9669001/
+     Matched: Discussion · cat /papers/PMC9669001/content.lines --lines 46-47
+     "RasGRP1 promotes acute inflammation by increasing IL-6 expression and inhibits inflammation-associated cancer by disrupting the EGFR-SOS1-Ras-AKT pathway. High RasGRP1 expression correlates with better clinical outcomes in cancer patients."
+
+  161. Improving the Innate Immune Response in Diabetes by Modifying the Renin Angiotensin System
+     Maira Soto; Kevin J. Gaffney; Kathleen E. Rodgers
+     PMC6914815 · PMC · 2019-12-10 · 12 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6914815/
+     Matched: Discussion · cat /papers/PMC6914815/content.lines --lines 61-62
+     "This study investigated the effects of protective Renin Angiotensin System peptides on the innate immune response in a mouse model of Type 2 Diabetes. Treatment with these peptides restored impaired immune functions and reversed diabetes-induced oxidative stress in immune cells."
+
+  162. Laminin as a Biomarker of Blood–Brain Barrier Disruption under Neuroinflammation: A Systematic Review
+     Juan F. Zapata-Acevedo; Valentina García-Pérez; Ricardo Cabezas-Pérez; Monica Losada-Barragán; Karin...
+     PMC9224176 · PMC · 2022-06-17 · 31 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9224176/
+     Matched: 5. Conclusions · cat /papers/PMC9224176/content.lines --lines 283-289
+     "This systematic review examined laminin's role in blood-brain barrier disruption during neuroinflammation. Laminin shows potential as a biomarker, with expression changes varying by pathology, though further research is needed on specific subunits."
+
+  163. Pharmacological Inhibition of Gasdermin D Suppresses Angiotensin II-Induced Experimental Abdominal Aortic Aneurysms
+     Jia Guo; Jinyun Shi; Min Qin; Yan Wang; Zhidong Li; Takahiro Shoji; Toru Ikezoe; Yingbin Ge; Baohui ...
+     PMC10295961 · PMC · 2023-05-28 · 12 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10295961/
+     Matched: 4. Discussion · cat /papers/PMC10295961/content.lines --lines 58-59
+     "Disulfiram, a gasdermin D inhibitor, was tested for its effect on experimental abdominal aortic aneurysms. Gasdermin D inhibition suppressed aneurysm formation and severity, reducing IL-1β levels."
+
+  164. Intestinal Dysbiosis and Necrotizing Enterocolitis: Assessment for Causality using Bradford-Hill Criteria
+     Jennifer B. Fundora; Pallabi Guha; Darla R. Shores; Mohan Pammi; Akhil Maheshwari
+     PMC7224339 · PMC · 2019-06-25 · 53 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7224339/
+     Matched: Plausibility: · cat /papers/PMC7224339/content.lines --lines 27-29
+     "This review assesses the causal link between intestinal dysbiosis and necrotizing enterocolitis (NEC) in premature infants using Bradford-Hill criteria. Evidence supports an association, with dysbiosis potentially preceding NEC, but further research is needed to define dysbiosis and improve consistency."
+
+  165. Oxygen metabolism abnormalities and high-altitude cerebral edema
+     Zhi Li; Jianping Zhang; Xiaoxia Zhang; Qiaoying Jin; Xingxing Zheng; Li Mo; Zejiao Da
+     PMC11961428 · PMC · 2025-03-19 · 9 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11961428/
+     Matched: Hypoxia and blood–brain barrier dysfunction · cat /papers/PMC11961428/content.lines --lines 29-31
+     "This review examines oxygen metabolism abnormalities in high-altitude cerebral edema (HACE). Aberrations in oxygen metabolism are pivotal to HACE pathophysiology and may offer therapeutic targets."
+
+  166. Developmental origins of adult diseases
+     Jiaying Mo; Xuanqi Liu; Yutong Huang; Renke He; Yu Zhang; Hefeng Huang
+     PMC10388800 · PMC · 2022-11-11 · 12 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10388800/
+     Matched: Histone modifications · cat /papers/PMC10388800/content.lines --lines 123-124
+     "This review examines how early life environmental exposures can alter gene expression, increasing adult disease risk. These changes are mediated by epigenetic modifications, offering potential targets for prevention and treatment."
+
+  167. Neuroimmune Axes of the Blood–Brain Barriers and Blood–Brain Interfaces: Bases for Physiological Regulation, Disease States, and Pharmacological Interventions
+     Michelle A. Erickson; William A. Banks
+     PMC5833009 · PMC · 2018 · 321 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5833009/
+     Matched: B. Axis 2: Modulation of Barrier and Interface Functions by Immune Sub · cat /papers/PMC5833009/content.lines --lines 87-88
+     "This review examines the specialized features of brain barriers that regulate neuroimmune communication in health and disease. These barriers are crucial for physiological regulation, disease progression, and the development of pharmacological interventions for CNS disorders."
+
+  168. Responses of Mast Cells to Pathogens: Beneficial and Detrimental Roles
+     Mariela Jiménez; Daniel Cervantes-García; Laura E. Córdova-Dávalos; Marian Jesabel Pérez-Rodríguez; ...
+     PMC8240065 · PMC · 2021-06-15 · 72 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8240065/
+     Matched: Bacteria · cat /papers/PMC8240065/content.lines --lines 67-68
+     "Mast cells were studied for their roles in pathogen interaction and host defense. They can directly kill microbes and shape immune responses, but also contribute to tissue damage when dysregulated."
+
+  169. Characterization of the MMP/TIMP Imbalance and Collagen Production Induced by IL-1β or TNF-α Release from Human Hepatic Stellate Cells
+     Sacha Robert; Thomas Gicquel; Aude Bodin; Vincent Lagente; Elisabeth Boichot
+     PMC4821480 · PMC · 2016-04-05 · 149 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4821480/
+     Matched: Discussion · cat /papers/PMC4821480/content.lines --lines 45-47
+     "Pro-inflammatory cytokines IL-1 and TNF-α were studied for their effects on human hepatic stellate cells. These cytokines, unlike TGF-β1, reversed pro-fibrogenic activation by altering MMP/TIMP balance and reducing collagen production."
+
+  170. Nanomedicine for Diagnosis and Treatment of Atherosclerosis
+     Jingyun Cheng; Hui Huang; Yu Chen; Rong Wu
+     PMC10754137 · PMC · 2023-10-28 · 106 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10754137/
+     Matched: Drug Delivery · cat /papers/PMC10754137/content.lines --lines 207-208
+     "Nanomedicine is reviewed for diagnosing and treating atherosclerosis, covering nanodiagnosis, nanotherapy, and nanotheranostics. Nanomaterials offer promising strategies for atherosclerosis management, with ongoing research focused on biosafety and clinical translation."
+
+  171. Advances in the phytochemistry and pharmacology of plant-derived phthalides
+     Yulong Chen; QingZhou Cheng; Site Lv; Zhen Kang; Shan Zeng
+     PMC10703732 · PMC · 2023-11-29 · 21 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10703732/
+     Matched: Abbreviations · cat /papers/PMC10703732/content.lines --lines 332
+     "This review summarizes 133 plant-derived phthalide compounds and their pharmacological properties. These compounds show potential for treating cardio-cerebrovascular and neurological disorders."
+
+  172. Immune-mediated febrile response in female rats: Role of central hypothalamic mediators
+     Haissa Oliveira Brito; Débora Radulski; Daniel Björk Wilhelms; Andrea Stojakovic; Luciane Maria Oliv...
+     PMC7058003 · PMC · 2020-03-05 · 10 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7058003/
+     Matched: Introduction · cat /papers/PMC7058003/content.lines --lines 14-16
+     "This study investigated fever mediators in intact and ovariectomized female rats. Ovariectomy alters fever response, with RANK/RANKL specifically involved in LPS-induced fever in these rats."
+
+  173. Is Extra Virgin Olive Oil an Ally for Women's and Men's Cardiovascular Health?
+     Flavia Franconi; Ilaria Campesi; Annalisa Romani
+     PMC7212338 · PMC · 2020-04-24 · 24 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7212338/
+     Matched: 7. Conclusions · cat /papers/PMC7212338/content.lines --lines 80-95
+     "This review examined extra virgin olive oil's effects on cardiovascular health, considering sex differences. Preclinical and clinical evidence suggests benefits, but research often lacks sex-specific analysis, necessitating more inclusive trials."
+
+  174. Protective Effects of a Strawberry Ellagitannin-Rich Extract against Pro-Oxidative and Pro-Inflammatory Dysfunctions Induced by a High-Fat Diet in a Rat Model
+     Ewa Żary-Sikorska; Bartosz Fotschki; Adam Jurgoński; Monika Kosmala; Joanna Milala; Krzysztof Kołodz...
+     PMC7763312 · PMC · 2020-12-11 · 20 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7763312/
+     Matched: 3. Discussion · cat /papers/PMC7763312/content.lines --lines 39-42
+     "A strawberry ellagitannin-rich extract was added to a high-fat diet in rats to study its effects. The extract attenuated negative changes in weight, fat, and inflammatory markers, suggesting potential for preventing obesity-related issues."
+
+  175. Cholangiokines: undervalued modulators in the hepatic microenvironment
+     Xiurong Cai; Frank Tacke; Adrien Guillot; Hanyang Liu
+     PMC10229055 · PMC · 2023-05-16 · 39 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10229055/
+     Matched: Endogenous stimulus · cat /papers/PMC10229055/content.lines --lines 29-31
+     "This review examines cholangiokines, secreted by bile duct cells, and their roles in liver disease. These molecules significantly influence the hepatic microenvironment, impacting inflammation, fibrosis, and cancer."
+
+  176. Inactivating the Uninhibited: The Tale of Activins and Inhibins in Pulmonary Arterial Hypertension
+     Gusty Rizky Teguh Ryanto; Ahmad Musthafa; Tetsuya Hara; Noriaki Emoto
+     PMC9963072 · PMC · 2023-02-07 · 18 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9963072/
+     Matched: 4. Roles of Activin/Inhibin in PAH Development · cat /papers/PMC9963072/content.lines --lines 33-34
+     "This paper reviews the role of activins and inhibins in pulmonary arterial hypertension (PAH). Targeting activin/inhibin signaling, such as with sotatercept, shows therapeutic potential for PAH."
+
+  177. Bile acids and incretins as modulators of obesity-associated atherosclerosis
+     Andrijana Kirsch; Juergen Gindlhuber; Diana Zabini; Elena Osto
+     PMC11743266 · PMC · 2025-01-06 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11743266/
+     Matched: GIP · cat /papers/PMC11743266/content.lines --lines 23-25
+     "This review examines bile acids and incretins' roles in obesity-associated atherosclerosis. These gut hormones are key signaling molecules influencing metabolism and cardiovascular health."
+
+  178. Exercise Pulmonary Hypertension and Beyond: Insights in Exercise Pathophysiology in Pulmonary Arterial Hypertension (PAH) from Invasive Cardiopulmonary Exercise Testing
+     Elizabeth S. Tarras; Inderjit Singh; Joan Kreiger; Phillip Joseph
+     PMC11818252 · PMC · 2025-01-26 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11818252/
+     Matched: 2.7. Impaired Peripheral EO2 in PAH: Pathophysiology · cat /papers/PMC11818252/content.lines --lines 57-58
+     "This review examines invasive cardiopulmonary exercise testing (iCPET) for pulmonary arterial hypertension (PAH). iCPET offers insights into dynamic cardiopulmonary interactions to improve PAH diagnosis, phenotyping, and treatment personalization."
+
+  179. Detrimental role for CCAAT/enhancer binding protein δ in blood-borne brain infection
+     JanWillem Duitman; Mercedes Valls Serón; JooYeon Engelen-Lee; Matthijs C. Brouwer; C. Arnold Spek; D...
+     PMC5106828 · PMC · 2016-11-11 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5106828/
+     Matched: Abstract · cat /papers/PMC5106828/content.lines --lines 1-20
+     "This study investigated the role of CCAAT/enhancer binding protein δ in mice infected with *Streptococcus pneumoniae*. The absence of C/EBPδ reduced bacterial spread to the brain and lessened the inflammatory response in the blood."
+
+  180. Puerarin Inhibits Endothelium-Dependent Contractions in Mouse Carotid Arteries
+     Mei Chen; Li Xiang; Guangliang Wu; Yingdi Liao; Yefeng Cai
+     PMC7325555 · PMC · 2020-06-18 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7325555/
+     Matched: Abstract · cat /papers/PMC7325555/content.lines --lines 1-21
+     "Puerarin was studied for its effect on endothelium-dependent contractions in mouse carotid arteries. Puerarin suppressed these contractions, but not by inhibiting TP receptors or COX2-derived prostaglandins."
+
+  181. A Fermented Whole Grain Prevents Lipopolysaccharides-Induced Dysfunction in Human Endothelial Progenitor Cells
+     Laura Giusti; Morena Gabriele; Giuseppe Penno; Monia Garofolo; Vincenzo Longo; Stefano Del Prato; Da...
+     PMC5366772 · PMC · 2017-03-13 · 34 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5366772/
+     Matched: 4. Discussion · cat /papers/PMC5366772/content.lines --lines 60-61
+     "A fermented grain, Lisosan G, was tested for its effects on human endothelial progenitor cells exposed to lipopolysaccharides. Lisosan G protected these cells from lipopolysaccharide-induced inflammation and stress by reducing reactive oxygen species and inhibiting NF-κB activation."
+
+  182. Lipoprotein(a)/CD36 Interaction Drives IL-6/RhoA-GTP Signaling and miRNA Epigenetic Regulation in Coronary Artery Spasm
+     Yen-Kuang Lin; Tsung-Han Hsieh; Chi-Tai Yeh; Vijesh Kumar Yadav; Iat-Hang Fong; Kuang-Tai Kuo; Nicho...
+     PMC12472529 · PMC · 2025-09-16 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12472529/
+     Matched: 3. Discussion · cat /papers/PMC12472529/content.lines --lines 41-42
+     "The study investigated the Lp(a)/CD36 interaction in coronary artery spasm. Elevated Lp(a) activates CD36-dependent inflammatory signaling, leading to smooth muscle cell contraction and macrophage polarization, contributing to spasm."
+
+  183. Maximizing the Therapeutic Effect of Endothelin Receptor Antagonists in Pulmonary Fibrosis: A Paradigm for Treating the Disease
+     Jerome Cantor
+     PMC11050024 · PMC · 2024-04-10 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11050024/
+     Matched: 1. Introduction · cat /papers/PMC11050024/content.lines --lines 12-15
+     "Endothelin receptor antagonists were tested in hamster models of pulmonary fibrosis. Pretreatment, but not post-treatment, significantly reduced inflammation, suggesting these drugs are only effective early on."
+
+  184. Emerging role of exosomes in vascular diseases
+     Yi Ren; Honggang Zhang
+     PMC10017462 · PMC · 2023-03-02 · 28 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10017462/
+     Matched: Conclusion · cat /papers/PMC10017462/content.lines --lines 87-101
+     "This paper reviews the role of exosomes in mediating intercellular communication within the vasculature. Exosomes are shown to be vital in vascular remodeling, impacting diseases like hypertension and atherosclerosis."
+
+  185. Unraveling the role of the gut microbiome in pregnancy disorders: insights and implications
+     Yupei Xie; Qian Chen; Dan Shan; Xiongfei Pan; Yayi Hu
+     PMC11925892 · PMC · 2025-03-07 · 15 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11925892/
+     Matched: Gut microbiota and preeclampsia · cat /papers/PMC11925892/content.lines --lines 84-85
+     "This review examines the gut microbiome's role in pregnancy disorders like preeclampsia and gestational diabetes. Alterations in the gut microbiota are linked to these conditions, suggesting potential therapeutic interventions."
+
+  186. A Module Analysis Approach to Investigate Molecular Mechanism of TCM Formula: A Trial on Shu-feng-jie-du Formula
+     Jianglong Song; Fangbo Zhang; Shihuan Tang; Xi Liu; Yibo Gao; Peng Lu; Yanping Wang; Hongjun Yang
+     PMC3860149 · PMC · 2013-11-26 · 19 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3860149/
+     Matched: 3.3. SHU Formula Treating Influenza · cat /papers/PMC3860149/content.lines --lines 46-47
+     "A module analysis approach was developed to study the molecular mechanisms of TCM formulas. This method identified key pharmacological units and pathways, revealing SHU formula's anti-influenza mechanisms."
+
+  187. Advanced nanotherapies for precision treatment of inflammatory lung diseases
+     Yuantong Qi; Bin Yang; Huiying Ouyang; Xuanran Wang; Chenwen Li; Lanlan Li; Jianxiang Zhang
+     PMC12302282 · PMC · 2025-07-20 · 10 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12302282/
+     Matched: MSC-derived EVs · cat /papers/PMC12302282/content.lines --lines 247-248
+     "This review discusses advanced nanotherapies for treating inflammatory lung diseases. Nanoparticles can target inflammation and immune cells, offering a promising approach for more effective treatments."
+
+  188. Inflammation and the Gut-Liver Axis in the Pathophysiology of Cholangiopathies
+     Debora Maria Giordano; Claudio Pinto; Luca Maroni; Antonio Benedetti; Marco Marzioni
+     PMC6213589 · PMC · 2018-10-01 · 43 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6213589/
+     Matched: 3. Innate Immune Response Activation · cat /papers/PMC6213589/content.lines --lines 27-28
+     "This review examines how inflammation and gut dysbiosis contribute to cholangiopathies. It concludes that reactive cholangiocytes, gut permeability, and microbial products drive disease progression in PSC and PBC."
+
+  189. Targeting NF-κB Signaling with Natural Products: A Promising Therapeutic Strategy for Cardiovascular Diseases
+     Rui Liu; Wencong Liu; Ling Dong; Shuang Ma; Baojun Xu
+     PMC13113022 · PMC · 2026-03-25 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13113022/
+     Matched: 4.1. Flavonoids · cat /papers/PMC13113022/content.lines --lines 44-47
+     "Natural products show therapeutic potential for cardiovascular diseases by targeting the NF-κB signaling pathway. They reduce inflammation and oxidative stress through various molecular mechanisms. This review analyzes their effectiveness in different cardiovascular conditions and discusses challenges for clinical translation."
+
+  190. Long COVID: Molecular Mechanisms and Detection Techniques
+     Adela Constantinescu-Bercu; Andrei Lobiuc; Olga Adriana Căliman-Sturdza; Radu Cristian Oiţă; Monica ...
+     PMC10778767 · PMC · 2023-12-28 · 27 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10778767/
+     Matched: 2.1. Long COVID and Altered Immune Response · cat /papers/PMC10778767/content.lines --lines 18-19
+     "This review examines molecular mechanisms and detection techniques for Long COVID. Key findings suggest viral persistence, immune dysregulation, and endothelial/neurological issues contribute to the condition."
+
+  191. Primary sclerosing cholangitis – The arteriosclerosis of the bile duct?
+     Peter Fickert; Tarek Moustafa; Michael Trauner
+     PMC1796546 · PMC · 2007-01-25 · 33 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1796546/
+     Matched: Background · cat /papers/PMC1796546/content.lines --lines 12-18
+     "This paper proposes that primary sclerosing cholangitis is analogous to arteriosclerosis, affecting bile ducts. The hypothesis suggests toxic biliary lipids initiate this "arteriosclerosis of the bile duct," potentially leading to new treatment strategies."
+
+  192. PI3K/AKT signaling pathway: new strategies for treating atherosclerosis with plant-derived compounds
+     Lin Zhu; Qiuhan Chen; Boyu Wang; Jiamei Fu; Zhiping Liu; Yingying Cui; Ruiting Zhang; Fengwei Liu; S...
+     PMC13044074 · PMC · 2026-03-19 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13044074/
+     Matched: Others · cat /papers/PMC13044074/content.lines --lines 52-59
+     "Plant-derived compounds can treat atherosclerosis by modulating the PI3K/AKT pathway. These compounds suppress the pathway early on to reduce inflammation and lipid buildup. Later, they activate it to promote cell death and plaque stabilization."
+
+  193. Dexamethasone enhances the efficacy of atorvastatin in inhibiting excessively inflammation-induced abnormal angiogenesis by regulating macrophages
+     Zhitao Gong; Daqiang Zhan; Meng Nie; Xiaochun Li; Chuang Gao; Xuanhui Liu; Tangtang Xiang; Jiangyuan...
+     PMC8444603 · PMC · 2021-09-15 · 18 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8444603/
+     Matched: Discussion · cat /papers/PMC8444603/content.lines --lines 77-78
+     "Dexamethasone increases atorvastatin levels in hematoma and macrophages, enhancing its anti-inflammatory and anti-angiogenic effects. This combination therapy promotes M2 macrophage polarization and reduces apoptosis, improving outcomes in chronic subdural hematoma."
+
+  194. Piezoelectric g-C3N4/rGO heterojunction remodels the periodontitis immune microenvironment to promote neurovascular–bone coupled osseointegration
+     Dan Li; Zhen Ai; Jinyang Lv; Yijun Zheng; Chao Zhang
+     PMC13450610 · PMC · 2026-07-27 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13450610/
+     Matched: CN/rGO promotes angiogenesis through immunomodulation · cat /papers/PMC13450610/content.lines --lines 46-47
+     "Dental implant restoration is required for tooth loss caused by periodontitis; however, the success rate of implantation in periodontitis patients is significantly lower than that in healthy individua"
+
+  195. Targeting the Cardiovascular-Alzheimer’s Disease Axis: The Promise of Marine Bioactive Peptides
+     Chathuri Kaushalya Marasinghe; Kumju Youn; Chi-Tang Ho; Mira Jun
+     PMC12942317 · PMC · 2026-01-29 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12942317/
+     Matched: 5.4. Anti-Inflammatory Actions and Immune Modulation by BAPs · cat /papers/PMC12942317/content.lines --lines 140-142
+     "Marine bioactive peptides show promise for simultaneously preventing cardiovascular disease and Alzheimer's disease. These peptides possess antioxidant, anti-inflammatory, and neuroprotective properties that target shared pathological mechanisms. Their sustainable sourcing and favorable safety profile support their development as functional foods."
+
+  196. Sinusoidal communication in chronic liver disease
+     Albert Gibert-Ramos; María Andrés-Rozas; Raül Pastó; Pablo Alfaro-Retamero; Sergi Guixé-Muntet; Jord...
+     PMC11791556 · PMC · 2024-10-02 · 20 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11791556/
+     Matched: Communication with the extracellular matrix · cat /papers/PMC11791556/content.lines --lines 38-39
+     "This review summarizes intercellular signaling within liver sinusoids during chronic liver disease. Targeting this communication offers promising therapeutic strategies for liver disease and its complications."
+
+  197. Treatment of T2DM-related inflammation and vascular injury by regulating cellular crosstalk in the islet microenvironment
+     Aru Sun; Haoyu Yang; Jun Sun; Jinli Luo; Ling Zhou; Tingting Bao; Xiaolin Tong; Yiqun Lin; Lin Han
+     PMC12554576 · PMC · 2025-10-13 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12554576/
+     Matched: Berberine · cat /papers/PMC12554576/content.lines --lines 90-95
+     "This review examines cellular crosstalk in the islet microenvironment that contributes to T2DM inflammation and vascular injury. Regulating these intercellular signals offers promising therapeutic strategies for T2DM."
+
+  198. The expression and regulation of nitric oxide synthase in human osteoarthritis-affected chondrocytes: evidence for up-regulated neuronal nitric oxide synthase
+     PMC2192230 · PMC · 1995-12-01 · 200 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2192230/
+     Matched: cat /papers/PMC2192230/content.lines --lines 5
+     "Nitric oxide synthase (NOS) expression was studied in human osteoarthritis (OA) chondrocytes. OA chondrocytes show up-regulated neuronal NOS, distinct from inducible NOS, and release nitrite that is partially inhibited by inflammatory stimuli."
+
+  199. Treatment with an Angiopoietin‐1 mimetic peptide promotes neurological recovery after stroke in diabetic rats
+     Poornima Venkat; Ruizhuo Ning; Alex Zacharek; Lauren Culmone; Linlin Liang; Julie Landschoot‐Ward; M...
+     PMC7804913 · PMC · 2020-12-21 · 27 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7804913/
+     Matched: DISCUSSION · cat /papers/PMC7804913/content.lines --lines 71-72
+     "Delayed treatment with an angiopoietin-1 mimetic peptide (Vasculotide) was studied in diabetic rats after stroke. A specific dose of Vasculotide significantly improved neurological recovery, reduced brain damage, and promoted vascular and white matter repair."
+
+  200. Rho-Associated Kinase Inhibitor Fasudil Protects from Sepsis-Induced Acute Kidney Injury in Rat via Suppressing STAT-3 and NLRP-3 Pathway
+     Neslihan Şahin; Ejder Saylav Bora; Osman Sezer Çınaroğlu; Oytun Erbaş
+     PMC12110173 · PMC · 2025-05-08 · 6 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12110173/
+     Matched: 4. Discussion · cat /papers/PMC12110173/content.lines --lines 52-55
+     "This study investigated the effects of Fasudil on sepsis-induced acute kidney injury in rats. Fasudil treatment improved kidney function and reduced inflammation by inhibiting STAT-3 and NLRP-3 pathways."
+
+  201. Glycyrrhizin Attenuates Toll Like Receptor-2, -4 and Experimental Vasospasm in a Rat Model
+     Chih-Zen Chang; Shu-Chuan Wu; Aij-Lie Kwan
+     PMC4134788 · PMC · 2014-07-23 · 16 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4134788/
+     Matched: 4. Discussion · cat /papers/PMC4134788/content.lines --lines 48-49
+     "This study investigated glycyrrhizin's effects on Toll-like receptors (TLRs) and vasospasm in a rat model of subarachnoid hemorrhage (SAH). Glycyrrhizin pretreatment reduced TLR-2 and -4 expression and attenuated SAH-induced vasospasm."
+
+  202. Pulmonary artery targeted therapy in treatment of COVID-19 related ARDS. Literature review
+     Oskar Puk; Aleksandra Nowacka; Klaudia Smulewicz; Katarzyna Mocna; Wiktor Bursiewicz; Natalia Kęsy; ...
+     PMC8709827 · PMC · 2021-12-25 · 14 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8709827/
+     Matched: Other Endothelin receptor antagonists · cat /papers/PMC8709827/content.lines --lines 69-70
+     "Pulmonary artery hypertension drugs were reviewed for treating COVID-19 ARDS. Bosentan, sildenafil, and epoprostenol show promise, potentially improving survival with careful monitoring."
+
+  203. Adamdec1, Ednrb and Ptgs1/Cox1, inflammation genes upregulated in the intestinal mucosa of obese rats, are downregulated by three probiotic strains
+     Julio Plaza-Díaz; Cándido Robles-Sánchez; Francisco Abadía-Molina; Virginia Morón-Calvente; María Jo...
+     PMC5434015 · PMC · 2017-05-16 · 41 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5434015/
+     Matched: Discussion · cat /papers/PMC5434015/content.lines --lines 42-44
+     "Obese rat intestinal mucosa gene expression was analyzed using DNA microarrays. Probiotic treatment downregulated inflammation-related genes and reduced immune cell populations, suggesting a mechanism for their anti-inflammatory effects."
+
+  204. Pathogenesis of Systemic Sclerosis
+     Debendra Pattanaik; Monica Brown; Bradley C. Postlethwaite; Arnold E. Postlethwaite
+     PMC4459100 · PMC · 2015-06-08 · 333 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4459100/
+     Matched: Abbreviations · cat /papers/PMC4459100/content.lines --lines 365
+     "Systemic sclerosis (SSc) is a complex autoimmune disease affecting the vasculature, fibroblasts, and immune system. Its manifestations result from the interaction of immune abnormalities, vasculopathy, and fibroblast dysfunction."
+
+  205. Mechanisms and Clinical Application of Tetramethylpyrazine (an Interesting Natural Compound Isolated from Ligusticum Wallichii): Current Status and Perspective
+     Yingke Zhao; Yue Liu; Keji Chen
+     PMC5030435 · PMC · 2016-09-07 · 108 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5030435/
+     Matched: 2.1.2. Resistance of Cell Damage · cat /papers/PMC5030435/content.lines --lines 18-20
+     "Tetramethylpyrazine, a natural compound from *Ligusticum wallichii*, has been studied for its cardiovascular and cerebrovascular effects. Its mechanisms, clinical use, and synthetic derivatives are reviewed, highlighting its broad pharmacological action."
+
+  206. A New Therapeutic Candidate for Cardiovascular Diseases: Berberine
+     Yun Cai; Qiqi Xin; Jinjin Lu; Yu Miao; Qian Lin; Weihong Cong; Keji Chen
+     PMC8010184 · PMC · 2021-03-17 · 67 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8010184/
+     Matched: Atherosclerosis · cat /papers/PMC8010184/content.lines --lines 19
+     "This review summarizes research on berberine's cardiovascular protective mechanisms. Berberine demonstrates significant promise as a therapeutic option for various cardiovascular diseases."
+
+  207. Drug repurposing screens to identify potential drugs for chronic kidney disease by targeting prostaglandin E2 receptor
+     Hung-Jin Huang; Yu-Hsuan Lee; Li-Chin Sung; Yi-Jie Chen; Yu-Jhe Chiu; Hui-Wen Chiu; Cai-Mei Zheng
+     PMC10362296 · PMC · 2023-07-07 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10362296/
+     Matched: Discussion · cat /papers/PMC10362296/content.lines --lines 93-94
+     "This study screened drugs for chronic kidney disease by targeting the prostaglandin E2 receptor (EP2). Four identified drugs activated autophagy, reducing fibrosis and NLRP3 inflammasome activation, suggesting potential therapeutic benefits."
+
+  208. Comparative Efficacy of Chinese Herbal Injections for Septic Shock: A Bayesian Network Meta-Analysis of Randomized Controlled Trials
+     Peiying Huang; Yan Chen; Haobo Zhang; Bojun Chen; Shuai Zhao; Yuchao Feng; Sisi Lei; Qihua Wu
+     PMC9022100 · PMC · 2022-04-07 · 9 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9022100/
+     Matched: Discussion · cat /papers/PMC9022100/content.lines --lines 162-163
+     "This Bayesian network meta-analysis compared Chinese herbal injections for septic shock. Yiqifumai injection combined with Western medicine was the most effective treatment for 28-day mortality."
+
+  209. Role of Mesenchymal Stem/Stromal Cells in Head and Neck Cancer—Regulatory Mechanisms of Tumorigenic and Immune Activity, Chemotherapy Resistance, and Therapeutic Benefits of Stromal Cell-Based Pharmacological Strategies
+     Katarzyna Starska-Kowarska
+     PMC11311692 · PMC · 2024-07-28 · 18 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11311692/
+     Matched: 4. Conclusions · cat /papers/PMC11311692/content.lines --lines 111
+     "This review examines how mesenchymal stem/stromal cells influence head and neck cancer growth, immune response, and chemotherapy resistance. These cells play a key role in drug resistance and offer potential targets for personalized therapeutic strategies."
+
+  210. Punica granatum
+     T. K. Lim
+     PMC7122081 · PMC · 2012-11-03 · 10 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7122081/
+     Matched: Antidiabetic Activity · cat /papers/PMC7122081/content.lines --lines 127
+
+  211. Innate immunity of surfactant protein A in experimental otitis media
+     Osama Abdel-Razek; Lan Ni; Fengyong Yang; Guirong Wang
+     PMC6900641 · PMC · 2019-08-03 · 14 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6900641/
+     Matched: Introduction · cat /papers/PMC6900641/content.lines --lines 10-12
+     "This study investigated the role of surfactant protein A (SP-A) in experimental otitis media caused by *Haemophilus influenzae*. SP-A deficiency led to more severe middle ear inflammation and increased pro-inflammatory cytokine levels."
+
+  212. Molecular targets and mechanisms of Guanxinning tablet in treating atherosclerosis: Network pharmacology and molecular docking analysis
+     Chaofeng Niu; Peiyu Zhang; Lijing Zhang; Dingfeng Lin; Haixia Lai; Di Xiao; Yong Liu; Rui Zhuang; Me...
+     PMC10545342 · PMC · 2023-09-29 · 6 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10545342/
+     Matched: 4. Disscussion · cat /papers/PMC10545342/content.lines --lines 57-58
+     "This study investigated Guanxinning tablet's mechanisms against atherosclerosis using network pharmacology and molecular docking. Key ingredients like tanshinone IIA target pathways such as PI3K-Akt signaling, potentially treating atherosclerosis."
+
+  213. The potential roles of gut microbiome in porto-sinusoidal vascular disease: an under-researched crossroad
+     Yangjie Li; Lingna Lyu; Huiguo Ding
+     PMC11911366 · PMC · 2025-03-03 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11911366/
+     Matched: 2.1 Gut microbial dysbiosis and porto-sinusoidal microcirculatory dysf · cat /papers/PMC11911366/content.lines --lines 18-19
+     "This review explores the gut microbiome's potential role in porto-sinusoidal vascular disease (PSVD). Altered gut microbiota and microbial translocation may contribute to PSVD development and progression."
+
+  214. Pharmacological and Transcriptomic Exploration of β2-Adrenergic Receptor-Gα15 Signaling in THP-1-Derived Macrophages
+     Yuan-En Sun; Qing Li; Justin G English
+     bio_7d9261ea72bd · bioRxiv · 2026-01-01 · 0 citations (all versions)
+     Published (2026): https://doi.org/10.64898/2026.02.09.704723
+     Matched: cat /papers/bio_7d9261ea72bd/content.lines --lines 39-41
+     │ In summary, this study explored a previously underappreciated β2AR signaling pathway
+     │ involving Gα15 in macrophage-like cells. Our in vitro pharmacological profiling suggests
+     │ that β2AR agonists and β-blockers can display distinct apparent activity profiles across Gαs
+     │ and Gα15. Transcriptomic analyses further suggest that Gα15 may contribute to M2-associated
+     │ transcriptional profile under β2AR stimulation, whereas the Gαs-cAMP signaling axis showed
+     │ an opposing M1/M2-associated transcriptional pattern. Overall, these findings highlight
+     │ potential differences between canonical β2AR-Gαs signaling and noncanonical β2AR-Gα15
+     │ signaling, providing a foundation for future studies investigating the role …
+     "Myocardial infarction and heart failure are leading global causes of mortality. Chronic β-adrenergic receptor (βAR) activation in cardiomyocytes promotes heart failure via Gαs signaling after myocardi"
+
+  215. Gut Microbiota Dysbiosis Drives Myocardial Hypertrophy Through GBP2b/GBP1-Mediated Immune Reprogramming and Exosomal Signaling in Chronic Colitis
+     Yadong Wang; Jian Li; Junqing An; Vu L. Ngo; Shuhan Wang; Zhenkai Hao; Chao Li; Hirohito Abo; Ye Din...
+     bio_c312788a94f7 · bioRxiv · 2026-01-01 · 0 citations (all versions)
+     Published (2026): https://doi.org/10.64898/2026.05.27.728214
+     Matched: cat /papers/bio_c312788a94f7/content.lines --lines 66
+     │ 1.Coronado F, Melvin SC, Bell RA, Zhao G. Global Responses to Prevent, Manage, and Control
+     │ Cardiovascular Diseases. Prev Chronic Dis. 2022;19:E84. doi: 10.5888/pcd19.220347 2.Roth GA,
+     │ Mensah GA, Johnson CO, Addolorato G, Ammirati E, Baddour LM, Barengo NC, Beaton AZ, Benjamin
+     │ EJ, Benziger CP, et al. Global Burden of Cardiovascular Diseases and Risk Factors,
+     │ 1990-2019: Update From the GBD 2019 Study. J Am Coll Cardiol. 2020;76:2982–3021. doi:
+     │ 10.1016/j.jacc.2020.11.010 3.Sun J, Qiao Y, Zhao M, Magnussen CG, Xi B. Global, regional,
+     │ and national burden of cardiovascular diseases in youths and young adults aged 15-39 years
+     │ in 204 countries/territories, 1990-2019: a systematic analysis of Global …
+     "Patients with inflammatory bowel disease (IBD) are at increased risk of cardiovascular disease, yet the mechanisms linking chronic intestinal inflammation to cardiac dysfunction remain poorly understo"
+
+  216. Spatially resolved transcriptomics identifies intercellular signaling post-ischemic stroke that controls neural stem cell proliferation
+     He Huang; Emerson Daniele; Wing Chung Jessie Lam; Teodora Tockovska; Daniela Lozano Casasbuenas; Hat...
+     PMC13261890 · PMC · 2026-05-14 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13261890/
+     Matched: Intercellular communication inference from spatial transcriptomic prof · cat /papers/PMC13261890/content.lines --lines 21-22
+     "Ischemic stroke mobilizes adult neural stem cells (NSCs), which could be leveraged for recovery. However, the intercellular signals that activate NSCs are poorly understood. Cells located in the cereb"
+
+  217. Single-Cell Multi-Omics Dissection of Malignant Evolutionary Mechanisms and Construction of a Prognostic Model for Clear Cell Renal Cell Carcinoma
+     Ruifei Liu; Yuchen Shi; Yuxuan Xiao; Bolin Ren; Liyuan Li; Baobin Qi; Tengyue Li; Yunpeng Zhang; Jie...
+     bio_15b4dca17026 · bioRxiv · 2026-01-01 · 0 citations (all versions)
+     Published (2026): https://doi.org/10.64898/2026.06.04.730125
+     Matched: cat /papers/bio_15b4dca17026/content.lines --lines 123-126
+     │ This work was supported by National Science and Technology Major Program [2024ZD0530500];
+     │ National Natural Science Foundation of China [62472131]; Key Research and Development
+     │ Program of Heilongjiang Province [2024ZX12C27];the Science and Technology Project of Jinhua
+     │ City, China [2023-3-160, 2023-4-043]. The authors declare no competing interests. Ruifei
+     │ Liu: Writing–review & editing, Validation, Methodology, Conceptualization. Yuchen Shi:
+     │ Validation, Methodology, Investigation. Yuxuan Xiao: Writing–original draft, Methodology,
+     │ Investigation. Bolin Ren: Validation; Investigation. Liyuan Li: Visualization,
+     │ Investigation. Bobin Qi: Visualization; Investigation. Tengyue Li: Visualization; …
+     "Clear cell renal cell carcinoma (ccRCC) exhibits pronounced heterogeneity across WHO histological grades, yet systematic single-cell multi-omics studies characterizing these transitions remain limited"
+
+  218. Microbiome-derived Short Chain Fatty Acids modulate microglial inflammatory responses in a sex- and metabolite-specific manner
+     Morgan Towriss; Vivien Dang; Jenna Goeres; Jatin Choudhary; Alison Aube; Juliana Montoya Sanchez; Cl...
+     bio_1f695eb37017 · bioRxiv · 2026-01-01 · 0 citations (all versions)
+     Published (2026): https://doi.org/10.64898/2026.06.30.735602
+     Matched: cat /papers/bio_1f695eb37017/content.lines --lines 75-76
+     │ Acknowledgements We are grateful for the feedback and support from every member of the
+     │ Ciernia Lab throughout the project. We want to especially thank Jia Gandhi and Kaitlyn
+     │ Tonary for their help with changing water treatments and weighing mice for the in vivo
+     │ experiments. We want to sincerely thank the animal care staff, Rena Chen, Kathen Li, Emily
+     │ Yeh and many others, for all their work in caring for the animals in this study and
+     │ consistently monitoring the water levels in these cages. We also thank Eve Technologies for
+     │ their guidance and prompt responses regarding the Multiplex Protein Assay. We are grateful
+     │ for the resources provided by the Neuroimaging & Neurocomputation Centre and the …
+     "Microbes residing in the gastrointestinal tract exert immunomodulatory impacts on the brain through the gut-brain axis. Short-chain fatty acids (SCFAs) produced by bacterial fermentation of dietary fi"
+
+  219. DAP12 deficiency alters microglia-oligodendrocyte communication and enhances resilience against tau toxicity
+     Hao Chen, Li Fan, Qi Guo, Man Ying Wong, Fangmin Yu, Nessa Foxe, Winston Wang, Aviram Nessim, Gillia...
+     bio_478db7806c5c · bioRxiv · 2023-10-26 · 11 citations (all versions)
+     Published (2025): https://doi.org/10.1186/s13024-025-00903-3
+     Preprint: https://doi.org/10.1101/2023.10.26.563970
+     Matched: Acknowledgements · cat /papers/bio_478db7806c5c/content.lines --lines 455
+     │ NOD1/2 Signaling Pathway 0.934 0.0798 3.606 13 3-phosphoinositide Degradation 0.883 0.0769
+     │ 3.606 14 Oxytocin Signaling Pathway 0 0.0476 3.606 13 IL-4 Signaling 0 0.0348 3.606 13
+     │ Neuroinflammation Signaling Pathway 0.784 0.0699 3.578 20 Pulmonary Fibrosis Idiopathic
+     │ Signaling Pathway 0.517 0.0629 3.578 20 Breast Cancer Regulation by Stathmin1 0 0.0352 3.578
+     │ 20 G-Protein Coupled Receptor Signaling 0 0.0522 3.55 35 IL-15 Production 1.55 0.103 3.464
+     │ 12 Necroptosis Signaling Pathway 1.03 0.0845 3.464 12 Production of Nitric Oxide and
+     │ Reactive Oxygen Species in Macrophages 0.556 0.0674 3.464 12 3-phosphoinositide Biosynthesis
+     │ 0.543 0.0663 3.464 13 Wound Healing Signaling …
+     "DAP12 deficiency was studied for its effects on microglia-oligodendrocyte communication and tau toxicity. Absence of DAP12 enhances brain resilience to tau pathology by altering microglial responses and protecting myelin and synapses."
+
+  220. Glucocorticoids: mechanisms of action and anti-inflammatory potential in asthma.
+     V H van der Velden
+     PMC1781857 · PMC · 1998 · 168 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1781857/
+     Matched: cat /papers/PMC1781857/content.lines --lines 7
+     "This review details how glucocorticoids inhibit inflammation in asthma through gene regulation and interaction with transcription factors. Glucocorticoids reduce inflammatory molecules and improve lung function by targeting bronchial epithelial cells."
+
+[649ms, saved to s_b106e080]
+
+💡 Extract data across these results with: map --from s_b106e080 "your question"
+[649ms, saved to s_b106e080]  [repo: mva-lof-molecular]
+

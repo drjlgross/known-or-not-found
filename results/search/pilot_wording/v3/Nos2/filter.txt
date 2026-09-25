@@ -1,0 +1,6 @@
+$ src/pc.sh filter --from s_41f6df11 Does this paper show that LPS or bacterial infection changes the level (mRNA or protein) of Nos2, including when it is referred to by an alias or its human ortholog name?
+# exit 0
+Filtered: 25 → 4 papers (21 removed as irrelevant) in 615ms
+  → 4 papers after filtering
+Results ID: s_41f6df11 (updated in place)
+[684ms, saved to s_41f6df11]  [repo: mva-lof-molecular]

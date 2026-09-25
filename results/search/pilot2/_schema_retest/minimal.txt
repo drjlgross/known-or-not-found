@@ -1,0 +1,15 @@
+[2m[paperclip] Updated 0.7.89 → v0.7.91[0m
+  [....................]  0/0 papers  [0s]  [####################]  2/2 papers  run m_615dd659  [2s]  [####################]  2/2 papers  run m_615dd659  [4s]
+Map complete: 2/2 papers
+Results ID: m_615dd659
+
+  ✓ Essential role of Rnd1 in innate immunity during viral and bacterial i
+    PMC9161769 · 1279ms
+    {"answer": "Yes, the paper discusses Rnd1 extensively as a novel membrane-associated protein that defends against viral and bacterial infections (L9)."}
+
+  ✓ Rho GTPase Expression in Human Myeloid Cells
+    PMC3420873 · 1111ms
+    {"answer": "Yes, the paper mentions Rnd1 (L34, L46, L108, L111)." }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[4.6s, saved to m_615dd659]

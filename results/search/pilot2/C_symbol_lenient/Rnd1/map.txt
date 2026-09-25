@@ -1,0 +1,177 @@
+$ src/pc.sh map --from s_08c96d53 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}}} Does this paper describe the expression of the gene Rnd1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changing in response to LPS or bacterial infection? Answer yes or no, and quote the supporting sentence from the paper as evidence (empty string if no).
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_9e62c70f
+
+  ✓ RvD1 accelerates the resolution of inflammation by promoting apoptosis
+    PMC8575873 · 1023ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ The orientation of choroidal macrophage polarization significantly inf
+    bio_b06931d1 · 1247ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 983ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Induction of unique macrophage subset by simultaneous stimulation with
+    PMC10167635 · 898ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Motif prediction to distinguish LPS-stimulated pro-inflammatory vs. an
+    PMC2949756 · 1353ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ RNA-Binding Proteins in the Control of LPS-Induced Macrophage Response
+    PMC6369361 · 865ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Transcriptional profiling of the LPS induced NF-κB response in macroph
+    PMC1781469 · 1157ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide-mediated macrophage polarization, conserved pathoge
+    PMC13372918 · 1061ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ A Global Picture of Molecular Changes Associated to LPS Treatment in T
+    PMC9656053 · 956ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Oral and transdermal administration of lipopolysaccharide safely enhan
+    PMC11994614 · 999ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Resolvin D1 alleviates lipopolysaccharide-induced in vitro corneal inf
+    PMC12705284 · 778ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Essential role of Rnd1 in innate immunity during viral and bacterial i
+    PMC9161769 · 883ms
+    {
+      "answer": "yes",
+      "evidence": "Results suggest that Rnd1 is induced by virus and bacterial infection and pro-inflammatory cytokines but not by Type-I interferons"
+    }
+
+  ✓ Exosomal miR-148a-3p from LPS-Activated Macrophages Promotes M1 Polari
+    PMC13199726 · 867ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyr
+    PMC9456100 · 1005ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LPS Tolerance Inhibits Cellular Respiration and Induces Global Changes
+    PMC7918892 · 900ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ ReDuNing inhibits alveolar macrophage inflammation in LPS mice by acti
+    PMC12637154 · 1010ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Species-Specificity of Transcriptional Regulation and the Response to 
+    PMC7386301 · 1121ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Resolvin D1 in the Lipopolysaccharide-Induced Inflammatory Microenviro
+    PMC13204318 · 1038ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Mathematical modelling of activation-induced heterogeneity reveals cel
+    bio_206e5a35 · 950ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Mice Genetically Hyporesponsive to Lipopolysaccharide (LPS) Exhibit a 
+    PMC2196359 · 863ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Lipopolysaccharide uptake is augmented in lipopolysaccharide‐tolerant 
+    PMC13398632 · 1190ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ ARL11 regulates lipopolysaccharide-stimulated macrophage activation by
+    PMC6016484 · 1048ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Mathematical modelling of activation-induced heterogeneity in TNF, IL6
+    PMC9411976 · 1278ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Progranulin inhibits LPS-induced macrophage M1 polarization via NF-кB 
+    PMC7275413 · 1187ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Macrophages mediate colon carcinoma cell adhesion in the rat liver aft
+    PMC3525607 · 975ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[14.1s, saved to m_9e62c70f]
+
+  [####................]  5/25 papers  run m_9e62c70f  [2s]
+  [########............]  10/25 papers  run m_9e62c70f  [4s]
+  [###########.........]  14/25 papers  run m_9e62c70f  [6s]
+  [################....]  21/25 papers  run m_9e62c70f  [8s]
+  [####################]  25/25 papers  run m_9e62c70f  [10s]
+

@@ -1,0 +1,21 @@
+{
+  "gene": "Col27a1",
+  "query": "Col27a1 (collagen, type XXVII, alpha 1) LPS macrophage",
+  "also": [],
+  "mode": "filter",
+  "strict": false,
+  "question": "Does this paper describe the expression of the gene Col27a1 changing in response to LPS or bacterial infection?",
+  "date": "2026-09-24T22:58:34Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_f6d682e5",
+  "judge_id": "s_f6d682e5",
+  "parent_n": 25,
+  "yes": 0,
+  "downgraded": 0,
+  "no": 25,
+  "paper_errors": 0,
+  "seconds_search": 8.6,
+  "seconds_judge": 1.4,
+  "seconds_total": 10.0
+}

@@ -1,0 +1,7 @@
+$ src/pc.sh filter --from s_4dba9f90 Does this paper describe the expression of the gene Slc7a2 changing in response to LPS or bacterial infection?
+# exit 0
+Filtered: 25 → 0 papers (25 removed as irrelevant) in 529ms
+  → 0 papers after filtering
+Results ID: s_4dba9f90 (updated in place)
+[574ms, saved to s_4dba9f90]  [repo: mva-lof-molecular]
+

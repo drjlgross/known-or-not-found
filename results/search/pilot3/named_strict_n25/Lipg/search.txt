@@ -1,0 +1,248 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Lipg (lipase G, endothelial type) LPS macrophage
+# exit 0
+Found 25 papers  [s_a52a3bd7]
+
+  1. LIPG is a novel prognostic biomarker and correlated with immune infiltrates in lung adenocarcinoma
+     Shan Wang; Zhaoxin Chen; Hongwei Lv; Cong wang; Huamin Wei; Jing Yu
+     PMC9833968 · PMC · 2022-12-26 · 6 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9833968/
+     Matched: LIPG function in LUAD · cat /papers/PMC9833968/content.lines --lines 119-120
+     "This study investigated the role of LIPG in lung adenocarcinoma. High LIPG expression is linked to poor prognosis, immune cell infiltration, and better response to certain anti-tumor drugs."
+
+  2. Regulatory roles of bioactive lipids in vascular homeostasis and remodeling
+     Jie Yang; Haiyan Xiao; Zhongze Zhang; Liuyang Zhang; Xu Zhang
+     PMC12955355 · PMC · 2026-02-09 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12955355/
+     Matched: Lysophospholipids and atherosclerosis · cat /papers/PMC12955355/content.lines --lines 70
+     │ Evidence regarding other LPLs in AS is relatively limited. Current data suggest that LPI
+     │ activates GPR55 to promote endothelial activation and suppress autophagy: in an in vitro
+     │ endothelial model, LPI upregulates GPR55 and ICAM1, and induces the long noncoding RNA
+     │ LINC01235. The latter acts as a sponge for miR-224-3p and regulates RABEP1, thereby
+     │ inhibiting the autophagy pathway and exacerbating adhesion molecule expression and
+     │ inflammatory responses [50]. By contrast, LPS exerts bidirectional effects in macrophages:
+     │ on one hand, it enhances the expression of CD36, MSR1, LOX1, and TLR4, promotes oxLDL uptake
+     │ and cholesterol accumulation, and thus favors foam cell formation and …
+     "Bioactive lipids regulate vascular health by signaling through synthesis, localization, and inactivation pathways. This review details how eicosanoids, lysophospholipids, sphingolipids, and sterol-derived mediators impact vascular homeostasis and remodeling in diseases like atherosclerosis and hypertension. These lipid pathways offer potential therapeutic targets for cardiovascular conditions."
+
+  3. LIPG‐promoted lipid storage mediates adaptation to oxidative stress in breast cancer
+     Cristina Cadenas; Sonja Vosbeck; Karolina Edlund; Katharina Grgas; Katrin Madjar; Birte Hellwig; Als...
+     PMC6618071 · PMC · 2019-02-07 · 51 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6618071/
+     Matched: LIPG overexpression · cat /papers/PMC6618071/content.lines --lines 64
+     "This study investigated how breast cancer cells adapt to oxidative stress. Upregulated LIPG promotes intracellular lipid storage, enhancing cell survival under oxidative stress and correlating with poorer patient outcomes."
+
+  4. Endothelial Lipase: A New Risk Factor for Atherosclerosis?
+     PMC1316069 · PMC · 2005-12-20 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1316069/
+     Matched: cat /papers/PMC1316069/content.lines --lines 9-10
+
+  5. Endothelial lipase facilitates low-density lipoprotein (LDL) uptake in LDL receptor deficiency by a heparan sulfate proteoglycan-dependent mechanism
+     Olivia White, Zahra Aligabi, Kendall H. Burks, Jingrong Tang, Nathan O. Stitziel, Ira J. Goldberg, A...
+     bio_c6ad21607925 · bioRxiv · 2025-03-02 · 3 citations (all versions)
+     Published (2025): https://doi.org/10.1101/2025.03.02.640965
+     Matched: Overexpression of endothelial lipase · cat /papers/bio_c6ad21607925/content.lines --lines 31
+     │ Control and LDLR -KO HepG2 cells were transfected with an empty plasmid or a plasmid
+     │ containing human LIPG gene to enhance basal expression of EL. Cells were plated in 24-well
+     │ plates in DMEM supplemented with 100 IU/ml of penicillin G, 100 µg/mL streptomycin and 10%
+     │ (vol/vol) FBS, at a density of 40,000 cells/well. After overnight incubation for cell
+     │ adherence, cells were then transfected with an empty plasmid or a plasmid containing the
+     │ Myc-DDK-tagged human LIPG by lipofection using Lipofectamine 2000 following the
+     │ manufacturer’s instructions (Invitrogen, Waltham, MA). After 72 hours, cells were processed
+     │ for total RNA or protein extraction and cellular LDL uptake as described below.
+     "Endothelial lipase (EL) was studied for its role in low-density lipoprotein (LDL) uptake in cells lacking the LDL receptor. EL facilitates LDL uptake via a heparan sulfate proteoglycan-dependent mechanism, independent of the LDL receptor."
+
+  6. A host lipase prevents lipopolysaccharide-induced foam cell formation
+     Jintao Feng; Wei Jiang; Xiaofang Cheng; Benkun Zou; Alan W. Varley; Ting Liu; Guojun Qian; Wenjiao Z...
+     PMC8426562 · iScience · 2021-08-19 · 9 citations
+     https://doi.org/10.1016/j.isci.2021.103004
+     Matched: LPS-induced inflammation · cat /papers/PMC8426562/content.lines --lines 149
+     │ Co-housed Aoah+/+ and Aoah-/- mice were injected with 10 μg LPS or PBS i.p. Fourteen days
+     │ later, their peritoneal cells were obtained and cultured in RPMI 1640 containing 10% fetal
+     │ bovine serum, 100 U/ml penicillin, 0.1 mg/ml streptomycin and 2 mM L-glutamine (Gibco). The
+     │ macrophages were purified by adherence to culture plates before they were lysed for
+     │ microarray or qPCR. The methods for the microarray experiment and analysis have been
+     │ published (Lu et al., 2013). Aoah+/+ and Aoah-/- mice were injected i.p with 10 μg LPS.
+     │ Twenty-one days later, their peritoneal macrophages were collected, purified and cultured
+     │ either untreated (Aoah+/+, Aoah-/-) or treated with 1 μg/ml LPS for 2 h …
+     "A host lipase, acyloxyacyl hydrolase (AOAH), was studied for its role in preventing lipopolysaccharide (LPS)-induced foam cell formation. AOAH inactivates LPS, and its absence leads to increased cholesterol accumulation and inflammation in macrophages."
+
+  7. Angiopoietin like protein 3 regulates low-density lipoprotein transport through aortic endothelial cells via endothelial lipase
+     Yen Way Isabell Trinh, Grigorios Panteloglou, Evelina Voloviceva, Museer A. Lone, Stephanie Bernhard...
+     bio_81ee94387dff · bioRxiv · 2025-09-30 · 0 citations (all versions)
+     Published (2025): https://doi.org/10.1101/2025.09.30.679508
+     Matched: LIPG knockdown by siRNA transfections · cat /papers/bio_81ee94387dff/content.lines --lines 26
+     │ HAEC and Huh-7 cells were reverse transfected with siRNA targeting LIPG (catalog no.
+     │ M-009601-01-0005, Horizon Discovery Dharmacon™, USA), ANGPTL4 (catalog no. M-007807-02-0010,
+     │ Horizon Discovery Dharmacon™), or a non-targeting control sequence (catalog no.
+     │ D-001810-10-50, Horizon Discovery Dharmacon™). Briefly, trypsinized cells in complete growth
+     │ medium were added at an 8:2 ratio to a mixture of siRNA (final concentration 10 nM) and
+     │ Lipofectamine™ RNAiMAX (final dilution 1:1000; Invitrogen, Thermo Fisher Scientific, USA) in
+     │ Opti-MEM™ (Gibco, Thermo Fisher Scientific). Cells were then cultured for 72 hours without a
+     │ media change prior to experimentation.
+     "This study investigated how ANGPTL3 and endothelial lipase (EL) affect lipoprotein transport across aortic endothelial cells. ANGPTL3 was found to inhibit EL-mediated transport of LDL into the arterial wall."
+
+  8. Inhibition of LIPG phospholipase activity suppresses tumor formation of human basal-like triple-negative breast cancer
+     Pang-Kuo Lo; Yuan Yao; Qun Zhou
+     PMC7265491 · PMC · 2020-06-02 · 15 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7265491/
+     Matched: Establishment of stable LIPG-overexpression and LIPG-knockdowncell lin · cat /papers/PMC7265491/content.lines --lines 56
+     "A study investigated the effect of XEN445, a LIPG phospholipase inhibitor, on triple-negative breast cancer. XEN445 suppressed tumor formation and cancer stem cell self-renewal, suggesting targeting LIPG's enzymatic function is a potential treatment strategy."
+
+  9. Analysis of the transcriptional networks underpinning the activation of murine macrophages by inflammatory mediators
+     Sobia Raza, Mark W. Barnett, Zohar Barnett-Itzhaki, Ido Amit, David A. Hume, Tom C. Freeman
+     PMC4378362 · Journal of Leukocyte Biology · 2014-08-01 · 49 citations
+     https://doi.org/10.1189/jlb.6HI0313-169R
+     "Transcriptomic data was analyzed to understand macrophage activation by inflammatory mediators. The LPS response can be divided into more co-regulated gene subsets than previously thought."
+
+  10. Which is the Best Predictor for the Development of Atherosclerosis Among Circulating Lipoprotein Lipase, Hepatic Lipase, and Endothelial Lipase?
+     Junji Kobayashi
+     PMC6753242 · PMC · 2019-09-01 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6753242/
+     Matched: cat /papers/PMC6753242/content.lines --lines 10-13
+
+  11. Population-Based Resequencing of LIPG and ZNF202 Genes in Subjects with Extreme HDL Levels
+     Hamid Razzaghi; Stephanie A. Santorico; M. Ilyas Kamboh
+     PMC3375090 · PMC · 2012-06-14 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3375090/
+     Matched: LIPG · cat /papers/PMC3375090/content.lines --lines 135
+     "The study resequenced the *LIPG* and *ZNF202* genes in individuals with extreme HDL levels. Sequence variants in these genes, particularly in non-exonic regions, may significantly influence HDL-cholesterol levels."
+
+  12. Mining the LIPG Allelic Spectrum Reveals the Contribution of Rare and Common Regulatory Variants to HDL Cholesterol
+     Sumeet A. Khetarpal; Andrew C. Edmondson; Avanthi Raghavan; Hemanth Neeli; Weijun Jin; Karen O. Bade...
+     PMC3234219 · PMC · 2011-12-08 · 37 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3234219/
+     Matched: Functional analysis of common LIPG regulatory variants · cat /papers/PMC3234219/content.lines --lines 141-164
+     "This study resequenced the LIPG gene's promoter and 5' UTR in individuals with extreme HDL-C levels. Both rare and common noncoding regulatory variants significantly contribute to HDL-C levels by affecting LIPG expression and EL protein levels."
+
+  13. Effects of activation on lipoprotein lipase secretion by macrophages. Evidence for autoregulation
+     PMC2188426 · PMC · 1986-10-01 · 28 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2188426/
+     Matched: cat /papers/PMC2188426/content.lines --lines 5
+     "Macrophage LPL secretion was studied in different activation states. Fully activated macrophages autoregulate LPL secretion by releasing an inhibitory factor."
+
+  14. Effect of Interactions Between Endothelial Lipase Gene Polymorphisms and Traditional Cardiovascular Risk Factors on Coronary Heart Disease Susceptibility
+     Chunhui He; Xingming Song; Ting He; Qing Tian; Yuhui Zhang; Halisha Airikenjiang; Dilihumaer Abulait...
+     PMC12326425 · PMC · 2025-07-25 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12326425/
+     Matched: 3.2 Association of Endothelial Lipase Gene Polymorphisms With Coronary · cat /papers/PMC12326425/content.lines --lines 81-105
+     "This study investigated endothelial lipase gene polymorphisms and their interactions with cardiovascular risk factors for coronary heart disease. The rs2000813CT genotype was associated with increased CHD risk in women, with BMI showing the greatest interaction effect."
+
+  15. FoxA and LIPG endothelial lipase control the uptake of extracellular lipids for breast cancer growth
+     Felipe Slebe; Federico Rojo; Maria Vinaixa; Mar García-Rocha; Giorgia Testoni; Marc Guiu; Evarist Pl...
+     PMC4822041 · PMC · 2016-04-05 · 62 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4822041/
+     Matched: LIPG expression in BCa · cat /papers/PMC4822041/content.lines --lines 29-30
+     │ Next, we showed that LIPG expression in primary tumours was specific to BCa tumour cells and
+     │ not to other stroma cellular entities (Fig. 3a). Subsequently, we tested LIPG expression in
+     │ normal breast epithelia and interrogated 20 samples from mammoplasty reductions. Normal
+     │ breast epithelial cells showed a lower expression of LIPG than cells from tumour specimens
+     │ (Fig. 3b). Similar results were obtained for LIPG protein levels in a panel from BCa lines
+     │ compared with HMEC cells. Of the cellular populations tested, the eight BCa cell lines
+     │ expressing FoxA1 or FoxA2 had very high levels of LIPG protein compared with the melanoma
+     │ MDA435 cell line and the human epithelial cell (Fig. 3c). …
+     "Breast cancer cells were studied for their uptake of extracellular lipids. This uptake, controlled by LIPG and FoxA, is essential for cancer cell proliferation."
+
+  16. Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review
+     Leah Elson; Niels Eijkelkamp; J. Henk Coert
+     PMC13372918 · Inflammation Research · 2026-07-15 · 0 citations
+     https://doi.org/10.1007/s00011-026-02317-3
+     Matched: Adipose macrophages · cat /papers/PMC13372918/content.lines --lines 90-91
+     "This systematic review synthesized evidence for a conserved lipopolysaccharide (LPS)-mediated pathogenic mechanism across diverse tissues and evaluated its potential relevance to peripheral neuropathy"
+
+  17. LIPG endothelial lipase and breast cancer risk by subtypes
+     Manuela Gago-Dominguez; Carmen M. Redondo; Manuel Calaza; Marcos Matabuena; Maria A. Bermudez; Roman...
+     PMC8129130 · PMC · 2021-05-17 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8129130/
+     Matched: Discussion · cat /papers/PMC8129130/content.lines --lines 169-172
+     │ Cadenas and collaborators also contributed substantially to this topic. They reported that
+     │ LIPG is increased during oxidative stress and increases survival of cells that are no longer
+     │ able to generate a sufficient supply of fatty acids by de novo synthesis [29]. Similar to
+     │ Slebe et al.[15], Riederer et al. [30] has also shown that LIPG releases free fatty acids
+     │ which can be taken up by cells. It has also been shown that overexpression of an oncogenic
+     │ form of HER2 leads to strong expression of LIPG[31] and LIPG has been reported to be
+     │ associated with tumor growth [15] and with metastasis in triple-negative breast cancer [32].
+     │ Cadenas and colleagues also showed that LIPG enables breast cancer …
+     "This study examined the association between endothelial lipase (LIPG) and breast cancer risk. Higher LIPG levels were linked to increased breast cancer risk, particularly in pre-menopausal, Luminal A, HER2-negative, and high-cholesterol women."
+
+  18. Expression analysis of G Protein-Coupled Receptors in mouse macrophages
+     Jane E Lattin; Kate Schroder; Andrew I Su; John R Walker; Jie Zhang; Tim Wiltshire; Kaoru Saijo; Chr...
+     PMC2394514 · Immunome Research · 2008-04-29 · 403 citations
+     https://doi.org/10.1186/1745-7580-4-5
+     Matched: LPS-regulated GPCR expression in mouse macrophages · cat /papers/PMC2394514/content.lines --lines 134-162
+     │ Table 4: GPCRs repressed by LPS in macrophages. | | | Relative Normalised Expression |
+     │ Relative Normalised Expression | Relative Normalised Expression | Relative Normalised
+     │ Expression | Relative Normalised Expression Receptor Class | Accession Number | Gene Name |
+     │ BMM | BMM | BMM | TEPM | TEPM | | | 2 h | 6 h | 24 h | 1 h | 7 h Repressed by LPS in BMM and
+     │ TEPM | Repressed by LPS in BMM and TEPM | Repressed by LPS in BMM and TEPM | Repressed by
+     │ LPS in BMM and TEPM | Repressed by LPS in BMM and TEPM | Repressed by LPS in BMM and TEPM |
+     │ Repressed by LPS in BMM and TEPM | Repressed by LPS in BMM and TEPM Class A | | | | | | | |
+     │ NM_009924 | Cnr2 | 0.2 | 0.1 | 0.3 | 0.3 | 0.1 | NM_009911 | Cxcr4 …
+     "This study analyzed GPCR expression in mouse macrophages, comparing it to other cell types and LPS-stimulated macrophages. Several P2RY family members showed macrophage-specific expression or LPS-regulated changes, suggesting roles in macrophage biology and inflammation."
+
+  19. Lipid Metabolism in Inflammation and Immune Function
+     Catherine J. Andersen
+     PMC9002396 · PMC · 2022-03-28 · 107 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9002396/
+
+  20. A Global Picture of Molecular Changes Associated to LPS Treatment in THP-1 Derived Human Macrophages by Fourier Transform Infrared Microspectroscopy
+     Diletta Ami; Ana Rita Franco; Valentina Artusa; Paolo Mereghetti; Francesco Peri; Antonino Natalello
+     PMC9656053 · PMC · 2022-11-03 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9656053/
+     Matched: 2.2. FTIR Analysis of Lipid Modifications in TDM Cells upon Exposure t · cat /papers/PMC9656053/content.lines --lines 31
+     "Fourier transform infrared microspectroscopy analyzed THP-1 derived macrophages treated with LPS. The study identified spectral markers in lipids, proteins, and sulfated sugars, highlighting their role in inflammation."
+
+  21. LIPG supports adaption to oxidative stress
+     Gregor Leonhardt
+     PMC6694707 · PMC · 2019-07-10 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6694707/
+     Matched: ⁯⁯⁯ · cat /papers/PMC6694707/content.lines --lines 7-10
+     │ Dear Editor, Recently, Cadenas and colleagues reported that the endothelial lipase (LIPG) is
+     │ upregulated during oxidative stress and supports survival of cells that are no longer able
+     │ to generate a sufficient supply of fatty acids by de novo synthesis (Cadenas et al.,
+     │ 2019[3]). LIPG is a cell surface associated lipase that cleaves phosphatidylcholine from
+     │ high-density lipoproteins (Jaye et al., 1999[10]; Choi et al., 2002[5]). Thereby, free fatty
+     │ acids are released that can be taken up by cells (Riederer et al., 2012[13]). It has also
+     │ been shown that overexpression of an oncogenic form of erbB2 leads to strong expression of
+     │ LIPG (Cadenas et al., 2012[4]) and LIPG has been reported to be …
+
+  22. ZDHHC1 downregulates LIPG and inhibits colorectal cancer growth via IGF2BP1 Palmitoylation
+     Qun Zhang; Zhouyuan Du; Wei Zhou; Wei Li; Qinglin Yang; Haixin Yu; Tao Liu
+     PMC11405259 · PMC · 2024-07-28 · 28 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11405259/
+     Matched: ZDHHC1 interacts with LIPG in CRC cells · cat /papers/PMC11405259/content.lines --lines 66-67
+     "ZDHHC1 expression is downregulated in colorectal cancer and inhibits tumor growth. This occurs through ZDHHC1 palmitoylating IGF2BP1, which then reduces LIPG levels via m6A modification."
+
+  23. NCBP2 drives colorectal cancer growth and metastasis through LIPG-mediated lipid droplet accumulation
+     Liu Liu; Wei Lu; Shengyuan Miao; Yang Yu; Xu-bing Zhang; ShouDong Ye; Xiaoxiao Wang; Lin Liu
+     PMC13172313 · PMC · 2026-03-24 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13172313/
+     Matched: LIPG mRNA stability assay · cat /papers/PMC13172313/content.lines --lines 122
+     "RNA-binding proteins play critical roles in RNA processing and are aberrantly expressed in colorectal cancer (CRC). Through comprehensive analysis of multiple gene expression datasets (GSE20916, GSE18"
+
+  24. Increased expression of endothelial lipase in symptomatic and unstable carotid plaques
+     Matias Trbušić; Monika Riederer; Majda Vučić; Ivo Lovričević; Božo Krušlin; Martin Gauster; Sonja Mo...
+     PMC3296002 · PMC · 2011-08-13 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3296002/
+     Matched: Discussion · cat /papers/PMC3296002/content.lines --lines 130-132
+     "Endothelial lipase (EL) expression was evaluated in human carotid artery plaques. High EL expression correlated with unstable and symptomatic plaques, suggesting a role in plaque instability."
+
+  25. Genetic and Structure-Function Studies of Missense Mutations in Human Endothelial Lipase
+     Hamid Razzaghi; Anna Tempczyk-Russell; Kurt Haubold; Stephanie A. Santorico; Touraj Shokati; Uwe Chr...
+     PMC3607615 · PMC · 2013-03-25 · 13 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3607615/
+     Matched: LIPG-T111I variant is associated with total cholesterol and LDL-C leve · cat /papers/PMC3607615/content.lines --lines 35-52
+     │ Tested Variables | AllelicAssociation | AllelicAssociation | GenotypicAssociation |
+     │ GenotypicAssociation | WhitesP-value | HispanicsP-value | WhitesP-value | HispanicsP-value
+     │ Total HDL-C | T: 0.474 | T: 0.117 | TT: 0.266TC: 0.963 | TT: 0.090TC: 0.411 HDL2-C | T:
+     │ 0.401 | T: 0.388 | TT: 0.412TC: 0.629 | TT: 0.112TC: 0.949 HDL3-C | T: 0.362 | T: 0.134 |
+     │ TT: 0.199TC: 0.931 | TT: 0.129TC: 0.391 LDL-C | T: 0.096 | T: 0.020(B-value: 8.700) | TT:
+     │ 0.087TC: 0.383 | TT: 0.012*TC: 0.228 Total Cholesterol | T: 0.427 | T: 0.006(B-value: 0.050)
+     │ | TT: 0.390TC: 0.720 | TT: 0.004*TC: 0.134 Triglyceride | T: 0.445 | T: 0.826 | TT: 0.775TC:
+     │ 0.110 | TT: 0.861TC: 0.870 * | Significant Dependent Variables …
+     "This study genetically and functionally characterized human endothelial lipase (EL) and its variants. A common variant, T111I, was associated with elevated LDL-C, and other mutations impacted EL activity and HDL remodeling."
+
+[2.6s, saved to s_a52a3bd7]
+
+💡 Extract data across these results with: map --from s_a52a3bd7 "your question"
+[2.6s, saved to s_a52a3bd7]  [repo: mva-lof-molecular]
+

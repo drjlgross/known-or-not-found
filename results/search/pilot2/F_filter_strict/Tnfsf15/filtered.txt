@@ -1,0 +1,6 @@
+$ src/pc.sh results s_0a4fdcad
+# exit 0
+  Query: filter 'Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Tnfsf15 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes in response to LPS or bacterial infection?' --from s_0a4fdcad
+Found 0 papers  [s_0a4fdcad]
+
+

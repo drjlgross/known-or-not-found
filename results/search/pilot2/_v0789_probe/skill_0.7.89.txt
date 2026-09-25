@@ -1,0 +1,633 @@
+---
+name: paperclip
+description: Search and read biomedical papers, regulatory documents, clinical trials, protein databases, and NCBI GEO datasets using the paperclip CLI.
+---
+
+# Paperclip
+
+A virtual filesystem of biomedical papers, regulatory documents, clinical trials, protein databases, and NCBI GEO datasets.
+
+## Filesystem
+
+```
+/papers/          3.4M+ papers (PMC, bioRxiv, medRxiv, arXiv)
+/fda/             Regulatory documents
+  us/             US FDA (200k+ docs)
+  jp/             Japan PMDA (38k+ docs)
+  eu/             EU EPAR (8k+ docs)
+/trials/          Clinical trial registries (alias: /clinicaltrials/)
+  us/             ClinicalTrials.gov (580k+ trials)
+  cn/             ChiCTR (116k+ trials)
+  jp/             UMIN + JRCT (100k+ trials)
+  eu/             EudraCT + CTIS + ISRCTN (85k+ trials)
+  intl/           All registries combined + WHO ICTRP (1.08M+ trials)
+/proteins/        UniProt + PDB + ChEMBL (574K+ proteins; search: -s proteins)
+  {ACCESSION}/    Per-protein VFS (meta.json, content.lines)
+/geo/             NCBI Gene Expression Omnibus Series (search: -s geo)
+  {GSE}/          Per-Series VFS (meta.json, content.lines, sections/)
+/patents/         Patent publications (search: -s patents)
+  {PUB}/          Metadata, full text when available, chemistry, and sequences
+/clipboard/       User's personal clipboard (uploaded PDFs + corpus links)
+```
+
+All document types share the same layout: `meta.json`, `content.lines` (full text, line-numbered), `sections/`, `figures/`, `supplements/`.
+
+IDs: `PMC` (PubMed Central), `bio_` (bioRxiv), `med_` (medRxiv), `arx_` (arXiv), `fda_` (FDA), `tri_` (trials), `GSE` (GEO Series), `GPL` (GEO Platform), patent publication numbers (`US-…-B2`, `EP-…`, `WO-…`).
+
+Documents can be accessed without a region prefix: `/trials/NCT03928938/` works the same as `/trials/us/NCT03928938/`.
+
+`/.gxl/` is writable scratch space. All other paths are read-only.
+
+## Workflow
+
+### Routines and domain references
+
+`paperclip skill` appends tables of available routines and domain references
+to the end of this document. If the user's request matches an available
+routine, load it with `paperclip routines show <name>` and follow its
+instructions. For domain-specific work (patents, proteins, SEC), load the
+reference with `paperclip skill <name>` before proceeding. Use
+`paperclip routines run <routine> <operation>` when a phase requests a trusted
+ephemeral helper.
+
+While a routine is active, do not voluntarily invoke context compaction or
+summarize away its orchestrator and current phase. If automatic compaction
+occurs, a session resumes, or the current phase is uncertain, stop before doing
+more work. Run `paperclip skill`, reload the complete orchestrator with
+`paperclip routines show <routine>`, and follow its context-recovery procedure
+against the existing durable project state. Never select a phase from a
+conversation summary alone.
+
+<!-- data-curation:start -->
+### Persistent dataset routing
+
+When the user asks to create, build, or populate a dataset, data-curation grid,
+or spreadsheet with defined rows and columns, you MUST load
+`paperclip routines show paperclip-data-extraction` before researching. This
+applies to every subject area, including competitive analysis. Do not substitute
+a chat-formatted table for the routine.
+
+Within that routine, a collection wave is complete only after
+`paperclip extraction write` persists it and `paperclip extraction read`
+confirms the server-side row count. If routine loading fails, stop and report
+the routing/authentication problem; do not continue with an in-memory dataset.
+<!-- data-curation:end -->
+
+1. **Find by topic**: `search -s pmc "topic"` -> present results
+2. **Find by exact text (across the whole corpus)**: `grep "term" /papers/` — full-text regex over every paper's body, not just abstracts. Use this (not `sql ... ILIKE`) to locate papers that mention a name/dataset/gene/accession.
+3. **One paper**: `head`/`grep`/`scan` on `/papers/<id>/`
+4. **Many papers**: `search -n 10` -> `map --from ID "q"` -> `reduce` -> synthesize
+5. **Cite**: cite directly with line numbers from the text you read (see Citations)
+6. **Stats/metadata**: `sql "SELECT ..."` (counts, dates, journals — not full-text)
+
+**Repos are OFF by default.** Do not create, add to, or commit repos on your own initiative — cite directly instead. Only use the repo/verification workflow when the user explicitly asks for it (see Paper Repositories). If a command shows a leftover `[repo: <name>]` from an earlier task, ignore it — don't add papers to it unless the user asked to use that repo.
+
+## Citations & Verification
+
+Cite directly from the text you've read, using line numbers — this is the default for **every** query, whether a simple lookup or a multi-paper synthesis. Read the relevant lines and cite them; don't paraphrase beyond what the text supports.
+
+Claim verification via repos is **opt-in**: only run it when the user explicitly asks to verify claims or build a cited repo (see Paper Repositories). Do not start repos or run `git commit` verification on your own.
+
+### Citation format
+
+Cite **[1]**, **[2]** inline. End with:
+
+```
+--------
+REFERENCES
+[1] Authors. "Title." *Journal* vol, pages (year). doi:XX
+    https://paperclip.gxl.ai/citations/papers/<doc_id>#L<n>
+```
+
+Note that the ONLY valid inline format is `[N]` — e.g. `[1]`, `[2]`. Don't use variants like `[1, L151]`, `[1, line 45]`, `[ref 1]`, `(L45)`, `(L45-L52)`, `(L45, L120)`, or any other modification. The `L<n>` format is only valid inside REFERENCES URLs and CLI flags — never inline in prose text. Every direct quote and blockquote (">") must be followed by a citation.
+
+URLs associated with citations should be in the following format: `https://paperclip.gxl.ai/citations/{papers|fda|trials|patents}/<doc_id>#L<n>`
+
+- Line numbers from `L<n>` prefixes in `content.lines`.
+- Single: `#L45` - range: `#L45-L52` - multiple: `#L45,L120,L210`.
+- Nature style for journals. "bioRxiv/medRxiv (year)" for preprints.
+- Get author names, title, DOI from `meta.json`.
+- Never expose doc_id in prose. Number references in order of first appearance.
+
+## Commands
+
+Run `<cmd> --help` for full usage on any command.
+
+### Search & Discovery
+
+| Command | Description |
+|---------|-------------|
+| `paperclip search QUERY` | Semantic + keyword search over all years by default. Key opts: `-n`, `-s SOURCE`, `-e`, `--since` (PMC/bioRxiv/arXiv), `--sort`, `--author`, `--journal`, `--year`, `--corpus` (search full corpus even with a repo active - use during discovery), `--also PHRASING` (repeatable: fan out several phrasings in one search; pools are fused and reranked once against the main query) |
+| `paperclip grep PATTERN PATH` | Regex search across corpus or within a paper. Use `--bool '"A" AND NOT "B"' /papers/` for whole-document boolean regex (`NOT > AND > OR`); pure NOT requires `--from` or `search | grep`. Corpus-wide grep is time-bounded by default; add `--exhaustive` for a full-timeout scan when a rare pattern returns nothing. |
+| `paperclip lookup FIELD VALUE` | Find by metadata: doi, author, title, pmc, pmid, journal |
+| `paperclip sql "SELECT ..."` | SQL on `documents` table (200-row limit) |
+| `paperclip filter --from ID QUERY` | LLM-based relevance filter on search results |
+| `paperclip refine --from ID FLAGS` | Deterministic metadata/structure filtering; saves a new result set |
+| `paperclip merge/intersect/subtract IDs...` | Union, intersection, or subtraction of saved paper sets |
+
+### Reading & Analysis
+
+| Command | Description |
+|---------|-------------|
+| `paperclip cat`, `head`, `tail`, `ls` | Read files, list directories |
+| `paperclip scan FILE "p1" "p2"` | Multi-pattern search in a file |
+| `paperclip ask-image PATH "q"` | Analyze figure with vision. `--fn describe` / `--fn extract-data` |
+| `paperclip map --from ID "q"` | LLM reader across search results - answers per paper |
+| `paperclip reduce --from ID "q"` | Synthesize map results. Strategies: summarize, table, themes |
+| `paperclip results [ID]` | View saved results. `--sample N [--seed S]` samples a cohort; `--list` lists all |
+
+### Core Skill, Domain References & Routines
+
+| Command | Description |
+|---------|-------------|
+| `paperclip install` | Install the lightweight core agent-skill pointer |
+| `paperclip skill` | Load core instructions, available routines, and domain references |
+| `paperclip skill <domain>` | Load a domain reference such as `patents` or `proteins` |
+| `paperclip routines list` | List guided workflows available to the current account |
+| `paperclip routines search "query"` | Search available routines |
+| `paperclip routines enable/disable <name>` | Change account-level routine enablement |
+| `paperclip routines show <name>` | Load an orchestrator or one of its phase files |
+| `paperclip routines run <name> <operation>` | Run a trusted helper from a verified temporary bundle |
+
+### Paper Repositories - Core (opt-in)
+
+**Only use these when the user explicitly asks to build a repo or verify claims — never by default.** `paperclip git` is the preferred name for paper repositories. `paperclip repo` and `paperclip repos` are the same command group and are fully supported. Prefer `git` in new commands.
+
+A repo tracks a named collection of papers + verifiable *claims*, independent of the clipboard. It snapshots and verifies claims against full text; it does **NOT** store arbitrary generated files or copy papers into `/clipboard/`. To persist a file you created (e.g. `analysis.json`, `index.html`, a report), use **`paperclip upload <file> --into <folder>`** (see Clipboard below) — **never** `git commit`, which only records claim metadata.
+
+Repos are deliberately domain-agnostic: claims may be free text or
+caller-defined JSON. For a systematic review or quantitative meta-analysis,
+load `paperclip routines show paperclip-meta-analysis` before creating the repo.
+That workflow requires structured, line-pinned JSON claims and deterministic
+compile/QA scripts; ordinary free-text claims remain valid for general repos
+but are not poolable meta-analysis effects.
+
+| Command | Description |
+|---------|-------------|
+| `paperclip git init <name>` | Create a named repo |
+| `paperclip git add <id> "claim"` | Add paper + verifiable claim |
+| `paperclip git add <id>` | Add paper without claim (collection only, not verified) |
+| `paperclip git commit -m "message"` | Snapshot + verify all claims against full text in parallel |
+| `paperclip git status` | Show papers, claims, [OK]/[X] marks from last commit |
+| `paperclip git log` | Show commit history |
+| `paperclip git checkout <name>` | Switch branch or repo. Use `-` to deactivate. `switch` is also accepted. |
+| `paperclip git branch <name>` | Create + switch to a new branch |
+| `paperclip git merge <branch>` | Merge a branch into the current one |
+| `paperclip git` | List all repos |
+| `paperclip git history` | Command audit trail (searches, maps — not commits) |
+| `paperclip git citations` | Citation counts + graph via Semantic Scholar |
+| `paperclip git export bibtex\|ris\|csv\|markdown` | Export repo as bibliography or data |
+
+**Requires an active repo.** Run `paperclip git init <name>` first.
+
+**Hosted MCP is stateless:** repo selection never carries across tool calls.
+After `git init <name>`, identify the repo on every later call with
+`paperclip --repo <name> git ...` (preferred). `-f` / `--folder` still
+work. Bare git/repo commands fail instead of using hidden current state.
+
+### Clipboard
+
+`/clipboard/` is the user's personal, private document space — uploaded PDFs, saved corpus papers, imported bibliographies, and generated artifacts. Every document is parsed into the same `meta.json` + `content.lines` + `sections/` + `figures/` layout as the public corpus, so `search`, `grep`, `cat`/`head`, `map`, `ask-image`, and citations all work on it unchanged. Clipboards are isolated per user (private search indexes) and can be shared by folder.
+
+**Adding documents**
+
+| Command | Description |
+|---------|-------------|
+| `paperclip cp ~/papers/` | Upload local PDFs (file or folder) to `/clipboard/<folder>/` |
+| `paperclip cp paper.pdf /clipboard/research/` | Upload a file into a specific folder |
+| `paperclip cp /papers/<id> /clipboard/<folder>/` | Save a corpus paper as a zero-copy link (also `/fda/`, `/trials/`) |
+| `paperclip cp /clipboard/<id> /clipboard/<folder>/` | Copy/link an existing clipboard doc |
+| `paperclip fetch <url\|doi> [--into /clipboard/<folder>/]` | Download a paper via your browser cookies (paywalled/institutional) and add it |
+| `paperclip upload <file>... --into <folder>` | **Save generated FILES (JSON/HTML/CSV/MD/PDF) into a folder** — this is how you persist analysis artifacts/reports. `git commit` does NOT store files. |
+| `paperclip import refs.bib --into /clipboard/<folder>` | Import a .bib/.ris — each citation becomes a folder (corpus link when found, else citation metadata) |
+
+**Organizing & reading**
+
+| Command | Description |
+|---------|-------------|
+| `paperclip ls /clipboard/[<folder>]` | List folders / documents |
+| `paperclip tree /clipboard/` | Recursive listing of folders + documents |
+| `paperclip mkdir /clipboard/<folder>` | Create a folder (nesting allowed) |
+| `paperclip mv /clipboard/<src> /clipboard/<dest>/` | Move or rename a folder/document (metadata only) |
+| `paperclip rm /clipboard/<folder> -R` · `rm /clipboard/<id>` | Soft-delete a folder / single document |
+| `paperclip head /clipboard/<folder>/<id>/content.lines` | Read a document's text |
+| `paperclip du /clipboard/` · `find <pat> /clipboard/` · `wc <file>` | Storage summary · find files · counts |
+| `paperclip ask-image /clipboard/<folder>/<id>/figures/<fig> "q"` | Analyze a figure/table with vision |
+
+**Searching**
+
+| Command | Description |
+|---------|-------------|
+| `paperclip search "query" -s clipboard` | Search across your whole clipboard |
+| `paperclip search "query" -s clipboard/<folder>` | Scope the search to one folder |
+| `paperclip grep "pattern" /clipboard/[<folder>/]` | Full-text regex over clipboard docs |
+
+Clipboard is a separate search backend from the public corpus — a single `-s` won't merge them. Pass comma sources (`-s pmc,clipboard`) to query both and present the union.
+
+**Sharing** (folder-level)
+
+| Command | Description |
+|---------|-------------|
+| `paperclip share <folder> <email> [--role viewer\|editor]` | Grant a teammate access to a folder |
+| `paperclip unshare <folder> <email>` | Revoke access |
+
+**Bulk / bidirectional sync** — mirror a local folder to your clipboard:
+
+```
+paperclip sync add ~/papers --prefix oncology   # register a local folder
+paperclip sync run [--dry-run]                   # upload new/modified, remove deleted
+paperclip sync status                            # registered folders + remote counts
+paperclip sync rm <folder|usr_id|--all>          # delete remote docs
+```
+
+Notes:
+- To save a paper you found via search, use `cp /papers/<id> /clipboard/<folder>/` — NOT `import <id>` (that fetches the paper's *references*, not the paper itself).
+- Corpus links (`cp /papers/...`) are references, not copies: reading `content.lines` on a link proxies to the original corpus.
+- Uploads are also available from the web UI (drag-and-drop at the `/clipboard` page) and the Chrome extension (one-click save from any paper page → `/clipboard/chrome-downloads/`).
+- Limits per user: 200 MB/file, 2,000 pages/PDF, 10,000 documents, 10 GB total.
+
+### Other
+
+| Command | Description |
+|---------|-------------|
+| `paperclip import` | Import references: from .bib/.ris files, or fetch a paper's bibliography via Semantic Scholar (does NOT add the paper itself) |
+| `paperclip library` | Personal paper library |
+| `paperclip config` | Settings and connection diagnostics |
+| `paperclip status` | Backend health + corpus freshness (per-source document counts and newest publication date) |
+
+Text processing: `sed`, `awk`, `sort`, `cut`, `tr`, `jq` - standard tools, pipes via `bash '...'`.
+
+## Search
+
+**The `-s` flag is required.** Every search must specify a source with `-s` or a virtual directory path.
+
+| Scope | Command |
+|-------|---------|
+| All papers (PMC + bioRxiv + medRxiv + arXiv) | `search -s papers "CRISPR delivery"` |
+| Specific paper corpora | `search -s pmc,biorxiv,medrxiv,arxiv "CRISPR delivery"` |
+| PMC (full-text papers) | `search -s pmc "CRISPR delivery"` |
+| bioRxiv preprints | `search -s biorxiv "protein design"` |
+| medRxiv preprints | `search -s medrxiv "long COVID"` |
+| arXiv preprints | `search -s arxiv "diffusion models"` |
+| Abstract-grain across all scholarly corpora | `search -s abstracts "drug discovery"` |
+| FDA (all regions) | `search -s fda "pembrolizumab"` |
+| FDA (specific region) | `search "pembrolizumab" /fda/us` |
+| Trials (all) | `search -s trials "breast cancer HER2"` |
+| Trials (specific) | `search "breast cancer" /trials/us` |
+| Proteins (UniProt/PDB/ChEMBL) | `search -s proteins "kinase inhibitor"` |
+| GEO Series | `search -s geo "spatial transcriptomics pancreas"` |
+| Patents | `search -s patents "kinase inhibitor"` |
+
+**Source selection rule:** When the user specifies a domain (e.g. "trials", "regulatory", "FDA", or "patents"), use the corresponding `-s` flag or virtual directory path. For general biomedical literature, use `-s pmc`. If a query mentions proteins, compounds, drugs, structures, UniProt, PDB, or ChEMBL, ask the user whether they want structured database data (`-s proteins`), patent evidence (`-s patents`), or published papers (`-s pmc`). Run parallel targeted searches when multiple sources are needed.
+
+**MUST: Before patent work, run `paperclip skill patents` and follow that domain reference.** Do not guess patent paths, search scope, SQL tables, or citation metadata from this core skill.
+
+Key options: `-n/--limit`, `-s/--source`, `--ranking [hybrid|bm25|vector|analogical]`, relevance floors, `--year[-min|-max]`, `--journal`, `--article-type`, repeatable `--exclude-*` metadata flags, `--has-full-text`, `--has-block-type`, `--without-block-type`, `--has-section`, `--without-section`, `--full-text`, and `--bool`.
+
+### Ordering and determinism
+
+Standard hybrid search uses the same 100 keyword and vector candidates for
+every `-n` value through 100. For an unchanged query, filter set, and search
+index, a smaller result set is a stable prefix of a larger result set:
+`search ... -n 8` matches the first 8 results from `search ... -n 50`.
+Requests above 100 expand the candidate pool and can reorder earlier results.
+Index updates can also change results between calls.
+
+For `grep`, `-n` displays line numbers; it is not the match limit. Use `-m NUM`
+to limit matches. Corpus-wide grep runs parallel, time-bounded scans. When a
+scan reaches `-m` or its time budget, repeated calls or different `-m` values
+can return a different set or order. Grep within one document follows file line
+order and has stable prefixes. `--exhaustive` gives a corpus-wide scan more time,
+but it does not make truncated results ranked or deterministic.
+
+Boolean paper search uses quoted, analyzed phrases with case-insensitive `NOT > AND > OR` precedence and parentheses. It requires an explicit `--ranking bm25`; unlike `grep`, operands are OpenSearch phrases, not regexes. It supports PMC, bioRxiv, medRxiv, arXiv, and abstract-only search plus normal source/date/journal/article-type/year/sort/limit/ID-scope filters. Match full paper content with `--full-text` (not available for abstract-only sources). Boolean mode cannot be combined with `-m`, `-e`, `-r`, `-a`, or `-t`.
+
+Example: `paperclip search -s pmc --bool --ranking bm25 '"CRISPR" AND ("base editing" OR "prime editing") AND NOT "review"'`
+
+For deterministic cohort refinement, use `refine --from s_ID` with the same quality flags. Use `grep --bool --from s_ID --block-type table --section results EXPR` to constrain text predicates to structural content. Use `merge`, `intersect`, and `subtract` for saved-set algebra.
+
+Add `--save-as NAME` to any result-producing command to create a readable session-scoped alias. Aliases can replace generated `s_` IDs in `--from`, `merge`, `intersect`, and `subtract`, e.g. `search --save-as pk_candidates "pharmacokinetics"` then `refine --from pk_candidates --has-block-type table --save-as pk_tables`.
+
+Run reusable deterministic workflows with `paperclip search --config workflow.yaml`. A workflow uses named steps with `operation: search`, `grep`, `refine`, `merge`, `intersect`, or `subtract`; later steps reference earlier names through `from`. Supply typed parameter overrides with `--set NAME=VALUE`, external result IDs or aliases with `--input NAME=VALUE`, and name a particular run with `--save-as NAME`.
+
+Generate a workflow from proposal text or an existing Markdown/text file, then
+review and run it separately:
+
+```bash
+paperclip generate-search-config proposal.md
+paperclip generate-search-config "Find primary pharmacokinetic studies" -o pk.yaml
+paperclip search --config pk.yaml --save-as pk-cohort
+```
+
+Generation writes YAML in the current directory and never executes the search.
+The default filename comes from the generated workflow name. Existing files are
+preserved unless `--force` is supplied. Provider credentials remain server-side;
+the command uses the same Paperclip login or API key as other CLI commands.
+
+**Analogical search** (`--ranking analogical`): Finds papers that share the same *structural method* across different domains, even when vocabularies are completely different. Use when the user wants cross-domain analogies, methodological parallels, or "what other fields use this technique?" queries.
+
+**How to write the query — this matters a lot:**
+
+The query text gets embedded with a fine-tuned model trained on paper abstracts. Different query formulations produce very different results:
+
+1. **Best: full abstract** — If the user has a specific paper, use its entire abstract as the query. This is what the model was trained on and produces the highest-quality matches. Read the paper first with `cat`, extract the abstract, then search with it.
+2. **Good: method/problem description (1-2 sentences)** — Describe the *structural method* or *problem pattern*, not the topic. Focus on what the paper *does*, not what it's *about*. Example: "correcting for systematic under-reporting in training data where the missingness mechanism is unknown" finds cross-domain analogies across biodiversity, epidemiology, and proteomics.
+3. **Good: plain-language problem** — Describe the problem without jargon: "my training labels are unreliable because some positives are systematically missed as negatives" finds positive-unlabeled learning papers across NLP, biology, and cosmology.
+4. **Bad: topic keywords** — Short keyword queries like "influence functions" or "CRISPR delivery nanoparticle" return topically similar papers, not structural analogies. This defeats the purpose — use standard `--ranking hybrid` for keyword searches.
+
+**Workflow for a known paper:**
+```
+paperclip cat PMC1234567 | head -30        # read abstract
+paperclip search -s arxiv --ranking analogical "<paste full abstract here>" -n 10
+paperclip search -s biorxiv --ranking analogical "<paste full abstract here>" -n 10
+```
+
+**Workflow for a described problem:**
+```
+paperclip search -s arxiv --ranking analogical "I need to approximate an expensive leave-one-out computation cheaply by exploiting low-rank structure in my parameter space" -n 10
+```
+
+**Tip:** Run analogical search across multiple sources (`-s arxiv`, `-s biorxiv`, `-s pmc`) separately to find analogies in different scientific communities. The most valuable matches are often in the source you'd least expect.
+
+### GEO (Gene Expression Omnibus)
+
+Use `-s geo` to search NCBI GEO Series records. GEO search returns stable Series
+summaries and paths under `/geo/{GSE}/`.
+
+```
+paperclip search -s geo "spatial transcriptomics pancreas" -n 5
+paperclip cat /geo/GSE197317/meta.json
+paperclip cat /geo/GSE197317/content.lines
+paperclip ls /geo/GSE197317/sections/
+paperclip link -s geo GSE197317
+```
+
+Supported GEO search options:
+
+| Option | Meaning |
+|--------|---------|
+| `-n/--limit N` | Maximum results |
+| `--ranking hybrid` | Strict lexical candidate gate followed by vector reranking (default) |
+| `--ranking bm25` | OpenSearch lexical ranking only |
+| `--ranking vector` | Vector ranking; structured constraints still use the lexical candidate gate |
+| `-r/--regex` | POSIX-regex search over GEO content blocks |
+| `-a/--author`, `--author NAME` | GEO submitter/contact name, organization, or affiliation; not the full publication author list |
+| `--organism NAME` | Exact GEO organism name, e.g. `Homo sapiens` or `Mus musculus` |
+| `--year YYYY` | Exact GEO Series release year; not the linked paper's publication year |
+| `--platform GPLID` | Exact GEO Platform accession, e.g. `GPL24676` |
+| `--assay NAME` | Specific assay text with biomedical synonym normalization, e.g. `scRNA-seq`, or an exact stored family such as `gene_expression` |
+| `--min-samples N` | Require `n_samples >= N` |
+| `--has-pubmed` | Require at least one linked PubMed ID |
+
+The six structured filters can be combined with a query:
+
+```
+paperclip search -s geo "single cell" \
+  --organism "Homo sapiens" \
+  --year 2024 \
+  --platform GPL24676 \
+  --assay scRNA-seq \
+  --min-samples 20 \
+  --has-pubmed \
+  -n 10
+```
+
+They also work without query text:
+
+```
+paperclip search -s geo \
+  --organism "Mus musculus" \
+  --year 2024 \
+  --min-samples 100 \
+  --has-pubmed \
+  -n 10
+```
+
+`GPL...` is a GEO Platform accession describing the measurement platform or
+array design used by a Series. For example, `GPL24676` is Illumina NovaSeq 6000
+for Homo sapiens. One Series may use multiple platforms.
+
+Specific assay names are not widened to broad families: `--assay scRNA-seq`
+requires single-cell RNA sequencing terminology and does not merely filter on
+the much broader `gene_expression` family.
+
+`link` prints linked PubMed identifiers without calling a second search:
+
+```
+paperclip link -s geo GSE197317
+paperclip link -s geo GSE197317 --json
+```
+
+GEO SQL is read-only and exposes:
+
+- `documents`: one row per Series, including `document_id`, `title`, `summary`,
+  `overall_design`, `assay_family`, `technology_class`, `organisms`,
+  `platform_ids`, `n_samples`, `pubmed_ids`, `bioproject`, and release dates.
+- `content_blocks`: line-addressable Series sections with `document_id`,
+  `line_number`, `content`, `section`, `block_type`, and `block_id`.
+
+Only `SELECT`, `WITH`, and `EXPLAIN` are accepted. Queries have a 15-second
+timeout and a 200-row output limit.
+
+```
+paperclip sql -s geo \
+  "SELECT document_id, title, n_samples
+   FROM documents
+   WHERE 'Homo sapiens' = ANY(organisms)
+     AND n_samples >= 100
+   ORDER BY n_samples DESC
+   LIMIT 20"
+```
+
+### Filter
+
+Use `filter` after `search` to remove irrelevant results via LLM evaluation before passing to `map`:
+
+```
+paperclip search -s fda "semaglutide" -n 50
+paperclip filter --from s_abc123 "semaglutide cardiovascular outcomes"
+paperclip map --from s_abc123 "What were the primary endpoints and results?"
+```
+
+`filter` overwrites the result set in place. If `--require N` fails, re-run search with broader terms to get a fresh result ID.
+
+### Lookup
+
+Find by metadata field: `doi`, `author`, `title`, `pmc`, `pmid`, `arxiv`, `journal`, `year`.
+
+```
+lookup doi 10.1101/2024.01.15.575613
+lookup pmc PMC7194329
+lookup author "James Zou" -n 10
+```
+
+### SQL
+
+```
+sql "SELECT pub_year, COUNT(*) FROM documents WHERE title ILIKE '%CRISPR%' GROUP BY pub_year ORDER BY pub_year"
+```
+
+Columns: `id`, `title`, `doi`, `authors`, `source`, `abstract_text`, `pub_date`, `journal_title`, `article_type`, `pmid`, `keywords`, `categories`, `pub_year`.
+
+Only `SELECT` on the `documents` table. 15s timeout, 200-row limit.
+
+**SQL is for metadata + aggregation only — it is NOT full-text search.** It sees only titles/abstracts (`abstract_text`), not paper bodies, and `ILIKE '%term%'` does a slow unindexed scan. To find papers that *contain* a term, use `grep "term" /papers/` (exact, full text, corpus-wide) or `search "..."` (semantic) — a body-text mention (Methods, Data Availability, references) will be missed by `abstract_text ILIKE` but found by `grep`. Use SQL for counts, date/journal/author filters, and grouping — not to locate papers by content.
+
+### Proteins SQL (`-s proteins`)
+
+```
+paperclip sql -s proteins "SELECT COUNT(*) FROM uniprot_v.proteins"
+paperclip sql -s proteins "SELECT * FROM pdb_v.structures_by_accession WHERE accession='P00533' LIMIT 10"
+paperclip grep "TP53" /proteins/
+paperclip cat /proteins/P04637/meta.json
+```
+
+Key views: `uniprot_v.proteins`, `uniprot_v.features`, `pdb_v.structures_by_accession`, `chembl_v.bioactivities_by_accession`, `chembl_v.drugs_by_accession`. Join key: UniProt accession.
+
+**MUST: Before writing ANY protein SQL (or protein grep/cat/search), you MUST run `paperclip skill proteins` and read it.** Do not guess column names, enum values, join keys, or query patterns from memory. Skipping this step produces wrong queries.
+
+## Map & Reduce
+
+`map` runs a lightweight LLM reader on each paper. `reduce` synthesizes map results.
+
+`--output-schema` works with the default map reader.
+Pass a Draft 2020-12 JSON Schema for each paper's complete output. Paperclip
+requires one strict JSON value and validates it. Invalid output gets one correction
+attempt. Paperclip fails that paper if the corrected response is still invalid. Use `required`
+for mandatory fields, `additionalProperties: false` for exact keys, and nullable
+types such as `["number", "null"]` for unavailable values. Paperclip does not add
+`_citations` unless the schema defines it. The old `--output_schema` spelling and
+legacy field maps remain temporary deprecated aliases.
+
+```
+search -s pmc "protein design" -n 10
+map --from s_xxx "What methods were used for protein design?"
+reduce --from m_xxx --strategy table "Compare methods and results"
+```
+
+Reduce strategies: `summarize`, `table`, `themes`, `consensus`, `bullet_points`, `extract`.
+
+**Tips:**
+- Be specific. Bad: "Summarize this paper." Good: "What delivery vector was used, what cell type was targeted, and what transfection efficiency was reported?"
+- Enumerate every field you want extracted.
+- Specify which section to focus on (e.g. "From the Methods section, extract...").
+- Keep to **3-10 papers** (`-n 5` or `-n 10`).
+- After map, respond directly - don't follow up by reading individual papers.
+
+## Paper Repositories
+
+**Opt-in only.** Repos are not part of the default workflow — do not create or use them unless the user explicitly asks to build a repo, track a collection, or verify claims. By default, cite directly from the text. The rest of this section applies only once the user has asked for a repo.
+
+### How `add` works
+
+- `git add <id> "claim"` - appends a verifiable claim to the paper. Optional: `--lines L45-L52` (faster verification).
+- `git add <id> --json '{"type":"custom",...}' --lines L45-L52` stores a
+  caller-defined structured claim without making the repo domain-specific.
+- **Each `git add` with a claim creates a new entry.** A paper can have multiple claims - call `git add` multiple times with the same ID and different claims.
+- To replace a wrong claim: `git remove <id>`, then `git add <id> "corrected claim"`.
+- `git add <id>` - collection only, never verified.
+
+### How `commit` works
+
+- `git commit -m "message"` runs verification on all unchecked claims in
+  parallel, then creates the metadata snapshot. Unresolved verifier errors block
+  the snapshot so the same command can safely retry them.
+- Verification produces [OK] (supported) or [X] (not supported) per claim.
+- For a generic repo, [X] is a conclusive advisory verdict and does not block
+  the metadata snapshot. Fix it by re-adding a corrected claim, then commit
+  again. For a data-curation or meta-analysis workflow, the specialized Phase-6
+  compiler requires zero active [X] claims; correct or remove/log every [X]
+  before compilation.
+- Previously verified claims are not re-checked. Use `--no-verify` to skip verification entirely.
+
+### How `checkout` works
+
+- `git checkout <name>` tries to switch **branch** first (within current repo), then falls back to switching **repo**. `git switch` is also accepted.
+- `git checkout -` - deactivates the repo entirely.
+- **If the active repo is unrelated to the current request, start a new one (`git init <topic>`) or deactivate it (`git checkout -`) before adding papers - never append unrelated papers to an existing repo.**
+
+**When you are using a repo (the user asked for one), run `git status` before writing your final response** to confirm which claims are verified. Only cite [OK] papers. For [X] claims: revise the claim, find a different source, or drop it. (If you're not using a repo, skip this.)
+
+### Full workflow example
+
+```
+# 1. Create repo
+paperclip git init my-review
+
+# 2. Search and read (-s is required)
+paperclip search -s pmc "topic A" -n 10
+paperclip map --from s_xxx "What was the main finding and sample size?"
+
+# 3. Add papers with the claims you'll cite
+paperclip git add PMC123 "Key finding X" --lines L45-L52
+paperclip git add bio_456 "Key finding Y"
+
+# 4. Commit - verifies each claim against full text
+paperclip git commit -m "Initial citations"
+
+# 5. Check results - fix any [X] claims
+paperclip git status
+#   [OK] PMC123  claim: Key finding X
+#   [X] bio_456 claim: Key finding Y - paper says Z instead
+
+# 6. Fix: remove bad claim, re-add corrected, re-commit
+paperclip git remove bio_456
+paperclip git add bio_456 "Key finding Z" --lines L80
+paperclip git commit -m "Fix bio_456 claim"
+
+# 7. Final check - all [OK], write response
+paperclip git status
+```
+
+### Branches
+
+Repos start on `main`. Use branches to explore parallel lines of evidence:
+
+```
+paperclip git branch safety-concerns
+paperclip git add PMC789 "Drug X causes hepatotoxicity in 12%" --lines L200-L210
+paperclip git commit -m "safety claims"
+
+paperclip git checkout main
+# main branch is unaffected; merge when ready:
+paperclip git merge safety-concerns
+```
+
+## Sandbox Environment
+
+Commands run in a sandboxed virtual shell (vsh).
+
+**Allowed**: `cd`, `ls`, `cat`, `head`, `tail`, `grep`, `sed`, `awk`, `sort`, `cut`, `tr`, `jq`, `search`, `scan`, and more.
+**Blocked**: `rm`, `curl`, `wget`, `ssh`, `sudo`, etc.
+**Not supported**: Shell loops (`for`/`while`) and `xargs` - use pipes or multiple tool calls.
+
+### Files and scratch
+
+- `/.gxl/` is writable scratch: `grep "IC50" /papers/<id>/content.lines > /.gxl/hits.txt`
+- Save any file locally with `cat > filename`: `cat /papers/PMC123/figures/fig1.jpg > fig1.jpg`
+- Supplementary data: `ls /papers/<id>/supplements/` then `head`/`awk`/`cat >`.
+
+## Tips
+
+- Prefer `head -N`, section files, or `grep`/`scan` - avoid `cat` on full `content.lines`.
+- Use `bash '...'` for pipes or redirection to `/.gxl/`.
+- `map` runs an LLM reader per paper - limit with `-n 5` on search.
+- Always check `git status` before writing your final response.
+- Only cite papers marked [OK].
+
+## Domain references
+
+For deep work in a specific domain, load the reference with `paperclip skill <name>` before proceeding.
+
+| Reference | Use when |
+|-----------|----------|
+| `catalytic_residues` | catalytic, active site |
+| `domain_map` | domain map, domain mapping, protein domains, uniprot domains |
+| `experimental_methods` | experimental method, resolution, x-ray, cryo-em, electron microscopy, nmr, structure determination |
+| `ptm` | ptm, post-translational modification, modification, glycosylation, phosphorylation, lipidation, disulfide bond |
+| `sequence_analysis` | multiple sequence alignment, msa, mafft, alignment, similarity matrix, identity matrix, percent identity |
+| `proteins` | uniprot, pdb structure, chembl, protein database, drug target, bioactivity, ic50, accession, proteins source |
+| `patents` | patent, patents, publication number, surechembl, claims, patent chemistry, USPTO, CPC, assignee, patent sequence |
+| `sec` | when the query needs SEC SQL, or when the user asks about sec filings schema, edgar tables, xbrl_facts, content_blocks, accession_number columns, or sql -s sec |
+
+

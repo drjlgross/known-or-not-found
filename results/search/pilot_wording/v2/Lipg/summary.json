@@ -1,0 +1,11 @@
+{
+  "gene": "Lipg",
+  "query": "Lipg LPS macrophage",
+  "filter_question": "Does this paper report that Lipg (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) is induced, increased, decreased, or otherwise changed in response to LPS or bacterial infection?",
+  "date": "2026-09-24T17:55:18Z",
+  "n": 25,
+  "status": "error",
+  "stage": "filter-list",
+  "detail": "listed 25 survivors, filter reported 0",
+  "seconds": 5.2
+}

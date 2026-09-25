@@ -1,0 +1,603 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv --bool --ranking bm25 --full-text -n 500 ("Slc7a2" OR "solute carrier family 7 (cationic amino acid transporter, y+ system), member 2" OR "Atrc2" OR "Cat2") AND ("LPS" OR "lipopolysaccharide") AND "macrophage"
+# exit 0
+Found 40 papers (of 500 requested)  [s_8e75cebf]
+
+  1. Loss of Solute Carrier Family 7 Member 2 Exacerbates Inflammation-Associated Colon Tumorigenesis
+     Lori A. Coburn; Kshipra Singh; Mohammad Asim; Daniel P. Barry; Margaret M. Allaman; Nicole T. Al-Gre...
+     PMC6377304 · PMC · 2018-09-10 · 59 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6377304/
+     Matched: Loss of Slc7a2 leads a shift toward a M2 macrophage activation pattern · cat /papers/PMC6377304/content.lines --lines 29
+     │ To assess if SLC7A2 loss resulted in a baseline alteration in macrophage activation pattern,
+     │ we isolated bone marrow-derived macrophages (BMmacs) from WT and Slc7a2–/– mice and
+     │ stimulated them ex vivo with either classical M1 stimuli (IFN-γ + LPS) or M2 stimuli (IL-4 +
+     │ IL-10). Markers of M1 and M2 macrophage activation status were then assessed. IFN-γ + LPS
+     │ stimulation resulted in robust expression of the M1 markers Nos2 and Il1b (Figure 6a) in
+     │ both WT and Slc7a2–/– BMmacs. However, there was no difference between BMmacs from the WT
+     │ and Slc7a2–/– mice. As expected, there was decreased nitric oxide (NO) production (measured
+     │ as NO2–) in the Slc7a2–/– cells, consistent with the loss of L-Arg …
+     "Loss of SLC7A2 in colon epithelial cells was studied in a colitis-associated cancer model. Its absence significantly increased tumor development and promoted pro-tumorigenic inflammation."
+
+  2. Bone Marrow Stem Cell Exosomes Protect Lung Cells from Oxygen Damage by Regulating miR‐23a‐3p/Slc7a2 Pathway
+     Qifei He; Huaiwu Zheng; Junhao Xiong; Wei Yang
+     PMC13447122 · PMC · 2026-08-06 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13447122/
+     Matched: Discussion · cat /papers/PMC13447122/content.lines --lines 110-112
+     │ Previous study reported that miR‐23a‐3p promoted M1 polarization of macrophages by
+     │ regulating the PLK1/STAT1/STAT3 signaling pathway and aggravated lipopolysaccharide
+     │ (LPS)‐induced acute lung injury [26]. However, some studies have indicated that miR‐23a‐3p
+     │ alleviates cigarette smoke extract‐induced apoptosis in pulmonary vascular endothelial cells
+     │ by targeting DnaJ homologue subfamily B member 1 (DNAJB1) [29]. Recent research has shown
+     │ that increasing the number of alveolar macrophage‐derived extracellular vesicles (EVs)
+     │ packaged with miRNA‐23a‐3p can target ACSL4, thereby inhibiting ferroptosis in mouse lung
+     │ epithelial cells and alleviating lung injury [30]. These findings suggest that …
+     "Mesenchymal stem cell exosomes (MSC‐Exos) play crucial regulatory roles in the processes of alveolar epithelial cell development, proliferation, apoptosis and differentiation. The aim of this project "
+
+  3. Age-associated metabolic dysregulation in bone marrow-derived macrophages stimulated with lipopolysaccharide
+     Fan Fei; Keith M. Lee; Brian E. McCarry; Dawn M. E. Bowdish
+     PMC4778050 · PMC · 2016-03-04 · 45 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4778050/
+     Matched: Age-associated changes in arginine metabolism · cat /papers/PMC4778050/content.lines --lines 26-27
+     │ Macrophage polarization requires arginine metabolism via the urea cycle[18]. The urea cycle
+     │ intermediates, arginine and ornithine, were increased in the young macrophages after 16 hrs
+     │ of LPS stimulation (Fig. 4). The levels of arginine and ornithine remained elevated in the
+     │ young macrophages when LPS was removed and also during LPS tolerance. Similar to changes
+     │ observed in macrophage core metabolism, there was a delay in arginine metabolism in old
+     │ macrophages. Increasing levels of arginine and ornithine were only observed during the
+     │ “recovery” and “tolerance” samples (Fig. 5). The gene expression of Arg1, iNOS (Nos2) and
+     │ the cationic amino acid transport (Slc7a2) were quantified. The …
+     "Bone marrow-derived macrophages from old mice showed dysregulated metabolic profiles and hyporesponsiveness to LPS stimulation compared to young mice. This metabolic dysregulation, particularly in key regulatory metabolites, may contribute to age-associated inflammatory response deficits."
+
+  4. Integrated transcriptomic and functional analyses reveal that NOX2 inhibition rewires the inflammatory landscape of macrophages
+     Iswarya Muthukumarasamy; Sharleen M. Buel; Jennifer M. Hurley; Jonathan S. Dordick
+     PMC12956517 · PMC · 2026-02-18 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12956517/
+     Matched: NOX2 inhibition during LPS activation reshaped the macrophage transcri · cat /papers/PMC12956517/content.lines --lines 48-49
+     │ Inhibition of NOX2 has been investigated as a potential therapeutic strategy to modulate
+     │ excessive ROS production in various inflammatory diseases (10, 43). Given our understanding
+     │ of the macrophage response to activation and the ability of GSK to tune macrophages to a
+     │ stress-responsive state, we next sought to determine the effect of NOX2 inhibition on the
+     │ inflammatory profile of macrophages. To do so, BMDMs were treated with LPS (1 µg/mL) in the
+     │ presence and absence of GSK (25 µM) for 24 h starting at HPS20. RNA-seq was performed to
+     │ quantify changes in gene expression. As above, differential expression analysis was
+     │ conducted using DeSeq2 with a cutoff of |Log2FoldChange| > 1.5 and a false …
+     "NOX2 inhibition in LPS-stimulated macrophages shifts their inflammatory profile. It reduces pro-inflammatory responses and enhances anti-inflammatory and tissue repair pathways. This suggests NOX2 inhibition can reprogram macrophages towards a reparative state."
+
+  5. A new metabolomic assay to examine inflammation and redox pathways following LPS challenge
+     Jung H Suh; Robert Y Kim; Daniel S Lee
+     PMC3507808 · PMC · 2012-10-04 · 18 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3507808/
+     Matched: A role for Asp in Arg synthesis in macrophage? · cat /papers/PMC3507808/content.lines --lines 108-110
+     │ LPS-stimulated macrophage metabolize Arg at a greatly enhanced rate, and therefore a
+     │ continous supply of Arg is needed by these cells to support their immune functions. To meet
+     │ this demand, LPS-activated macrophage cells increase both the uptake and synthesis of Arg
+     │ [29,[51],52]. In response to LPS (1 μg/ml) treatment (Table 1 and Figure 2), the
+     │ concentrations of Cit and Orn, the two metabolic products of Arg, increased significantly
+     │ and greatly exceeded the amount of Arg loss from levels found in untreated cells. As this
+     │ was a steady-state measurement, the extent of Arg loss in LPS activated cells may
+     │ underestimate the actual rate of Arg uptake and resynthesis. The cellular uptake of Arg …
+     "A new LC-MS/MS assay simultaneously measures arginine and sulfur amino acid metabolism. This assay revealed that the Cit+Orn/Arg+Asp ratio is an early, sensitive biomarker of LPS-induced macrophage activation."
+
+  6. Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni; Yanal Ghosheh; Akula Bala Pramod; Klaus Ley
+     PMC6543837 · Frontiers in Immunology · 2019-05-24 · 1909 citations
+     https://doi.org/10.3389/fimmu.2019.01084
+     Matched: In vivo M1(=LPS+)C57BL/6J Exclusive Genes Drive Anti-bacterial Immune  · cat /papers/PMC6543837/content.lines --lines 40-43
+     │ The in vivo M1(=LPS+)C57BL/6J signature contains 177 uniquely up-regulated genes (Figure 1A,
+     │ Supplementary Table 5). Compared to the in vitro signatures we found the expression of many
+     │ genes correlated with the LPS mediated activation of Toll-like receptor 4 (Tlr4). Downstream
+     │ of Tlr4 is myeloid differentiation factor 88 (MyD88), Nfkb1, Rela, Rps6ka2, Tank, and Ripk2,
+     │ (40) all expressed in M1(=LPS+)C57BL/6J. These genes are responsible for an anti-bacterial
+     │ immune response. The chemokine Ccl2 and the hematopoietic cytokine Csf2 (GM-CSF) are
+     │ positively correlated with M1 polarization in vivo, but not increased in response to IFN-γ
+     │ and LPS in vitro. The same is true for the pro-inflammatory …
+     "This study compared gene expression in *in vivo* M1/M2 macrophages with *in vitro* classically/alternatively activated macrophages. The findings indicate that *in vivo* M1/M2 polarization is not equivalent to *in vitro* activation states."
+
+  7. miR-294 and miR-410 Negatively Regulate Tnfa, Arginine Transporter Cat1/2, and Nos2 mRNAs in Murine Macrophages Infected with Leishmania amazonensis
+     Stephanie Maia Acuña; Jonathan Miguel Zanatta; Camilla de Almeida Bento; Lucile Maria Floeter-Winter...
+     PMC8875753 · PMC · 2022-02-06 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8875753/
+     Matched: 2.3. miRNAs Targeting mRNA from Arginine Metabolism Shift the Macropha · cat /papers/PMC8875753/content.lines --lines 28-30
+     │ Based on miRNA binding site prediction and miRNA modulation during C57BL/6 macrophage
+     │ infection with L. amazonensis, we performed a miRNA inhibition assay for the miR-294,
+     │ miR-301b, and miR-410 sequences in order to understand their functions in the infection
+     │ context (Figure 4). The transfection with negative control was used as the baseline for
+     │ evaluating the effect of the control and experimental miRNA inhibitor on the expression of
+     │ miRNA and target-genes for all of the tested times. The miR-294 inhibitor led to a
+     │ consistent decrease in the miRNA expression at 4 h of infection, which was sustained at 24
+     │ h. However, miR-301b did not respond to the inhibition at any tested time (Figure 4A). …
+     "Murine macrophages infected with *Leishmania amazonensis* were studied for miRNA regulation of inflammatory genes. miR-294 and miR-410 were found to downregulate key inflammatory and metabolic genes, with miR-294 inhibition reducing parasite growth."
+
+  8. Putrescine supplementation shifts macrophage L-arginine metabolism related-genes reducing Leishmania amazonensis infection
+     Jonathan Miguel Zanatta; Stephanie Maia Acuña; Yan de Souza Angelo; Camilla de Almeida Bento; Jean P...
+     PMC10065296 · PMC · 2023-03-31 · 9 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10065296/
+     Matched: 1. Introduction · cat /papers/PMC10065296/content.lines --lines 11-13
+     │ Macrophage response and polarization may determine the inflammatory process and the outcome
+     │ of infection by different pathogens. Parasitic infections can modify macrophage metabolism
+     │ and the activity of enzymes such as those from L-arginine and polyamines pathways.
+     │ Polyamines play essential roles in macrophage activation by regulating amino acid and
+     │ protein synthesis, oxidative DNA damage, histone modifications, chromatin structure, and
+     │ tricarboxylic acid (TCA) cycle [1–3]. The polyamines putrescine, spermidine, and spermine
+     │ are aliphatic polycations with low molecular weight [4]. The cytosolic enzyme arginase 1
+     │ (ARG1) and the mitochondrial isoform arginase 2 (ARG2) convert L-arginine in …
+     "Putrescine supplementation was investigated for its effect on macrophage L-arginine metabolism and Leishmania amazonensis infection. Putrescine reduced infected macrophages by shifting L-arginine metabolism-related genes."
+
+  9. Damage-mediated macrophage polarization in sterile inflammation
+     Gábor Koncz; Viktória Jenei; Márta Tóth; Eszter Váradi; Balázs Kardos; Attila Bácsi; Anett Mázló
+     PMC10351389 · PMC · 2023-07-03 · 65 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10351389/
+     Matched: Overview of M1 and M2 macrophage differentiation · cat /papers/PMC10351389/content.lines --lines 38-39
+     │ In this chapter, we aim to provide a general overview of the commonly used and widely
+     │ accepted methods for in vitro macrophage differentiation and polarization. In recent
+     │ decades, various terms have been used to classify different types of macrophages exposed to
+     │ cytokines or Toll-like receptor (TLR) agonists. In human studies, peripheral-blood monocytes
+     │ or THP-1, a human monocyte-derived cell line from a patient with acute monocytic leukemia,
+     │ have been commonly utilized as an in vitro system for generating macrophage subpopulations.
+     │ Although not entirely representative of in vivo cell populations, this model system has
+     │ proven to be one of the most reproducible experimental standards (29). …
+     "This review examines how macrophages sense damage and resolution signals in sterile inflammation. Macrophages shift from pro-inflammatory to pro-resolution states, influencing disease progression."
+
+  10. Exosomes from HPV-16 E7-pulsed dendritic cells prevent the migration, M1 polarization, and inflammation of macrophages in cervical cancer by regulating catalase 2 (CAT2)
+     Guangping Zhang; Yanan Liao; Xiaoping Pan; Xiaoli Zhang
+     PMC8908111 · PMC · 2022 · 13 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8908111/
+     Matched: Extraction of DCs from cervical cancer patients · cat /papers/PMC8908111/content.lines --lines 26
+     │ Peripheral blood (20 mL) was extracted from cervical cancer patients, who had been admitted
+     │ to the People’s Hospital of Huadu District in 2019, and heparin was applied for
+     │ anticoagulant. After centrifugation, the upper plasma was placed in a 56-°C water bath for
+     │ 30 min, and collected for standby application by centrifugation after standing at 4 °C for
+     │ 15 min. Dulbecco’s phosphate-buffered saline (PBS) was added to the centrifuged cell
+     │ precipitates, and then the mixture was slowly transferred to a centrifuge tube containing 10
+     │ mL of lymphocyte separation medium. After centrifugation, the cells of the white membrane
+     │ layers were suspended with Alys-505 medium containing 10% plasma. The cells …
+     "Exosomes from HPV-16 E7-pulsed dendritic cells were studied for their effects on macrophages in cervical cancer. These exosomes prevent macrophage migration, M1 polarization, and inflammation by regulating catalase 2 (CAT2)."
+
+  11. Polyamines shift expression of macrophage L-arginine metabolism related-genes during  Leishmania amazonensis  infection
+     Jonathan Miguel Zanatta, Stephanie Maia Acuña, Camilla de Almeida Bento, Beatriz Simonsen Stolf, San...
+     bio_9d069063737a · bioRxiv · 2022-05-27 · 3 citations (all versions)
+     Published (2022): https://doi.org/10.1101/2022.05.27.493766
+     Matched: Introduction · cat /papers/bio_9d069063737a/content.lines --lines 15-16
+     │ Macrophage response and polarization may determine the inflammatory process and the outcome
+     │ of infection by different pathogens. Parasitic infections can modify macrophage metabolism
+     │ and the activity of enzymes such as those from L-arginine and polyamines pathways.
+     │ Polyamines play an important function in macrophage activation and polarization by
+     │ regulating amino acid and protein synthesis, oxidative DNA damage, histone modifications,
+     │ chromatin structure, and tricarboxylic acid (TCA) cycle ( 1 – 3 ). The polyamines
+     │ putrescine, spermidine, and spermine are aliphatic polycations with low molecular weight ( 4
+     │ ). The cationic amino acid L-arginine is converted in ornithine and urea by the …
+     "Polyamines and L-arginine were studied in macrophages infected with *Leishmania amazonensis*. Polyamines, but not L-arginine alone, altered macrophage gene expression and reduced parasite infection."
+
+  12. Origins and diversity of macrophages in health and disease
+     Gopalkrishna Sreejit; Andrew J Fleetwood; Andrew J Murphy; Prabhakara R Nagareddy
+     PMC7750014 · PMC · 2020-12-20 · 98 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7750014/
+     Matched: Macrophage subsets · cat /papers/PMC7750014/content.lines --lines 23-24
+     │ Macrophages are a highly heterogenous population of cells. The initial classification of
+     │ macrophages into M1 and M2 subsets was based on macrophages isolated from C57BL/6 mice and
+     │ Balb/c mice. Macrophages from C57BL/6 mice have a Th1‐dominated immune response and, when
+     │ challenged with LPS and IFN‐γ, produce nitric oxide (NO) from arginine via iNOS. 73
+     │ Macrophages from Balb/c mice have a Th2‐dominated immune response and, when challenged by
+     │ LPS and IFN‐γ, produce ornithine via arginase. 73 C57BL/6 mice carry a deletion in the
+     │ promoter of Slc7a2, the key arginine transporter in macrophages causing large differences in
+     │ arginine utilisation between C57BL/6 and BALB/c mice. 74 Categorisation of …
+     "This review examines the origins, diversity, and specialization of macrophages in health and disease. Macrophage ontogeny is crucial, influencing their function and dysfunction in various conditions."
+
+  13. Geniposide Alleviates Inflammatory Bowel Disease by Regulating Intestinal Flora and Arginine Metabolism and Inhibiting the NF‐κB Pathway Through Targeting Anxa5
+     Xiu Wang; Francis Atim Akanyibah; Pengfei Zhang; Xiaodong Zhou; Ming Zhang; Fei Mao
+     PMC13396694 · PMC · 2026-07-23 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13396694/
+     Matched: 5. Conclusion · cat /papers/PMC13396694/content.lines --lines 147-162
+     │ GEN reduced colitis in mice by alleviating clinical symptoms, boosting tight junction
+     │ proteins, enhancing the intestinal microbiota structure and diversity, and decreasing
+     │ metabolite dysregulation. These outcomes were associated with arginine‐induced macrophage
+     │ polarization via the upregulation of SLC7A2, SLC6A8, creatine, Arg, and Arg1, alongside the
+     │ downregulation of iNOS and NO. Additionally, GEN increased Anxa5, which mediates macrophage
+     │ polarization, and downregulated the NF‐κB pathway. This identifies the
+     │ microbiota‐macrophage‐arginine metabolism and Anxa5 axis as potential therapeutic targets
+     │ for intestinal inflammation. Anxa5:: Annexin A5 Arg:: L‐arginine Arg1:: Arginase 1 COX‐2:: …
+     "Inflammatory bowel disease (IBD), including Crohn’s and ulcerative colitis (UC), is a chronic gut inflammation thought to be caused by gut microbial causes and immune system dysfunction. Geniposide (G"
+
+  14. Macrophage metabolic reprogramming in sepsis-associated acute lung injury: mechanisms and therapeutic strategies
+     Ran Pan; Yiyi Sun; Lu Chen; Jianping Pan; Junping Guo
+     PMC13218969 · PMC · 2026-05-15 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13218969/
+     Matched: Clinical and laboratory findings on amino acid metabolism · cat /papers/PMC13218969/content.lines --lines 58
+     │ During inflammation, arginine metabolism becomes particularly critical, and its availability
+     │ is tightly regulated at multiple levels (185). Arginine transport systems are dynamically
+     │ remodeled during monocyte-to-macrophage differentiation. SLC7A7 upregulation serves as a
+     │ differentiation marker, as demonstrated in human THP-1 cells (186). In activated
+     │ macrophages, arginine transport is drastically increased via the inducible cationic amino
+     │ acid transporter CAT2 (SLC7A2). This upregulation is essential for sustaining the high rates
+     │ of arginine catabolism required for nitric oxide (NO) and polyamine synthesis (187–189).
+     │ CAT2-deficient macrophages exhibit a 95% reduction in L-arginine uptake …
+     "Sepsis-associated acute lung injury (S-ALI) remains a life-threatening condition with high mortality and limited therapeutic options. Macrophages, as key sentinels of innate immunity, exhibit remarkab"
+
+  15. Biphasic Dynamics of Macrophage Immunometabolism during Mycobacterium tuberculosis Infection
+     Lanbo Shi; Qingkui Jiang; Yuri Bushkin; Selvakumar Subbian; Sanjay Tyagi
+     PMC6437057 · PMC · 2019-03-26 · 160 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6437057/
+     Matched: Increased arginine uptake and metabolism: competition between two oppo · cat /papers/PMC6437057/content.lines --lines 30-31
+     │ In contrast to ARG1, information about the expression and function of mitochondrial ARG2 in
+     │ immune cells remains scant. ARG2 accounts for more than 90% of arginase activity in LPS-
+     │ activated RAW 264.7 cells (97). Unlike Arg1, Arg2 is not significantly affected by Th1 or
+     │ Th2 cytokine treatment of primary murine macrophages from various mouse strains, including
+     │ the AKR/N, C57BL/6, and B6D2F1 strains (92, [98], 99). ARG2 is also the dominant isoform in
+     │ dendritic cells, and its repression by the highly induced microRNA-155 during dendritic cell
+     │ maturation is crucial for dendritic cells to drive T cell activation by controlling the
+     │ availability of arginine in the extracellular environment (100). …
+     "This study investigated how macrophage metabolism changes during *Mycobacterium tuberculosis* infection. The research found that *M. tuberculosis* alters macrophage metabolism to promote pathogen survival and dissemination."
+
+  16. Macrophage Metabolic Reprogramming in Inflammatory Bowel Diseases: From Pathogenesis to Therapy
+     Yi-Fang Zhang; Ting Ting Shi; Yi-Ling Lin; Yu-Ting Zhu; Shu Lin; Tai-Yong Fang
+     PMC12399898 · PMC · 2025-08-27 · 13 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12399898/
+     Matched: Amino Acid Metabolism · cat /papers/PMC12399898/content.lines --lines 36-37
+     │ Amino acids are pivotal regulators of various metabolic processes, especially in immune and
+     │ inflammatory responses. The relationship between specific amino acids and IBD has recently
+     │ garnered significant attention. Glutamine levels are significantly reduced in the serum of
+     │ patients with IBD and DSS-induced colitis mice. Additionally, the absence of ATF4 reduces
+     │ intestinal glutamine uptake.[87–89] Some researchers proposed that glutamine is a
+     │ significant factor in activating HIF-1 signaling and mTOR1C in LPS-induced M1
+     │ macrophages.[56],[90],[91] Conversely, some studies indicated that glutamine metabolism
+     │ favors M2 polarization. As a key regulator of macrophage phenotype, glutamine …
+     "This review examines macrophage metabolic reprogramming in inflammatory bowel diseases (IBD). It highlights the potential of targeting these metabolic pathways, including ferroptosis, as a therapeutic strategy for IBD."
+
+  17. Species-Specificity of Transcriptional Regulation and the Response to Lipopolysaccharide in Mammalian Macrophages
+     Stephen J. Bush; Mary E. B. McCulloch; Zofia M. Lisowski; Charity Muriuki; Emily L. Clark; Rachel Yo...
+     PMC7386301 · PMC · 2020-07-21 · 32 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7386301/
+     Matched: Divergent Metabolic Regulation Amongst Mammalian Species · cat /papers/PMC7386301/content.lines --lines 64-66
+     │ The shared high expression of genes involved in glutamine metabolism (GLS, GLUL, GLUD1, and
+     │ SLC25A11) in BMDM from all species suggests that the use of this amino acid as a fuel by
+     │ macrophages, demonstrated previously in mouse and human (Curi et al., 2017), is conserved
+     │ amongst mammalian species. SLC1A5, which encodes a plasma membrane glutamine transporter,
+     │ was also highly expressed in all the macrophage populations, especially ruminants (sheep and
+     │ cow) where it was further induced by LPS. A variant isoform of SLC1A5 was shown recently to
+     │ be involved in mitochondrial glutamine uptake in human tumor cells (Yoo et al., 2020). Other
+     │ metabolic pathways appeared more divergent. Our previous …
+     "This study analyzed the transcriptional response of sheep macrophages to lipopolysaccharide (LPS) and compared it to other mammalian species. A conserved transcriptional network was found, but large animals and rodents differed in their metabolic responses to LPS."
+
+  18. Treatment with β-Adrenoceptor Agonist Isoproterenol Reduces Non-parenchymal Cell Responses in LPS/D-GalN-Induced Liver Injury
+     Yuchao Wu; Tianzhi Ni; Mengmeng Zhang; Shan Fu; Danfeng Ren; Yali Feng; Huiping Liang; Ze Zhang; Yin...
+     PMC11074027 · PMC · 2023-12-21 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11074027/
+     Matched: Verification of the Activation of Macrophages in Mouse Liver · cat /papers/PMC11074027/content.lines --lines 69-71
+     │ Since macrophages were the main non-parenchymal cells contributing to inflammatory
+     │ progression of ALF, we proceeded to identify the features of macrophages in the isolated
+     │ non-parenchymal cells. First, 29 markers associated with macrophages are chosen and shown in
+     │ Fig. 6a. The proteomic results showed that the non-parenchymal mouse liver tissues treated
+     │ with LPS/D-GalN had higher expression levels of Nup85, St6gal1, Myo9b, Mapk14, Marco, Mtus1,
+     │ Thbs1, Sbno2, Casp1, C5, Ddt, Csf1r, Cd44, Aif1, Casp8, Pde2a, Syk, Mrc1, Itgb2, Mif, Itgb3,
+     │ and Myo18a proteins compared to the healthy group. Meanwhile, the remaining proteins, Fcgr2,
+     │ Slc7a2, C5ar1, Apob, Cd74, Hmgb1, and Ptprj, were significantly …
+     "Isoproterenol (ISO) was administered to mice to study its effects on liver injury. ISO treatment reduced inflammatory responses and liver damage by altering protein expression in non-parenchymal cells."
+
+  19. Metabolic Crossroad Between Macrophages and Cancer Cells: Overview of Hepatocellular Carcinoma
+     Anna Santarsiero; Paolo Convertini; Dominga Iacobazzi; Vittoria Infantino; Simona Todisco
+     PMC11727080 · PMC · 2024-11-25 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11727080/
+     Matched: 8. Future Perspectives and Conclusions · cat /papers/PMC11727080/content.lines --lines 118-123
+     │ Figure 2: Crossroad in amino acid metabolism in macrophages and HCC cells. Metabolism of
+     │ L-arginine and L-glutamine in M1 macrophages/HCC cells and M2 macrophages and mitochondrial
+     │ function. In M1 macrophages and HCC cells, both L-arginine transporter and iNOS are
+     │ overexpressed. The increased level of NO contributes to the activation of glycolytic
+     │ enzymes, whereas citrulline produces fumarate, which supplies the interrupted TCA cycle.
+     │ Furthermore, the increased L-glutamine uptake leads, via glutaminase, to L-glutamate, which
+     │ takes part in the TCA cycle, supplying the energy needs of the cell and sustaining arginine
+     │ metabolism through aspartate recycling. In M2 macrophages, L-arginine is …
+     "This review examines the metabolic interactions between macrophages and hepatocellular carcinoma (HCC) cells. These interactions, driven by metabolic changes, promote cancer growth and survival by influencing macrophage polarization."
+
+  20. Autocrine IL-10 functions as a rheostat for M1 macrophage glycolytic commitment by tuning nitric oxide production☆☆☆
+     Walter A. Baseler; Luke C. Davies; Laura Quigley; Lisa A. Ridnour; Jonathan M. Weiss; S. Perwez Huss...
+     PMC5037266 · PMC · 2016-09-16 · 103 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5037266/
+     Matched: Discussion · cat /papers/PMC5037266/content.lines --lines 49-51
+     │ The data we present here suggests that a component of the anti-inflammatory effects of IL-10
+     │ may lie with its ability to regulate the metabolic program of myeloid cells. Previous
+     │ reports have suggested that IL-10 can suppress the expression of a glycolytic phenotype in
+     │ DC but our findings demonstrate an alternative mode of action [12]. By suppressing the
+     │ production of NO, autologous IL-10 preserves OXPHOS in macrophages. Thus the cytokine
+     │ affects both aspects of metabolic programming strongly favoring a phenotype high in OXPHOS.
+     │ Our finding that IL-10 production is itself subject to regulation by glucose availability
+     │ during transition to glycolysis demonstrates its role as a rheostat …
+     "This study investigated how M1 macrophages regulate their metabolic commitment to glycolysis. Autocrine IL-10 acts as a rheostat, controlling nitric oxide production to preserve mitochondrial function and maintain metabolic balance during M1 differentiation."
+
+  21. Species-Specific Transcriptional Regulation of Genes Involved in Nitric Oxide Production and Arginine Metabolism in Macrophages
+     Rachel Young; Stephen J. Bush; Lucas Lefevre; Mary E. B. McCulloch; Zofia M. Lisowski; Charity Muriu...
+     PMC6245571 · PMC · 2018-11-05 · 52 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6245571/
+     Matched: RNA-seq analysis of genes involved in arginine metabolism · cat /papers/PMC6245571/content.lines --lines 31-32
+     │ There are several possible reasons why macrophages might not make detectable NO, even if
+     │ NOS2 mRNA is induced. We therefore examined the expression of all relevant genes in each of
+     │ the species. For comparison across species, we chose the 7 h time point following LPS
+     │ addition, consistent with a previous comparative analysis of mouse, pig, and human (12). In
+     │ the current study, we included rat, rather than mouse, as a positive control rodent species,
+     │ in part also to determine whether the mouse is representative as a rodent species (see
+     │ Introduction). Fig. 2 summarizes the pathways of mammalian arginine metabolism, and Table I
+     │ shows the expression levels of transcripts encoding enzymes …
+     "This study analyzed gene expression related to nitric oxide production in macrophages from various species. Macrophage responses to LPS stimulation, including NOS2 induction, are not conserved across species and may be influenced by retrotransposon insertions."
+
+  22. Monocyte infiltration induces CNS arginine catabolism to fuel neuroinflammation
+     Martina Kerndl; Laszlo Musiejovsky; Andrea Komljenovic; Hon Shing Lam; Andrea Vogel; Tobias Bausbach...
+     PMC13310764 · Nature Immunology · 2026-05-18 · 0 citations
+     https://doi.org/10.1038/s41590-026-02516-4
+     Matched: Lipid-laden ARG1+ Mdcs regulate redox homeostasis via arginine · cat /papers/PMC13310764/content.lines --lines 53-54
+     │ To gain insights into ARG1+ Mdcs at a single-cell level, we next used a publicly available
+     │ single-cell RNA-seq (scRNA-seq) data set encompassing animals at various EAE stages, which
+     │ identified multiple disease-associated cell populations, including five myeloid clusters[45]
+     │ (Extended Data Fig. 6a). This revealed predominant and specific Arg1 in a cluster (cluster
+     │ 2) rich in typical monocyte and macrophage markers, including Ly6i, Ly6c2 and Lyz2(refs.
+     │ [4],[5]; Fig. 4e and Extended Data Fig. 6b). Specific analysis of myeloid cell clusters
+     │ revealed that clusters 1 and 3 expressed typical microglial markers P2ry12 and Hexb, whereas
+     │ cluster 18 expressed CAM-identifying genes, Mrc1 and …
+     "Inflammatory responses are associated with recruitment of monocyte-derived cells (Mdcs) into tissues. Although tissue-specific Mdc reprogramming is well established, how Mdc infiltration alters tissue"
+
+  23. Macrophages from naked mole-rat possess distinct immunometabolic signatures upon polarization
+     Ekaterina A. Gorshkova; Ekaterina O. Gubernatorova; Ekaterina M. Dvorianinova; Taisiya R. Yurakova; ...
+     PMC10154529 · PMC · 2023-04-19 · 15 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10154529/
+     Matched: Discussion · cat /papers/PMC10154529/content.lines --lines 97-98
+     │ Gch1, encoding GTP cyclohydrolase 1, is involved in iNOS co-factor tetrahydrobiopterin (BH4)
+     │ formation. BMDM obtained from Gch1 and Nos2 knockout mice showed that basal and ATP-linked
+     │ respiration were largely maintained in M1-polarized cells in the absence of NO, moreover,
+     │ these cells had lower levels of extracellular lactate (56). NO-deficient murine BMDM
+     │ actively produced itaconate and IL-1β. This was further supported by transcriptomic analysis
+     │ of NMR BMDM, which identified Acod1 and Il1b among top-10 upregulated genes in M1 vs M0 (
+     │ Figure 6D , Supplementary Table 1 ). However, DEG analysis of mouse datasets (GSE103958
+     │ (47)) revealed similar logFC values for these genes in M1 compared to …
+     "This study examined the immunometabolic signatures of naked mole-rat macrophages upon polarization. Naked mole-rat M1 macrophages exhibit species-specific transcriptional and metabolic reprogramming, differing from murine M1."
+
+  24. Gene expression patterns associated with Leishmania panamensis infection in macrophages from BALB/c and C57BL/6 mice
+     Carlos M. Restrepo; Alejandro Llanes; Lizzi Herrera; Esteban Ellis; Ricardo Lleonart; Patricia L. Fe...
+     PMC7932533 · PMC · 2021-02-22 · 11 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7932533/
+     Matched: Discussion · cat /papers/PMC7932533/content.lines --lines 94-95
+     │ Additional findings associated with arginine metabolism and the regulation of cell cycle
+     │ also suggest two distinct expression patterns in C57BL/6 and BALB/c macrophages. For
+     │ instance, the fold change of arginase 1 (Arg1), an enzyme that competes with nitric oxide
+     │ synthase for its substrate, arginine, was higher in C57BL/6 than BALB/c macrophages.
+     │ Induction of arginase causes arginine depletion, which leads to suppressed T cell and NK
+     │ cell proliferation and proinflammatory cytokine secretion, promoting shifting of macrophages
+     │ to an alternative M2 activation [5,44]. However, transcript levels of the cationic amino
+     │ acid transporter CAT2, a protein involved in arginine uptake, were only …
+     "This study analyzed gene expression in macrophages from two mouse strains infected with *Leishmania panamensis*. C57BL/6 macrophages showed an M1-like inflammatory response, while BALB/c macrophages displayed an intermediate inflammatory response."
+
+  25. Transcriptomic profile of TiO2 particle overload in rat alveolar macrophages: examining responses between P25 and two pigment grade particles in vitro
+     Laeticia Perez; Jérôme Ambroise; Bertrand Bearzatto; Yousof Yakoub; Mihaly Palmai-Pallag; Caroline B...
+     PMC12534340 · PMC · 2025-08-21 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12534340/
+     Matched: Discussion · cat /papers/PMC12534340/content.lines --lines 69-70
+     │ The function/activity of some of these 128 genes was related to a decrease in phagocytic and
+     │ efferocytic (phagocytosis of apoptotic cells) activity of the AM, indicating that AM were
+     │ likely functionally overloaded, as well as potential impairment of T lymphocyte activation
+     │ and differentiation. The functions of these genes are highly similar to those of the 18
+     │ genes specifically modulated by P25 and carbon black (Printex 90) particle overload in
+     │ previous work (Perez et al. 2025), suggesting that these functions are critical in the
+     │ responses of overloaded rat AM. In addition, some genes significantly modulated by P25
+     │ overload suggest a metabolic reprogramming of the AM towards a …
+     "This study examined the transcriptomic responses of rat alveolar macrophages to different grades of TiO2 particles. A previously identified 18-gene signature for TiO2 overload was observed across all grades, but pigment grades required much higher exposure levels to elicit a response."
+
+  26. Self‐Assembled Myricetin‐Arginine Conjugate Nanozymes for Targeted Suppression of Joint Inflammation and Osteoclastogenesis in Rheumatoid Arthritis
+     Jiachang Hong; Penghao Ji; Jinxi An; Junchao Huang; Ziheng Bu; Xudong Zhang; Wei Liu; Tingyu Wu; Sen...
+     PMC12970193 · PMC · 2026-01-05 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12970193/
+     Matched: In Vitro Targeting and Anti‐Oxidative Performance of MANZs · cat /papers/PMC12970193/content.lines --lines 23-24
+     │ The in vitro cellular biocompatibilities of Myr, Arg, and MANZs for macrophages were
+     │ evaluated using Cell Counting Kits‐8. Bone marrow‐derived macrophages (BMDMs) were incubated
+     │ with MANZs at varied concentrations (0, 5, 10, 20, 40, 80, 100, 120, 150, 200 µg/mL) for 24
+     │ or 48 h. Negligible toxicity on cell viability was observed (Figure S9). Additionally, Arg
+     │ at 1,600 µg/mL showed no toxic effect on BMDMs viability after 24 h, whereas Myr at 100
+     │ µg/mL reduced viability to approximately 90% after 24 h (Figure S10). To investigate the
+     │ targeted cellular uptake of MANZs, FITC‐labeled MANZs (MANZs‐FITC) were co‐incubated with
+     │ BMDMs under distinct polarization conditions. Confocal laser scanning …
+     "Rheumatoid arthritis (RA) is a chronic autoimmune disorder characterized by synovial inflammation and progressive joint destruction driven by macrophage polarization and osteoclast activation. Current"
+
+  27. Dermal fibroblast cultures recapitulate differences between deermice and mice in responses to a Toll-like receptor agonist
+     Jonathan V. Duong, Aqsa Motiwala, William J. Hotz, Landen Gozashti, Anthony D. Long, Alan G. Barbour...
+     bio_ab3d33c56c7b · bioRxiv · 2025-07-16 · 1 citation (all versions)
+     Published (2025): https://doi.org/10.1101/2025.07.16.665222
+     Matched: Nitric oxide and arginine metabolism pathways · cat /papers/bio_ab3d33c56c7b/content.lines --lines 43-45
+     │ A notable finding in prior studies of P. leucopus and M. musculus animals in response to LPS
+     │ was a dichotomy between species in the blood and spleen in relationship between expression
+     │ of nitric oxide synthase 2 (Nos2) and arginase 1 (Arg1) ( 19 , 20 ). Deermice under
+     │ treatment displayed a high Arg1-to-Nos2 ratio, which was consistent with the profile for
+     │ alternatively activated (or M2) macrophages. The mice instead had an inverted ratio of
+     │ Arg1-to-Nos2, which is more typical for classically activated macrophage (or M1)
+     │ polarization ( 38 , 39 ). The demonstration that LPS-treated, low passage fibroblasts of P.
+     │ leucopus did manifest transcription of Nos2 above baseline values indicated …
+     "Dermal fibroblast cultures from deermice and mice were exposed to a TLR2 agonist to assess immune responses. Deermouse fibroblasts showed distinct gene expression profiles, maintained viability longer, and had less ERV/TE transcription compared to mouse fibroblasts."
+
+  28. Cytochrome P450 26A1 Modulates the Polarization of Uterine Macrophages During the Peri-Implantation Period
+     Wen-Heng Ji; Dan-Dan Li; Dan-Ping Wei; Ai-Qin Gu; Ying Yang; Jing-Pian Peng
+     PMC8546204 · PMC · 2021-10-12 · 11 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8546204/
+     Matched: CYP26A1 Knockout Changed the Transcription Profiles of Raw264.7 Cells · cat /papers/PMC8546204/content.lines --lines 83-84
+     │ In order to conduct a more comprehensive assessment of the effect of CYP26A1 on macrophages.
+     │ We performed global transcriptome analysis through RNA-Seq in CYP26A1−/− (KO) and WT
+     │ Raw264.7 cells treated with LPS and IFN-γ for 4 h. Sequencing results showed that there were
+     │ 463 DEGs between KO and WT groups (Fold change ≥ 2; P value ≤ 0.05), including 152
+     │ upregulated genes and 311 downregulated genes (Figure 7A). Volcano plot and hierarchical
+     │ clustering demonstrated that KO group had different gene expression patterns compared with
+     │ the WT group (Figures 7B, C). We performed gene overlap relationship analysis on the top 15
+     │ pathways enriched by KEGG (Figure 7D). In addition, the top 36 …
+     "This study investigated how Cytochrome P450 26A1 (CYP26A1) affects uterine macrophage polarization. CYP26A1 is crucial for M1 macrophage polarization, and its deficiency impairs embryo implantation."
+
+  29. Analysis of the Progeny of Sibling Matings Reveals Regulatory Variation Impacting the Transcriptome of Immune Cells in Commercial Chickens
+     Lucy Freem; Kim M. Summers; Almas A. Gheyas; Androniki Psifidi; Kay Boulton; Amanda MacCallum; Rakhi...
+     PMC6870463 · PMC · 2019-11-14 · 13 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6870463/
+     Matched: Analysis of Variation in Gene Expression in Bone Marrow-Derived Macrop · cat /papers/PMC6870463/content.lines --lines 94-95
+     │ The expression of known macrophage-specific genes (Bush et al., 2018) including CSF1R and
+     │ the transcription factor SPI1 was high and invariant among all the samples, supporting the
+     │ consistency and relative purity of these macrophage populations. Amongst the averaged data
+     │ for the 8461 transcripts that were expressed >10 TPM in at least 1 BMDM sample, 872 were
+     │ induced >2-fold and 697 were repressed >2-fold by LPS. The most highly-inducible genes
+     │ included LPS-responsive transcription factor genes BATF3, HIF1A, IRF1, IRF8 and feedback
+     │ regulators including CISH, SOCS3 and TNFAIP3. Chicken BMDM, like BMDM from rodents, take up
+     │ arginine and produce large amounts of nitric oxide in response to LPS …
+     "Sibling matings in commercial chickens were used to identify extreme allelic variation in immune cell gene expression. Significant differences in gene expression were observed, suggesting regulatory variation impacts immune function."
+
+  30. T-Cell Synaptosomes Orchestrate Long-Term Anti-Tumor Immunity via Proliferative and Metabolic Reprogramming
+     Sun-Kyoung Kang, Na-Young Kim, Sunghee Lee, Hyeonhee Lee, Won-Chang Soh, Jeong-Su Park, Hee-Tae Kang...
+     bio_7f8b3f236f1d · bioRxiv · 2025-11-06 · 1 citation (all versions)
+     Published (2025): https://doi.org/10.1101/2025.11.06.687075
+     Matched: 4-TIS preferentially reprograms peritoneal macrophages and drives a pr · cat /papers/bio_7f8b3f236f1d/content.lines --lines 38-39
+     │ To define the cellular programs induced by TIS, we performed single-cell RNA sequencing of
+     │ peritoneal cells from PBS-, LPS-, or TIS-treated mice. UMAP clustering revealed that TIS
+     │ markedly remodeled the peritoneal immune landscape, most prominently within the
+     │ monocyte–macrophage compartment ( Figures 3A–3C ) 20 . A proliferating macrophage (PM)
+     │ cluster emerged exclusively in TIS-treated mice, enriched for cell-cycle genes such as Mki67
+     │ , Top2a , and Birc5 ( Figures 3C, 3G , and S9B). Canonical markers confirmed cluster
+     │ identities (Figure S8), and pathway analyses indicated that TIS-associated macrophages
+     │ adopted a metabolically active, regulatory phenotype distinct from the acute …
+     "T-cell synaptosomes (TIS) were studied for their in vivo functions after release onto antigen-presenting cells. TIS reprogram phagocytic cells to promote long-term anti-tumor immunity, demonstrating potential as an immunotherapeutic platform."
+
+  31. You are what you eat: How to best fuel your immune system
+     Charlotte Hellmich; Edyta E. Wojtowicz
+     PMC9533172 · PMC · 2022-09-20 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9533172/
+     Matched: Protein/amino acids · cat /papers/PMC9533172/content.lines --lines 23-24
+     │ Activation of immune cells relies on specific amino acids, which are signaling molecules or
+     │ provide metabolites (for TCA) and are not only involved in protein synthesis.Activated T
+     │ cells upregulate amino acid transporter expression (45–47) required for rapid proliferation,
+     │ translation of critical cytokines and adhesion molecules. CD4 and CD8+ T cells have similar
+     │ repertoire of nutrient transporters, however differ in their expression level, where CD4+
+     │ have less copies of them which can underlie lower proliferative capacity compared to CD8+ T
+     │ cells (47, 48). In addition innate immune cells, particularly activated macrophages, heavily
+     │ depend on arginine uptake via CAT2 (49), while resting …
+     "This review examines how dietary nutrients like fatty acids, carbohydrates, and proteins impact bone marrow and immune cell function. Optimal nutrition supports immune responses and recovery, while poor diets can cause inflammation and impair immunity."
+
+  32. Heterogeneity of Microglial Activation in the Innate Immune Response in the Brain
+     Carol A. Colton
+     PMC2773116 · PMC · 2009-08-05 · 770 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2773116/
+     Matched: Decreased NOS2 · cat /papers/PMC2773116/content.lines --lines 63-64
+     │ Macrophages and other cell types (neurons, endothelial cells, astrocytes) that coexpress NOS
+     │ and arginase demonstrate a reciprocal relationship between NO production and ornithine
+     │ production during the innate immune response. The inverse association of arginase and NOS is
+     │ based on the requirement of these two enzyme systems for arginine, the sole substrate of
+     │ each enzyme (Morris et al. 1998; Morris 2004b). Essentially, NOS and arginase compete for
+     │ available intracellular arginine. While this does not seem likely based on Km values for the
+     │ two enzymes (Km NOS = 3–10 μM; Km arginase = 3–10 mM), the time course of induction and the
+     │ 1,500-fold greater Vmax of arginase gives ornithine formation …
+     "This review examines microglial activation heterogeneity in the brain's innate immune response. It discusses how alternative activation and acquired deactivation states contribute to resolving inflammation and repairing brain tissue."
+
+  33. AMPK integrates metabolite and kinase-based immunometabolic control in macrophages
+     Iain R. Phair; Raid B. Nisr; Andrew J.M. Howden; Magdalena Sovakova; Noor Alqurashi; Marc Foretz; Do...
+     PMC9842865 · PMC · 2022-12-28 · 26 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9842865/
+     Matched: Integration of AMPK-based and metabolite-based immunometabolic control · cat /papers/PMC9842865/content.lines --lines 78-81
+     │ Arginine metabolism plays a pivotal role in macrophage polarisation. Consistent with our
+     │ observation of elevated levels of proteins associated with M1 macrophages in AMPKα1 KO
+     │ cells, we also observed increased expression of the inducible arginine transporter CAT2,
+     │ iNOS and ASS1, as well as elevated levels of NO production in AMPKα1 KO macrophages
+     │ following LPS treatment. These data suggest that AMPK acts as a brake on arginine metabolism
+     │ in M1 macrophages, limiting arginine uptake and nitric oxide production. It is plausible
+     │ that this difference could contribute to the observed changes in respiratory capacity
+     │ described above but WT and AMPKα1 KO macrophages were similarly able to switch …
+     "AMPK's role in integrating metabolite and kinase-based immunometabolic control in macrophages was studied using proteomics and gene knockout. AMPKα1 deletion leads to M1 hyperpolarization and altered metabolic enzyme expression and function upon LPS stimulation."
+
+  34. Metabolic modulation of immune cell function: mechanisms and therapeutic implications in cancer immunotherapy
+     Nina Fenouille; Camille Lobry; Lina Benajiba; Alexandre Puissant
+     PMC13315717 · PMC · 2026-05-07 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13315717/
+     Matched: Direct metabolic regulation of macrophages differentiation and functio · cat /papers/PMC13315717/content.lines --lines 78-81
+     │ Macrophages are highly adaptable innate immune cells that adjust their phenotype in response
+     │ to environmental cues, allowing them to balance antimicrobial defense and tissue repair with
+     │ associated inflammation and tissue damage. In vivo, macrophage activation reflects a
+     │ combination of monocyte-to-macrophage developmental pathways, tissue-specific cues that vary
+     │ across organs and local inflammatory conditions, and polarizing signals provided by
+     │ cytokines and modulated by metabolites [137]. A simplified framework has divided macrophages
+     │ into two polarized states that can be reproducibly induced in vitro: classically-activated
+     │ pro-inflammatory M1 macrophages, which are induced by Toll-like …
+     "Immune cell function is remarkably plastic, allowing T cells, NK cells, and macrophages to transition from resting or quiescent states to proliferative, cytotoxic, or inflammatory programs. These func"
+
+  35. PEDF Is Associated with the Termination of Chondrocyte Phenotype and Catabolism of Cartilage Tissue
+     P. Klinger; S. Lukassen; F. Ferrazzi; A. B. Ekici; T. Hotfiel; B. Swoboda; T. Aigner; K. Gelse
+     PMC5278211 · PMC · 2017-01-16 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5278211/
+     Matched: Supplementary Material · cat /papers/PMC5278211/content.lines --lines 88-119
+     │ TLR2 | Toll-like receptor 2 | 4.99 | 8.76E − 58 CST2 | Cystatin SA | 4.62 | 2.95E − 14
+     │ CHI3L2 | Chitinase 3-like 2 | 4.44 | 2.82E − 68 SLC7A2 | Solute carrier family 7 (cationic
+     │ amino acid transporter), member 2 | 4.37 | 2.65E − 72 RELB | V-rel avian
+     │ reticuloendotheliosis viral oncogene homolog B | 4.05 | 2.58E − 24 IL34 | Interleukin 34 |
+     │ 3.86 | 3.32E − 18 CSF1 | Colony stimulating factor 1 (macrophage) | 3.82 | 1.62E − 53
+     │ TNFAIP8 | Tumor necrosis factor, alpha-induced protein 8 | 3.77 | 1.17E − 17 WTAP | Wilms
+     │ tumor 1 associated protein | 3.71 | 5.00E − 47 VNN3 | Vanin 3 | 3.66 | 3.56E − 10 ELF3 |
+     │ E74-like factor 3 (ETS domain transcription factor, epithelial-specific) | 3.60 | 1.61E − 11
+     │ …
+     "Pigment epithelium-derived factor (PEDF) was studied in cartilage tissues and chondrocytes. PEDF promotes cartilage degradation by increasing matrix-degrading factors and decreasing cartilage-specific genes."
+
+  36. Kicking sleepers out of bed: Macrophages promote reactivation of dormant Cryptococcus neoformans by extracellular vesicle release and non-lytic exocytosis
+     Raffael Júnio Araújo de Castro; Clara Luna Marina; Aude Sturny-Leclère; Christian Hoffmann; Pedro He...
+     PMC10715671 · PMC · 2023-11-30 · 19 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10715671/
+     Matched: VBNC cells neither induce the production of nitric oxide nor neutraliz · cat /papers/PMC10715671/content.lines --lines 41-42
+     │ The inducible nitric oxide synthase (INOS) enzyme responds to C. neoformans infection by
+     │ catalyzing the hydrolysis of arginine into nitric oxide (NO), thus enabling the macrophage
+     │ to control the growth and eliminate the yeast [36,62]. In this study, we observed that
+     │ Slc7a1 and Slc7a2 genes, the main transporters for arginine acquisition [63], were
+     │ positively regulated in LOG and STAT conditions, but not in VBNC as observed in the RNAseq
+     │ analysis (Fig 5A and 5B). In addition, all physiological states of C. neoformans induced an
+     │ alternative pathway for arginine obtention by the recycling of citrulline, which is produced
+     │ concomitantly with NO by INOS, and converted back into arginine by …
+     "Macrophages were studied for their role in reactivating dormant *Cryptococcus neoformans*. M0 and M2 macrophages promote fungal reactivation via extracellular vesicles and non-lytic exocytosis, while M1 macrophages do not."
+
+  37. Macrophages and the maintenance of homeostasis
+     David M. Mosser; Kajal Hamidzadeh; Ricardo Goncalves
+     PMC7491045 · PMC · 2020-09-15 · 490 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7491045/
+     Matched: Cytokines · cat /papers/PMC7491045/content.lines --lines 23-50
+     │ Table 1: Gene expression induced by IL-4 treatment of mouse macrophages Symbol | Name | Log
+     │ FC2 | Adj. P-value | Human (FC2)* Chil3** | Chitinase-like 3 (Ym1) | 8.7 | 9.1−13 | x Cd209e
+     │ | CD209e antigen | 6.9 | 1.9−6 | 3.16 Itgb3 | Integrin beta 3 | 6.8 | 7.8−9 | - Ear11 |
+     │ Eosin-associated ribonuclease A | 6.3 | 8.5−6 | - Flt1 | FMS tyrosine kinase | 6.3 | 4.9−7 |
+     │ - Serpina3g | Serine peptidase inhibitor | 6.21 | 6.2−7 | - Chi3l4 | Chitinase 3-like 4 |
+     │ 5.9 | 6.5−6 | - Pdcd1lg2 | Programmed cell death 1 ligand 2 | 5.7 | 2.3−10 | 1.25 Slc7a2 |
+     │ Solute carrier family 7 | 5.7 | 3.3−8 | - Cdh1 | Cadherin 1 | 5.4 | 1.8−7 | - Ntrk1 |
+     │ Neurotrophic TKR type 1 | 5.4 | 1.9−4 | - Tmem26 | Transmembrane …
+     "This chapter proposes macrophages act as cellular transducers. They sense environmental cues and translate them into responses to maintain tissue homeostasis."
+
+  38. Dermal fibroblast cultures recapitulate differences between deermice and mice in their responses to a Toll-like receptor agonist
+     Jonathan V. Duong; Aqsa Motiwala; William J. Hotz; Landen Gozashti; Anthony D. Long; Alan G. Barbour
+     PMC12623179 · PMC · 2025-11-04 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12623179/
+     Matched: Nitric oxide and arginine metabolism pathways · cat /papers/PMC12623179/content.lines --lines 156-158
+     │ A notable finding in prior studies of P. leucopus and M. musculus animals in response to LPS
+     │ was a dichotomy between species in the blood and spleen in the relationship between the
+     │ expression of nitric oxide synthase 2 (Nos2) and arginase 1 (Arg1) (19, 20). Deermice under
+     │ treatment displayed a high Arg1-to-Nos2 ratio, which was consistent with the profile for
+     │ alternatively activated (or M2) macrophages. The mice instead had an inverted ratio of
+     │ Arg1-to-Nos2, which is more typical for classically activated macrophage (or M1)
+     │ polarization (38, 39). The demonstration that LPS-treated, low-passage fibroblasts of P.
+     │ leucopus did manifest transcription of Nos2 above baseline values indicated that …
+     "Dermal fibroblast cultures from deermice and mice were studied for their responses to a TLR2 agonist. Deermouse fibroblasts showed distinct immune responses and stable growth, unlike mouse fibroblasts."
+
+  39. Umbilical cord gene expression reveals the molecular architecture of the fetal inflammatory response in extremely preterm newborns
+     Daniel Costa; Robert Castelo
+     PMC4823644 · PMC · 2015-12-02 · 11 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4823644/
+     Matched: # **References** · cat /papers/PMC4823644/content.lines --lines 8208-8225
+     "Umbilical cord gene expression was analyzed to understand the fetal inflammatory response (FIR) in extremely preterm newborns. FIR is associated with widespread gene expression changes, including inflammation and suppressed neurodevelopmental pathways, suggesting a role in neonatal brain damage."
+
+  40. Metabolic reprogramming of myeloid‐derived suppressor cells: An innovative approach confronting challenges
+     Xiaoqing Li; Yixue Li; Qinru Yu; Pengxu Qian; He Huang; Yu Lin
+     PMC8361984 · PMC · 2021-06-02 · 35 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8361984/
+     Matched: Arginine · cat /papers/PMC8361984/content.lines --lines 126-128
+     │ Arginine metabolism plays an important role in regulating innate and adaptive immune
+     │ responses, and determining the immunologic fate of MDSCs. Breakdown of arginine into
+     │ l‐ornithine and urea by Arg1 leads to arginine starvation, whereas NOS‐mediated metabolism
+     │ generates citrulline and NO resulting in nitrosative stress.[82], [83] Arginine deprivation
+     │ leads to T‐cell dysfunction via CD3ζ down‐regulation and cell cycle blockade at the G0–G1
+     │ phase.[84] Also, lacking Arg results in a decreased initiation of global protein
+     │ synthesis.[85], [86] In addition, MDSCs can steer DCs toward an IDO1‐dependent
+     │ immunosuppressive phenotype via the Arg1 pathway.[87] Cancer cells trigger Arg1 expression
+     │ in …
+     "This review discusses metabolic pathways in myeloid-derived suppressor cells (MDSCs) within disease microenvironments. Metabolic reprogramming significantly influences MDSC function and presents a potential therapeutic target."
+
+[213ms, saved to s_8e75cebf]
+
+💡 Extract data across these results with: map --from s_8e75cebf "your question"
+[213ms, saved to s_8e75cebf]  [repo: mva-lof-molecular]
+

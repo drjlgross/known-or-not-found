@@ -1,0 +1,6 @@
+$ src/pc.sh results s_2b81de83
+# exit 0
+  Query: filter 'Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Col27a1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes in response to LPS or bacterial infection?' --from s_2b81de83
+Found 0 papers  [s_2b81de83]
+
+

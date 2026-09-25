@@ -1,0 +1,4 @@
+$ src/pc.sh results m_e514333a --save /Users/julia/known-or-not-found/results/search/pilot2/A_named_lenient/Rnd1/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/pilot2/A_named_lenient/Rnd1/map_answers.txt
+

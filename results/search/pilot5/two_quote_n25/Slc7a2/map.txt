@@ -1,0 +1,197 @@
+$ src/pc.sh map --from s_fc701b3c --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Slc7a2 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_e6965592
+
+  ✓ Species-Specific Transcriptional Regulation of Genes Involved in Nitri
+    PMC6245571 · 1500ms
+    {
+      "answer": "yes",
+      "evidence": "In rats, as in mice (19), LPS greatly increased (18-fold) expression of the cationic amino acid transporter, Slc7a2, whereas goats were the only large animal species in which SLC7A2 mRNA was detectable (TPM 6) and regulated to any degree by LPS, with an induced level (TPM≈16) still lower than the basal level in the rat (TPM 46).",
+      "context": "Cells were treated with LPS from Salmonella enterica serotype Minnesota Re 595 (Sigma-Aldrich) for 7 and 24 h at a final concentration of 100 ng/ml for large animals and 10 ng/ml for rats."
+    }
+
+  ✓ FOCIS abstract supplement
+    PMC7128890 · 2791ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ The NF-κB-SLC7A11 axis regulates ferroptosis sensitivity in inflammato
+    PMC12268560 · 1379ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Characterisation of genes differentially expressed in macrophages by v
+    PMC6411972 · 1273ms
+    {
+      "answer": "yes",
+      "evidence": "Among them, we found that solute carrier family 7 member 2 (Slc7a2) was significantly overexpressed (about 17.4 times) in Ra compared with Rv (Fig. 2B).",
+      "context": "To investigate global gene expression patterns and induction of the innate immune response in BMDMs infected with Rv or Ra, we performed genome-wide expression analysis using RNA-Seq."
+    }
+
+  ✓ Amino acid transporters within the solute carrier superfamily: Underap
+    PMC11112377 · 1582ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(
+    PMC7053374 · 965ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Exosomal miR-148a-3p from LPS-Activated Macrophages Promotes M1 Polari
+    PMC13199726 · 1203ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Cationic Amino Acid Transporter 2 Enhances Innate Immunity during Heli
+    PMC3237590 · 1677ms
+    {
+      "answer": "yes",
+      "evidence": "While iNOS protein expression was induced in infected wild type mice, levels were substantially decreased in infected CAT2−/− mice (Figure 3A).",
+      "context": "We also examined changes to macrophages and iNOS after 4 months of infection. We isolated protein from gastric tissue lysates and performed Western blotting to detect iNOS."
+    }
+
+  ✓ l-Arginine Uptake by Cationic Amino Acid Transporter Promotes Intra-Ma
+    PMC5526900 · 1472ms
+    {
+      "answer": "yes",
+      "evidence": "L56: However, from the semi-quantitive PCR data, it was observed that in case of Leishmania infection to THP-1, the expression of CAT-2B transcript was increased by ~2.8-fold in l-arginine-supplemented condition and ~5.8-fold in l-arginine-depleted condition (Figure 2A).",
+      "context": "L54: THP-1-derived macrophages and hMDM were cultured in l-arginine-depleted as well as l-arginine-supplemented RPMI media and infected with L. donovani parasite for 48 h."
+    }
+
+  ✓ “Of Mice and Men”: Arginine Metabolism in Macrophages
+    PMC4188127 · 1009ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Sulfur metabolic response in macrophage limits excessive inflammatory 
+    PMC10412850 · 1079ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Slc7a11‐Mediated Cystine/Glutamate Antiport Reprograms Macrophage Pola
+    PMC12950507 · 1451ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ In Lysinuric Protein Intolerance system y+L activity is defective in m
+    PMC2999609 · 1076ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ A new metabolomic assay to examine inflammation and redox pathways fol
+    PMC3507808 · 1332ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Frontline Science: LPS‐inducible SLC30A1 drives human macrophage‐media
+    PMC7891337 · 1123ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Species-Specificity of Transcriptional Regulation and the Response to 
+    PMC7386301 · 1069ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Cationic Amino Acid Transporter-2 Regulates Immunity by Modulating Arg
+    PMC2265428 · 8002ms
+    {
+      "answer": "yes",
+      "evidence": "L16: Several pro-inflammatory mediators including LPS can regulate the expression of CAT2; thus, it likely functions as the key L-arginine transporter during inflammatory responses.",
+      "context": "L76: Cells were stimulated for 16 hr with combinations of IL-4, IL-13, and GMCSF (20 ng/ml), IFN\u0339 (100 U/mL), or LPS (100 ug/mL)( Peprotech)."
+    }
+
+  ✓ Downregulation of SLC7A7 Triggers an Inflammatory Phenotype in Human M
+    PMC5868322 · 1070ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Single-cell to pre-clinical evaluation of Trem2, Folr2, and Slc7a7 as 
+    PMC12713647 · 992ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Solute Carrier Family 37 Member 2 (SLC37A2) Negatively Regulates Murin
+    PMC7232099 · 1686ms
+    {
+      "answer": "yes",
+      "evidence": "L21: Interestingly, LPS rapidly increased SLC37A2 protein level in wild-type (WT) bone marrow-derived macrophages (BMDMs) at 1 h.",
+      "context": "L22: Figure 1: Deletion of SLC37A2 Promotes Macrophage Pro-Inflammatory Activation (A) SLC37A2 protein expression in WT bone marrow-derived macrophages (BMDMs) treated with 100 ng/mL LPS for 0–48 h, measured by western blotting."
+    }
+
+  ✓ Role of SLC7A5 in Metabolic Reprogramming of Human Monocyte/Macrophage
+    PMC5788887 · 1106ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Hematopoietic Cell-Specific SLC37A2 Deficiency Accelerates Atheroscler
+    PMC8702732 · 1403ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Loss of Solute Carrier Family 7 Member 2 Exacerbates Inflammation-Asso
+    PMC6377304 · 1704ms
+    {"answer": "yes", "evidence": "However, there was increased nitric oxide (NO) production (measured as NO2\u2013) in the Slc7a2\u2013/\u2013 cells, consistent with the loss of L-Arg availability due to deletion of the SLC7A2 transporter, as we have described in a macrophage cell line with knockdown of Slc7a2[40].", "context": "BMmacs were isolated and differentiated from murine femurs as previously described[37], [38], [44]. Differentiated BMmacs were stimulated with classical M1 stimuli, IFN-\u0333 (200 U/mL) and LPS (100 ng/mL), or M2 stimuli, IL-4 (10 ng/mL) and IL-10 (10 ng/mL), for 24 hours as described[37]."}
+
+  ✓ Expression and Regulation of the Proton-Coupled Oligopeptide Transport
+    PMC4051248 · 986ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Aberrant Expression of SLC7A11 Impairs the Antimicrobial Activities of
+    PMC11077379 · 1322ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[21.6s, saved to m_e6965592]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  0/25 papers  run m_e6965592  [2s]
+  [########............]  11/25 papers  run m_e6965592  [4s]
+  [##############......]  18/25 papers  run m_e6965592  [6s]
+  [################....]  20/25 papers  run m_e6965592  [8s]
+  [#################...]  22/25 papers  run m_e6965592  [10s]
+  [####################]  25/25 papers  run m_e6965592  [13s]
+  [####################]  25/25 papers  run m_e6965592  [21s]
+

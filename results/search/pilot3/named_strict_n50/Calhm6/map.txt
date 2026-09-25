@@ -1,0 +1,343 @@
+$ src/pc.sh map --from s_c2fc0cdd --limit 50 -j 50 --output-schema {"type": "object", "required": ["answer", "evidence"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Calhm6 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes in response to LPS or bacterial infection? Answer yes or no. If yes, quote the sentence reporting that result; it must name the gene or its protein. Use an empty string if no.
+# exit 0
+Map complete: 50/50 papers
+Results ID: m_2098eb53
+
+  ✓ Calhm6 Governs Macrophage Polarization Through Chp1‐Camk4‐Creb1 Axis a
+    PMC12766987 · 1097ms
+    {"answer": "yes", "evidence": "We found that the ion channel of Calhm6 is significantly induced by LPS and wrapped in ectosomes (Figure 1E; Figure S1A, Supporting Information)."}
+
+  ✓ HDAC6 Deacetylase Activity Is Critical for Lipopolysaccharide-Induced 
+    PMC4199742 · 1206ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 985ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(
+    PMC7053374 · 893ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Macrophages release neuraminidase and cleaved calreticulin for program
+    PMC12130849 · 991ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Epigenetic profile in lipopolysaccharide-stimulated macrophages
+    PMC3953056 · 894ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ The ion channel CALHM6 controls bacterial infection‐induced cellular c
+    PMC10068325 · 1243ms
+    {"answer": "yes", "evidence": "Both LPS and IFN-\u0393 upregulated CALHM6, with high and sustained levels of CALHM6 expression induced by IFN-\u0393, while LPS-induced expression was lower and transient over 48 h (Fig 1D)."}
+
+  ✓ Store-operated calcium entry facilitates LPS-induced superoxide anion-
+    PMC12308322 · 1037ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Resolving macrophage polarization through distinct Ca2+ entry channel 
+    PMC8591423 · 1575ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Ionized calcium‐binding adaptor molecule 1 positive macrophages and HO
+    PMC5484384 · 879ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Monocyte normal immune response to LPS stimulation
+    PMC3333514 · 851ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Inhibition of Extracellular Calcium Influx Results in Enhanced IL-12 P
+    PMC4904125 · 926ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Structure and assembly of calcium homeostasis modulator proteins
+    PMC7015811 · 846ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Correction to “Calhm6 Governs Macrophage Polarization Through Chp1‐Cam
+    PMC13383683 · 778ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Microglial Calhm2 regulates neuroinflammation and contributes to Alzhe
+    PMC8386937 · 1092ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Baicalin Modulates Inflammatory Response of Macrophages Activated by L
+    PMC9563021 · 877ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ CTRP6 promotes the macrophage inflammatory response, and its deficienc
+    PMC10789631 · 1045ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Moutan Cortex Extract Modulates Macrophage Activation via Lipopolysacc
+    PMC9916843 · 1155ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ miR-106a Targets Anoctamin 1 (ANO1) to Regulate Lipopolysaccharide (LP
+    PMC7556292 · 883ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Dietary targeting of TRPM8 rewires macrophage immunometabolism reducin
+    PMC12032354 · 1405ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Osteocalcin Alleviates Lipopolysaccharide-Induced Acute Inflammation v
+    PMC9138386 · 986ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Calcitonin Peptide Family Members Are Differentially Regulated by LPS 
+    PMC5063294 · 993ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Mitochondrial Calcium Nanoregulators Reverse the Macrophage Proinflamm
+    PMC10046163 · 990ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Selection of reliable reference genes for the normalisation of gene ex
+    PMC5627409 · 898ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Calcium Signaling in Macrophages During a Wound Response In Vivo
+    PMC13206805 · 903ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ CD169+ macrophage intrinsic IL-10 production regulates immune homeosta
+    PMC10123955 · 896ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Intracellular pools of DAG-activated TRPC3 channels are essential for 
+    bio_33eb4688 · 982ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ CD163 deficiency facilitates lipopolysaccharide‐induced inflammatory r
+    PMC7518957 · 892ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LPS inhibits TRIM65 expression in macrophages and C57BL/6J mouse by ac
+    PMC10068263 · 860ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Rubi Fructus Water Extract Alleviates LPS-Stimulated Macrophage Activa
+    PMC7700618 · 858ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Lipin-1-derived diacylglycerol activates intracellular TRPC3 which is 
+    PMC8629864 · 2018ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Calcium trafficking and gastrointestinal physiology following an acute
+    PMC11034434 · 1821ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Efficacy of caerulomycin A in modulating macrophage polarization and c
+    PMC11724434 · 1593ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipopolysaccharide (LPS)-induced Macrophage Activation and Signal Tran
+    PMC2196288 · 1368ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Macrophage phenotype in sepsis immunosuppression
+    PMC4470529 · 1172ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Intracellular Calcium as a Regulator of Polarization and Target Reprog
+    PMC12733035 · 988ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Alleviative Effect of Geniposide on Lipopolysaccharide-Stimulated Macr
+    PMC10855527 · 838ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Origin recognition complex subunit 6 (ORC6) is a key mediator of LPS-i
+    PMC11323635 · 1043ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ M1 Macrophage Polarization Is Dependent on TRPC1-Mediated Calcium Entr
+    PMC6174824 · 913ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Chimeric Peptidomimetic Antibiotic Efficiently Neutralizes Lipopolysac
+    PMC10012172 · 870ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Lomerizine attenuates LPS-induced acute lung injury by inhibiting the 
+    PMC10484514 · 913ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ LPS-induced senescence of macrophages aggravates calcification and sen
+    PMC11232647 · 1257ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Lipocalin-2 Alleviates LPS-Induced Inflammation Through Alteration of 
+    PMC8405166 · 1061ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Nimodipine reduces microglial activation  in vitro  as evidenced by mo
+    bio_3b6c8016 · 881ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Cryo-EM structures of calcium homeostasis modulator channels in divers
+    PMC7439320 · 905ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ TRPC channels blockade abolishes endotoxemic cardiac dysfunction by ha
+    PMC9718841 · 957ms
+    {"answer": "no", "evidence": ""}
+
+  ✓ Cryo-EM structure of the calcium homeostasis modulator 1 channel
+    PMC7439498 · 850ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Mathematical modelling of activation-induced heterogeneity reveals cel
+    bio_206e5a35 · 844ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Protective effect of 6′-Sialyllactose on LPS-induced macrophage inflam
+    PMC11519721 · 1010ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+  ✓ Helminth Induced Suppression of Macrophage Activation Is Correlated wi
+    PMC4094426 · 880ms
+    {
+      "answer": "no",
+      "evidence": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[50.5s, saved to m_2098eb53]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  0/50 papers  run m_2098eb53  [2s]
+  [####................]  10/50 papers  run m_2098eb53  [4s]
+  [#######.............]  19/50 papers  run m_2098eb53  [6s]
+  [##########..........]  25/50 papers  run m_2098eb53  [8s]
+  [##########..........]  27/50 papers  run m_2098eb53  [10s]
+  [############........]  30/50 papers  run m_2098eb53  [12s]
+  [################....]  40/50 papers  run m_2098eb53  [15s]
+  [###################.]  48/50 papers  run m_2098eb53  [17s]
+  [####################]  50/50 papers  run m_2098eb53  [19s]
+  [####################]  50/50 papers  run m_2098eb53  [29s]
+  [####################]  50/50 papers  run m_2098eb53  [39s]
+  [####################]  50/50 papers  run m_2098eb53  [47s]
+  [####################]  50/50 papers  run m_2098eb53  [50s]
+
