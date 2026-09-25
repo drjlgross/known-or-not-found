@@ -32,7 +32,7 @@ Downloads land in `./data/`. Tool output lands in `./results/`. Nothing is ever 
 **Honesty guardrails (these constrain every output).**
 - "Not found" means not found in the top 25 results for this query, on this date. It never means novel, and every output that shows the bin says so.
 - Report the qualifying-paper **count** as the primary number. The rate (count ÷ N) is secondary and never used for binning, because it penalizes heavily studied genes (Tnf appears in many non-LPS contexts).
-- The relevance filter is a model judgment (interpretive). Its calls get hand-checked on a sample and are never treated as ground truth.
+- The relevance filter is a model judgment (interpretive). Its calls get hand-checked on a sample and are never treated as ground truth. The Chunk 3 pilot showed its errors lean toward over-counting (weak or wrong yeses), so "limited" and "established" are set from **hand-confirmed** counts (Chunk 6), not raw model counts.
 - The DE result is only as trustworthy as its positive controls. If canonical LPS genes don't come out strongly induced, the problem is the data or the setup, not the biology.
 - The LPS response depends strongly on time point. Early (about 1–4 h) and late (about 12–24 h) gene sets differ. Record the dataset's time point and judge the positive controls against it.
 
@@ -41,6 +41,7 @@ Downloads land in `./data/`. Tool output lands in `./results/`. Nothing is ever 
 - `rnaseq_de.py` imports `clawbio.common`, so it must run with the ClawBio root on `PYTHONPATH` (or from the ClawBio root). Confirm in Chunk 1.
 - macOS: always invoke `python3`. Bare `python` is not on PATH (except inside an activated virtualenv).
 - Paperclip CLI authenticated. As of v0.5.8, `-s` is **mandatory** on `search`/`searches`; use `-s pmc,biorxiv,medrxiv,arxiv`. Verify `filter` syntax with `--help` before first use. `reduce` was previously unavailable here, so any cross-paper rollup happens in pandas. **Invoke paperclip through `src/pc.sh`**, which strips `.venv` from `PATH`. With the venv active, paperclip's `env python3` shebang picks up the venv Python, which lacks `requests`, and crashes.
+- **Paperclip auto-updates itself** (0.7.52 → 0.7.89 → 0.7.91 during Chunk 3; one update broke `map --output-schema` until a server-side fix). Every run logs `src/pc.sh --version` first. `map --output-schema` works on 0.7.91 even though `map --help` doesn't list it; unknown flags are silently ignored, so check a new version's output before trusting it.
 
 **rnaseq-de rules (load-bearing).**
 - **Force the backend:** always pass `--backend pydeseq2`. With the default `auto`, the skill **silently falls back to a simpler method** if PyDESeq2 is missing or crashes. Every run must confirm, from the output report or result files, which backend actually ran. If the report doesn't say, that's a finding for the Chunk 1 report.
@@ -117,6 +118,16 @@ README.md   # stub at Chunk 1, completed at Chunk 7
 - **Speed:** time per gene × 50 fits within about 2–3 hours using the chosen mechanics. If not, recommend smaller K or N.
 - **Aliases:** one alias-prone gene (Nos2 / iNOS) retrieves papers using either name.
 
+**Chunk 3 outcome (adopted 2026-09-25; see `reports/chunk-3.md`).** The chosen method is Round 5:
+- **Mechanics:** `map` with a JSON schema, not `filter` (`filter` drops the middle tier).
+- **Query:** `"<Symbol> (<MGI official name>) LPS macrophage"`, N = 25.
+- **Judge:** the strict own-data question (`QUESTION_TWO` in `src/search_gene.py`). The model returns a yes/no answer, an `evidence` quote (the result sentence) and an optional `context` quote (methods or legend).
+- **Script checks** on both quotes together, applied by script:
+  - a yes whose quotes don't name the gene is downgraded to no. The names come from MGI plus the HGNC human-ortholog names; for a mouse gene with several human orthologs, only the exact-symbol ortholog's names count.
+  - a yes whose quotes don't name LPS or an infection is downgraded to no.
+  - `verdicts.csv` keeps the model's own answer (`model_answer`), and `summary.json` records `yes_before_checks`.
+- **Command:** `python3 src/search_gene.py --named-query --strict --two-quote --workers 4 -n 25 --outdir <dir> <genes...>`
+
 ### Chunk 4: Run DE on the real dataset ⛔
 **Goal:** A trustworthy ranked table of LPS-induced genes.
 **Produces:** `results/de/lps/` (skill bundle, `--backend pydeseq2`); the top K = 50 induced genes (by adjusted p-value, filtered to positive log2 fold change) in `data/top_genes.csv`.
@@ -124,23 +135,41 @@ README.md   # stub at Chunk 1, completed at Chunk 7
 **GATE: positive controls.** Canonical LPS genes appropriate to the dataset's time point (e.g., Tnf, Il1b, Il6, Cxcl10, Nos2) come out strongly induced, and the PCA separates LPS from control. Report each control's fold change and adjusted p-value. If the controls fail, stop: it's wiring or data, not biology.
 
 ### Chunk 5: Per-gene search across the top K
-**Goal:** Run the Chunk 3 procedure, unchanged, on all K genes.
+**Goal:** Run the Chunk 3 procedure (Round 5 method, above), unchanged, on all K genes.
+**First:** move the 12 pilot genes' rows out of `data/paper_ledger.tsv` to `results/search/pilot5/ledger_pilot.tsv`, so the real ledger holds exactly the K genes. Pilot genes that are also in the top K get searched again.
+**Command:** `python3 src/search_gene.py --named-query --strict --two-quote --workers 4 -n 25 --outdir results/search <genes...>` (writes `results/search/<gene>/`).
 **Produces:** `results/search/<gene>/` for each gene; `data/paper_ledger.tsv` complete for all K genes.
 **Done when:** every gene has ledger rows (or an error row).
 **Watch:** respect Paperclip rate limits (batch and back off). If a search errors, log it as an error, **never as zero**. A failed search reported as "not found" is exactly the failure this project is designed to catch.
 
 ### Chunk 6: Classify and check direction
 **Goal:** Bin each gene and test whether the literature agrees with the dataset.
-**Produces:** `results/final/gene_bins.csv` (counts computed from the ledger by script) with columns gene, log2FC, padj, qualifying count, rate (secondary), and bin (**established** ≥3 · **limited** 1–2 · **not found in top 25** 0 · **search error**).
+**Produces:** `results/final/gene_bins.csv` (counts computed from the ledger and the review file by script). Columns:
+- gene, log2FC, padj;
+- model count (yes rows, after title dedupe);
+- yes before checks (sensitivity only);
+- **confirmed count**;
+- rate (secondary);
+- bin (**established** ≥3 · **limited** 1–2 · **not found in top 25** 0 · **search error**).
+
+**Two safeguards, adopted at the Chunk 3 gate. Both apply before binning.**
+1. **Dedupe by title.** A preprint and its published version can both appear in one gene's top 25 and both be judged yes. Before counting, collapse yes rows per gene by normalized title (lowercase, alphanumerics only). The ledger keeps both rows; only the count is deduped.
+2. **Confirm the bin by hand.**
+   - For every gene with at least one yes, go through its yes rows in rank order and confirm or reject each one, stopping at 3 confirmed or when the yes rows run out.
+   - The bin comes from the **confirmed** count: established needs 3 confirmed.
+   - Claude drafts each call with a one-line reason and the quotes. I confirm or override. Only calls I've approved are used.
+   - Calls live in `data/review_verdicts.tsv` (gene · paper_id · call (confirm/reject) · reason · reviewer). The confirmed count is derived by script from the ledger plus this file, never typed.
+   - A confirmed yes must fit the question: the paper's own data, LPS or bacterial infection (not another stimulus or a protozoan), a change in *this* gene against an unstimulated control (not a knockout-vs-wild-type comparison), and not a background statement or review.
+   - Any gene whose bin differs between the model count and the confirmed count, or between `yes_before_checks` and the model count, is listed in the report.
 **Optional (cut first if time runs short):** for established genes, extract the reported direction (up/down) from a small set of qualifying papers and compute the direction-agreement rate with the dataset. List every disagreement.
-**Done when:** every gene is binned, and bin counts are in the report.
+**Done when:** every gene is binned from its confirmed count, every call in `data/review_verdicts.tsv` has my approval, and bin counts are in the report.
 **Watch:** hand-spot-check 3 genes end to end (search → filter calls → count → bin) before trusting the table.
 
 ### Chunk 7: Demo artifact
 **Goal:** The deliverable.
 **Produces:** `results/final/demo_table` (gene, fold change, bin, 1–3 citations each) and `results/final/REPORT.md`: dataset card, positive-control results, method, bin summary, the "not found in top 25 for this query" caveat stated plainly, and the direction-agreement result if Chunk 6's optional step ran.
-Every citation in the demo table is a paper ID that appears as a yes row in the ledger.
-**Done when:** the table and report exist, and a short script (`src/verify.py`, a few lines) recomputes every count and bin from the ledger and matches the report exactly. Any mismatch fails the chunk.
+Every citation in the demo table is a paper ID that appears as a yes row in the ledger **and** is confirmed in `data/review_verdicts.tsv`.
+**Done when:** the table and report exist, and a short script (`src/verify.py`, a few lines) recomputes every count and bin from the ledger plus `data/review_verdicts.tsv` and matches the report exactly. Any mismatch fails the chunk.
 **Check:** open 3 citations and confirm each supports the claim it's attached to.
 
 ## Scope levers (if the day runs long, in order)
@@ -157,6 +186,6 @@ GSE250273 has more arms than the demo uses. The demo uses only LPS 4 h (TrtB01�
 
 ## Open decisions to resolve in flight
 - ~~Which dataset (Chunk 2 gate).~~ Resolved: GSE250273, LPS 4 h vs. time-matched control (see `reports/chunk-2.md`).
-- The filter question's wording, and filter + set difference vs. map (Chunk 3 gate).
-- The final K and N (Chunk 3 speed check).
+- ~~The filter question's wording, and filter + set difference vs. map (Chunk 3 gate).~~ Resolved: `map` with the Round 5 question and checks (see "Chunk 3 outcome").
+- ~~The final K and N (Chunk 3 speed check).~~ Resolved: K = 50, N = 25. N = 50 was measured: ranks 26–50 added yeses only to already-established genes, and moved no gene out of "not found". 12 genes take about 2–3.5 min at 4 workers.
 - The bin thresholds (≥3 / 1–2 / 0 are defaults; revisit after seeing the Chunk 5 distribution).

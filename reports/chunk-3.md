@@ -1,7 +1,7 @@
 # Chunk 3 Report: Paperclip search strategy
 
 **Date:** 2026-09-24, pilot run about 17:52–18:20 UTC. paperclip v0.7.52 via `src/pc.sh`.
-**Status:** ⛔ AT GATE (updated after Round 5, 2026-09-25). Evidence + context quotes and HGNC aliases now fill the real ledger. **Waiting on you:** a regrade of `results/search/pilot5/review_sample.md`, and the adopt/stop decision at the end of Round 5. Nothing is committed.
+**Status:** ✅ Round 5 adopted (2026-09-25), along with the two Chunk 6 safeguards (bin confirmation by hand, title dedupe), which are now recorded in CLAUDE.md. The regrade of `results/search/pilot5/review_sample.md` is optional; its calls feed the Chunk 6 hand check.
 - **Round 2 shows the bimodality came from my choice of pilot genes plus a retrieval gap.** It isn't built into the method. Across 12 genes the counts are graded (0, 1, 2, 3, 4, 6, 21, 23).
 - **It also found a correctness problem:** the judge credits look-alike genes (Hdc ↔ HDAC1/2/4/5/10). An evidence-names-the-gene check fixes most of it.
 
