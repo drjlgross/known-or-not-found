@@ -1,0 +1,198 @@
+$ src/pc.sh map --from s_34da7383 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Rasgrp1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_4a0e6f45
+
+  ✓ RasGRP3 limits Toll-like receptor-triggered inflammatory response in m
+    PMC4143924 · 1062ms
+    {
+      "answer": "yes",
+      "evidence": "In addition, we found that RasGRP2 and RasGRP4 were downregulated while RasGRP1 was upregulated by LPS, Poly (I:C) or CpG ODN (Supplementary Fig. 1).",
+      "context": "By examining the expression profiles of RasGRP1–4 in mouse peritoneal macrophages and mouse bone marrow-derived macrophages, we found that RasGRP3 showed the highest expression level, sequentially followed by RasGRP2 or RasGRP4 (Fig. 1a,b)."
+    }
+
+  ✓ Ras guanine nucleotide exchange factor RasGRP1 promotes acute inflamma
+    bio_eb63fe51 · 1335ms
+    {
+      "answer": "yes",
+      "evidence": "To determine whether RasGRP1 is coexpressed with IL-6 during acute inflammatory response, we treated mouse peritoneal macrophages with gradient doses of LPS and observed that RasGRP1 and IL-6 were significantly upregulated in a dose-dependent manner ( Fig. 2a ).",
+      "context": "Quantitative PCR (Q-PCR) analysis of IL-6 and RasGRP1 mRNA expression in peritoneal macrophages treated with different doses of LPS (0, 1, 10 or 100 ng/ml) ( a ), Poly (I:C) (0, 5, 20 or 80 μg/ml) ( b ), or CpG ODN (0, 1, 3 or 9 μg/ml) ( c ) for 6h."
+    }
+
+  ✓ RasGRP Exacerbates Lipopolysaccharide-Induced Acute Kidney Injury Thro
+    PMC8860163 · 1134ms
+    {
+      "answer": "yes",
+      "evidence": "We found that after LPS stimulation, the level of RasGRP continued to increase over time in mouse macrophages (Figure 1C and 1D).",
+      "context": "C, The mRNA level of RasGRP in bone marrow–derived macrophages (BMDMs) stimulated with lipopolysaccharide (LPS) (100 ng/mL) was detected by qPCR for the indicated time points (n = 6)."
+    }
+
+  ✓ Nurr1 performs its anti-inflammatory function by regulating RasGRP1 ex
+    PMC7329810 · 1311ms
+    {
+      "answer": "yes",
+      "evidence": "Among several candidates that showed a significant correlation in the ChIP sequencing data, RasGRP1 was transcriptionally upregulated in the LPS (1 \u0393\u0393g/ml) treated BV2 cells for 6 h in a serum free condition (Fig. 2A, B).",
+      "context": "BV2 cells expressing GFP or GFP-tagged Nurr1 were treated with LPS (1 \u0393\u0393g/ml) or saline for 6 h."
+    }
+
+  ✓ Lipopolysaccharide-induced inflammation in monocytes/macrophages is bl
+    PMC5743190 · 799ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Transcriptomic analysis reveals that RasGEF1b deletion alters basal an
+    PMC10638313 · 954ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 885ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Citri Reticulatae Pericarpium Limits TLR-4-Triggered Inflammatory Resp
+    PMC10530606 · 1216ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Genome-wide siRNA screen of genes regulating the LPS-induced NF-κB and
+    PMC5332015 · 870ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ RasGRP1 promotes the acute inflammatory response and restricts inflamm
+    PMC9669001 · 1372ms
+    {
+      "answer": "yes",
+      "evidence": "To explore the relationship of Rasgrp1 and Il6 during the acute inflammatory response, we treated mouse peritoneal macrophages with a range of doses of LPS and observed that the expression of Rasgrp1 and Il6 was significantly upregulated in a dose-dependent manner (Fig. 2a).",
+      "context": "Quantitative PCR (Q-PCR) analysis of Il6 and Rasgrp1 mRNA expression in peritoneal macrophages treated with different doses of lipopolysaccharide (LPS; 0, 1, 10 or 100 ng/ml) (a), polyinosinic-polycytidylic acid (poly(I:C); 0, 5, 20 or 80 \u0334g/ml) (b), or CpG oligodeoxynucleotide (0, 1, 3 or 9 \u0334g/ml) (c) for 6 h."
+    }
+
+  ✓ CD117+ Dendritic and Mast Cells Are Dependent on RasGRP4 to Function a
+    PMC4794117 · 803ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Analysis of the transcriptional networks underpinning the activation o
+    PMC4378362 · 863ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(
+    PMC7053374 · 740ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Mechanistic characterization of  RASGRP1  variants identifies an hnRNP
+    bio_13d78d91 · 1084ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Transcriptomic analysis of the role of RasGEF1B circular RNA in the TL
+    PMC5612941 · 792ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Expression analysis of G Protein-Coupled Receptors in mouse macrophage
+    PMC2394514 · 925ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Epigenetic profile in lipopolysaccharide-stimulated macrophages
+    PMC3953056 · 666ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ RASGRP1 Deficiency Manifesting as Severe Vasculopathy and Fatal Autoim
+    PMC13240410 · 795ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Regulation of RasGRP1 Function in T Cell Development and Activation by
+    PMC3373593 · 812ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Critical Role of Regulator G-Protein Signaling 10 (RGS10) in Modulatin
+    PMC3836764 · 1008ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Monocyte normal immune response to LPS stimulation
+    PMC3333514 · 651ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Activation of Raf-1 and mitogen-activated protein kinase in murine mac
+    PMC2192101 · 797ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Transcriptional profiling of the LPS induced NF-κB response in macroph
+    PMC1781469 · 877ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Targeting RAS guanyl releasing protein 1 promotes T lymphocytes infilt
+    PMC10352603 · 1303ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ A Global Picture of Molecular Changes Associated to LPS Treatment in T
+    PMC9656053 · 801ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[25.4s, saved to m_4a0e6f45]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  1/25 papers  run m_4a0e6f45  [2s]
+  [##########..........]  13/25 papers  run m_4a0e6f45  [4s]
+  [############........]  16/25 papers  run m_4a0e6f45  [6s]
+  [###############.....]  19/25 papers  run m_4a0e6f45  [8s]
+  [################....]  21/25 papers  run m_4a0e6f45  [10s]
+  [####################]  25/25 papers  run m_4a0e6f45  [12s]
+  [####################]  25/25 papers  run m_4a0e6f45  [22s]
+  [####################]  25/25 papers  run m_4a0e6f45  [25s]
+

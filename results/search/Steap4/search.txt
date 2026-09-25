@@ -1,0 +1,222 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Steap4 (STEAP family member 4) LPS macrophage
+# exit 0
+Found 25 papers  [s_febe8111]
+
+  1. The expression of STEAP4 in peripheral blood predicts the outcome of septic patients
+     Haiyan Jiang; Yansong Dong; Dajun Yan; Yao Wu; Yue Wang; Yuting Ren; Guomin Mao; Guiwen Liang; Wei L...
+     PMC8576732 · PMC · 2021 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8576732/
+     Matched: STEAP4 expression was significantly increased in LPS-induced RAW264.7  · cat /papers/PMC8576732/content.lines --lines 104-105
+     │ To further verify our clinical findings, RAW264.7 cells were treated with LPS to detect
+     │ STEAP4 expression in sepsis-infected hepatocytes. As shown in Figure 7, both mRNA and
+     │ protein expression of STEAP4 were significantly increased in septic liver cells. Figure 7:
+     │ Changes of STEAP4 in LPS-treated RAW264.7 cells. (A) The transcriptional expression of
+     │ STEAP4 in RAW264.7 cells firstly increased and then decreased after LPS stimulation, and
+     │ reached a peak at 8 hours; (B) WB analysis showed that the expression of STEAP4 in LO2 cells
+     │ was increased after LPS stimulation; (C) the grey level of STEAP4 protein expression in LO2
+     │ cells after LPS stimulation was detected by WB. **, P<0.02; ***, P<0.01. …
+     "STEAP4 expression in peripheral blood was measured in sepsis patients and inflammatory models. Elevated STEAP4 predicts sepsis patient outcomes and increases with inflammation."
+
+  2. Immune responses of six-transmembrane epithelial antigen of the prostate 4 functions as a novel biomarker in gastric cancer
+     Ze-Xuan Fang; Yan-Yu Hou; Zheng Wu; Bing-Xuan Wu; Yu Deng; Hua-Tao Wu; Jing Liu
+     PMC10494559 · PMC · 2023-08-24 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10494559/
+     Matched: Research conclusions · cat /papers/PMC10494559/content.lines --lines 181
+     │ STEAP4 is indicated as a potential immune indicator of GC, targeting STEAP4 may provide a
+     │ new therapeutic method for GC patients.
+     "This study investigated STEAP4 expression in gastric cancer and its correlation with immune cell infiltration and prognosis. Higher STEAP4 expression is linked to increased immune infiltration and poorer prognosis in gastric cancer."
+
+  3. Six transmembrane epithelial antigens of the prostate to illustrate inflammatory response in gastrointestinal cancers
+     Yi-Han Wu; Lian-Xiang Luo
+     PMC11346062 · PMC · 2024-08-24 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11346062/
+     Matched: SIX TRANSMEMBRANE EPITHELIAL ANTIGENS OF THE PROSTATE AND IRON/COPPER  · cat /papers/PMC11346062/content.lines --lines 15-17
+     │ Studies have indicated the potential of six transmembrane epithelial antigens of the
+     │ prostate (STEAPs) in H. pylori-associated GC inflammatory response. Moreover, STEAP4 was
+     │ found to be highly expressed in GC tissues, which is linked to the late clinical stage and
+     │ poor prognosis of GC patients. The expression of STEAP4 is positively correlated with the
+     │ infiltration of B cells, CD4+ T cells, macrophages, neutrophils and dendritic cells,
+     │ suggesting that it may be involved in the regulation of tumor microenvironment[8]. The STEAP
+     │ family consists of four structurally similar members, namely STEAP1, STEAP2, STEAP3 and
+     │ STEAP4[9], typically acting as an oxidoreductase involved in the absorption …
+     "This paper investigates the role of six transmembrane epithelial antigens of the prostate (STEAPs) in the inflammatory response of gastrointestinal cancers. STEAPs are found to be linked to tumor progression and inflammation, offering potential for GIC prevention and early intervention."
+
+  4. Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni; Yanal Ghosheh; Akula Bala Pramod; Klaus Ley
+     PMC7053374 · Frontiers in Immunology · 2020-02-25 · 77 citations
+     https://doi.org/10.3389/fimmu.2020.00234
+
+  5. STEAP4 drives immune dysregulation in myocardial infarction–NSCLC comorbidity
+     Zhonghe Liu; Yuxi Yi; Wenwen Li; Zhexin Wang; Yukuan Lang; Lin Huang; Haoran Zhai; Liang Xu; Liang C...
+     PMC13364855 · PMC · 2026-06-30 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13364855/
+     Matched: In vivo validation of the critical role of STEAP4 in MI–NSCLC comorbid · cat /papers/PMC13364855/content.lines --lines 92-93
+     "Myocardial infarction (MI) and non-small cell lung cancer (NSCLC) are leading causes of morbidity and mortality worldwide, with increasing evidence pointing to a complex comorbidity between them. Howe"
+
+  6. Inflammatory response in gastrointestinal cancers: Overview of six transmembrane epithelial antigens of the prostate in pathophysiology and clinical implications
+     Ze-Xuan Fang; Wen-Jia Chen; Zheng Wu; Yan-Yu Hou; Yang-Zheng Lan; Hua-Tao Wu; Jing Liu
+     PMC10823946 · PMC · 2024-01-24 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10823946/
+     Matched: STRUCTURAL CHARACTERISTICS OF STEAP FAMILY MEMBERS · cat /papers/PMC10823946/content.lines --lines 23-26
+     │ Besides STEAP1, STEAP2-4 are also composed of six transmembrane α-helices and intracellular
+     │ hydrophilic N-and C-terminal domains, with the N-terminus containing the intracellular
+     │ NADPH-binding FNO domain and the C-terminus containing bis-heme with the FRE domain. In
+     │ vitro studies have found that STEAP2-4 perform Fe3+ and Cu2+ reductase activities and
+     │ increase intracellular iron and copper uptake[20]. STEAP2 is known as STAMP1, which is
+     │ composed of 490 amino acid residues. It is found that STEAP2 is highly expressed in the
+     │ androgen-reactive prostate cancer cell line LNCaP, but not in androgen receptor-negative
+     │ prostate cancer cell lines PC3 and DU145[25,26]. However, the expression of STEAP2 …
+     "This review examines the role of six transmembrane epithelial antigens of the prostate (STEAPs) in gastrointestinal cancers. STEAPs are implicated in cancer progression by influencing inflammatory responses and oxidative stress."
+
+  7. Inflammation mobilizes copper metabolism to promote colon tumorigenesis via an IL-17-STEAP4-XIAP axis
+     Yun Liao; Junjie Zhao; Katarzyna Bulek; Fangqiang Tang; Xing Chen; Gang Cai; Shang Jia; Paul L. Fox;...
+     PMC7021685 · PMC · 2020-02-14 · 208 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7021685/
+     Matched: IL-17 promotes copper uptake via the induction of STEAP4 · cat /papers/PMC7021685/content.lines --lines 22-23
+     │ STEAP4 is unique among its family members in that its expression is regulated by
+     │ proinflammatory cytokines[31]. Intriguingly, STEAP4, but not any other component of the
+     │ copper uptake machinery, was readily induced in mouse colon organoids by the panel of
+     │ cytokines we tested (Fig. 1a). Analysis of STEAP4 promoter sequence revealed binding sites
+     │ for both NFκB and STAT3. To determine whether STEAP4 was transcriptionally induced by NFκB
+     │ or STAT3, we analyzed the induction of STEAP4 expression by IL-17 (NFκB activator) and IL-22
+     │ (STAT3 activator). STEAP4 was induced within 4 h of IL-17 and IL-22 stimulation
+     │ (Supplementary Fig. 1a). Interestingly, pretreatment with actinomycin D, a transcription …
+     "Inflammation, via IL-17, drives copper uptake through STEAP4, activating XIAP. This axis promotes colon tumor formation and is observed in human colon cancer."
+
+  8. Monocyte normal immune response to LPS stimulation
+     P Myrianthefs; K Venetsanou; E Grouzi; E Boutzouka; P Evagelopoulou; G Fildissis; I Spiliotopoulou; ...
+     PMC3333514 · Critical Care · 2002-03-01 · 1 citation
+     https://doi.org/10.1186/cc1554
+
+  9. Lipopolysaccharide preconditioning augments the antibacterial activity of renal macrophages and ameliorates acute kidney injury caused by Staphylococcus aureus bacteremia in mice
+     Keiko Tanoue; Manabu Kinoshita; Bradley M Kearney; Seigo Ito; Hiroyasu Goto; Aoi Yamashiro; Tsugumi ...
+     PMC12035103 · Innate Immunity · 2025-04-17 · 1 citation
+     https://doi.org/10.1177/17534259251335770
+     Matched: LPS preconditioning · cat /papers/PMC12035103/content.lines --lines 20
+     "Lipopolysaccharide preconditioning was studied for its effects on renal macrophages and acute kidney injury in mice infected with *Staphylococcus aureus*. Preconditioning enhanced renal macrophage antibacterial activity, reducing bacterial growth and ameliorating kidney injury."
+
+  10. Hepatic STEAP4 promotes liver regeneration by regulating lysosomal iron homeostasis and membrane integrity in acetaminophen-induced liver injury
+     Peng Cao; Mengwei Niu; Hualong Zhu; Chen Zhang; Hao Zhu; Hangfei Xu; Wanqing Liu; Hong-Min Ni; Wen-X...
+     PMC13480316 · PMC · 2026-03-16 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13480316/
+     Matched: INTRODUCTION · cat /papers/PMC13480316/content.lines --lines 20
+     "Understanding the mechanisms behind liver repair in acetaminophen (APAP)-induced liver injury (AILI) is crucial for developing effective treatments. Six-transmembrane epithelial antigen of the prostat"
+
+  11. Cryo-EM structures of human STEAP4 reveal mechanism of iron(III) reduction
+     Wout Oosterheert; Laura S. van Bezouwen; Remco N. P. Rodenburg; Joke Granneman; Friedrich Förster; A...
+     PMC6194020 · PMC · 2018-10-18 · 68 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6194020/
+     Matched: Overall architecture · cat /papers/PMC6194020/content.lines --lines 56
+     "Cryo-EM structures of human STEAP4 were determined, revealing its mechanism for reducing iron(III). The enzyme uses a domain-swapped trimeric structure with aligned cofactors to transfer electrons from NADPH to iron."
+
+  12. Species-Specificity of Transcriptional Regulation and the Response to Lipopolysaccharide in Mammalian Macrophages
+     Stephen J. Bush; Mary E. B. McCulloch; Zofia M. Lisowski; Charity Muriuki; Emily L. Clark; Rachel Yo...
+     PMC7386301 · Frontiers in Cell and Developmental Biology · 2020-07-21 · 32 citations
+     https://doi.org/10.3389/fcell.2020.00661
+     Matched: Introduction · cat /papers/PMC7386301/content.lines --lines 13-14
+     "This study analyzed the transcriptional response of sheep macrophages to lipopolysaccharide (LPS) and compared it to other mammalian species. A conserved transcriptional network was found, but large animals and rodents differed in their metabolic responses to LPS."
+
+  13. Targeting the LPS-STING axis: neomycin restores STING-mediated anti-tumor immune suppression and inhibits tumor growth
+     Hong Fan; Dongjie Fu; Mingfu Tian; Zhiqiang Li; Siyu Liu; Chenglin Ye; Kailang Wu; Chengliang Zhu
+     PMC12605410 · Frontiers in Immunology · 2025-10-29 · 0 citations
+     https://doi.org/10.3389/fimmu.2025.1637667
+     Matched: LPS suppresses STING-mediated anti-tumor immunity · cat /papers/PMC12605410/content.lines --lines 57-58
+     "Low-dose LPS suppresses macrophage anti-tumor immunity by impairing their response to tumor debris. Neomycin treatment reverses this suppression, inhibiting tumor growth and enhancing STING agonist therapy."
+
+  14. Steap4 attenuates high glucose and S100B-induced effects in mesangial cells
+     Chao-Tang Chuang; Jinn-Yuh Guh; Chi-Yu Lu; Yeng-Tseng Wang; Hung-Chun Chen; Lea-Yea Chuang
+     PMC4459839 · PMC · 2015-03-27 · 17 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4459839/
+     Matched: Discussion · cat /papers/PMC4459839/content.lines --lines 78-79
+     "Steap4 expression and localization were studied in mesangial cells under high glucose and S100B conditions. Steap4 overexpression attenuated high glucose and S100B-induced cellular damage and inflammatory markers."
+
+  15. STEAP4 expression in CNS resident cells promotes Th17 cell-induced autoimmune encephalomyelitis
+     Junjie Zhao; Yun Liao; William Miller-Little; Jianxing Xiao; Caini Liu; Xiaoxia Li; Xiao Li; Zizhen ...
+     PMC8059164 · PMC · 2021-04-20 · 16 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8059164/
+     Matched: Introduction · cat /papers/PMC8059164/content.lines --lines 22-23
+     "STEAP4 expression in CNS resident cells was studied in the context of autoimmune encephalomyelitis (EAE). STEAP4 is a key effector molecule that promotes Th17 cell-induced neuroinflammation and disease severity in EAE."
+
+  16. Diabetes-Mediated STEAP4 Enhances Retinal Oxidative Stress and Impacts the Development of Diabetic Retinopathy
+     Brooklyn E. Taylor; Scott J. Howell; Chieh Lee; Zakary Taylor; Katherine Barber; Patricia R. Taylor
+     PMC11851923 · PMC · 2025-02-11 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11851923/
+     Matched: 4. Discussion · cat /papers/PMC11851923/content.lines --lines 61-63
+     "STEAP4 expression was studied in diabetic retinas and found to increase with disease severity. STEAP4 inhibition reduced oxidative stress and protected retinal cells, suggesting it's a potential biomarker and therapeutic target for diabetic retinopathy."
+
+  17. Correction: Trstenjak Prebanda et al. Upregulation of Mitochondrial Redox Sensitive Proteins in LPS-Treated Stefin B-Deficient Macrophages. Cells 2019, 8, 1476
+     Mojca Trstenjak Prebanda; Janja Završnik; Boris Turk; Nataša Kopitar Jerala
+     PMC11394647 · PMC · 2024-08-30 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11394647/
+     Matched: Error in Figure · cat /papers/PMC11394647/content.lines --lines 9-11
+
+  18. Lipopolysaccharide (LPS)-induced Macrophage Activation and Signal Transduction in the Absence of Src-Family Kinases Hck, Fgr, and Lyn
+     Fanying Meng; Clifford A. Lowell
+     PMC2196288 · PMC · 1997-05-05 · 393 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2196288/
+     Matched: cat /papers/PMC2196288/content.lines --lines 7-8
+     "This study investigated LPS-induced macrophage activation in mice lacking Src-family kinases Hck, Fgr, and Lyn. Macrophages from these mice showed no major defects in LPS-induced activation, indicating these kinases are not obligatory for LPS signaling."
+
+  19. STEAP1–4 (Six-Transmembrane Epithelial Antigen of the Prostate 1–4) and Their Clinical Implications for Prostate Cancer
+     Michael Xu; Latese Evans; Candice L. Bizzaro; Fabio Quaglia; Cecilia E. Verrillo; Li Li; Julia Stieg...
+     PMC9406800 · PMC · 2022-08-20 · 53 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9406800/
+     Matched: 5. Conclusions · cat /papers/PMC9406800/content.lines --lines 67-70
+     │ Given the dynamic physiologic and pathologic mechanisms associated with STEAP1–4, they may
+     │ have potential as therapeutic targets. However, further investigation is needed on many
+     │ fronts. The remaining questions to answer include: STEAP1–4 expression patterns in different
+     │ grades of PCa, the role of AR in regulating STEAP1–4 expression, other mechanisms by which
+     │ STEAP1–4 promote PCa pathogenesis, and the roles of STEAP1–4 in the PCa tumor
+     │ microenvironment. Answering these questions will allow us to better understand the
+     │ implications and utility of STEAP1–4 in the clinic. Figure 1: Structural and physiologic
+     │ properties of STEAP1–4. (A) STEAP1 and its truncated homolog, STEAP1B (only STEAP1B1 …
+     "This review examines STEAP1–4 proteins and their roles in prostate cancer. These proteins are implicated in cancer aggressiveness and metastasis, with STEAP1 being a key therapeutic target."
+
+  20. STEAP4–Mediated ROS–TERT–TP53 Signaling Promotes Granulosa Cell Dysfunction in Experimental Models of Polycystic Ovary Syndrome
+     Xinxin Quan; Xue Xue; Huilan Ma; Lei Yang; Chen Chen; Yu Liu; Kejie Yao; Hui Yang; Rongxiang Wang; L...
+     PMC13359901 · PMC · 2026-07-04 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13359901/
+     Matched: 4. Discussion · cat /papers/PMC13359901/content.lines --lines 100-101
+     "Background: Polycystic ovary syndrome (PCOS) is a frequently encountered endocrine disturbance with a still poorly defined etiology that arises in women during their reproductive years. Increased apop"
+
+  21. LPS Counter Regulates RNA Expression of Extracellular Proteases and Their Inhibitors in Murine Macrophages
+     Andreas Hald, Birgitte Rønø, Leif R. Lund, Kristoffer L. Egerod
+     PMC3317238 · PMC · 2012-01-01 · 19 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3317238/
+     "LPS stimulation of murine macrophages was studied for its effect on extracellular protease and inhibitor gene expression. LPS differentially regulates matrix metalloproteinases and serine proteases, impacting extracellular matrix degradation."
+
+  22. Oral and transdermal administration of lipopolysaccharide safely enhances self-healing ability through the macrophage network
+     Gen-Ichiro Soma; Masataka Oda; Vindy Tjendana Tjhin; Chie Kohchi; Hiroyuki Inagawa
+     PMC11994614 · Frontiers in Immunology · 2025-03-31 · 7 citations
+     https://doi.org/10.3389/fimmu.2025.1563484
+     Matched: Regulation of innate immunity by LPS as an environmental agent · cat /papers/PMC11994614/content.lines --lines 29-31
+     "Oral and transdermal LPS administration was studied for its effects on self-healing. This method safely enhances healing through a "macrophage network" involving mucosal immune cells."
+
+  23. BRD4 contributes to LPS-induced macrophage senescence and promotes progression of atherosclerosis-associated lipid uptake
+     Hui Wang; Haiping Fu; Ruigong Zhu; Xuan Wu; Xian Ji; Xuesong Li; Hong Jiang; Zhe Lin; Xin Tang; Shix...
+     PMC7288959 · Aging (Albany NY) · 2020-05-11 · 92 citations
+     https://doi.org/10.18632/aging.103200
+     Matched: BRD4 is indispensable for LPS-induced peritoneal macrophage senescence · cat /papers/PMC7288959/content.lines --lines 27-28
+     "Lipopolysaccharide (LPS) induces macrophage senescence, which is mediated by BRD4. Inhibiting BRD4 prevents LPS-induced macrophage senescence and lipid accumulation, suggesting therapeutic potential for atherosclerosis."
+
+  24. Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni, Yanal Ghosheh, Akula Bala Pramod, Klaus Ley
+     PMC6543837 · Frontiers in Immunology · 2019-05-24 · 1909 citations
+     https://doi.org/10.3389/fimmu.2019.01084
+     Matched: In vivo M2(=LPS–)C57BL/6J and Alternatively Activated (IL-4) Mφ Pathwa · cat /papers/PMC6543837/content.lines --lines 95
+     │ Intriguingly, no pathways were regulated in common among the M2(=LPS–)C57BL/6J in vivo and
+     │ in vitro alternatively activated (IL-4) Mφ signature at the p-value cut-off applied (Figure
+     │ 2E).
+     "This study compared gene expression in *in vivo* M1/M2 macrophages with *in vitro* classically/alternatively activated macrophages. The findings indicate that *in vivo* M1/M2 polarization is not equivalent to *in vitro* activation states."
+
+  25. Selection of reliable reference genes for the normalisation of gene expression levels following time course LPS stimulation of murine bone marrow derived macrophages
+     Akane Tanaka, Joyce To, Bronwyn O’Brien, Sheila Donnelly, Maria Lund
+     PMC5627409 · biomedrxiv · 2017-10-03 · 29 citations
+     https://doi.org/10.1186/s12865-017-0223-y
+     "This study assessed the stability of eight common reference genes in LPS-stimulated murine macrophages. It found that some traditional genes are unreliable, and identified two new, stable reference genes for accurate gene expression analysis."
+
+[2.0s, saved to s_febe8111]
+
+💡 Extract data across these results with: map --from s_febe8111 "your question"
+[2.0s, saved to s_febe8111]  [repo: mva-lof-molecular]
+

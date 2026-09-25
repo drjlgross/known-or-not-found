@@ -1,0 +1,189 @@
+$ src/pc.sh map --from s_b19e385d --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Gbp6 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_648273cf
+
+  ✓ A hierarchical GBP network promotes cytosolic LPS recognition and seps
+    bio_ea6f8a3b · 1151ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Direct binding of polymeric GBP1 to LPS disrupts bacterial cell envelo
+    PMC7327485 · 953ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Pattern Recognition Receptor for Bacterial Lipopolysaccharide in the C
+    bio_56e9957f · 1204ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Inhibitory effects of polysaccharides from Korean ginseng berries on L
+    PMC10684074 · 1020ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Human GBP1 is a microbe‐specific gatekeeper of macrophage apoptosis an
+    PMC6600649 · 1335ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Interferon-induced guanylate-binding proteins: Guardians of host defen
+    PMC6400534 · 1154ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ A Rapid Caspase-11 Response Induced by IFNγ Priming Is Independent of 
+    PMC7566093 · 1001ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Epigenetic profile in lipopolysaccharide-stimulated macrophages
+    PMC3953056 · 1075ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Inflammasome Activation by Bacterial Outer Membrane Vesicles Requires 
+    PMC5626967 · 1116ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Monocyte normal immune response to LPS stimulation
+    PMC3333514 · 931ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ GBP1 recruitment to actin-rich pedestals of extracellular Gram-negativ
+    PMC13372814 · 1612ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ GBP1 recruitment to actin-rich pedestals induced by extracellular Gram
+    bio_0ddf65ba · 1154ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Selection of reliable reference genes for the normalisation of gene ex
+    PMC5627409 · 997ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ GBP5 Aggravates Acute Lung Injury Via NLRP3 Inflammasome Activation Wh
+    PMC13375705 · 932ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ LPS-aggregating proteins GBP1 and GBP2 are each sufficient to enhance 
+    PMC10104521 · 955ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ The Prognostic and Immunological Value of Guanylate-Binding Proteins i
+    PMC8573089 · 1153ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Extracellular vesicle-packaged GBP2 from macrophages aggravates sepsis
+    PMC11994402 · 983ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Guanylate-binding proteins balance iNOS/Arg-1 in myeloid cells during 
+    PMC13059736 · 1113ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Molecular mechanisms and functions of guanylate-binding protein 2 in i
+    PMC12486372 · 962ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Endotoxin-Binding Peptides Derived from Casein Glycomacropeptide Inhib
+    PMC4446742 · 1030ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ CTRP6 promotes the macrophage inflammatory response, and its deficienc
+    PMC10789631 · 1091ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Human GBP1 binds LPS to initiate assembly of a caspase-4 activating pl
+    PMC7314798 · 990ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Granulocyte Colony Stimulating Factor Induces Lipopolysaccharide (LPS)
+    PMC3577878 · 1277ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Macrophage phenotype in sepsis immunosuppression
+    PMC4470529 · 793ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Lipopolysaccharide (LPS) binding protein opsonizes LPS-bearing particl
+    PMC2189482 · 816ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[19.4s, saved to m_648273cf]
+
+  [....................]  0/0 papers  [0s]
+  [#...................]  2/25 papers  run m_648273cf  [2s]
+  [########............]  10/25 papers  run m_648273cf  [4s]
+  [##############......]  18/25 papers  run m_648273cf  [6s]
+  [################....]  21/25 papers  run m_648273cf  [8s]
+  [####################]  25/25 papers  run m_648273cf  [10s]
+  [####################]  25/25 papers  run m_648273cf  [16s]
+  [####################]  25/25 papers  run m_648273cf  [19s]
+

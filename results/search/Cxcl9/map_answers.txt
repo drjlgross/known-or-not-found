@@ -1,0 +1,166 @@
+Map results  [m_a337f51e]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Cxcl9 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+
+--- [1] [success] Inhibition of the CXCL9-CXCR3 axis suppresses the progression of experimental apical periodontitis by blocking macrophage migration and activation ---
+doc_id: PMC7844264
+{
+  "answer": "yes",
+  "evidence": "Among these factors, CXCR3- and CCR3-related chemokines such as Cxcl9, Ccl5 and 8 became increased at day 7 and were found to be further elevated at days 14 and 28 (Fig. 2d).",
+  "context": "The onset of AP is initiated by pathogenic bacteria and their components or foreign substances released from the infected root canal[2]."
+}
+
+--- [2] [success] Macrophage TRIM21 lactylation exacerbates infection-induced orchitis through enhancing STAT1-mediated CXCL9 and CXCL10 production ---
+doc_id: PMC12847007
+{"answer": "yes", "evidence": "As expected, the expression of Cxcl9 and Cxcl10 was substantially increased in the testis after UPEC or LPS treatment, while Ccl17 or Ccl22 exhibited no significant difference (Figures 1B, C).", "context": ""}
+
+--- [3] [success] CXCL9 Contributes to Antimicrobial Protection of the Gut during Citrobacter rodentium Infection Independent of Chemokine-Receptor Signaling ---
+doc_id: PMC4333760
+{
+  "answer": "yes",
+  "evidence": "Unstimulated BMDC and BMDM did not produce detectable levels of secreted CXCL9. However, exposure to either IFNγ alone, or C. rodentium alone stimulated intermediate levels of CXCL9, which was significantly boosted in response to a combination of both stimuli (Fig. 5A).",
+  "context": "Bone marrow-derived macrophages (BMDM), or dendritic cells (BMDC) were incubated for 24 h at 37°C with either 1 ng/mL IFNγ, and/or heat killed (hk) C. rodentium."
+}
+
+--- [4] [success] Reciprocal activation between M1 macrophages and trophoblasts through CXCL9/STAT1/ZEB1/CCL2 axis promotes recurrent spontaneous abortion ---
+doc_id: PMC12634548
+{"answer": "yes", "evidence": "To further confirm the role of CXCL9 in vivo, we performed animal experiments using normal pregnant mice and LPS-induced abortion models with or without anti-CXCL9 neutralizing antibody treatment (Figure 8A).", "context": "The day when a vaginal plug became visible was defined as embryonic day 0.5 (E0.5). Lipopolysaccharide (LPS; 0.25 mg/kg, Sigma) was intraperitoneally injected on the afternoon of E7.5 to induce abortion, and the control group was injected with saline solution."}
+
+--- [5] [success] Vagus nerve modulates acute-on-chronic liver failure progression via CXCL9 ---
+doc_id: PMC12068771
+{
+  "answer": "yes",
+  "evidence": "Human macrophages were treated with ACh or with genetic knockout of \u0307alpha7 nAChR, and Mock-KO was used as control. Then these macrophages were co-incubated with LPS for two hours and the CXCL9 concentration in supernatant was assessed using immunofluorescence staining.",
+  "context": "Human macrophages were treated with ACh or with genetic knockout of \u0307alpha7 nAChR, and Mock-KO was used as control. Then these macrophages were co-incubated with LPS for two hours and the CXCL9 concentration in supernatant was assessed using immunofluorescence staining."
+}
+
+--- [6] [success] Unraveling the role of M1 macrophage and CXCL9 in predicting immune checkpoint inhibitor efficacy through multicohort analysis and single‐cell RNA sequencing ---
+doc_id: PMC10906808
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [7] [success] Cxcl9high macrophages recruit circulating Cxcr3+ plasmablasts into kidneys to promote pathogenesis of lupus nephritis mice ---
+doc_id: PMC12511401
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [8] [success] Serum cytokines in periodontal diseases ---
+doc_id: PMC12842884
+{"answer":"yes","evidence":"L105\\-L106: Elevated IL\\-36\\u03b3 levels in periodontitis patients correlate with increased expression of RANKL, toll\\-like receptor 2, TNF\\-\\u03b1, IL\\-1\\u03b2, and IL\\-17, suggesting its involvement in periodontal inflammation and bone resorption.\nL105\\-L106: Interleukin\\-36\\u03b3, a pro\\-inflammatory cytokine of the IL\\-1 superfamily, is implicated in periodontitis through its role in Th17 chemokine expression and its response to Porphyromonas gingivalis' lipopolysaccharide.","context":"L78: Interleukin\u201036\u0393, a pro\u2010inflammatory cytokine of the IL\u20101 superfamily, is implicated in periodontitis through its role in Th17 chemokine expression and its response to Porphyromonas gingivalis' lipopolysaccharide."}
+
+--- [9] [success] ESAT6-Induced IFNγ and CXCL9 Can Differentiate Severity of Tuberculosis ---
+doc_id: PMC2659747
+{
+  "answer": "yes",
+  "evidence": "However, LPS-induced CXCL9 was significantly greater (p = 0.008), while CCL2 was reduced (p<0.01) in TB patients as compared with ECs.",
+  "context": "To investigate whether the differences in cytokine secretion observed were specific to mycobacterial antigens, we also studied cytokine and chemokine responses to bacterial lipopolysaccharide (LPS), a strong activator of macrophages."
+}
+
+--- [10] [success] The Therapeutic Treatment with the GAG-Binding Chemokine Fragment CXCL9(74–103) Attenuates Neutrophilic Inflammation and Lung Dysfunction during Klebsiella pneumoniae Infection in Mice ---
+doc_id: PMC9181286
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [11] [success] Delay in hepatocyte proliferation and prostaglandin D2 synthase expression for cholestasis due to endotoxin during partial hepatectomy in rats ---
+doc_id: PMC6797974
+{
+  "answer": "yes",
+  "evidence": "L35: Cxcl9 showed a significant rise after 24 h in the LPS and LPS + PH groups compared with the control and PH groups, respectively (Fig. 2B).",
+  "context": "L7: Male Sprague-Dawley rats were subjected to 70% PH and/or LPS injection, and tissues were harvested at 0, 24, 72 and 168 h."
+}
+
+--- [12] [success] Myometrial‐derived CXCL12 promotes lipopolysaccharide induced preterm labour by regulating macrophage migration, polarization and function in mice ---
+doc_id: PMC9077289
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [13] [success] Transcriptome Analysis Provides Insights into the Markers of Resting and LPS-Activated Macrophages in Grass Carp (Ctenopharyngodon idella) ---
+doc_id: PMC6274997
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [14] [success] Glucocorticoids induce a phagocytic C1Q+ macrophage phenotype primed for IFNγ-dependent CXCL9 secretion ---
+doc_id: PMC13183869
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [15] [success] CXCL9 inhibition does not ameliorate disease in murine models of both primary and secondary hemophagocytic lymphohistiocytosis ---
+doc_id: PMC10387083
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [16] [success] Pharmacological Polarization of Tumor‐Associated Macrophages Toward a CXCL9 Antitumor Phenotype ---
+doc_id: PMC11022742
+{"answer": "yes", "evidence": "Note the high CXCL9 expression with CANDI400, even higher than with IFNg and LPS stimulation of cells.", "context": "CRX527 (an LPS mimetic)"}
+
+--- [17] [success] LIF regulates CXCL9 in tumor-associated macrophages and prevents CD8+ T cell tumor-infiltration impairing anti-PD1 therapy ---
+doc_id: PMC6559950
+{"answer": "yes", "evidence": "A similar result was observed when BMDMs were treated with LPS (Supplementary Fig. 7a).", "context": "CXCL9 expression was not detected except when BMDMs were treated with IFNγ."}
+
+--- [18] [success] CXCL10/IP-10 Neutralization Can Ameliorate Lipopolysaccharide-Induced Acute Respiratory Distress Syndrome in Rats ---
+doc_id: PMC5207674
+{
+  "answer": "yes",
+  "evidence": "LPS-induced ARDS in rats led to significant increase in the expression of CXCL9, CXCL10, and CXCL11 in serum and BALF compared with saline control rats (p<0.05) and they further increased with longer exposure to LPS.",
+  "context": "L68"
+}
+
+--- [19] [success] The influence of CXCL9 on M2 macrophages in lung cancer development ---
+doc_id: PMC12776223
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [20] [success] C-X-C Motif Chemokine Ligand 9 and Its CXCR3 Receptor Are the Salt and Pepper for T Cells Trafficking in a Mouse Model of Gaucher Disease ---
+doc_id: PMC8657559
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [21] [success] Infiltration of CXCL9+ macrophages confers a favorable prognosis in breast cancer: Insights from an integrated single-cell RNA and bulk RNA sequencing study ---
+doc_id: PMC12668484
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [22] [success] Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC6543837
+{"answer": "yes", "evidence": "The top two regulated pathways common for all three signatures are the Granulocyte Adhesion and Diapedesis and the Agranulocyte Adhesion and Diapedesis pathways that are driven by several chemokines and adhesion molecules including Ccl2, Cxcl9, Ccl7, Ccl24, Ccl22, Ccl9, Cxcl16, Ccl17, Icam1, and Vcam1 (Supplementary Table 3).", "context": "The signatures of in vivo bacterial LPS positive responders [M1(=LPS+)] vs. negative responders [M2(=LPS\u2013)] peritoneal macrophages as established in Buscher et al. (22) (GSE38705) were used (Supplementary Table 3)."}
+
+--- [23] [success] CXCL9-expressing tumor-associated macrophages: new players in the fight against cancer ---
+doc_id: PMC7919587
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [24] [success] Congestion Enriches Intra-hepatic Macrophages Through Reverse Zonation of CXCL9 in Liver Sinusoidal Endothelial Cells ---
+doc_id: PMC12198043
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [25] [success] CXCL9: evidence and contradictions for its role in tumor progression ---
+doc_id: PMC5119981
+{"answer": "no", "evidence": "", "context": ""}

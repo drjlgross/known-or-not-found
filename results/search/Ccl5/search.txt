@@ -1,0 +1,281 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Ccl5 (C-C motif chemokine ligand 5) LPS macrophage
+# exit 0
+Found 25 papers  [s_b300fa89]
+
+  1. PP4 modulates macrophage-neutrophil crosstalk to restrict CCL5 -driven NETosis in sepsis
+     Feng-Ming Yang; Shih-Chang Hsu; Yu-Chih Wu; Ching-Lu Chen; Tse-Hua Tan; Szu-Yi Chou; Hui-Ming Chang;...
+     PMC12945651 · PMC · 2026-02-20 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12945651/
+     Matched: Macrophage-derived CCL5 promotes neutrophil hyperactivity · cat /papers/PMC12945651/content.lines --lines 88-89
+     │ Next, we further investigated whether macrophages were the secretion cell type of CCL5 in
+     │ response to LPS. An ELISA indicated that PP4myel−KO BMDMs exhibited a significantly higher
+     │ secretion of CCL5 than did WT BMDMs (Fig. 3A), suggesting that CCL5 may be secreted by
+     │ macrophages during sepsis, and are regulated by PP4. To confirm the role of macrophage-
+     │ secreted CCL5-mediated hyperactivation of neutrophils, differentiated HL-60 (dHL60) cells
+     │ were treated with indicated conditioned medium (CM) collected from LPS-treated WT and
+     │ PP4myel−KO BMDMs. NETs formation was markedly increased by either LPS treated WT or
+     │ PP4myel−KO BMDMs (Fig. 3B). Notably, the PP4myel−KO BMDMs, compared to WT, …
+     "PP4 deficiency in myeloid cells exacerbates sepsis by disrupting macrophage-neutrophil communication. Loss of PP4 increases CCL5 production, which drives excessive neutrophil NETosis and tissue damage. Restoring PP4 function limits this inflammatory cascade."
+
+  2. Transcriptional profiling of the LPS induced NF-κB response in macrophages
+     Omar Sharif, Viacheslav N Bolshakov, Stephanie Raines, Peter Newham, Neil D Perkins
+     PMC1781469 · BMC Immunology · 2007-01-01 · 447 citations
+     https://doi.org/10.1186/1471-2172-8-1
+     Matched: Figures and Tables · cat /papers/PMC1781469/content.lines --lines 78-106
+     │ Accession no | Symbol | Gene Name | Reference Chemokines and receptors | Chemokines and
+     │ receptors | Chemokines and receptors | Chemokines and receptors [genebank:NM_002983] | CCL3
+     │ | Chemokine, CC motif, Ligand 3 π | [25] [genebank:NM_002984] | CCL4 | Chemokine, CC motif,
+     │ ligand 4 π | [25] [genebank:NM_005408] | CCL13 | Chemokine, CC motif, ligand 13 | [68]
+     │ [genebank:NM_032964] | CCL15 | Chemokine, CC motif, ligand 15 | [69] [genebank:NM_006274] |
+     │ CCL19 | Chemokine, CC motif, ligand 19 | -1748* [genebank:NM_002990] | CCL22 | Chemokine, CC
+     │ motif, ligand 22 π | [70] [genebank:NM_001511] | CXCL1 | Chemokine CC motif, Ligand 1 π |
+     │ [25] [genebank:NM_002089] | CXCL2 | Chemokine, CXC motif, ligand …
+     "This study profiled gene expression in macrophages after LPS exposure. LPS induced a dynamic, time-dependent transcriptional response, with THP-1 cells closely mimicking primary macrophages."
+
+  3. The effect of down-regulation of CCL5 on lipopolysaccharide-induced WI-38 fibroblast injury: a potential role for infantile pneumonia
+     Dong Bai; Anbang Han; Shan Cong
+     PMC6000219 · PMC · 2018 · 17 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6000219/
+     Matched: CCL5 expression was up-regulated in LPS-treated WI-38 cells · cat /papers/PMC6000219/content.lines --lines 41-42
+     │ The mRNA expression levels of CCL5 in WI-38 cells treated with 10 μg/ml and 20 μg/ml LPS
+     │ were both significantly higher than un-treated group (P<0.01, Figure 2A). Besides, the
+     │ protein expressions of CCL5 were also enhanced at different degrees after LPS treatments at
+     │ various levels (Figure 2B). CCL5 overexpression was found in WI-38 cells with LPS treatment,
+     │ indicating an association between CCL5 expression and LPS-induced inflammatory response.
+     │ Figure 2: CCL5 was up-regulated in lipopolysaccharide (LPS)-treated WI-38 cells. (A) The
+     │ mRNA and (B) protein expression levels of CCL5 were respectively detected by qRT-PCR and
+     │ Western blot when cells were treated with various doses of LPS. …
+     "This study investigated CCL5's role in lipopolysaccharide-induced lung fibroblast injury. Down-regulating CCL5 protected cells from damage by inhibiting inflammatory pathways."
+
+  4. CCR5 signaling promotes lipopolysaccharide-induced macrophage recruitment and alveolar developmental arrest
+     Ze Chen; Xiaohua Xie; Na Jiang; Jianhui Li; Lei Shen; Yongjun Zhang
+     PMC7883330 · Cell Death & Disease · 2021-02-15 · 40 citations
+     https://doi.org/10.1038/s41419-021-03464-7
+     Matched: CCR5 facilitates alveolar macrophage migration and IL-1β overproductio · cat /papers/PMC7883330/content.lines --lines 55-59
+     │ In order to ensure that the enhanced chemotactic response of monocytes was mediated via
+     │ CCR5, migration assays were performed in vitro and in vivo. Cultured RAW264.7 cells treated
+     │ with LPS exhibited significant migratory capacity compared to those treated with PBS, as
+     │ indicated by a marked increase in the number of migrated cells. The RAW264.7 LPS treatment
+     │ group also migrated in greater numbers toward CCL3 than cells from PBS control group. In
+     │ contrast, the migratory response of RAW264.7 cells from the LPS group toward CCL3 was
+     │ completely inhibited by DAPTA (Fig. 4a). Fig. 4: Enhanced migration of macrophages induced
+     │ by LPS toward CCL3. A Representative images of migrating RAW264.7 cells …
+     "This study investigated the role of CCR5 signaling in lipopolysaccharide-induced bronchopulmonary dysplasia. Increased CCR5 expression promotes inflammation and alveolar developmental arrest, suggesting it is a therapeutic target for BPD."
+
+  5. Metabolic effects of CCL5 deficiency in lean and obese mice
+     Hui Zhou; Xiyan Liao; Qin Zeng; Haowei Zhang; Jianfeng Song; Wanyu Hu; Xiaoxiao Sun; Yujin Ding; Dan...
+     PMC9880418 · PMC · 2023-01-13 · 15 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9880418/
+     Matched: Macrophage apoptosis assays · cat /papers/PMC9880418/content.lines --lines 45
+     │ RAW264.7 were incubated with LPS (1 μg/ml) or palmitate (0.3 mM) and treated with or without
+     │ CCL5 (100 ng/ml) for 16 h. Cells were stained with an annexin V and propidium iodide (PI)
+     │ double-staining technique and then analyzed using a CYTEK flow cytometer.
+     "CCL5 deficiency was studied in lean and obese mice to understand its role in adipose inflammation. CCL5 deficiency worsened insulin resistance and hepatic steatosis in obese mice, suggesting a protective role for CCL5 in metabolic health."
+
+  6. C–C Chemokines Released by Lipopolysaccharide (LPS)-stimulated Human Macrophages Suppress HIV-1 Infection in Both Macrophages and T Cells
+     Alessia Verani; Gabriella Scarlatti; Manola Comar; Eleonora Tresoldi; Simona Polo; Mauro Giacca; Pao...
+     PMC2196157 · The Journal of Experimental Medicine · 1997-03-03 · 125 citations
+     https://doi.org/10.1084/jem.185.5.805
+     Matched: cat /papers/PMC2196157/content.lines --lines 7-9
+     "Lipopolysaccharide-stimulated macrophages release C-C chemokines that suppress HIV-1 infection. These chemokines inhibit HIV-1 replication in both macrophages and T cells."
+
+  7. Anti-Inflammatory Effects of Cicadidae Periostracum Extract and Oleic Acid through Inhibiting Inflammatory Chemokines Using PCR Arrays in LPS-Induced Lung inflammation In Vitro
+     Jung-Hee Hong; Young-Cheol Lee
+     PMC9225349 · Life · 2022-06-08 · 15 citations
+     https://doi.org/10.3390/life12060857
+     Matched: 3.3.1. Modulatory Effects of CP and OA Treatments on mRNA Gene Express · cat /papers/PMC9225349/content.lines --lines 81-82
+     │ IL-4- or IL-13-induced M2a macrophages typically express CCL17 [83]. However, it was shown
+     │ that CCR4 (the receptor for CCL17)-dependent CCL17 plays a role in M1 activation of lung-
+     │ associated and monocyte-derived macrophages, leading to iNOS induction. Meanwhile,
+     │ CCR4-deficient (CCR4−/−) macrophages more frequently displayed the M2 phenotype [84]. In
+     │ addition, CCR4−/− mice showed lower serum levels of TNF-α and CCL3 after LPS administration
+     │ than CCR4 WT mice, which suggests that CCR4 plays a specific role in the process of LPS
+     │ invasion [85]. Macrophages in asthmatics’ sputum exhibited significantly upregulated CCL17
+     │ mRNA expression, which highly correlated with sputum eosinophilia, but other …
+     "Cicadidae periostracum (CP) and oleic acid (OA) extracts were studied for anti-inflammatory effects in LPS-induced lung inflammation. Both CP and OA significantly inhibited inflammatory chemokines and cytokines by suppressing key signaling pathways."
+
+  8. Role Of The C-C Motif Chemokine Ligand 5 (CCL5) And Its Receptor, C-C Motif Chemokine Receptor 5 (CCR5) In The Genesis Of Aldosterone-induced Hypertension, Vascular Dysfunction, And End-organ Damage
+     Rafael M. Costa, Débora M. Cerqueira, Ariane Bruder-Nascimento, Juliano V. Alves, Wanessa A.C. Awata...
+     bio_e87507fc7271 · bioRxiv · 2023-09-22 · 3 citations (all versions)
+     Published (2023): https://doi.org/10.1101/2023.09.22.558020
+     Matched: Macrophage adhesion assay · cat /papers/bio_e87507fc7271/content.lines --lines 59
+     │ Endothelial macrophage adhesion was determined according to our previously described methods
+     │ 11 39 . Briefly, MEC were cultured to confluence in 6-well plates and treated with CCL5 (100
+     │ ng/mL) for 24 hours in the presence of vehicle or Maraviroc (40 µM). Non-stimulated MEC
+     │ served as controls. Macrophage cells (RAW 264.7, ATCC) were cultured in Dulbecco’s Modified
+     │ Eagle’s Medium (DMEM) contained 10% of Fetal Bovine Serum (FBS). For cell fluorescent
+     │ labeling, macrophages (10 5 cells/mL) were suspended in 1% bovine serum albumin
+     │ (BSA)-supplemented phosphate buffered saline containing 1 μM calcein-AM (Invitrogen) and
+     │ incubated for 20 minutes at 37 °C. Labeled macrophages were washed twice …
+     "This study investigated the role of CCL5 and CCR5 in aldosterone-induced hypertension and vascular damage. Findings show that CCR5 is essential for aldosterone-induced hypertension, vascular dysfunction, and renal damage, acting via Nox1 and NFκB activation."
+
+  9. Bacterial Lipopolysaccharide Rapidly Inhibits Expression of C–C Chemokine Receptors in Human Monocytes
+     Antonio Sica, Alessandra Saccani, Alessandro Borsatti, Christine A. Power, Timothy N.C. Wells, Walte...
+     PMC2196159 · PMC · 1997-03-03
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2196159/
+     Matched: Discussion · cat /papers/PMC2196159/content.lines --lines 34-36
+     │ The results presented here show that LPS causes a drastic and rapid downregulation of the
+     │ expression of CCR2, a receptor for MCP-1 and -3. The ED50 of LPS was ∼1 ng/ml and half-
+     │ maximal effect was reached with an optimal dose in ∼45 min. Inhibition of MCP-1 receptor
+     │ expression was functionally relevant since LPS-treated monocytes showed a reduced capacity
+     │ to bind and to respond to MCP-1 chemotactically. Two isoforms of CCR2 (A and B) have been
+     │ cloned (23). Monocytes and activated NK cells express predominantly a 3.5-kb mRNA encoding
+     │ the B form, with low levels of A transcripts (23, 35). LPS reduced expression of both
+     │ isoforms (Fig. 1 and data not shown). Moreover LPS also inhibited …
+     "Bacterial lipopolysaccharide (LPS) was studied for its effect on C-C chemokine receptors in human monocytes. LPS rapidly reduces CCR2 mRNA by decreasing its half-life, impacting monocyte responsiveness to chemokines."
+
+  10. Blocking the CCL5–CCR5 Axis Using Maraviroc Promotes M1 Polarization of Macrophages Cocultured with Irradiated Hepatoma Cells
+     Yuan Zhuang; Xiaomei Zhao; Baoying Yuan; Zhaochong Zeng; Yixing Chen
+     PMC8219307 · PMC · 2021-06-18 · 46 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8219307/
+     Matched: CCL5 Polarizes THP-1 Macrophages Toward an M2-Like Phenotype · cat /papers/PMC8219307/content.lines --lines 44-45
+     "This study investigated how blocking the CCL5–CCR5 axis with maraviroc affects macrophages cocultured with irradiated hepatoma cells. Maraviroc promotes M1 macrophage polarization, enhancing hepatoma cell radiosensitivity and antitumor effects."
+
+  11. Deficiency of Lactoferrin aggravates lipopolysaccharide-induced acute inflammation via recruitment macrophage in mice
+     Can Liu; Qiu Peng; Lingyu Wei; Zhengshuo Li; Xiaoyue Zhang; Yangge Wu; Jia Wang; Xiang Zheng; Yuqing...
+     PMC9159647 · PMC · 2022-06-01 · 15 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9159647/
+     Matched: Lf suppresses macrophage chemotaxis and alleviates inflammatory respon · cat /papers/PMC9159647/content.lines --lines 54-55
+     "Lactoferrin deficiency was studied in a lipopolysaccharide-induced acute inflammation model. Lf deficiency aggravates inflammation by promoting macrophage recruitment through increased chemokine expression."
+
+  12. CCL5 paradoxically regulates glomerular injury by skewing macrophage polarization
+     Ika N. Kadariswantiningsih; Issei Okunaga; Kaho Yamasaki; Maulana A. Empitu; Hiroyuki Yamada; Shin-i...
+     PMC12643500 · PMC · 2025-09-23 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12643500/
+     Matched: CCL5 skews macrophage polarization toward the M1 phenotype. · cat /papers/PMC12643500/content.lines --lines 63-66
+     "CCL5 was studied for its role in regulating glomerular injury. CCL5 exacerbates kidney damage by promoting inflammatory macrophages, despite protecting podocytes in vitro."
+
+  13. TLR4/MyD88 -mediated CCL2 production by lipopolysaccharide (endotoxin): Implications for metabolic inflammation
+     Nadeem Akhter; Amal Hasan; Steve Shenouda; Ajit Wilson; Shihab Kochumon; Shamsha Ali; Jaakko Tuomile...
+     PMC6154519 · Journal of Diabetes and Metabolic Disorders · 2018-04-16 · 55 citations
+     https://doi.org/10.1007/s40200-018-0341-y
+     Matched: LPS upregulates CCL2 in monocytes/macrophages · cat /papers/PMC6154519/content.lines --lines 38-39
+     │ Here, our data show that LPS significantly stimulates CCL2 gene expression at both mRNA
+     │ (23.40 ± 0.071 Fold; P < 0.0001; (Fig. 1a) and protein (1048 ± 5.67 pg/ml; P < 0.0001; (Fig.
+     │ 1b)) levels in human monocytic cells. Since macrophages are major players in adipose tissue
+     │ inflammation, we incubated monocyte-derived macrophages and primary macrophages with LPS.
+     │ Our results indicate that LPS upregulates CCL2 in macrophages at both mRNA (THP-1-derived
+     │ macrophages: 103 ± 0.56 Fold; P < 0.0001 (Fig. 1c); Primary macrophages: 48 ± 1.41 Fold; P =
+     │ 0.0005, (Fig. 1e)) and protein (THP-1-derived macrophages: 2014 ± 2.12 pg/ml; P, 0.0001,
+     │ (Fig. 1d); Primary macrophages: 859.5 ± 3.54 pg/ml P < 0.0003 …
+     "This study investigated how lipopolysaccharide (LPS) increases CCL2 production in human monocytes and macrophages. LPS induces CCL2 via the TLR4/MyD88 pathway, activating NF-kB and AP-1 transcription factors."
+
+  14. Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni, Yanal Ghosheh, Akula Bala Pramod, Klaus Ley
+     PMC6543837 · Frontiers in Immunology · 2019-05-24 · 1909 citations
+     https://doi.org/10.3389/fimmu.2019.01084
+     Matched: In vivo M1(=LPS+)C57BL/6J Exclusive Genes Drive Anti-bacterial Immune  · cat /papers/PMC6543837/content.lines --lines 40-43
+     "This study compared gene expression in *in vivo* M1/M2 macrophages with *in vitro* classically/alternatively activated macrophages. The findings indicate that *in vivo* M1/M2 polarization is not equivalent to *in vitro* activation states."
+
+  15. C‐C motif chemokine ligand 5 confines liver regeneration by down‐regulating reparative macrophage‐derived hepatocyte growth factor in a forkhead box O 3a–dependent manner
+     Miao Huang; Junzhe Jiao; Hao Cai; Yichi Zhang; Yuhan Xia; Jiacheng Lin; Zhi Shang; Yihan Qian; Fang ...
+     PMC9790589 · PMC · 2022-05-05 · 50 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9790589/
+     Matched: Ccl5 deficiency promotes reparative macrophage polarization after PHx · cat /papers/PMC9790589/content.lines --lines 96
+     │ Next, we compared the mRNA expression of Ly6Clo (Il‐10, mannose receptor C‐type 1 [Mrc1],
+     │ and resistin‐like alpha protein [Retnlα]) and Ly6Chi (Il‐1β, Il‐6, Tnf‐α, and nitric oxide
+     │ synthase 2 [Nos2]) markers in sorted macrophages using qPCR, revealing similar results to
+     │ those of the flow cytometry analysis (Figure 5B,C). Given that there is a potential
+     │ relationship between circulating monocytes and hepatic macrophages, we analyzed peripheral
+     │ blood mononuclear cells using flow cytometry, observing no significant differences in the
+     │ Ly6Clo or Ly6Chi monocyte populations between WT and Ccl5−/− mice (Figure S3E). Together,
+     │ these results suggest that CCL5 may be involved in Ly6Clo to Ly6Chi …
+     "C-C motif chemokine ligand 5 (CCL5) was studied as a regulator of liver regeneration. CCL5 restrains liver regeneration by reducing reparative macrophage-derived hepatocyte growth factor via the FoxO3a pathway."
+
+  16. Transcriptome Analysis Provides Insights into the Markers of Resting and LPS-Activated Macrophages in Grass Carp (Ctenopharyngodon idella)
+     Yazhen Hu; Xiaolei Wei; Zhiwei Liao; Yu Gao; Xiaoling Liu; Jianguo Su; Gailing Yuan
+     PMC6274997 · International Journal of Molecular Sciences · 2018-11-12 · 35 citations
+     https://doi.org/10.3390/ijms19113562
+     Matched: 3. Discussion · cat /papers/PMC6274997/content.lines --lines 39-40
+     "This study analyzed the transcriptomes of resting and LPS-activated grass carp macrophages. Four novel cell surface markers and two chemokines were identified as potential macrophage markers, with others indicating activation."
+
+  17. CCL5 promotes breast cancer recurrence through macrophage recruitment in residual tumors
+     Andrea Walens; Ashley V DiMarco; Ryan Lupo; Benjamin R Kroger; Jeffrey S Damrauer; James V Alvarez
+     PMC6478432 · PMC · 2019-04-16 · 192 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6478432/
+     Matched: CCL5 promotes macrophage infiltration in residual tumors · cat /papers/PMC6478432/content.lines --lines 35
+     "This study investigated how residual breast cancer cells promote recurrence after treatment. Elevated CCL5 recruits macrophages, which may drive recurrence by increasing collagen deposition."
+
+  18. The CCL5/CCR5/SHP2 axis sustains Stat1 phosphorylation and activates NF-κB signaling promoting M1 macrophage polarization and exacerbating chronic prostatic inflammation
+     Chen Jin; Fei Zhang; Hailang Luo; Boyang Li; Xue Jiang; Christopher J. Pirozzi; Chaozhao Liang; Meng...
+     PMC11619290 · PMC · 2024-12-05 · 41 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11619290/
+     Matched: Discussion · cat /papers/PMC11619290/content.lines --lines 100-101
+     │ Chronic prostatitis remains a significant clinical challenge because of its complex
+     │ etiology, high recurrence rates, and limited efficacy of current treatment options [55, 56].
+     │ Despite its widespread prevalence, the underlying mechanisms driving CP pathogenesis,
+     │ particularly persistent inflammation and immune dysregulation, remain poorly understood.
+     │ While cytokines are thought to play pivotal roles in shaping the inflammatory
+     │ microenvironment of the CP, previous studies have focused largely on isolated markers [22,
+     │ [57], 58]. These studies fail to provide a comprehensive understanding of the critical
+     │ cytokines that drive disease progression. In our study, we aimed to bridge this gap by …
+     "This study identified elevated CCL5 as a key driver of chronic prostatitis. The CCL5/CCR5 axis promotes M1 macrophage polarization and sustained inflammation, presenting a potential therapeutic target."
+
+  19. Artesunate Alleviates Inflammatory Injury in Neonatal Acute Respiratory Distress Syndrome Through CCL5‐Mediated Pyroptosis of M2 Macrophage Subsets
+     Hai-Ran Ma; Yan-Mei Xie; Yu-Xuan Zhang; Chong-He Cui; Jing Liu
+     PMC13443700 · PMC · 2026-08-05 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13443700/
+     Matched: 3.5. In Vitro Experiments Verified that the Specific High Expression o · cat /papers/PMC13443700/content.lines --lines 70-71
+     "Neonatal acute respiratory distress syndrome (NARDS) is a life‐threatening respiratory disorder characterized by high mortality and significant long‐term morbidity. Increasing evidence suggests that p"
+
+  20. Tumor-associated macrophage-derived chemokine CCL5 facilitates the progression and immunosuppressive tumor microenvironment of clear cell renal cell carcinoma
+     Wenhao Xu; Yuhao Wu; Wangrui Liu; Aihetaimujiang Anwaier; Xi Tian; Jiaqi Su; Haineng Huang; Gaomeng ...
+     PMC9379407 · PMC · 2022-07-18 · 74 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9379407/
+     Matched: Supplementary Material · cat /papers/PMC9379407/content.lines --lines 92-93
+     "Tumor-associated macrophages (TAMs) expressing CCL5 were studied in clear cell renal cell carcinoma (ccRCC). Elevated CCL5+ TAMs promote tumor progression and an immunosuppressive microenvironment, correlating with poor prognosis."
+
+  21. Regulating G protein-coupled receptors by topological inversion
+     Bray Denard; Sungwon Han; JungYeon Kim; Elliott M Ross; Jin Ye
+     PMC6400500 · PMC · 2019-03-05 · 13 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6400500/
+     Matched: Results · cat /papers/PMC6400500/content.lines --lines 48-51
+     "This study investigates the topological inversion of G protein-coupled receptors (GPCRs) mediated by sphingolipids. The findings suggest that GPCRs can alter their topology, as demonstrated by CCR5's response to LPS, impacting cellular migration."
+
+  22. Adipose Tissue-Derived CCL5 Enhances Local Pro-Inflammatory Monocytic MDSCs Accumulation and Inflammation via CCR5 Receptor in High-Fat Diet-Fed Mice
+     Pei-Chi Chan; Chieh-Hua Lu; Hung-Che Chien; Yu-Feng Tian; Po-Shiuan Hsieh
+     PMC9692513 · PMC · 2022-11-17 · 28 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9692513/
+     Matched: 2.4. Tissue-Specific CCL5 Is Critical for the Recruitment of CD11b+Ly6 · cat /papers/PMC9692513/content.lines --lines 25-26
+     "Adipose tissue CCL5 was studied in high-fat diet-fed mice using genetic modifications and lentivirus injections. Adipose tissue CCL5 drives pro-inflammatory MDSC accumulation and inflammation via CCR5, contributing to obesity and insulin resistance."
+
+  23. Monocyte normal immune response to LPS stimulation
+     P Myrianthefs; K Venetsanou; E Grouzi; E Boutzouka; P Evagelopoulou; G Fildissis; I Spiliotopoulou; ...
+     PMC3333514 · Critical Care · 2002-03-01 · 1 citation
+     https://doi.org/10.1186/cc1554
+
+  24. Early-Life Exposure to Lipopolysaccharide Induces Persistent Changes in Gene Expression Profiles in the Liver and Spleen of Female FVB/N Mice
+     Elda Dervishi; Dagnachew Hailemariam; Seyed Ali Goldansaz; Burim N. Ametaj
+     PMC10384579 · Veterinary Sciences · 2023-07-08 · 5 citations
+     https://doi.org/10.3390/vetsci10070445
+     Matched: 4. Discussion · cat /papers/PMC10384579/content.lines --lines 57-58
+     │ Overexpression of Ccl17 is intriguing because it interacts with a high-affinity receptor
+     │ found on T cells and, to a lesser extent, monocytes. This is a chemokine that plays a role
+     │ in both innate and adaptive immune regulation. CCL17 attracts both natural killer cells and
+     │ dendritic cells. This chemokine is also important because it attracts Th2 cells and
+     │ suppresses type 1 innate immune responses while stimulating type 2 immune responses [80].
+     │ While type 1 immune responses are characterized by the activation of M1 macrophages
+     │ associated with phagocytic activity, type 2 immune responses are associated with the
+     │ activation of M2 macrophages associated with humoral immunity [80]. It is likely …
+     "Early-life exposure to lipopolysaccharide was studied for its effects on gene expression in mouse liver and spleen. This exposure caused lasting changes in genes related to inflammation and adaptive immunity."
+
+  25. C-C Chemokine Ligand-5 is critical for facilitating macrophage infiltration in the early phase of liver ischemia/reperfusion injury
+     Chiou-Mei Lee; Hsin-Hsin Peng; Polung Yang; Jiin-Tarng Liou; Chia-Chih Liao; Yuan-Ji Day
+     PMC5473895 · PMC · 2017-06-16 · 35 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5473895/
+     Matched: Inhibition of hepatic IRI by CCL5 receptor antagonist · cat /papers/PMC5473895/content.lines --lines 20-21
+     │ An in vivo competition against CCL5 for receptor binding was further performed using Met-
+     │ CCL5, an antagonist of CCR1 and CCR5 receptor. Treatment with escalating doses of Met-CCL5
+     │ at 10, 100, and 1,000 ng per animal immediately after reperfusion at the end of ischemia
+     │ that lasted 60 minutes in wt mice successfully alleviated the severity of hepatic IRI in a
+     │ dose-proportionate manner (Fig. 2). The serum ALT level following IRI was 4,005 ± 1,211,
+     │ 2,216 ± 729, and 1,518 ± 516 (IU/mL) for wt mice with 10, 100, and 1,000 ng of Met-CCL5
+     │ treatment, respectively (p = 0.11, <0.0001, and <0.0001, respectively), versus the value of
+     │ 4,689 ± 1,366 in serum ALT level of vehicle treated control mice …
+     "CCL5 was studied for its role in liver ischemia/reperfusion injury (IRI). CCL5 is critical for early macrophage infiltration, which exacerbates liver IRI."
+
+[2.3s, saved to s_b300fa89]
+
+💡 Extract data across these results with: map --from s_b300fa89 "your question"
+[2.3s, saved to s_b300fa89]  [repo: mva-lof-molecular]
+

@@ -1,0 +1,268 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Ccl17 (C-C motif chemokine ligand 17) LPS macrophage
+# exit 0
+Found 25 papers  [s_5e3022fd]
+
+  1. Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni, Yanal Ghosheh, Akula Bala Pramod, Klaus Ley
+     PMC6543837 · Frontiers in Immunology · 2019-05-24 · 1909 citations
+     https://doi.org/10.3389/fimmu.2019.01084
+     Matched: In vivo M1(=LPS+)C57BL/6J Present Immunoregulatory Functions Shared Wi · cat /papers/PMC6543837/content.lines --lines 73-74
+     │ In the signature comparison, 28 genes up-regulated in in vivo M1(=LPS+)C57BL/6J and in vitro
+     │ alternatively activated (IL-4) Mφ signatures were found (Figure 1A, Supplementary Table 5),
+     │ including four chemokines: Ccl7, Ccl17, Ccl22, and Ccl24. Ccl7 is known to be expressed by
+     │ both M1 and M2 macrophages (78). CCL17 and CCL22 are both ligands of the CCR4 receptor. In
+     │ vitro alternatively activated macrophages have been shown to produce all these chemokines in
+     │ high amounts in the response of Th2 cytokines such as IL-4, and IL-13 (18, 79).
+     │ Functionally, CCL17 and CCL22 together with CCL24 are potent chemoattractants, favoring the
+     │ attraction of immune-inhibitory cells such as regulatory T-cells …
+     "This study compared gene expression in *in vivo* M1/M2 macrophages with *in vitro* classically/alternatively activated macrophages. The findings indicate that *in vivo* M1/M2 polarization is not equivalent to *in vitro* activation states."
+
+  2. Early-Life Exposure to Lipopolysaccharide Induces Persistent Changes in Gene Expression Profiles in the Liver and Spleen of Female FVB/N Mice
+     Elda Dervishi; Dagnachew Hailemariam; Seyed Ali Goldansaz; Burim N. Ametaj
+     PMC10384579 · Veterinary Sciences · 2023-07-08 · 5 citations
+     https://doi.org/10.3390/vetsci10070445
+     Matched: 4. Discussion · cat /papers/PMC10384579/content.lines --lines 57-58
+     │ Overexpression of Ccl17 is intriguing because it interacts with a high-affinity receptor
+     │ found on T cells and, to a lesser extent, monocytes. This is a chemokine that plays a role
+     │ in both innate and adaptive immune regulation. CCL17 attracts both natural killer cells and
+     │ dendritic cells. This chemokine is also important because it attracts Th2 cells and
+     │ suppresses type 1 innate immune responses while stimulating type 2 immune responses [80].
+     │ While type 1 immune responses are characterized by the activation of M1 macrophages
+     │ associated with phagocytic activity, type 2 immune responses are associated with the
+     │ activation of M2 macrophages associated with humoral immunity [80]. It is likely …
+     "Early-life exposure to lipopolysaccharide was studied for its effects on gene expression in mouse liver and spleen. This exposure caused lasting changes in genes related to inflammation and adaptive immunity."
+
+  3. Compartmentalized Production of CCL17 In Vivo
+     Judith Alferink; Ivo Lieberam; Wolfgang Reindl; Andrea Behrens; Susanne Weiß; Norbert Hüser; Klaus G...
+     PMC2193819 · The Journal of Experimental Medicine · 2003-03-03 · 172 citations
+     https://doi.org/10.1084/jem.20021859
+     Matched: Stimulation with Microbial Compounds or Inflammatory Cytokines Augment · cat /papers/PMC2193819/content.lines --lines 60-61
+     │ To explore the impact of bacterial products or inflammatory mediators on CCL17 expression,
+     │ BM-derived DCs were stimulated with various known Toll-like receptor (TLR) ligands and
+     │ TNF-α. The gram-negative bacterial compound LPS as well as the synthetic lipopeptide PAM3Cys
+     │ induced a twofold increase in the percentage of CCL17-expressing DCs after 15 h of culture
+     │ and also up-regulated the level of CCL17 expression (Fig. 7 A). Stimulation with the
+     │ immunostimulatory CpG oligodeoxynucleotide 1668 (CpG-ODN) or Poly-(I:C) induced the
+     │ strongest CCL17 expression (Fig. 7 A). In contrast, the level of CCL17 production after
+     │ treatment with TNF-α was relatively low. More than 50% of the CCL17+ DCs …
+     "CCL17 production in mice was studied using a reporter system, revealing its presence in activated DCs in peripheral organs but not the spleen. This compartmentalized expression is crucial for T cell responses and transplant rejection."
+
+  4. Sepsis induces incomplete M2 phenotype polarization in peritoneal exudate cells in mice
+     Nobuo Watanabe; Yusuke Suzuki; Sadaki Inokuchi; Shigeaki Inoue
+     PMC4709882 · Journal of Intensive Care · 2016-01-12 · 34 citations
+     https://doi.org/10.1186/s40560-015-0124-1
+     Matched: Chemokine expression shifts toward M1 phenotype with LPS stimulation o · cat /papers/PMC4709882/content.lines --lines 77-79
+     │ Chemokine (C-C motif) ligand 2 (CCL2/MCP1) is a typical M1 macrophage chemokine [16, 17].
+     │ CLP-PE cells derived from mice at 20 h post-surgery showed a trend of elevated CCL2 without
+     │ LPS treatment (Fig. 3a). Similar to cytokine expression, LPS treatment induced CCL2
+     │ expression in sham-PE cells. However, in CLP-PE cells, no further increase in CCL2
+     │ expression was observed after LPS stimulation. Fig. 3: M1 polarization of chemokine
+     │ expression of CLP-derived PE cells after LPS stimulation. PE cells harvested from mice at 20
+     │ h after sham or CLP operation were cultured in the presence or absence of LPS (1 μg/ml) for
+     │ 6 h (n = 4 or 5 for each group). Real-time PCR was used to analyze the expression …
+     "Sepsis in mice shifted peritoneal exudate cells towards an incomplete M2 phenotype. This shift, marked by suppressed pro-inflammatory responses and absent M2 chemokines, may cause post-sepsis immunosuppression."
+
+  5. Anti-Inflammatory Effects of Cicadidae Periostracum Extract and Oleic Acid through Inhibiting Inflammatory Chemokines Using PCR Arrays in LPS-Induced Lung inflammation In Vitro
+     Jung-Hee Hong; Young-Cheol Lee
+     PMC9225349 · Life · 2022-06-08 · 15 citations
+     https://doi.org/10.3390/life12060857
+     Matched: 3.3.1. Modulatory Effects of CP and OA Treatments on mRNA Gene Express · cat /papers/PMC9225349/content.lines --lines 81-82
+     │ IL-4- or IL-13-induced M2a macrophages typically express CCL17 [83]. However, it was shown
+     │ that CCR4 (the receptor for CCL17)-dependent CCL17 plays a role in M1 activation of lung-
+     │ associated and monocyte-derived macrophages, leading to iNOS induction. Meanwhile,
+     │ CCR4-deficient (CCR4−/−) macrophages more frequently displayed the M2 phenotype [84]. In
+     │ addition, CCR4−/− mice showed lower serum levels of TNF-α and CCL3 after LPS administration
+     │ than CCR4 WT mice, which suggests that CCR4 plays a specific role in the process of LPS
+     │ invasion [85]. Macrophages in asthmatics’ sputum exhibited significantly upregulated CCL17
+     │ mRNA expression, which highly correlated with sputum eosinophilia, but other …
+     "Cicadidae periostracum (CP) and oleic acid (OA) extracts were studied for anti-inflammatory effects in LPS-induced lung inflammation. Both CP and OA significantly inhibited inflammatory chemokines and cytokines by suppressing key signaling pathways."
+
+  6. C–C Chemokines Released by Lipopolysaccharide (LPS)-stimulated Human Macrophages Suppress HIV-1 Infection in Both Macrophages and T Cells
+     Alessia Verani; Gabriella Scarlatti; Manola Comar; Eleonora Tresoldi; Simona Polo; Mauro Giacca; Pao...
+     PMC2196157 · The Journal of Experimental Medicine · 1997-03-03 · 125 citations
+     https://doi.org/10.1084/jem.185.5.805
+     Matched: cat /papers/PMC2196157/content.lines --lines 7-9
+     "Lipopolysaccharide-stimulated macrophages release C-C chemokines that suppress HIV-1 infection. These chemokines inhibit HIV-1 replication in both macrophages and T cells."
+
+  7. SENP3 mediated DeSUMOylation of macrophage derived CCL17 accelerates atherosclerosis via regulation of Treg
+     Xiliang Zhao; Fenfang Zhang; Jianjun Du; Yaodong Ding; Yang Zhang; Yong Zeng; Yicong Ye
+     PMC12634754 · PMC · 2025-11-21 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12634754/
+     Matched: Macrophages stimulated by oxLDL affect the chemotaxis of Treg through  · cat /papers/PMC12634754/content.lines --lines 69-70
+     "This study investigated SENP3's role in atherosclerosis by examining its regulation of CCL17. SENP3 deSUMOylates CCL17, increasing its expression and accelerating atherosclerosis by affecting Treg cell recruitment."
+
+  8. Interleukin-4 induction of the CC chemokine TARC (CCL17) in murine macrophages is mediated by multiple STAT6 sites in the TARC gene promoter
+     Kate Liddiard, John S Welch, Jean Lozach, Sven Heinz, Christopher K Glass, David R Greaves
+     PMC1698493 · PMC · 2006-01-01 · 57 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1698493/
+     "This study investigated how Interleukin-4 induces the CC chemokine TARC in mouse macrophages. The induction of TARC by IL-4 is mediated by cooperative interactions between multiple STAT6 binding sites in the TARC gene promoter."
+
+  9. Comparative Study of The Effect of LPS on The Function of BALB/c and C57BL/6 Peritoneal Macrophages
+     Sara Soudi; Ahmad Zavaran-Hosseini; Zuhair Muhammad Hassan; Masoud Soleimani; Fatemeh Jamshidi Adega...
+     PMC3660024 · Cell Journal (Yakhteh) · 2013-05-05
+     Matched: Cytokine assay · cat /papers/PMC3660024/content.lines --lines 44-46
+     │ To determine the nature of the immune responses of macrophages from BALB/c and C57BL/6 mice
+     │ to LPS stimulation, we measured the amount of IFN-λ, IL-4, TGF-β1, IL-17, and IL-10 produced
+     │ in the supernatant at 0 (pre-LPS treatment), and 3, 24, 48, and 72 hours post- LPS
+     │ treatment. As shown in figure 2, TGF-β1 production increased significantly (p≤0.05) in
+     │ BALB/c macrophages compared to C57BL/6 macrophages in response to LPS. Cytokine analysis
+     │ showed that IL-17 production was induced in both mice groups after LPS stimulation, but the
+     │ production level of C57BL/6 macrophages was significantly higher than the production level
+     │ of BALB/c macrophages at 0 (pre-stimulation), and 3, 24, and 48 hours …
+     "Peritoneal macrophages from BALB/c and C57BL/6 mice were stimulated with LPS to compare their responses. Different mouse strains exhibit distinct cytokine profiles and functional activities when exposed to LPS."
+
+  10. TLR4/MyD88 -mediated CCL2 production by lipopolysaccharide (endotoxin): Implications for metabolic inflammation
+     Nadeem Akhter; Amal Hasan; Steve Shenouda; Ajit Wilson; Shihab Kochumon; Shamsha Ali; Jaakko Tuomile...
+     PMC6154519 · Journal of Diabetes and Metabolic Disorders · 2018-04-16 · 55 citations
+     https://doi.org/10.1007/s40200-018-0341-y
+     Matched: LPS upregulates CCL2 in monocytes/macrophages · cat /papers/PMC6154519/content.lines --lines 38-39
+     │ Here, our data show that LPS significantly stimulates CCL2 gene expression at both mRNA
+     │ (23.40 ± 0.071 Fold; P < 0.0001; (Fig. 1a) and protein (1048 ± 5.67 pg/ml; P < 0.0001; (Fig.
+     │ 1b)) levels in human monocytic cells. Since macrophages are major players in adipose tissue
+     │ inflammation, we incubated monocyte-derived macrophages and primary macrophages with LPS.
+     │ Our results indicate that LPS upregulates CCL2 in macrophages at both mRNA (THP-1-derived
+     │ macrophages: 103 ± 0.56 Fold; P < 0.0001 (Fig. 1c); Primary macrophages: 48 ± 1.41 Fold; P =
+     │ 0.0005, (Fig. 1e)) and protein (THP-1-derived macrophages: 2014 ± 2.12 pg/ml; P, 0.0001,
+     │ (Fig. 1d); Primary macrophages: 859.5 ± 3.54 pg/ml P < 0.0003 …
+     "This study investigated how lipopolysaccharide (LPS) increases CCL2 production in human monocytes and macrophages. LPS induces CCL2 via the TLR4/MyD88 pathway, activating NF-kB and AP-1 transcription factors."
+
+  11. Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni; Yanal Ghosheh; Akula Bala Pramod; Klaus Ley
+     PMC7053374 · Frontiers in Immunology · 2020-02-25 · 77 citations
+     https://doi.org/10.3389/fimmu.2020.00234
+
+  12. Transcriptome Analysis Provides Insights into the Markers of Resting and LPS-Activated Macrophages in Grass Carp (Ctenopharyngodon idella)
+     Yazhen Hu; Xiaolei Wei; Zhiwei Liao; Yu Gao; Xiaoling Liu; Jianguo Su; Gailing Yuan
+     PMC6274997 · International Journal of Molecular Sciences · 2018-11-12 · 35 citations
+     https://doi.org/10.3390/ijms19113562
+     Matched: 3. Discussion · cat /papers/PMC6274997/content.lines --lines 39-40
+     "This study analyzed the transcriptomes of resting and LPS-activated grass carp macrophages. Four novel cell surface markers and two chemokines were identified as potential macrophage markers, with others indicating activation."
+
+  13. Serum C-C motif chemokine ligand 17 as a predictive biomarker for the progression of non-idiopathic pulmonary fibrosis interstitial lung disease
+     Takatoshi Enomoto; Yoshito Takeda; Yuya Shirai; Takehiro Hasegawa; Feng Zhao; Hanna Lunding; Moritz ...
+     PMC12020124 · PMC · 2025-04-23 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12020124/
+     Matched: Increased levels of serum CCL17 reflecting an increase in CCL17 in lun · cat /papers/PMC12020124/content.lines --lines 140-141
+     │ To evaluate the longitudinal expression of CCL17 in lung and serum during the development of
+     │ fibrosis, we utilized a mouse model of bleomycin-induced pulmonary fibrosis. The extent of
+     │ fibrosis in the lung tissues was assessed using Azan staining on day 0, day 3, day 10, and
+     │ day 21 after bleomycin treatment. We found that fibrosis was observed after day 10 of
+     │ bleomycin treatment, with the strongest fibrosis observed on day 21, as previously reported
+     │ [17] (Fig. 6C and D). Consistent with those in patients with PPF, CCL17 levels were
+     │ increased in lung tissues after bleomycin treatment (Fig. 6E and F). Similarly, CCL17 levels
+     │ were increased in the serum, peaking on day 10 (Fig. 6G). Notably, …
+     "Serum C-C motif chemokine ligand 17 (CCL17) was measured to predict interstitial lung disease (ILD) progression. Higher serum CCL17 levels predict ILD progression and mortality, reflecting increased lung CCL17."
+
+  14. IL-17A induces heterogeneous macrophages, and it does not alter the effects of lipopolysaccharides on macrophage activation in the skin of mice
+     Kozo Nakai; Yu-Ying He; Fumiko Nishiyama; Fukiko Naruse; Reiji Haba; Yoshio Kushida; Naomi Katsuki; ...
+     PMC5622065 · Scientific Reports · 2017-09-29 · 49 citations
+     https://doi.org/10.1038/s41598-017-12756-y
+     Matched: Discussion · cat /papers/PMC5622065/content.lines --lines 57-58
+     │ IL-17 is a key mediator in inflammatory skin diseases. Since macrophages are involved in the
+     │ IL-17-induced inflammation, we examined the effects of IL-17A on the expression of
+     │ macrophage activation markers in the skin of mice. Local treatment with subcutaneous
+     │ injection or systemic treatment with intraperitoneal injection of IL-17A increased the
+     │ expression levels of F4/80, iNOS, CX3CR1 and CD206 proteins in the skin of B6 mice. IL-17A
+     │ activated both STAT1 and STAT3 in macrophages in the skin of B6 mice. Likewise, the
+     │ expression levels of F4/80, iNOS, CX3CR1 and CD206 increased and both STAT1 and STAT3 were
+     │ activated in the IMQ-treated skin and the skin of Flg ft mice. IL-17A neutralization …
+     "This study examined how IL-17A and LPS affect macrophage activation in mouse skin. IL-17A induces heterogeneous macrophages but does not change LPS's activation effects."
+
+  15. Role of Fibroblasts in Chronic Inflammatory Signalling in Chronic Rhinosinusitis with Nasal Polyps—A Systematic Review
+     José Palacios-García; Cristina Porras-González; Ramón Moreno-Luna; Juan Maza-Solano; Juan Polo-Padil...
+     PMC10179235 · PMC · 2023-05-04 · 18 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10179235/
+     Matched: 4.10. Chemokine C-C Motif Ligand 17 (CCL17) · cat /papers/PMC10179235/content.lines --lines 58
+     │ CCL17, also called thymus and activation-regulated chemokine (TARC), is a cytokine belonging
+     │ to the CC chemokine family and is associated with type 2 immune responses by inducing T cell
+     │ chemotaxis through its interaction with the CCR4 chemokine receptor [93]. NPDF can produce
+     │ CCL17 (TARC) through the combined stimulation of IL-4 and LPS [94]. Nonaka et al. [95]
+     │ demonstrated that NPDF did not induce CCL17 (TARC) production after individual stimulation
+     │ with TLR ligands. However, a combined stimulation of different TLRs, such as TLR2, 3, 4, 5
+     │ ligands, together with IL-4, induced an increase in CCL17 (TARC) secretion. The same author
+     │ found that the stimulation of NPDF with poly IC, poly IC and …
+     "This systematic review evaluated the inflammatory role of fibroblasts in chronic rhinosinusitis with nasal polyps. Fibroblasts contribute to inflammation by secreting cytokines and are a potential therapeutic target."
+
+  16. Imbalance polarization of M1/M2 macrophages in miscarried uterus
+     Jun Feng; Ping Gao; Ting Wu; Wenjie Hou; Yueming Zhang; Lili Li
+     PMC11271943 · PMC · 2024-07-25 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11271943/
+     Matched: Monocyte-macrophage migration and expression of related chemokines are · cat /papers/PMC11271943/content.lines --lines 46-48
+     "This study analyzed macrophage polarization in LPS-induced miscarried uteri. Results show increased M1 and decreased M2 macrophages, suggesting their imbalance contributes to miscarriage."
+
+  17. Screening of the FDA-approved drug library identifies CCL17 inhibitors that block arthritic pain
+     Mahtab Eivazitork; Tanya J. Lupancu; Keith Lim; Yu-Kuan Huang; John A. Hamilton; Kevin M. C. Lee; Ad...
+     PMC12287273 · PMC · 2025-07-23 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12287273/
+     Matched: Screening of FDA-approved drugs to identify CCL17-inhibiting candidate · cat /papers/PMC12287273/content.lines --lines 23
+     "An FDA-approved drug library was screened to identify inhibitors of CCL17 production. Five drugs were found to inhibit CCL17 without affecting CCL22, with four showing efficacy in blocking arthritic pain."
+
+  18. CHEMOKINE SIGNALING IN BREAST CANCER: FOCUS ON CC-MOTIF CHEMOKINE LIGANDS
+     Sedat Kacar *
+     bio_20c64eb77894 · bioRxiv · 2024-03-01 · 0 citations (all versions)
+     Published (2024): https://doi.org/10.1101/2024.03.01.583061
+     Matched: C-C motif chemokine ligand 17 (CCL17) · cat /papers/bio_20c64eb77894/content.lines --lines 108-110
+     │ Chemokine ligand 17 (CCL17) is also known as thymus-and activation-regulated chemokine
+     │ (TARC), and its only known receptors are CCR4. CCL17 is mentioned in the paper of Mollica
+     │ Poeta et al. (2019) that it directly gathers regulatory T cells and TH2 lymphocytes and
+     │ exacerbate tumor outcome (Mollica Poeta et al., 2019 ). In the original paper of …, this
+     │ effect is indicated to not be as effective as CCL22 shows ( Gobert et al., 2009 ). One of 7
+     │ increased chemokines in solid tumor compared to normal based on TCGA data analysis ( Fig. 2
+     │ ). As shown in Figure 2 , 3 , 5 and Supp. Fig 2 , CCL17 levels are significantly higher in
+     │ NAT when compared to normal breast tissue samples and highest …
+     "This study reviews CC-motif chemokines' roles in breast cancer, analyzing their expression and survival correlations. Findings highlight their potential as diagnostic markers and therapeutic targets."
+
+  19. Is CC Chemokine Ligand 17 (TARC) Driving Disease Progression in Chronic Obstructive Pulmonary Disease?
+     Jason Girkin
+     PMC8990115 · PMC · 2022-02-08 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8990115/
+     Matched: cat /papers/PMC8990115/content.lines --lines 10-11
+
+  20. Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyromonas endodontalis, Induces Macrophage M1 Profile
+     Pablo Veloso; Alejandra Fernández; Jessica Astorga; David González-Quintanilla; Alfredo Castro; Alej...
+     PMC9456100 · International Journal of Molecular Sciences · 2022-09-02 · 16 citations
+     https://doi.org/10.3390/ijms231710011
+     Matched: 5. Conclusions · cat /papers/PMC9456100/content.lines --lines 70-73
+     "This study investigated the effects of lipopolysaccharides from *Porphyromonas gingivalis* and *Porphyromonas endodontalis* on macrophage polarization. *P. gingivalis* LPS induced an M1 macrophage profile, while *P. endodontalis* LPS did not."
+
+  21. Impact of low and high lipopolysaccharide doses on the early expression of immune related genes and transcription factors in chicken macrophage-like HD11 cells
+     Samuel C.G. Jansseune; Jürgen van Baal; Fany Blanc; Aart Lammers
+     PMC12757465 · PMC · 2025-12-09 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12757465/
+     Matched: Discussion · cat /papers/PMC12757465/content.lines --lines 55-56
+     "Chicken macrophage-like cells were exposed to low and high doses of lipopolysaccharide. While many immune pathways responded similarly, high doses uniquely downregulated specific transcription factors, suggesting dose-dependent regulatory differences."
+
+  22. Enhancing Cardiac Reprogramming by Suppressing Specific C-C Chemokine Signaling Pathways
+     Yijing Guo, Ienglam Lei, Shuo Tian, Wenbin Gao, Karatas Hacer, Yangbing Li, Shaomeng Wang, Liu Liu *...
+     bio_5c77e2ab6bff · bioRxiv · 2019-01-16 · 3 citations (all versions)
+     Published (2019): https://doi.org/10.1101/522995
+     Matched: C · cat /papers/bio_5c77e2ab6bff/content.lines --lines 379-381
+     │ MG7+Ccl6 MG7+Ccl17 MG7+Ccl3,6,17
+     "Four chemicals (IMAP) were combined to enhance fibroblast-to-cardiomyocyte reprogramming. Suppressing specific C-C chemokine signaling pathways was identified as a key mechanism for this enhancement."
+
+  23. Redox-sensitive activation of CCL7 by BRG1 in hepatocytes during liver injury
+     Ming Kong; Wenhui Dong; Yuwen Zhu; Zhiwen Fan; Xiulian Miao; Yan Guo; Chengping Li; Yunfei Duan; Yun...
+     PMC8406035 · Redox Biology · 2021-07-24 · 38 citations
+     https://doi.org/10.1016/j.redox.2021.102079
+     Matched: Up-regulation of CCL7 accompanies macrophage infiltration in the murin · cat /papers/PMC8406035/content.lines --lines 41-42
+     "This study investigated the transcriptional regulation of CCL7 in hepatocytes during liver injury. BRG1 activates CCL7 expression in a redox-sensitive manner, promoting macrophage infiltration."
+
+  24. Exosomal miR-148a-3p from LPS-Activated Macrophages Promotes M1 Polarization and Ferroptosis-Related Characteristics of Recipient Macrophages by Reducing SLC7A11
+     Jun Liang; Yingli Cai; Yiming Shao
+     PMC13199726 · Infection and Drug Resistance · 2026-05-20 · 0 citations
+     https://doi.org/10.2147/IDR.S590998
+     Matched: LPS Induces M1 Polarization and Inflammatory Response in RAW264.7 Macr · cat /papers/PMC13199726/content.lines --lines 100-101
+     "Gram-negative bacterial infection is a major cause of severe inflammatory disorders and cellular damage, with lipopolysaccharide (LPS) as a key pathogenic trigger. Macrophages are central players in L"
+
+  25. A Global Picture of Molecular Changes Associated to LPS Treatment in THP-1 Derived Human Macrophages by Fourier Transform Infrared Microspectroscopy
+     Diletta Ami; Ana Rita Franco; Valentina Artusa; Paolo Mereghetti; Francesco Peri; Antonino Natalello
+     PMC9656053 · International Journal of Molecular Sciences · 2022-11-03 · 7 citations
+     https://doi.org/10.3390/ijms232113447
+     Matched: 1. Introduction · cat /papers/PMC9656053/content.lines --lines 10-12
+     "Fourier transform infrared microspectroscopy analyzed THP-1 derived macrophages treated with LPS. The study identified spectral markers in lipids, proteins, and sulfated sugars, highlighting their role in inflammation."
+
+[2.1s, saved to s_5e3022fd]
+
+💡 Extract data across these results with: map --from s_5e3022fd "your question"
+[2.1s, saved to s_5e3022fd]  [repo: mva-lof-molecular]
+

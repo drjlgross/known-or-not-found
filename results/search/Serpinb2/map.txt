@@ -1,0 +1,196 @@
+$ src/pc.sh map --from s_bfd7ede5 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Serpinb2 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_2f043262
+
+  ✓ LPS Counter Regulates RNA Expression of Extracellular Proteases and Th
+    PMC3317238 · 1138ms
+    {
+      "answer": "yes",
+      "evidence": "L38: While the RNA expression of the Plg-activators was decreased by LPS treatment, the opposite was true for the inhibitors of tPA and uPA, PAI-1, and PAI-2 (Serpine1 and Serpinb2). Their expression was increased by up to 32 folds.",
+      "context": "L17: After 0, 2, 6, and 18 hours of vehicle or LPS stimulation, the RAW 264.7 cultures were harvested by removing the supernatant and lysing the cells using the NucleoSpin RNAII kit for RNA purification (Macherey-Nagel, Germany)."
+    }
+
+  ✓ Comparative Analyses of Transcriptional Profiles in Mouse Organs Using
+    PMC2817383 · 1593ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Regulation of Neutrophil Serine Proteases by Intracellular Serpins
+    PMC7123840 · 879ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Author Correction: Tissue-resident macrophage survival depends on mito
+    PMC13090332 · 1272ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Transcriptomic analysis reveals that RasGEF1b deletion alters basal an
+    PMC10638313 · 1132ms
+    {
+      "answer": "yes",
+      "evidence": "Its expression is highly induced by LPS in macrophages [41, 53].",
+      "context": "We used a luciferase-based reporter assay to showcase the capability of RasGEF1b in activating the Serpinb2 promoter."
+    }
+
+  ✓ SerpinB2 inhibits migration and promotes a resolution phase signature 
+    PMC6712035 · 1103ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Genome-wide siRNA screen of genes regulating the LPS-induced TNF-α res
+    PMC5332009 · 944ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ SerpinB2 deficiency is associated with delayed mammary tumor developme
+    PMC11221169 · 1122ms
+    {"answer": "yes", "evidence": "LPS induced the upregulation of SerpinB2, but SerpinB2 siRNA (10 nM) suppressed the LPS-induced SerpinB2 upregulation in RAW264.7 cells (Fig. 7E), indicating effective knockdown of SerpinB2.", "context": "Lipopolysaccharides (LPS, 100 ng/ml, Sigma-Aldrich, St. Louis, MO, USA) was used to induce the upregulation of SerpinB2 in RAW264.7 cells as a positive control."}
+
+  ✓ Tissue-resident macrophage survival depends on mitochondrial function 
+    PMC12902017 · 1152ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ The Transcription Factor C/EBP-β Mediates Constitutive and LPS-Inducib
+    PMC3589482 · 1461ms
+    {
+      "answer": "yes",
+      "evidence": "LPS stimulated an increase in SerpinB2 mRNA expression in wild-type MEFs (Fig. 6A), whereas LPS-stimulated SerpinB2 mRNA expression was significantly dampened in Cebpb-/- MEFs as compared to wild-type.",
+      "context": "L42: Figure 1: LPS induction of SerpinB2 mRNA and protein expression in murine macrophage cells."
+    }
+
+  ✓ Analysis of the transcriptional networks underpinning the activation o
+    PMC4378362 · 846ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(
+    PMC7053374 · 1077ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ A Novel Lipopolysaccharide Recognition Mechanism Mediated by Internali
+    PMC6277787 · 1000ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Epigenetic profile in lipopolysaccharide-stimulated macrophages
+    PMC3953056 · 837ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Analysis of the human monocyte-derived macrophage transcriptome and re
+    PMC5358891 · 891ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ SPI1 upregulated LILRB2 to enhance the immunosuppressive phenotype of 
+    PMC12183897 · 1556ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Monocyte normal immune response to LPS stimulation
+    PMC3333514 · 742ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Genome-wide siRNA screen of genes regulating the LPS-induced NF-κB and
+    PMC5332015 · 1217ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Saikosaponin-b2 Inhibits Primary Liver Cancer by Regulating the STK4/I
+    PMC10604266 · 1053ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Inhibitor of serine peptidase 2 enhances Leishmania major survival in 
+    PMC5892728 · 995ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Selection of reliable reference genes for the normalisation of gene ex
+    PMC5627409 · 1516ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Upregulation of Mitochondrial Redox Sensitive Proteins in LPS-Treated 
+    PMC6952955 · 840ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Macrophage phenotype in sepsis immunosuppression
+    PMC4470529 · 869ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 893ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Serine Supports IL-1β Production in Macrophages Through mTOR Signaling
+    PMC7481448 · 1273ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[41.9s, saved to m_2f043262]
+
+  [....................]  0/0 papers  [0s]
+  [#...................]  2/25 papers  run m_2f043262  [2s]
+  [########............]  10/25 papers  run m_2f043262  [4s]
+  [###########.........]  14/25 papers  run m_2f043262  [10s]
+  [################....]  21/25 papers  run m_2f043262  [12s]
+  [####################]  25/25 papers  run m_2f043262  [14s]
+  [####################]  25/25 papers  run m_2f043262  [24s]
+  [####################]  25/25 papers  run m_2f043262  [35s]
+  [####################]  25/25 papers  run m_2f043262  [37s]
+  [####################]  25/25 papers  run m_2f043262  [39s]
+  [####################]  25/25 papers  run m_2f043262  [41s]
+

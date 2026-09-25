@@ -1,0 +1,293 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Ptges (prostaglandin E synthase) LPS macrophage
+# exit 0
+Found 25 papers  [s_8b4fe51f]
+
+  1. Mechanism of action and potential applications of selective inhibition of microsomal prostaglandin E synthase-1-mediated PGE2 biosynthesis by sonlicromanol’s metabolite KH176m
+     X. Jiang; H. Renkema; B. Pennings; S. Pecheritsyna; J. C. Schoeman; T. Hankemeier; J. Smeitink; J. B...
+     PMC7806836 · PMC · 2021-01-13 · 25 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7806836/
+     Matched: KH176m selectively and dose-dependently decreases the level of PGE2 in · cat /papers/PMC7806836/content.lines --lines 28-29
+     │ LPS is a well-known and powerful macrophage activator. LPS treated RAW264.7 cells are a
+     │ defined model of macrophage activation at the site of inflammation[21]. During inflammation,
+     │ macrophages are a central source of PGE2 production. Therefore, we used an LPS-induced
+     │ macrophage cell model (RAW264.7) to investigate the effect of KH176m on prostaglandin
+     │ levels. Cells were treated with the inflammatory stimulus LPS alone or in combination with
+     │ increasing concentrations of KH176m. The COX-2 inhibitor celecoxib or the COX-1/2 inhibitor
+     │ indomethacin was used as controls. After 24 h incubation, the culture medium levels of PGE2,
+     │ PGD2 and 6-keto-PGF1α (a stable metabolite of PGI2 commonly measured …
+     "This study investigated the mechanism by which KH176m reduces PGE2 levels in mitochondrial disease cells. KH176m selectively inhibits mPGES-1 activity and expression by disrupting a positive feedback loop, suggesting therapeutic potential."
+
+  2. Dynamic changes in macrophage populations and resulting alterations in Prostaglandin E2 sensitivity in mice with diet-induced MASH
+     Madita Vahrenbrink; C. D. Coleman; S. Kuipers; I. Lurje; L. Hammerich; D. Kunkel; J. Keye; S. Dittri...
+     PMC12083000 · PMC · 2025-05-16 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12083000/
+     Matched: PGE2-mediated feedback loops were impaired in mice with macrophage-spe · cat /papers/PMC12083000/content.lines --lines 56
+     │ LPS significantly induced the mRNA and protein expression of the PGE2-synthesizing enzymes
+     │ COX-2 (Fig. 5A, B) and mPGES1 (Supplementary figure S4) in macrophage populations from
+     │ wildtype control mice. Accordingly, endogenous PGE2 synthesis was up-regulated in KC, PM and
+     │ BMDM (Fig. 5C). While in KC medium, a basal PGE2 concentration of about 4.5 nM was measured,
+     │ which was increased 4fold after LPS stimulation, PM basally released only about 2.6 nM PGE2
+     │ into the medium. After stimulation with LPS, the PGE2 concentration in cell culture
+     │ supernatants of PM increased to 20 nM. By contrast, PGE2 secretion in BMDM was much lower
+     │ and the LPS-dependent increase did not reach statistical …
+     "This study examined changes in liver macrophage populations and their response to PGE2 during diet-induced MASH in mice. It found that infiltrating macrophages are more sensitive to PGE2's anti-inflammatory effects than resident Kupffer cells."
+
+  3. Cellular and Molecular Bases of the Initiation of Fever
+     Alexandre A Steiner; Andrei I Ivanov; Jordi Serrats; Hiroshi Hosokawa; Allison N Phayre; Jared R Rob...
+     PMC1551923 · PMC · 2006-08-22 · 160 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1551923/
+     Matched: Results/Discussion · cat /papers/PMC1551923/content.lines --lines 24-26
+     "All phases of lipopolysaccharide (LPS)-induced fever are mediated by prostaglandin (PG) E2. It is known that the second febrile phase (which starts at ~1.5 h post-LPS) and subsequent phases are mediat"
+
+  4. Prostaglandin terminal synthases as novel therapeutic targets
+     Shuntaro HARA
+     PMC5743848 · PMC · 2017-11-10 · 31 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5743848/
+     Matched: The role of mPGES-1 in inflammatory reactions, pain and fever. · cat /papers/PMC5743848/content.lines --lines 25-27
+     │ mPGES-1 knockout (KO) mice were established by Uematsu et al. in 200228) and by Trebino et
+     │ al. in 2003.29) Uematsu et al. demonstrated that the biosynthesis of PGE2 in wild-type
+     │ peritoneal MΦs induced by LPS was abolished in mPGES-1-deficient cells.28) It was also shown
+     │ that the increase in serum PGE2 concentration by the intraperitoneal administration of LPS
+     │ was suppressed in mPGES-1 KO mice. Following this report, several investigators established
+     │ mPGES-1 KO mice, and these mice have been used to demonstrate the involvement of mPGES-1 in
+     │ inflammatory reactions and related diseases. mPGES-1 KO mice are generally protected against
+     │ various kinds of inflammatory disease phenotypes, including …
+     "Prostaglandin terminal synthases, particularly mPGES-1 and PGIS, are investigated as alternative therapeutic targets to COX for inflammatory diseases and cancer. These enzymes offer potential for more selective modulation of prostaglandin production with fewer side effects."
+
+  5. Lipocalin-Like Prostaglandin D Synthase but Not Hemopoietic Prostaglandin D Synthase Deletion Causes Hypertension and Accelerates Thrombogenesis in Mice
+     Wen-Liang Song; Emanuela Ricciotti; Xue Liang; Tilo Grosser; Gregory R. Grant; Garret A. FitzGerald
+     PMC6226547 · PMC · 2018 · 29 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6226547/
+     Matched: Peritoneal Macrophage Culture. · cat /papers/PMC6226547/content.lines --lines 21
+     │ Peritoneal macrophages were collected 4 days after i.p. injection of 0.5 ml 10%
+     │ thioglycolate (Sigma-Aldrich, St. Louis, MO). Nonadherent cells were removed after 2 hours
+     │ of incubation. Adherent cells were treated with 5 μg/ml lipopolysaccharide (LPS; Sigma-
+     │ Aldrich, St. Louis, MO) for 4 and 24 hours.
+     "Lipocalin-type prostaglandin D synthase (L-PGDS) deletion in mice elevated blood pressure and accelerated thrombogenesis. This suggests L-PGDS, not hematopoietic PGDS, is crucial for vascular homeostasis."
+
+  6. Lipopolysaccharide-Induced Expression of Microsomal Prostaglandin E Synthase-1 Mediates Late-Phase PGE2 Production in Bone Marrow Derived Macrophages
+     Lei Xiao; Magdalena Ornatowska; Guiqing Zhao; Hongmei Cao; Rui Yu; Jing Deng; Yongchao Li; Qiong Zha...
+     PMC3511480 · PMC · 2012-11-30 · 48 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3511480/
+     Matched: Patterns of LPS-stimulated PGE2 and PGD2 productions in BMDM · cat /papers/PMC3511480/content.lines --lines 43-44
+     │ After LPS (1 µg/ml) treatment, the BMDM culture medium at each treatment time point was
+     │ collected and frozen immediately at −80°C. The PGE2 and PGD2 concentration in the sample
+     │ medium was quantified using LC-MS-MS method as we previously reported [4], [30]. LPS did not
+     │ induce any detectable PGs production within the first 4 hrs of treatment, and the
+     │ productions of both PGE2 and PGD2 were similar at 8 hrs (Figure 3). Although the production
+     │ of PGE2 and PGD2 continued increase after 8 hrs, the ratio of PGE2 and PGD2 production was
+     │ kept at ∼1∶1 between 8 and 12 hrs post-LPS treatment. However, the production of PGE2
+     │ significantly and continuously increased after 12 hrs; whereas the production …
+     "Lipopolysaccharide (LPS) induces late-phase PGE2 production in macrophages. Microsomal prostaglandin E synthase-1 (mPGES-1) mediates this late-phase PGE2 burst and regulates LPS-induced iNOS expression."
+
+  7. Prostaglandin E2 and the Suppression of Phagocyte Innate Immune Responses in Different Organs
+     Alexandra Medeiros; Camila Peres-Buzalaf; Felipe Fortino Verdan; C. Henrique Serezani
+     PMC3449139 · PMC · 2012-09-13 · 78 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3449139/
+     Matched: 7. Peritoneal Macrophages · cat /papers/PMC3449139/content.lines --lines 44-46
+     │ Peritoneal macrophages are extensively used as a model to investigate macrophage function.
+     │ This cell type is a standard model used to identify inflammatory responses, cellular
+     │ metabolism, and apoptosis. Resident peritoneal macrophages exhibit low responsiveness to
+     │ inflammatory stimuli relative to inflammatory peritoneal macrophages that are recruited by
+     │ inflammatory stimuli, such as thioglycollate, peptone or glycogen. Resident peritoneal
+     │ macrophages express mainly EP4 but not EP2 mRNA at basal levels. In the presence of LPS, the
+     │ expression of EP4 mRNA is downregulated to levels that are lower than in nonstimulated
+     │ macrophages, and the expression of EP2 mRNA is transiently increased after 3 …
+     "This paper discusses prostaglandin E2's (PGE2) production and its varied effects on phagocytes in different organs. PGE2's dual roles, both immunosuppressive and immunostimulatory, are mediated by different EP receptors and G proteins."
+
+  8. Macrophage responses to lipopolysaccharide are modulated by a feedback loop involving prostaglandin E2, dual specificity phosphatase 1 and tristetraprolin
+     Tina Tang; Thomas E. Scambler; Tim Smallie; Helen E. Cunliffe; Ewan A. Ross; Dalya R. Rosner; John D...
+     PMC5489520 · Scientific Reports · 2017-06-28 · 79 citations
+     https://doi.org/10.1038/s41598-017-04100-1
+     Matched: PGE2 modulates the phosphorylation of MAPK p38, the expression of DUSP · cat /papers/PMC5489520/content.lines --lines 23-24
+     │ We have performed two independent microarray experiments in primary mouse BMMs and one in
+     │ primary human monocyte-derived macrophages, investigating LPS-induced changes of gene
+     │ expression. The first mouse microarray experiment has been described[37] and deposited at
+     │ the Gene Expression Omnibus (GSE68449), whilst the others are being prepared for submission.
+     │ All three arrays have been extensively validated. According to all three experiments, both
+     │ mouse and human primary macrophages expressed mRNAs encoding the prostaglandin receptors EP2
+     │ and EP4, whereas mRNAs encoding the other two members of this receptor family, EP1 and EP3,
+     │ were essentially undetectable (Fig. 4a,b). In macrophages of …
+     "This study investigated how macrophages respond to lipopolysaccharide. A feedback loop involving PGE2, DUSP1, and TTP was found to suppress COX-2 and TNF expression, potentially regulating inflammation phases."
+
+  9. Lapatinib Suppressed the Expression of Proinflammatory Cytokines and Alleviated Pain Behavior in a Mouse Model of Postoperative Pain
+     Annet Kyomuhangi
+     bio_523ca8418f4e · bioRxiv · 2026-01-01 · 0 citations (all versions)
+     Published (2026): https://doi.org/10.64898/2026.01.07.698212
+     Matched: cat /papers/bio_523ca8418f4e/content.lines --lines 28-30
+     │ Fig 3.: Prostaglandin E2 quantitation in supernatants of vehicle/indomethacin/lapatinib
+     │ treated RAW264.7 cells.(A) Cell viability data via Alamar blue assay. Unpaired t test
+     │ followed by Two-stage step-up (Benjamini, Krieger, and Yekutieli) for multiple comparisons
+     │ was used to determine differences in cell viability between lapatinib and vehicle (DMSO)
+     │ treated cells (n=4 per group). (B) Prostaglandin E2 (PGE2) ELISA data obtained with high
+     │ lapatinib concentrations (n=4 per group). Data were fitted on a 4-parameter non-linear
+     │ regression model in GraphPad Prism. (C) Prostaglandin E2 (PGE2) ELISA data obtained with
+     │ lower lapatinib concentrations (n=4 per group). (C) and (D) Mixed-effects …
+     "Postoperative pain remains a major clinical challenge, as inadequate management can delay functional recovery, prolong hospitalization, and increase the risk of chronic pain development. Opioid analge"
+
+  10. Prostaglandin E2 affects differently the release of inflammatory mediators from resident macrophages by LPS and muramyl tripeptides.
+     P Dieter; U Hempel; S Kamionka; A Kolada; B Malessa; E Fitzke; T A Tran-Thi
+     PMC1781814 · PMC · 1999 · 31 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1781814/
+     Matched: Abstract · cat /papers/PMC1781814/content.lines --lines 1-5
+     "LPS and MTP-PE activate liver macrophages differently, affecting inflammatory mediator release. PGE2 regulates LPS actions but not MTP-PE actions, explaining their differing immunomodulatory effects."
+
+  11. PGE2 suppression of innate immunity during mucosal bacterial infection
+     Mallory Agard; Saja Asakrah; Lisa A. Morici
+     PMC3748320 · PMC · 2013-08-21 · 125 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3748320/
+     Matched: Macrophages · cat /papers/PMC3748320/content.lines --lines 20
+     "This review examines how prostaglandin E2 (PGE2) influences innate immunity during bacterial infections. Bacterial pathogens induce PGE2 to suppress protective immune responses, suggesting PGE2 inhibition as a potential therapeutic strategy."
+
+  12. Inhibition of microsomal prostaglandin E synthase-1 ameliorates acute lung injury in mice
+     Malarvizhi Gurusamy; Saeed Nasseri; Dileep Reddy Rampa; Huiying Feng; Dongwon Lee; Anton Pekcec; Hen...
+     PMC8351447 · PMC · 2021-08-09 · 21 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8351447/
+     Matched: Discussion · cat /papers/PMC8351447/content.lines --lines 69-71
+     │ Acute inflammation and disruption of vascular integrity are key features of ALI,
+     │ contributing to the high morbidity and mortality associated with this condition. Using two
+     │ in vivo models we show that BI 1029539 significantly attenuates pulmonary inflammation,
+     │ alveolar-capillary leakage, edema formation, and lung injury resulting directly from
+     │ endotoxin-induced ALI and indirectly via CLP-induced sepsis. BI 1029539 significantly
+     │ reduced lung neutrophil infiltration, BAL levels of TNF-α and IL-1β, and BAL protein
+     │ concentration after intratracheal injection of LPS. Moreover, BI 1029539 also prolonged mice
+     │ survival following CLP-induced severe polymicrobial sepsis. Uncontrolled recruitment of …
+     "A selective mPGES-1 inhibitor, BI 1029539, was tested in mouse models of acute lung injury and sepsis. This inhibitor reduced lung inflammation and injury, and prolonged survival in sepsis."
+
+  13. Migrasome-transported PTGES amplifies the PGE2 cascade in SPP1+ macrophages to drive oral leukoplakia carcinogenesis
+     Ming-Jing Jiang; Hao-Yu Zhou; Yu-Ting Bai; Xiao-Jie Chen; Gang Zhou
+     PMC13216351 · PMC · 2026-04-02 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13216351/
+     Matched: Migrasome-transported PTGES triggered macrophage PGE2 cascade to media · cat /papers/PMC13216351/content.lines --lines 45-46
+     │ To validate PTGES identified through migrasome proteomics, immunofluorescence assays were
+     │ performed. The results showed a significant enrichment of PTGES in the migrasomes of
+     │ DOK-4NQO cells (Fig. 7a). Western blot analysis was conducted to determine the protein
+     │ expression levels of PTGES in cell bodies, migrasomes, and exosomes, respectively. The
+     │ results showed that PTGES expression was comparable between DOK and DOK-4NQO but decreased
+     │ in DOK-BD cell body (Fig. 7b). In contrast to exosomes, PTGES was exclusively detected in
+     │ migrasomes derived from DOK-TC and MOC1 cells, but not in migrasomes from DOK cells (Fig.
+     │ 7c). Fig. 7: Migrasome-Transported PTGES triggered macrophage PGE2 cascade to …
+     "Oral leukoplakia (OLK) is a common oral potentially malignant disorder with a significant risk of transforming into oral squamous cell carcinoma (OSCC), yet the mechanisms remain poorly understood. He"
+
+  14. A PGE2-MEF2A axis enables context-dependent control of inflammatory gene expression
+     Francesco Cilenti; Giulia Barbiera; Nicoletta Caronni; Dario Iodice; Elisa Montaldo; Simona Barresi;...
+     PMC8362890 · PMC · 2021-08-10 · 70 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8362890/
+     Matched: PGE2 antagonizes LPS-induced gene expression ex vivo and in vivo · cat /papers/PMC8362890/content.lines --lines 29-30
+     "This study investigated how PGE2 controls inflammatory gene expression in macrophages. It found that PGE2, via MEF2A, antagonizes LPS-induced inflammatory genes, particularly type I interferons."
+
+  15. Differences in PGE2 Production between Primary Human Monocytes and Differentiated Macrophages: Role of IL-1β and TRIF/IRF3
+     Yukinori Endo; Ksenia Blinova; Tatiana Romantseva; Hana Golding; Marina Zaitseva
+     PMC4037220 · PMC · 2014-05-28 · 25 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4037220/
+     Matched: Macrophages from caspase-1 KO mice produced PGE2 but not IL-1β in resp · cat /papers/PMC4037220/content.lines --lines 53-55
+     "This study investigated PGE₂ production in human monocytes and macrophages stimulated by TLR agonists. TLR4 agonists induce PGE₂ in LPS-primed monocytes via IL-1β and TRIF/IRF3, while TLR2 agonists do so independently."
+
+  16. Augmented liver inflammation in a microsomal prostaglandin E synthase 1 (mPGES-1)-deficient diet-induced mouse NASH model
+     Janin Henkel; Charles Dominic Coleman; Anne Schraplau; Korinna Jöhrens; Thomas Siegfried Weiss; Wenk...
+     PMC6208405 · PMC · 2018-10-31 · 51 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6208405/
+     Matched: Discussion · cat /papers/PMC6208405/content.lines --lines 47-50
+     │ Figure 7: Schematic overview. See main text for details. Abbreviations: DAMPs: damage
+     │ associated molecular pattern; IL-1β: interleukin-1β; PGE2: prostaglandin E2; mPGES-1:
+     │ microsomal PGE synthase 1; TNF-α: tumor necrosis factor α. Although TNF-α-mediated
+     │ hepatocyte apoptosis was significantly increased in mPGES-1-deficient mice compared to wild-
+     │ type mice fed a NASH-diet (Fig. 4E,F), no genotype-specific differences in macrophage
+     │ infiltration or fibrosis could be observed (Fig. 2 and Supplementary Figure S1). This may be
+     │ due either to the fact that the feeding intervention of 20 weeks was not long enough to
+     │ allow the development of more advanced stages of the disease or by the fact that …
+     "This study investigated the role of mPGES-1 in a mouse model of NASH. Ablating mPGES-1 worsened inflammation and hepatocyte apoptosis by increasing TNF-α."
+
+  17. Lipopolysaccharide-Induced Nitric Oxide and Prostaglandin E2 Production Is Inhibited by Tellimagrandin II in Mouse and Human Macrophages
+     Chun-Yu Lin; Shih-Han Kao; Ling-Chien Hung; Hsin-Ju Chien; Wen-Hung Wang; Yu-Wei Chang; Yen-Hsu Chen
+     PMC8146495 · Life · 2021-04-30 · 26 citations
+     https://doi.org/10.3390/life11050411
+     Matched: 3.6. Effects of TGII on PGE2 Production in CD14+ Monocyte-Derived Macr · cat /papers/PMC8146495/content.lines --lines 48
+     "Tellimagrandin II was studied for its anti-inflammatory effects on macrophages stimulated by lipopolysaccharide. TGII significantly inhibited nitric oxide and prostaglandin E2 production by reducing key inflammatory signaling pathways."
+
+  18. Integrated Proteomics and Metabolomics Analyses Reveal That Phosphatidylethanolamine Reprograms Macrophage Immunometabolism and Attenuates LPS-Driven Inflammation
+     Tatiana Maurício; Bruno Neves; M. Rosário Domingues; Pedro Domingues
+     PMC13140139 · PMC · 2026-04-08 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13140139/
+     Matched: Functional and Pathway Reprogramming of Macrophages by PE Species · cat /papers/PMC13140139/content.lines --lines 69-70
+     "Phosphatidylethanolamine (PE) reprograms macrophage metabolism. It enhances antioxidant defenses and lipid metabolism, while attenuating lipopolysaccharide-induced inflammation by downregulating key inflammatory signaling pathways."
+
+  19. EP2 and EP4 receptors on muscularis resident macrophages mediate LPS-induced intestinal dysmotility via iNOS upregulation through cAMP/ERK signals
+     Tsuyoshi Tajima; Takahisa Murata; Kosuke Aritake; Yoshihiro Urade; Masaki Michishita; Toshiyuki Mats...
+     PMC3311437 · American Journal of Physiology - Gastrointestinal and Liver Physiology · 2011-12-08 · 41 citations
+     https://doi.org/10.1152/ajpgi.00264.2011
+     Matched: cat /papers/PMC3311437/content.lines --lines 14-16
+     "Muscularis resident macrophages mediate LPS-induced intestinal dysmotility via iNOS upregulation. This occurs through EP2 and EP4 receptor activation, leading to cAMP/ERK signaling."
+
+  20. Phagocytosis is differentially regulated by LPS in M1- and M2-like macrophages via PGE 2  formation and EP4 signaling
+     Rebecca Kirchhoff, Michel André Chromik, Nils Helge Schebb *
+     bio_bcc561746c3c · bioRxiv · 2024-09-29 · 6 citations (all versions)
+     Published (2025): https://doi.org/10.1016/j.prostaglandins.2025.106998
+     Preprint: https://doi.org/10.1101/2024.09.29.615656
+     Matched: Phagocytosis is differentially modulated by LPS in M1- and M2-like mac · cat /papers/bio_bcc561746c3c/content.lines --lines 48-49
+     │ In order to investigate the impact of COX activity on phagocytosis, COX-inhibitors and
+     │ dexamethasone were tested: The tested substances alone had no effect on phagocytosis ( Fig.
+     │ 2C , D ) which fits to the previous finding that basal COX activity is very low in both
+     │ macrophage types. However, in combination with LPS, phagocytosis was increased in both
+     │ macrophage types (M1-like, 35%; M2-like, 69%). Similar findings, an upregulation of
+     │ phagocytosis, were already reported for murine bone marrow derived macrophages and alveolar
+     │ macrophages treated with celecoxib ( 46 , 47 ), for rat alveolar macrophages treated with
+     │ celecoxib or indomethacin ( 48 , 49 ), as well as for human monocytes with …
+     "Phagocytosis was studied in M1 and M2 macrophages, measuring arachidonic acid cascade products. LPS increased phagocytosis in M2 cells, mediated by PGE2 and EP4 signaling suppressing this process."
+
+  21. Regulation of Pro-Inflammatory Macrophage Polarization via Lipid Nanoparticles Mediated Delivery of Anti-Prostaglandin-E2 siRNA
+     Ahmad Almatroudi; Mohammed A. Alsahli; Mansoor Ali Syed; Amjad Ali Khan; Arshad Husain Rahmani
+     PMC9856913 · PMC · 2022-12-20 · 12 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9856913/
+     Matched: 4. Discussion · cat /papers/PMC9856913/content.lines --lines 50-51
+     "Lipid nanoparticles delivered anti-PGE2 siRNA to macrophages, reducing pro-inflammatory markers. This approach effectively controls macrophage polarization for treating acute inflammation."
+
+  22. Lipopolysaccharide-Induced Nitric Oxide, Prostaglandin E2, and Cytokine Production of Mouse and Human Macrophages Are Suppressed by Pheophytin-b
+     Chun-Yu Lin; Wen-Hung Wang; Shin-Huei Chen; Yu-Wei Chang; Ling-Chien Hung; Chung-Yi Chen; Yen-Hsu Ch...
+     PMC5751240 · International Journal of Molecular Sciences · 2017-12-06 · 48 citations
+     https://doi.org/10.3390/ijms18122637
+     Matched: 4.10. Statistical Analysis · cat /papers/PMC5751240/content.lines --lines 63-66
+     "Pheophytin-b was studied for its anti-inflammatory effects on lipopolysaccharide-stimulated macrophages. It suppressed nitric oxide, prostaglandin E2, and cytokine production by inhibiting STAT-1 and PI3K/Akt pathways."
+
+  23. PGE2 Augments Inflammasome Activation and M1 Polarization in Macrophages Infected With Salmonella Typhimurium and Yersinia enterocolitica
+     Austin E. F. Sheppe; Evangel Kummari; Alyssa Walker; Angela Richards; Winnie W. Hui; Jung Hwa Lee; L...
+     PMC6220063 · PMC · 2018-10-31 · 66 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6220063/
+     Matched: PGE2 Modulates Macrophage Polarization While Increasing IL-1β and IL-1 · cat /papers/PMC6220063/content.lines --lines 119-121
+     "This study investigated eicosanoid production in macrophages infected with Salmonella Typhimurium and Yersinia enterocolitica. PGE2 enhances inflammasome activation and M1 polarization, potentially aiding bacterial clearance."
+
+  24. Nuclear prostaglandin E synthase 3 promotes hepatocellular carcinoma growth with immunosuppressive macrophage polarization via the SP1/TGF-β axis
+     Nianfei Wang; Wei Chen; Shumin Shen; Jian Qi; Shanghu Wang; Rong Wang; Ming Li; Zixiang Chen; Jiangm...
+     PMC13018494 · PMC · 2026-03-25 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13018494/
+     Matched: Discussion · cat /papers/PMC13018494/content.lines --lines 60-62
+     │ Our study reveals a fundamental "functional repurposing" of the co-chaperone PTGES3 in HCC.
+     │ We identify PTGES3 as a dual-function molecular switch that sheds its canonical identity as
+     │ a cytosolic HSP90 assistant to function as a nuclear transcriptional driver. By directly
+     │ binding the G-rich motif of the SP1 promoter, nuclear PTGES3 initiates a TGF-β1-centered
+     │ signaling network that simultaneously reinforces intrinsic oncogenic survival (autocrine)
+     │ and orchestrates an immunosuppressive M2 macrophage niche (paracrine). This mechanism
+     │ addresses a critical challenge in HCC biology: decoding how tumor cells synchronize their
+     │ aggressive proliferation with the establishment of an immune-privileged …
+     "Hepatocellular carcinoma (HCC) is characterized by the synchronization of tumor cell proliferation and an immunosuppressive microenvironment. Decoupling these interconnected processes represents a maj"
+
+  25. Differential expression of E-type prostanoid receptors 2 and 4 in microglia stimulated with lipopolysaccharide
+     Ester Bonfill-Teixidor; Amaia Otxoa-de-Amezaga; Miriam Font-Nieves; M. Glòria Sans-Fons; Anna M. Pla...
+     PMC5234110 · PMC · 2017-01-05 · 35 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5234110/
+     Matched: COX-2 mediates the production of PGE2 in glial cells exposed to LPS · cat /papers/PMC5234110/content.lines --lines 68-69
+     │ LPS induces the production and release of PGE2 in glial cells [7]. The PGE2 concentration in
+     │ the culture medium of astrocytes increased from basal levels of 0.9 ± 0.3 nM to 4.8 ± 3.1 nM
+     │ (mean ± SD, in 11 independent experiments) 8 hours after LPS exposure, as assessed by ELISA
+     │ assays. However, COX-2-deficient astrocytes do not produce PGE2 after LPS, as we previously
+     │ reported [7]. Also, PGE2 production was completely abrogated by a range of COX-2 inhibitors
+     │ (Fig. 1a, b). Notably, the compound dimethyl-celecoxib (DMC), an analog of celecoxib that
+     │ does not have inhibitory effects on COX-2, also prevented the increase in PGE2 concentration
+     │ after LPS (Fig. 1a, b), possibly due to its described …
+     "This study examined E-type prostanoid receptor expression and function in microglia stimulated with lipopolysaccharide. PGE2, acting primarily through EP4 and EP2 receptors, suppressed LPS-induced TNF-α production and modulated other inflammatory pathways in microglia."
+
+[4.0s, saved to s_8b4fe51f]
+
+💡 Extract data across these results with: map --from s_8b4fe51f "your question"
+[4.0s, saved to s_8b4fe51f]  [repo: mva-lof-molecular]
+

@@ -1,0 +1,254 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Cd69 (CD69 antigen) LPS macrophage
+# exit 0
+Found 25 papers  [s_2c0f04b2]
+
+  1. The pro‐inflammatory signature of lipopolysaccharide in spontaneous contracting embryoid bodies differentiated from mouse embryonic stem cells
+     Jennifer Scharmacher; Maria Wartenberg; Heinrich Sauer
+     PMC10339090 · PMC · 2023-06-14 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10339090/
+     Matched: Differentiation of leukocytes in embryoid bodies following treatment w · cat /papers/PMC10339090/content.lines --lines 42-43
+     │ The induction of inflammation in embryoid bodies may be associated with a stimulation of
+     │ leukocyte differentiation, which has previously shown by us to occur within 15 days of cell
+     │ culture.[16] In the present study, protein expression of the macrophage marker CD68 and
+     │ CD69, which is expressed upon activation of T lymphocytes and natural killer (NK) cells, was
+     │ investigated. Moreover, the number of CD68+ and CD69+ cells was determined by confocal
+     │ microscopy and flow cytometry upon treatment of embryoid bodies with LPS (5 μg/mL). Our data
+     │ demonstrated that LPS treatment from Day 9 to Day 15 of embryoid body cell culture
+     │ dose‐dependent increased protein expression of CD68 (Figure 3A) and CD69 …
+     "Embryoid bodies from mouse embryonic stem cells were treated with lipopolysaccharide (LPS) to model inflammation. LPS induced a pro-inflammatory response, including cardiac cell activation and inflammasome signaling, suggesting embryoid bodies are a useful model for inflammation research."
+
+  2. T Cell Stimulation In Vivo by Lipopolysaccharide (LPS)
+     David F. Tough; Siquan Sun; Jonathan Sprent
+     PMC2196347 · PMC · 1997-06-16 · 273 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2196347/
+     Matched: Discussion · cat /papers/PMC2196347/content.lines --lines 43-46
+     "LPS injection in vivo stimulates CD4 and CD8 T cells, with proliferation limited to CD44hi CD8+ cells. This response is indirect, mediated by APCs and type I interferon, and may explain memory CD8+ cell proliferation."
+
+  3. Transcriptome Analysis Provides Insights into the Markers of Resting and LPS-Activated Macrophages in Grass Carp (Ctenopharyngodon idella)
+     Yazhen Hu; Xiaolei Wei; Zhiwei Liao; Yu Gao; Xiaoling Liu; Jianguo Su; Gailing Yuan
+     PMC6274997 · International Journal of Molecular Sciences · 2018-11-12 · 35 citations
+     https://doi.org/10.3390/ijms19113562
+     Matched: 3. Discussion · cat /papers/PMC6274997/content.lines --lines 36-38
+     │ According to our initial time course analysis, the previously proposed macrophage markers
+     │ CD68 and M-CSFR were found to be expressed in both Mø and M(LPS). LPS was used in this study
+     │ to generate a macrophage pro-inflammatory phenotype from head-kidney macrophages, the
+     │ predisposing factor in this process was that macrophages might undergo phenotype changes and
+     │ produce pro-inflammatory markers. Consistent with previous research, LPS treatment increased
+     │ the mRNA levels of pro-inflammatory factors, including IL-1β, IL-6, TNF-α and iNOS in C.
+     │ idella macrophages, indicating the occurrence of innate inflammatory responses in fish, as
+     │ seen in mammals [41,[42],43]. Meanwhile, after stimulation with …
+     "This study analyzed the transcriptomes of resting and LPS-activated grass carp macrophages. Four novel cell surface markers and two chemokines were identified as potential macrophage markers, with others indicating activation."
+
+  4. Attenuation of lung inflammation and fibrosis in CD69-deficient mice after intratracheal bleomycin
+     Keita Yamauchi; Yoshitoshi Kasuya; Fuminobu Kuroda; Kensuke Tanaka; Junichi Tsuyusaki; Shunsuke Ishi...
+     PMC3198935 · PMC · 2011-10-05 · 38 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3198935/
+     Matched: Predominant localization of CD69 in lung · cat /papers/PMC3198935/content.lines --lines 59-60
+     │ As shown in Figure 7A, Iba1-positive macrophages were observed in the lungs from WT PBS-
+     │ injected mice but rarely exhibited CD69-like immunoreactivity. On the other hand,
+     │ Iba1+/CD69+ macrophages were clearly observed in the lung from WT BLM-treated mice at 2 dpi
+     │ (Figure 7B), indicating that the expression of CD69 was induced in the macrophages exposed
+     │ to BLM. In addition, Iba1 recognized alveolar and interstitial macrophages, suggesting that
+     │ BLM induced CD69 expression in the two types of macrophages (Figure 7C). At 2 dpi after BLM
+     │ injection, T cells and neutrophils were barely detected as infiltrating cells in the lung
+     │ (data not shown). Figure 7: Expression of CD69 on macrophages in the …
+     "CD69-deficient mice were studied for their response to bleomycin-induced lung injury. These mice showed significantly reduced lung inflammation and fibrosis compared to wild-type mice."
+
+  5. Corydalis decumbens Alleviates the Migration, Phagocytosis, and Inflammatory Response of Macrophages
+     Shanmin Huang; Xuehua Zheng; Weiguo Dong; Yao Lin; Shu Jiang; Haiyin Zheng; Changhui Qian
+     PMC9977534 · Evidence-based Complementary and Alternative Medicine : eCAM · 2023-02-22 · 8 citations
+     https://doi.org/10.1155/2023/7000477
+     Matched: 3.2. CD Suppresses the Migration and Phagocytic Capacity of Macrophage · cat /papers/PMC9977534/content.lines --lines 46-47
+     │ In this study, we focused on the comparison of the cultured macrophages between the LPS and
+     │ LPS + CD groups. Firstly, we visualized the migrated cells in the transwell lower chamber to
+     │ compare the chemotactic ability of macrophages. We found that macrophage migration was
+     │ significantly enhanced after LPS stimulation in the LPS group. Compared to the macrophages
+     │ in the LPS group, the cells showed a slower migration rate in the LPS + CD group (Figure 2).
+     │ Next, we examined whether CD altered the phagocytic capability of macrophages. Macrophages
+     │ were labeled with CD68 (a macrophage marker) and 0.1 mg/mL FITC-conjugated lumisphere. After
+     │ LPS treatment, the number of macrophages that were …
+     "Corydalis decumbens (CD) was studied for its effects on LPS-stimulated macrophages. CD inhibits macrophage migration and phagocytosis, promotes M2 polarization, and inactivates the RhoA signaling pathway, thereby alleviating inflammatory responses."
+
+  6. Triggering of human monocyte activation through CD69, a member of the natural killer cell gene complex family of signal transducing receptors
+     PMC2191715 · PMC · 1994-11-01
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2191715/
+     "CD69 expression on human monocytes was studied, and its cross-linking was found to trigger calcium influx, lipid mediator release, and nitric oxide production. This CD69 activation enhances monocyte cytotoxicity."
+
+  7. Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyromonas endodontalis, Induces Macrophage M1 Profile
+     Pablo Veloso; Alejandra Fernández; Jessica Astorga; David González-Quintanilla; Alfredo Castro; Alej...
+     PMC9456100 · International Journal of Molecular Sciences · 2022-09-02 · 16 citations
+     https://doi.org/10.3390/ijms231710011
+     Matched: 3. Discussion · cat /papers/PMC9456100/content.lines --lines 44-46
+     "This study investigated the effects of lipopolysaccharides from *Porphyromonas gingivalis* and *Porphyromonas endodontalis* on macrophage polarization. *P. gingivalis* LPS induced an M1 macrophage profile, while *P. endodontalis* LPS did not."
+
+  8. Analysis of the transcriptional networks underpinning the activation of murine macrophages by inflammatory mediators
+     Sobia Raza, Mark W. Barnett, Zohar Barnett-Itzhaki, Ido Amit, David A. Hume, Tom C. Freeman
+     PMC4378362 · Journal of Leukocyte Biology · 2014-08-01 · 49 citations
+     https://doi.org/10.1189/jlb.6HI0313-169R
+     Matched: Introduction · cat /papers/PMC4378362/content.lines --lines 10-11
+     "Transcriptomic data was analyzed to understand macrophage activation by inflammatory mediators. The LPS response can be divided into more co-regulated gene subsets than previously thought."
+
+  9. Comparative Study of The Effect of LPS on The Function of BALB/c and C57BL/6 Peritoneal Macrophages
+     Sara Soudi; Ahmad Zavaran-Hosseini; Zuhair Muhammad Hassan; Masoud Soleimani; Fatemeh Jamshidi Adega...
+     PMC3660024 · Cell Journal (Yakhteh) · 2013-05-05
+     Matched: Discussion · cat /papers/PMC3660024/content.lines --lines 61-62
+     "Peritoneal macrophages from BALB/c and C57BL/6 mice were stimulated with LPS to compare their responses. Different mouse strains exhibit distinct cytokine profiles and functional activities when exposed to LPS."
+
+  10. CD169+ macrophage intrinsic IL-10 production regulates immune homeostasis during sepsis
+     Stephen T. Yeung; Luis J. Ovando; Ashley J. Russo; Vijay A. Rathinam; Kamal M. Khanna
+     PMC10123955 · Cell reports · 2023-03-02 · 70 citations
+     https://doi.org/10.1016/j.celrep.2023.112171
+     Matched: CD169+ macrophages closely associate with LPS and regulate LPS clearan · cat /papers/PMC10123955/content.lines --lines 17
+     │ In our previous study, we showed that CD169+ splenic macrophages are the initial cells that
+     │ interact with blood-borne bacteria, thus we began our study by determining whether CD169+
+     │ macrophages also associate with LPS.[13] We treated wild-type (WT) C57Bl/6 mice with 200 μg
+     │ purified fluorescein isothiocyanate (FITC)-conjugated LPS intraperitoneally. Confocal
+     │ microscopy of immunostained spleen sections revealed that as early as 1.5 h, LPS closely
+     │ associated with the marginal zone CD169+ macrophages, and this interaction continued as late
+     │ as 12 h after LPS treatment (Figure 1A). Since CD169+ macrophages closely associated with
+     │ the LPS, we next wanted to determine if, in the absence of these …
+     "CD169+ macrophages were studied for their role in regulating immune responses during sepsis. Their intrinsic IL-10 production is essential for survival and preventing excessive inflammation in this condition."
+
+  11. Ginger extract inhibits LPS induced macrophage activation and function
+     Sudipta Tripathi; David Bruch; Dilip S Kittur
+     PMC2234390 · BMC Complementary and Alternative Medicine · 2008-01-03 · 156 citations
+     https://doi.org/10.1186/1472-6882-8-1
+     Matched: Ginger extract suppresses costimulatory molecule expression on LPS sti · cat /papers/PMC2234390/content.lines --lines 43-44
+     "Ginger extract was studied for its effects on LPS-stimulated macrophages. The extract inhibited pro-inflammatory cytokine production, antigen-presenting molecule expression, and macrophage antigen-presenting function."
+
+  12. Establishment and characterization of an immortalized red river hog blood-derived macrophage cell line
+     Takato Takenouchi; Kentaro Masujin; Rina Ikeda; Seiki Haraguchi; Shunichi Suzuki; Hirohide Uenishi; ...
+     PMC11422137 · Frontiers in Immunology · 2024-09-11 · 3 citations
+     https://doi.org/10.3389/fimmu.2024.1465952
+     Matched: Enhanced expression of CD169 and MHC-II in RZJ/IBM cells treated with  · cat /papers/PMC11422137/content.lines --lines 52-53
+     │ The expression of CD163, CD169, and the differentiated macrophage-specific marker, MHC-II,
+     │ in RZJ/IBM cells with or without the LPS stimulation was examined by immunostaining. The
+     │ expression of CD169 was markedly up-regulated in cells treated with LPS ( Figure 3A ). This
+     │ result was supported by the flow cytometric analysis ( Figure 3B ). The quantitative
+     │ analysis revealed that the MFI values of CD169-positive and MHC-II-positive cell populations
+     │ were increased by 5.3- and 1.9-fold, respectively, with LPS treatment compared to untreated
+     │ group ( Figure 3C ). In contrast, the MFI value of the CD203a-positive cell population was
+     │ slightly lower in LPS-treated cells than in untreated cells ( …
+     "A red river hog macrophage cell line was established and characterized. This cell line is susceptible to ASFV infection and supports viral replication, making it a model for ASFV pathogenesis."
+
+  13. Lipopolysaccharide uptake is augmented in lipopolysaccharide‐tolerant mouse macrophage‐like cells via increased CD14 expression
+     Saeka Nishihara; Takayuki Manabe; Mika Jouta; Kiyoshi Kawasaki
+     PMC13398632 · FEBS Open Bio · 2026-04-26 · 0 citations
+     https://doi.org/10.1002/2211-5463.70261
+     Matched: Discussion · cat /papers/PMC13398632/content.lines --lines 54-55
+     "Lipopolysaccharide (LPS) tolerance can be recognized as a modulation of innate immune responses rather than merely a hyporesponsiveness to LPS, with CD14 being crucial for both LPS uptake and LPS sign"
+
+  14. CD69 Does Not Affect the Extent of T Cell Priming
+     Elisenda Alari-Pahissa; Laura Notario; Elena Lorente; Javier Vega-Ramos; Ana Justel; Daniel López; J...
+     PMC3484127 · PMC · 2012-10-30 · 22 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3484127/
+     Matched: CD69 is upregulated on DC upon activation · cat /papers/PMC3484127/content.lines --lines 43
+     │ CD69 upregulation on T cells upon specific Ag encounter has been well documented. Instead,
+     │ CD69 expression by the other prototypic cell type implicated in T cell priming, the DC, has
+     │ not been extensively studied. We have recently described certain constitutive CD69
+     │ expression by lymph node (LN) and spleen plasmacytoid DC (pDC) and by LN conventional DC
+     │ (cDC) at steady state [34]. Here, we assess activation-induced CD69 upregulation on
+     │ different DC subsets, activating them with Toll-like Receptors (TLR) ligands. CD69 was
+     │ upregulated on both splenic pDC and cDC upon CpG olidodeoxynucleotide stimulation (Fig. 1A)
+     │ in a dose-dependent manner (Fig. 1C), and it was prominent as soon as 3 hours …
+     "This study investigated the role of CD69 on T cells and dendritic cells in T cell priming. CD69 expression on either cell type did not affect T cell proliferation or the magnitude of antigen-specific immune responses."
+
+  15. Epigenetic profile in lipopolysaccharide-stimulated macrophages
+     Ester Correia Sarmento Rios; Thais Martins Lima Salgado; Francisco Garcia Soriano
+     PMC3953056 · Critical Care · 2013-11-05 · 0 citations
+     https://doi.org/10.1186/cc12987
+
+  16. ICA69 aggravates ferroptosis causing septic cardiac dysfunction via STING trafficking
+     Chang Kong; Xuqing Ni; Yixiu Wang; Anqi Zhang; Yingying Zhang; Feihong Lin; Shan Li; Ya Lv; Jingwen ...
+     PMC8994779 · PMC · 2022-04-09 · 65 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8994779/
+     Matched: LPS increased ICA69 in vivo while in vitro · cat /papers/PMC8994779/content.lines --lines 19
+     "This study investigated the role of ICA69 in septic cardiac dysfunction. ICA69 aggravates ferroptosis, leading to heart injury, and its deficiency improves survival and cardiac function."
+
+  17. Induction of unique macrophage subset by simultaneous stimulation with LPS and IL-4
+     Kei Ishida; Takahiro Nagatake; Azusa Saika; Soichiro Kawai; Eri Node; Koji Hosomi; Jun Kunisawa
+     PMC10167635 · Frontiers in Immunology · 2023-04-21 · 64 citations
+     https://doi.org/10.3389/fimmu.2023.1111729
+     Matched: Cell-surface molecule expression and gene expression profiles in LPS/I · cat /papers/PMC10167635/content.lines --lines 46-49
+     "This study analyzed macrophages induced by simultaneous LPS and IL-4 stimulation. These macrophages exhibited unique properties, blending M1 and M2 characteristics with distinct energy metabolism."
+
+  18. Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni; Yanal Ghosheh; Akula Bala Pramod; Klaus Ley
+     PMC7053374 · Frontiers in Immunology · 2020-02-25 · 77 citations
+     https://doi.org/10.3389/fimmu.2020.00234
+
+  19. Transcriptional profiling of the LPS induced NF-κB response in macrophages
+     Omar Sharif, Viacheslav N Bolshakov, Stephanie Raines, Peter Newham, Neil D Perkins
+     PMC1781469 · BMC Immunology · 2007-01-01 · 447 citations
+     https://doi.org/10.1186/1471-2172-8-1
+     Matched: Discussion · cat /papers/PMC1781469/content.lines --lines 38-39
+     │ In this report we have characterised the LPS response in macrophages and macrophage cell
+     │ lines. Strikingly, we observed that although THP1 cells are transformed and immortalised,
+     │ their LPS induced gene expression signature remains very similar to primary macrophages.
+     │ Interestingly, there was also some heterogeneity between the two different PBMC donor
+     │ samples. This donor-to-donor variation is not really surprising since macrophage
+     │ heterogeneity occurs through a developmental mechanism as they differentiate and is likely
+     │ to be important for the generation of diversity in the immune response [15]. For example,
+     │ different populations of macrophages have been shown to exhibit different …
+     "This study profiled gene expression in macrophages after LPS exposure. LPS induced a dynamic, time-dependent transcriptional response, with THP-1 cells closely mimicking primary macrophages."
+
+  20. Expression of Tmem119/Sall1 and Ccr2/CD69 in FACS-Sorted Microglia- and Monocyte/Macrophage-Enriched Cell Populations After Intracerebral Hemorrhage
+     Qian Li; Xi Lan; Xiaoning Han; Jian Wang
+     PMC6333739 · PMC · 2019-01-09 · 62 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6333739/
+     Matched: LPS Response and Phagocytosis by Sorted Microglia and Macrophages in v · cat /papers/PMC6333739/content.lines --lines 138-140
+     "A flow cytometry protocol was developed to isolate microglia and monocyte-derived macrophages after intracerebral hemorrhage. This method effectively preserves cell markers and function, providing a valuable tool for studying these cell types in brain diseases."
+
+  21. LPS combined with CD47mAb enhances the anti‑osteosarcoma ability of macrophages
+     Peng Yuan; Yukang Que; Yulei Liu; Peng He; Zehao Guo; Yong Hu
+     PMC10091190 · Oncology Letters · 2023-03-28 · 1 citation
+     https://doi.org/10.3892/ol.2023.13777
+     Matched: Effect of LPS and CD47mAb on macrophage activation · cat /papers/PMC10091190/content.lines --lines 52
+     "This study investigated the combined effect of LPS and CD47mAb on macrophage anti-osteosarcoma activity. The combination significantly enhanced macrophage phagocytosis, suppressed tumor growth and migration, and promoted apoptosis."
+
+  22. Monocyte normal immune response to LPS stimulation
+     P Myrianthefs; K Venetsanou; E Grouzi; E Boutzouka; P Evagelopoulou; G Fildissis; I Spiliotopoulou; ...
+     PMC3333514 · Critical Care · 2002-03-01 · 1 citation
+     https://doi.org/10.1186/cc1554
+
+  23. CD97/ADGRE5 Inhibits LPS Induced NF-κB Activation through PPAR-γ Upregulation in Macrophages
+     Shuai Wang; Zewei Sun; Wenting Zhao; Zhen Wang; Mingjie Wu; Yanyun Pan; Hui Yan; Jianhua Zhu
+     PMC4779537 · Mediators of Inflammation · 2016-02-21 · 12 citations
+     https://doi.org/10.1155/2016/1605948
+     Matched: 1. Introduction · cat /papers/PMC4779537/content.lines --lines 8-9
+     │ Lipopolysaccharide (LPS) mediated immune-inflammatory response plays an important role in
+     │ the disease resistance when the body encounters a gram-negative bacterial infection. During
+     │ this, macrophages, among the multiple immune cells, first help in endocytosis of bacterium
+     │ debris followed by expansion of local inflammatory response and eventually presenting the
+     │ antigen to T cells in a MHC class II-dependent manner. This subsequently gives rise to T
+     │ cell activation and the development of an adaptive innate immune response to clean up the
+     │ pathogen infection [1–4]. CD97/ADGRE5 is a membrane protein of the epidermal growth factor-
+     │ seven transmembrane family (EGF-TM7) that belongs to adhesion G …
+     "CD97 expression in macrophages was investigated for its role in LPS-induced NF-κB activation. CD97 inhibits this activation, partly by upregulating PPAR-γ."
+
+  24. 89Zr anti-CD44 immuno-PET monitors CD44 expression on splenic myeloid cells and HT29 colon cancer cells
+     Jin Won Park; Kyung-Ho Jung; Jin Hee Lee; Seung Hwan Moon; Young Seok Cho; Kyung-Han Lee
+     PMC7887231 · PMC · 2021-02-16 · 21 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7887231/
+     Matched: Effects of LPS stimulation on cultured macrophages and monocytic cells · cat /papers/PMC7887231/content.lines --lines 27-28
+     │ When we tested the effect of LPS on cultured macrophage/monocytic cells, RAW264.7
+     │ macrophages showed that LPS significantly stimulated CD44 expression and increased 89Zr-
+     │ anti-CD44 binding to 136.6 ± 4.6% of that of controls (Fig. 3A). Similarly, THP-1 monocytic
+     │ cells showed that LPS stimulation dose-dependently elevated CD44 expression and 89Zr-anti-
+     │ CD44 binding. The latter reached 238.9 ± 19.9% of untreated controls by 1 μM LPS (Fig. 3B).
+     │ Figure 3: LPS stimulates CD44 expression and 89Zr-anti-CD44 uptake in cultured monocytic
+     │ cells. (A,B) RAW264.7 murine macrophages (A) and THP-1 human monocytic cells (B) show
+     │ increased CD44 expression and 89Zr-anti-CD44 uptake after LPS stimulation. …
+     "This study used 89Zr-labeled anti-CD44 antibody to image CD44 expression. The antibody revealed that splenic myeloid cells, not tumor cells, were responsible for high uptake, and this uptake could be modulated."
+
+  25. Selection of reliable reference genes for the normalisation of gene expression levels following time course LPS stimulation of murine bone marrow derived macrophages
+     Akane Tanaka, Joyce To, Bronwyn O’Brien, Sheila Donnelly, Maria Lund
+     PMC5627409 · biomedrxiv · 2017-10-03 · 29 citations
+     https://doi.org/10.1186/s12865-017-0223-y
+     "This study assessed the stability of eight common reference genes in LPS-stimulated murine macrophages. It found that some traditional genes are unreliable, and identified two new, stable reference genes for accurate gene expression analysis."
+
+[108ms, saved to s_2c0f04b2]
+
+💡 Extract data across these results with: map --from s_2c0f04b2 "your question"
+[108ms, saved to s_2c0f04b2]  [repo: mva-lof-molecular]
+

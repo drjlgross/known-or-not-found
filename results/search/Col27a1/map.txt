@@ -1,0 +1,198 @@
+$ src/pc.sh map --from s_d39a10b2 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Col27a1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_d6a8e976
+
+  ✓ INVOLVEMENT OF MACROPHAGES IN COLLAGEN RESORPTION
+    PMC2107732 · 984ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 1253ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Collagen Fibril Density Modulates Macrophage Activation and Cellular F
+    PMC7356036 · 1206ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ LPS combined with CD47mAb enhances the anti‑osteosarcoma ability of ma
+    PMC10091190 · 1239ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Interleukins-27 Aggravates Liver Injury by Impairing the Antimicrobial
+    PMC11882325 · 1064ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Transcriptome Analysis Provides Insights into the Markers of Resting a
+    PMC6274997 · 943ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ IL-27 neutralization enhances macrophage polarization and improves imm
+    bio_5e67bb72 · 1164ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Exosomal miR-148a-3p from LPS-Activated Macrophages Promotes M1 Polari
+    PMC13199726 · 1016ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Osteocalcin Alleviates Lipopolysaccharide-Induced Acute Inflammation v
+    PMC9138386 · 1008ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ IL-27 amplifies cytokine responses to Gram-negative bacterial products
+    PMC6135775 · 997ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Comparative Study of The Effect of LPS on The Function of BALB/c and C
+    PMC3660024 · 986ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ IL-27 Aggravates Sepsis-Induced ARDS by Driving Macrophage Ferroptosis
+    PMC12967598 · 970ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Selection of reliable reference genes for the normalisation of gene ex
+    PMC5627409 · 1330ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Collagen XXVII Organises the Pericellular Matrix in the Growth Plate
+    PMC3242791 · 969ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Effect of regulating macrophage polarization phenotype on intervertebr
+    PMC9609449 · 935ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ LPS‐Induced Inflammation Prior to Injury Exacerbates the Development o
+    PMC7689775 · 938ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ LPS Counter Regulates RNA Expression of Extracellular Proteases and Th
+    PMC3317238 · 937ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(
+    PMC7053374 · 913ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ LPS-induced senescence of macrophages aggravates calcification and sen
+    PMC11232647 · 780ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Biomimetic collagenous scaffold to tune inflammation by targeting macr
+    PMC4765811 · 1091ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Epigenetic profile in lipopolysaccharide-stimulated macrophages
+    PMC3953056 · 963ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ High-Resolution Mapping and Dynamics of the Transcriptome, Transcripti
+    PMC5778122 · 902ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Mmu-miR-27a-5p-Dependent Upregulation of MCPIP1 Inhibits the Inflammat
+    PMC4534598 · 861ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Mathematical modelling of activation-induced heterogeneity reveals cel
+    bio_206e5a35 · 1088ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Mathematical modelling of activation-induced heterogeneity in TNF, IL6
+    PMC9411976 · 990ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[27.5s, saved to m_d6a8e976]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  1/25 papers  run m_d6a8e976  [2s]
+  [########............]  11/25 papers  run m_d6a8e976  [4s]
+  [##############......]  18/25 papers  run m_d6a8e976  [6s]
+  [################....]  21/25 papers  run m_d6a8e976  [8s]
+  [####################]  25/25 papers  run m_d6a8e976  [12s]
+  [####################]  25/25 papers  run m_d6a8e976  [22s]
+  [####################]  25/25 papers  run m_d6a8e976  [25s]
+  [####################]  25/25 papers  run m_d6a8e976  [27s]
+

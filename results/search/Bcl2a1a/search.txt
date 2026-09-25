@@ -1,0 +1,225 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Bcl2a1a (B cell leukemia/lymphoma 2 related protein A1a) LPS macrophage
+# exit 0
+Found 25 papers  [s_ba67ad68]
+
+  1. The Bcl2a1 gene cluster finally knocked out: first clues to understanding the enigmatic role of the Bcl-2 protein A1
+     Ingolf Berberich; David A Hildeman
+     PMC5384030 · PMC · 2017-03-24 · 6 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5384030/
+     Matched: cat /papers/PMC5384030/content.lines --lines 9-10
+     │ To clarify the function of antiapoptotic Bcl-2 proteins, total and conditional gene knockout
+     │ mice have been generated. Conditional knockout mice for Bcl-2 proteins have varying
+     │ phenotypes (reviewed in Delbridge et al.[4]). Chimeric mice lacking Bcl-XL in the
+     │ hematopoetic system indicate a critical role for the survival of developing lymphocytes.
+     │ Similarly, Mcl-1-deficient mature lymphocytes have profoundly reduced survival. Finally,
+     │ lack of Bcl-2 expression in the lymphocyte lineage leads to thymic and splenic atrophy due
+     │ to increased cell death of immature and mature lymphocytes. To date, A1 remained the only
+     │ pro-survival Bcl-2 family member whose function has not yet been determined using …
+
+  2. A1 is induced by pathogen ligands to limit myeloid cell death and NLRP3 inflammasome activation
+     Mary Speir; Hazel Tye; Timothy A Gottschalk; Daniel S Simpson; Tirta M Djajawi; Pankaj Deo; Rebecca ...
+     PMC10626451 · PMC · 2023-10-17 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10626451/
+     Matched: LPS priming delays BAX/BAK‐mediated apoptosis and IL‐1β release in mac · cat /papers/PMC10626451/content.lines --lines 22-23
+     │ Figure EV1: LPS priming delays cell death upon BCL‐XL and MCL‐1 targeting in macrophages A–H
+     │ WT BMDMs were primed, as specified, with B5 LPS (50 ng/ml) for 3 h before addition of S63845
+     │ (S6; 10 μM), ABT‐737 (737; 500 nM), A‐1331852 (852; 1 μM), and/or cycloheximide (CHX; 20
+     │ μg/ml) for 6 or 24 h, as indicated. (A, B) Cell death was quantified by flow cytometric
+     │ analysis of PI uptake. (C, D) IL‐1β and (E–H) TNF levels were measured in the cell
+     │ supernatants by ELISA. I, J WT BMDMs were treated with B4 LPS for 7 h before RNA isolation
+     │ and 3′ mRNA sequencing. (I) Multi‐dimensional scaling (MDS) plot of the top 1,000
+     │ differentially expressed genes (DEGs) between untreated and LPS‐treated BMDMs. …
+     "A1 expression is induced by pathogen ligands in myeloid cells to regulate apoptosis and inflammasome activation. This induction limits cell death and IL-1β production, suggesting a bacterial mechanism to dampen inflammatory responses."
+
+  3. Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni, Yanal Ghosheh, Akula Bala Pramod, Klaus Ley
+     PMC6543837 · Frontiers in Immunology · 2019-05-24 · 1909 citations
+     https://doi.org/10.3389/fimmu.2019.01084
+     Matched: In vivo M1(=LPS+)C57BL/6J Exclusive Genes Drive Anti-bacterial Immune  · cat /papers/PMC6543837/content.lines --lines 40-43
+     "This study compared gene expression in *in vivo* M1/M2 macrophages with *in vitro* classically/alternatively activated macrophages. The findings indicate that *in vivo* M1/M2 polarization is not equivalent to *in vitro* activation states."
+
+  4. Contribution of A1 to macrophage survival in cooperation with MCL-1 and BCL-XL in a murine cell model of myeloid differentiation
+     Juliane Vier; Georg Häcker; Susanne Kirschnek
+     PMC11405755 · Cell Death & Disease · 2024-09-16 · 4 citations
+     https://doi.org/10.1038/s41419-024-07064-z
+     Matched: A1 is important for survival of macrophage progenitors under pro-infla · cat /papers/PMC11405755/content.lines --lines 32
+     │ Fig. 4: A1 deficiency promotes apoptosis in LPS-stimulated macrophages when MCL-1 or BCL-XL
+     │ is neutralised. a–c Day 7 differentiated Hoxb8 macrophages were co-treated with LPS and
+     │ single or combined inhibitors against BCL-XL/BCL-2 (ABT-737), MCL-1 (S63845), BCL-2
+     │ (ABT-199) or BCL-XL (A-1155463) at the concentrations (µM) indicated for 4 h. DMSO served as
+     │ solvent control. Viability and apoptotic cell death were assessed by AnnexinV/PI staining
+     │ (a) and staining against active caspase-3 (b, c), followed by flow cytometry (FACS Calibur).
+     │ Data are means/SEM of 3 independent experiments. Statistical analysis was done by 2-way
+     │ ANOVA. *p < 0.05; **p < 0.01; ***p < 0.001; ****p < 0.0001; ns, …
+     "This study analyzed the role of the anti-apoptotic protein A1 in macrophage survival during differentiation. A1 cooperates with MCL-1 and BCL-XL to protect macrophages, especially under inflammatory conditions."
+
+  5. Accelerated Neutrophil Apoptosis in Mice Lacking A1-a, a Subtype of the bcl-2–related A1 Gene
+     Azumi Hamasaki; Fujiro Sendo; Keiko Nakayama; Noriko Ishida; Izumi Negishi; Kei-ichi Nakayama; Shige...
+     PMC2212378 · PMC · 1998-12-07 · 161 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2212378/
+     Matched: Absence of Apoptosis Inhibition of PEN and LPS-treated PBN in A1-a− /− · cat /papers/PMC2212378/content.lines --lines 37
+     │ We and others have demonstrated that neutrophil apoptosis is modulated according to the
+     │ conditions under which the cell is placed (1, [26]–30). To determine whether regulation of
+     │ apoptosis in similar situations can occur in A1-a−/− mice, we examined both the level of
+     │ apoptosis of PEN, which was found to be lower than that of PBN in normal rats (1), and the
+     │ level of apoptosis of PBN treated with LPS, which has been shown to be significantly
+     │ inhibited in human preparations (26, 27). Table 1 shows that, in wild-type mice, apoptosis
+     │ of neutrophils under the two sets of conditions mentioned above (PEN and LPS treatment) was
+     │ significantly lower than that of untreated PBN, as already reported (1, …
+     "Mice lacking the A1-a gene were studied to understand its role in neutrophil apoptosis. These mice showed accelerated neutrophil apoptosis, suggesting A1-a inhibits certain types of this process."
+
+  6. Transcriptome Analysis Provides Insights into the Markers of Resting and LPS-Activated Macrophages in Grass Carp (Ctenopharyngodon idella)
+     Yazhen Hu; Xiaolei Wei; Zhiwei Liao; Yu Gao; Xiaoling Liu; Jianguo Su; Gailing Yuan
+     PMC6274997 · International Journal of Molecular Sciences · 2018-11-12 · 35 citations
+     https://doi.org/10.3390/ijms19113562
+     Matched: 3. Discussion · cat /papers/PMC6274997/content.lines --lines 39-40
+     "This study analyzed the transcriptomes of resting and LPS-activated grass carp macrophages. Four novel cell surface markers and two chemokines were identified as potential macrophage markers, with others indicating activation."
+
+  7. LPSlow-Macrophages Alleviate the Outcome of Graft-Versus-Host Disease Without Aggravating Lymphoma Growth in Mice
+     Mohamed Jeljeli; Charlotte Chêne; Sandrine Chouzenoux; Marine Thomas; Benjamin Segain; Ludivine Dori...
+     PMC8369416 · Frontiers in Immunology · 2021-08-03 · 9 citations
+     https://doi.org/10.3389/fimmu.2021.670776
+     Matched: Reagents and Chemicals · cat /papers/PMC8369416/content.lines --lines 13
+     "LPS low-trained macrophages were studied for their effect on graft-versus-host disease (GvHD) and lymphoma growth in mice. These macrophages attenuated GvHD symptoms and improved survival without accelerating lymphoma growth."
+
+  8. Could a B-1 Cell Derived Phagocyte “Be One” of the Peritoneal Macrophages during LPS-Driven Inflammation?
+     Ana Flavia Popi; Lika Osugui; Katia Regina Perez; Ieda Maria Longo-Maugéri; Mario Mariano
+     PMC3316698 · PLoS ONE · 2012-03-30 · 37 citations
+     https://doi.org/10.1371/journal.pone.0034570
+     Matched: B-1CDPs are part of the LPS-elicited peritoneal macrophage population · cat /papers/PMC3316698/content.lines --lines 60-61
+     │ The macrophage population was also analyzed after B-1 cell transfer to BALB/Xid mice. Using
+     │ this strategy, we analyzed the participation of B-1 cell-derived phagocytes in the
+     │ composition of the macrophage population. The CD11b+F4/80+ cells were selected, and the
+     │ number of CFSE+ cells (B-1 cells) in this population was determined (Figure 5D). After
+     │ transfer of the B-1 CFSE+ cells to BALB/Xid mice, we determined that at least 15% of the
+     │ macrophages were derived from B-1 cells (CFSE+). No difference was observed in the absolute
+     │ number of macrophages when BALB/Xid and BALB/Xid+B-1 were compared. However, after LPS
+     │ stimulation, a subtle increase (16.66%) in the macrophage population of …
+     "This study investigated if B-1 cells can differentiate into peritoneal macrophages during LPS-induced inflammation. Results indicate B-1 cells do differentiate into phagocytes in vivo, contributing to the peritoneal macrophage population."
+
+  9. Epigenetic profile in lipopolysaccharide-stimulated macrophages
+     Ester Correia Sarmento Rios; Thais Martins Lima Salgado; Francisco Garcia Soriano
+     PMC3953056 · Critical Care · 2013-11-05 · 0 citations
+     https://doi.org/10.1186/cc12987
+
+  10. A1/Bfl-1 in leukocyte development and cell death
+     Eleonora Ottina; Denise Tischner; Marco J. Herold; Andreas Villunger
+     PMC3405526 · PMC · 2012-07-01 · 46 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3405526/
+     Matched: A1/Bfl-1 in the development and function of myeloid cells · cat /papers/PMC3405526/content.lines --lines 39-41
+     "This review summarizes current knowledge on the anti-apoptotic protein A1. A1 plays significant roles in leukocyte development and survival, with implications in immunity, autoimmunity, and cancer."
+
+  11. Canine peripheral blood mononuclear cell-derived B lymphocytes pretreated with lipopolysaccharide enhance the immunomodulatory effect through macrophage polarization
+     Hee-Won Jang; Ju-Hyun An; Kyeong Bo Kim; Jeong-Hwa Lee; Ye-In Oh; Su-Min Park; Hyung-Kyu Chae; Hwa-Y...
+     PMC8608335 · PLoS ONE · 2021-11-22 · 6 citations
+     https://doi.org/10.1371/journal.pone.0256651
+     Matched: Macrophage polarization from M1 to M2 like phenotype · cat /papers/PMC8608335/content.lines --lines 67-69
+     "Canine B cells pretreated with lipopolysaccharide were studied for their immunomodulatory effects. LPS-primed B cells demonstrated anti-inflammatory properties and shifted macrophages towards an anti-inflammatory phenotype."
+
+  12. Comparative Study of The Effect of LPS on The Function of BALB/c and C57BL/6 Peritoneal Macrophages
+     Sara Soudi; Ahmad Zavaran-Hosseini; Zuhair Muhammad Hassan; Masoud Soleimani; Fatemeh Jamshidi Adega...
+     PMC3660024 · Cell Journal (Yakhteh) · 2013-05-05
+     Matched: Introduction · cat /papers/PMC3660024/content.lines --lines 18-19
+     "Peritoneal macrophages from BALB/c and C57BL/6 mice were stimulated with LPS to compare their responses. Different mouse strains exhibit distinct cytokine profiles and functional activities when exposed to LPS."
+
+  13. Bcl-2 Proteins Regulate Mitophagy in Lipopolysaccharide-Induced Acute Lung Injury via PINK1/Parkin Signaling Pathway
+     Zhihao Zhang; Zhugui Chen; Ruimeng Liu; Qingchun Liang; Zhiyong Peng; Shuang Yin; Jing Tang; Ting Go...
+     PMC7054785 · PMC · 2020-02-20 · 51 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7054785/
+     Matched: 2.1. LPS-Induced Injury in A549 Cells and ALI in Mice · cat /papers/PMC7054785/content.lines --lines 16-17
+     "Bcl-2 proteins were studied for their role in mitophagy during lipopolysaccharide-induced acute lung injury. Bcl-2 proteins regulate mitophagy via the PINK1/Parkin pathway, impacting injury and survival."
+
+  14. Importance of Mcl-1 for Alveolar Macrophage Apoptosis–associated Bacterial Killing
+     Heather W. Stout-Delgado
+     PMC6603059 · PMC · 2019-07-01 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6603059/
+
+  15. Selection of reliable reference genes for the normalisation of gene expression levels following time course LPS stimulation of murine bone marrow derived macrophages
+     Akane Tanaka, Joyce To, Bronwyn O’Brien, Sheila Donnelly, Maria Lund
+     PMC5627409 · biomedrxiv · 2017-10-03 · 29 citations
+     https://doi.org/10.1186/s12865-017-0223-y
+     "This study assessed the stability of eight common reference genes in LPS-stimulated murine macrophages. It found that some traditional genes are unreliable, and identified two new, stable reference genes for accurate gene expression analysis."
+
+  16. ADAR1 Inhibits Macrophage Apoptosis and Alleviates Sepsis-induced Liver Injury Through miR-122/BCL2A1 Signaling
+     Shanshou Liu; Jiangang Xie; Chujun Duan; Xiaojun Zhao; Zhusheng Feng; Zheng Dai; Xu Luo; Yu Li; Ming...
+     PMC10851074 · PMC · 2023-11-13 · 11 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10851074/
+     Matched: Apoptosis of liver macrophages (Kupffer cells) is aggravated in a CLP- · cat /papers/PMC10851074/content.lines --lines 76
+     "ADAR1 was studied for its role in sepsis-induced liver injury and macrophage apoptosis. ADAR1 alleviates macrophage apoptosis and liver damage via the miR-122/BCL2A1 pathway."
+
+  17. Monocyte normal immune response to LPS stimulation
+     P Myrianthefs; K Venetsanou; E Grouzi; E Boutzouka; P Evagelopoulou; G Fildissis; I Spiliotopoulou; ...
+     PMC3333514 · Critical Care · 2002-03-01 · 1 citation
+     https://doi.org/10.1186/cc1554
+
+  18. Macrophage stimulation by bacterial lipopolysaccharides. II. Evidence for differentiation signals delivered by lipid A and by a protein rich fraction of lipopolysaccharides
+     PMC2184939 · PMC · 1978-08-01 · 78 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2184939/
+     Matched: cat /papers/PMC2184939/content.lines --lines 5
+     "This study investigated how lipopolysaccharides (LPS) stimulate macrophages to kill tumor cells. Lipid A and a protein-rich fraction (LAP) both independently deliver signals for macrophage differentiation."
+
+  19. Transcriptional profiling of the LPS induced NF-κB response in macrophages
+     Omar Sharif, Viacheslav N Bolshakov, Stephanie Raines, Peter Newham, Neil D Perkins
+     PMC1781469 · BMC Immunology · 2007-01-01 · 447 citations
+     https://doi.org/10.1186/1471-2172-8-1
+     Matched: Conclusion · cat /papers/PMC1781469/content.lines --lines 44
+     │ Although this study examined only a limited set of genes a number of discoveries were made
+     │ and some significant conclusions can be drawn. Firstly, the temporal nature of LPS induced
+     │ gene expression allowed four distinct patterns of gene expression to be defined. Additional
+     │ time-points may reveal further subtleties but it is clear that the changes in gene
+     │ expression following LPS stimulation are dynamic and feature both the time-specific
+     │ repression as well as activation of gene expression. However, it should be noted that gene
+     │ expression patterns do not necessarily correlate with protein levels [57]. This analysis
+     │ also allowed us to conclude that THP-1 cells provide a much better model …
+     "This study profiled gene expression in macrophages after LPS exposure. LPS induced a dynamic, time-dependent transcriptional response, with THP-1 cells closely mimicking primary macrophages."
+
+  20. Tolerance to lipopolysaccharide regulates apoptosis in B lymphocytes
+     Edielle de Sant Anna Melo; Renata Gorjao; Ruy Curi; Irineu Tadeu Velasco; Francisco Garcia Soriano
+     PMC3300661 · PMC · 2007-09-26 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3300661/
+
+  21. Macrophage Apoptosis Induced by an Avian Strain of Escherichia coli
+     Fabiana Horn; Michele Bastiani; Diógenes S. Santos
+     PMC6084222 · The Scientific World Journal · 2001-05-01 · 0 citations
+     https://doi.org/10.1100/tsw.2001.218
+
+  22. Identification of stable reference genes for lipopolysaccharide-stimulated macrophage gene expression studies
+     Roshini Kalagara, Weimin Gao, Honor L. Glenn, Colleen Ziegler, Laura Belmont, Deirdre R. Meldrum
+     PMC6994071 · biomedrxiv · 2016-03-01 · 9 citations
+     https://doi.org/10.1093/biomethods/bpw005
+     "This study evaluated the expression stability of eight common reference genes in LPS-stimulated macrophages. Ubiquitin C (UBC) and Beta-2-microglobulin (B2M) were found to be the most stable, while GAPDH was the least stable."
+
+  23. Oral and transdermal administration of lipopolysaccharide safely enhances self-healing ability through the macrophage network
+     Gen-Ichiro Soma; Masataka Oda; Vindy Tjendana Tjhin; Chie Kohchi; Hiroyuki Inagawa
+     PMC11994614 · Frontiers in Immunology · 2025-03-31 · 7 citations
+     https://doi.org/10.3389/fimmu.2025.1563484
+     Matched: Regulation of innate immunity by LPS as an environmental agent · cat /papers/PMC11994614/content.lines --lines 29-31
+     │ Improvements in healthcare access, nutrition, and sanitation have contributed to increased
+     │ longevity in developed countries. However, the incidence of allergies, lifestyle-related
+     │ diseases, emerging infectious diseases, and cancers that are challenging to treat is
+     │ increasing in modern societies (74–77). This is often attributed to enhanced sanitation in
+     │ urban environments and the overuse of antibiotics, which lead to a decline in the natural
+     │ functionality of the immune system (34, [78], 79). LPS, as a potential missing environmental
+     │ factor, has emerged as a focus of interest for compensating for diminished innate immune
+     │ function. LPS is a major component of the outer membrane of …
+     "Oral and transdermal LPS administration was studied for its effects on self-healing. This method safely enhances healing through a "macrophage network" involving mucosal immune cells."
+
+  24. Btk Regulates Macrophage Polarization in Response to Lipopolysaccharide
+     Joan Ní Gabhann; Emily Hams; Siobhán Smith; Claire Wynne; Jennifer C. Byrne; Kiva Brennan; Shaun Spe...
+     PMC3897530 · PLoS ONE · 2014-01-21 · 128 citations
+     https://doi.org/10.1371/journal.pone.0085834
+     Matched: Btk is Required for LPS-elicited Macrophage Polarization in vivo · cat /papers/PMC3897530/content.lines --lines 46
+     "Btk's role in macrophage polarization after LPS stimulation was investigated. Btk deficiency impairs M1 polarization and promotes M2 polarization, exacerbating allergic inflammation."
+
+  25. A Global Picture of Molecular Changes Associated to LPS Treatment in THP-1 Derived Human Macrophages by Fourier Transform Infrared Microspectroscopy
+     Diletta Ami; Ana Rita Franco; Valentina Artusa; Paolo Mereghetti; Francesco Peri; Antonino Natalello
+     PMC9656053 · International Journal of Molecular Sciences · 2022-11-03 · 7 citations
+     https://doi.org/10.3390/ijms232113447
+     Matched: 1. Introduction · cat /papers/PMC9656053/content.lines --lines 10-12
+     "Fourier transform infrared microspectroscopy analyzed THP-1 derived macrophages treated with LPS. The study identified spectral markers in lipids, proteins, and sulfated sugars, highlighting their role in inflammation."
+
+[2.4s, saved to s_ba67ad68]
+
+💡 Extract data across these results with: map --from s_ba67ad68 "your question"
+[2.4s, saved to s_ba67ad68]  [repo: mva-lof-molecular]
+

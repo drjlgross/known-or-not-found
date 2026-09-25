@@ -1,0 +1,328 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Il6 (interleukin 6) LPS macrophage
+# exit 0
+Found 25 papers  [s_6a1d2e02]
+
+  1. NF-κB p65 and TCF-4 interactions are associated with LPS-stimulated IL-6 secretion of macrophages
+     Ji-Youn Kim; Hyeon-Gun Jee; Ju Yeong Kim; Tai-Soon Yong; Soung-Hoo Jeon
+     PMC10859262 · Biochemistry and Biophysics Reports · 2024-02-06 · 6 citations
+     https://doi.org/10.1016/j.bbrep.2024.101659
+     Matched: Establishment of an in vitro macrophage model with LPS stimulation · cat /papers/PMC10859262/content.lines --lines 43-44
+     │ Human monocyte THP-1 cells grow in suspension culture and are originally isolated from an
+     │ acute monocytic leukemia patient (Fig. 1A) [23]. Treatment with phorbol 12-myristate
+     │ 13-acetate (PMA) for several days causes the cells to differentiate into a macrophage-like
+     │ phenotype [24]. In concordance with previous reports, the five-day stimulation resulted in
+     │ elongated spindle-shaped cells firmly adhered to the substratum, characteristic of
+     │ macrophages (Fig. 1B). For inflammatory stimulation, fully differentiated macrophage-like
+     │ THP-1 cells were treated with lipopolysaccharides (LPS). Immunofluorescence staining
+     │ confirmed the intracellular expression of inflammatory cytokine IL-6 when stimulated …
+     "This study investigated the interaction between NF-κB and TCF-4 in LPS-stimulated macrophages. The findings indicate that NF-κB p65 and TCF-4 interaction is associated with increased IL-6 secretion."
+
+  2. In Vitro Study of Interleukin-6 when Used at Low Dose and Ultra-Low Dose in Micro-Immunotherapy
+     Camille Jacques; Flora Marchand; Mathias Chatelais; Adrien Brulefert; Mathieu Riffault; Ilaria Flori...
+     PMC10971188 · PMC · 2024-03-12 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10971188/
+     Matched: 3.5. The ULD-IL-6-Containing Capsule of the Complex Micro-Immunotherap · cat /papers/PMC10971188/content.lines --lines 51-52
+     │ The second part of this study focused on assessing the effect of IL-6 when employed at ULD
+     │ in a complex MIM. Thus, one capsule of the complex-MIM 2LALERG®, as it contains IL-6 (17 CH)
+     │ in its formulation, was tested in an in vitro model of inflammation. Especially, its
+     │ capacity to affect the secretion of IL-6 was evaluated here. Human CD14+ monocytes were thus
+     │ isolated from one healthy donor and were cultivated for 6 days in a medium enriched with
+     │ M-CSF to make them differentiate into M0 macrophages. To provide a pro-inflammatory
+     │ stimulus, the cells were incubated with 100 ng/mL LPS for either 24 h or 48 h and were
+     │ concomitantly treated with either the Veh. or the 2LALERG® capsule. At the …
+     "This study investigated the in vitro immune-modulatory effects of low and ultra-low dose Interleukin-6 in micro-immunotherapy. Results indicate IL-6 at these doses can activate immune cells and influence macrophage differentiation, while a complex formulation inhibited mast cell degranulation and IL-6 release."
+
+  3. Anxiolytic-like effects of hochuekkito in lipopolysaccharide-treated mice involve interleukin-6 inhibition
+     Soichiro Ushio; Yudai Wada; Mizuki Nakamura; Daiki Matsumoto; Kota Hoshika; Shoya Shiromizu; Naohiro...
+     PMC9411515 · PMC · 2022-08-12 · 10 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9411515/
+     Matched: Effect of HET on LPS-induced IL-6 secretion by macrophages · cat /papers/PMC9411515/content.lines --lines 61-62
+     │ THP-1 and RAW264.7 cells were used to investigate the effect of HET on LPS-induced IL-6
+     │ secretion by macrophages. Exposure of HET at concentrations of 0, 10, 50, 100, and 300 μg/ml
+     │ did not affect the proliferation of THP-1 cells or RAW264.7 cells (data not shown). LPS
+     │ exposure at a concentration of 1.0 µg/ml significantly increased IL-6 secretion by THP-1 and
+     │ RAW264.7 cells. HET significantly suppressed LPS-induced increased IL-6 secretion by
+     │ RAW264.7 (Figure 6A) [F (3, 12) = 10.325, p < 0.05] and THP-1 (Figure 6B) [F (3, 9) =
+     │ 71.260, p < 0.01)] cells. FIGURE 6: Effect of HET on interleukin-6 (IL-6) secretion from
+     │ LPS-stimulated RAW264.7 (A) and THP-1 (B) macrophages incubated in the …
+     "Hochuekkito (HET) was studied for its effects on anxiety-like behavior induced by lipopolysaccharide (LPS) in mice. HET administration prevented anxiety-like behavior and reduced interleukin-6 (IL-6) levels, suggesting IL-6 inhibition is a key mechanism."
+
+  4. The Uremic Toxin Indoxyl Sulphate Enhances Macrophage Response to LPS
+     Simona Adesso; Ada Popolo; Giuseppe Bianco; Rosalinda Sorrentino; Aldo Pinto; Giuseppina Autore; Ste...
+     PMC3786936 · PLoS ONE · 2013-09-30 · 114 citations
+     https://doi.org/10.1371/journal.pone.0076778
+     Matched: TNF-α and IL-6 determination · cat /papers/PMC3786936/content.lines --lines 30
+     │ TNF-α and IL-6 concentrations in J774A.1 and mouse peritoneal macrophages culture medium
+     │ stimulated for 18 h with LPS (1 µg/ml) and IS (1000–62.5 µM) as previously described were
+     │ assessed by an Enzyme-Linked Immuno Sorbent Assay (ELISA) assay by using a commercial kit,
+     │ for murine TNF-α or IL-6, according to manufacturer's instruction (e-Biosciences, CA, USA).
+     │ Results are expressed as pg/ml and ng/ml for TNF-α and IL-6 respectively.
+     "Indoxyl sulphate was studied for its effects on macrophage activation by LPS. IS enhances macrophage inflammatory responses to LPS, increasing ROS, NO, and pro-inflammatory cytokine production."
+
+  5. Interleukin-6 signaling promotes alternative macrophage activation to limit obesity-associated insulin resistance and endotoxemia
+     Jan Mauer; Bhagirath Chaurasia; Julia Goldau; Merly C. Vogt; Johan Ruud; Khoa D. Nguyen; Sebastian T...
+     PMC4161471 · Nature immunology · 2014-03-30 · 637 citations
+     https://doi.org/10.1038/ni.2865
+     Matched: LPS-endotoxemia · cat /papers/PMC4161471/content.lines --lines 65
+     │ 9–10 weeks old control and Il6raΔmyel mice were aclimatized to the PhenoMaster System cages
+     │ for five days. Subsequently, all mice were challenged by an i.p. injection of 1mg/kg body
+     │ weight LPS (E. coli-derived, serotype O55:B5, # L5418, Sigma-Aldrich) in 0.9 % saline, and
+     │ measurements of food intake (NCD) and energy expenditure were resumed. Whole blood was
+     │ collected into heparinized tubes 6 hours post injection, and spun at 7000 g (4° C) for 7
+     │ minutes to obtain plasma. LPS serotype and preparation as well as administration route, were
+     │ chosen based on previous publications[44],[45]. Levels of cytokines were quantified in
+     │ plasma (diluted 1:2) using Multiplex Bead Immunoassays (Life …
+     "This study investigated the role of IL-6 signaling in myeloid cells during diet-induced obesity. IL-6 signaling is crucial for alternative macrophage activation, which limits insulin resistance and endotoxemia."
+
+  6. CEACAM1 regulates the IL-6 mediated fever response to LPS through the RP105 receptor in murine monocytes
+     Zhifang Zhang; Deirdre La Placa; Tung Nguyen; Maciej Kujawski; Keith Le; Lin Li; John E. Shively
+     PMC6345024 · BMC Immunology · 2019-01-23 · 31 citations
+     https://doi.org/10.1186/s12865-019-0287-y
+     Matched: LPS distribution after i.p. Injection and IL-6 mRNA expression in mous · cat /papers/PMC6345024/content.lines --lines 24-26
+     │ IL-6 is considered the critical proinflammatory cytokine for the febrile response, since
+     │ neither IL-6 knock-out mice, nor animals treated with IL-6 antiserum develop fever upon
+     │ peripheral immune stimulation [8, [27], 28]. Furthermore, it is understood that IL-6 acts in
+     │ concert with IL-1β as an endogenous pyrogen during LPS-induced fever [7, 27]. Although IL-6
+     │ is reported to be synthesized and secreted by many cell types, for example, monocytes and
+     │ macrophages [29, 30], fibroblasts [31], brain endothelial cells [32, 33], muscle cells [34],
+     │ hepatocytes [35, 36], adipocytes [37], neurons [38, 39], microglial cells [40, 41] and
+     │ astrocytes [42, 43], the source of serum IL-6 after i.p. treatment …
+     "CEACAM1 regulates IL-6 fever response to LPS in murine monocytes via the RP105 receptor. CEACAM1 negatively controls RP105 signaling, impacting IL-6 production and fever."
+
+  7. COVID-19 virtual patient cohort reveals immune mechanisms driving disease outcomes
+     Adrianne L. Jenner, Rosemary A. Aogo, Sofia Alfonso, Vivienne Crowe, Amanda P. Smith, Penelope A. Mo...
+     bio_f7b8d9ca6e0e · bioRxiv · 2021-01-05 · 89 citations (all versions)
+     Published (2021): https://doi.org/10.1371/journal.ppat.1009753
+     Preprint: https://doi.org/10.1101/2021.01.05.425420
+     Matched: S4.2.3. *Production of IL-6 by alveolar macrophages* · cat /papers/bio_f7b8d9ca6e0e/content.lines --lines 678-681
+     │ We modelled the production of IL-6 by alveolar macrophages by
+     │ $$\frac{dL_U}{dt}=\frac{p_{L,M\Phi I}M_{\Phi I}}{M_{\Phi I}+\eta_{L,M\Phi}}$$ S55 to compare
+     │ to observations from Shibata et al.<sup>37</sup> who measured the production of IL-6 by
+     │ alveolar macrophages stimulated by different concentrations of LPS. Assuming no
+     │ proliferation of macrophages from LPS introduction but that LPS scales the production of
+     │ IL-6, we modified the above equation to be $$\frac{dL_U}{dt} = \frac{p_{L,M\Phi I} M_{\Phi
+     │ I}}{M_{\Phi I} + \eta_{L,M\Phi}} LPS, \quad S56$$
+     "A mathematical model and virtual patient cohort were used to study immune responses to SARS-CoV-2. Low early interferon production and high IL-6 were linked to severe COVID-19 phenotypes and CD8+ T cell depletion."
+
+  8. Interleukin-6 Contributes to Age-Related Alteration of Cytokine Production by Macrophages
+     Christian R. Gomez; John Karavitis; Jessica L. Palmer; Douglas E. Faunce; Luis Ramirez; Vanessa Nome...
+     PMC2910493 · PMC · 2010-07-07 · 53 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2910493/
+     Matched: 1. Introduction · cat /papers/PMC2910493/content.lines --lines 13-14
+     │ Since macrophages are considered to be an important source of proinflammatory cytokines in
+     │ vivo, many possible explanations for this inconsistency can be proposed [22]. Among the
+     │ multiple possibilities, the effect of the local environment in vitro versus the effect of
+     │ the aged microenvironment in vivo has been considered [22–24]. We reported that serum from
+     │ aged Fisher 344 rats increased the levels of IL-6 by macrophages obtained from young animals
+     │ and cultured in vitro without stimulants [25]. These observations suggest that the elevated
+     │ production of inflammatory mediators in the aged results, in part, from the interaction of
+     │ macrophages with a variety of factors in their environment in …
+     "Splenic macrophages from aged mice showed decreased proinflammatory cytokine production compared to young mice. This age-related defect was ameliorated in the absence of Interleukin-6."
+
+  9. MicroRNA-181b regulates endotoxin tolerance by targeting IL-6 in macrophage RAW264.7 cells
+     Wenjun Zhang; Xiaojun Shen; Luyang Xie; Maoping Chu; Yanmei Ma
+     PMC4355005 · PMC · 2015-03-02 · 35 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4355005/
+     Matched: Conclusions · cat /papers/PMC4355005/content.lines --lines 80-81
+     │ Based on our results, we showed that macrophages were stimulated by LPS to up-regulate the
+     │ expression of miR-181b, and this is related to the immune tolerance of IL-6. miR-181b down-
+     │ regulated the expression of IL-6, thus to avoid the excessive immune response which induced
+     │ by LPS. We think that we find a target to break the immune tolerance of IL-6 and a new way
+     │ to control the clinical infectious disease. This work was supported by grants from the
+     │ Zhejiang Provincial Natural Science Foundation of China (LY12H02003), and the Science
+     │ Technology Department of Zhejiang Province (2011C37089).
+     "This study investigated microRNA-181b's role in endotoxin tolerance in macrophages. Upregulated miR-181b targets IL-6, inducing tolerance by fine-tuning IL-6 expression."
+
+  10. Interleukin 6-regulated macrophage polarization controls atherosclerosis-associated vascular intimal hyperplasia
+     Jiaquan Chen; Weilun Wang; Qihong Ni; Lan Zhang; Xiangjiang Guo
+     PMC9363591 · Frontiers in Immunology · 2022-07-27 · 16 citations
+     https://doi.org/10.3389/fimmu.2022.952164
+     Matched: Suppression of Il6 induced M2a-like polarization in M1/M2b macrophages · cat /papers/PMC9363591/content.lines --lines 38-39
+     │ Nex, we used the siRNA plasmids of the 3 genes to treat M1/M2b macrophages, which were
+     │ induced by a combination of IFN-γ, LPS and Il1β. First, siRNA plasmids were validated by
+     │ examining the expression of these 3 genes after transfection with corresponding siRNAs
+     │ (Figures 4A-C). Then, we found that only si-Il6 significantly decreased the levels of CD11c
+     │ (Figure 4D). Moreover, only si-Il6 significantly decreased the levels of iNOS (Figure 4E),
+     │ Il1β (Figure 4F) and TNFα (Figure 4G), which were 3 marker genes for M1/M2b macrophage
+     │ polarization. In addition, only si-Il6 significantly increased the levels of arginase 1
+     │ (Figure 4H), CD163 (Figure 4I) and CD206 (Figure 4J), which were 3 marker …
+     "This study analyzed gene expression differences between CD11c+ and CD11c- plaque macrophages in vascular intimal hyperplasia. Interleukin 6 (IL-6) was identified as a key regulator of macrophage polarization that drives vascular intimal hyperplasia and atherosclerosis progression."
+
+  11. Production and Characterization of IgY Polyclonal Antibodies Specific to Human Interleukin-6 and Their Neutralization Potential for Anti-inflammatory Responses
+     Pacharaporn Khumpim; Charin Thawornkuno; Surapon Piboonpocanun; Wongsakorn Wongwadhunyoo; Promsin Ma...
+     PMC12782472 · PMC · 2025 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12782472/
+     Matched: Anti-IL6 IgY neutralize IL6 from LPS stimulated cell · cat /papers/PMC12782472/content.lines --lines 54-56
+     │ In addition to viral infections, the LPS component found in many pathogenic bacteria can
+     │ stimulate IL-6 production. In this study, MRC-5 cells were treated with 1 μg/mL LPS. This
+     │ concentration of LPS induced IL-6 production, reaching a maximum concentration of
+     │ approximately 200 pg/ml, whereas untreated cells did not secrete IL-6. Secreted IL-6 was
+     │ detectable on day 1 and peaked on day 2 following LPS stimulation (Figure 5). As expected,
+     │ treatment with various concentrations of anti-IL-6 IgY resulted in nearly complete
+     │ neutralization of secreted IL-6 in the supernatant at 1 and 2 days post-treatment (Figure
+     │ 6). Figure 5.: IL-6 production from MRC-5 cells after LPS stimulation. Figure 6.: …
+     "Anti-human IL-6 IgY antibodies were produced in chicken eggs. These antibodies effectively neutralized IL-6 in cell culture, showing potential for therapeutic use."
+
+  12. CD80 Expression Correlates with IL-6 Production in THP-1-Like Macrophages Costimulated with LPS and Dialyzable Leukocyte Extract (Transferon®)
+     Alexis P. Jiménez-Uribe; Hugo Valencia-Martínez; Gregorio Carballo-Uicab; Luis Vallejo-Castillo; Emi...
+     PMC6481127 · Journal of Immunology Research · 2019-04-10 · 26 citations
+     https://doi.org/10.1155/2019/2198508
+     Matched: 1. Introduction · cat /papers/PMC6481127/content.lines --lines 15-16
+     "Transferon® and LPS co-stimulation increased CD80, CD86, and IL-6 in THP-1 macrophages. CD80 expression correlated with IL-6 production, suggesting Transferon® enhances macrophage activation."
+
+  13. IRF3 Promotes Production of IL-6 and Nitric Oxide but Represses CCL22 in RAW264.7 Macrophage Cells Exposed to Lipopolysaccharides in Culture
+     Tyler C Moore; Terrence Scott Pinkerton; Thomas M Petro
+     PMC11784258 · Journal of Inflammation Research · 2025-01-27 · 3 citations
+     https://doi.org/10.2147/JIR.S496930
+     Matched: Conventional Pg LPS Preparations Significantly Enhance the Macrophage  · cat /papers/PMC11784258/content.lines --lines 41-43
+     │ Addition of cPg-LPS to Ec-LPS or uPg-LPS did not increase the response of the ISRE/ISG54
+     │ promoter (Figure 2A) but it significantly diminished poly I:C-induced ISRE/ISG54 promoter
+     │ activity. In contrast, cPg-LPS significantly increased IL-6 and NO from RAW Lucia cells
+     │ responding to Ec- or uPg-LPS (Figure 2B and C). Likewise, addition of cPg-LPS slightly but
+     │ significantly increased production of CCL22 in response to Ec- or uPg-LPS (Figure 2D).
+     │ However, cPg-LPS significantly increased poly I:C-induced CCL22 (Figure 2D). Therefore, the
+     │ lipoprotein components of conventionally prepared Pg-LPS (cPg-LPS) can contribute
+     │ significantly to inflammatory factors associated with periodontitis. Figure 2: …
+     "IRF3's role in macrophage responses to LPS was studied. IRF3 promotes IL-6 and NO production while repressing CCL22."
+
+  14. Direct and Indirect Suppression of Interleukin-6 Gene Expression in Murine Macrophages by Nuclear Orphan Receptor REV-ERBα
+     Shogo Sato; Takuya Sakurai; Junetsu Ogasawara; Ken Shirato; Yoshinaga Ishibashi; Shuji Oh-ishi; Kazu...
+     PMC4220616 · PMC · 2014-10-14 · 63 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4220616/
+     Matched: 3.1. REV-ERBα Agonists Suppress il6 Induction following LPS Stimulatio · cat /papers/PMC4220616/content.lines --lines 41
+     │ To determine the role of REV-ERBα in inflammatory responses, we analyzed the effects of the
+     │ REV-ERBα agonist, GSK4112, on the gene expression of il6 as a crucial inflammatory molecular
+     │ element in macrophages. The induction of il6 mRNA after LPS stimulation was dose-dependently
+     │ repressed by the addition of GSK4112 in peritoneal macrophages (Figure 1(a)). Furthermore,
+     │ as shown in Figure 1(b), qPCR analysis confirmed that GSK4112 treatment also decreased the
+     │ induction of il6 mRNA after LPS stimulation in murine macrophage cell line RAW264 cells as
+     │ well as peritoneal macrophages. These data suggest that activation of REV-ERBα led to the
+     │ suppression of il6 gene induction in macrophages.
+     "REV-ERB α was studied for its role in regulating interleukin-6 gene expression in macrophages. REV-ERB α directly and indirectly suppresses interleukin-6 expression, acting as an anti-inflammatory receptor."
+
+  15. Mouse Ocilrp2/Clec2i negatively regulates LPS-mediated IL-6 production by blocking Dap12-Syk interaction in macrophage
+     Mingya Cao; Lina Ma; Chenyang Yan; Han Wang; Mengzhe Ran; Ying Chen; Xiao Wang; Xiaonan Liang; Lihui...
+     PMC9589251 · Frontiers in Immunology · 2022-10-10 · 5 citations
+     https://doi.org/10.3389/fimmu.2022.984520
+     Matched: The expression of IL-6 was associated with Syk activation in LPS-induc · cat /papers/PMC9589251/content.lines --lines 56
+     │ Syk is a key regulator of the NF-κB signaling and Erk pathways in macrophages (5, 35).
+     │ Therefore, we determined if Syk level and Syk phosphorylation were involved in the
+     │ regulation of IL-6 expression by Ocilrp2. Phosphorylation of Syk was enhanced in
+     │ Ocilrp2-silenced macrophages compared to control macrophages ( Figures 5C, D and Figure S3C
+     │ ). Previous findings suggest that activated Syk can activate numerous intracellular
+     │ signaling pathways, including NF-κB and ERK (5, 36). We further investigated the role of Syk
+     │ in activating of the macrophage NF-κB signaling pathway and ERK signaling pathway during
+     │ LPS-induced inflammatory responses. Consistent with the above results ( Figures 4A–D ), …
+     "Ocilrp2 expression in macrophages was studied in response to LPS. Silencing Ocilrp2 increased IL-6 production by promoting Syk binding to Dap12."
+
+  16. Type I Interferon, Induced by Adenovirus or Adenoviral Vector Infection, Regulates the Cytokine Response to Lipopolysaccharide in a Macrophage Type-Specific Manner
+     Mareike D. Maler; Sophie Zwick; Carsten Kallfass; Peggy Engelhard; Hexin Shi; Laura Hellig; Pang Zhe...
+     PMC11023693 · Journal of Innate Immunity · 2024-03-25 · 2 citations
+     https://doi.org/10.1159/000538282
+     Matched: Expression of IL-10R and the Downregulation of the IL-6 Response to LP · cat /papers/PMC11023693/content.lines --lines 71
+     │ Since in mice, LPS-induced IL-10 is also available to cells incapable of producing IL-10 on
+     │ their own, we investigated the effect of recombinant IL-10 on LPS-induced IL-6 production in
+     │ MPI cells and BMM. Stimulation with LPS in the presence of rmIL-10 suppressed IL-6
+     │ production in both BMM and MPI cells, but less in the latter. The somewhat higher efficiency
+     │ of suppression in BMM (shown in Fig. 6c) could be due to the higher expression of IL-10R in
+     │ BMM (shown in Fig. 6d). Our experiments suggest that macrophage subsets with a reduced IL-10
+     │ susceptibility could represent an additional source of the enhanced pro-inflammatory
+     │ cytokine production upon challenge of Ad-infected mice with LPS.
+     "Adenovirus infection was studied for its effect on macrophage cytokine response to lipopolysaccharide. Type I interferon, induced by adenovirus, enhances LPS-induced TNF-α and IL-6 in a macrophage type-specific manner."
+
+  17. The Pro-Inflammatory Cytokine, Interleukin-6, Enhances the Polarization of Alternatively Activated Macrophages
+     Maria Ruweka Fernando; Jose Luis Reyes; Jordan Iannuzzi; Gabriella Leung; Derek Mark McKay
+     PMC3988054 · PMC · 2014-04-15 · 290 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3988054/
+     Matched: Human Macrophage Culture · cat /papers/PMC3988054/content.lines --lines 18
+     "Interleukin-6 was studied for its effect on macrophage polarization. IL-6 enhances alternatively activated macrophage (AAM) polarization, promoting anti-inflammatory and wound healing functions."
+
+  18. Mathematical modelling of activation-induced heterogeneity in TNF, IL6, NOS2, and IL1β expression reveals cell state transitions underpinning macrophage responses to LPS
+     Shoumit Dey; Dave Boucher; Jon Pitchford; Dimitris Lagos
+     PMC9411976 · Wellcome Open Research · 2022-07-25 · 2 citations
+     https://doi.org/10.12688/wellcomeopenres.17557.2
+     Matched: Macrophage community AIH is dependent on LPS dose · cat /papers/PMC9411976/content.lines --lines 78-79
+     │ Figure 2.: Macrophage community AIH kinetics for BMDMs. Pie charts represent the community
+     │ composition at 8, 12 and 16 hours post stimulus with the indicated doses of LPS for BMDMs.
+     │ BMDMs are pre-gated on Live/Singlets/FSC-SSC/CD11b+F4/80+ population. Data representative of
+     │ three independent experiments. Overall, our findings indicated that exposure to LPS induced
+     │ population heterogeneity in macrophage communities for both a macrophage cell line (RAW264.7
+     │ cells) and primary BMDMs. As expected, cell-type specific differences were observed with
+     │ BMDM responses occurring and peaking faster and reaching a plateau at lower LPS
+     │ concentrations. These could be linked to differential sensitivity to …
+     "Mathematical models explored macrophage states and their responses to LPS. Macrophage hypo-responsiveness to a second LPS challenge is driven by altered transition rates between activation states."
+
+  19. Isocorydine Ameliorates IL-6 Expression in Bone Marrow-Derived Macrophages and Acute Lung Injury Induced by Lipopolysaccharide
+     Yifan Tu; Xiaodong Li; Yuanzheng Fu; Yunyun Chen; Hui Fang; Yuan Li; Ying Gu; Jiawei Zhang
+     PMC10003757 · PMC · 2023-02-27 · 9 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10003757/
+     Matched: 2.2. ICD Inhibits IL-6 Expression in LPS-Induced Macrophage Activation · cat /papers/PMC10003757/content.lines --lines 19-20
+     "Isocorydine was studied for its effects on IL-6 expression in macrophages and acute lung injury. Isocorydine reduces IL-6 expression and protects against lung injury by modulating inflammatory signaling pathways."
+
+  20. Curcumin suppresses the production of interleukin-6 in Prevotella intermedia lipopolysaccharide-activated RAW 264.7 cells
+     Sung-Jo Kim
+     PMC3139050 · PMC · 2011-06-30 · 24 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3139050/
+     Matched: LPS isolation · cat /papers/PMC3139050/content.lines --lines 26
+     "Curcumin was studied for its effects on interleukin-6 production in macrophage cells stimulated with Prevotella intermedia LPS. Curcumin suppressed IL-6 production by inhibiting NF-κB and STAT1 signaling pathways."
+
+  21. Astragalus membranaceus Injection Suppresses Production of Interleukin-6 by Activating Autophagy through the AMPK-mTOR Pathway in Lipopolysaccharide-Stimulated Macrophages
+     Xiaoyan Zhang; Taigang Liang; Wanxia Yang; Lanfang Zhang; Shuting Wu; Chaoqun Yan; Qingshan Li
+     PMC7364262 · PMC · 2020-07-04 · 25 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7364262/
+     Matched: 3.1. AM Could Inhibit the Production of the LPS-Induced IL-6 · cat /papers/PMC7364262/content.lines --lines 32
+     "Astragalus membranaceus injection was studied in lipopolysaccharide-stimulated macrophages. It suppresses interleukin-6 production by activating autophagy via the AMPK-mTOR pathway."
+
+  22. Mathematical modelling of activation-induced heterogeneity reveals cell state transitions underpinning macrophage responses to LPS
+     S. Dey, D. Boucher, J. W. Pitchford, D. Lagos *
+     bio_206e5a356c66 · bioRxiv · 2021-09-19 · 0 citations (all versions)
+     Published (2021): https://doi.org/10.1101/2021.09.19.461010
+     Matched: Macrophage community AIH is dependent on LPS dose · cat /papers/bio_206e5a356c66/content.lines --lines 42-45
+     │ Figure 1: Macrophage community AIH is dependent on LPS dose A. Flow cytometry gating to show
+     │ 16 sub-populations determined based on TNF, IL-6, pro-IL-1b and NOS2. B. Pie charts
+     │ represent the community composition at 16 hours post stimulus with the indicated doses of
+     │ LPS for RAW264.7. Data representative of three independent experiments. Next, we explored
+     │ AIH in BMDMs, a cell model more faithfully capturing heterogeneity of primary macrophages.
+     │ As in the case of RAW264.7 cells, exposure to LPS induced population heterogeneity in BMDMs
+     │ albeit with different kinetics to that observed in RAW264.7 cells (compare Figure 2 with
+     │ Figure 1B ). Whereas all populations were observed at 16h (12h …
+     "This study mathematically models macrophage responses to LPS, analyzing single-cell protein expression. Macrophage hypo-responsiveness to secondary LPS challenges is driven by altered transition rates to non-responsive states."
+
+  23. Diphlorethohydroxycarmalol Inhibits Interleukin-6 Production by Regulating NF-κB, STAT5 and SOCS1 in Lipopolysaccharide-Stimulated RAW264.7 Cells
+     Na-Jin Kang; Sang-Chul Han; Gyeoung-Jin Kang; Dong-Hwan Koo; Young-Sang Koh; Jin-Won Hyun; Nam-Ho Le...
+     PMC4413204 · PMC · 2015-04-13 · 46 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4413204/
+     Matched: 2.1. DPHC Selectively Inhibits LPS-Induced IL-6 Production in RAW264.7 · cat /papers/PMC4413204/content.lines --lines 18-19
+     "Diphlorethohydroxycarmalol (DPHC) was studied for its anti-inflammatory effects in LPS-stimulated macrophages. DPHC inhibits IL-6 production by regulating NF-κB, STAT5, and SOCS1 pathways."
+
+  24. IL-21 Modulates Release of Proinflammatory Cytokines in LPS-Stimulated Macrophages through Distinct Signaling Pathways
+     Su-nan Li; Wei Wang; Shou-peng Fu; Jian-fa Wang; Hong-mei Liu; Shan-shan Xie; Bing-run Liu; Yang Li;...
+     PMC3888770 · Mediators of Inflammation · 2013-12-26 · 51 citations
+     https://doi.org/10.1155/2013/548073
+     Matched: 2.5. ELISA Analysis · cat /papers/PMC3888770/content.lines --lines 24
+     │ Macrophages (1 × 106/well) were incubated with IL-21 and/or LPS for 6 h, 12 h, and 24 h.
+     │ Cell-free supernatants were subsequently employed for TNF-α, IL-10, IL-1β, and IL-6 assays
+     │ using mouse enzyme-linked immunosorbent assay (ELISA) kits according to the manufacturer's
+     │ instructions.
+     "IL-21 was studied for its effect on LPS-stimulated macrophages. It was found to suppress proinflammatory cytokines and shift macrophages towards an M2 phenotype."
+
+  25. The p38 MAPK inhibitor SB203580 differentially modulates LPS-induced interleukin 6 expression in macrophages
+     Qinghai Shi, Liping Cheng, Zhengxiang Liu, Keyan Hu, Jihua Ran, Di Ge, Jianfeng Fu
+     PMC4655375 · Central-European Journal of Immunology · 2015-10-15 · 22 citations
+     https://doi.org/10.5114/ceji.2015.54586
+     Matched: Discussion · cat /papers/PMC4655375/content.lines --lines 39-40
+     │ Several studies have shown that MAPKs are important serine/threonine signaling kinases that
+     │ can be activated by phosphorylation, resulting in cellular responses to extracellular
+     │ signals that result in the modulation of gene expression. Activation of macrophages by LPS
+     │ can up-regulate the phosphorylation of MAPKs, which leads to the subsequent activation of
+     │ AP-1 and NF-κB; both events are involved in the expression of LPS-induced inflammatory
+     │ cytokines, such as TNF-α and IL-6. The LPS-induced phosphorylation of p38, Erk1/2, and JNK
+     │ can be blocked by specific MAPK inhibitors, such as SB203580 (a p38 inhibitor), U0126 (an
+     │ Erk1/2 inhibitor), or SB600125 (a SAPK/JNK inhibitor). Previously, we …
+     "This study investigated how the p38 MAPK inhibitor SB203580 affects LPS-induced cytokine production in different macrophage types. SB203580 blocked TNF-α and IL-6 production in RAW264.7 cells but only TNF-α in peritoneal macrophages, with regulation occurring post-transcriptionally."
+
+[5.1s, saved to s_6a1d2e02]
+
+💡 Extract data across these results with: map --from s_6a1d2e02 "your question"
+[5.1s, saved to s_6a1d2e02]  [repo: mva-lof-molecular]
+

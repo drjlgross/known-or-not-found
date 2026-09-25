@@ -1,0 +1,178 @@
+Map results  [m_8d240903]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Trim30c (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+
+--- [1] [success] Epigenetic profile in lipopolysaccharide-stimulated macrophages ---
+doc_id: PMC3953056
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [2] [success] Genome-wide siRNA screen of genes regulating the LPS-induced TNF-α response in human macrophages ---
+doc_id: PMC5332009
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [3] [success] Genome-wide siRNA screen of genes regulating the LPS-induced NF-κB and TNF-α responses in mouse macrophages ---
+doc_id: PMC5332015
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [4] [success] RNA-Binding Proteins in the Control of LPS-Induced Macrophage Response ---
+doc_id: PMC6369361
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [5] [success] LPS inhibits TRIM65 expression in macrophages and C57BL/6J mouse by activating the ERK1/2 signaling pathway ---
+doc_id: PMC10068263
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [6] [success] Tripartite Motif Containing 52 Positively Regulates NF-κB Signaling by Promoting IκBα Ubiquitination in Lipopolysaccharide-Treated Microglial Cell Activation ---
+doc_id: PMC7607666
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [7] [success] Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC7053374
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [8] [success] Transcriptional profiling of the LPS induced NF-κB response in macrophages ---
+doc_id: PMC1781469
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [9] [success] Regulation of innate immune signalling pathways by the tripartite motif (TRIM) family proteins ---
+doc_id: PMC3377094
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [10] [success] Analysis of the transcriptional networks underpinning the activation of murine macrophages by inflammatory mediators ---
+doc_id: PMC4378362
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [11] [success] Correction: Tripartite Motif-Containing Protein 30 Modulates TCR-Activated Proliferation and Effector Functions in CD4+ T Cells ---
+doc_id: PMC4035330
+{"answer": "yes", "evidence": "For detection of cytokine expression, Trim30 +/+ and Trim30 −/− BMDMs were pretreated for 18 hr with LPS (LSP pre) and then restimulated with LPS (LPS re) indicated time or stimulated with poly(I:C) and transcripts for indicated cytokines were quantified by quantitative RT-PCR.", "context": "(F) BMDMs were stimulated with LPS (200 ng/ml) or poly(I:C) (5 \u0025\u0025µg/ml), and Trim30 transcripts were quantified by quantitative RT-PCR."}
+
+--- [12] [success] Macrophage production and activation are dependent on TRIM33 ---
+doc_id: PMC5354896
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [13] [success] Tripartite Motif-Containing Protein 30 Modulates TCR-Activated Proliferation and Effector Functions in CD4+ T Cells ---
+doc_id: PMC3995923
+{"answer": "yes", "evidence": "The challenge with TLR ligands induced TRIM30 strongly only in wild-type cells, but there was no discernable difference in the expression of the major cytokines (IL-6, TNF\u0315\u03B1, IL-12 p40, IFN\u03B1, IFN\u03B2) (Figure 1F).", "context": "BMDMs were stimulated with LPS (200 ng/ml) or poly(I:C) (5 \u00B5g/ml), and Trim30 transcripts were quantified by quantitative RT-PCR."}
+
+--- [14] [success] InTRIMsic immunity: Positive and negative regulation of immune signaling by tripartite motif proteins ---
+doc_id: PMC7173094
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [15] [success] Monocyte normal immune response to LPS stimulation ---
+doc_id: PMC3333514
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [16] [success] Expression and regulation of long noncoding RNAs in TLR4 signaling in mouse macrophages ---
+doc_id: PMC4320810
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [17] [success] The Trim32-DPEP2 axis is an inflammatory switch in macrophages during intestinal inflammation ---
+doc_id: PMC12283963
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [18] [success] TRIM21 controls Toll‐like receptor 2 responses in bone‐marrow‐derived macrophages ---
+doc_id: PMC7011629
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [19] [success] DOK3 Negatively Regulates LPS Responses and Endotoxin Tolerance ---
+doc_id: PMC3384629
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [20] [success] Knockdown of TRIM52 alleviates LPS-induced inflammatory injury in human periodontal ligament cells through the TLR4/NF-κB pathway ---
+doc_id: PMC7418211
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [21] [success] The Emerging Roles of Tripartite Motif Proteins (TRIMs) in Acute Lung Injury ---
+doc_id: PMC8548118
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [22] [success] Expression profiling of TRIM protein family in THP1-derived macrophages following TLR stimulation ---
+doc_id: PMC5314404
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [23] [success] E3 ubiquitin ligase trim36 targets ddx3x for degradation to reprogram macrophage polarization and ameliorate tubal factor infertility in rats ---
+doc_id: PMC12847098
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [24] [success] TRIM16 Inhibits Inflammation by Interacting With and Ubiquitinating TRAF2 in a Colitis Model ---
+doc_id: PMC12551140
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [25] [success] Human TRIM Gene Expression in Response to Interferons ---
+doc_id: PMC2654144
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}

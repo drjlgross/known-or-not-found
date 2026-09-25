@@ -1,0 +1,4 @@
+$ src/pc.sh results m_13ad0127 --save /Users/julia/known-or-not-found/results/search/Tnfsf4/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/Tnfsf4/map_answers.txt
+

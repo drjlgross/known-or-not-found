@@ -1,0 +1,311 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Slamf1 (signaling lymphocytic activation molecule family member 1) LPS macrophage
+# exit 0
+Found 25 papers  [s_d7462ee0]
+
+  1. Responses to Microbial Challenges by SLAMF Receptors
+     Boaz Job van Driel; Gongxian Liao; Pablo Engel; Cox Terhorst
+     PMC4718992 · PMC · 2016-01-20 · 68 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4718992/
+     Matched: SLAMF Receptors Alter Cytokine Production by Phagocytes · cat /papers/PMC4718992/content.lines --lines 64-65
+     │ Beside the delayed phagocytosis of E. coli, SLAMF1−/− macrophages display impaired responses
+     │ to crude LPS (bacterial homogenate) (11, [13], 34). Stimulation with IFNγ and LPS, but not
+     │ GpC or PGN, induced an ameliorated production of IL-12, TNF-α, and nitric oxide in SLAMF1−/−
+     │ macrophages (34). Conversely, human DCs that were stimulated with CD40-L expressing cells
+     │ produced less IL-12 and TNF-α when SLAMF1 costimulation was induced, even in the presence of
+     │ IFNγ and LPS (45). This discrepancy could suggest that SLAMF1 plays distinct roles on
+     │ cytokine production in phagocytes, depending on whether SLAMF1 engages in homophilic
+     │ interactions and/or bacterial interactions (i.e., OmpC/F). Although …
+     "This review examines how SLAMF receptors sense and respond to microbial challenges. These receptors modulate immune cell functions, influencing microbicidal activity and phagocyte migration."
+
+  2. Lipopolysaccharide (LPS)-induced Macrophage Activation and Signal Transduction in the Absence of Src-Family Kinases Hck, Fgr, and Lyn
+     Fanying Meng; Clifford A. Lowell
+     PMC2196288 · The Journal of Experimental Medicine · 1997-05-05 · 393 citations
+     https://doi.org/10.1084/jem.185.9.1661
+     Matched: cat /papers/PMC2196288/content.lines --lines 7-8
+     │ Lipopolysaccharide (LPS)1, an outer membrane component of Gram negative bacteria, is a
+     │ potent activator of monocytes and macrophages. LPS triggers the abundant secretion of many
+     │ cytokines from macrophages including IL-1 (1), IL-6 (2), and TNF-α (3), which together
+     │ contributes to the pathophysiology of septic shock. The major cell surface receptor for LPS
+     │ on macrophages is CD14, a 55-kD glycosyl-phosphatidylinositol–linked membrane protein (4).
+     │ High-affinity binding of LPS to CD14 is greatly enhanced by the presence of the serum
+     │ protein LPS-binding protein (5). The crucial role played by CD14 in initiating LPS responses
+     │ has been demonstrated in animal models. Transgenic mice overexpressing …
+     "This study investigated LPS-induced macrophage activation in mice lacking Src-family kinases Hck, Fgr, and Lyn. Macrophages from these mice showed no major defects in LPS-induced activation, indicating these kinases are not obligatory for LPS signaling."
+
+  3. The Cell Surface Receptor SLAM Controls T Cell and Macrophage Functions
+     Ninghai Wang; Abhay Satoskar; William Faubion; Duncan Howie; Susumu Okamoto; Stefan Feske; Charles G...
+     PMC2211908 · The Journal of Experimental Medicine · 2004-05-03 · 149 citations
+     https://doi.org/10.1084/jem.20031835
+     Matched: Impaired Responses to LPS by SLAM−/− Macrophages. · cat /papers/PMC2211908/content.lines --lines 60-62
+     │ Using purified resting peritoneal macrophages from SLAM−/− BALB/c mice, the same results
+     │ were obtained (Fig. S6, which is available at
+     │ http://www.jem.org/cgi/content/full/jem.20031835/DC1). Importantly, when macrophages from
+     │ the peritoneal cavity of thioglycollate-treated SLAM−/− BALB/c mice were stimulated with
+     │ LPS, a low level of IL-12 secretion was again detected (Fig. 3 E). This result indicates
+     │ that the impaired cytokine production is not dependent upon the method of isolation of the
+     │ macrophages. As expected from the absence of SAP in macrophages (4, 8), SAP−/− BALB/c (Fig.
+     │ 3 E) macrophages did not display a defect in IL-12 production. The possibility that SLAM−/−
+     │ peritoneal cavity …
+     "SLAM controls T cell IL-4 secretion and macrophage cytokine production. SLAM deficiency impairs parasite clearance, highlighting its role in innate and acquired immunity."
+
+  4. SLAM Family Receptors Regulate Immunity with and without SAP-related Adaptors
+     André Veillette
+     PMC2211906 · The Journal of Experimental Medicine · 2004-05-03 · 28 citations
+     https://doi.org/10.1084/jem.20040588
+     Matched: Defects in CD4+ T Cell and Macrophage Functions in SLAM-deficient Mice · cat /papers/PMC2211906/content.lines --lines 19-20
+     │ SLAM-deficient macrophages were found to exhibit abnormal functions in vitro and in vivo
+     │ (14). Production of IL-12, TNF-α, and nitric oxide (NO) in response to LPS, with or without
+     │ IFN-γ, was diminished in Slam − / − peritoneal macrophages. Furthermore, IL-6 secretion in
+     │ response to LPS alone was enhanced. In contrast, IL-12 and TNF-α secretion triggered by
+     │ Toll-like receptor agonists, such as CpG DNA and peptidoglycan, and the capacity of
+     │ macrophages to present antigen to T cells were normal. In vivo studies showed that the
+     │ ability of C57BL/6 mice to clear Leishmania major infection was compromised in the absence
+     │ of SLAM. In this mouse strain, healing of Leishmania major lesions is known …
+     "This study investigated the immune phenotypes of mice lacking SLAM and 2B4 receptors. The findings demonstrate the critical role of these SLAM family receptors in regulating T cell, macrophage, and NK cell functions."
+
+  5. SLAMF1 is required for TLR4-mediated TRAM-TRIF–dependent signaling in human macrophages
+     Maria Yurchenko; Astrid Skjesol; Liv Ryan; Gabriel Mary Richard; Richard Kumaran Kandasamy; Ninghai ...
+     PMC5881497 · PMC · 2018-04-02 · 60 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5881497/
+     Matched: ROS activation assay · cat /papers/PMC5881497/content.lines --lines 169
+     │ Primary human macrophages (in six-well plates) were treated by siRNA as described in the
+     │ siRNA treatment section, and treated by E. coli red pHrodo bacterial particles (excitation
+     │ wavelength, 561 nm) in 0.5 ml RPMI 1640 containing 10% human serum on water bath (for 20 min
+     │ incubation) or in a CO2 incubator (for 120 min incubation). Freshly dissolved in washing
+     │ buffer (reagent A) or dihydrorhodamine 123 (DHR-123; excitation wavelength, 488 nm; reagent
+     │ E), both from the PHAGOBURST kit (Glycotope Biotechnology), was added to the wells (except
+     │ for control well, to which washing buffer was added) for the last 10 min of incubation.
+     │ After stimulation, cells were placed on ice, washed by cold PBS, …
+     "SLAMF1's role in TLR4-mediated, MyD88-independent signaling in human macrophages was investigated. SLAMF1 enhances type I interferon production induced by Gram-negative bacteria."
+
+  6. The immune receptors TLR4 and SLAMF1 regulate TNF release by human metapneumovirus in human macrophages
+     Katja Sæterhaug Bye; Kristin Rian; Liv Ryan; Terje Espevik; Marit W. Anthonsen; Maria Yurchenko
+     PMC12672276 · PMC · 2025-11-19 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12672276/
+     Matched: TLR4 and SLAMF1 silencing in human MDMs reduces HMPV-induced TNF expre · cat /papers/PMC12672276/content.lines --lines 69-70
+     "This study investigated how TLR4 and SLAMF1 receptors influence TNF release by human metapneumovirus in macrophages. The findings show these receptors regulate TNF and IFN-β release via p38 MAPK, suggesting a therapeutic target."
+
+  7. Identification and elucidation of cross talk between SLAM Family Member 7 (SLAMF7) and Toll-like receptor (TLR) pathways in monocytes and macrophages
+     Uyory Choe; Quynhchi Pham; Young S. Kim; Liangli Yu; Thomas T. Y. Wang
+     PMC10329007 · Scientific Reports · 2023-07-07 · 10 citations
+     https://doi.org/10.1038/s41598-023-37040-0
+     Matched: LPS stimulation affect SLAMF7 at protein level · cat /papers/PMC10329007/content.lines --lines 54-55
+     │ We also seek to confirm LPS stimulation of SLAMF7 at the protein level. TLRs activation
+     │ significantly induced SLAMF7 protein expression (Fig. 5). Figure 5: Western blot analysis of
+     │ SLAMF7 protein expression in macrophages (d-THP-1) in the presence of LPS. Cells were
+     │ cultured and SLAMF7 protein levels were determined by Western blot analysis. The proteins
+     │ were detected and quantified using the LICOR ODYSSEY® CLx (LiCOR, Lincoln, NE, USA) Infrared
+     │ Imager according to manufacturer’s procedure[37]. Results are expressed as mean ± SD (n =
+     │ 3). Different letters indicate significant difference to that of d-THP-1 (0 time) at p ≤
+     │ 0.05.
+     "This study investigated SLAMF7 and TLR pathway interactions in monocytes and macrophages. SLAMF7 enhances TLR-induced pro-inflammatory cytokine production, but not phagocytosis."
+
+  8. Peptide derived from SLAMF1 prevents TLR4-mediated inflammation in vitro and in vivo
+     Kaja Elisabeth Nilsen; Boyao Zhang; Astrid Skjesol; Liv Ryan; Hilde Vagle; Maren Helene Bøe; Pontus ...
+     PMC10547912 · PMC · 2023-10-03 · 17 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10547912/
+     Matched: Introduction · cat /papers/PMC10547912/content.lines --lines 14
+     │ We have recently identified a new regulatory protein in the TLR4-mediated TRAM-
+     │ TRIF–dependent signaling pathway in human immune cells, namely the signaling lymphocytic
+     │ activation molecule family 1 (SLAMF1), a type I transmembrane glycoprotein of the CD2-like
+     │ family of proteins. We have demonstrated that SLAMF1 is required for the trafficking of TRAM
+     │ from the endocytic recycling compartment to Escherichia coli-containing phagosomes in human
+     │ macrophages, where TRAM binds dimerized TLR4 and recruits TRIF, resulting in the induction
+     │ of IFNβ mRNA expression. We have identified the interaction domains of SLAMF1 and TRAM and
+     │ shown that the SLAMF1-TRAM protein–protein interaction (PPI) is essential …
+     "A peptide derived from SLAMF1 was studied for its anti-inflammatory properties. This peptide was found to prevent TLR4-mediated inflammation and mortality in vivo by blocking key signaling interactions."
+
+  9. SLAM Family Receptor Signaling in Viral Infections: HIV and Beyond
+     Patrick O’Connell; Andrea Amalfitano; Yasser A. Aldhamen
+     PMC6963180 · PMC · 2019-11-16 · 16 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6963180/
+     Matched: 3. SLAMF1 (SLAM, CD150) · cat /papers/PMC6963180/content.lines --lines 23-24
+     │ Complicating matters further is a study demonstrating that SLAMF1 knockout macrophages have
+     │ impaired production of IL-12p70, IL-12p40, TNF⍺, and nitric oxide [17], suggesting SLAMF1
+     │ may be an activating receptor. It is hard to compare this study to the two previously
+     │ mentioned studies, as those were performed using primary human cells and this study used a
+     │ murine model. Differences in immune responses to signaling from various members of the SLAM
+     │ family has been noted between human and murine immune cells [18,44]. SLAMF1 has also been
+     │ described to have a specific role in T cells. SLAMF1 was noted to be necessary for optimal
+     │ production of IL-4 and IL-13, classical Th2 polarizing cytokines …
+     "This paper reviews SLAM family receptor signaling in immune cells and its role in viral infections, particularly HIV. These receptors, regulated by adaptor proteins, can be targeted by viruses, influencing immune responses."
+
+  10. Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni, Yanal Ghosheh, Akula Bala Pramod, Klaus Ley
+     PMC6543837 · Frontiers in Immunology · 2019-05-24 · 1909 citations
+     https://doi.org/10.3389/fimmu.2019.01084
+     "This study compared gene expression in *in vivo* M1/M2 macrophages with *in vitro* classically/alternatively activated macrophages. The findings indicate that *in vivo* M1/M2 polarization is not equivalent to *in vitro* activation states."
+
+  11. Interaction of Signaling Lymphocytic Activation Molecule Family 1 (SLAMF1) receptor with Trypanosoma cruzi is strain-dependent and affects NADPH oxidase expression and activity
+     Cristina Poveda; Alfonso Herreros-Cabello; Francisco Callejas-Hernández; Jesús Osuna-Pérez; María C....
+     PMC7515593 · PMC · 2020-09-14 · 13 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7515593/
+     Matched: Thioglycollate-elicited peritoneal macrophage infection · cat /papers/PMC7515593/content.lines --lines 31
+     │ BALB/c and Slamf1-/- 8–12 weeks old female mice were injected intraperitoneal with 10%
+     │ thioglycollate (Gibco, Grand Island, NY) (1 ml per mouse). After 4 days, mice were
+     │ euthanized by CO2 inhalation. Peritoneal cells collected by lavage with 10 ml of cold PBS
+     │ were pelleted by centrifugation (260 g, for 10 min, at 4°C) and seeded in 6 well multi-well
+     │ plates (106 cells/well) in RPMI medium supplement with 5% FBS overnight at 37°C. Non-
+     │ adherent cells were removed by gently washing three times with warm PBS. Peritoneal
+     │ macrophages were infected with trypomastigotes of T. cruzi at a ratio of 5 parasites per
+     │ cell. At 1, 6 and 24 hours post-infection (hpi), the cells were washed three times with …
+     "SLAMF1 receptor interaction with *Trypanosoma cruzi* was studied using six parasite strains. This interaction influences parasite load, NADPH oxidase expression, and ROS production in a strain-dependent manner, affecting host survival."
+
+  12. Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni; Yanal Ghosheh; Akula Bala Pramod; Klaus Ley
+     PMC7053374 · Frontiers in Immunology · 2020-02-25 · 77 citations
+     https://doi.org/10.3389/fimmu.2020.00234
+
+  13. SLAMF8 Downregulates Mouse Macrophage Microbicidal Mechanisms via PI3K Pathways
+     Salvador Romero-Pinedo; Domingo I. Rojas Barros; María José Ruiz-Magaña; Elena Maganto-García; Laura...
+     PMC9273976 · PMC · 2022-06-28 · 15 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9273976/
+     Matched: Discussion · cat /papers/PMC9273976/content.lines --lines 107-108
+     │ Recently, Zeng et al. (51) proposed the combined role of SLAMF8 and SLAMF9 in response to
+     │ LPS-mediated sepsis, downregulating TLR4 in Mø. As mentioned, pure LPS treatment increased
+     │ the priming of NOX2 in SLAMF8-/- pMø compared to wt pMϕ (69, 70). The authors did not
+     │ observe any phenotype in single knock out RAW264.7 Mø for SLAMF8 or SLAMF9. In contrast, we
+     │ did not observe differences in TLR expression in Salmonella-infected SLAMF8-deficient pMø
+     │ compared to wt (Figure S6), but we described increased IL-6 expression compared to wt pMø,
+     │ which might also enhance Mø activation. Although our study analyzed the Salmonella sepsis
+     │ model, which is a cytoplasmic germ, and used different techniques, we …
+     "SLAMF8 deficiency in mouse macrophages enhances NADPH oxidase activation and microbicidal mechanisms. This is mediated by PI3K pathways, leading to improved Salmonella clearance."
+
+  14. SLAMF7 Restrains Pro-Inflammatory Macrophage Activation to Counteract Doxorubicin-Induced Cardiotoxicity
+     Ao Liu; Peiyuan Bai; Hongmin You; Zehao Zhuang; Fangyan Tian; Haobo Weng; Xuemei Wei; Lu Tang; Litao...
+     PMC12399171 · PMC · 2025-05-14 · 9 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12399171/
+     Matched: cat /papers/PMC12399171/content.lines --lines 19-20
+     "SLAMF7 was studied for its role in doxorubicin-induced cardiotoxicity and macrophage inflammation. SLAMF7 restrains pro-inflammatory macrophage activation, protecting against cardiac damage."
+
+  15. SLAMF7 regulates the inflammatory response in macrophages during polymicrobial sepsis
+     Yongjian Wu; Qiaohua Wang; Miao Li; Juanfeng Lao; Huishu Tang; Siqi Ming; Minhao Wu; Sitang Gong; Li...
+     PMC10014109 · The Journal of Clinical Investigation · 2023-03-15 · 67 citations
+     https://doi.org/10.1172/JCI150224
+     Matched: Supplementary Material · cat /papers/PMC10014109/content.lines --lines 70-71
+     │ Figure 1: SLAMF7 expression is associated with sepsis. (A) Heatmap depicting mRNA expression
+     │ levels of inflammation-related molecules in PBMCs from patients with sepsis (S1–S5) were
+     │ determined by quantitative real-time PCR and compared with levels in healthy donors (H1–H5).
+     │ The fold change for each gene was normalized to β-actin expression. (B) Expression of SLAMF
+     │ members in human monocyte–derived macrophages after LPS stimulation for 12 hours at
+     │ different doses. (C and D) Percentage of SLAMF7+ cells among CD11b+CD14+ or CD3+ cell
+     │ subsets from human healthy donors (n = 81) and patients with sepsis (n = 83). Mo, monocytes.
+     │ (E) Correlation between CRP and SLAMF7+ monocyte frequencies in …
+     "SLAMF7's expression increases in sepsis and it suppresses macrophage inflammatory signaling. SLAMF7 protects against lethal sepsis by reducing pro-inflammatory cytokines and organ damage."
+
+  16. Migration of Myeloid Cells during Inflammation Is Differentially Regulated by the Cell Surface Receptors Slamf1 and Slamf8
+     Guoxing Wang; Boaz J. van Driel; Gongxian Liao; Michael S. O’Keeffe; Peter J. Halibozek; Jacky Flips...
+     PMC4370648 · PMC · 2015-03-23 · 39 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4370648/
+     Matched: Slamf8 negatively regulates in vivo migration of macrophages to the in · cat /papers/PMC4370648/content.lines --lines 51-52
+     │ Intraperitoneal injection [i.p.] of thioglycollate broth induces peritonitis in mice
+     │ resulting in infiltration of different inflammatory cells in a time-dependent fashion [25].
+     │ Whereas neutrophils are the major infiltrating cells in the peritoneal cavity after 4 hours,
+     │ macrophages begin to appear after 24 hours and become the major constituents after 48 hours.
+     │ As shown in Fig. 2A, the total number of cells in the peritoneal cavity of Slamf1-/- Balb/c
+     │ mice was lower than the number of cells in wt Balb/c mice four days after induction of
+     │ peritonitis. However, the number of cells in the peritoneal cavity of Slamf8-/- Balb/c mice
+     │ was increased as compared to wt mice (Fig. 2A). Consistent with …
+     "This study investigated the roles of Slamf1 and Slamf8 cell surface receptors in myeloid cell migration. The findings indicate these receptors oppositely regulate migration by modulating ROS-dependent inflammatory responses."
+
+  17. Quantitative Proteomic Analysis of Macrophages Infected with Trypanosoma cruzi Reveals Different Responses Dependent on the SLAMF1 Receptor and the Parasite Strain
+     Alfonso Herreros-Cabello; Javier del Moral-Salmoral; Esperanza Morato; Anabel Marina; Beatriz Barroc...
+     PMC11242706 · PMC · 2024-07-08 · 6 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11242706/
+     Matched: 1. Introduction · cat /papers/PMC11242706/content.lines --lines 16-17
+     "Quantitative proteomics analyzed macrophage responses to *Trypanosoma cruzi* infection, revealing strain-dependent and SLAMF1-mediated immune regulation. Different parasite strains induce distinct macrophage responses, impacting infection control and host survival."
+
+  18. Epigenetic profile in lipopolysaccharide-stimulated macrophages
+     Ester Correia Sarmento Rios; Thais Martins Lima Salgado; Francisco Garcia Soriano
+     PMC3953056 · Critical Care · 2013-11-05 · 0 citations
+     https://doi.org/10.1186/cc12987
+
+  19. Expression of Siglec-E Alters the Proteome of Lipopolysaccharide (LPS)-Activated Macrophages but Does Not Affect LPS-Driven Cytokine Production or Toll-Like Receptor 4 Endocytosis
+     Manjula Nagala; Emma McKenzie; Hannah Richards; Ritu Sharma; Sarah Thomson; Pietro Mastroeni; Paul R...
+     PMC5775731 · Frontiers in Immunology · 2018-01-15 · 26 citations
+     https://doi.org/10.3389/fimmu.2017.01926
+     Matched: Isolation of Peritoneal Macrophages · cat /papers/PMC5775731/content.lines --lines 26
+     │ Cells were isolated from the peritoneal cavity by lavage with 5 ml RPMI. Cells were washed
+     │ in media prior to plating in 24-well plates in RPMI containing 10% FBS, penicillin, and
+     │ streptomycin. After 2 h, non-adherent cells were washed away and adherent macrophages were
+     │ treated with LPS in complete RPMI media for 48 h.
+     "Siglec-E expression was studied in LPS-activated macrophages. Siglec-E alters macrophage proteomes but does not affect LPS-driven cytokine production or TLR4 endocytosis."
+
+  20. SLAMF7 engagement super-activates macrophages in acute and chronic inflammation
+     Daimon P. Simmons, Hung N. Nguyen, Emma Gomez-Rivas, Yunju Jeong, Antonia F. Chen, Jeffrey K. Lange,...
+     bio_9b25e00b6f70 · bioRxiv · 2020-11-05 · 4 citations (all versions)
+     Published (2020): https://doi.org/10.1101/2020.11.05.368647
+     Matched: Primer List · cat /papers/bio_9b25e00b6f70/content.lines --lines 196-199
+     │ p=2.0E-6 p=2.4E-6 p=3.5E-6 p=2.0E-6
+     "SLAMF7 was identified as a receptor on super-activated macrophages in inflammatory diseases. Engagement of SLAMF7 triggers a potent inflammatory response, suggesting a central role in various pathologies."
+
+  21. Role of signaling lymphocytic activation molecule family of receptors in the pathogenesis of rheumatoid arthritis: insights and application
+     Yixin Zheng; Jianan Zhao; Mi Zhou; Kai Wei; Ping Jiang; Lingxia Xu; Cen Chang; Yu Shan; Linshuai Xu;...
+     PMC10657885 · PMC · 2023-11-06 · 15 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10657885/
+     Matched: 2 SLAMF1- mediated inflammation in RA · cat /papers/PMC10657885/content.lines --lines 18-19
+     │ A number of cells, including T cells, B cells, dendritic cells, and macrophages express
+     │ SLAMF1 (Veillette, 2006). There is an association between SLAMF1 and the proliferation of B
+     │ cells and the production of immunoglobulins (Punnonen et al., 1997). T cells, particularly
+     │ CD4+T cells, express SLAMF1, demonstrating a low level of expression in immature cells, and
+     │ a high level of expression in effector cells (Karampetsou et al., 2017). In addition to
+     │ being upregulated after T and B cell activation, SLAMF1 may be a marker of several
+     │ populations of white blood cells’ activation status (Punnonen et al., 1997; Castro et al.,
+     │ 1999). In RA, the expression of SLAMF1 in synovial fluid and synovial …
+     "This review examines the role of SLAMF receptors in rheumatoid arthritis pathogenesis. These receptors contribute to RA inflammation and may serve as diagnostic biomarkers and therapeutic targets."
+
+  22. Monocyte normal immune response to LPS stimulation
+     P Myrianthefs; K Venetsanou; E Grouzi; E Boutzouka; P Evagelopoulou; G Fildissis; I Spiliotopoulou; ...
+     PMC3333514 · Critical Care · 2002-03-01 · 1 citation
+     https://doi.org/10.1186/cc1554
+
+  23. Ginger extract inhibits LPS induced macrophage activation and function
+     Sudipta Tripathi; David Bruch; Dilip S Kittur
+     PMC2234390 · BMC Complementary and Alternative Medicine · 2008-01-03 · 156 citations
+     https://doi.org/10.1186/1472-6882-8-1
+     Matched: Ginger extract suppresses costimulatory molecule expression on LPS sti · cat /papers/PMC2234390/content.lines --lines 43-44
+     │ LPS stimulation results in macrophage activation and increased production of pro
+     │ inflammatory cytokines. The activity of LPS is further augmented by the key costimulatory
+     │ pathway (interaction between CD28 and CD80-CD86) for T cell activation. Signalling through
+     │ CD28 by CD80-CD86 is essential for the retained activity of LPS. However, LPS alone does not
+     │ increase the expression of CD80-CD86 (Foss et al., 1999b; Foss et al.). Therefore we further
+     │ studied the effect of ginger extract on the expression of CD80, CD86 and CD40 on murine
+     │ peritoneal macrophages in presence of LPS stimulation. We observed a decrease in CD80 and
+     │ CD86 expression on LPS stimulated macrophages in presence of ginger …
+     "Ginger extract was studied for its effects on LPS-stimulated macrophages. The extract inhibited pro-inflammatory cytokine production, antigen-presenting molecule expression, and macrophage antigen-presenting function."
+
+  24. Macrophage-T cell interactions promote SLAMF1 expression for enhanced TB defense
+     G. V. R. Krishna Prasad; Steven J. Grigsby; Gideon A. Erkenswick; Cynthia Portal-Celhay; Ekansh Mitt...
+     PMC12287521 · PMC · 2025-07-23 · 14 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12287521/
+     Matched: Macrophage SLAMF1 analysis by flow cytometry · cat /papers/PMC12287521/content.lines --lines 66
+     │ Mtb-infected or antigen-treated macrophages co-cultured with CD4+ T cells for 24 h were
+     │ washed twice with PBS and harvested using 5 mM EDTA. Cells were surface stained with a
+     │ combination of antibodies to stain for macrophages, T cells and SLAMF1 and either fixed with
+     │ 4% PFA for 30 minutes or not. Antibodies used were A488 anti-CD150 (TC15-12F12.2, Biolegend,
+     │ Stemcell technologies), anti-CD150 (TC15-12F12.2, Stemcell technologies), Rat IgG2a anti-
+     │ CD150 (TC15-12F12.2, Stemcell technologies), PerCP/ PE-Cy5/ PE-Cy7 anti-F4/80 (BM8,
+     │ Biolegend), A488 Donkey anti-Rat secondary antibody (Thermofisher Scientific), BV421/APC
+     │ anti-CD4 (GK1.5, Biolegend). Cells were acquired on FACSCalibur (488 nm, 635 …
+     "This study investigated how CD4+ T cells help macrophages fight tuberculosis. Macrophage SLAMF1 expression, induced by T cell interaction, enhances defense against M. tuberculosis."
+
+  25. Tumor‐Associated Macrophages as Therapeutic Targets: Deciphering Interaction Networks and Advancing Clinical Translation
+     Wurihan Bao; Xiaojie Qu; Yiqi Wang; Dan Huang; Huiling Zhang; Mingyuan Dong; Han Sun; Zhaogang Yang;...
+     PMC12848806 · PMC · 2026-01-28 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12848806/
+     Matched: Signaling Lymphocytic Activation Molecule Family · cat /papers/PMC12848806/content.lines --lines 63
+     │ The SLAMF receptors function as pivotal regulators in mediating phagocytic clearance of
+     │ hematopoietic malignancies [79]. This receptor family encompasses nine members, seven of
+     │ which (CD48, Ly9, CD244, CD84, SLAMF7, SLAMF8, and SLAMF9) are known to be expressed on
+     │ macrophages [80, 81]. Among these receptors, SLAMF7 (also known as CS1 or CD319) has been
+     │ identified as a crucial “eat‐me” signal that enhances phagocytic uptake of hematopoietic
+     │ tumor cells through its interaction with the integrin Mac‐1 (Figure 3A). Structurally,
+     │ SLAMF7 represents a transmembrane protein comprising three domains: an extracellular region,
+     │ a transmembrane segment, and a cytoplasmic tail. The cytoplasmic tail …
+     "This review examines how tumor-associated macrophages (TAMs) promote cancer progression and treatment resistance. It highlights therapeutic strategies targeting TAMs, alone or in combination with other treatments, to improve clinical outcomes."
+
+[3.5s, saved to s_d7462ee0]
+
+💡 Extract data across these results with: map --from s_d7462ee0 "your question"
+[3.5s, saved to s_d7462ee0]  [repo: mva-lof-molecular]
+

@@ -1,0 +1,299 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Ptgs2 (prostaglandin-endoperoxide synthase 2) LPS macrophage
+# exit 0
+Found 25 papers  [s_b4b9be4b]
+
+  1. Downregulated PLAU alleviates acute rejection after liver transplantation by targeting Ptgs2 in macrophages
+     Qiong Qin; Zhe-Chao Wang; Shi-Ming Jiang; Jun-Hua Gong; Yong Zhou; Zhao-Wei Wu; Yong Chen
+     PMC13078257 · PMC · 2026-03-31 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13078257/
+     Matched: LPS stimulation promoted PLAU and Ptgs2 expression, induced macrophage · cat /papers/PMC13078257/content.lines --lines 112-113
+     │ Stimulation of macrophages with LPS increased PLAU and Ptgs2 expression and promoted
+     │ macrophage M1-polarization. Compared with unstimulated group (Blank), LPS stimulated
+     │ macrophages exhibited increased M1 polarization-associated markers and decreased M2
+     │ polarization-associated markers (Figures 4A–C). FCM confirmed over 90% M1-polarization
+     │ macrophages (Figure 4D) and cellular IF showed enhanced expression of PLAU, Ptgs2, and CD86
+     │ (Figures 4E, F). This indicated that LPS-induced M1 macrophages successfully mimicked AR in
+     │ vitro. Figure 4: LPS stimulation promoted PLAU and Ptgs2 expression, induced macrophage
+     │ M1-polarization in vitro. (A) PLAU, Ptgs2, and polarization-associated mRNA expression …
+     "Downregulated PLAU alleviates acute rejection after liver transplantation by targeting Ptgs2 in macrophages. PLAU and Ptgs2 expression increases in rejection, and reducing PLAU suppresses macrophage M1-polarization and rejection. This pathway offers a potential therapeutic target."
+
+  2. Robust, sensitive, and quantitative single-cell proteomics based on ion mobility filtering
+     Jongmin Woo, Geremy C. Clair, Sarah M. Williams, Song Feng, Chia-Feng Tsai, Ronald J. Moore, William...
+     bio_374dd4d36e7b · bioRxiv · 2021-01-30 · 85 citations (all versions)
+     Published (2022): https://doi.org/10.1016/j.cels.2022.02.003
+     Preprint: https://doi.org/10.1101/2021.01.30.428333
+     Matched: Large-scale proteome profiling of single macrophage cells in response  · cat /papers/bio_374dd4d36e7b/content.lines --lines 41
+     │ Beyond functional enrichment analysis, our statistical analysis identified specific proteins
+     │ previously described as being involved in the response process of macrophage cells to LPS
+     │ stimulation. For example, immune responsive gene 1 (Irg1), known as a resistance-inducing
+     │ protein against LPS 31 , was up-regulated in macrophage cells exposed to LPS at both 24 and
+     │ 48 hr (Supplementary Figure 6c). Irg1 is highly expressed during various infections or TLR
+     │ ligand stimulation in macrophages, which have been reported to regulate macrophage innate
+     │ immune responses by controlling proinflammatory cytokines 31 . Prostaglandin-endoperoxide
+     │ synthase 2 (Ptgs2/Cox-2), an important precursor of …
+     "A new method, TIFF, uses ion mobility filtering to improve single-cell proteomics sensitivity and accuracy. This approach enables deeper proteome analysis and novel applications in cell population classification."
+
+  3. Integrating Network Pharmacology And Experimental Verification To Explore The Mechanism Of Qionggui Power Against Atherosclerosis
+     Yuqing Wang *, Yonghong Man, Xu Jiang, Dong Shui, Qing Zhao, Shujiao Li, Guo Zhuang
+     bio_bc9546606c31 · bioRxiv · 2022-11-01 · 0 citations (all versions)
+     Published (2022): https://doi.org/10.1101/2022.11.01.514795
+     Matched: Effects Of QP On Peroxisome Proliferator-Activated Receptors Gamma (PP · cat /papers/bio_bc9546606c31/content.lines --lines 68
+     │ To verify the pharmacological mechanism of QP against AS as predicted by the analysis in
+     │ silico , the effects of QP on the expression of top 3 hub targets were measured using an
+     │ inflammatory model in vitro, wherein LPS-stimulated macrophage display markers typical of
+     │ AS-associated macrophage during AS pathogenesis. Treatment with QP increased the expression
+     │ of CAT within LPS-treated RAW264.7 in a concentration-dependent manner. Treatment with QP
+     │ (1mg/ml) also attenuated the increased expression of PTGS2, which is induced by LPS
+     │ stimulus. And treatment with QP (1mg/ml) upregulated significantly the expression of PPARγ,
+     │ but this effect was not observed in low-concentration groups. These data …
+     "Network pharmacology and experimental verification were used to explore Qionggui Power's mechanism against atherosclerosis. Qionggui Power suppresses inflammation by inhibiting the NF-κB pathway, offering therapeutic potential for atherosclerosis."
+
+  4. Bacterial lipopolysaccharides prime macrophages for enhanced release of arachidonic acid metabolites
+     PMC2188197 · PMC · 1986-07-01
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2188197/
+     "Macrophages pre-exposed to LPS become primed for significantly increased arachidonic acid secretion. This priming enhances responses to various triggers and persists for at least 30 hours."
+
+  5. Curcumin alleviates LPS-induced WI-38 cell inflammation injury by regulating PTGS2 expression
+     Hongli Xiao; Wangsheng Ma; Lin Zha; Yanmin Xiao; Hui Li
+     PMC12083002 · PMC · 2025-05-16 · 9 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12083002/
+     Matched: Knockdown of PTGS2 alleviates LPS-stimulated WI-38 cell inflammation d · cat /papers/PMC12083002/content.lines --lines 65-66
+     │ Next, the role of PTGS2 was explored in LPS-induced WI-38 cells. Downregulation of PTGS2
+     │ repressed LPS-induced facilitation of PTGS2 expression (Fig. 4A). The cell vitality of WI-38
+     │ cells after being treated with LPS was repressed compared with the Control group, while
+     │ PTGS2 knockdown could rescue this effect (Fig. 4B). PTGS2 knockdown undermined the
+     │ inhibitory effects of LPS on proliferation of WI-38 cell (Fig. 4C). The apoptosis was
+     │ expedited after WT-38 cells were treated with LPS, while si-PTGS2 could weaken this action
+     │ (Fig. 4D). The inflammation factor (IL-6, IL-1β, and TNF-α) productions were increased by
+     │ LPS, which was weakened by PTGS2 knockdown (Fig. 4E-G). Downregulated PTGS2 …
+     "Curcumin was studied for its effects on inflammation in LPS-treated WI-38 cells. Curcumin alleviated LPS-induced cell damage by regulating PTGS2 expression."
+
+  6. Dynamic changes in macrophage populations and resulting alterations in Prostaglandin E2 sensitivity in mice with diet-induced MASH
+     Madita Vahrenbrink; C. D. Coleman; S. Kuipers; I. Lurje; L. Hammerich; D. Kunkel; J. Keye; S. Dittri...
+     PMC12083000 · PMC · 2025-05-16 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12083000/
+     Matched: Discussion · cat /papers/PMC12083000/content.lines --lines 60-62
+     │ Fig. 3: PGE2 inhibits TNF-α mRNA and protein expression in a dose-dependent manner. Primary
+     │ Kupffer cells (KC), peritoneal macrophages (PM) and bone marrow-derived macrophages (BMDM)
+     │ were stimulated for 24 h with LPS and indicated concentrations of PGE2. (A) Relative mRNA
+     │ expression of TNF-α was determined by RT-qPCR with Hprt as the reference gene. (B) TNF-α
+     │ protein levels were determined by ELISA in cell culture supernatants. Values are mean ± SEM
+     │ of n = 5 independent experiments. Statistics: Student´s t-test for unpaired samples. * vs.
+     │ w/o PGE2 with p < 0.05 Fig. 4: Modulation of OSM mRNA expression by exogenous PGE2. Primary
+     │ Kupffer cells (KC), peritoneal macrophages (PM) and bone …
+     "This study examined changes in liver macrophage populations and their response to PGE2 during diet-induced MASH in mice. It found that infiltrating macrophages are more sensitive to PGE2's anti-inflammatory effects than resident Kupffer cells."
+
+  7. Lipopolysaccharide-Induced Expression of Microsomal Prostaglandin E Synthase-1 Mediates Late-Phase PGE2 Production in Bone Marrow Derived Macrophages
+     Lei Xiao; Magdalena Ornatowska; Guiqing Zhao; Hongmei Cao; Rui Yu; Jing Deng; Yongchao Li; Qiong Zha...
+     PMC3511480 · PMC · 2012-11-30 · 48 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3511480/
+     Matched: LPS stimulated expression of iNOS/COX-2/mPGES-1/PU.1 in BMDM · cat /papers/PMC3511480/content.lines --lines 39-40
+     │ We first determined the protein expression profiles of a series of inflammation-related
+     │ enzymes or transcription factor in primary cultured BMDM by Western blot assays, including
+     │ enzymes related to macrophage inflammation (i.e., iNOS), PG biosynthesis (i.e., COX, PGES,
+     │ and PGDS isoforms), and a transcription factor for macrophage maturation (i.e., PU.1). Since
+     │ our previous studies had shown that LPS concentration-dependently (0.01 to 5 µg/ml) induced
+     │ the production of both PGE2 and PGD2 in BMDM with a plateau level of PGs production at about
+     │ 1 µg/ml [25], we used 1 µg/ml LPS for our current studies. Among the tested proteins, LPS
+     │ significantly increased the protein expression of iNOS, …
+     "Lipopolysaccharide (LPS) induces late-phase PGE2 production in macrophages. Microsomal prostaglandin E synthase-1 (mPGES-1) mediates this late-phase PGE2 burst and regulates LPS-induced iNOS expression."
+
+  8. Macrophage responses to lipopolysaccharide are modulated by a feedback loop involving prostaglandin E2, dual specificity phosphatase 1 and tristetraprolin
+     Tina Tang; Thomas E. Scambler; Tim Smallie; Helen E. Cunliffe; Ewan A. Ross; Dalya R. Rosner; John D...
+     PMC5489520 · PMC · 2017-06-28 · 79 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5489520/
+     Matched: Ptgs2 gene expression is negatively regulated by TTP · cat /papers/PMC5489520/content.lines --lines 16-17
+     │ A previous publication described high resolution mapping of TTP binding sites in the mouse
+     │ macrophage transcriptome[35]. Publicly accessible data from this study (http://ttp-
+     │ atlas.univie.ac.at) revealed strong binding of TTP to the 3′ UTR of Ptgs2 mRNA, which was
+     │ restricted to a region immediately downstream of the open reading frame, containing a
+     │ cluster of six AUUUA motifs (Fig. 1a). This region mediated regulation of Ptgs2 mRNA
+     │ stability by the MAPK p38 signaling pathway, and was recognized by TTP in vitro [24], [25].
+     │ Other putative TTP binding sites in the Ptgs2 3′ UTR[42] appear to be recognized by TTP
+     │ poorly or not at all in mouse macrophages. RNA immunoprecipitation experiments …
+     "This study investigated how macrophages respond to lipopolysaccharide. A feedback loop involving PGE2, DUSP1, and TTP was found to suppress COX-2 and TNF expression, potentially regulating inflammation phases."
+
+  9. PTGS2 Silencing Inhibits Ferroptosis in Staphylococcus Aureus-induced Osteomyelitis By Blocking the IL-17A Signaling Pathway
+     Si-rui Zhou; Wen-guang Li; Li-dan Yang; Hao Xiang; Ying Jin; Jian-bo Feng; Hua-zhang Xiong; Jiachen ...
+     PMC12722496 · PMC · 2025-04-21 · 9 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12722496/
+     Matched: PTGS2 Silencing Inhibited Inflammation Levels in LPS-induced MC3T3-E1  · cat /papers/PMC12722496/content.lines --lines 71-72
+     │ Subsequently, the role of PTGS2 in LPS-induced MC3T3-E1 cells was investigated. MC3T3-E1
+     │ cells were transfected with si-PTGS2 to knock down PTGS2 expression. RT-qPCR results showed
+     │ that PTGS2 expression was significantly reduced in cells transfected with si-PTGS2-1, si-
+     │ PTGS2-2, and si-PTGS2-3. si-PTGS2-2 was selected for further investigation (Fig. 5A).
+     │ Western blot analysis showed that LPS stimulation increased PTGS2 protein expression
+     │ compared to the control group. Additionally, PTGS2 protein levels were significantly reduced
+     │ in the LPS + si-PTGS2 group compared to the LPS + si-NC group (Fig. 5B). Cell viability was
+     │ assessed using the CCK-8 assay, and the data showed that cell viability …
+     "This study investigated molecular mechanisms of *Staphylococcus aureus*-induced osteomyelitis. Silencing PTGS2 inhibits ferroptosis and osteomyelitis progression by blocking the IL-17A signaling pathway."
+
+  10. Lapatinib Suppressed the Expression of Proinflammatory Cytokines and Alleviated Pain Behavior in a Mouse Model of Postoperative Pain
+     Annet Kyomuhangi
+     bio_523ca8418f4e · bioRxiv · 2026-01-01 · 0 citations (all versions)
+     Published (2026): https://doi.org/10.64898/2026.01.07.698212
+     Matched: cat /papers/bio_523ca8418f4e/content.lines --lines 28-30
+     │ Fig 3.: Prostaglandin E2 quantitation in supernatants of vehicle/indomethacin/lapatinib
+     │ treated RAW264.7 cells.(A) Cell viability data via Alamar blue assay. Unpaired t test
+     │ followed by Two-stage step-up (Benjamini, Krieger, and Yekutieli) for multiple comparisons
+     │ was used to determine differences in cell viability between lapatinib and vehicle (DMSO)
+     │ treated cells (n=4 per group). (B) Prostaglandin E2 (PGE2) ELISA data obtained with high
+     │ lapatinib concentrations (n=4 per group). Data were fitted on a 4-parameter non-linear
+     │ regression model in GraphPad Prism. (C) Prostaglandin E2 (PGE2) ELISA data obtained with
+     │ lower lapatinib concentrations (n=4 per group). (C) and (D) Mixed-effects …
+     "Postoperative pain remains a major clinical challenge, as inadequate management can delay functional recovery, prolong hospitalization, and increase the risk of chronic pain development. Opioid analge"
+
+  11. The Bradykinin System Contributes to the Regulation of Prostaglandin-Endoperoxide Synthase 2 Expression in Human Amnion Fibroblasts: Implications for Term and Preterm Birth
+     Xiao-tian Ni; Wang-sheng Wang; Yun Liu; Yi-kai Lin; Fan Zhang; Wen-jia Lei; Li-jun Ling; Fan Pan; Ya...
+     PMC9130483 · PMC · 2022-05-11 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9130483/
+     Matched: Enhancement of BK- and DABK-Induced PTGS2 Expression and PGE2 Producti · cat /papers/PMC9130483/content.lines --lines 89-90
+     │ Pretreatment of amnion fibroblasts with LPS (50 ng/ml) or SAA1 (50 ng/ml) for 24 h
+     │ significantly enhanced the subsequent induction of PTGS2 mRNA ( Figures 8A–E ) and protein
+     │ expression ( Figures 8F–I ) and PGE2 production ( Figures 8J–M ) by BK (0.1 μM, 4 h) or DABK
+     │ (0.1 μM, 4 h). Figure 8: Pretreatment with LPS and SAA1 enhanced the subsequent induction of
+     │ PTGS2 expression and PGE2 production by BK and DABK in human amnion fibroblasts. (A) Time
+     │ line illustrating pretreatment of amnion fibroblast with LPS (50 ng/ml) or SAA1 (50 ng/ml)
+     │ for 24 h, followed by BK (0.1 μM) or DABK (0.1 μM) treatment without LPS or SAA1 for another
+     │ 4 h. (B–E) Enhancement of BK (0.1 μM)- and DABK (0.1 μM)-induced …
+     "The bradykinin system was studied in human amnion fibroblasts and its role in prostaglandin synthesis. Bradykinin peptides increase prostaglandin E2 production via specific receptors, with infection mediators enhancing this effect."
+
+  12. Nicotinic acetylcholine receptor-mediated effects of varenicline on LPS-elevated prostaglandin and cyclooxygenase levels in RAW 264.7 macrophages
+     Elif Baris; Mualla Aylin Arici; Metiner Tosun
+     PMC11163068 · PMC · 2024-05-27 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11163068/
+     Matched: 3.1 LPS-elevated COX and PG levels · cat /papers/PMC11163068/content.lines --lines 27-28
+     "Varenicline was studied for its effects on LPS-induced prostaglandin and cyclooxygenase levels in macrophages. Varenicline reduced these inflammatory markers and reactive oxygen species, potentially via α7 nicotinic acetylcholine receptor activation."
+
+  13. Motif prediction to distinguish LPS-stimulated pro-inflammatory  vs . antibacterial macrophage genes
+     Rahul K Kollipara, Narayanan B Perumal
+     PMC2949756 · Immunome Research · 2010-01-01 · 5 citations
+     https://doi.org/10.1186/1745-7580-6-5
+     "This study analyzed gene expression patterns in LPS-stimulated macrophages to identify pro-inflammatory and antibacterial genes. It found distinct transcription factor binding site motifs associated with each gene set, helping to distinguish their regulatory mechanisms."
+
+  14. Phagocytosis is differentially regulated by LPS in M1- and M2-like macrophages via PGE 2  formation and EP4 signaling
+     Rebecca Kirchhoff, Michel André Chromik, Nils Helge Schebb *
+     bio_bcc561746c3c · bioRxiv · 2024-09-29 · 6 citations (all versions)
+     Published (2025): https://doi.org/10.1016/j.prostaglandins.2025.106998
+     Preprint: https://doi.org/10.1101/2024.09.29.615656
+     Matched: Phagocytosis is differentially modulated by LPS in M1- and M2-like mac · cat /papers/bio_bcc561746c3c/content.lines --lines 48-49
+     "Phagocytosis was studied in M1 and M2 macrophages, measuring arachidonic acid cascade products. LPS increased phagocytosis in M2 cells, mediated by PGE2 and EP4 signaling suppressing this process."
+
+  15. Prostaglandin E2 affects differently the release of inflammatory mediators from resident macrophages by LPS and muramyl tripeptides.
+     P Dieter; U Hempel; S Kamionka; A Kolada; B Malessa; E Fitzke; T A Tran-Thi
+     PMC1781814 · PMC · 1999 · 31 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1781814/
+     Matched: Abstract · cat /papers/PMC1781814/content.lines --lines 1-5
+     "LPS and MTP-PE activate liver macrophages differently, affecting inflammatory mediator release. PGE2 regulates LPS actions but not MTP-PE actions, explaining their differing immunomodulatory effects."
+
+  16. Lipocalin-Like Prostaglandin D Synthase but Not Hemopoietic Prostaglandin D Synthase Deletion Causes Hypertension and Accelerates Thrombogenesis in Mice
+     Wen-Liang Song; Emanuela Ricciotti; Xue Liang; Tilo Grosser; Gregory R. Grant; Garret A. FitzGerald
+     PMC6226547 · PMC · 2018 · 29 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6226547/
+     Matched: Peritoneal Macrophage Culture. · cat /papers/PMC6226547/content.lines --lines 21
+     │ Peritoneal macrophages were collected 4 days after i.p. injection of 0.5 ml 10%
+     │ thioglycolate (Sigma-Aldrich, St. Louis, MO). Nonadherent cells were removed after 2 hours
+     │ of incubation. Adherent cells were treated with 5 μg/ml lipopolysaccharide (LPS; Sigma-
+     │ Aldrich, St. Louis, MO) for 4 and 24 hours.
+     "Lipocalin-type prostaglandin D synthase (L-PGDS) deletion in mice elevated blood pressure and accelerated thrombogenesis. This suggests L-PGDS, not hematopoietic PGDS, is crucial for vascular homeostasis."
+
+  17. Pheophytin a Inhibits Inflammation via Suppression of LPS-Induced Nitric Oxide Synthase-2, Prostaglandin E2, and Interleukin-1β of Macrophages
+     Chun-Yu Lin; Chien-Hsing Lee; Yu-Wei Chang; Hui-Min Wang; Chung-Yi Chen; Yen-Hsu Chen
+     PMC4284740 · PMC · 2014-12-09 · 41 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4284740/
+     Matched: 2.3. Effects of Pheophytin a on Prostaglandin E2 (PGE2), Cyclooxygenas · cat /papers/PMC4284740/content.lines --lines 28-29
+     │ We further observed that both the protein and mRNA levels of COX-2 were also suppressed by
+     │ Pheophytin a in a dose-dependent manner (Figure 3A,B). PGE2 is mainly synthesized by the
+     │ COX-2 enzyme, which is also responsible for inflammatory symptoms [21]. Using an enzyme-
+     │ linked immunosorbent assay (ELISA) kit, pheophytin a clearly attenuated the LPS-stimulated
+     │ PGE2 production of RAW264.7 cells (Figure 3C). Moreover, IL-1β, a well-known proinflammatory
+     │ cytokine, contributes to the systemic inflammation during sepsis [22]. Our study also
+     │ revealed that pheophytin a suppressed IL-1β in LPS-stimulated RAW264.7 cells in a dose-
+     │ dependent manner (Figure 3D), demonstrating that pheophytin a at cytotoxic …
+     "Pheophytin a was studied for its anti-inflammatory effects on macrophages. It was found to suppress key inflammatory mediators like nitric oxide and prostaglandin E2 by inhibiting specific signaling pathways."
+
+  18. Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni; Yanal Ghosheh; Akula Bala Pramod; Klaus Ley
+     PMC7053374 · Frontiers in Immunology · 2020-02-25 · 77 citations
+     https://doi.org/10.3389/fimmu.2020.00234
+
+  19. Suppression of Heme Oxygenase-1 by Prostaglandin E2-Protein Kinase A-A-Kinase Anchoring Protein Signaling Is Central for Augmented Cyclooxygenase-2 Expression in Lipopolysaccharide-Stimulated RAW 264.7 Macrophages
+     Jae-Hyoung Lee; Nam-Hee Jung; Byoung-Hoon Lee; Sang-Hoon Kim; Jin Hyun Jun
+     PMC3756181 · PMC · 2013-08-07 · 12 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3756181/
+     Matched: DISCUSSION · cat /papers/PMC3756181/content.lines --lines 54-56
+     │ In conclusion, this study describes the important role that PGE2-PKA-AKAP signaling plays in
+     │ enhancing COX-2 expression induced by LPS through positive feedback in RAW 264.7
+     │ macrophages. Furthermore, the attenuation of LPS-induced HO-1 expression achieved by PKA-
+     │ AKAP signaling contributes to the subsequent augmentation of LPS-induced COX-2 expression
+     │ through the magnification of LPS-induced NF-κB activation and nuclear translocation in RAW
+     │ 264.7 macrophages. Whereas previous studies have established separately that PGE2 enhances
+     │ COX-2 expression and that PGE2 inhibits LPS-induced HO-1 expression in macrophages, our
+     │ study directly links these two phenomena for the first time. Fig. 1: The …
+     "Prostaglandin E2 signaling suppresses heme oxygenase-1 in macrophages. This suppression potentiates cyclooxygenase-2 expression, creating a positive feedback loop."
+
+  20. 15-F2t-Isoprostane Favors an Anti-Inflammatory Phenotype in RAW 264.7 Macrophages during Endotoxin Challenge
+     Ashley K. Putman; G. Andres Contreras
+     PMC8945100 · PMC · 2022-03-19 · 6 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8945100/
+     Matched: 3.3. 15-F2t-IsoP Shifts Inflammatory Gene Expression towards an Anti-I · cat /papers/PMC8945100/content.lines --lines 39
+     "15-F 2t -IsoP was studied for its effect on RAW 264.7 macrophages during an endotoxin challenge. The compound promotes an anti-inflammatory macrophage phenotype by decreasing pro-inflammatory markers and increasing anti-inflammatory ones."
+
+  21. Lipopolysaccharide-Induced Nitric Oxide and Prostaglandin E2 Production Is Inhibited by Tellimagrandin II in Mouse and Human Macrophages
+     Chun-Yu Lin; Shih-Han Kao; Ling-Chien Hung; Hsin-Ju Chien; Wen-Hung Wang; Yu-Wei Chang; Yen-Hsu Chen
+     PMC8146495 · PMC · 2021-04-30 · 26 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8146495/
+     Matched: 3.5. TGII Inhibits COX-2 Signaling in LPS-Activated Macrophages · cat /papers/PMC8146495/content.lines --lines 46
+     │ The anti-inflammatory effects of TGII on macrophages by regulating the COX-2 pathway were
+     │ determined as shown in Figure 5A,B. Specifically, pre- or post-treatment with TGII did not
+     │ attenuate LPS-induced COX-2 gene expression, but decreased COX-2 protein in a dose-dependent
+     │ manner. Subsequently, LPS-induced PGE2 overproduction was suppressed by TGII (Figure 5C).
+     "Tellimagrandin II was studied for its anti-inflammatory effects on macrophages stimulated by lipopolysaccharide. TGII significantly inhibited nitric oxide and prostaglandin E2 production by reducing key inflammatory signaling pathways."
+
+  22. Cyclooxygenase-2 and its regulation in inflammation
+     Y. S. Bakhle; R. M. Botting
+     PMC2365800 · PMC · 1996 · 62 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2365800/
+
+  23. Differential expression of E-type prostanoid receptors 2 and 4 in microglia stimulated with lipopolysaccharide
+     Ester Bonfill-Teixidor; Amaia Otxoa-de-Amezaga; Miriam Font-Nieves; M. Glòria Sans-Fons; Anna M. Pla...
+     PMC5234110 · PMC · 2017-01-05 · 35 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5234110/
+     Matched: COX-2 mediates the production of PGE2 in glial cells exposed to LPS · cat /papers/PMC5234110/content.lines --lines 68-69
+     │ LPS induces the production and release of PGE2 in glial cells [7]. The PGE2 concentration in
+     │ the culture medium of astrocytes increased from basal levels of 0.9 ± 0.3 nM to 4.8 ± 3.1 nM
+     │ (mean ± SD, in 11 independent experiments) 8 hours after LPS exposure, as assessed by ELISA
+     │ assays. However, COX-2-deficient astrocytes do not produce PGE2 after LPS, as we previously
+     │ reported [7]. Also, PGE2 production was completely abrogated by a range of COX-2 inhibitors
+     │ (Fig. 1a, b). Notably, the compound dimethyl-celecoxib (DMC), an analog of celecoxib that
+     │ does not have inhibitory effects on COX-2, also prevented the increase in PGE2 concentration
+     │ after LPS (Fig. 1a, b), possibly due to its described …
+     "This study examined E-type prostanoid receptor expression and function in microglia stimulated with lipopolysaccharide. PGE2, acting primarily through EP4 and EP2 receptors, suppressed LPS-induced TNF-α production and modulated other inflammatory pathways in microglia."
+
+  24. Integrated Analysis of COX-2 and iNOS Derived Inflammatory Mediators in LPS-Stimulated RAW Macrophages Pre-Exposed to Echium plantagineum L. Bee Pollen Extract
+     Eduarda Moita; Angel Gil-Izquierdo; Carla Sousa; Federico Ferreres; Luís R. Silva; Patrícia Valentão...
+     PMC3592834 · PMC · 2013-03-08 · 102 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3592834/
+     Matched: Eicosanoid levels in culture medium · cat /papers/PMC3592834/content.lines --lines 90-92
+     "This study investigated the anti-inflammatory and antioxidant effects of *Echium plantagineum* bee pollen extract on LPS-stimulated macrophages. The extract reduced nitric oxide and prostaglandins, indicating anti-inflammatory activity."
+
+  25. 2-Carba cyclic phosphatidic acid inhibits lipopolysaccharide-induced prostaglandin E2 production in a human macrophage cell line
+     Yuki Shibaike; Mari Gotoh; Chinatsu Ogawa; Shingo Nakajima; Keisuke Yoshikawa; Tetsuyuki Kobayashi; ...
+     PMC6651843 · PMC · 2019-07-19 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6651843/
+     Matched: Effect of 2ccPA on inflammatory functions of PMA-treated THP-1 cells · cat /papers/PMC6651843/content.lines --lines 66-69
+     │ To investigate the effect of 2ccPA on LPS-induced pro-inflammatory cytokine expression in
+     │ macrophages, PMA-treated THP-1 cells were simultaneously exposed to 2ccPA and LPS. The
+     │ addition of 2ccPA attenuated the increased expression of IL-1B, IL-6, IL-8, TNF-α, and Cox-2
+     │ mRNA caused by the exposure to LPS, particularly for IL-6 and Cox-2 (Fig. 3). 2ccPA had no
+     │ effect on the mRNA expression of anti-inflammatory cytokines with or without LPS stimulation
+     │ (data not shown). Fig. 3: Effect of 2ccPA on LPS-induced cytokines and Cox-2 mRNA expression
+     │ and PGE2 secretion in differentiated THP-1 cells. Differentiated THP-1 cells were incubated
+     │ with LPS (1 μg/mL) along with or without 2ccPA (1, 10 μM). …
+     "2-Carba-cyclic phosphatidic acid (2ccPA) was studied for its effects on inflammation in human macrophages. 2ccPA was found to inhibit lipopolysaccharide-induced prostaglandin E2 production and reduce pro-inflammatory gene expression."
+
+[133ms, saved to s_b4b9be4b]
+
+💡 Extract data across these results with: map --from s_b4b9be4b "your question"
+[133ms, saved to s_b4b9be4b]  [repo: mva-lof-molecular]
+

@@ -1,0 +1,178 @@
+Map results  [m_c386aa79]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Serpina3f (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+
+--- [1] [success] Adventitial macrophage accumulation impairs perivascular nerve function in mesenteric arteries with inflammatory bowel disease ---
+doc_id: bio_582891fd6ece
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [2] [success] LPS Counter Regulates RNA Expression of Extracellular Proteases and Their Inhibitors in Murine Macrophages ---
+doc_id: PMC3317238
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [3] [success] N6-methyladenosine of Spi2a attenuates inflammation and sepsis-associated myocardial dysfunction in mice ---
+doc_id: PMC9979126
+{
+  "answer": "yes",
+  "evidence": "Supported by the analysis of RNA-sequencing data mentioned above, we noticed Serpina3f expression is also substantially boosted in BMDMs following LPS treatment among the 14 members of mouse Serpina3 family (Serpina3a-n) (Fig. S4i).",
+  "context": "In BMDMs exposed to LPS, we verified the upregulation of Serpina3f and confirmed overexpression of SERPINA3F exerted an inhibitory function in cytokines (Fig. S4i-k)."
+}
+
+--- [4] [success] Genome-wide siRNA screen of genes regulating the LPS-induced TNF-α response in human macrophages ---
+doc_id: PMC5332009
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [5] [success] Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC6543837
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [6] [success] Analysis of the transcriptional networks underpinning the activation of murine macrophages by inflammatory mediators ---
+doc_id: PMC4378362
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [7] [success] Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC7053374
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [8] [success] Monocyte normal immune response to LPS stimulation ---
+doc_id: PMC3333514
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [9] [success] Epigenetic profile in lipopolysaccharide-stimulated macrophages ---
+doc_id: PMC3953056
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [10] [success] The Transcription Factor C/EBP-β Mediates Constitutive and LPS-Inducible Transcription of Murine SerpinB2 ---
+doc_id: PMC3589482
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [11] [success] Serine Supports IL-1β Production in Macrophages Through mTOR Signaling ---
+doc_id: PMC7481448
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [12] [success] Sex differences in nociceptor translatomes contribute to divergent prostaglandin signaling in male and female mice ---
+doc_id: bio_78de31c56fc5
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [13] [success] Macrophage phenotype in sepsis immunosuppression ---
+doc_id: PMC4470529
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [14] [success] SRSF3 Knockdown Inhibits Lipopolysaccharide-Induced Inflammatory Response in Macrophages ---
+doc_id: PMC11202707
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [15] [success] Selection of reliable reference genes for the normalisation of gene expression levels following time course LPS stimulation of murine bone marrow derived macrophages ---
+doc_id: PMC5627409
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [16] [success] Lipopolysaccharide-Activated Macrophages Suppress Cellular Senescence and Promote Rejuvenation in Human Dermal Fibroblasts ---
+doc_id: PMC12346749
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [17] [success] Inhibitor of serine peptidase 2 enhances Leishmania major survival in the skin through control of monocytes and monocyte-derived cells ---
+doc_id: PMC5892728
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [18] [success] LPS Tolerance Inhibits Cellular Respiration and Induces Global Changes in the Macrophage Secretome ---
+doc_id: PMC7918892
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [19] [success] Reversal of filarial serpin Wb123-urokinase plasminogen activator receptor mediated alternative macrophage activation by monoclonal antibody ---
+doc_id: PMC12768378
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [20] [success] Effect of LPS, dsRNA or interferons on the phagocytosis of dying cells or mycobacteria by macrophages ---
+doc_id: PMC3019512
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [21] [success] LPS-Induced Modifications in Macrophage Transcript and Secretion Profiles Are Linked to Muscle Wasting and Glucose Intolerance ---
+doc_id: PMC10940789
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [22] [success] MARCO is an IFN-restricted immunometabolic decoy LPS receptor ---
+doc_id: bio_74c36375729f
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [23] [success] CD163 deficiency facilitates lipopolysaccharide‐induced inflammatory responses and endotoxin shock in mice ---
+doc_id: PMC7518957
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [24] [success] Serpina3c Mitigates Adipose Tissue Inflammation by Inhibiting the HIF1α-Mediated Endoplasmic Reticulum Overoxidation in Adipocytes ---
+doc_id: PMC12813378
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [25] [success] Ecotin-like serine peptidase inhibitor ISP1 of Leishmania major plays a role in flagellar pocket dynamics and promastigote differentiation ---
+doc_id: PMC3440592
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}

@@ -1,0 +1,4 @@
+$ src/pc.sh results m_90b1bfdc --save /Users/julia/known-or-not-found/results/search/Tmem200b/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/Tmem200b/map_answers.txt
+

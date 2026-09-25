@@ -1,0 +1,4 @@
+$ src/pc.sh results s_375456bc --save /Users/julia/known-or-not-found/results/search/Iigp1/parent.csv
+# exit 0
+  ✓ Saved 25 papers to /Users/julia/known-or-not-found/results/search/Iigp1/parent.csv
+

@@ -1,0 +1,327 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Il27 (interleukin 27) LPS macrophage
+# exit 0
+Found 25 papers  [s_c00f0200]
+
+  1. Gadolinium Chloride Inhibits the Production of Liver Interleukin-27 and Mitigates Liver Injury in the CLP Mouse Model
+     Jing Fan; Miao He; Chuan-Jiang Wang; Mu Zhang
+     PMC7867451 · Mediators of Inflammation · 2021-01-29 · 13 citations
+     https://doi.org/10.1155/2021/2605973
+     Matched: 3.7. IL-27 Is Elevated in Macrophages and Promotes the Inflammatory Re · cat /papers/PMC7867451/content.lines --lines 57
+     │ To evaluate the IL-27 production of macrophages in an inflammatory state, we detected EBI3
+     │ and P28 mRNA levels by q-PCR and protein levels by Western blot of peritoneal macrophages
+     │ after LPS stimulation. We found that the EBI3 and P28 mRNA and protein expression levels all
+     │ increased following LPS stimulation (p < 0.001; Figure 4(a)). Moreover, when we added
+     │ recombinant IL-27, the expression levels of the proinflammatory factors IL-6, TNF-α, and
+     │ IL-1β in the supernatant were increased (p < 0.05, p < 0.01; Figure 4(b)). Meanwhile, the
+     │ flow cytometric analysis showed that the CD86+ macrophages increased after LPS stimulated,
+     │ which had a further elevation when pretreated with recombinant IL-27 …
+     "This study investigated the role of IL-27 and liver macrophages in liver injury following severe infection. Gadolinium chloride inhibited IL-27 production and M1 macrophage polarization, reducing liver injury in a mouse model."
+
+  2. Interleukins-27 Aggravates Liver Injury by Impairing the Antimicrobial Response of Macrophages via the Promotion of Mitochondrial Dysfunction in the Context of Sepsis
+     Yuehua You; Yuyan Li; Lin Ye; Fang Xu; Jing Fan
+     PMC11882325 · Mediators of Inflammation · 2025-02-26 · 4 citations
+     https://doi.org/10.1155/mi/6608718
+     Matched: 2.4. Cell Culture · cat /papers/PMC11882325/content.lines --lines 27
+     │ RAW264.7 cells were grown in DMEM containing 10% fetal bovine serum (FBS) and exposed to LPS
+     │ (100 ng/mL; Sigma–Aldrich, St Louis, MO, USA) and/or IL-27 (50 ng/mL; ProSpec, Rehovot,
+     │ Israel) for 36 h when they reached 70%–80% confluences.
+     "IL-27 exacerbates liver injury in sepsis by impairing macrophage antimicrobial responses. This occurs through IL-27-induced mitochondrial dysfunction, which reduces bacterial clearance."
+
+  3. IL-27 neutralization enhances macrophage polarization and improves immune checkpoint efficacy
+     Quentin Glaziou, Laetitia Basset, Sènan d’Almeida, Pascale Pignon, Nabila Jabrane-Ferrat, Christophe...
+     bio_5e67bb726e21 · bioRxiv · 2024-09-13 · 2 citations (all versions)
+     Published (2024): https://doi.org/10.1101/2024.09.13.612803
+     Matched: IL-27 neutralization during macrophage differentiation reduces immunos · cat /papers/bio_5e67bb726e21/content.lines --lines 50-52
+     │ Prior to performing neutralization experiments with a specific antibody, we confirmed IL-27
+     │ expression by monocyte (before any differentiation step and without exogenous stimulation)
+     │ and its release into culture supernatants during differentiation. RT-qPCR analysis showed
+     │ the presence of transcripts encoding both IL-27 subunits, IL-27p28 and Ebi3, which together
+     │ form the biologically active heterodimer (Supplementary Figure 1A). Transcripts for both
+     │ receptor subunits, IL-27RA and gp130, were also detected in monocytes (Supplementary Figure
+     │ 1A). The expression of IL-27p28 and IL-27 RA is maintained after 5 days of culture in the
+     │ presence of M-CSF (Supplementary Figure 1B). We next examined …
+     "IL-27 neutralization was studied for its effects on tumor-associated macrophages and the tumor immune microenvironment. Blocking IL-27 repolarized macrophages, enhancing T cell responses and immune checkpoint therapy efficacy."
+
+  4. Macrophage Cytokines: Involvement in Immunity and Infectious Diseases
+     Guillermo Arango Duque; Albert Descoteaux
+     PMC4188125 · Frontiers in Immunology · 2014-10-07 · 2261 citations
+     https://doi.org/10.3389/fimmu.2014.00491
+     Matched: IL-27 · cat /papers/PMC4188125/content.lines --lines 35
+     │ IL-27 is a member of the IL-12 family, and is composed of subunits p28 and Epstein–Barr
+     │ virus-induced gene 3. Similar to TNF, it is produced early in monocytes and macrophages
+     │ stimulated with LPS and IFN-γ. Knockout of its receptor ensues in increased susceptibility
+     │ of mice to bacterial and parasitic infections due to impaired IFN-γ production (56). In
+     │ addition to favoring the differentiation of naïve T cells to Th1 cells via IFN-γ induction,
+     │ IL-27 can also inhibit the differentiation of Th17 cells (57). IL-27 also has anti-
+     │ inflammatory properties, which are exemplified by the fact that IL-27 receptor-deficient
+     │ mice are more susceptible to auto-immune encephalomyelitis, which correlates …
+     "This review examines macrophage-secreted cytokines and their release mechanisms. These cytokines are crucial for immunity and infectious disease, with dysregulation contributing to various pathologies."
+
+  5. IL-27 regulation of innate immunity and control of microbial growth
+     Jessica M Povroznik; Cory M Robinson
+     PMC7421895 · PMC · 2020-06-17 · 33 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7421895/
+     Matched: Antigen-presenting cells · cat /papers/PMC7421895/content.lines --lines 14-15
+     │ Professional APCs, such as monocytes, macrophages and dendritic cells (DCs), are all common
+     │ sources of IL-27 expression. However, these cells not only synthesize IL-27, but are also
+     │ equipped to respond to IL-27 in an autocrine and paracrine manner. This response includes
+     │ production of a variety of anti- or pro-inflammatory cytokines and chemokines in a
+     │ pathogenic stimulus- and cell-type-dependent manner. For example, upon exposure to IL-27,
+     │ both macrophages and DCs decrease production of TNF-α [25–27], while monocytes increase
+     │ TNF-α expression following exposure to both IL-27 and lipopolysaccharide (LPS) [28].
+     │ Furthermore, Guzzo and colleagues demonstrated that the latter required NF-κβ- …
+     "This paper examines how IL-27 regulates innate immune cells and their responses to pathogens. IL-27 signaling suppresses key innate immune functions, impacting inflammation and microbial control."
+
+  6. IL-27 Aggravates Sepsis-Induced ARDS by Driving Macrophage Ferroptosis Through Activation of NCOA4-Mediated Ferritinophagy
+     Minkang Guo; Meng Xiong; Jindian Shi; Qiaozhi Peng; Shihui Lin; Fang Xu
+     PMC12967598 · Journal of Inflammation Research · 2026-03-03 · 1 citation
+     https://doi.org/10.2147/JIR.S575933
+     Matched: Inhibiting Ferritinophagy Effectively Alleviates the Inflammatory Resp · cat /papers/PMC12967598/content.lines --lines 71-72
+     "IL-27 worsens sepsis-induced ARDS by promoting macrophage ferroptosis. It achieves this by activating NCOA4, which drives ferritinophagy and M1 polarization. A novel NCOA4 degrader, CV3, reverses these effects, offering a potential therapeutic strategy."
+
+  7. STAT-3 is necessary for IL-27-mediated macrophage suppression but does not represent a therapeutic target for E. coli-induced neonatal sepsis
+     Madhavi Annamanedi; Jessica M. Povroznik; Cory M. Robinson
+     PMC12053911 · PMC · 2025 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12053911/
+     Matched: INTRODUCTION · cat /papers/PMC12053911/content.lines --lines 15
+     "STAT-3 is necessary for IL-27's suppression of bacterial clearance and inflammation in neonatal macrophages. However, targeting STAT-3 in macrophages does not improve outcomes in E. coli-induced neonatal sepsis."
+
+  8. IL-27 amplifies cytokine responses to Gram-negative bacterial products and Salmonella typhimurium infection
+     C. Petes; N. Odoardi; S. M. Plater; N. L. Martin; K. Gee
+     PMC6135775 · Scientific Reports · 2018-09-12 · 18 citations
+     https://doi.org/10.1038/s41598-018-32007-y
+     Matched: Co-stimulation of LPS and IL-27 upregulates proinflammatory cytokine e · cat /papers/PMC6135775/content.lines --lines 14-15
+     │ Previous studies have demonstrated that pre-treatment with IL-27 enhances E. coli LPS
+     │ responsiveness and cytokine production in human immune cells via TLR4 upregulation, while
+     │ co-treatment with LPS and IL-27 enhances inflammasome activity and IL-1β
+     │ expression[11],[13]. We initially tested responses of human peripheral blood mononuclear
+     │ cells (PBMC) and primary human monocytes as well as those of the human monocytic cell line,
+     │ THP-1. To model how IL-27 stimulation affects monocytes versus macrophages, we compared
+     │ responses of THP-1 cells and PMA-differentiated THP-1 cells (PMA-THP-1). All cells were
+     │ stimulated with E. coli LPS (LPS-E; 100 ng/ml) and recombinant human IL-27 (50 ng/ml) …
+     "This study investigated IL-27's effect on human monocyte and macrophage responses to bacterial products and infection. IL-27 amplified pro-inflammatory cytokine production in response to LPS and *Salmonella typhimurium* infection."
+
+  9. Synergistic Effects of Toll-Like Receptor 1/2 and Toll-Like Receptor 3 Signaling Triggering Interleukin 27 Gene Expression in Chikungunya Virus-Infected Macrophages
+     Juan Felipe Valdés-López; Geysson J. Fernandez; Silvio Urcuqui-Inchima
+     PMC8863767 · PMC · 2022-02-09 · 31 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8863767/
+     Matched: 3.12 TLR4 Activation in Human and Murine Macrophages Induces IL27 Expr · cat /papers/PMC8863767/content.lines --lines 89-90
+     │ In addition to NF-κB-dependent pro-inflammatory factors, early we observed that activation
+     │ of TLR4 by LPS in human MDMs up-regulates expression of genes for a high diversity of AVPs
+     │ (Figure 3A), including APOBEC3-family of proteins, GBP-family of proteins, IFI-family
+     │ proteins, IFITM-family proteins, OAS-family proteins, ISG15, ISG20, MX1, MX2, PKR, Viperin,
+     │ and others. Further, GO functional analysis of DEG in LPS-stimulated MDMs at 6 h (Figure 3B)
+     │ showed enriched for biological processes associated with the induction of a robust antiviral
+     │ program linked with IL27 signaling pathway, IFNγ, and IFN-I signaling pathway, regulators of
+     │ ribonuclease L activity, negative regulation of viral genome …
+     "This study investigated how Toll-like receptor signaling affects IL-27 gene expression in macrophages infected with Chikungunya virus. Synergistic activation of TLR1/2 and TLR3 pathways is required for functional IL-27 production, which then drives pro-inflammatory and antiviral responses independently of interferon signaling."
+
+  10. IL-23 and IL-27 Levels in Macrophages Collected from Peripheral Blood of Patients with Healing Vs Non-Healing Form of Cutaneous Leishmaniasis
+     S Tolouei; K Ghaedi; A Khamesipour; M Akbari; M Baghaei; SJ Hasheminia; M Narimani; SH Hejazi
+     PMC3488816 · PMC · 2012
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3488816/
+     Matched: Discussion · cat /papers/PMC3488816/content.lines --lines 65-66
+     "This study compared IL-23 and IL-27 levels in macrophages from patients with healing versus non-healing cutaneous leishmaniasis. Macrophages from healing lesions produced significantly higher levels of both cytokines."
+
+  11. Interleukin-27 and Its Diverse Effects on Bacterial Infections
+     Yugo Morita; Elysia A. Masters; Edward M. Schwarz; Gowrishankar Muthukrishnan
+     PMC8165262 · PMC · 2021-05-17 · 38 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8165262/
+     Matched: Overview of IL-27 Components, Receptors, Signaling Pathways · cat /papers/PMC8165262/content.lines --lines 19
+     │ Several inhibitory factors of IL-27p28/EBI3 production have been reported including
+     │ extracellular ATP that acts on the purinergic receptor of DCs (47) and C5a/C5aR on LPS-
+     │ stimulated macrophages (48). A recent study demonstrated that prostaglandin E2 binds to the
+     │ EP2/EP4 receptor and inhibits IL-27 production by downregulating IL-27p28 expression through
+     │ the cAMP/IRF1 signaling pathway (49). The autonomic nervous system is also involved in the
+     │ regulation of IL-27 production. Catecholamines via β2 adrenoceptor activation antagonize
+     │ phosphorylation of JNK and suppress IL-27p28 production in LPS-stimulated macrophages (50) (
+     │ Figure 2 ).
+     "This review examines interleukin-27's diverse roles in bacterial infections. IL-27 exhibits both pro- and anti-inflammatory effects, potentially offering therapeutic regulation for infection outcomes."
+
+  12. The interleukin-27 -964A>G polymorphism enhances sepsis-induced inflammatory responses and confers susceptibility to the development of sepsis
+     Junbing He; Quanfu Zhang; Wenying Zhang; Feng Chen; Tian Zhao; Yao Lin; Jia Li; Yansong Liu; Yuchun ...
+     PMC6164187 · Critical Care · 2018-09-30 · 34 citations
+     https://doi.org/10.1186/s13054-018-2180-0
+     Matched: IL-27 and LPS treatment experiments · cat /papers/PMC6164187/content.lines --lines 38
+     │ THP-1 cells were cultured in RPMI 1640 medium (Thermo Fisher Scientific) contained with 10%
+     │ FBS (Thermo Fisher Scientific) at 37 °C. IL-27 was purchased from MedChem Express (Monmouth
+     │ Junction, NJ, USA). Cells were treated with IL-27 (100 ng/mL), LPS (500 ng/mL), or LPS plus
+     │ IL-27 for 8 and 16 h. At each time point, the THP-1 cells and supernatants were collected
+     │ for annexin V apoptosis assay and cytokine measurements, respectively.
+     "This study investigated the association of IL-27 genetic polymorphisms with sepsis. The -964A>G polymorphism enhances IL-27 expression and inflammatory responses, increasing sepsis severity and mortality."
+
+  13. An updated advancement of bifunctional IL-27 in inflammatory autoimmune diseases
+     Wang-Dong Xu; Da-Cheng Wang; Ming Zhao; An-Fang Huang
+     PMC10985211 · PMC · 2024-03-19 · 30 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10985211/
+     Matched: IL-27 both inhibits and promotes the function of macrophage · cat /papers/PMC10985211/content.lines --lines 20
+     │ Figure 2: Impact of IL-27 on macrophage. Pathways regulated by IL-27 in the cytoplasm, and
+     │ IL-27 linked to multiple biological effects in the nucleus. (1) After ox-LDL stimulation or
+     │ CHIKV and HIV-1 infection, IL-27-treated macrophages activate JAK2 signaling, which then
+     │ leads to ABCA1 and STAT3 activation, promoting foam cell formation. On the other hand, the
+     │ signaling results in STAT1/STAT2/STAT3 activation, which synergizes with SOCS1/SOCS3
+     │ pathways, promote the transcription of MX-1, OAS2, PKR, EIF2AK, and APOBEC3G, or inhibit
+     │ PGE2 and COX-2. (2) External stimulation including TNFα, IL-1β, TLR2, TRL4, TLR7, and TLR8
+     │ on IL-27-treated macrophages activates signaling NF-κB, ERK, p38, and …
+     "This review summarizes IL-27's role in inflammatory autoimmune diseases. IL-27's dual pro- and anti-inflammatory functions suggest it's a promising therapeutic target."
+
+  14. Elevated Levels of Interleukin-27 in Early Life Compromise Protective Immunity in a Mouse Model of Gram-Negative Neonatal Sepsis
+     Brittany G. Seman; Jordan K. Vance; Travis W. Rawson; Michelle R. Witt; Annalisa B. Huckaby; Jessica...
+     PMC7035946 · PMC · 2020-02-20 · 25 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7035946/
+     Matched: INTRODUCTION · cat /papers/PMC7035946/content.lines --lines 13-14
+     │ Interleukin-27 (IL-27) is a heterodimeric cytokine that consists of the Epstein-Barr virus-
+     │ induced gene 3 (EBI3) and IL-27p28 proteins (15). Engagement of the IL-27 receptor, composed
+     │ of IL-27 receptor α (IL-27Rα) (also known as WSX-1 or T cell cytokine receptor [TCCR]) and
+     │ gp130, predominantly activates JAK-STAT signaling (16, –, 18). IL-27, similar to other
+     │ members of the IL-12 family, was originally described as a cytokine that could drive
+     │ proliferation of naive CD4+ T cells (19). However, mice deficient in IL-27Rα mount Th1
+     │ responses (18, [20], –, 23). In these same animals, models of chronic disease and infection
+     │ demonstrate T cell hyperactivity, suggesting that additional …
+     "Elevated IL-27 levels were observed in neonatal mice and human cord blood macrophages, and these levels increased during Gram-negative sepsis. This suggests IL-27 may compromise protective immunity in neonates, increasing sepsis severity."
+
+  15. Interleukin 27 is increased in carotid atherosclerosis and promotes NLRP3 inflammasome activation
+     Ida Gregersen; Øystein Sandanger; Erik T. Askevold; Ellen Lund Sagen; Kuan Yang; Sverre Holm; Turid ...
+     PMC5703457 · PLoS ONE · 2017-11-27 · 34 citations
+     https://doi.org/10.1371/journal.pone.0188387
+     Matched: IL-27 facilitates LPS signaling in THP-1 monocytes · cat /papers/PMC5703457/content.lines --lines 89-90
+     │ Our findings so far have shown that IL-27 stimulation can boost the effect of LPS on IL-1β
+     │ mRNA levels in THP-1 monocytes. LPS signals through TLR4, facilitated by LPS binding protein
+     │ (LBP), CD14 and MD-2. In an ordered reaction pathway these proteins alter the physical
+     │ presentation of endotoxin, resulting in amplification of host responsiveness to LPS through
+     │ TLR4 [30]. It has previously been demonstrated that IL-27 enhances TLR4 expression in
+     │ monocytes, and localization of CD14 to TLR4 [7], and it was recently shown that IL-27 gave a
+     │ modest increase in MD-2 expression in CD14+ THP-1 cells [27]. The effect of IL-27 on LBP is,
+     │ however, to the best of our knowledge, unknown. To further …
+     "This study investigated IL-27 in carotid atherosclerosis patients and its effects on the NLRP3 inflammasome. IL-27 was elevated in patients and promoted inflammasome activation in monocytes, suggesting a role in disease development."
+
+  16. IL-27-Ucp2-FoxO3 axis mediating the polarization of alternatively activated macrophages and ameliorating inflammatory pain
+     Yi Ma; Shuyuan Gan; Yueying Zheng; Xianhui Kang; Shengmei Zhu
+     PMC13061598 · PMC · 2026-04-01 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13061598/
+     Matched: INTRODUCTION · cat /papers/PMC13061598/content.lines --lines 19-20
+     "IL-27 promotes anti-inflammatory macrophage polarization by reprogramming their metabolism via Ucp2 and activating FoxO3. This IL-27-Ucp2-FoxO3 axis effectively alleviates inflammatory pain in mice."
+
+  17. Regulation of IL-27 p28 gene expression in macrophages through MyD88- and interferon-γ–mediated pathways
+     Jianguo Liu; Xiuqin Guan; Xiaojing Ma
+     PMC2118415 · PMC · 2007-01-22 · 163 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2118415/
+     Matched: cat /papers/PMC2118415/content.lines --lines 7-8
+     │ IL-27, a novel IL-12 family cytokine, is a heterodimeric molecule composed of Epstein-Barr
+     │ virus–induced gene 3 (EBI3), an IL-12 p40-related protein, and p28, an IL-12 p35-related
+     │ polypeptide (1). IL-27 is produced early by activated antigen-presenting cells in response
+     │ to microbial infection. It is able to induce clonal proliferation of naive but not memory
+     │ CD4+ T cells and synergizes with IL-12 in IFN-γ production by naive CD4+ T cells (1). IL-27
+     │ plays an important role in autoimmune disease and host defense against infection. IL-27
+     │ receptor/WSX-1 knockout mice show increased susceptibility to intracellular pathogens such
+     │ as Leishmania major (2) and Listeria momocytogenes (3) because of …
+     "This study investigated how inflammatory signals regulate the mouse IL-27 p28 gene in macrophages. LPS and IFN-γ induce p28 production through MyD88-dependent pathways, with additional dependencies on c-Rel and IRF1 respectively."
+
+  18. Integrated Functional and scRNA-Seq Analyses Reveal Convergence of M-CSF– and GM-CSF–Derived Macrophages Following IL-27 Polarization
+     Tomozumi Imamichi; Jun Yang; Qian Chen; Udeshika Kariyawasam; Mayra Marquez; Jeanette Higgins; Jorda...
+     PMC13025208 · PMC · 2026-03-16 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13025208/
+     Matched: 1. Introduction · cat /papers/PMC13025208/content.lines --lines 14-15
+     "IL-27 reprograms macrophages derived from different precursors into a similar state. This convergent polarization suggests IL-27 plays a key role in regulating macrophage plasticity and function."
+
+  19. Interleukin-27-polarized HIV-resistant M2 macrophages are a novel subtype of macrophages that express distinct antiviral gene profiles in individual cells: implication for the antiviral effect via different mechanisms in the individual cell-dependent manner
+     Tomozumi Imamichi; Jun Yang; Qian Chen; Suranjana Goswami; Mayra Marquez; Udeshika Kariyawasam; Homa...
+     PMC11931227 · PMC · 2025-03-10 · 11 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11931227/
+     Matched: Introduction · cat /papers/PMC11931227/content.lines --lines 18-19
+     "IL-27-polarized macrophages were studied for their HIV resistance and gene expression. These macrophages resist HIV through distinct antiviral gene expression patterns in individual cells, suggesting a novel subtype."
+
+  20. Interleukin-27-adipose-derived mesenchymal stromal cell-based gene therapy attenuates inflammation in lipopolysaccharide-induced acute respiratory distress syndrome
+     Grace E. Mulia; Viviana Galindo; Ying-Cheng Chen; Janelle W. Salameh; Marxa L. Figueiredo
+     PMC12481768 · PMC · 2025-09-29 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12481768/
+     Matched: IL-27 conditioned media reduces pro-inflammatory cytokine gene express · cat /papers/PMC12481768/content.lines --lines 110-113
+     │ The pathogenesis of ARDS involves interactions between many tissues in the lung
+     │ microenvironment, and thus, any immunological response is a culmination of crosstalk between
+     │ these tissues. Therefore, a lung epithelial-macrophage co-culture model was used to better
+     │ mimic this microenvironment and serve as an in vitro model for ARDS induced by LPS. The co-
+     │ culture assay was performed in a 6-well transwell with 0.4 μm membrane that prevents cell
+     │ migration but allows cell secretions to permeate through, facilitating cell-cell
+     │ communication. BEAS-2B and THP-1 cells were seeded at a ratio of 2:1, based on the estimated
+     │ lung-to-monocyte ratio in human lung composition [41]. In the monoculture of …
+     "This study investigated IL-27 gene therapy using adipose-derived mesenchymal stromal cells to treat ARDS. The therapy reduced inflammation and improved lung pathology in LPS-induced ARDS models."
+
+  21. IL-27 induces an IFN-like signature in murine macrophages which in turn modulate colonic epithelium
+     Caroline Andrews; Mairi H. McLean; Julie A. Hixon; Sergio M. Pontejo; Tregei Starr; Courtney Malo; M...
+     PMC10157156 · Frontiers in Immunology · 2023-04-20 · 8 citations
+     https://doi.org/10.3389/fimmu.2023.1021824
+     Matched: Discussion · cat /papers/PMC10157156/content.lines --lines 50-51
+     │ The therapeutic benefit of IL-27 we previously reported in mouse IBD models was associated
+     │ with induction of pSTAT1 in intestinal tissue (15). To investigate the mechanism of this
+     │ therapeutic benefit, we first examined the response of colonic epithelial cells to IL-27,
+     │ and to our surprise, found no IL-27 responses in either murine colonoids or freshly isolated
+     │ crypts. We presume this is attributable to a lack of detectable IL-27 receptors on these
+     │ cells. We then examined responses to IL-27 of macrophages which are present in inflamed gut
+     │ tissue. We observed that, in murine macrophages, IL-27 induced pSTAT1 and an IFN-like
+     │ response that was STAT1-dependent and showed anti-viral activity. …
+     "Murine macrophages were studied for their response to IL-27. IL-27 induces an IFN-like signature in macrophages, which then produce factors that affect colonic epithelium."
+
+  22. Anti-Inflammatory Effects of IL-27 in Zymosan-Induced Peritonitis: Inhibition of Neutrophil Recruitment Partially Explained by Impaired Mobilization from Bone Marrow and Reduced Chemokine Levels
+     Ralf Watzlawick; Elisabeth E. Kenngott; Francesca Diane M. Liu; Jan M. Schwab; Alf Hamann
+     PMC4567321 · PMC · 2015-09-11 · 24 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4567321/
+     Matched: Introduction · cat /papers/PMC4567321/content.lines --lines 13-16
+     │ IL-27, a multifaceted cytokine, principally exerts both stimulatory and inhibitory actions
+     │ within the immune system. Most in vivo studies, however, have highlighted its role in
+     │ dampening immune responses and limiting inflammation. Indeed, IL-27 is a key inducer of the
+     │ inhibitory cytokine IL-10 in T cells which in turn suppresses the pro-inflammatory cytokine
+     │ IL-17. Moreover, IL-27 is able to directly suppress the production of IFNγ and other
+     │ inflammatory cytokines in T cells [1–3]. While the effects of IL-27 on T cells are well
+     │ studied, increasing evidence suggest additional, poorly investigated regulatory effects on
+     │ other cells, notably cells of the innate system. IL-27 is a member of the …
+     "IL-27 was studied for its anti-inflammatory effects in zymosan-induced peritonitis. It was found to reduce neutrophil recruitment by impairing bone marrow mobilization and lowering chemokine levels."
+
+  23. Interleukin-27 in Tuberculosis: A Sheep in Wolf’s Clothing?
+     Kristina Ritter; Jasmin Rousseau; Christoph Hölscher
+     PMC8803639 · PMC · 2022-01-18 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8803639/
+     Matched: IL-27 and the IL-27 Receptor · cat /papers/PMC8803639/content.lines --lines 19-20
+     │ IL-27, which was first described in 2002, is a member of the IL-6/IL-12 cytokine family
+     │ (49–51). It forms a heterodimeric complex comprising of the α−subunit IL-27p28, a four-α-
+     │ helix bundle protein, and the β subunit Epstein-Barr virus-induced gene 3 (EBI-3), which is
+     │ structurally related to soluble receptors of this cytokine family ( Figure 1 ). IL-27 is
+     │ released by activated MΦ and DC (50, 52). Its signal transduction occurs through binding to
+     │ a heterodimeric receptor complex consisting of the specific subunit IL-27Rα [formerly known
+     │ also as WSX-1 or TCCR (T cell cytokine receptor)] and the ubiquitous gp-130 subunit (53)(
+     │ Figure 1 ). The IL-27R is expressed on various immune cells but …
+     "This review examines the dual role of IL-27 in tuberculosis, influencing both infection control and immunopathology. IL-27's effects suggest potential therapeutic strategies for TB management."
+
+  24. Editorial: IL-27 in health and disease
+     Tomozumi Imamichi; Xue-Feng Bai; Cory Robinson; Katrina Gee
+     PMC10102607 · PMC · 2023-03-31 · 9 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10102607/
+     Matched: cat /papers/PMC10102607/content.lines --lines 10-12
+     │ IL-27 is an immunoregulatory cytokine belonging to the IL-12 and IL-6 cytokine families.
+     │ Identified in 2002, this cytokine is heterodimeric, composed of EBI3 and p28 subunits, and
+     │ interacts with a heterodimeric receptor composed of WSX-1 and gp130. Produced mainly by
+     │ antigen-presenting cells in response to stimulation of pattern recognition receptors, early
+     │ roles for this cytokine were identified to be in the promotion of naïve CD4 T cell
+     │ proliferation and Th1 differentiation. However, a wide spectrum of different functions for
+     │ this cytokine quickly became apparent and have since been identified to range from promoting
+     │ or curbing inflammatory diseases, cancers, and viral infections. Due to …
+
+  25. IL-27 Inhibits Anti-Mycobacterium tuberculosis Innate Immune Activity of Primary Human Macrophages
+     Hailey Gollnick; Jamie Barber; Robert J Wilkinson; Sandra Newton; Ankita Garg
+     PMC10052773 · PMC · 2023-02-24 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10052773/
+     Matched: IL27 and intracellular replication of M. tuberculosis · cat /papers/PMC10052773/content.lines --lines 48-49
+     │ Jung et al demonstrated IL-27 inhibits vacuolar ATPase to downregulate the bactericidal
+     │ activity of macrophages for Gram (+) and Gram (−) bacteria, and M. tuberculosis [15], [16].
+     │ In the next set of experiments, we sought to determine the effect of IL-27 on the
+     │ intracellular replication of M. tuberculosis. For this, macrophages were infected with M.
+     │ tuberculosis at an MOI 1:5 for 3 hours and subsequently treated with neutralizing IL-27
+     │ antibody or rIL-27. Intracellular replication of M. tuberculosis was determined at day-3
+     │ post-infection. We found increased mycobacterial counts in the cellular lysates at day-3
+     │ post-infection compared to day-0 cellular lysates (26 ± 4.3 x 104 vs 197 ± 23.4 x …
+     "This study investigated how IL-27 affects human macrophages' response to *Mycobacterium tuberculosis*. IL-27 was found to suppress anti-mycobacterial activity, hindering bacterial clearance."
+
+[2.7s, saved to s_c00f0200]
+
+💡 Extract data across these results with: map --from s_c00f0200 "your question"
+[2.7s, saved to s_c00f0200]  [repo: mva-lof-molecular]
+

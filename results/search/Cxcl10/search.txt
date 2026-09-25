@@ -1,0 +1,261 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Cxcl10 (C-X-C motif chemokine ligand 10) LPS macrophage
+# exit 0
+Found 25 papers  [s_c4f8d4e8]
+
+  1. Pathogenic Roles of CXCL10 in Experimental Autoimmune Prostatitis by Modulating Macrophage Chemotaxis and Cytokine Secretion
+     Xiaoliang Hua; Shengdong Ge; Meng Zhang; Fan Mo; Ligang Zhang; Jiong Zhang; Cheng Yang; Sheng Tai; X...
+     PMC8511489 · PMC · 2021-09-29 · 63 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8511489/
+     Matched: CXCL10 Promotes the Secretion of Inflammatory Mediators of Macrophages · cat /papers/PMC8511489/content.lines --lines 75-76
+     │ In addition to induction of the migration of macrophages, whether CXCL10 could independently
+     │ trigger the production of cytokines was confirmed. BMDMs from EAP mice were stimulated with
+     │ AMG487 (1 μM) and rmCXCL10 (100 ng/ml) before LPS (50 ng/ml), and the changes of gene
+     │ expression levels of cytokines were analyzed using RT-qPCR. RT-qPCR measurement for the
+     │ expressions of inflammatory factors showed that IL-6 and MCP1 were increased after rmCXCL10
+     │ treatment with and without LPS for 3 h ( Figures 7A, B ). Pretreatment with AMG487 decreased
+     │ the expression of IL-6 and MCP1 induced by LPS ( Figures 7A, B ). These results suggested
+     │ CXCL10 could promote secretions of IL-6 and MCP1 of macrophages …
+     "This study investigated the CXCL10/CXCR3 pathway's role in experimental autoimmune prostatitis. Elevated CXCL10 promotes macrophage infiltration and inflammation via CXCR3, exacerbating prostatitis."
+
+  2. Inhibition of the CXCL9-CXCR3 axis suppresses the progression of experimental apical periodontitis by blocking macrophage migration and activation
+     Tatsuya Hasegawa; V. Venkata Suresh; Yoshio Yahata; Masato Nakano; Shigeto Suzuki; Shigeki Suzuki; S...
+     PMC7844264 · PMC · 2021-01-28 · 44 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7844264/
+     Matched: Effect of CXCL9 on activation of peritoneal macrophages · cat /papers/PMC7844264/content.lines --lines 29
+     │ Peritoneal macrophages were prepared as described previously[45]. Briefly, cell suspensions
+     │ were divided into four groups in a 6-well plate, cultured for 1 h, and then washed twice to
+     │ remove non-adherent cells and used as peritoneal macrophages. These cells were later treated
+     │ with LPS (100 ng/mL), recombinant mouse (rm) CXCL9 (100 ng/mL, 492-MM; R&D Systems) or LPS
+     │ (100 ng/mL) and rmCXCL9 (100 ng/mL) in the presence of 10% FBS for 24 h. After incubation,
+     │ the cells were assayed by the gene expression analysis of Cxcl9, Cxcl10, Il1b, Il6, Mmp2,
+     │ Tnf (primer lists: sTable 1), as described previously[44].
+     "The CXCL9-CXCR3 axis was studied in experimental apical periodontitis. Blocking this axis suppresses disease progression by inhibiting macrophage migration and activation."
+
+  3. CXCL10/IP-10 Neutralization Can Ameliorate Lipopolysaccharide-Induced Acute Respiratory Distress Syndrome in Rats
+     Shan Lang; Libing Li; Xuning Wang; Junping Sun; Xinying Xue; Yongjiu Xiao; Mingyue Zhang; Ting Ao; J...
+     PMC5207674 · PMC · 2017-01-03 · 69 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5207674/
+     Matched: Neutralization of CXCL10 decreased inflammatory cells recruitment in L · cat /papers/PMC5207674/content.lines --lines 80-82
+     │ We utilized flow cytometry to investigate total cells, neutrophils, macrophages and T
+     │ lymphocytes changes in BALF. T lymphocytes were separated by CD3 and then further delineated
+     │ by CD3+CD4+ and CD3+CD8+. After LPS was given, the total cell numbers in BALF were
+     │ significantly increased compared with the saline control group (13.66±1.87×106 vs.
+     │ 1.49±0.41×106, p<0.01). The absolute number and the percent of neutrophils (11.57±1.41×106
+     │ and 85.05±6.64% vs. 0.54±0.39×106 and 33.81±18.24%, p<0.01), macrophages (10.79±7.56×105 and
+     │ 8.02±5.54% vs. 0.37±0.19×105and 2.45±1.05%, p<0.05) and CD3+CD8+ lymphocytes
+     │ (5.0±3.77×104and 36.46±4.17% vs. 0.44±0.48×104and 28.12±5.53%, p<0.05) also significantly …
+     "This study investigated CXCL10's role in LPS-induced ARDS in rats. Neutralizing CXCL10 reduced ARDS severity by decreasing inflammation and immune cell infiltration."
+
+  4. Anti-Neuroinflammatory Effects of a Macrocyclic Peptide-Peptoid Hybrid in Lipopolysaccharide-Stimulated BV2 Microglial Cells
+     Lu Sun; Soraya Wilke Saliba; Matthias Apweiler; Kamil Akmermer; Claudine Herlan; Christoph Grathwol;...
+     PMC11049839 · PMC · 2024-04-18 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11049839/
+     Matched: 2.7. Effects of X15856 on Gene Expression and Protein Synthesis of CXC · cat /papers/PMC11049839/content.lines --lines 33
+     │ CXCL10, also called interferon-inducible protein (IP-10), promotes chemotaxis and modulates
+     │ the inflammatory responses of cells [43] contributing to depression [44,[45],46]. The LPS
+     │ stimulation of BV2 microglial cells significantly upregulated the expression and release of
+     │ CXCL10. X15856 showed a concentration-dependent inhibition of LPS-stimulated CXCL10 gene
+     │ expression and protein synthesis. A significant inhibition of CXCL10 gene expression started
+     │ at concentrations of 10 μM (Figure 7A) and a significant inhibition of CXCL10 release from a
+     │ concentration of 5 μM (Figure 7B).
+     "A macrocyclic peptide-peptoid hybrid was tested for anti-inflammatory effects in LPS-stimulated microglial cells. The compound significantly suppressed inflammatory markers and modulated key signaling pathways, showing promise for neuroinflammatory disorders."
+
+  5. Macrophage TRIM21 lactylation exacerbates infection-induced orchitis through enhancing STAT1-mediated CXCL9 and CXCL10 production
+     Wenjing Tang; Wenjie Chen; Na Li; Wei Li; Zhigang Lei; Wenhui Sun; Xuan Xie; Yihong Jiang; Ying Chen...
+     PMC12847007 · PMC · 2026-01-14 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12847007/
+     Matched: Macrophages are a predominant cellular source of CXCL9 and CXCL10 in t · cat /papers/PMC12847007/content.lines --lines 31-32
+     "Macrophage TRIM21 lactylation was studied in infection-induced orchitis models. Lactylated TRIM21 enhances STAT1-mediated CXCL9/10 production, worsening testicular inflammation and spermatogenic disruption."
+
+  6. Evidence for investigating GSK-3 inhibitors as potential therapeutics for severe COVID-19
+     Davoud Ghazanfari; Maria Cecilia Courreges; Lydia Belinski; Stephen C. Bergmeier; Kelly D. McCall; D...
+     PMC8924054 · PMC · 2022-03-16 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8924054/
+     Matched: Treatment of THP-1 macrophages with SARS-CoV-2 proteins and LPS · cat /papers/PMC8924054/content.lines --lines 24-25
+     "This study investigated the role of GSK-3 in SARS-CoV-2 induced cytokine production. GSK-3 inhibitors were shown to reduce the production of CXCL10, suggesting their therapeutic potential for severe COVID-19."
+
+  7. Advanced glycation end-products reduce lipopolysaccharide uptake by macrophages
+     Atsuhiro Kitaura; Takashi Nishinaka; Shinichi Hamasaki; Omer Faruk Hatipoglu; Hidenori Wake; Masahir...
+     PMC7833212 · PLoS ONE · 2021-01-25 · 13 citations
+     https://doi.org/10.1371/journal.pone.0245957
+     Matched: Quantitation of CXCL10 in cell culture supernatants · cat /papers/PMC7833212/content.lines --lines 30
+     "Advanced glycation end-products (AGEs) were studied for their effect on lipopolysaccharide (LPS) uptake by macrophages. AGEs reduce LPS uptake by downregulating CD14 expression via the receptor for AGEs (RAGE)."
+
+  8. The role of CXCL10 in the pathogenesis of experimental septic shock
+     Daniela S Herzig; Liming Luan; Julia K Bohannon; Tracy E Toliver-Kinsky; Yin Guo; Edward R Sherwood
+     PMC4075230 · PMC · 2014-06-02 · 46 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4075230/
+     Matched: Results · cat /papers/PMC4075230/content.lines --lines 15
+     "This study investigated CXCL10's role in experimental septic shock. Blocking CXCL10 improved survival and reduced inflammation and hypothermia in mice."
+
+  9. Lipopolysaccharide worsens the prognosis of experimental cerebral ischemia via interferon gamma-induced protein 10 recruit in the acute stage
+     Ping Wang; Jiaqi Zhang; Feifei Guo; Shuang Wang; Yi Zhang; Defeng Li; Haiyu Xu; Hongjun Yang
+     PMC6935231 · PMC · 2019-12-27 · 17 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6935231/
+     Matched: Increased levels of CXCL10 in brain homogenates and plasma · cat /papers/PMC6935231/content.lines --lines 154
+     │ The production of CXCL10 in brain homogenates and plasma was measured by ELISA kit according
+     │ to the manufactures protocol. The levels of CXCL 10 in three treated groups were
+     │ significantly higher than that in Sham group, and highest in MCAO + LPS group as 3505.07
+     │ pg/mg and 483.88 pg/ml, no matter in brain homogenates or plasma (Fig. 6c, d). Moreover, the
+     │ levels in brain homogenates were generally ten times higher than that in plasma.
+     "Systemic inflammation induced by lipopolysaccharide (LPS) worsened experimental cerebral ischemia in rats. This aggravation was linked to increased Interferon gamma-induced protein 10 (IP-10) in the acute stage, leading to greater brain damage."
+
+  10. CXCL10 deficiency limits macrophage infiltration, preserves lung matrix, and enables lung growth in bronchopulmonary dysplasia
+     Dharmesh V. Hirani; Florian Thielen; Siavash Mansouri; Soula Danopoulos; Christina Vohlen; Pinar Haz...
+     PMC10594718 · PMC · 2023-10-24 · 30 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10594718/
+     Matched: Hyperoxia induces Cxcl10 that drives migration of human and murine mac · cat /papers/PMC10594718/content.lines --lines 44-45
+     "This study investigated the role of CXCL10 in hyperoxia-induced lung injury and bronchopulmonary dysplasia. CXCL10 deficiency protected lungs from injury by reducing macrophage infiltration and preserving lung matrix, suggesting targeting the CXCL10-CXCR3 axis could be a BPD therapy."
+
+  11. Identification of the Molecular Mechanism by which TLR Ligation and IFN-γ Synergize to Induce Mig
+     Jonathan D. Powell, Sada Boodoo, Maureen R. Horton
+     PMC2275409 · PMC · 2004-03-01 · 13 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2275409/
+     "This study investigated how TLR ligation and IFN-γ synergize to induce MIG expression in macrophages. The synergy is mediated by LPS-induced NF-κB and IFN-γ-induced STAT binding to the MIG promoter."
+
+  12. Pathogenic roles of CXCL10 signaling through CXCR3 and TLR4 in macrophages and T cells: relevance for arthritis
+     Jong-Ho Lee; Bongjun Kim; Won Jong Jin; Hong-Hee Kim; Hyunil Ha; Zang Hee Lee
+     PMC5518115 · PMC · 2017-07-19 · 125 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5518115/
+     Matched: Conclusions · cat /papers/PMC5518115/content.lines --lines 94
+     "CXCL10 recruits inflammatory cells via CXCR3 and stimulates osteoclastogenic cytokine production through both CXCR3 and TLR4. This signaling pathway is crucial for arthritis progression, as blocking it reduces inflammation and bone destruction."
+
+  13. CXCL10-Mediates Macrophage, but not Other Innate Immune Cells-Associated Inflammation in Murine Nonalcoholic Steatohepatitis
+     Kyoko Tomita; Brittany L. Freeman; Steven F. Bronk; Nathan K. LeBrasseur; Thomas A. White; Petra Hir...
+     PMC4923862 · PMC · 2016-06-28 · 118 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4923862/
+     Matched: CXCL10−/− mice are protected against FFC diet-induced macrophage-assoc · cat /papers/PMC4923862/content.lines --lines 20-21
+     "This study investigated CXCL10's role in murine nonalcoholic steatohepatitis (NASH) by comparing wild-type and CXCL10-deficient mice. Deleting CXCL10 attenuated liver inflammation, injury, and fibrosis, primarily by reducing macrophage infiltration."
+
+  14. Protection mediated by chemokine CXCL10 in BALB/c mice infected by Leishmania infantum
+     Webertty Mayk Eufrásio Figueiredo; Sayonara de Melo Viana; Dorotheia Teixeira Alves; Priscila Valera...
+     PMC5530548 · PMC · 2017 · 13 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5530548/
+     Matched: DISCUSSION · cat /papers/PMC5530548/content.lines --lines 48-49
+     "CXCL10 was studied for its role in controlling *Leishmania infantum* infection in mice. CXCL10 reduced parasite load and suppressed IL-10 and TGF-β, suggesting a partial protective effect."
+
+  15. Role of Chemokine (C–X–C Motif) Ligand 10 (CXCL10) in Renal Diseases
+     Jie Gao; Lingling Wu; Siyang Wang; Xiangmei Chen
+     PMC7025113 · PMC · 2020-02-05 · 65 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7025113/
+     Matched: 2. Chemokine CXCL10 and Its Receptor CXCR3 · cat /papers/PMC7025113/content.lines --lines 11-13
+     │ CXCL10 is also named IP-10. The human Cxcl10 gene was initially isolated in 1985 by Luster
+     │ et al. [8] after treating a lymphoma cell line (U937) with recombinant interferon- (IFN-) γ.
+     │ Many cytokines may regulate the cellular expression of the Cxcl10 gene. CXCL10 is strongly
+     │ induced by IFN-γ and by the type I IFNs IFN-α/β and weakly induced by tumor necrosis factor,
+     │ although tumor necrosis factor synergizes strongly with IFNs to induce CXCL10 [9]. Not
+     │ surprisingly, the induction of CXCL10 occurs almost universally in humans during the course
+     │ of cell-mediated immune responses evoked in a variety of pathologic states, including
+     │ infection, allograft rejection, and autoimmunity [10]. Under …
+     "This paper reviews the role of CXCL10 in kidney diseases. CXCL10 is involved in disease pathogenesis and can serve as a biomarker and therapeutic target."
+
+  16. CXCL10 Controls Inflammatory Pain via Opioid Peptide-Containing Macrophages in Electroacupuncture
+     Ying Wang; Rebekka Gehringer; Shaaban A. Mousa; Dagmar Hackel; Alexander Brack; Heike L. Rittner
+     PMC3986408 · PMC · 2014-04-14 · 58 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3986408/
+     Matched: The broad spectrum of CXCL10-mediated actions in inflammation · cat /papers/PMC3986408/content.lines --lines 65
+     │ Electroacupuncture augmented the CXCL10 expression both on the transcriptional and
+     │ translational level and increased the number of opioid containing CXCR3+ macrophages as well
+     │ as long-lasting antinociception. Repeated injections of CXCL10 reversed hyperalgesia in CFA
+     │ rats. Similarly, repeated anti-CXCL10 in EA-treated animals lessened the antinociceptive
+     │ effect of EA. CXCL10 is upregulated by IFN-gamma, which was also increased after treatment
+     │ with electroacupuncture. CXCL10 is a chemoattractant for activated T cells,
+     │ monocytes/macrophages, dendritic cells and microglia [24]. In addition to recruiting
+     │ inflammatory cells, CXCL10 induced astroglial proliferation and is directly neurotoxic …
+     "Electroacupuncture was studied for its effects on inflammatory pain in rats. CXCL10 was found to increase opioid-containing macrophages, mediating electroacupuncture's pain relief."
+
+  17. Therapeutic effect of anti-C-X-C motif chemokine 10 (CXCL10) antibody on C protein-induced myositis mouse
+     Jinhyun Kim; Ji Yong Choi; Sung-Hye Park; Seung Hee Yang; Ji Ah Park; Kichul Shin; Eun Young Lee; Hi...
+     PMC4095607 · PMC · 2014-06-17 · 33 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4095607/
+     Matched: Introduction · cat /papers/PMC4095607/content.lines --lines 20-21
+     │ Chemokines are 8- to 10-kDa proteins with 20 to 70% amino acid sequence homology and produce
+     │ chemotactic activity in various cells, especially immune cells [1]. To date, approximately
+     │ 50 different chemokines and at least 20 different receptors have been identified [2]. Among
+     │ them, C-X-C motif chemokine 10 (CXCL10; also known as interferon-γ inducible protein-10,
+     │ IP-10) is a chemokine that potentially plays a role in the immunopathogenesis of autoimmune
+     │ disease such as rheumatoid arthritis, systemic lupus erythematosus, systemic sclerosis, and
+     │ idiopathic inflammatory myopathy (IIM) [3-6]. It can be secreted by various cell types, such
+     │ as, monocytes, neutrophils, endothelial cells, …
+     "This study investigated the role of CXCL10 in C protein-induced myositis and the therapeutic effect of anti-CXCL10 antibody. Blocking CXCL10 significantly reduced muscle inflammation in this myositis model."
+
+  18. Data on the expression of CXCR3 ligands and pro-inflammatory cytokines in macrophages and CD4+ T cells after stimuli of CXCR3 ligands
+     Bongjun Kim; Jong-Ho Lee; Won Jong Jin; Hong-Hee Kim; Hyunil Ha; Zang Hee Lee
+     PMC5996269 · PMC · 2018-03-15 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5996269/
+     Matched: cat /papers/PMC5996269/content.lines --lines 10-21
+     │ Specifications Table Table Subject area | Biology More specific subject area | Chemokine
+     │ biology Type of data | Figure, Graph How data was acquired | Real-time PCR Data format |
+     │ Analyzed Experimental factors | Bone marrow cells were obtained by flushing tibiae and
+     │ femora of mice and non-adherent cells were expanded for three days using M-CSF to generate
+     │ bone marrow derived macrophages. CD4+T cells were obtained from spleen of mice using CD4+T
+     │ cell isolation kit, and activated for three days using anti-CD3 antibody, anti-CD28
+     │ antibody, and IL-2. Experimental features | Serum starved Bone marrow derived macrophages
+     │ and CD4+T cells were cultured with DMSO or JN-2 in the presence or absence of …
+     "This study examined mRNA expression of CXCL9 and CXCL11 in macrophages and CD4+ T cells stimulated with CXCL10, and pro-inflammatory cytokine expression stimulated by CXCL9 or CXCL11. The findings describe how these ligands influence inflammatory responses in these cell types."
+
+  19. Neuroprotection by Preconditioning in Mice is Dependent on MyD88-Mediated CXCL10 Expression in Endothelial Cells
+     Zhihong Chen; Weiwei Hu; Mynor J. Mendez; Zachary C. Gossman; Anthony Chomyk; Brendan T. Boylan; Gra...
+     PMC9810995 · PMC · 2023-01-02 · 12 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9810995/
+     Matched: Endothelial CXCL10 is Essential for LPS-Induced Neuroprotection · cat /papers/PMC9810995/content.lines --lines 62-63
+     │ Four daily IP LPS injections are prophylactic, protect against TBI induced by cryogenic
+     │ injury, and depend upon microglia activation prior to induction of TBI (Chen et al., 2012,
+     │ 2014). To investigate whether CXCL10 is necessary for the neuroprotection provided by LPS
+     │ preconditioning, WT and Cxcl10−/− mice were subjected to cryogenic injury and
+     │ neurobehavioral tests (Figure 5A to C). WT mice pretreated with four LPS injections had
+     │ significantly smaller lesion volumes than those treated with PBS (Figure 5B; 7.6 ± 2.3 mm3
+     │ vs. 10.6 ± 2.2 mm3, P < .05). However, this protection was abolished in Cxcl10−/− mice
+     │ (Figure 5B; 9.2 ± 1.1 mm3 vs. 8.6 ± 3.1 mm3). The beam-walk test was used to determine …
+     "This study investigated how preconditioning protects the brain from injury. It found that endothelial cell CXCL10 expression, mediated by MyD88, is crucial for this neuroprotection."
+
+  20. CXCL10 secreted by SPRY1-deficient epidermal keratinocytes fuels joint inflammation in psoriatic arthritis via CD14 signaling
+     Fan Xu; Ying-Zhe Cui; Xing-Yu Yang; Yu-Xin Zheng; Xi-Bei Chen; Hao Zhou; Zhao-Yuan Wang; Yuan Zhou; ...
+     PMC12321389 · PMC · 2025-06-05 · 12 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12321389/
+     Matched: Keratinocyte-derived CXCL10 binds to CD14 and mediates a proinflammato · cat /papers/PMC12321389/content.lines --lines 42-43
+     "Epidermis-specific SPRY1 deficiency in mice caused psoriatic arthritis-like inflammation. This was driven by keratinocyte-secreted CXCL10, which activated periarticular CD14 hi macrophages to produce TNF-α."
+
+  21. Myometrial‐derived CXCL12 promotes lipopolysaccharide induced preterm labour by regulating macrophage migration, polarization and function in mice
+     Lijuan Zhang; Ramanaiah Mamillapalli; Shutaro Habata; Molly McAdow; Hugh S. Taylor
+     PMC9077289 · PMC · 2022-03-23 · 15 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9077289/
+     Matched: CXCR4 expression in macrophages · cat /papers/PMC9077289/content.lines --lines 64
+     │ We determined the expression of CXCR4 in macrophages cultured in vitro. Figure S1
+     │ demonstrates that the number CXCR4+ve macrophages were significantly decreased (1.5‐fold) by
+     │ LPS treatment compared with PBS.
+     "This study investigated the role of myometrial CXCL12 in lipopolysaccharide-induced preterm labor in mice. Myometrial CXCL12 promotes preterm labor by regulating macrophage migration and polarization, and blocking this pathway prevents preterm labor."
+
+  22. Dietary fats suppress the peritoneal seeding of colorectal cancer cells through the TLR4/Cxcl10 axis in adipose tissue macrophages
+     Wei Xiang; Rongchen Shi; Dapeng Zhang; Xia Kang; Lili Zhang; Jing Yuan; Xuan Zhang; Hongming Miao
+     PMC7566605 · PMC · 2020-10-15 · 44 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7566605/
+     Matched: HFD stimulates C-X-C chemokine motif ligand 10 (Cxcl10)-dependent T ce · cat /papers/PMC7566605/content.lines --lines 25-26
+     "A high-fat diet was studied for its effect on colorectal cancer cell seeding in mice. The diet suppressed seeding by activating adipose tissue macrophages via the TLR4/Cxcl10 axis, enhancing tumor phagocytosis and T cell recruitment."
+
+  23. The role of CXCL10 in high‐fat diet–induced skeletal muscle inflammation and atrophy
+     An Liyuan; Yu Hirata; Tomoya Inoue; Kenji Sugawara; Wataru Ogawa
+     PMC13137287 · PMC · 2026-02-22 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13137287/
+     Matched: CXCL10 mediates LPS‐induced myotube atrophy in vitro · cat /papers/PMC13137287/content.lines --lines 47-49
+     "High-fat diets induce skeletal muscle atrophy and inflammation, partly mediated by CXCL10. Neutralizing CXCL10 reduces muscle fiber atrophy and inflammation in mice. This suggests CXCL10 blockade could be a therapeutic target for preserving muscle mass."
+
+  24. CXCL10/CXCR3 axis facilitates the M2 polarization of macrophages in colorectal cancer via activating RAF
+     Xi Sun; Weijian Chu; Yi Wei; Danwei Du; Yanyan Li
+     PMC12796076 · PMC · 2025-12-08 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12796076/
+     Matched: Discussion · cat /papers/PMC12796076/content.lines --lines 83-84
+     "The CXCL10/CXCR3 axis was studied in colorectal cancer (CRC) to understand its role in macrophage polarization. This axis promotes M2 macrophage polarization via the RAF/ERK pathway, facilitating CRC progression."
+
+  25. Anti-Inflammatory Effects of Cicadidae Periostracum Extract and Oleic Acid through Inhibiting Inflammatory Chemokines Using PCR Arrays in LPS-Induced Lung inflammation In Vitro
+     Jung-Hee Hong; Young-Cheol Lee
+     PMC9225349 · PMC · 2022-06-08 · 15 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9225349/
+     Matched: 3.3.1. Modulatory Effects of CP and OA Treatments on mRNA Gene Express · cat /papers/PMC9225349/content.lines --lines 78-80
+     "Cicadidae periostracum (CP) and oleic acid (OA) extracts were studied for anti-inflammatory effects in LPS-induced lung inflammation. Both CP and OA significantly inhibited inflammatory chemokines and cytokines by suppressing key signaling pathways."
+
+[136ms, saved to s_c4f8d4e8]
+
+💡 Extract data across these results with: map --from s_c4f8d4e8 "your question"
+[136ms, saved to s_c4f8d4e8]  [repo: mva-lof-molecular]
+

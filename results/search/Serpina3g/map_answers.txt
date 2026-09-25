@@ -1,0 +1,194 @@
+Map results  [m_6a535a0b]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Serpina3g (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+
+--- [1] [success] Comparative Analyses of Transcriptional Profiles in Mouse Organs Using a Pneumonic Plague Model after Infection with Wild-Type Yersinia pestis CO92 and Its Braun Lipoprotein Mutant ---
+doc_id: PMC2817383
+{
+  "answer": "yes",
+  "evidence": "Also upregulated in WT Y. pestis-infected mice were the IFN-g-regulated serine proteases Serpina3g and Serpina3n (Supplementary, Table 2), which can inhibit caspase-independent death [32] and assist in the development of memory CD8 T cells [33].",
+  "context": "We employed Murine GeneChips to delineate the global transcriptional profiles of the livers, lungs, and spleens in a mouse pneumonic plague infection model with wild-type (WT) Y. pestis CO92 and its Braun lipoprotein (\\u0394l p p) mutant with reduced virulence."
+}
+
+--- [2] [success] Adventitial macrophage accumulation impairs perivascular nerve function in mesenteric arteries with inflammatory bowel disease ---
+doc_id: bio_582891fd6ece
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [3] [success] The renal inflammatory network of nephronophthisis ---
+doc_id: bio_182dc4406e54
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [4] [success] Genome-wide siRNA screen of genes regulating the LPS-induced TNF-α response in human macrophages ---
+doc_id: PMC5332009
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [5] [success] Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC6543837
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [6] [success] Hepatic Gene Expression Profiling in Nrf2 Knockout Mice after Long-Term High-Fat Diet-Induced Obesity ---
+doc_id: PMC3654373
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [7] [success] LPS Counter Regulates RNA Expression of Extracellular Proteases and Their Inhibitors in Murine Macrophages ---
+doc_id: PMC3317238
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [8] [success] Analysis of the transcriptional networks underpinning the activation of murine macrophages by inflammatory mediators ---
+doc_id: PMC4378362
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [9] [success] Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC7053374
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [10] [success] Transcriptional profiling of the LPS induced NF-κB response in macrophages ---
+doc_id: PMC1781469
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [11] [success] N6-methyladenosine of Spi2a attenuates inflammation and sepsis-associated myocardial dysfunction in mice ---
+doc_id: PMC9979126
+{
+  "answer": "yes",
+  "evidence": "Moreover, LPS upregulated Spi2a expression in macrophages in a dose-dependent manner at both mRNA and protein levels (Fig. 1b, c and S1d, e), indicating Spi2a might play a critical role in activated macrophages upon LPS treatment.",
+  "context": ""
+}
+
+--- [12] [success] Relationship between Circulating Serpina3g, Matrix Metalloproteinase-9, and Tissue Inhibitor of Metalloproteinase-1 and -2 with Chronic Obstructive Pulmonary Disease Severity ---
+doc_id: PMC6406460
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [13] [success] Monocyte normal immune response to LPS stimulation ---
+doc_id: PMC3333514
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [14] [success] The Transcription Factor C/EBP-β Mediates Constitutive and LPS-Inducible Transcription of Murine SerpinB2 ---
+doc_id: PMC3589482
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [15] [success] Epigenetic profile in lipopolysaccharide-stimulated macrophages ---
+doc_id: PMC3953056
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [16] [success] Serine Supports IL-1β Production in Macrophages Through mTOR Signaling ---
+doc_id: PMC7481448
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [17] [success] Selection of reliable reference genes for the normalisation of gene expression levels following time course LPS stimulation of murine bone marrow derived macrophages ---
+doc_id: PMC5627409
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [18] [success] Cooperative and distinct functions of MK2 and MK3 in the regulation of the macrophage transcriptional response to lipopolysaccharide ---
+doc_id: PMC6667695
+{
+  "answer": "yes",
+  "evidence": "Using this threshold, the heat maps further suggested that the regulatory pattern (wt > MK2\u2212/\u2212, MK2/3\u2212/\u2212 > MK2\u2212/\u2212) observed for Ifnb1 is not only the case for Ifnb1, but also for other genes including genes like Ccl12, Iigp1, Serpina3f and Serpina3g (Supplemental Fig. S2g).",
+  "context": "Bone marrow-derived macrophages (BMDM) were isolated from wild-type (wt), MK2-deficient (MK2−/−) and MK2/3-double-deficient (MK2/3−/−) mice and treated with 100 ng/ml LPS for 2 (a) or 6 (b) h."
+}
+
+--- [19] [success] Macrophage phenotype in sepsis immunosuppression ---
+doc_id: PMC4470529
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [20] [success] Semaphorin 3G exacerbates joint inflammation through the accumulation and proliferation of macrophages in the synovium ---
+doc_id: bio_8463ddc16c3c
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [21] [success] Endotoxin-Binding Peptides Derived from Casein Glycomacropeptide Inhibit Lipopolysaccharide-Stimulated Inflammatory Responses via Blockade of NF-κB activation in macrophages ---
+doc_id: PMC4446742
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [22] [success] Sex differences in nociceptor translatomes contribute to divergent prostaglandin signaling in male and female mice ---
+doc_id: bio_78de31c56fc5
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [23] [success] Endogenous SLPI contributes to the regulation of inflammatory responses in peritoneal macrophages by modulating MMP-9 production ---
+doc_id: PMC12149117
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [24] [success] Serglycin modulates inflammation and metabolism in macrophages ---
+doc_id: PMC13062519
+{
+  "answer": "yes",
+  "evidence": "Among 1,507 quantified proteins, 53 were significantly differentially abundant in wild-type vs. SRGN-KO cells (adjusted p-value <0.05) (Figure 4A and Table S11). As expected, serglycin was the most downregulated protein in the secretome of knockout cells. Enrichment analysis revealed that proteins associated with IFN-γ and -α and TNF-α signaling via NF-κB (SERPINB2, TNFAIP2, IL6, SERPINB8, TNFAIP8) were upregulated in the secretome of SRGN-KO macrophages, i.e., in analogy with the findings from the RNA-Seq approach (Figure S3A).",
+  "context": "THP-1 monocytes were differentiated into macrophage-like cells using 150 ng/mL phorbol 12- myristate 13-acetate (PMA; Sigma-Aldrich, Cat. No. P8139) for 24 hours, followed by a 24- hour recovery period in PMA-free medium. Cells were then polarized to either an M0 (resting) or M1 (proinflammatory) state by culturing in RPMI medium containing either vehicle (M0) or 20 ng/mL IFN-γ (PeproTech, Cat. No. 300-02) and 100 ng/mL LPS (Sigma-Aldrich, Cat. No. L2630)."
+}
+
+--- [25] [success] Recombinant Trichinella pseudospiralis Serine Protease Inhibitors Alter Macrophage Polarization In Vitro ---
+doc_id: PMC5613137
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}

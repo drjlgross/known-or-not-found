@@ -1,0 +1,190 @@
+Map results  [m_6bca5aa1]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Iigp1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+
+--- [1] [success] IFIT1 Exerts Opposing Regulatory Effects on the Inflammatory and Interferon Gene Programs in LPS-Activated Human Macrophages ---
+doc_id: PMC6492923
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [2] [success] Role of interferon-induced GTPases in leishmaniasis ---
+doc_id: PMC8794175
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [3] [success] IRF2 Affects LPS- and IFN-γ-Induced Pro-Inflammatory Responses, Cell Viability, Migration and Apoptosis of Macrophages by Regulating IRG1 ---
+doc_id: PMC11606192
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [4] [success] Transcriptional profiling of the LPS induced NF-κB response in macrophages ---
+doc_id: PMC1781469
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [5] [success] ARL11 regulates lipopolysaccharide-stimulated macrophage activation by promoting mitogen-activated protein kinase (MAPK) signaling ---
+doc_id: PMC6016484
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [6] [success] An essential role for IFN-β in the induction of IFN-stimulated gene expression by LPS in macrophages ---
+doc_id: PMC4163629
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [7] [success] Full Spectrum of LPS Activation in Alveolar Macrophages of Healthy Volunteers by Whole Transcriptomic Profiling ---
+doc_id: PMC4951018
+{"answer": "yes", "evidence": "L96: LPS stimulated alveolar macrophages showed enrichment of interferon stimulated genes (ISGs) including ISG15, IFIT1, IFIT2, IFIT3, MX1, MX2, OAS1, OAS2, OAS3, IFNB1 in addition to antimicrobial guanylate binding proteins GBP2 (mouse homolog Gbp1), GBP4 (mouse homolog Gbp3), GBP5 (mouse homolog Gbp5), and GBP7 (mouse homolog Gbp7) (Fig 2B, S2 Table).", "context": "L25: BAL samples from five of the healthy volunteers (samples 11\u201315, Table 1) were cultured with RPMI1640 + 10% human AB serum and supplemented with 1% Antibiotic-Antimycotic (Life Technologies), with or without ultrapure LPS 100 ng/ml (E. coli 0111:B4, List Biological Laboratories, Cat# 421, Lot# 4217A1) at 37\u00B0C and 5% CO2 for 6 hours."}
+
+--- [8] [success] Human GBP1 is a microbe‐specific gatekeeper of macrophage apoptosis and pyroptosis ---
+doc_id: PMC6600649
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [9] [success] Effect of LPS, dsRNA or interferons on the phagocytosis of dying cells or mycobacteria by macrophages ---
+doc_id: PMC3019512
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [10] [success] Analysis of the transcriptional networks underpinning the activation of murine macrophages by inflammatory mediators ---
+doc_id: PMC4378362
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [11] [success] Interferon-induced GTPases orchestrate host cell-autonomous defence against bacterial pathogens ---
+doc_id: PMC8286824
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [12] [success] Type I Interferon, Induced by Adenovirus or Adenoviral Vector Infection, Regulates the Cytokine Response to Lipopolysaccharide in a Macrophage Type-Specific Manner ---
+doc_id: PMC11023693
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [13] [success] A Global Picture of Molecular Changes Associated to LPS Treatment in THP-1 Derived Human Macrophages by Fourier Transform Infrared Microspectroscopy ---
+doc_id: PMC9656053
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [14] [success] Analysis of the human monocyte-derived macrophage transcriptome and response to lipopolysaccharide provides new insights into genetic aetiology of inflammatory bowel disease ---
+doc_id: PMC5358891
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [15] [success] Role of interferon regulatory factor-1 in lipopolysaccharide-induced mitochondrial damage and oxidative stress responses in macrophages ---
+doc_id: PMC5593470
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [16] [success] Down-regulation of guanylate binding protein 1 causes mitochondrial dysfunction and cellular senescence in macrophages ---
+doc_id: PMC5785964
+{
+  "answer": "yes",
+  "evidence": "Moreover, Gbp1 protein levels were increased in iWAT in mice after one-hour LPS treatment, without a further increase upon 6-hour LPS stimulation (L16).",
+  "context": "L17: Figure 1: Regulation of Gbp1 expression in adipose tissue by HFD feeding and LPS stimulation."
+}
+
+--- [17] [success] Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC6543837
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [18] [success] Lipopolysaccharide Tolerance in Human Primary Monocytes and Polarized Macrophages ---
+doc_id: PMC10419197
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [19] [success] Epigenetic profile in lipopolysaccharide-stimulated macrophages ---
+doc_id: PMC3953056
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [20] [success] Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC7053374
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [21] [success] Dissection of innate-immune-ligand- and interferon-protein-mediated transcriptional responses in human THP1 cell states ---
+doc_id: PMC12901304
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [22] [success] Six Interferon-Stimulated Genes as Biomarkers of M1 Macrophage Polarization in Psoriasis ---
+doc_id: PMC12518975
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [23] [success] Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review ---
+doc_id: PMC13372918
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [24] [success] Monocyte normal immune response to LPS stimulation ---
+doc_id: PMC3333514
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [25] [success] IRF1 Is Required for MDA5 (IFIH1) Induction by IFN-α, LPS, and poly(I:C) in Murine Macrophages ---
+doc_id: PMC10643899
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}

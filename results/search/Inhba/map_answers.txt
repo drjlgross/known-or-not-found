@@ -1,0 +1,182 @@
+Map results  [m_921b6b63]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Inhba (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+
+--- [1] [success] Activin A activation of Smad3 mitigates innate inflammation in mouse models of psoriasis and sepsis ---
+doc_id: PMC12043092
+{
+  "answer": "yes",
+  "evidence": "Strikingly, the mRNA of Inhba (encoding activin A) and the protein levels of activin A were both markedly increased with a peak at 6 hours (Figure 2, A and B).",
+  "context": "RT-qPCR analysis in macrophages stimulated by LPS."
+}
+
+--- [2] [success] Identification of INHBA as a potential biomarker for gastric cancer through a comprehensive analysis ---
+doc_id: PMC10394090
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [3] [success] In vivo induction of activin A-producing alveolar macrophages supports the progression of lung cell carcinoma ---
+doc_id: PMC9845242
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [4] [success] A Key Role for Inhibins in Dendritic Cell Maturation and Function ---
+doc_id: PMC5147992
+{"answer": "yes", "evidence": "Our results show that Activin A is produced after 6h of LPS stimulation and further increases up to 24h hours, while Inhibin A is secreted by BMDC after 6 hours of LPS stimulation, having a maximum concentration at 18 hours, which decreased at 24 hours.", "context": "Supernatants from BMDC cultures stimulated with LPS, LPS + Inhibin A or with media alone were collected 3, 6, 12, 18 and 24 hours after stimulation and stored at -20\u00B0C until use."}
+
+--- [5] [success] Inhibin beta A drives colorectal cancer progression through macrophage M2 polarization and mitochondria-dependent ferroptosis suppression ---
+doc_id: PMC12741050
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [6] [success] Expression and role of ABIN1 in sepsis: In vitro and in vivo studies ---
+doc_id: PMC7729633
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [7] [success] Comparative Study of The Effect of LPS on The Function of BALB/c and C57BL/6 Peritoneal Macrophages ---
+doc_id: PMC3660024
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [8] [success] INHBA+ macrophages and Pro-inflammatory CAFs are associated with distinctive immunosuppressive tumor microenvironment in submucous Fibrosis-Derived oral squamous cell carcinoma ---
+doc_id: PMC12067746
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [9] [success] M2‐phenotype tumour‐associated macrophages upregulate the expression of prognostic predictors MMP14 and INHBA in pancreatic cancer ---
+doc_id: PMC8899166
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [10] [success] Increased Expression of INHBA Is Correlated With Poor Prognosis and High Immune Infiltrating Level in Breast Cancer ---
+doc_id: PMC9580937
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [11] [success] Lipopolysaccharide (LPS) partial structures inhibit responses to LPS in a human macrophage cell line without inhibiting LPS uptake by a CD14- mediated pathway ---
+doc_id: PMC2119340
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [12] [success] Epigenetic profile in lipopolysaccharide-stimulated macrophages ---
+doc_id: PMC3953056
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [13] [success] Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review ---
+doc_id: PMC13372918
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [14] [success] Targeting INHBA in Ovarian Cancer Cells Suppresses Cancer Xenograft Growth by Attenuating Stromal Fibroblast Activation ---
+doc_id: PMC6885285
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [15] [success] Transcriptional profiling of the LPS induced NF-κB response in macrophages ---
+doc_id: PMC1781469
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [16] [success] Lipopolysaccharide-Activated Macrophages Suppress Cellular Senescence and Promote Rejuvenation in Human Dermal Fibroblasts ---
+doc_id: PMC12346749
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [17] [success] Lipopolysaccharide modulation of ovarian hormonal profile1 ---
+doc_id: PMC7200988
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [18] [success] Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC6543837
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [19] [success] Adrenergic-mediated increases in INHBA drive CAF phenotype and collagens ---
+doc_id: PMC8119210
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [20] [success] INHBA(+) cancer-associated fibroblasts generate an immunosuppressive tumor microenvironment in ovarian cancer ---
+doc_id: PMC10869703
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [21] [success] LPS Tolerance Inhibits Cellular Respiration and Induces Global Changes in the Macrophage Secretome ---
+doc_id: PMC7918892
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [22] [success] Lipopolysaccharide from biofilm-forming Pseudomonas aeruginosa PAO1 induces macrophage hyperinflammatory responses ---
+doc_id: PMC8289208
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [23] [success] Soybean-derived Bowman-Birk inhibitor inhibits neurotoxicity of LPS-activated macrophages ---
+doc_id: PMC3046894
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [24] [success] Analysis of the transcriptional networks underpinning the activation of murine macrophages by inflammatory mediators ---
+doc_id: PMC4378362
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [25] [success] α-Aminobutyric Acid Constrains Macrophage-Associated Inflammatory Diseases through Metabolic Reprogramming and Epigenetic Modification ---
+doc_id: PMC10342172
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}

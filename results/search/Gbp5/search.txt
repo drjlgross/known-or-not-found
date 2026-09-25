@@ -1,0 +1,320 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Gbp5 (guanylate binding protein 5) LPS macrophage
+# exit 0
+Found 25 papers  [s_d5f2de0d]
+
+  1. Golgi-localised Guanylate-binding protein 5 enhances glycolysis in macrophages
+     Samuel Lara-Reyna, Barbara Clough, Will M Channell, Callum McCarthy, Jonathan Barlow, Vesna S. Stanu...
+     bio_c92a84737104 · bioRxiv · 2026-02-17 · 0 citations (all versions)
+     Published (2026): https://doi.org/10.64898/2026.02.17.706357
+     Matched: GBP5 impacts the classically activated macrophage phenotype and exerts · cat /papers/bio_c92a84737104/content.lines --lines 30-31
+     │ Before further investigating the role of GBP2 and GBP5 in regulating macrophage glycolysis,
+     │ we sought to assess their role in classically activated macrophages. We therefore stimulated
+     │ THP-1 macrophages and MDMs silenced for GBP2 and GBP5 with IFNψ and LPS to generate “M1”
+     │ macrophages. We assessed the levels of hallmark M1 surface receptor, i.e., CD80, CD86 and
+     │ CD64 ( Fig 2A ) and found that GBP5 silencing in both macrophage cell types reduced surface
+     │ levels of CD80, a key marker of activated macrophages ( Fig 2A-C , Fig S5A). Additionally,
+     │ we probed the capacity of IFNψ-stimulated THP-1 macrophages and MDMs silenced for GBP2 and
+     │ GBP5 to produce IL-6 and TNF in response to IFNψ/LPS. …
+     "This study investigated how Guanylate-binding protein 5 affects macrophage metabolism. GBP5 enhances glycolysis in macrophages by maintaining Golgi integrity, impacting glucose uptake and lactate production."
+
+  2. M1 macrophage-derived migrasomes exacerbate post-myocardial infarction injury via guanylate binding protein 5
+     Qingfu Zhang; Aolin Du; Zhichao Li; Hui Gu; Wanqi Huang; Ying Li; Su Han; Chuanhe Wang; Zhijun Sun
+     PMC13200375 · PMC · 2026-03-14 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13200375/
+     Matched: GBP5 Knockdown via Lentiviral Transduction · cat /papers/PMC13200375/content.lines --lines 57-58
+     │ RAW264.7 macrophages were cultured in DMEM medium supplemented with 10% fetal bovine serum
+     │ (FBS) and 1% penicillin-streptomycin at 37 °C with 5% CO₂. To induce M1 polarization, cells
+     │ were treated with 100 ng/mL lipopolysaccharide (LPS, L2880, Sigma) and 20 ng/mL interferon-γ
+     │ (IFN-γ, 315-05-20, Peprotech) for 24 h. Lentiviral vectors encoding short hairpin RNA
+     │ (shRNA) targeting mouse GBP5 and scrambled negative control shRNA were constructed using the
+     │ pLKO.1-puro vector. Recombinant lentiviruses were produced by co-transfecting shRNA plasmids
+     │ with packaging plasmids (psPAX2 and pMD2.G) into HEK293T cells via Lipofectamine 3000
+     │ (Invitrogen, USA). Viral supernatants were harvested at 48 h and …
+     "Myocardial infarction (MI) is a complex pathological process characterized by vascular injury, myocardial necrosis, and dynamic immune interactions. Migrasomes are recently identified organelles gener"
+
+  3. Direct binding of polymeric GBP1 to LPS disrupts bacterial cell envelope functions
+     Miriam Kutsch; Linda Sistemich; Cammie F Lesser; Marcia B Goldberg; Christian Herrmann; Jörn Coers
+     PMC7327485 · PMC · 2020-06-08 · 165 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7327485/
+     Matched: Discussion · cat /papers/PMC7327485/content.lines --lines 54-55
+     │ Previous studies had already implicated a potential role for GBPs in direct LPS sensing. We
+     │ showed that mouse GBPs accelerate the kinetics of caspase‐4 activation in response to LPS
+     │ transfection of murine bone marrow‐derived macrophages (Pilla et al, 2014), and a later
+     │ study expanded these observations to human GBPs (Lagrange et al, 2018). In follow‐up work,
+     │ we demonstrated that mouse GBPs promote caspase‐4 activation in response to bacterial outer
+     │ membrane vesicles (OMVs)—LPS‐studded vesicles released by bacteria. We found that mouse
+     │ Gbp2, the closest murine ortholog of hGBP1, colocalized with LPS inside OMV‐treated
+     │ macrophages (Finethy et al, 2017), arguing in favor of direct interaction …
+     "Polymeric guanylate binding protein-1 (GBP1) directly binds to lipopolysaccharide (LPS) on gram-negative bacteria. This binding disrupts the bacterial cell envelope, leading to increased susceptibility to antibiotics and impaired function."
+
+  4. Guanylate-binding protein 5 is a marker of interferon-γ-induced classically activated macrophages
+     Yukio Fujiwara; Yoshiyuki Hizukuri; Kyoko Yamashiro; Naoyuki Makita; Koji Ohnishi; Motohiro Takeya; ...
+     PMC5133363 · PMC · 2016-11-02 · 77 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5133363/
+     Matched: Confirmation of higher expression of GBP5 in human M1 and M1(−) subtyp · cat /papers/PMC5133363/content.lines --lines 22
+     │ As FAM26F, UBD and GBP5 were selected as candidates of M1/M1(−) subtype-specific marker
+     │ genes, we next measured their protein expression in each macrophage phenotype by western
+     │ blot analysis. As a result, the protein expression of GBP5 in M1 and M1(−) was higher
+     │ compared with that in the other subtypes, whereas that of FAM26F and UBD was not (Figure
+     │ 6a). The protein expression of GBP5 in M1 and M1(−) macrophages derived from granulocyte-
+     │ macrophage colony-stimulating factor (GM-CSF)-induced human monocyte-derived macrophages
+     │ (HMDMs) was additionally higher compared with that of the other subtypes (Figure 6b). IFNγ
+     │ induced the expression of GBP5 in the HMDMs in a dose-dependent manner …
+     "Guanylate-binding protein 5 (GBP5) was identified as a marker for classically activated macrophages (M1). GBP5 expression is induced by interferon-γ and is a generalized marker for the M1 phenotype in humans and mice."
+
+  5. A hierarchical GBP network promotes cytosolic LPS recognition and sepsis
+     Eui-Soon Park, Bae-Hoon Kim, Pradeep Kumar, Kyle Tretina, Agnieszka Maminska, William M. Philbrick, ...
+     bio_ea6f8a3b6c58 · bioRxiv · 2021-08-25 · 5 citations (all versions)
+     Published (2021): https://doi.org/10.1101/2021.08.25.457662
+     Matched: Main Text · cat /papers/bio_ea6f8a3b6c58/content.lines --lines 23-25
+     │ We therefore disrupted each Gbp gene in the 3H1 cluster via CRISPR-Cas9 editing plus
+     │ homologous recombineering to produce complete loss-of-function mutations yielding Gbp1 - / -
+     │ , Gbp2 - / - , Gbp3 - / - , Gbp5 - / - and Gbp7 - / - mice ( Fig. 1A and fig. S1 )( 13 , 14
+     │ ). In addition, we extinguished two new adjacent Gbp loci on mouse chromosome 5E5 - Gbp6 and
+     │ Gbp10 - that share 99.1% nucleotide identity and are implicated in antibacterial defense (
+     │ 13 ). Each knockout was maintained on a C57BL/6NJ background that otherwise express all 11
+     │ Gbps ( 13 , 16 )( Fig. 1A ). It also fixed Casp11, Dock2 and Nlrp1b loci to ensure Gbp-
+     │ related inflammasome responses were strain- …
+     "A study engineered mice lacking seven guanylate-binding proteins (GBPs) to investigate their role in cytosolic LPS recognition. The findings reveal a hierarchical GBP network that controls key steps in the inflammasome pathway, protecting against Gram-negative sepsis."
+
+  6. Pattern Recognition Receptor for Bacterial Lipopolysaccharide in the Cytosol of Human Macrophages
+     Maricarmen Rojas-Lopez, Amanda S. Zajac, Thomas E. Wood, Kelly A. Miller, María Luisa Gil-Marqués, A...
+     bio_56e9957f6d01 · bioRxiv · 2021-10-22 · 1 citation (all versions)
+     Published (2021): https://doi.org/10.1101/2021.10.22.465470
+     Matched: NLRP11 role independent of interferon-gamma and guanylate-binding prot · cat /papers/bio_56e9957f6d01/content.lines --lines 42
+     │ Host GBPs are cytosolic proteins that bind intracellular LPS, promote non-canonical
+     │ inflammasome activation ( 27 - 31 ), and are encoded by genes that are strongly induced by
+     │ interferon-gamma (IFNγ) ( 32 ). Human GBP1 binds LPS on the S. flexneri surface, whereupon
+     │ it enhances caspase-4 recruitment ( 33 ). In the absence of IFNγ pre-treatment,
+     │ NLRP11-dependent cell death during S. flexneri infection appeared to be independent of GBP1,
+     │ as GBP1 was not induced by S. flexneri alone during the experimental timeframe (figs. S4B,
+     │ and S12, A and B). IFNγ pre-treatment of THP-1 macrophages induced GBP1, as expected, yet
+     │ even in the presence of GBP1, NLRP11 was required for efficient …
+     "Human macrophages were studied for cytosolic lipopolysaccharide (LPS) recognition. The primate-specific protein NLRP11 was identified as a pattern recognition receptor for cLPS, essential for caspase-4 inflammasome activation."
+
+  7. Inhibitory effects of polysaccharides from Korean ginseng berries on LPS-induced RAW264.7 macrophages
+     Weerawan Rod-in; Utoomporn Surayot; SangGuan You; Woo Jung Park
+     PMC10684074 · PLOS ONE · 2023-11-28 · 7 citations
+     https://doi.org/10.1371/journal.pone.0294675
+     Matched: GBPs suppress expression of cytokines · cat /papers/PMC10684074/content.lines --lines 55-56
+     "Korean ginseng berry polysaccharides (GBPs) were tested for anti-inflammatory effects in LPS-stimulated macrophages. All GBP fractions reduced inflammation by inhibiting NO production and inflammatory gene expression via MAPK and NF-κB pathways, with GBP-F1 being most effective."
+
+  8. NADPH Oxidase and Guanylate Binding Protein 5 Restrict Survival of Avirulent Type III Strains of Toxoplasma gondii in Naive Macrophages
+     Sumit K. Matta; Kelley Patten; Quiling Wang; Bae-Hoon Kim; John D. MacMicking; L. David Sibley
+     PMC6113620 · PMC · 2018-08-28 · 47 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6113620/
+     Matched: Gbp5 contributes to CTG clearance in naive macrophages. · cat /papers/PMC6113620/content.lines --lines 43-47
+     │ Previous studies have implicated Gbp5 in promoting NLRP3 inflammasome assembly and control
+     │ of intracellular bacteria (33). ROS production has also been implicated in the NLRP3
+     │ inflammasome activation (50), although the NADPH oxidase complex is not required for
+     │ inflammasome activation in response to strong agonists like nigericin or ATP (51).
+     │ Therefore, we tested whether inflammasome activation occurs upon T. gondii infection of
+     │ naive macrophages. Initially, we monitored IL-1β transcripts and found that infection with
+     │ T. gondii only slightly altered their levels, while treatment with LPS greatly increased
+     │ mRNA levels (Fig. S3A). We then measured IL-1β release to the supernatant as a marker …
+     "Naive macrophages use NADPH oxidase and guanylate binding protein 5 to restrict avirulent *Toxoplasma gondii* strains. These intrinsic mechanisms may contribute to controlling human toxoplasmosis."
+
+  9. Guanylate-binding protein 5 licenses caspase-11 for Gasdermin-D mediated host resistance to Brucella abortus infection
+     Daiane M. Cerqueira; Marco Túlio R. Gomes; Alexandre L. N. Silva; Marcella Rungue; Natan R. G. Assis...
+     PMC6326519 · PMC · 2018-12-27 · 86 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6326519/
+     Matched: B. abortus LPS transfection in BMDMs · cat /papers/PMC6326519/content.lines --lines 62
+     │ BMDMs were seeded into 24-well plates (5 × 105 cells/well). The cells were primed with
+     │ PAM3CSK (1 μg/ml) for 6 h. Two solutions were made to perform the B. abortus LPS
+     │ transfection one containing DMEM medium without FBS and with FuGENEHD (Promega, Madison,
+     │ USA); and other containing DMEM medium without FBS and with B. abortus LPS (kindly provided
+     │ by Dr. Ignacio Moriyón at Universidad de Navarra, Pamplona, Spain). These solutions were
+     │ mixed and kept for 15 min at room temperature before the addition to the cells. After 17 h
+     │ of transfection, supernatant and lysates were collected to be submitted to Western blotting
+     │ and ELISA.
+     "Guanylate-binding protein 5 (GBP5) enables caspase-11 to trigger pyroptosis via Gasdermin-D, restricting *Brucella abortus* infection. This process is crucial for host resistance and immune cell recruitment."
+
+  10. GBP2 aggregates LPS and activates the caspase-4 inflammasome independent of the bacterial encapsulation factor GBP1
+     Mary S. Dickinson, Miriam Kutsch, Linda Sistemich, Dulcemaria Hernandez, Anthony S. Piro, David Need...
+     bio_b19262096ce3 · bioRxiv · 2022-10-05 · 75 citations (all versions)
+     Published (2023): https://doi.org/10.1073/pnas.2216028120
+     Preprint: https://doi.org/10.1101/2022.10.05.511023
+     Matched: Discussion · cat /papers/bio_b19262096ce3/content.lines --lines 54-55
+     │ The cytokine IFNγ enhances non-canonical inflammasome activation in response to cytosolic
+     │ LPS through upregulation of the GBP protein family. GBPs promote pyroptosis in different
+     │ cell types and species, however, the exact role of each human GBP paralog and the mechanism
+     │ by which GBPs promote pyroptosis has not been clear ( 38 – 42 ). It was previously thought
+     │ that GBP1 binding to the surface of Gram-negative bacteria, and subsequent recruitment of
+     │ GBP2, GBP3, and GBP4, were essential steps in initiating LPS-triggered and
+     │ caspase-4-dependent pyroptosis during infection. While GBP2 can only bind Gram-negative
+     │ bacteria when GBP1 is present, in this study we showed GBP2 promotes pyroptosis in …
+     "This study investigated how GBP2 activates the caspase-4 inflammasome. GBP2 aggregates free LPS and activates caspase-4 independently of bacterial binding, offering a new mechanism for inflammasome activation."
+
+  11. GBP5 Aggravates Acute Lung Injury Via NLRP3 Inflammasome Activation While Inducing a HIF-1α–CD73–adenosine Feedback Loop
+     Jia Zhang; Linshu Xie; Xinyu Yang; Qianqian Liu; Xiaoju Zhang
+     PMC13375705 · PMC · 2026-05-23 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13375705/
+     Matched: GBP5 Knockdown Reduces LPS-induced Pulmonary Inflammation in vivo · cat /papers/PMC13375705/content.lines --lines 54-55
+     │ GBP5 was knocked down in mouse lungs via intratracheal AAV delivery, and animals were
+     │ allocated to four groups: AAV-Ctrl + saline, AAV-Ctrl + LPS, AAV-shGBP5 + saline, and AAV-
+     │ shGBP5 + LPS. Western blot and RT-qPCR confirmed efficient GBP5 knockdown (Fig. 3A-C).
+     │ Because the AAV vector carries an intrinsic fluorescent reporter, fluorescence microscopy
+     │ was performed on lung tissue sections from the four groups of mice to further confirm AAV
+     │ vector expression (Fig. 3D). Compared with the AAV-Ctrl + saline group, the AAV-Ctrl + LPS
+     │ group exhibited pronounced lung injury, as evidenced by hematoxylin and eosin (H&E) staining
+     │ (Fig. 4A) and an increased lung injury score (Fig. 4B). In parallel, the …
+     "Guanylate-binding protein 5 (GBP5) is an interferon-inducible GTPase that promotes NLRP3 inflammasome activation. However, its role in acute lung injury (ALI) and its relationship with compensatory an"
+
+  12. Bile acid derivatives from gut microbiota promote GBPs-mediated activation of caspase-4/11 by LPS through lncRNA57RIK
+     Yunhuan Gao; Jianmei Yue; Fushuang Ha; Ya Wang; Rong Wang; Xiaorong Yang; Junqi Zhang; Xinqi Liu; Yu...
+     PMC11628326 · PMC · 2024-10-28 · 9 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11628326/
+     Matched: Abstract · cat /papers/PMC11628326/content.lines --lines 1-10
+     "Gut microbiota bile acid derivatives induce lncRNA57RIK expression via S1PR2. This lncRNA binds caspase-4/11 and GBP1, mediating LPS-induced caspase activation and pyroptosis."
+
+  13. Interferon-induced guanylate-binding proteins: Guardians of host defense in health and disease
+     Kyle Tretina; Eui-Soon Park; Agnieszka Maminska; John D. MacMicking
+     PMC6400534 · PMC · 2019-03-04 · 323 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6400534/
+     Matched: GBPs in antibacterial defense · cat /papers/PMC6400534/content.lines --lines 70-71
+     "Guanylate-binding proteins (GBPs) are interferon-induced proteins crucial for host defense against pathogens. They play multifaceted roles in immunity, impacting cellular processes and contributing to disease pathogenesis."
+
+  14. LPS-aggregating proteins GBP1 and GBP2 are each sufficient to enhance caspase-4 activation both in cellulo and in vitro
+     Mary S. Dickinson; Miriam Kutsch; Linda Sistemich; Dulcemaria Hernandez; Anthony S. Piro; David Need...
+     PMC10104521 · PMC · 2023-04-06 · 75 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10104521/
+     Matched: Discussion · cat /papers/PMC10104521/content.lines --lines 50-52
+     │ The functions of GBP1 and GBP2 may also be defined by the route of entry of LPS into the
+     │ cytosol, similar to the differential role for human caspase-4 and caspase-5 in LPS sensing.
+     │ Caspase-4 and caspase-5 are structurally similar, and both are able to directly bind LPS and
+     │ induce pyroptosis (4), yet in many assays of LPS-induced pyroptosis, caspase-4 is essential
+     │ and caspase-5 is dispensable (9, [11], 26). Recently, it was shown that caspase-5, but not
+     │ caspase-4, responds to LPS present in OMVs trafficked through endosomes of intestinal
+     │ epithelial cells (45). This suggests that the cell may have different ways of responding
+     │ depending on the delivery route by which LPS reaches the cytosol. …
+     "GBP1 and GBP2 were studied for their role in caspase-4 activation by lipopolysaccharide. Both proteins are sufficient to enhance caspase-4 activation by forming LPS-protein complexes, revising the understanding of cytosolic LPS sensing."
+
+  15. Human GBP1 is a microbe‐specific gatekeeper of macrophage apoptosis and pyroptosis
+     Daniel Fisch; Hironori Bando; Barbara Clough; Veit Hornung; Masahiro Yamamoto; Avinash R Shenoy; Eva...
+     PMC6600649 · PMC · 2019-06-03 · 222 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6600649/
+     Matched: GBP1 can be bypassed by direct delivery of Toxoplasma lysate or bacter · cat /papers/PMC6600649/content.lines --lines 48-49
+     "Human GBP1 targets microbial vacuoles, triggering apoptosis or pyroptosis depending on the pathogen. This protein acts as a gatekeeper, controlling cell death pathways specific to invading microbes."
+
+  16. Monocyte normal immune response to LPS stimulation
+     P Myrianthefs; K Venetsanou; E Grouzi; E Boutzouka; P Evagelopoulou; G Fildissis; I Spiliotopoulou; ...
+     PMC3333514 · Critical Care · 2002-03-01 · 1 citation
+     https://doi.org/10.1186/cc1554
+
+  17. Guanylate-Binding Proteins (GBPs) convert cytosolic bacteria into caspase-4 signaling platforms
+     Michal P. Wandel; Bae-Hoon Kim; Eui-Soon Park; Keith B. Boyle; Komal Nayak; Brice Lagrange; Adrian H...
+     PMC7381384 · PMC · 2020-06-15 · 277 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7381384/
+     Matched: cat /papers/PMC7381384/content.lines --lines 14-16
+     │ IFN-γ prevents proliferation of cytosol-invading Salmonella enterica Typhimurium IFN-γ
+     │ prevents proliferation of cytosol-invading Salmonella enterica Typhimurium
+     │ Lipopolysaccharide (LPS), a major constituent of the outer membrane of Gram-negative
+     │ bacteria, triggers strong protective immune responses. In addition, systemic LPS exposure
+     │ can cause septic shock, one of the most common causes of death in developed countries, whose
+     │ mortality remains high, despite recent advances in critical care medicine. Two separate
+     │ pathways contribute to the detection of LPS in mammals. In the extracellular environment LPS
+     │ is sensed by MD2 in complex with Toll-like receptor 4 (TLR4)[1]–[3], whereas in the …
+     "Guanylate-binding proteins (GBPs) assemble on cytosolic bacteria to form signaling platforms. These platforms are essential for activating caspase-4, leading to pyroptosis and bacterial clearance."
+
+  18. Correction: Genomic and functional adaptations in the guanylate-binding protein GBP5 highlight specificities of bat antiviral innate immunity
+     Amandine Le Corf; Sarah Maesen; Amandine Chantharath; Clara Loyer; Juan Manuel Vazquez; M. Elise Lau...
+     PMC13485055 · PMC · 2026-08-18 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13485055/
+     Matched: cat /papers/PMC13485055/content.lines --lines 5
+
+  19. Immunoreactive Microenvironment Modulator GBP5 Suppresses Ovarian Cancer Progression by Inducing Canonical Pyroptosis
+     Chang Zou; Jiacheng Shen; Fangfang Xu; Yingjun Ye; Yuanyuan Wu; Shaohua Xu
+     PMC11134437 · PMC · 2024-05-05 · 19 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11134437/
+     Matched: Discussion · cat /papers/PMC11134437/content.lines --lines 76-78
+     "GBP5 was identified as a factor that suppresses ovarian cancer progression by inducing pyroptosis. This process involves the JAK2/STAT1 pathway, leading to M1 macrophage polarization and a less immunosuppressive tumor microenvironment."
+
+  20. Constitutive Interferon Maintains GBP Expression Required for Release of Bacterial Components Upstream of Pyroptosis and Anti-DNA Responses
+     Beiyun C. Liu; Joseph Sarhan; Alexander Panda; Hayley I. Muendlein; Vladimir Ilyukha; Jörn Coers; Ma...
+     PMC6063733 · PMC · 2018-07-03 · 76 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6063733/
+     Matched: INTRODUCTION · cat /papers/PMC6063733/content.lines --lines 18-20
+     │ Cytosolic presence of bacterial lipopolysaccharide (LPS) activates caspase-11, resulting in
+     │ a lytic form of macrophage death known as pyroptosis (Kayagaki et al., 2011; Meunier and
+     │ Broz, 2015; Yang et al., 2015). Vacuolar pathogens such as S. typhimurium and L. pneumophila
+     │ predominantly bypass cas-pase-11 activation by maintaining pathogen replication vacuoles
+     │ that protect the bacterium from cytosolic sensing (Isberg et al., 2009; LaRock et al.,
+     │ 2015). However, interferon (IFN)-activated macrophages can mount a caspase-11 response to
+     │ vacuole-resident bacteria (Broz et al., 2012; Case et al., 2013) in a process dependent on
+     │ guanylate-binding proteins (GBPs), a family of IFN-dependent immune …
+     "This study investigated the role of interferon (IFN) and guanylate-binding proteins (GBPs) in macrophage responses to *Legionella pneumophila*. Constitutive IFN maintains GBP expression, which is crucial for releasing bacterial components and initiating anti-DNA responses before pyroptosis."
+
+  21. Guanylate-binding protein-5 is involved in inflammasome activation by bacterial DNA but only the cooperation of multiple GBPs accounts for control of Brucella abortus infection
+     Fabio V. Marinho; Camila Brito; Ana Carolina V. S. C. de Araujo; Sergio C. Oliveira
+     PMC10885698 · PMC · 2024-02-08 · 14 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10885698/
+     Matched: GBP2 and GBP5 are important for inflammasome activation mediated by B. · cat /papers/PMC10885698/content.lines --lines 55
+     │ During the B. abortus intracellular cycle, bacterial DNA may become available in cytosol to
+     │ activate inflammasome pathway after BCV disruption (19). That said, we investigated if GBP2
+     │ or GBP5 plays a role in B. abortus DNA recognition in macrophages. To mimic this scenario,
+     │ cells were primed with Pam3CSK4 (Pam) for 4 hours followed by transfection of B. abortus DNA
+     │ to evaluate inflammasome activation. In our experimental design, Pam (TLR2 ligand) was used
+     │ as first signal replacing LPS (TLR4 ligand) to avoid type-I IFN production, which could
+     │ cause induction on GBPs expression and mask the results. As shown in Figure 2 , we found
+     │ GBP2-/- and GBP5-/- BMDMs presented reduced IL-1β production …
+     "Guanylate-binding proteins (GBPs) on murine chromosome 3 are upregulated during *Brucella abortus* infection and are involved in inflammasome activation.
+However, only the combined action of multiple GBPs on this chromosome is required for controlling *B. abortus* infection."
+
+  22. Guanylate-binding proteins promote AIM2 inflammasome activation during Francisella novicida infection by inducing cytosolic bacteriolysis and DNA release
+     Etienne Meunier; Pierre Wallet; Roland F. Dreier; Stéphanie Costanzo; Leonie Anton; Sebastian Rühl; ...
+     PMC4568307 · PMC · 2015-03-16 · 334 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4568307/
+     Matched: Ectopic expression of GBP2 and GBP5 · cat /papers/PMC4568307/content.lines --lines 57
+     │ mGbp2 and mGbp5 were cloned into the lentiviral plasmid TRIP iziE-SSFV-GFP using the
+     │ following primers and the indicated restriction enzymes: For_mGBP2_AvrII
+     │ attacctaggGACATGGCCTCAGAGATCCACATG, Rev_mGBP2_EcoRV aatagataTCAGAGTATAGTGCACTTCCCAGACG,
+     │ For_mGBP5_AvrII aaatcctagGACATGGCCCCAGAGATTCACATG, Rev_mGBP5_HpaI:
+     │ atttgttaacttagcttataacacagtcatgatgatgtctac. Lentiviruses production in 293T cells and
+     │ transduction of primary bone marrow derived macrophages were performed using standard
+     │ methods. Briefly, IFNAR1-deficient macrophages were transduced after eight days of
+     │ differentiation by spinoculation (1500 g for 2h at room temperature). Transduced macrophages
+     │ were infected 48h later. Transduction …
+     "Guanylate-binding proteins (GBPs) were identified as key activators of the AIM2 inflammasome during *Francisella novicida* infection. GBPs promote bacterial lysis in the cytosol, leading to DNA release and subsequent inflammasome activation."
+
+  23. Inflammasome Activation by Bacterial Outer Membrane Vesicles Requires Guanylate Binding Proteins
+     Ryan Finethy; Sarah Luoma; Nichole Orench-Rivera; Eric M. Feeley; Arun K. Haldar; Masahiro Yamamoto;...
+     PMC5626967 · PMC · 2017-10-03 · 144 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5626967/
+     Matched: GBP2 but not GBP5 controls caspase-11-dependent pyroptosis and interle · cat /papers/PMC5626967/content.lines --lines 29-32
+     │ The chromosomal deletion in GBPchr3−/− mice eliminates 5 Gbp genes, namely, Gbp1, Gbp2,
+     │ Gbp3, Gbp5, and Gbp7 (23). Previous studies demonstrated that expression of GBP2 promotes
+     │ the induction of caspase-11-dependent cell death in macrophages infected with Gram-negative
+     │ bacterial pathogens such as Salmonella and Legionella (10, 12). In support of a possible
+     │ role for GBP2 in OMV processing, we detected partial colocalization between GBP2 and LPS in
+     │ OMV-treated BMDMs (Fig. S3). We therefore tested whether GBP2 was required for caspase-11
+     │ activation by nonpathogenic E. coli and OMVs. We found that GBP2−/− BMDMs mimicked
+     │ GBPchr3−/− BMDMs in their unresponsiveness to E. coli infections, as …
+     "This study investigated the role of guanylate binding proteins (GBPs) in inflammasome activation by bacterial outer membrane vesicles (OMVs). GBPs are required for inflammasome activation and subsequent inflammation and sepsis in mice exposed to LPS or OMVs."
+
+  24. GBP1 recruitment to actin-rich pedestals induced by extracellular Gram-negative bacteria promotes pyroptosis
+     Daniel J Bennison; Ishaan Chaudhary; Dharitri Chaudhuri; Justin Chun Ngai Wong; Ayush Punwatkar; Pri...
+     bio_0ddf65ba9122 · bioRxiv · 2026-01-01 · 0 citations (all versions)
+     Published (2025): https://doi.org/10.1101/2025.09.25.678451
+     Matched: cat /papers/bio_0ddf65ba9122/content.lines --lines 2-3
+     │ Guanylate Binding Protein 1 (GBP1) is the forerunner of a family of seven human IFNγ-
+     │ inducible 65-75 kDa GTPases that promote antimicrobial responses and inflammasome activation
+     │ in response to intracellular pathogens (Kim et al, 2011; Kutsch & Coers, 2021; Rivera-Cuevas
+     │ et al, 2023; Shenoy et al, 2012; Tretina et al, 2019). GBP expression can be induced by IFNγ
+     │ in most cell types, reflecting their broad roles in cell-autonomous immunity (Tretina et
+     │ al., 2019). GBPs were first implicated in pyroptosis via mouse caspase-4 (also called
+     │ caspase-11) in macrophages exposed to cytosolic LPS (Finethy et al, 2017; Meunier et al,
+     │ 2014; Pilla et al, 2014). More recently, we and others have shown that …
+     "The IFNγ-induced GTPase guanylate binding protein 1 (GBP1) binds to lipopolysaccharide (LPS) on cytosolic Gram-negative bacteria and promotes pyroptosis via the recruitment and activation of caspase-4"
+
+  25. Aberrant expression of GBP5 in tumor-infiltrating immune cells as an onco-immunological biomarker in pan-cancer
+     Rui Liu; Jiaqian Gong; Yuehang Zhang; Qiuling Chen; Ting Han; Wenrui Li; Hanrong Zhang; Yichen Li
+     PMC13396069 · PMC · 2026-05-27 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13396069/
+     Matched: GBP5 plays an important role in immune regulation across cancers · cat /papers/PMC13396069/content.lines --lines 57-58
+     "Guanylate binding protein 5 (GBP5) belongs to an interferon (IFN)-inducible subfamily of guanosine triphosphatases (GTPases). GBP5 has been shown to promote NLRP3 inflammasome assembly, thereby playin"
+
+[2.3s, saved to s_d5f2de0d]
+
+💡 Extract data across these results with: map --from s_d5f2de0d "your question"
+[2.3s, saved to s_d5f2de0d]  [repo: mva-lof-molecular]
+

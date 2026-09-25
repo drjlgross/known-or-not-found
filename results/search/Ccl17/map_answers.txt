@@ -1,0 +1,178 @@
+Map results  [m_1d2fc273]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Ccl17 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+
+--- [1] [success] Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC6543837
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [2] [success] Early-Life Exposure to Lipopolysaccharide Induces Persistent Changes in Gene Expression Profiles in the Liver and Spleen of Female FVB/N Mice ---
+doc_id: PMC10384579
+{
+  "answer": "yes",
+  "evidence": "L91: Ccl17 | Chemokine (C-C motif) ligand 17 | 1.78 | 0.0009",
+  "context": "L38: The results also showed that LPS in the spleen significantly altered the expression of 22 genes (p < 0.05)."
+}
+
+--- [3] [success] Compartmentalized Production of CCL17 In Vivo ---
+doc_id: PMC2193819
+{
+  "answer": "yes",
+  "evidence": "L63: CCL17+ DCs were threefold more frequent among DCs of mLNs compared with those of saline injected mice (Fig. 8 A).",
+  "context": "L28: Mice were injected intraperitoneally or intravenously with a sublethal dose of 300 μg LPS (Sigma-Aldrich), or 20 nmol CpG-oligodeoxynucleotide (ODN) 1668 (Tib Molbiol) and Listeria monocytogenes (50,000 listeria/mouse), and organs or organ-derived DCs were analyzed 15 h (LPS and CpG-ODN) or 4 d (listeria) later."
+}
+
+--- [4] [success] Sepsis induces incomplete M2 phenotype polarization in peritoneal exudate cells in mice ---
+doc_id: PMC4709882
+{
+  "answer": "yes",
+  "evidence": "In a separate experiment with 6-h LPS treatment of PE cells from mice at 20 h post-surgery, LPS treatment also caused a marked increase in both CCL17 and CCL22 in sham-PE, but not in CLP-PE cells (Fig. 3b, c).",
+  "context": "PE cells harvested from mice at 20 h after sham or CLP operation were cultured in the presence or absence of LPS (1 μg/ml) for 6 h (n = 4 or 5 for each group)."
+}
+
+--- [5] [success] Anti-Inflammatory Effects of Cicadidae Periostracum Extract and Oleic Acid through Inhibiting Inflammatory Chemokines Using PCR Arrays in LPS-Induced Lung inflammation In Vitro ---
+doc_id: PMC9225349
+{
+  "answer": "yes",
+  "evidence": "L38: The mRNA expression levels of chemokines CCL20, CXCL5, CXCL1, CCL2, CXCL10, CXCL11, CCL7, IL-6, CXCL3, CCL17 CXCL2, CCL8, CCRL2, TLR2, PPBP (CXCL7), CCL4, CCL5, and CCL9 were significantly increased in the LPS-stimulated group compared with the normal group.",
+  "context": "L37: 3.1.1. The Gene Expression Profiles of Chemokines and Their Receptors in LPS Stimulated Lung Epithelial Cells Using Mouse Chemokines and Receptors RT2 Profiler PCR Arrays"
+}
+
+--- [6] [success] C–C Chemokines Released by Lipopolysaccharide (LPS)-stimulated Human Macrophages Suppress HIV-1 Infection in Both Macrophages and T Cells ---
+doc_id: PMC2196157
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [7] [success] SENP3 mediated DeSUMOylation of macrophage derived CCL17 accelerates atherosclerosis via regulation of Treg ---
+doc_id: PMC12634754
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [8] [success] Interleukin-4 induction of the CC chemokine TARC (CCL17) in murine macrophages is mediated by multiple STAT6 sites in the TARC gene promoter ---
+doc_id: PMC1698493
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [9] [success] Comparative Study of The Effect of LPS on The Function of BALB/c and C57BL/6 Peritoneal Macrophages ---
+doc_id: PMC3660024
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [10] [success] TLR4/MyD88 -mediated CCL2 production by lipopolysaccharide (endotoxin): Implications for metabolic inflammation ---
+doc_id: PMC6154519
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [11] [success] Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC7053374
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [12] [success] Transcriptome Analysis Provides Insights into the Markers of Resting and LPS-Activated Macrophages in Grass Carp (Ctenopharyngodon idella) ---
+doc_id: PMC6274997
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [13] [success] Serum C-C motif chemokine ligand 17 as a predictive biomarker for the progression of non-idiopathic pulmonary fibrosis interstitial lung disease ---
+doc_id: PMC12020124
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [14] [success] IL-17A induces heterogeneous macrophages, and it does not alter the effects of lipopolysaccharides on macrophage activation in the skin of mice ---
+doc_id: PMC5622065
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [15] [success] Role of Fibroblasts in Chronic Inflammatory Signalling in Chronic Rhinosinusitis with Nasal Polyps—A Systematic Review ---
+doc_id: PMC10179235
+{
+  "answer": "yes",
+  "evidence": "A combined stimulation with LPS and IL-4 induced CCL17 in NPDF (L96)",
+  "context": "Fukumoto (2008) | To assess if NPDF produced TARC | No comment | No comment | Uncinate process mucosa and lung | IL-4; LPS | RT-PCR | ELISA | CCL17 (TARC) | A combined stimulation with LPS and IL-4 induced CCL17 in NPDF (L96)"
+}
+
+--- [16] [success] Imbalance polarization of M1/M2 macrophages in miscarried uterus ---
+doc_id: PMC11271943
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [17] [success] Screening of the FDA-approved drug library identifies CCL17 inhibitors that block arthritic pain ---
+doc_id: PMC12287273
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [18] [success] CHEMOKINE SIGNALING IN BREAST CANCER: FOCUS ON CC-MOTIF CHEMOKINE LIGANDS ---
+doc_id: bio_20c64eb77894
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [19] [success] Is CC Chemokine Ligand 17 (TARC) Driving Disease Progression in Chronic Obstructive Pulmonary Disease? ---
+doc_id: PMC8990115
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [20] [success] Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyromonas endodontalis, Induces Macrophage M1 Profile ---
+doc_id: PMC9456100
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [21] [success] Impact of low and high lipopolysaccharide doses on the early expression of immune related genes and transcription factors in chicken macrophage-like HD11 cells ---
+doc_id: PMC12757465
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [22] [success] Enhancing Cardiac Reprogramming by Suppressing Specific C-C Chemokine Signaling Pathways ---
+doc_id: bio_5c77e2ab6bff
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [23] [success] Redox-sensitive activation of CCL7 by BRG1 in hepatocytes during liver injury ---
+doc_id: PMC8406035
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [24] [success] Exosomal miR-148a-3p from LPS-Activated Macrophages Promotes M1 Polarization and Ferroptosis-Related Characteristics of Recipient Macrophages by Reducing SLC7A11 ---
+doc_id: PMC13199726
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [25] [success] A Global Picture of Molecular Changes Associated to LPS Treatment in THP-1 Derived Human Macrophages by Fourier Transform Infrared Microspectroscopy ---
+doc_id: PMC9656053
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}

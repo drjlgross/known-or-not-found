@@ -1,0 +1,210 @@
+$ src/pc.sh map --from s_b4d5b980 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Cxcl1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 24/25 papers
+Results ID: m_44e4a0fd
+
+  ✓ Myometrial‐derived CXCL12 promotes lipopolysaccharide induced preterm 
+    PMC9077289 · 922ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Differential gene expression in LPS/IFNγ activated microglia and macro
+    PMC2766614 · 861ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Proinflammatory macrophages release CXCL5 to regulate T cell function 
+    PMC12151196 · 1445ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ CXCL1: Gene, Promoter, Regulation of Expression, mRNA Stability, Regul
+    PMC8776070 · 1043ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✗ Untitled
+    ? · 180002ms
+    error: Timed out after 180002ms (per-task cutoff)
+
+  ✓ TET1 controls  Cxcl1  induction by DNA demethylation and promotes neut
+    bio_e4538273 · 1483ms
+    {
+      "answer": "yes",
+      "evidence": "L71: Upon LPS stimulation, the total level of CXCL1 protein was significantly repressed in the BAL fluid obtained from Tet1-/- mice as compared to that from WT and Tet1+/- controls ( Fig. 6B ), which is consistently with the essential role of TET1 in the regulation of Cxcl1 induction.",
+      "context": "L70: Figure 6. Defective neutrophil recuriment and Cxcl1 production in BAL fluid of Tet1-/- mice in LPS-induced acute lung injury. (A) WT and Tet1-/- mice were intranasally injected with LPS (0.5mg/kg) for 4 hr, and Bronchoalveolar lavage (BAL) fluids were collected and analyzed by flow cytometry."
+    }
+
+  ✓ Transcriptional and translational‐uncoupling in regulation of the CXCL
+    PMC5818454 · 938ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ CXCL10/IP-10 Neutralization Can Ameliorate Lipopolysaccharide-Induced 
+    PMC5207674 · 934ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Anti-Inflammatory Effects of Cicadidae Periostracum Extract and Oleic 
+    PMC9225349 · 1248ms
+    {
+      "answer": "yes",
+      "evidence": "The mRNA expression levels of chemokines CCL20, CXCL5, CXCL1, CCL2, CXCL10, CXCL11, CCL7, IL-6, CXCL3, CCL17 CXCL2, CCL8, CCRL2, TLR2, PPBP (CXCL7), CCL4, CCL5, and CCL9 were significantly increased in the LPS-stimulated group compared with the normal group.",
+      "context": "Mouse Chemokines and Receptors RT2 Profiler PCR arrays were used to explore the global gene expression patterns in LPS-stimulated LA4 cells."
+    }
+
+  ✓ LKB1‐MARK2 signalling mediates lipopolysaccharide‐induced production o
+    PMC7576310 · 1066ms
+    {
+      "answer": "yes",
+      "evidence": "After transfection into RAW264.7 cells and LPS stimulation, CXCL15 luciferase activity was elevated by MARK2WT (Figure 3B), which is in line with the previous siRNA results (Figure 2A; Table S3).",
+      "context": "Transfected RAW264.7 cells were stimulated with LPS (100 ng/mL) for 2 hours."
+    }
+
+  ✓ Prevention of lipopolysaccharide-induced preterm labor by the lack of 
+    PMC6219809 · 1028ms
+    {"answer":"yes","evidence":"L72: LPS treatment enhanced Cx3cl1 gene expression in the gestational tissues of pregnant WT mice at gestational day (gd) 15.5 (Fig 2A).","context":""}
+
+  ✓ Advanced glycation end-products reduce lipopolysaccharide uptake by ma
+    PMC7833212 · 925ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Transcriptome Analysis Provides Insights into the Markers of Resting a
+    PMC6274997 · 942ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ CX3CL1 deficiency ameliorates acute kidney injury by inhibiting macrop
+    PMC12847948 · 1511ms
+    {
+      "answer": "yes",
+      "evidence": "L18: This study showed that CX3CL1 is strongly upregulated in LPS-stimulated macrophages and during AKI.",
+      "context": "L32: To simulate the AKI inflammatory environment in vitro, RAW264.7 cells were stimulated with 1 \u0393\u0395g/mL LPS for 12 h."
+    }
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 1057ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Temporal expression of CXCR2 ligands in a rat model of LPS—induced pul
+    PMC13243519 · 1092ms
+    {"answer": "yes", "evidence": "In the LPS group, significant differences [p = 0.018] in CXCL1 gene expression were observed from 24 h and up to 72 h, compared with expression levels at 120 h (Fig. 5Q).", "context": "Lipopolysaccharide (LPS) from Escherichia coli O111:B4 (L2630, Sigma-Aldrich, Munich, Germany) was applied to the exposed pulp tissue at a concentration of 10 mg/mL or phosphate-buffered saline (PBS) for 1 min using 0.5 mm-diameter microbrushes (Microbrush international, Grafton, WI, USA)."}
+
+  ✓ CX3CL1 promotes M1 macrophage polarization and osteoclast differentiat
+    PMC12255738 · 1153ms
+    {
+      "answer": "yes",
+      "evidence": "The experimental data demonstrated a marked increase in both transcriptional activity and protein abundance of CX3CL1 in stimulated RAW 264.7 cells (Fig. 1A-D).",
+      "context": "(A-B) CX3CL1 expression was assessed in LPS-stimulated RAW 264.7 cells after 24-h treatment using qPCR for mRNA levels and Western blot analysis for protein expression."
+    }
+
+  ✓ C-X-C receptor 7 agonist acts as a C-X-C motif chemokine ligand 12 inh
+    PMC8778739 · 972ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ CXCL13 Is Involved in the Lipopolysaccharide-Induced Hyperpermeability
+    PMC7476967 · 1119ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Potential Roles of Innate Immune Chemokine and Cytokine Network on Lip
+    PMC6597445 · 1208ms
+    {
+      "answer": "yes",
+      "evidence": "High expression of LPS-induced chemokine signature in an innate immune system showed as follows: CCL3, CCL4, and CXCL10 in dendritic cells (DCs); CCL3, CCL4, CCL20, CXCL1, CXCL2, CXCL3, CXCL8, and CXCL10 in macrophages (M\u0366); and CCL3, CCL4, CXCL1, and CXCL8 in neutrophils (Fig. 5).",
+      "context": "Figure 5: LPS-induced chemokine signatures in DC, M\u0366, and neutrophils. Con, control."
+    }
+
+  ✓ Macrophage TRIM21 lactylation exacerbates infection-induced orchitis t
+    PMC12847007 · 851ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ XIAOPI Formula Inhibits Breast Cancer Stem Cells via Suppressing Tumor
+    PMC6874098 · 989ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Differential Protein Expression Profiles of Bronchoalveolar Lavage Flu
+    PMC6679226 · 1211ms
+    {
+      "answer": "yes",
+      "evidence": "Cxcl15 was up-regulated by I.T. LPS but down-regulated by I.P. LPS, further supporting the suppression of lung innate immunity by LPS-induced systemic inflammation.",
+      "context": "Mice were challenged with intratracheal (I.T.) LPS at 0.1 mg/kg (n = 6) or intraperitoneal (I.P.) LPS at 5 mg/kg (n = 6) to model direct and indirect lung injury, respectively."
+    }
+
+  ✓ The Potential Importance of CXCL1 in the Physiological State and in No
+    PMC9820720 · 1583ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Cathelicidin-mediated lipopolysaccharide signaling via intracellular T
+    PMC7524372 · 1794ms
+    {
+      "answer": "yes",
+      "evidence": "CXCL1 secretions were increased in colonic epithelial cells (Figure 2b) and leukocytes from the lamina propria (Fig S1 F) of infected mice compared to uninfected controls; however, only in colonic epithelium was the amount of CXCL1 statistically significantly higher in infected Camp+/+ mice compared to Camp−/− (Figure 2b).",
+      "context": "Colons were cut-open longitudinally, sectioned (2-cm pieces) and suspended into isolation buffer containing EDTA (5 mM; 15575020, ThermoFisher Scientific) and DTT (0.324 M; D0632, Sigma-Aldrich) in 10 mL PBS."
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[184.8s, saved to m_44e4a0fd]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  1/25 papers  run m_44e4a0fd  [2s]
+  [########............]  10/25 papers  run m_44e4a0fd  [4s]
+  [##############......]  18/25 papers  run m_44e4a0fd  [6s]
+  [################....]  20/25 papers  run m_44e4a0fd  [8s]
+  [#################...]  22/25 papers  run m_44e4a0fd  [10s]
+  [###################.]  24/25 papers  run m_44e4a0fd  [13s]
+  [###################.]  24/25 papers  run m_44e4a0fd  [23s]
+  [###################.]  24/25 papers  run m_44e4a0fd  [33s]
+  [###################.]  24/25 papers  run m_44e4a0fd  [43s]
+  [###################.]  24/25 papers  run m_44e4a0fd  [53s]
+  [###################.]  24/25 papers  run m_44e4a0fd  [64s]
+  [###################.]  24/25 papers  run m_44e4a0fd  [74s]
+  [###################.]  24/25 papers  run m_44e4a0fd  [84s]
+  [###################.]  24/25 papers  run m_44e4a0fd  [94s]
+  [###################.]  24/25 papers  run m_44e4a0fd  [104s]
+  [###################.]  24/25 papers  run m_44e4a0fd  [114s]
+  [###################.]  24/25 papers  run m_44e4a0fd  [125s]
+  [###################.]  24/25 papers  run m_44e4a0fd  [135s]
+  [###################.]  24/25 papers  run m_44e4a0fd  [145s]
+  [###################.]  24/25 papers  run m_44e4a0fd  [155s]
+  [###################.]  24/25 papers  run m_44e4a0fd  [165s]
+  [###################.]  24/25 papers  run m_44e4a0fd  [176s]
+  [###################.]  24/25 papers  run m_44e4a0fd  [182s]
+  [###################.]  24/25 papers  run m_44e4a0fd  [184s]
+
+$ src/pc.sh map --resume m_44e4a0fd --retry-failed
+# exit 1
+[error] Something went wrong. Please try again.
+

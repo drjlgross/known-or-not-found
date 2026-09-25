@@ -1,0 +1,206 @@
+$ src/pc.sh map --from s_bd782759 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Mmp13 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_97d9c922
+
+  ✓ Macrophage Migration and Invasion Is Regulated by MMP10 Expression
+    PMC3653827 · 1064ms
+    {
+      "answer": "yes",
+      "evidence": "MMP13 | no effect | ↑***",
+      "context": "Primary BMDM and Raw264.7 macrophages were cultured with 100 ng/mL LPS for 24 h prior to RNA extraction, reverse transcription and qRT-PCR analysis."
+    }
+
+  ✓ Proinflammatory cytokines and lipopolysaccharides up regulate MMP-3 an
+    PMC6873576 · 1314ms
+    {
+      "answer": "yes",
+      "evidence": "The results show that LPS at a 0.125 \u0393\u0391\u0307g/mL concentration significantly increased MMP3 and MMP13 mRNA levels as well as the levels of IL1B and IL6 while increasing the expression of the TNF-\u0391 gene (TNFA) at a concentration of only 0.25 \u0393\u0391\u0307g/mL (Fig. 5).",
+      "context": "The chondrocytes were treated with LPS at various concentrations (0.125\u20131 \u0393\u0391\u0307g/mL) for 24 h, then mRNA levels were assessed by real-time RT-PCR."
+    }
+
+  ✓ Regulation of matrix metalloproteinase-3 gene expression in inflammati
+    PMC6249951 · 1033ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Classical Macrophage Activation Up-Regulates Several Matrix Metallopro
+    PMC3411745 · 1085ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Sirtuin 1 regulates matrix metalloproteinase-13 expression induced by 
+    PMC5405711 · 1063ms
+    {
+      "answer": "yes",
+      "evidence": "L36: P.e LPS significantly increased the expression of MMP-13 mRNA in a dose-dependent and time-dependent manner, as determined by real-time PCR (Figures 1(a) and (b)).",
+      "context": "L37: Figure 1.: Matrix metalloproteinase-13 (MMP-13) expression is increased in MC3T3-E1 cells induced by Porphyromonas endodontalis lipopolysaccharide (P.e LPS)."
+    }
+
+  ✓ Matrix metalloproteinase 13 modulates intestinal epithelial barrier in
+    PMC3721470 · 1201ms
+    {
+      "answer": "yes",
+      "evidence": "Early after endotoxemia induction, we observed strong up-regulation of MMP13 in all tested organs (Fig 1A–D).",
+      "context": "A–D. MMP13 gene expression analysis in ileum (A), liver (B) lung (C), and kidney (D) 0, 1, 4, 6, 8, and 12 h after LPS challenge (n = 5)."
+    }
+
+  ✓ LPS stimulation during HCV infection induces MMP/TIMP1 imbalance in ma
+    PMC7451043 · 747ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Osteoarthritis patients with high haemoglobin A1c have increased Toll-
+    PMC6642645 · 1391ms
+    {
+      "answer": "yes",
+      "evidence": "MMP13 mRNA and MMP13 protein levels in SYN cells were significantly higher following stimulation with LPS compared to vehicle.",
+      "context": "SYN cells were exposed to 1000 μL of 0 (α-MEM), 100 or 1000 ng/mL LPS (Sigma, St. Louis, MO, USA) for 24 h."
+    }
+
+  ✓ LPS Counter Regulates RNA Expression of Extracellular Proteases and Th
+    PMC3317238 · 1515ms
+    {
+      "answer": "yes",
+      "evidence": "A comparison of LPS and vehicle-stimulated RAW 264.7 cultures showed that LPS treatment led to a general increase in MMP RNA expression with few exceptions (Figure 2).",
+      "context": "The mouse-derived macrophage cell line RAW 264.7 was propagated in culture medium defined as DMEM, containing 10% FCS and 1% Penicillin-Streptomycin (Sigma-Aldrich, Brøndby, Denmark). Experimental cell cultures were set up in 6-well culture plates by seeding 5 \u00D7 105 cells in 4 mL culture medium in each well. The following day, the culture medium was exchanged with serum-free DMEM. After 4 hours, vehicle (PBS) or LPS (Sigma-Aldrich, Brøndby, Denmark) was added to appropriate cultures to a final concentration of 100 ng/mL."
+    }
+
+  ✓ Biochemical alterations in inflammatory reactive chondrocytes: evidenc
+    PMC5857518 · 1063ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Suppression of LPS-induced matrix-metalloproteinase responses in macro
+    PMC2949711 · 1112ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ ADAM-10 Regulates MMP-12 during Lipopolysaccharide-Induced Inflammator
+    PMC9507754 · 1025ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ The orientation of choroidal macrophage polarization significantly inf
+    bio_b06931d1 · 939ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Collagenase-3 (MMP-13) deficiency protects C57BL/6 mice from antibody-
+    PMC3979078 · 878ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ TPX2 upregulates MMP13 to promote the progression of lipopolysaccharid
+    PMC11104344 · 996ms
+    {
+      "answer": "yes",
+      "evidence": "In our study, WB analysis revealed that LPS treatment upregulated MMP13 protein expression in C28/I2 cells and correspondingly diminished extracellular matrix (ECM) markers (Collagen II and Aggrecan).",
+      "context": "For lipopolysaccharide (LPS) treatment, 5 × 105 cells were removed to 6-well plates, and various doses of LPS (0, 1, 5, and 10 μg/mL) were applied for 24 h."
+    }
+
+  ✓ MMP13 is a critical target gene during the progression of osteoarthrit
+    PMC3672752 · 890ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Lipopolysaccharide-mediated macrophage polarization, conserved pathoge
+    PMC13372918 · 1025ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ LPS‐Induced Inflammation Prior to Injury Exacerbates the Development o
+    PMC7689775 · 1106ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Elevated IL-33 promotes expression of MMP2 and MMP9 via activating STA
+    PMC6208075 · 779ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 1187ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Matrix Metalloproteinase 13 Is Induced in Fibroblasts in Polyomavirus 
+    PMC2493034 · 923ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyr
+    PMC9456100 · 927ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Matrix metalloproteases as maestros for the dual role of LPS- and IL-1
+    PMC4456051 · 909ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Matrix metalloproteinase 28 is regulated by TRIF- and type I IFN-depen
+    PMC6545921 · 889ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Overview of MMP-13 as a Promising Target for the Treatment of Osteoart
+    PMC7916132 · 1129ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[29.7s, saved to m_97d9c922]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  1/25 papers  run m_97d9c922  [2s]
+  [#####...............]  7/25 papers  run m_97d9c922  [4s]
+  [########............]  11/25 papers  run m_97d9c922  [6s]
+  [############........]  16/25 papers  run m_97d9c922  [12s]
+  [###################.]  24/25 papers  run m_97d9c922  [14s]
+  [####################]  25/25 papers  run m_97d9c922  [16s]
+  [####################]  25/25 papers  run m_97d9c922  [27s]
+  [####################]  25/25 papers  run m_97d9c922  [29s]
+

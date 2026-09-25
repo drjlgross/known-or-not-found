@@ -1,0 +1,262 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Ptx3 (pentraxin related gene) LPS macrophage
+# exit 0
+Found 25 papers  [s_b77a67c4]
+
+  1. Pentraxin-3 modulates hepatocyte ferroptosis and the innate immune response in LPS-induced liver injury
+     Huitong Wang; Zhaojie Su; Yunyun Qian; Baojie Shi; Hao Li; Wenbin An; Yi Xiao; Cheng Qiu; Zhixiang G...
+     PMC11638432 · Molecular Biomedicine · 2024-12-12 · 17 citations
+     https://doi.org/10.1186/s43556-024-00227-6
+     Matched: PTX3 can suppress M1 macrophage polarization · cat /papers/PMC11638432/content.lines --lines 37
+     │ Therefore, these results suggest that silencing Ptx3 promotes the polarization of M1
+     │ macrophages and enhances the phagocytosis of macrophages to eliminate microorganisms.
+     "This study investigated pentraxin-3's role in LPS-induced liver injury. PTX3 deficiency ameliorated liver damage by modulating hepatocyte ferroptosis and promoting M1 macrophage recruitment."
+
+  2. Pentraxin 3(PTX 3): An Endogenous Modulator of the Inflammatory Response
+     P. Kunes; Z. Holubcova; M. Kolackova; J. Krejsek
+     PMC3337627 · PMC · 2012-04-11 · 111 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3337627/
+     Matched: 5. Regulation of Pentraxin 3 Production · cat /papers/PMC3337627/content.lines --lines 22
+     │ Activation stimuli which control PTX3 synthesis and release can be enumerated as follows:
+     │ (i) proinflammatory cytokines (IL-1β, TNF-α), (ii) TLR agonists, namely lipopolysaccharide
+     │ (LPS), (iii) distinct microbial moieties (OmpA, lipoarabinomannans), and/or (iv) some intact
+     │ microorganisms. Taking into account the complexity of the inflammatory/immune reactions,
+     │ more than one stimulus is usually employed to set off PTX3 production. To initiate the
+     │ immune response, cell-expressed receptors tightly cooperate with their fluid-phase
+     │ counterparts after they have recognized hostile microorganisms (non-self) via the latter's
+     │ PAMPs. Essentially, the same scenario proceeds in cases of sterile …
+     "This paper reviews pentraxin 3's role in inflammatory responses, particularly in coronary artery disease and Aspergillus fumigatus infection. Evidence suggests PTX3's impact is context-dependent, potentially exhibiting anti-inflammatory properties."
+
+  3. Pentraxin 3 promotes the expression of pro-inflammatory cytokines and the migration of macrophages in myocarditis
+     Tianyu Zhu; Ying Ding; Xiaohui Wu; Yan Li; Guanliang Cheng; Ning Wang; Quan Yang; Wenchao Zhang; Xue...
+     PMC12060373 · PMC · 2025-05-07 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12060373/
+     Matched: Upregulated expression of PTX3 and NLRP3 in LPS-stimulated cardiomyocy · cat /papers/PMC12060373/content.lines --lines 50-51
+     │ Building on these findings, we further investigated the expression of PTX3 and NLRP3 in
+     │ cardiomyocytes stimulated with LPS. Our results demonstrated that LPS stimulation
+     │ significantly increased the expression of PTX3 compared to the control group, with
+     │ statistical significance observed both at the gene level (P = 0.0132) and protein level (P <
+     │ 0.0001). Similarly, NLPR3 expression was also markedly upregulated in the LPS group, as
+     │ evidenced by Western blot (P < 0.0001) and qPCR (P = 0.0115) (Fig. 2). Fig. 2: (A) qPCR
+     │ analysis of PTX3 mRNA expression in cardiomyocytes, normalized to GAPDH (n = 3 biological
+     │ replicates). (B) qPCR analysis of NLRP3 mRNA expression in cardiomyocytes, normalized …
+     "Pentraxin 3 (PTX3) and NLRP3 expression were studied in myocarditis. PTX3 promotes pro-inflammatory cytokines and macrophage migration by activating NLRP3."
+
+  4. Pentraxin-3 regulates the inflammatory activity of macrophages
+     Aya Shiraki; Norihiko Kotooka; Hiroshi Komoda; Tetsuaki Hirase; Jun-ichi Oyama; Koichi Node
+     PMC5600337 · PMC · 2016-01-14 · 52 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5600337/
+     Matched: Silencing PTX3 and inducing apoptosis in THP-1 cells · cat /papers/PMC5600337/content.lines --lines 36
+     │ THP-1 cells were seeded at 80,000 cells/well in 96-well plates and incubated with 100 nM PMA
+     │ overnight. Wells were rinsed twice with RPMI-1640 containing l-glutamine and 10% FBS and
+     │ replaced with 100 μL medium. The siRNA for PTX3 and control siRNA were purchased from Santa
+     │ Cruz Biotechnology (sc-39187 and sc-37007, respectively, Dallas, Texas). siRNA (13.3
+     │ pmol/well) was diluted in 25 μL Opti-Mem medium. Lipofectamine® (1.66 µL) RNAiMAX
+     │ Transfection Reagent, purchased from Life Technologies (Carlsbad, California), was diluted
+     │ in 25 μL Opti-Mem medium and these two dilutions were mixed gently and incubated for 10–20
+     │ min at room temperature. This 50-μL mixture was then added to THP-1 …
+     "Pentraxin-3 (PTX3) was studied for its role in regulating macrophage inflammatory activity. PTX3 reduces pro-inflammatory cytokine production and enhances phagocytosis, suggesting it resolves inflammation."
+
+  5. Unraveling Secretory Mechanisms that Control Pentraxin 3 Secretion in Adipocytes During Inflammation
+     Te-Yueh Lin; XiaoLi Chen
+     PMC8089539 · PMC · 2021-05-03 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8089539/
+     Matched: Abstract · cat /papers/PMC8089539/content.lines --lines 1-5
+     "This study investigated how adipocytes secrete Pentraxin 3 (PTX3) during inflammation. PTX3 secretion is controlled by the Golgi apparatus and mitochondria, and also occurs via exosomes."
+
+  6. Soluble PTX3 of Human Umbilical Cord Blood-Derived Mesenchymal Stem Cells Attenuates Hyperoxic Lung Injury by Activating Macrophage Polarization in Neonatal Rat Model
+     Miyeon Kim; Ji Hye Kwon; Yun Kyung Bae; Gee-Hye Kim; Soyoun Um; Jueun Ha; Soo Jin Choi; Wonil Oh; Hy...
+     PMC7204119 · PMC · 2020-01-23 · 26 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7204119/
+     Matched: 3.4. PTX3 Augments the Macrophage Polarization Effect by Activating De · cat /papers/PMC7204119/content.lines --lines 38
+     "Human umbilical cord blood-derived MSCs attenuate hyperoxic lung injury by promoting M2 macrophage polarization. Soluble PTX3 secreted by MSCs is a key mediator of this effect and a potential therapeutic biomarker."
+
+  7. Long Pentraxin 3: Experimental and Clinical Relevance in Cardiovascular Diseases
+     Fabrizia Bonacina; Andrea Baragetti; Alberico Luigi Catapano; Giuseppe Danilo Norata
+     PMC3649691 · PMC · 2013-04-07 · 81 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3649691/
+     Matched: 4.2. PTX3 and Atherosclerosis · cat /papers/PMC3649691/content.lines --lines 37-39
+     │ PTX3 KO/Apo E KO mice developed larger atherosclerotic lesions compared to Apo E KO, an
+     │ observation that was coupled to increased macrophage accumulation, increased bone marrow
+     │ monocytosis, and, interestingly, increased expression of adhesion molecules, cytokines, and
+     │ chemokines in the vascular wall. These findings suggest an increased immune-inflammatory
+     │ response in PTX3 KO/Apo E KO mice compared to Apo E KO animals [66]. PTX3 expression,
+     │ similar to that of CRP, is increased also in coronary plaques of patients with unstable
+     │ angina pectoris (UAP) compared to those with stable angina (SAP). Nevertheless, PTX3 and CRP
+     │ distribution is different; PTX3 expression is increased in complicated …
+     "This paper reviews the role of Pentraxin 3 (PTX3) in cardiovascular diseases. PTX3 appears to have a protective effect, potentially by modulating inflammation and limiting damage."
+
+  8. Silencing of PTX3 alleviates LPS-induced inflammatory pain by regulating TLR4/NF-κB signaling pathway in mice
+     Shuang Qi; Feng Zhao; Zinan Li; Feng Liang; Shanshan Yu
+     PMC7000368 · PMC · 2020-02-04 · 24 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7000368/
+     Matched: LPS-induced inflammatory pain was relieved in PTX3 knockout mice · cat /papers/PMC7000368/content.lines --lines 37-38
+     │ We established the inflammatory pain model through injecting LPS into mice hind paw,
+     │ including PTX3 knockout mice and WT mice. Firstly, we analyzed the expression of PTX3 by
+     │ qRT-PCR in the WT mice model. As shown in Figure 1A, the expression of PTX3 on 1, 3, 5 and 7
+     │ days after injection of LPS was significantly decreased compared with the control group, and
+     │ the lowest on 3 day after injection of LPS (Figure 1A,B). More importantly, we explored the
+     │ effect of PTX3 on paw retraction after mechanical, hot and cold stimulation. We found that
+     │ LPS significantly reduces the mice to the frequency response of MWTs, thermal withdrawal
+     │ latencies (TWLs) and cold stimulation compared with control group, …
+     "PTX3's role in inflammatory pain was investigated using LPS-induced mouse models. Silencing PTX3 alleviates inflammatory pain by regulating the TLR4/NF-κB signaling pathway."
+
+  9. PTX3 in Granuloma Formation and Sarcoidosis: Helping Macrophages Accept a “Complement”
+     Genta Ishikawa; Erica L. Herzog
+     PMC9704837 · PMC · 2022-07-12 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9704837/
+     Matched: cat /papers/PMC9704837/content.lines --lines 10-11
+
+  10. Pathogen Recognition by the Long Pentraxin PTX3
+     Federica Moalli; Sebastien Jaillon; Antonio Inforzato; Marina Sironi; Barbara Bottazzi; Alberto Mant...
+     PMC3118294 · PMC · 2011-06-02 · 66 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3118294/
+     Matched: 4.1. Gene Organization and Expression · cat /papers/PMC3118294/content.lines --lines 21-23
+     │ The human PTX3 gene has been localized on chromosome 3 band q25 and is organized in three
+     │ exons separated by two introns. The first two exons code for the leader peptide and the
+     │ N-terminal domain of the protein, respectively, and the third exon encodes the pentraxin
+     │ domain [46]. The murine gene presents the same structural organization and is located on
+     │ chromosome 3 [47]. The proximal promoters of both human and murine PTX3 genes share numerous
+     │ potential enhancer-binding elements, including Pu1, AP-1, NF-κB, SP1, and NF-IL-6 sites [47,
+     │ 48]. It has been shown that the NF-κB binding site is essential for the transcriptional
+     │ response to proinflammatory cytokines (i.e., TNF-α and IL-1β), …
+     "This review examines the long pentraxin PTX3 as a pattern recognition molecule in innate immunity. PTX3 plays a critical role in pathogen recognition and interacts with other innate immune components."
+
+  11. High PTX3 expression is associated with a poor prognosis in diffuse large B‐cell lymphoma
+     Joaquim Carreras; Yara Yukie Kikuti; Shinichiro Hiraiwa; Masashi Miyaoka; Sakura Tomita; Haruka Ikom...
+     PMC8748251 · PMC · 2021-11-29 · 35 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8748251/
+     Matched: INTRODUCTION · cat /papers/PMC8748251/content.lines --lines 42-45
+     "This study characterized the tumor microenvironment in diffuse large B-cell lymphoma (DLBCL). High expression of PTX3 in DLBCL is associated with a poor prognosis and identifies it as a new prognostic biomarker."
+
+  12. PTX3 mediates the infiltration, migration, and inflammation‐resolving‐polarization of macrophages in glioblastoma
+     Hao Zhang; Yifan Wang; Yihan Zhao; Tao Liu; Zeyu Wang; Nan Zhang; Ziyu Dai; Wantao Wu; Hui Cao; Song...
+     PMC9532932 · PMC · 2022-07-20 · 54 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9532932/
+     Matched: Results · cat /papers/PMC9532932/content.lines --lines 15
+     "This study investigated the role of Pentraxin 3 (PTX3) in glioblastoma. PTX3 promotes macrophage infiltration, migration, and inflammation-resolving polarization, contributing to an immunosuppressive tumor microenvironment."
+
+  13. Early persisting elevation of plasma Pentraxin 3 is associated with mortality and with coagulation impairment in severe sepsis and septic shock
+     A Coppadoro; T Mauri; G Bellani; N Patroniti; M Cugno; A Grassi; G Iapichino; L Gattinoni; A Mantova...
+     PMC2934436 · PMC · 2010-03-01 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2934436/
+     Matched: Introduction · cat /papers/PMC2934436/content.lines --lines 8
+
+  14. A Proteomics-Based Assessment of Inflammation Signatures in Endotoxemia
+     Sean A. Burnap; Ursula Mayr; Manu Shankar-Hari; Friederike Cuello; Mark R. Thomas; Ajay M. Shah; Ian...
+     PMC7950208 · PMC · 2021-02-24 · 10 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7950208/
+     Matched: MPO and Nox2 Are Not Required for PTX3 Multimer Formation · cat /papers/PMC7950208/content.lines --lines 51-52
+     "This study analyzed plasma and aortic proteomes in endotoxemia models to understand inflammation. Multimeric pentraxin-3 (PTX3) increases in plasma and deposits in the aorta, correlating with neutrophil activation, but its multimerization is independent of MPO and myeloid Nox2."
+
+  15. Inactivation of pentraxin 3 suppresses M2-like macrophage activity and immunosuppression in colon cancer
+     Feng-Wei Chen; Yung-Ling Wu; Chao-Chun Cheng; Yu-Wei Hsiao; Jhih-Ying Chi; Liang-Yi Hung; Chih-Peng ...
+     PMC10799366 · PMC · 2024-01-20 · 32 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10799366/
+     Matched: PTX3 promotes M2-like macrophage polarization · cat /papers/PMC10799366/content.lines --lines 77
+     │ M2 macrophages are known to suppress the cytotoxic activity of CD8+ T cells, leading to
+     │ immunosuppression within the tumor microenvironment. Indeed, we observed that treatment with
+     │ conditioned medium derived from PTX3-treated THP-1 macrophages reduced the expression of
+     │ interferon gamma (IFNG) and tumor necrosis factor alpha (TNFA) in activated Jurkat cells
+     │ (Fig. 5G), suggesting that PTX3-treated macrophages can inhibit the cytotoxic activity of T
+     │ cells. However, PTX3 had no direct effect on the regulation of IFNG and TNFA transcription
+     │ in Jurkat cells (Additional file 3: Fig. S8A–D). Furthermore, we examined other aspects of
+     │ the M2 phenotype in PTX3-treated THP-1 macrophages, such as …
+     "Pentraxin 3 (PTX3) was studied in colon cancer to understand its role in the tumor microenvironment. Inactivating PTX3 suppresses M2 macrophage activity and immunosuppression, suggesting it as a potential therapeutic target."
+
+  16. High Plasma Level of Long Pentraxin 3 (PTX3) Is Associated with Fatal Disease in Bacteremic Patients: A Prospective Cohort Study
+     Reetta Huttunen; Mikko Hurme; Janne Aittoniemi; Heini Huhtala; Risto Vuento; Janne Laine; Juulia Jyl...
+     PMC3053378 · PMC · 2011-03-10 · 65 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3053378/
+     Matched: PTX3 values in bacteremic patients · cat /papers/PMC3053378/content.lines --lines 72
+     "Plasma PTX3 levels were measured in bacteremic patients. High PTX3 levels in the first few days after diagnosis are associated with fatal disease and are a better predictor than CRP."
+
+  17. The Long Pentraxin PTX3 Controls Klebsiella Pneumoniae Severe Infection
+     Fatemeh Asgari; Domenico Supino; Raffaella Parente; Nadia Polentarutti; Matteo Stravalaci; Remi Port...
+     PMC8173212 · PMC · 2021-05-20 · 21 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8173212/
+     Matched: Production of PTX3 by Fibroblasts · cat /papers/PMC8173212/content.lines --lines 42
+     │ Mouse embryonic fibroblasts (MEF) were obtained from a wild-type pregnant mouse at 14 day
+     │ post-coitum as previously described (30). Cells were plated at a density of 105/ml and
+     │ expanded in 6-well plates in RPMI 1640 medium supplemented with 2 mM L-glutamine, 10% FCS,
+     │ and B-mercaptoethanol. MEF (5x105 cells/well) were plated in a 24-well plate at passage 5-6
+     │ in RPMI 1640 medium supplemented with 2 mM L-glutamine, 1% FCS and stimulated with heat-
+     │ killed K. pneumoniae (30 min at 70°C) at ratios of 5:1, 1:1 and 1:5 (bacteria:cells). LPS
+     │ (10ng/ml) and TNFα (10ng/ml) were used as controls of PTX3 induction. Murine PTX3
+     │ concentration in supernatants was analyzed by ELISA (R&D DuoSet ELISA …
+     "This study investigated the role of PTX3 in controlling Klebsiella pneumoniae infections using knockout mice. PTX3 deficiency led to increased bacterial burden, mortality, and severe lung damage, indicating PTX3 is crucial for managing this infection."
+
+  18. Host-protective effect of circulating pentraxin 3 (PTX3) and complex formation with neutrophil extracellular traps
+     Kenji Daigo; Takao Hamakubo
+     PMC3521240 · PMC · 2012-12-13 · 60 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3521240/
+     Matched: Function · cat /papers/PMC3521240/content.lines --lines 127-143
+     │ | | Increased tissue injury and mortalityb | Souza et al., 2002 Infection | LPS-induced
+     │ endotoxemia | Increased survival ratiob | Dias et al., 2001 | CLP-induced sepsis | Increased
+     │ survival ratiob | Dias et al., 2001 | Pulmonary infection by Aspergillus fumigatus |
+     │ Decreased survival ratioa | Garlanda et al., 2002 | Pulmonary infection by Klebsiella
+     │ pneumoniae | Faster lethality by a high inoculum administrationb | Soares et al., 2006 | |
+     │ Delayed lethality by a mid-to-low inoculum administrationb | Soares et al., 2006 | Murine
+     │ cytomegalovirus (MCMV) infection | More susceptible to MCMV infectiona | Bozza et al., 2006
+     │ | Influenza virus infection | More susceptible to influenza virus …
+     "PTX3 was studied for its role in innate immunity and its interaction with neutrophil extracellular traps (NETs). PTX3 forms complexes with NET components, potentially enhancing pathogen clearance and serving as a diagnostic marker for sepsis."
+
+  19. Monocyte differentiation and macrophage priming are regulated differentially by pentraxins and their ligands
+     Darrell Pilling; Elkin Galvis-Carvajal; Tejas R. Karhadkar; Nehemiah Cox; Richard H. Gomer
+     PMC5472910 · PMC · 2017-06-15 · 42 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5472910/
+     Matched: Discussion · cat /papers/PMC5472910/content.lines --lines 72-74
+     "Pentraxins and their ligands were studied for their effects on monocyte differentiation and macrophage polarization. These molecules differentially regulate specific macrophage receptors and CRP can induce anti-inflammatory IL-10."
+
+  20. Pentraxin-3 Serum Levels Are Associated with Disease Severity and Mortality in Patients with Systemic Inflammatory Response Syndrome
+     Simone Bastrup-Birk; Mikkel-Ole Skjoedt; Lea Munthe-Fog; Jens J. Strom; Ying Jie Ma; Peter Garred
+     PMC3767672 · PMC · 2013-09-09 · 75 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3767672/
+     Matched: Introduction · cat /papers/PMC3767672/content.lines --lines 10-13
+     "Serum pentraxin-3 (PTX3) levels were measured in intensive care unit patients with systemic inflammatory response syndrome (SIRS). Higher PTX3 levels correlated with increased disease severity and a greater risk of 90-day mortality."
+
+  21. The Long Pentraxin PTX3 as a Link Between Innate Immunity, Tissue Remodeling, and Cancer
+     Andrea Doni; Matteo Stravalaci; Antonio Inforzato; Elena Magrini; Alberto Mantovani; Cecilia Garland...
+     PMC6459138 · Frontiers in Immunology · 2019-04-04 · 144 citations
+     https://doi.org/10.3389/fimmu.2019.00712
+     Matched: Role of PTX3 in Cancer · cat /papers/PMC6459138/content.lines --lines 43-46
+     │ Inflammation is a component of the tumor microenvironment promoting tumor development and
+     │ growth (103). Since PTX3 is expressed in inflammatory conditions and acts as a tuner of
+     │ complement-activation and leukocyte recruitment, it was hypothesized that PTX3 was involved
+     │ in cancer-related inflammation. Genetic studies in mice showed that PTX3-deficiency caused
+     │ increased susceptibility to mesenchymal and epithelial carcinogenesis in the models of
+     │ 3-methylcholanthrene (3-MCA)-induced sarcomagenesis, and 7,12-dimethylbenz [a]
+     │ anthracene/terephthalic acid (DMBA/TPA)-induced skin carcinogenesis (14). In these tumors,
+     │ infiltrating macrophages and endothelial cells were the major source of PTX3 in …
+     "This paper reviews the long pentraxin PTX3's roles in innate immunity, tissue repair, and cancer. PTX3 links these processes by recognizing microbes and damaged tissues, influencing inflammation and remodeling."
+
+  22. Prenatal Exposure to Lipopolysaccharide Induces PTX3 Expression and Results in Obesity in Mouse Offspring
+     Shugang Qin; Xin Chen; Meng Gao; Jianzhi Zhou; Xiaohui Li
+     PMC5656716 · PMC · 2017-08-02 · 17 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5656716/
+     Matched: RT-PCR and Western Blot Analysis of the Expression Quantity of PTX3 · cat /papers/PMC5656716/content.lines --lines 67-68
+     "Pregnant mice were injected with lipopolysaccharide (LPS) to study inflammation's link to obesity. LPS exposure increased PTX3, leading to offspring obesity via adipogenic marker regulation and MAPK pathway activation."
+
+  23. The humoral pattern recognition receptor PTX3 is stored in neutrophil granules and localizes in extracellular traps
+     Sébastien Jaillon; Giuseppe Peri; Yves Delneste; Isabelle Frémaux; Andrea Doni; Federica Moalli; Cec...
+     PMC2118544 · PMC · 2007-04-16 · 485 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2118544/
+     Matched: Storage of preformed PTX3 in resting neutrophils · cat /papers/PMC2118544/content.lines --lines 21-22
+     "PTX3, a humoral innate immunity component, is stored in neutrophil granules and released with extracellular traps. This release is crucial for neutrophil-mediated resistance against *Aspergillus fumigatus*."
+
+  24. PTX3 orchestrates tissue repair
+     Andrea Doni; Cecilia Garlanda; Alberto Mantovani
+     PMC4741535 · PMC · 2015-09-02 · 15 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4741535/
+
+  25. Role of a fluid-phase PRR in fighting an intracellular pathogen: PTX3 in Shigella infection
+     Valeria Ciancarella; Luigi Lembo-Fazio; Ida Paciello; Anna-Karin Bruno; Sébastien Jaillon; Sara Bera...
+     PMC6317801 · PMC · 2018-12-07 · 20 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6317801/
+     Matched: LPS composition governs PTX3 production in Shigella-infected BMDMs via · cat /papers/PMC6317801/content.lines --lines 57-60
+     "PTX3, a soluble innate immunity protein, was studied for its role in *Shigella* infection. PTX3 treatment protected mice from death, inhibited bacterial invasion, and enhanced serum bactericidal activity, suggesting it's a potential therapeutic target and biomarker."
+
+[2.6s, saved to s_b77a67c4]
+
+💡 Extract data across these results with: map --from s_b77a67c4 "your question"
+[2.6s, saved to s_b77a67c4]  [repo: mva-lof-molecular]
+

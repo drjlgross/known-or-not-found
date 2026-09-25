@@ -1,0 +1,198 @@
+$ src/pc.sh map --from s_4c510687 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Il1b (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_2cda082a
+
+  ✓ CCR5 signaling promotes lipopolysaccharide-induced macrophage recruitm
+    PMC7883330 · 1383ms
+    {"answer": "yes", "evidence": "IL-1\u0320b levels in rat lungs were increased in the LPS injection group by 2.5-fold, 3.2-fold, and 4.8-fold at P1, P3, and P7, respectively (Fig. 2a).", "context": "Pregnant rats were injected with LPS or saline in the amniotic sac at E16.5."}
+
+  ✓ IL-1β+ lung-resident macrophages mediate endothelial dysfunction and a
+    PMC12877074 · 1882ms
+    {
+      "answer": "yes",
+      "evidence": "RT-qPCR and WB analyses confirmed a marked elevation of IL-1β mRNA and protein levels in the LPS group compared with controls, whereas both were significantly reduced in the LPS + sh-IL-1β group relative to the LPS + sh-NC group (Fig. 7A, B).",
+      "context": "Sepsis was induced by intraperitoneal injection of lipopolysaccharide (LPS, 4 mg/kg, L5293, Sigma), while controls received sterile saline."
+    }
+
+  ✓ GATA-2 Transduces LPS-Induced il-1β Gene Expression in Macrophages via
+    PMC3735524 · 1299ms
+    {
+      "answer": "yes",
+      "evidence": "L49: Exposure of RAW 264.7 cells to 100 ng/ml LPS for 1, 3, and 6 h caused significant 18-, 23-, and 23-fold inductions of IL-1β mRNA, respectively (Figure 1A).",
+      "context": "L50: Figure 1: Effects of lipopolysaccharide (LPS) on the expression of interleukin (IL)-1β mRNA and protein as well as translocation of transcription factors."
+    }
+
+  ✓ Macrophage-derived IL-1β/NF-κB signaling mediates parenteral nutrition
+    PMC5895696 · 1443ms
+    {
+      "answer": "yes",
+      "evidence": "Intraperitoneal injection of 2.5 mg/kg LPS into WT mice resulted in increased Il1b transcription in both liver and isolated IHMCs (Fig. 2j) coinciding with suppression of hepatic Abcb11 and Abcc2 mRNA (Fig. 2k).",
+      "context": "C57BL/6 WT adult male mice (8 weeks old, 22–23 g body weight, identical to the criteria used for PN mice above) (Jackson Laboratories, Bar Harbor, ME, USA) were injected i.p. with 2.5 mg/kg LPS (from Escherichia coli 0111:B4; Sigma Aldrich, St. Louis, MO, USA) or with 200 ng/mouse recombinant mouse IL-1β (BD Biosciences, San Jose, CA, USA) before sacrifice 4 h later."
+    }
+
+  ✓ The Bisdioxopiperazine ICRF-193 Attenuates LPS-induced IL-1β Secretion
+    PMC10798930 · 1256ms
+    {
+      "answer": "yes",
+      "evidence": "When co-incubated with LPS, which polarizes the cells towards the M1 phenotype, more Il-1β secretion is noted in line with previous studies [53, 54].",
+      "context": "Cells were seeded at a density of 3 × 105/ml with 8 nM PMA alone or 8 nM PMA and 1 ng/ml LPS for 72 h before the supernatant was harvested."
+    }
+
+  ✓ D-mannose suppresses macrophage IL-1β production
+    PMC7733482 · 1221ms
+    {
+      "answer": "yes",
+      "evidence": "Such sugar decreased LPS-induced Il1b gene expression dose dependently (Fig. 1a and Supplementary Fig. 1A).",
+      "context": "a qPCR analysis of IL-1β mRNA levels in resting and LPS-activated BMDMs cultured for 24 h in the presence or absence of the indicated concentrations of mannose in RPMI medium containing 11 mM glucose."
+    }
+
+  ✓ Interleukin-1β Secretion by Macrophages in Patients with Colorectal Ca
+    PMC12682978 · 1171ms
+    {
+      "answer": "yes",
+      "evidence": "In patients with CRC extending beyond the muscularis propria, macrophages demonstrated elevated IL-1β secretion upon first LPS stimulation (30.33 [16.74-44.20] pg/mL vs limited to the muscularis propria 15.39 [8.358-25.52] pg/mL) (Table 5).",
+      "context": "For each peripheral blood monocyte sample, cells were cultured in three separate wells: one without lipopolysaccharide (Lipopolysaccharides from Escherichia coli 0111:B4 (LPS) (Sigma-Aldrich, the USA)) and two with LPS added at a final concentration of 100 ng/mL."
+    }
+
+  ✓ Regular Voluntary Exercise Potentiates Interleukin-1β and Interleukin-
+    PMC5241476 · 1166ms
+    {
+      "answer": "yes",
+      "evidence": "The mRNA levels of IL-1β and IL-18 in macrophages significantly increased after LPS stimulation for 6 h; the levels were not significantly different between the SC and VE mice (Figures 4(a) and 4(b)).",
+      "context": "Peritoneal-exudate macrophages isolated from the sedentary control (SC) and VE mice were cultured for 6 h in the presence or absence of 100 ng/mL LPS."
+    }
+
+  ✓ TLR4-Upregulated IL-1β and IL-1RI Promote Alveolar Macrophage Pyroptos
+    PMC4985817 · 1267ms
+    {
+      "answer": "yes",
+      "evidence": "Figure 2C shows that LPS markedly increased IL-1β level in the BALF from the WT mice in a time-dependent manner, and this effect of LPS was largely aborted in Nlrp3−/− mice.",
+      "context": "WT (C57BL/6) mice and Nlrp3−/− mice were intratracheally injected with LPS (1 mg/kg B.W. in 0.2 ml of saline) using Micro Sprayer Syringe."
+    }
+
+  ✓ IκBβ is an essential co-activator for LPS-induced IL-1β transcription 
+    PMC2989768 · 1375ms
+    {"answer": "yes", "evidence": "As expected, the serum levels of these cytokines were significantly increased upon LPS treatment in WT mice (Fig. 3 A).", "context": "To determine whether increased resistance to endotoxic shock in I\u0397B\u0327\u0327\u03B2\u2212/\u2212 mice was caused by decreased proinflammatory cytokines, we measured serum concentration of inflammatory cytokines TNF, IL-1\u03B2, and IL-6 after LPS challenge."}
+
+  ✓ Flavonoid Apigenin Inhibits Lipopolysaccharide-Induced Inflammatory Re
+    PMC4156420 · 1523ms
+    {"answer": "yes", "evidence": "As shown in Fig.4, LPS markedly increased mRNA levels of IL-1\u0327b, IL-6 and TNF-\u0325alpha in human THP-1-derived macrophages, which were completely inhibited by apigenin in a dose-dependent manner.", "context": "Cells were pretreated with different concentrations of apigenin (A, 6.25, 12.5,25 \u0010\u0015M) for 2 h, then treated with LPS (100 ng/mL) for 24 hours."}
+
+  ✓ Responses of perivascular macrophages to circulating lipopolysaccharid
+    PMC6375194 · 1313ms
+    {
+      "answer": "yes",
+      "evidence": "One hour after LPS injection, enhanced expression of IL-1β was observed in the SFO.",
+      "context": "Cryosections were immunostained with antibodies against IL-1β, the myeloid lineage cell marker Iba1, the outer basement membrane marker laminin-111, the astrocyte marker GFAP, and LPS."
+    }
+
+  ✓ Inhibition of IκBβ/NFκB signaling prevents LPS-induced IL1β expression
+    PMC5761659 · 1572ms
+    {
+      "answer": "yes",
+      "evidence": "In cultured macrophages, pharmacologic and genetic inhibition of LPS-induced I\u0371B\u0322/NF\u0371B signaling significantly attenuated IL1\u03B2 mRNA and protein expression.",
+      "context": "Cells were exposed to LPS (1 \u03BCg/ml, Sigma L6529)."
+    }
+
+  ✓ Secreted Thrombospondin-1 Regulates Macrophage Interleukin-1β Producti
+    PMC4728557 · 1475ms
+    {
+      "answer": "yes",
+      "evidence": "However, treatment with 10–20 ng/ml LPS induced significantly more IL-1β mRNA in wild type BMDMs (p ≤ 0.05, Fig. 3B), more NLRP3 mRNA after 10 ng/ml LPS treatment (p ≤ 0.05, Fig. 3C) and more caspase-1 mRNA after any LPS treatment (p ≤ 0.05, Fig. 3D).",
+      "context": "Figure 3: Wild type BMDMs have significantly more caspase-1 and IL-1β mRNA than cd47−/− bone marrow derived macrophages after LPS stimulation. (A) Graph depicts basal levels of IL-1β, NLRP3, and caspase-1 in wild type and cd47−/− mRNAs following twenty separate experiments. (B–D) Cells were stimulated with LPS as indicated for 3 h. 2.5 mM ATP was added to wells for the final 30 min. Levels of IL-1β, NLRP3, and caspase-1 mRNA were measured using quantitative real-time PCR."
+    }
+
+  ✓ Differential toll-like receptor signaling pathways shape IL-1β-depende
+    PMC13311925 · 1235ms
+    {
+      "answer": "yes",
+      "evidence": "LPS stimulation induced a rapid and strong upregulation of IL-1β, peaking at approximately 6 h and declining thereafter, with IL-6 showing a similar pattern.",
+      "context": "To define cytokine induction triggered by TLR4 activation, PBMC-derived macrophages were stimulated with LPS, and the expression of IL-1β, IL-6, IL-12, IL-18, and TNF-α was analyzed (Fig. S2B)."
+    }
+
+  ✓ Macrophage Xanthine Oxidoreductase Links LPS Induced Lung Inflammatory
+    bio_fc056c67 · 1307ms
+    {
+      "answer": "yes",
+      "evidence": "BAL cells from LPS insufflated XOR fl/fl mice showed marked increase in mRNA for inflammatory cytokines IL-6 and TNFα that was significantly reduced (P<0.001) in XOR fl/fl//LysM-Cre mice while at the same time showing significant increase in anti-inflammatory IL-10 mRNA in the XOR fl/fl//LysM-Cre mice ( Figure 2E ).",
+      "context": "To test the effect of myeloid specific XOR knockout in a common endotoxin model of ALI we insufflated E. coli lipopolysaccharide (LPS) directly into the airway of XOR fl/fl and XOR fl/fl//LysM-Cre mice."
+    }
+
+  ✓ Gram-negative bacterial LPS induced poor uterine receptivity and impla
+    PMC1784569 · 1150ms
+    {
+      "answer": "yes",
+      "evidence": "However, it was expressed more in the uterus collected from LPS treated animals as compared to that of the control as period of pregnancy approached to stage of implantation",
+      "context": "The uterine horns collected from control and LPS treated animals during different stages of preimplantation period of pregnancy (i.e., days-1.5, 2.5, 3.5, 4.0, 4.125, 4.33 and 4.42 of pregnancy) were used to study the expression of the proinflammatory cytokine IL-1b, by RT-PCR."
+    }
+
+  ✓ IL-1α and IL-1β-producing macrophages populate lung tumor lesions in m
+    PMC5295423 · 1245ms
+    {"answer": "yes", "evidence": "The stimulation of lung TAMs with LPS+ATP increased the release of IL-1\u0322b.", "context": "Macrophages were stimulated with LPS (0.1 \u0393\u0384g/ml) in the presence or not of ATP (0.5 mM) added for 30 minutes."}
+
+  ✓ Involvement of the p38 MAPK-NLRC4-Caspase-1 Pathway in Ionizing Radiat
+    PMC9698243 · 1635ms
+    {
+      "answer": "yes",
+      "evidence": "L20: As shown in Figure 2A,C, in LPS-only-treated RAW264.7 cells, the production of pro-inflammatory cytokines such as NO and IL-1β was increased compared with that in control cells, indicating that the macrophage cell line functions as expected.",
+      "context": "L19: First, the RAW264.7 cells were exposed to 5 Gy of IR and then stimulated with LPS (0.1 \u0393\u0394\u0393/mL) 24 h later."
+    }
+
+  ✓ High-density lipoprotein attenuates lipopolysaccharide-induced IL-1β a
+    PMC12345257 · 1337ms
+    {
+      "answer": "yes",
+      "evidence": "This demonstrated that the expression of the pro-IL-1β and the production of IL-1β were increased significantly upon 4 h incubation with LPS (Fig. 1A, B).",
+      "context": "To examine the role of HDL in endotoxemia in vitro, we first examined IL-1β activation in response to LPS treatment in murine macrophage RAW 264.7 cells."
+    }
+
+  ✓ Mathematical modelling of activation-induced heterogeneity reveals cel
+    bio_206e5a35 · 1162ms
+    {
+      "answer": "yes",
+      "evidence": "In BMDMs, LPS-induced hypo-responsiveness was observed for cells pre-treated with 1000ng LPS for cumulative secreted levels of TNF, IL6, NO, and IL1β ( Figure S2A ).",
+      "context": "Figure S2 illustrates the hyporesponsive phenotype of Bone Marrow-Derived Macrophages (BMDMs) following pre-treatment with Brefeldin A (BFA)."
+    }
+
+  ✓ Human metapneumovirus driven IFN-β production antagonizes macrophage t
+    PMC10330783 · 1209ms
+    {"answer": "yes", "evidence": "As expected, LPS/nigericin treatment strongly increased the production of mature IL-1β in the medium as shown in previous reports [ Figure 1B , (30)].", "context": "(B, C) Human macrophages were incubated with HMPV, SeV or medium (N.I. = not infected) and then stimulated with LPS for 13 h and nigericin for 40 min. Culture supernatants were analyzed for secreted IL-1β by ELISA (B) and total cell lysates were analyzed for pro-IL-1β protein levels by immunoblotting (C)."}
+
+  ✓ Tissue‐resident macrophages actively suppress IL‐1beta release via a r
+    PMC7360975 · 1377ms
+    {
+      "answer": "yes",
+      "evidence": "LSC stimulation of Gata6-WT and KOmye pM\u0424 for 6 h strongly induced pro-IL-1\u03B2 and Nlrp3 protein level, and co-stimulation with IL-10 repeatedly decreased them.",
+      "context": "Western blot analysis (left) and quantification (right) of Gata6-WT and Gata6-KOmye pM\u0424 stimulated for 6 h with 100 ng/ml LPS, 10 \u03BCM beraprost, 10 ng/ml IL-10 or 5 \u03BCg/ml \u03B1IL-10R."
+    }
+
+  ✓ RNA from LPS-stirnulated macrophages induces the release of tumour nec
+    PMC2365439 · 1279ms
+    {
+      "answer": "yes",
+      "evidence": "The preincubation of macrophage monolayers with cytoplasmic RNA (25 \u0081\u0081g/ml) extracted from LPS (10 g/ml) stimulated macrophages (L-RNA) caused a significant release of TNF and IL-1 in the culture medium as compared with the RNA from non-stimulated macrophages (N-RNA), or with RPMI medium alone (Fig. 1).",
+      "context": "Macrophage monolayers were incubated with N-RNA (25/l/ml), L-RNA (25/g/ml), LPS (10/g/ml) or RPMI medium alone (C) for 6 h."
+    }
+
+  ✓ Motif prediction to distinguish LPS-stimulated pro-inflammatory vs. an
+    PMC2949756 · 946ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[31.5s, saved to m_2cda082a]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  0/25 papers  run m_2cda082a  [2s]
+  [#######.............]  9/25 papers  run m_2cda082a  [4s]
+  [#########...........]  12/25 papers  run m_2cda082a  [6s]
+  [###########.........]  14/25 papers  run m_2cda082a  [8s]
+  [##############......]  18/25 papers  run m_2cda082a  [12s]
+  [####################]  25/25 papers  run m_2cda082a  [14s]
+  [####################]  25/25 papers  run m_2cda082a  [25s]
+  [####################]  25/25 papers  run m_2cda082a  [31s]
+

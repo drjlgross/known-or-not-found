@@ -1,0 +1,188 @@
+$ src/pc.sh map --from s_179a646d --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Tnfsf4 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_13ad0127
+
+  ✓ Genome-wide siRNA screen of genes regulating the LPS-induced TNF-α res
+    PMC5332009 · 747ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Genome-wide siRNA screen of genes regulating the LPS-induced NF-κB and
+    PMC5332015 · 852ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Motif prediction to distinguish LPS-stimulated pro-inflammatory vs. an
+    PMC2949756 · 735ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 915ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Multi-omics analysis of tumor necrosis factor superfamily 4 reveals it
+    PMC12151969 · 855ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ The Activation of Macrophage and Upregulation of CD40 Costimulatory Mo
+    PMC2359863 · 970ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ LPS combined with CD47mAb enhances the anti‑osteosarcoma ability of ma
+    PMC10091190 · 1155ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Lipopolysaccharide-mediated macrophage polarization, conserved pathoge
+    PMC13372918 · 1172ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(
+    PMC7053374 · 797ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Effects of thrombospondin-4 on pro-inflammatory phenotype differentiat
+    PMC6978349 · 922ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Mathematical modelling of activation-induced heterogeneity reveals cel
+    bio_206e5a35 · 876ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Mathematical modelling of activation-induced heterogeneity in TNF, IL6
+    PMC9411976 · 951ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ NF-κB p65 and TCF-4 interactions are associated with LPS-stimulated IL
+    PMC10859262 · 771ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Monocyte normal immune response to LPS stimulation
+    PMC3333514 · 810ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyr
+    PMC9456100 · 1230ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Epigenetic profile in lipopolysaccharide-stimulated macrophages
+    PMC3953056 · 1258ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ NF-κB Plays a Key Role in Inducing CD274 Expression in Human Monocytes
+    PMC3622012 · 801ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Differential mRNA and miRNA Profiles Reveal the Potential Roles of Gen
+    PMC8155903 · 912ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Induction of unique macrophage subset by simultaneous stimulation with
+    PMC10167635 · 721ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Effect of Thrombospondin-4 on Pro-inflammatory Phenotype Differentiati
+    bio_aec0e8f7 · 1218ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Hyperinflammation, T cells, and endotoxemia
+    PMC4695100 · 1043ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Transcriptional profiling of the LPS induced NF-κB response in macroph
+    PMC1781469 · 1086ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Oral and transdermal administration of lipopolysaccharide safely enhan
+    PMC11994614 · 791ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Lipopolysaccharide regulation of antiinflammatory tristetraprolin fami
+    PMC10949775 · 714ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ In vivo cisplatin-resistant neuroblastoma metastatic model reveals tum
+    PMC11135766 · 865ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[23.1s, saved to m_13ad0127]
+
+  [....................]  0/0 papers  [0s]
+  [##..................]  3/25 papers  run m_13ad0127  [2s]
+  [#######.............]  9/25 papers  run m_13ad0127  [4s]
+  [########............]  11/25 papers  run m_13ad0127  [14s]
+  [###############.....]  19/25 papers  run m_13ad0127  [16s]
+  [####################]  25/25 papers  run m_13ad0127  [18s]
+  [####################]  25/25 papers  run m_13ad0127  [22s]
+

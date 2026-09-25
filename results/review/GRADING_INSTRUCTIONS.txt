@@ -1,0 +1,57 @@
+Chunk 5 Grading, Round 1: Instructions (known-or-not-found)
+Sheet source: results/review/chunk5_review_sheet.csv (built by src/make_review_sheet.py, seed 5)
+Scope: 4 graders (G1–G4), 32–33 rows each in round 1 (about 2 hours). Up to 2–3 more rows each may follow in a short round 2.
+
+WHAT YOU ARE CHECKING
+Each row is one paper found by the literature search for one gene. The rows were chosen where a wrong call would change a result, so every call matters. You decide, independently of the pipeline, whether the paper answers YES to this question:
+
+  Does this paper report its OWN experimental data showing that this gene's expression (mRNA or protein, under any name, alias, or species ortholog) CHANGES, up or down, in response to LPS or BACTERIAL infection, compared with unstimulated or uninfected controls?
+
+You are grading blind. The sheet does not show what the pipeline decided, and the order of rows within a gene is shuffled. Please don't open results/review/chunk5_review_key.csv until the team has finished grading.
+
+BEFORE YOU START (once per grader)
+☐ Your grader slot (G1, G2, G3, or G4): ______   Your name as you'll enter it in the "grader" column: ______
+☐ Filter the sheet to your slot (Data → Create a filter → "grader_slot" column).
+☐ Read the rubric below and the 5 worked edge cases.
+
+FOR EACH ROW (fill all five grader columns)
+1. Open the link. PMC links go to the full text. bioRxiv links go to a title search; open the matching preprint.
+2. If the row has a quote (quote_result / quote_context): find that passage in the paper (Ctrl-F a few distinctive words), read the surrounding paragraph and the figure it cites, and decide YES/NO for the PAPER, not just the quote.
+   If the row has NO quote: Ctrl-F the paper for each name in "gene_names", plus "LPS", "lipopolysaccharide", and "infect". Spend at most about 5 minutes. If you find qualifying data, call YES and record where. If not, call NO with reason NOT_IN_PAPER.
+3. Fill in:
+   • grader: your name
+   • call: YES, NO, or UNSURE
+   • reason: one code from the list below (required)
+   • where_in_paper: figure, table, or section plus a few words of the sentence (required for YES, and for any NO where the gene is mentioned)
+   • notes: optional, e.g. what made it hard
+
+REASON CODES (use exactly one)
+YES codes:
+  YES_OWN_DATA: the paper's own data show the change with LPS or bacterial infection vs. control
+NO codes:
+  OTHER_GENE: the passage is about a different gene (look-alikes: CXCL12 vs. Ccl12, HDAC vs. Hdc, CX3CL1 vs. Cxcl1, TREM-1 vs. Tarm1)
+  OTHER_STIMULUS: the change is caused by something other than LPS or bacteria (IFN-γ alone, poly(I:C), a virus, a protozoan like Leishmania, norepinephrine, etc.)
+  NO_CHANGE: the paper reports that the gene did NOT change
+  WRONG_COMPARISON: the comparison isn't stimulated vs. unstimulated (e.g. knockout vs. wild type both under LPS, LPS+drug vs. LPS, strain A vs. strain B)
+  BACKGROUND_OR_REVIEW: a statement citing other work, an introduction or discussion claim, or a review article
+  NOT_IN_PAPER: no qualifying data found in the paper
+UNSURE codes:
+  CANT_ACCESS: can't open the full text
+  AMBIGUOUS: you read it and genuinely can't decide (explain in notes)
+
+WORKED EDGE CASES
+1. "IFN-γ + LPS increased Nos2" with no LPS-alone arm → YES_OWN_DATA if the comparison is against untreated cells (LPS is part of the stimulus). If the comparison is only against IFN-γ alone, → WRONG_COMPARISON.
+2. "Nos2 induction was reduced in Slc7a2−/− cells after LPS" (the row's gene is Slc7a2) → OTHER_GENE: the change is in Nos2, not Slc7a2.
+3. "IL-1β levels were increased in the LPS group" measured in serum or tissue in vivo → YES_OWN_DATA. Macrophages aren't required, and in vivo counts.
+4. Mycobacterium, E. coli, Salmonella, S. aureus, etc. count as bacterial infection. Leishmania, Toxoplasma, fungi, and viruses do NOT.
+5. A human ortholog in human cells (e.g. HCA2 for Hcar2, IL1B for Il1b) → counts, if the rest qualifies.
+
+DOUBLE-GRADED ROWS
+Rows with double_graded = yes appear twice, under two different grader slots. Grade your copy without talking to the other grader. We use these to measure agreement.
+
+WHEN YOU'RE DONE
+☐ Every row in your slot has grader, call, and reason filled.
+☐ File → Download → CSV (of your filtered slot or the whole sheet), and send it to the pipeline owner. It gets saved as data/review/chunk5_review_<slot>.csv, and all counts are computed from it by script. Nobody types counts by hand.
+☐ Approximate time spent: ______ hours
+
+Sign-off (slot ___ complete): ______ Date: ______

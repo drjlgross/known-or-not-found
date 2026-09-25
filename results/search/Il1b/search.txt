@@ -1,0 +1,275 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Il1b (interleukin 1 beta) LPS macrophage
+# exit 0
+Found 25 papers  [s_4c510687]
+
+  1. CCR5 signaling promotes lipopolysaccharide-induced macrophage recruitment and alveolar developmental arrest
+     Ze Chen; Xiaohua Xie; Na Jiang; Jianhui Li; Lei Shen; Yongjun Zhang
+     PMC7883330 · Cell Death & Disease · 2021-02-15 · 40 citations
+     https://doi.org/10.1038/s41419-021-03464-7
+     Matched: Macrophages increase in number and are the primary source of IL-1β in  · cat /papers/PMC7883330/content.lines --lines 49-50
+     │ IL-1β levels in rat lungs were increased in the LPS injection group by 2.5-fold, 3.2-fold,
+     │ and 4.8-fold at P1, P3, and P7, respectively (Fig. 2a). To examine whether the upregulation
+     │ of IL-1β is mainly confined to macrophages, we examined its expression in lung tissue using
+     │ immunofluorescence analysis. LPS treatment caused alveolar macrophage infiltration of the
+     │ lungs in pups at P1, P3, and P7 pups (Fig. 2b). Few macrophages were detected in the lungs
+     │ in the control group. In addition, LPS administration increased the levels of macrophage
+     │ IL-1β compared with control treatment. LPS-induced IL-1β elevation was mainly observed in
+     │ macrophages as identified by co-staining for macrophages and …
+     "This study investigated the role of CCR5 signaling in lipopolysaccharide-induced bronchopulmonary dysplasia. Increased CCR5 expression promotes inflammation and alveolar developmental arrest, suggesting it is a therapeutic target for BPD."
+
+  2. IL-1β+ lung-resident macrophages mediate endothelial dysfunction and acute lung injury in sepsis through immune-metabolic crosstalk
+     Yang Dong; Tianyuan Li; Bei Fang; Dingde Long; Ying Tian; Huan Fu
+     PMC12877074 · Cell Death Discovery · 2025-12-08 · 4 citations
+     https://doi.org/10.1038/s41420-025-02868-0
+     Matched: LPS-treated macrophages inhibit pulmonary endothelial cell proliferati · cat /papers/PMC12877074/content.lines --lines 41-44
+     │ Based on the preceding bioinformatics analyses, IL-1β was hypothesized to serve as a pivotal
+     │ regulatory molecule mediating macrophage-driven inflammation during sepsis. To investigate
+     │ the regulatory role of IL-1β in macrophages on endothelial cells further, we first treated
+     │ macrophages with LPS and then collected the conditioned medium to treat endothelial cells.
+     │ ELISA revealed that IL-6 and TNF-α levels in the supernatant of LPS-treated macrophage
+     │ cultures were markedly elevated compared with the normal group (Fig. 5A). WB analysis was
+     │ performed to detect IL-1β protein expression in LPS-treated macrophages, revealing a
+     │ significant increase in IL-1β levels in the Model group compared to the …
+     "Sepsis-induced acute lung injury (ALI) involves a complex interplay between immune cells and the pulmonary endothelium. However, the molecular regulators that coordinate this interaction remain poorly"
+
+  3. GATA-2 Transduces LPS-Induced il-1β Gene Expression in Macrophages via a Toll-Like Receptor 4/MD88/MAPK-Dependent Mechanism
+     Tsu-Tuan Wu; Yu-Ting Tai; Yih-Giun Cherng; Tyng-Guey Chen; Chien-Ju Lin; Ta-Liang Chen; Huai-Chia Ch...
+     PMC3735524 · PLoS ONE · 2013-08-06 · 27 citations
+     https://doi.org/10.1371/journal.pone.0072404
+     Matched: Enzyme-linked immunosorbent assay (ELISA) · cat /papers/PMC3735524/content.lines --lines 26
+     │ The amounts of IL-1β in the culture medium of macrophages exposed to LPS were determined
+     │ following the method described previously [13]. Briefly, after drug administration, the
+     │ culture medium was collected and centrifuged. Levels of IL-1β in the culture medium were
+     │ quantified following the standard protocols of the ELISA kits purchased from R&D Systems
+     │ (Minneapolis, MN, USA).
+     "LPS exposure induces IL-1β expression in macrophages, with GATA-2 translocation and activation playing a key role. This process is mediated by TLR4, MyD88, and MAPKs."
+
+  4. Macrophage-derived IL-1β/NF-κB signaling mediates parenteral nutrition-associated cholestasis
+     Karim C. El Kasmi; Padade M. Vue; Aimee L. Anderson; Michael W. Devereaux; Swati Ghosh; Natarajan Ba...
+     PMC5895696 · PMC · 2018-04-11 · 97 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5895696/
+     Matched: IL-1β suppresses bile transporter expression in PNAC · cat /papers/PMC5895696/content.lines --lines 27
+     │ We next determined if LPS, which we had shown to be increased in portal venous blood in
+     │ DSS/PN cholestatic mice[25],[26], was an upstream signal for inducing macrophage Il1b
+     │ transcription and suppression of hepatic bile transporters. Intraperitoneal injection of 2.5
+     │ mg/kg LPS into WT mice resulted in increased Il1b transcription in both liver and isolated
+     │ IHMCs (Fig. 2j) coinciding with suppression of hepatic Abcb11 and Abcc2 mRNA (Fig. 2k).
+     │ Macrophage depletion was achieved in a separate group of mice by treatment with clodronate-
+     │ liposome (Clo-lip), confirmed by liver F4/80 immunohistochemistry and reduction of mRNA for
+     │ Emr1, the gene encoding F4/80 (Supplementary Fig. 1E, F). In …
+     "Hepatic macrophages and IL-1β signaling were studied in a mouse model of parenteral nutrition-associated cholestasis. This signaling pathway interferes with bile and sterol transporter gene expression, leading to cholestasis."
+
+  5. The Bisdioxopiperazine ICRF-193 Attenuates LPS-induced IL-1β Secretion by Macrophages
+     Ashleigh Brindle; Callum Bainbridge; Muganti R. Kumar; Stephen Todryk; Kay Padget
+     PMC10798930 · Inflammation · 2023-09-01 · 2 citations
+     https://doi.org/10.1007/s10753-023-01895-2
+     Matched: Abstract · cat /papers/PMC10798930/content.lines --lines 1-5
+     "ICRF-193 was tested for its effect on LPS-induced IL-1β secretion in human macrophages. The drug reduced IL-1β secretion without affecting IL1B mRNA levels, suggesting a post-transcriptional mechanism."
+
+  6. D-mannose suppresses macrophage IL-1β production
+     Simone Torretta; Alessandra Scagliola; Luisa Ricci; Francesco Mainini; Sabrina Di Marco; Ivan Cuccov...
+     PMC7733482 · Nature Communications · 2020-12-11 · 219 citations
+     https://doi.org/10.1038/s41467-020-20164-6
+     Matched: Endotoxin-induced model of sepsis · cat /papers/PMC7733482/content.lines --lines 80-81
+     │ Seven- to 9-week-aged male Balb/c mice were stimulated with a single intraperitoneal (i.p)
+     │ injection of 20 mg/kg O55:B5 LPS diluted in saline solution and treated with 2 g/kg mannose,
+     │ solubilized in saline solution, given hourly by i.p. injections for up to six times. LPS-
+     │ untreated mice (when used) and mannose-untreated mice received corresponding volumes of
+     │ saline solution, as control. Progression of disease was determined by two blinded
+     │ investigators by monitoring mice every 2 h after LPS injection for clinical signs of
+     │ endotoxic shock based on coat and eyes appearance, level of consciousness, locomotor
+     │ activity, respiration rate, and quality scored between 0 and 4, as previously …
+     "This study investigated D-mannose's effect on macrophage activation. D-mannose suppresses IL-1β production by impairing glucose metabolism, offering a potential intervention for inflammatory conditions."
+
+  7. Interleukin-1β Secretion by Macrophages in Patients with Colorectal Cancer in Relation to the Clinicopathological Characteristics of the Disease
+     Nikolay Sadykhov; Nikolay Shakhpazyan; Liudmila Mikhaleva; Arkady Bedzhanyan; Aydin Bumbazhay; Alexa...
+     PMC12682978 · PMC · 2025-12-05 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12682978/
+     Matched: ELISA Measurement of IL-1β · cat /papers/PMC12682978/content.lines --lines 67-70
+     "This study investigated IL-1β secretion by macrophages from colorectal cancer patients. Macrophage IL-1β secretion was significantly higher in patients with advanced tumor stage and extension."
+
+  8. Regular Voluntary Exercise Potentiates Interleukin-1β and Interleukin-18 Secretion by Increasing Caspase-1 Expression in Murine Macrophages
+     Ken Shirato; Kazuhiko Imaizumi; Takuya Sakurai; Junetsu Ogasawara; Hideki Ohno; Takako Kizaki
+     PMC5241476 · PMC · 2017-01-04 · 20 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5241476/
+     Matched: 2.7. Macrophage Treatment with Caspase-1 Inhibitor · cat /papers/PMC5241476/content.lines --lines 29
+     "Regular voluntary exercise was studied in relation to macrophage inflammatory responses. Exercise potentiates IL-1β and IL-18 secretion by increasing caspase-1 expression in macrophages."
+
+  9. TLR4-Upregulated IL-1β and IL-1RI Promote Alveolar Macrophage Pyroptosis and Lung Inflammation through an Autocrine Mechanism
+     Xingying He; Yongbing Qian; Zhigang Li; Erica K. Fan; Yuehua Li; Liang Wu; Timothy R. Billiar; Mark ...
+     PMC4985817 · Scientific Reports · 2016-08-16 · 125 citations
+     https://doi.org/10.1038/srep31663
+     Matched: LPS upregulates IL-1RI cell surface expression in AM · cat /papers/PMC4985817/content.lines --lines 20
+     "This study investigated how LPS-induced IL-1β and IL-1RI affect lung inflammation. Upregulated IL-1RI on alveolar macrophages leads to pyroptosis, exacerbating lung injury through an autocrine mechanism."
+
+  10. IκBβ is an essential co-activator for LPS-induced IL-1β transcription in vivo
+     Melanie Scheibel; Bettina Klein; Heidrun Merkle; Manon Schulz; Ralph Fritsch; Florian R. Greten; Mel...
+     PMC2989768 · The Journal of Experimental Medicine · 2010-11-22 · 90 citations
+     https://doi.org/10.1084/jem.20100864
+     Matched: IκBβ deficiency modify IL-1β cytokine production in LPS-stimulated BMD · cat /papers/PMC2989768/content.lines --lines 23-24
+     │ As macrophages represent the major source of inflammatory cytokine production during sepsis,
+     │ we analyzed cytokine expression in WT and IκBβ−/− BMDMs. In contrast to WT BMDMs that showed
+     │ increased TNF, IL-6, and IL-1β mRNA expression and protein secretion upon LPS stimulation,
+     │ endotoxin treatment led to impaired IL-1β mRNA induction, pro–IL-1β expression, and IL-1β
+     │ secretion in IκBβ−/− BMDMs (Fig. 4, A and B). Although no significant changes in either TNF
+     │ mRNA induction or secretion were observed after LPS treatment, IL-6 secretion was affected
+     │ only at later time points in IκBβ−/− BMDMs (Fig. 4 A), suggesting specific regulation of
+     │ IL-1β transcription by IκBβ in BMDMs. In addition to IL-1β, …
+     "IκBβ's role as a co-activator for LPS-induced IL-1β transcription was studied. Mice lacking IκBβ were protected against LPS-induced shock, indicating its essential function."
+
+  11. Flavonoid Apigenin Inhibits Lipopolysaccharide-Induced Inflammatory Response through Multiple Mechanisms in Macrophages
+     Xiaoxuan Zhang; Guangji Wang; Emily C. Gurley; Huiping Zhou
+     PMC4156420 · PLoS ONE · 2014-09-05 · 203 citations
+     https://doi.org/10.1371/journal.pone.0107072
+     Matched: Effect of apigenin on LPS-induced secretion of IL-6, TNF-α and IL-1β p · cat /papers/PMC4156420/content.lines --lines 69
+     │ Figure 8: Effect of apigenin on LPS-induced IL-1β protein expression and maturation in human
+     │ THP-1-derived macrophages. Cells were pretreated with apigenin (A, 6.25, 12.5, 25 µM) for 2
+     │ h and then treated with LPS (100 ng/mL) for 24 h. The Pro-IL-1β protein level was detected
+     │ by Western blot analysis. β-Actin was used as a loading control. The mature IL-1β protein
+     │ level was detected by ELISA as described under “Methods”. Values are mean ± S.E. of three
+     │ independent experiments. Statistical significance relative to vehicle control, ###p<0.001;
+     │ Statistical significance relative to LPS group, ***p<0.001. A. Representative immunoblots of
+     │ Pro-IL-1β and β-Actin; B. The relative protein levels of …
+     "Apigenin was studied for its effects on lipopolysaccharide-induced inflammation in macrophages. Apigenin inhibits pro-inflammatory cytokine production by modulating multiple signaling pathways, including NLRP3 inflammasome and ERK1/2 activation."
+
+  12. Responses of perivascular macrophages to circulating lipopolysaccharides in the subfornical organ with special reference to endotoxin tolerance
+     Shoko Morita-Takemura; Kazuki Nakahara; Sanae Hasegawa-Ishii; Ayami Isonishi; Kouko Tatsumi; Hiroaki...
+     PMC6375194 · Journal of Neuroinflammation · 2019-02-14 · 23 citations
+     https://doi.org/10.1186/s12974-019-1431-6
+     Matched: Discussion · cat /papers/PMC6375194/content.lines --lines 70-72
+     "Perivascular macrophages in the subfornical organ produce IL-1β in response to LPS. Endotoxin tolerance involves these macrophages ceasing IL-1β production despite LPS presence."
+
+  13. Inhibition of IκBβ/NFκB signaling prevents LPS-induced IL1β expression without increasing apoptosis in the developing mouse lung
+     Sarah McKenna; Brittany Butler; Laurie Jatana; Sankar Ghosh; Clyde J. Wright
+     PMC5761659 · Pediatric research · 2017-08-23 · 20 citations
+     https://doi.org/10.1038/pr.2017.182
+     Matched: LPS-induced IL1β expression is attenuated in AKBI and IκBβ−/− macropha · cat /papers/PMC5761659/content.lines --lines 41-42
+     │ As RAW 264.7 murine macrophages are immortalized and may demonstrate unexpected aberrations
+     │ in NFκB signaling, we sought to demonstrate a role of IκBβ/NFκB signaling in LPS-induced
+     │ IL1β expression in BMDM. First, we confirmed that similar to RAW 264.7 cells, low-dose BAY
+     │ 11-7085 significantly inhibits LPS-induced pro-IL1β expression in WT BMDM (Fig. 2A). To
+     │ further validate a mechanistic link between IκBβ/NFκB signaling and IL1β expression
+     │ following exposure to LPS, we used BMDM isolated from mice genetically modified to have
+     │ either abbreviated or absent IκBβ/NFκB signaling. Due to overexpression of the NFκB
+     │ inhibitory protein IκBβ, AKBI BMDM demonstrate attenuated LPS-induced IκBβ/NFκB …
+     "This study investigated the effects of inhibiting IκBβ/NFκB signaling on LPS-induced IL1β expression and apoptosis in mouse lungs. Inhibiting this pathway prevents IL1β expression without increasing apoptosis, suggesting a potential therapeutic strategy for inflammatory lung injury."
+
+  14. Secreted Thrombospondin-1 Regulates Macrophage Interleukin-1β Production and Activation through CD47
+     Erica V. Stein; Thomas W. Miller; Kelly Ivins-O’Keefe; Sukhbir Kaur; David D. Roberts
+     PMC4728557 · Scientific Reports · 2016-01-27 · 107 citations
+     https://doi.org/10.1038/srep19684
+     Matched: LPS and TSP1 synergize to activate IL-1β · cat /papers/PMC4728557/content.lines --lines 22
+     │ The preceding data suggested that TSP1 signaling through its receptor CD47 has a positive
+     │ effect on the maturation of pro-IL-1β. Therefore, we stimulated macrophages derived from the
+     │ human THP-1 monocytic cell line with soluble human TSP1 to test if LPS and TSP1 are
+     │ sufficient to stimulate secretion of mature caspase-1 and IL-1β. Treatment of THP-1-derived
+     │ macrophages with 30–300 ng/ml of soluble TSP1 without LPS produced no detectable secretion
+     │ of pro-caspase-1, mature caspase-1, or mature IL-1β (Fig. 2A). However, supernatants from
+     │ THP-1 cells stimulated with LPS following TSP1 pre-treatment showed increased secretion of
+     │ mature caspase-1 and mature IL-1β at 10 ng/ml TSP1 but less so at …
+     "Thrombospondin-1 was studied for its role in regulating macrophage IL-1β production. It exhibits both pro- and anti-inflammatory effects on IL-1β, mediated by CD47 and other receptors."
+
+  15. Differential toll-like receptor signaling pathways shape IL-1β-dependent inflammatory responses in chicken macrophages
+     Seungyoon Roh; Tina Sørensen Dalgaard; Ngo Thuy Bao Tran; Tae Sub Park; Cheol-Heui Yun
+     PMC13311925 · PMC · 2026-06-12 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13311925/
+     Matched: Effects of Il-1β deficiency on LPS-induced inflammatory responses in H · cat /papers/PMC13311925/content.lines --lines 95-96
+     "Macrophages are primary regulators of the innate immune system, integrating pattern recognition receptor (PRR) signaling and cytokine production to shape early inflammatory processes. However, the mol"
+
+  16. Macrophage Xanthine Oxidoreductase Links LPS Induced Lung Inflammatory Injury to NLRP3 Inflammasome Expression and Mitochondrial Respiration
+     Mehdi A. Fini *, Jenifer A. Monks, Min Li, Evgenia Gerasimovskaya, Petr Paucek, Kepeng Wang, Maria G...
+     bio_fc056c676f79 · bioRxiv · 2023-07-21 · 3 citations (all versions)
+     Published (2023): https://doi.org/10.1101/2023.07.21.550055
+     Matched: Macrophage XOR Contributes To LPS Induced Inflammasome Expression · cat /papers/bio_fc056c676f79/content.lines --lines 39-40
+     │ In agreement with the microarray analysis data (Tables S1-4), we also observed significant
+     │ decreases in NLRP3, IL- 1β, and TNFα mRNA in XOR fl/fl//LysM-Cre mice compared to XOR fl/fl
+     │ mice when whole lung RNA from saline or LPS insufflated mice was screened by quantitative
+     │ RT-PCR analysis ( Figure S2B-D ). Macrophages purified from the BAL of LPS insufflated XOR
+     │ fl/fl and XOR fl/fl//LysM-Cre mice also revealed significantly decreased mRNA expression for
+     │ NLRP3 and IL-1β ( Figure S2E,F ). The decrease in mRNA for IL-18 followed a similar trend
+     │ but did not reach statistical significance ( Figure S2G ). Both NLRP3 and IL-1β protein
+     │ levels were also reduced in the purified macrophages from …
+     "This study investigated the role of macrophage xanthine oxidoreductase (XOR) in LPS-induced lung injury. Macrophage-specific XOR ablation reduced lung injury, NLRP3 inflammasome expression, and shifted macrophages to a glycolytic phenotype."
+
+  17. Gram-negative bacterial LPS induced poor uterine receptivity and implantation failure in mouse: alterations in IL-1beta expression in the preimplantation embryo and uterine horns.
+     Kaushik Deb; Madan Mohan Chaturvedi; Yogesh Kumar Jaiswal
+     PMC1784569 · PMC · 2005 · 34 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1784569/
+     Matched: Abstract · cat /papers/PMC1784569/content.lines --lines 1-5
+     "Gram-negative bacterial LPS was administered to pregnant mice to study its effects on uterine receptivity and implantation. LPS altered uterine tissue, increased macrophage infiltration, and changed IL-1beta expression in embryos and uterine horns, leading to implantation failure."
+
+  18. IL-1α and IL-1β-producing macrophages populate lung tumor lesions in mice
+     Michela Terlizzi; Chiara Colarusso; Ada Popolo; Aldo Pinto; Rosalinda Sorrentino
+     PMC5295423 · Oncotarget · 2016-08-12 · 44 citations
+     https://doi.org/10.18632/oncotarget.11276
+     Matched: Lung tumor-derived macrophages release IL-1α after LPS stimulation · cat /papers/PMC5295423/content.lines --lines 33
+     "Lung tumor lesions in mice were found to be populated by macrophages that produce IL-1α and IL-1β. This production, regulated by the NLRP3 inflammasome and caspase-11/caspase-1, promotes tumor growth."
+
+  19. Involvement of the p38 MAPK-NLRC4-Caspase-1 Pathway in Ionizing Radiation-Enhanced Macrophage IL-1β Production
+     Ji Sue Baik; You Na Seo; Young-Choon Lee; Joo Mi Yi; Man Hee Rhee; Moon-Taek Park; Sung Dae Kim
+     PMC9698243 · PMC · 2022-11-09 · 11 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9698243/
+     Matched: 2.1. IR Enhances NO and IL-1β Production in LPS-Stimulated RAW264.7 Ma · cat /papers/PMC9698243/content.lines --lines 19-20
+     "Ionizing radiation enhances IL-1β production in LPS-treated macrophages via the p38 MAPK-NLRC4-caspase-1 pathway. This pathway activation leads to increased mature IL-1β, contributing to colorectal cancer malignancy."
+
+  20. High-density lipoprotein attenuates lipopolysaccharide-induced IL-1β activation via scavenger receptor class B type 1
+     Haoyu Deng; Wan Yi Liang; Leqi Chen; Kate Huang; Rylan Mccallum; Patrick C.N. Rensen; John H. Boyd; ...
+     PMC12345257 · PMC · 2025-07-05 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12345257/
+     Matched: SRB1 is required for LPS-stimulated IL-1β activation · cat /papers/PMC12345257/content.lines --lines 46-47
+     "High-density lipoprotein (HDL) was studied for its role in sepsis. HDL inhibits lipopolysaccharide-induced IL-1β activation via scavenger receptor class B type 1, reducing sepsis mortality."
+
+  21. Mathematical modelling of activation-induced heterogeneity reveals cell state transitions underpinning macrophage responses to LPS
+     S. Dey, D. Boucher, J. W. Pitchford, D. Lagos *
+     bio_206e5a356c66 · bioRxiv · 2021-09-19 · 0 citations (all versions)
+     Published (2021): https://doi.org/10.1101/2021.09.19.461010
+     Matched: Macrophage community AIH is dependent on LPS dose · cat /papers/bio_206e5a356c66/content.lines --lines 42-45
+     │ Figure 1: Macrophage community AIH is dependent on LPS dose A. Flow cytometry gating to show
+     │ 16 sub-populations determined based on TNF, IL-6, pro-IL-1b and NOS2. B. Pie charts
+     │ represent the community composition at 16 hours post stimulus with the indicated doses of
+     │ LPS for RAW264.7. Data representative of three independent experiments. Next, we explored
+     │ AIH in BMDMs, a cell model more faithfully capturing heterogeneity of primary macrophages.
+     │ As in the case of RAW264.7 cells, exposure to LPS induced population heterogeneity in BMDMs
+     │ albeit with different kinetics to that observed in RAW264.7 cells (compare Figure 2 with
+     │ Figure 1B ). Whereas all populations were observed at 16h (12h …
+     "This study mathematically models macrophage responses to LPS, analyzing single-cell protein expression. Macrophage hypo-responsiveness to secondary LPS challenges is driven by altered transition rates to non-responsive states."
+
+  22. Human metapneumovirus driven IFN-β production antagonizes macrophage transcriptional induction of IL1-β in response to bacterial pathogens
+     Simon Loevenich; Nicola P. Montaldo; Arthur Wickenhagen; Tatyana Sherstova; Barbara van Loon; Victor...
+     PMC10330783 · PMC · 2023-06-26 · 13 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10330783/
+     Matched: HMPV-LPS treatment upregulates the repressive mark H3K27me3 at the IL1 · cat /papers/PMC10330783/content.lines --lines 77
+     │ Because we found that TNF-α expression (in contrast to IL-1β) was increased in HMPV-LPS
+     │ treated cells, we next examined H3K27me3 mark levels at the TNF promoter. To determine
+     │ enrichment of TNF sequences after ChIP of H3K27me3 we quantified a sequence centered around
+     │ 98 bp upstream of the transcription start (TNF -98). This sequence contains the CRE/κ3-NFAT
+     │ site important for binding of the so-called “TNF enhanceosome” (41). Compared to the IL1B
+     │ promoter, H3K27me3 levels at the CRE/κ3-NFAT site of the TNF promoter were low ( Figure 7A ;
+     │ right part), with a tendency towards reduced H3K27me3 at TNF -98. This corroborates our
+     │ finding of increased (i.e. not repressed) TNF-α mRNA expression in …
+     "Human metapneumovirus (HMPV) pre-infection was studied in human macrophages stimulated by bacterial pathogens. HMPV suppresses IL-1β transcription, likely via epigenetic reprogramming, while enhancing other inflammatory cytokines."
+
+  23. Tissue‐resident macrophages actively suppress IL‐1beta release via a reactive prostanoid/IL‐10 pathway
+     Natacha Ipseiz; Robert J Pickering; Marcela Rosas; Victoria J Tyrrell; Luke C Davies; Selinda J Orr;...
+     PMC7360975 · PMC · 2020-06-02 · 48 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7360975/
+     Matched: Introduction · cat /papers/PMC7360975/content.lines --lines 16
+     "Peritoneal tissue-resident macrophages were studied for their role in suppressing IL-1β release. A Gata6-dependent pathway involving prostacyclin and IL-10 actively inhibits IL-1β processing, even without a secondary signal."
+
+  24. RNA from LPS-stirnulated macrophages induces the release of tumour necrosis factor-α and interleukin-1 by resident macrophages
+     R. A. Ribeiro, F. L. De Lucca, C. A. Flores, F. Q. Cunha, S. H. Ferreira
+     PMC2365439 · biomedrxiv · 1993-01-01 · 8 citations
+     https://doi.org/10.1155/S0962935193000626
+     "Cytoplasmic RNA from LPS-stimulated macrophages was studied for its effect on resident macrophages. This RNA induced the release of TNF-α and IL-1, suggesting a role for extracellular RNA in inflammatory responses."
+
+  25. Motif prediction to distinguish LPS-stimulated pro-inflammatory  vs . antibacterial macrophage genes
+     Rahul K Kollipara, Narayanan B Perumal
+     PMC2949756 · Immunome Research · 2010-01-01 · 5 citations
+     https://doi.org/10.1186/1745-7580-6-5
+     "This study analyzed gene expression patterns in LPS-stimulated macrophages to identify pro-inflammatory and antibacterial genes. It found distinct transcription factor binding site motifs associated with each gene set, helping to distinguish their regulatory mechanisms."
+
+[2.1s, saved to s_4c510687]
+
+💡 Extract data across these results with: map --from s_4c510687 "your question"
+[2.1s, saved to s_4c510687]  [repo: mva-lof-molecular]
+

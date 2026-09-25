@@ -1,0 +1,189 @@
+$ src/pc.sh map --from s_febe8111 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Steap4 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_ee523fb7
+
+  ✓ The expression of STEAP4 in peripheral blood predicts the outcome of s
+    PMC8576732 · 1316ms
+    {
+      "answer": "yes",
+      "evidence": "As shown in Figure 7, both mRNA and protein expression of STEAP4 were significantly increased in septic liver cells.",
+      "context": "The mouse macrophage RAW264.7 cells used in this study were purchased from Shanghai Cell Bank of Chinese Academy of Sciences and cultured in complete medium containing 10% fetal bovine serum. Lipopolysaccharide (LPS, purchased from Sigema, USA) was used to model sepsis cells at a dose of 100 ng/mL."
+    }
+
+  ✓ Immune responses of six-transmembrane epithelial antigen of the prosta
+    PMC10494559 · 1151ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Six transmembrane epithelial antigens of the prostate to illustrate in
+    PMC11346062 · 989ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(
+    PMC7053374 · 1765ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ STEAP4 drives immune dysregulation in myocardial infarction–NSCLC como
+    PMC13364855 · 1152ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Inflammatory response in gastrointestinal cancers: Overview of six tra
+    PMC10823946 · 894ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Inflammation mobilizes copper metabolism to promote colon tumorigenesi
+    PMC7021685 · 1185ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Monocyte normal immune response to LPS stimulation
+    PMC3333514 · 995ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Lipopolysaccharide preconditioning augments the antibacterial activity
+    PMC12035103 · 940ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Hepatic STEAP4 promotes liver regeneration by regulating lysosomal iro
+    PMC13480316 · 1345ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Cryo-EM structures of human STEAP4 reveal mechanism of iron(III) reduc
+    PMC6194020 · 1819ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Species-Specificity of Transcriptional Regulation and the Response to 
+    PMC7386301 · 1127ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Targeting the LPS-STING axis: neomycin restores STING-mediated anti-tu
+    PMC12605410 · 890ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Steap4 attenuates high glucose and S100B-induced effects in mesangial 
+    PMC4459839 · 906ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ STEAP4 expression in CNS resident cells promotes Th17 cell-induced aut
+    PMC8059164 · 910ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Diabetes-Mediated STEAP4 Enhances Retinal Oxidative Stress and Impacts
+    PMC11851923 · 1036ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Correction: Trstenjak Prebanda et al. Upregulation of Mitochondrial Re
+    PMC11394647 · 948ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Lipopolysaccharide (LPS)-induced Macrophage Activation and Signal Tran
+    PMC2196288 · 889ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ STEAP1–4 (Six-Transmembrane Epithelial Antigen of the Prostate 1–4) an
+    PMC9406800 · 1064ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ STEAP4–Mediated ROS–TERT–TP53 Signaling Promotes Granulosa Cell Dysfun
+    PMC13359901 · 1107ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ LPS Counter Regulates RNA Expression of Extracellular Proteases and Th
+    PMC3317238 · 936ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Oral and transdermal administration of lipopolysaccharide safely enhan
+    PMC11994614 · 937ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ BRD4 contributes to LPS-induced macrophage senescence and promotes pro
+    PMC7288959 · 960ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 1048ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Selection of reliable reference genes for the normalisation of gene ex
+    PMC5627409 · 1023ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[27.4s, saved to m_ee523fb7]
+
+  [....................]  0/0 papers  [0s]
+  [##..................]  3/25 papers  run m_ee523fb7  [2s]
+  [##########..........]  13/25 papers  run m_ee523fb7  [4s]
+  [############........]  16/25 papers  run m_ee523fb7  [6s]
+  [##############......]  18/25 papers  run m_ee523fb7  [16s]
+  [####################]  25/25 papers  run m_ee523fb7  [18s]
+  [####################]  25/25 papers  run m_ee523fb7  [24s]
+  [####################]  25/25 papers  run m_ee523fb7  [27s]
+

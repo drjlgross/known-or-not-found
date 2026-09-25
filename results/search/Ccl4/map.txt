@@ -1,0 +1,202 @@
+$ src/pc.sh map --from s_81b7b88e --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Ccl4 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_a3b1ab46
+
+  ✓ Csep1P protein from Campylobacter concisus induces a chemokine-dominan
+    PMC12904459 · 1474ms
+    {
+      "answer": "yes",
+      "evidence": "In both THP-1-derived and human primary macrophages, Csep1P significantly increased the production of IL-8 and CCL4, while IL-1\u0322\u03B2 and TNF-\u03B1 were below the limit of detection. (b) LPS significantly increased the production of all four cytokines in THP-1-derived macrophages.",
+      "context": "The levels of chemokines IL-8 and CCL4, and proinflammatory cytokines IL-1\u0322\u03B2 and TNF-\u03B1 in the supernatants of THP-1-derived macrophages stimulated with PMA for 2 days and primary human macrophages following incubation with Csep1P (10 \u03BCg/ml) or LPS (100 ng/ml) were measured using ELISA."
+    }
+
+  ✓ Emerging role of chemokine CC motif ligand 4 related mechanisms in dia
+    PMC4995753 · 1137ms
+    {
+      "answer": "yes",
+      "evidence": "Furthermore, LPS-induced CCL4 production from human monocytes was significantly and positively correlated with the total and LDL cholesterol concentration (L64).",
+      "context": "CCL4 was first isolated from the culture medium of LPS-activated macrophages (L16)."
+    }
+
+  ✓ C–C Chemokines Released by Lipopolysaccharide (LPS)-stimulated Human M
+    PMC2196157 · 1286ms
+    {
+      "answer": "yes",
+      "evidence": "Table 3 shows that addition of LPS resulted in vigorous production of these C–C chemokines by MDM, both uninfected and infected in vitro with HIV.",
+      "context": "Uninfected or HIV-1Ba-L-infected MDM were cultured in the presence or absence of LPS (1 \u0393\u0384g/ml)."
+    }
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 963ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ TLR4/MyD88 -mediated CCL2 production by lipopolysaccharide (endotoxin)
+    PMC6154519 · 944ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ CCR4 and CCR5 Involvement in Monocyte-Derived Macrophage Migration in 
+    PMC9133420 · 1090ms
+    {
+      "answer": "yes",
+      "evidence": "Expression levels of six chemokines, namely, CXCL10, CCL2, CCL3/4, CCL9/10, CCL5, and CCL12 were significantly higher in BV2 CML than in BV2 CM (Figure 1D).",
+      "context": "After LPS (1 ng/ml) treatment in BV2 (microglia cell line) and J774 (monocyte/macrophage cell line) cells, BV2 migration was approximately two-fold more enhanced compared to J774 migration."
+    }
+
+  ✓ Exhausted CD4+T cells are associated with CCL4-driven immunosuppressiv
+    PMC13180550 · 1770ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ CCR5 signaling promotes lipopolysaccharide-induced macrophage recruitm
+    PMC7883330 · 1016ms
+    {
+      "answer": "yes",
+      "evidence": "Moreover, levels of CCL3, CCL4, and CCL5 were also elevated in the LPS-injected group at P1 and P3 (Fig. 3b).",
+      "context": "B CCL3, CCL4, and CCL5 levels in rat lung tissues."
+    }
+
+  ✓ Genetic and Experimental Evidence Implicates CCL4 in Severe Sepsis Ris
+    PMC13108475 · 1277ms
+    {"answer": "yes", "evidence": "In lung tissues, protein levels of IL-1\u0322 and Caspase1 were increased (Figure 5H), and immunohistochemistry revealed a marked upregulation of CCL4 expression (Figure 5I).", "context": "Sepsis was induced via standardized CLP to replicate human polymicrobial sepsis. [16],[28] Following an 8-hour fast (with free access to water), rats were transferred to a sterile surgical bench."}
+
+  ✓ Association of Circulating C-C Motif Chemokine Ligand 4 to Disease Sev
+    PMC13297423 · 1542ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(
+    PMC7053374 · 846ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ LXA4 Inhibits Lipopolysaccharide-Induced Inflammatory Cell Accumulatio
+    PMC8052121 · 952ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ CCL4 Inhibition in Atherosclerosis: Effects on Plaque Stability, Endot
+    PMC7555143 · 1309ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Lipopolysaccharide-mediated macrophage polarization, conserved pathoge
+    PMC13372918 · 1355ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ A Key Role for Cc Chemokine Receptor 4 in Lipopolysaccharide-Induced E
+    PMC2193157 · 817ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Induction of unique macrophage subset by simultaneous stimulation with
+    PMC10167635 · 853ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Macrophage Phenotype Modulation by CXCL4 in Atherosclerosis
+    PMC3257836 · 936ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Monocyte normal immune response to LPS stimulation
+    PMC3333514 · 853ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Anti-Inflammatory Effects of Cicadidae Periostracum Extract and Oleic 
+    PMC9225349 · 1390ms
+    {
+      "answer": "yes",
+      "evidence": "The mRNA expression levels of chemokines CCL20, CXCL5, CXCL1, CCL2, CXCL10, CXCL11, CCL7, IL-6, CXCL3, CCL17 CXCL2, CCL8, CCRL2, TLR2, PPBP (CXCL7), CCL4, CCL5, and CCL9 were significantly increased in the LPS-stimulated group compared with the normal group.",
+      "context": "Mouse Chemokines and Receptors RT2 Profiler PCR arrays were used to explore the global gene expression patterns in LPS-stimulated LA4 cells."
+    }
+
+  ✓ Phenylbutyrate facilitates homeostasis of non-resolving inflammatory m
+    PMC6974874 · 1013ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Comparative Study of The Effect of LPS on The Function of BALB/c and C
+    PMC3660024 · 851ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Genetic variation in IL-4 activated tissue resident macrophages alters
+    PMC11071541 · 1149ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Effect of connexin 43 in LPS/IL-4-induced macrophage M1/M2 polarizatio
+    PMC11018209 · 980ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Redox-sensitive activation of CCL7 by BRG1 in hepatocytes during liver
+    PMC8406035 · 1502ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ The role of CC-chemokine receptor 4 in murine polymicrobial sepsis
+    PMC3300654 · 1410ms
+    {
+      "answer": "yes",
+      "evidence": "After sepsis induction, CR4 is massively downregulated, whereas expression of the ligands seems to be not severely affected.",
+      "context": "We performed 16 G CASP operations in CCR4 KO mice or wild-type (WT) controls."
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[23.7s, saved to m_a3b1ab46]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  0/25 papers  run m_a3b1ab46  [2s]
+  [###########.........]  14/25 papers  run m_a3b1ab46  [4s]
+  [############........]  15/25 papers  run m_a3b1ab46  [6s]
+  [#############.......]  17/25 papers  run m_a3b1ab46  [8s]
+  [##############......]  18/25 papers  run m_a3b1ab46  [10s]
+  [##################..]  23/25 papers  run m_a3b1ab46  [12s]
+  [####################]  25/25 papers  run m_a3b1ab46  [15s]
+  [####################]  25/25 papers  run m_a3b1ab46  [23s]
+

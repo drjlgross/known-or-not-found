@@ -1,0 +1,202 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Serpina3f (serine (or cysteine) peptidase inhibitor, clade A, member 3F) LPS macrophage
+# exit 0
+Found 25 papers  [s_20b0dead]
+
+  1. Adventitial macrophage accumulation impairs perivascular nerve function in mesenteric arteries with inflammatory bowel disease
+     Elizabeth A. Grunz, Benjamin W. Jones, Olubodun Lateef, Sidharth Sen, Katie Wilkenson, Trupti Joshi,...
+     bio_582891fd6ece · bioRxiv · 2023-04-04 · 2 citations (all versions)
+     Published (2023): https://doi.org/10.1101/2023.04.04.535591
+     Matched: # Supplementary Table 1. Complete listing of differentially expressed  · cat /papers/bio_582891fd6ece/content.lines --lines 385-388
+     │ | <b>Serpina3f</b> | serine (or cysteine) peptidase inhibitor, clade A, member 3F | -4.08432
+     │ | <b>0.05895</b> | 0.00005 | 0.00621 | | <b>Ubd</b> | ubiquitin D | -4.29165 |
+     │ <b>0.05106</b> | 0.00005 | 0.00621 | | <b>6430584L05Rik</b> | RIKEN cDNA 6430584L05 gene |
+     │ -4.31371 | <b>0.05029</b> | 0.00005 | 0.00621 | | <b>Gm6637</b> | predicted gene 6637 |
+     │ -4.92523 | <b>0.03291</b> | 0.00005 | 0.00621 |
+     "Adventitial macrophages accumulate in mesenteric arteries with inflammatory bowel disease, impairing perivascular nerve function. Depleting these macrophages restores normal nerve-mediated vasodilation and vasoconstriction."
+
+  2. LPS Counter Regulates RNA Expression of Extracellular Proteases and Their Inhibitors in Murine Macrophages
+     Andreas Hald, Birgitte Rønø, Leif R. Lund, Kristoffer L. Egerod
+     PMC3317238 · PMC · 2012-01-01 · 19 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3317238/
+     "LPS stimulation of murine macrophages was studied for its effect on extracellular protease and inhibitor gene expression. LPS differentially regulates matrix metalloproteinases and serine proteases, impacting extracellular matrix degradation."
+
+  3. N6-methyladenosine of Spi2a attenuates inflammation and sepsis-associated myocardial dysfunction in mice
+     Xiangyu Wang; Yan Ding; Ran Li; Rujun Zhang; Xuejun Ge; Ruifang Gao; Miao Wang; Yubing Huang; Fang Z...
+     PMC9979126 · Nature Communications · 2023-03-02 · 65 citations
+     https://doi.org/10.1038/s41467-023-36865-7
+     Matched: Human orthologue SERPINA3 suppresses LPS-induced cytokines in human ma · cat /papers/PMC9979126/content.lines --lines 49-50
+     │ To decipher whether Spi2a could compromise cytokines in human macrophages, we overexpressed
+     │ Spi2a in both monocyte-derived macrophages and THP-1 cells. As shown, forced expression of
+     │ Spi2a restrained cytokine generation in human macrophages in response to LPS (Fig. S10a, b).
+     │ Moreover, SERPINA3, the human orthologue of Spi2a, was also upregulated in the presence of
+     │ LPS (Fig. S10c). Accompanied by the changes of m6A levels, SERPINA3 expression was regulated
+     │ by METTL14 in human macrophages (Fig. S10d, e). We next analyzed the amino acid sequences
+     │ between Spi2a and SERPINA3 using the online software Uniprot
+     │ (https://www.uniprot.org/blast/). The percent identity of them is 58.5% (P = 6.9 × …
+     "Spi2a's m6A methylation attenuates inflammation and myocardial dysfunction in sepsis. This methylation inactivates the NF-κB pathway, reducing pro-inflammatory cytokine production and organ damage."
+
+  4. Genome-wide siRNA screen of genes regulating the LPS-induced TNF-α response in human macrophages
+     Jing Sun; Samuel Katz; Bhaskar Dutta; Ze Wang; Iain D.C. Fraser
+     PMC5332009 · Scientific Data · 2017-03-01 · 14 citations
+     https://doi.org/10.1038/sdata.2017.7
+     Matched: Screening reagents · cat /papers/PMC5332009/content.lines --lines 34-37
+     "A genome-wide siRNA screen identified genes regulating the LPS-induced TNF-α response in human macrophages. Novel hits broadly affect innate inflammatory responses to microbial stimuli."
+
+  5. Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni, Yanal Ghosheh, Akula Bala Pramod, Klaus Ley
+     PMC6543837 · Frontiers in Immunology · 2019-05-24 · 1909 citations
+     https://doi.org/10.3389/fimmu.2019.01084
+     "This study compared gene expression in *in vivo* M1/M2 macrophages with *in vitro* classically/alternatively activated macrophages. The findings indicate that *in vivo* M1/M2 polarization is not equivalent to *in vitro* activation states."
+
+  6. Analysis of the transcriptional networks underpinning the activation of murine macrophages by inflammatory mediators
+     Sobia Raza, Mark W. Barnett, Zohar Barnett-Itzhaki, Ido Amit, David A. Hume, Tom C. Freeman
+     PMC4378362 · Journal of Leukocyte Biology · 2014-08-01 · 49 citations
+     https://doi.org/10.1189/jlb.6HI0313-169R
+     "Transcriptomic data was analyzed to understand macrophage activation by inflammatory mediators. The LPS response can be divided into more co-regulated gene subsets than previously thought."
+
+  7. Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni; Yanal Ghosheh; Akula Bala Pramod; Klaus Ley
+     PMC7053374 · Frontiers in Immunology · 2020-02-25 · 77 citations
+     https://doi.org/10.3389/fimmu.2020.00234
+
+  8. Monocyte normal immune response to LPS stimulation
+     P Myrianthefs; K Venetsanou; E Grouzi; E Boutzouka; P Evagelopoulou; G Fildissis; I Spiliotopoulou; ...
+     PMC3333514 · Critical Care · 2002-03-01 · 1 citation
+     https://doi.org/10.1186/cc1554
+
+  9. Epigenetic profile in lipopolysaccharide-stimulated macrophages
+     Ester Correia Sarmento Rios; Thais Martins Lima Salgado; Francisco Garcia Soriano
+     PMC3953056 · Critical Care · 2013-11-05 · 0 citations
+     https://doi.org/10.1186/cc12987
+
+  10. The Transcription Factor C/EBP-β Mediates Constitutive and LPS-Inducible Transcription of Murine SerpinB2
+     Ekemini A. Udofa; Brett W. Stringer; Padmaja Gade; Donna Mahony; Marguerite S. Buzza; Dhananjaya V. ...
+     PMC3589482 · PLoS ONE · 2013-03-05 · 20 citations
+     https://doi.org/10.1371/journal.pone.0057855
+     Matched: The SerpinB2 Gene is Highly Responsive to LPS · cat /papers/PMC3589482/content.lines --lines 41-42
+     "The murine SerpinB2 promoter was analyzed for LPS-inducible regulatory regions. C/EBP-β mediates both constitutive and LPS-induced SerpinB2 transcription."
+
+  11. Serine Supports IL-1β Production in Macrophages Through mTOR Signaling
+     Siyuan Chen; Yaoyao Xia; Fang He; Jian Fu; Zhongquan Xin; Baichuan Deng; Liuqin He; Xihong Zhou; Wen...
+     PMC7481448 · Frontiers in Immunology · 2020-08-27 · 72 citations
+     https://doi.org/10.3389/fimmu.2020.01866
+     Matched: LPS Challenge in Mice · cat /papers/PMC7481448/content.lines --lines 30
+     "Serine deprivation was studied for its effect on macrophage IL-1β production and inflammasome activation. Serine supports IL-1β production in macrophages by activating mTOR signaling."
+
+  12. Sex differences in nociceptor translatomes contribute to divergent prostaglandin signaling in male and female mice
+     Diana Tavares-Ferreira, Pradipta R. Ray, Ishwarya Sankaranarayanan, Galo L. Mejia, Andi Wangzhou, St...
+     bio_78de31c56fc5 · bioRxiv · 2020-07-31 · 70 citations (all versions)
+     Published (2022): https://doi.org/10.1016/j.biopsych.2020.09.022
+     Preprint: https://doi.org/10.1101/2020.07.31.231753
+     Matched: ## Supplemental Materials · cat /papers/bio_78de31c56fc5/content.lines --lines 321-326
+     │ | <i>Hoxd10</i> | Homeobox d10 | Peripheral nervous system neuron development, transcription
+     │ regulation | Cytoplasmic ribonucleoprotein granule | | ND | | | | | | | | …
+     "This study analyzed the translatomes of mouse nociceptors to identify sex differences. Findings reveal sex-specific prostaglandin signaling pathways in nociceptors, contributing to pain perception differences."
+
+  13. Macrophage phenotype in sepsis immunosuppression
+     E Theodorakis; E Diamantaki; C Tsatsanis; D Georgopoulos; K Vaporidi
+     PMC4470529 · Critical Care · 2015-03-16 · 8 citations
+     https://doi.org/10.1186/cc14124
+
+  14. SRSF3 Knockdown Inhibits Lipopolysaccharide-Induced Inflammatory Response in Macrophages
+     Yu Fu; Yanjing Wang; Luyao Zhang; Tianliu He; Weiye Shi; Xueling Guo; Yingze Wang
+     PMC11202707 · Current Issues in Molecular Biology · 2024-06-20 · 8 citations
+     https://doi.org/10.3390/cimb46060372
+     Matched: 3.2. The Expression of SRSF3 Is Upregulated in Lipopolysaccharide-Stim · cat /papers/PMC11202707/content.lines --lines 35
+     │ To investigate the role of SRSF3 in inflammation in vitro, we detected the expression of
+     │ SRSF3 in RAW-264.7 cell lines exposed to lipopolysaccharides. Initially, we determined the
+     │ mRNA and protein levels of lipopolysaccharide-stimulated inflammatory cytokines via qPCR and
+     │ immunoblotting. The data showed that the mRNA levels of IL1β, IL6, and TNFα (Figure 2A–C),
+     │ as well as the protein levels of iNOS and COX2 (Figure 2E–G), increased in a time-dependent
+     │ fashion following lipopolysaccharide stimulation. Simultaneously, we found an obvious
+     │ increase in SRSF3 mRNA expression following lipopolysaccharide exposure (Figure 2D).
+     │ Additionally, the enhancement in SRSF3 protein expression was confirmed …
+     "SRSF3 expression was studied in inflammatory macrophages and found to be increased. Downregulating SRSF3 inhibited inflammation by deactivating NFκB and altering MD2 splicing."
+
+  15. Selection of reliable reference genes for the normalisation of gene expression levels following time course LPS stimulation of murine bone marrow derived macrophages
+     Akane Tanaka, Joyce To, Bronwyn O’Brien, Sheila Donnelly, Maria Lund
+     PMC5627409 · biomedrxiv · 2017-10-03 · 29 citations
+     https://doi.org/10.1186/s12865-017-0223-y
+     "This study assessed the stability of eight common reference genes in LPS-stimulated murine macrophages. It found that some traditional genes are unreliable, and identified two new, stable reference genes for accurate gene expression analysis."
+
+  16. Lipopolysaccharide-Activated Macrophages Suppress Cellular Senescence and Promote Rejuvenation in Human Dermal Fibroblasts
+     Hiroyuki Inagawa; Chie Kohchi; Miyuki Uehiro; Gen-Ichiro Soma
+     PMC12346749 · PMC · 2025-07-22 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12346749/
+     Matched: 3. Discussion · cat /papers/PMC12346749/content.lines --lines 40-42
+     "LPS-activated macrophages were studied for their effect on senescent human dermal fibroblasts. Their secretions suppressed senescence and partially rejuvenated aged fibroblasts."
+
+  17. Inhibitor of serine peptidase 2 enhances Leishmania major survival in the skin through control of monocytes and monocyte-derived cells
+     Amy Goundry; Audrey Romano; Ana Paula C. A. Lima; Jeremy C. Mottram; Elmarie Myburgh
+     PMC5892728 · The FASEB Journal · 2017-11-16 · 11 citations
+     https://doi.org/10.1096/fj.201700797R
+     Matched: cat /papers/PMC5892728/content.lines --lines 12-13
+     "The study investigated how the Leishmania major virulence factor ISP2 affects inflammatory responses in mouse skin. ISP2 enhances parasite survival by controlling monocyte and monocyte-derived cell influx and reducing inflammatory markers."
+
+  18. LPS Tolerance Inhibits Cellular Respiration and Induces Global Changes in the Macrophage Secretome
+     Joseph Gillen; Thunnicha Ondee; Devikala Gurusamy; Jiraphorn Issara-Amphorn; Nathan P. Manes; Sung H...
+     PMC7918892 · Biomolecules · 2021-01-27 · 59 citations
+     https://doi.org/10.3390/biom11020164
+     Matched: 3.2. Variations in LPS Treatment Lead to Variations in the Secretome · cat /papers/PMC7918892/content.lines --lines 43
+     "This study investigated metabolic and secretome changes in macrophages during LPS tolerance induction. LPS tolerance significantly reduces cellular metabolism and alters secreted proteins towards cell survival and metabolism."
+
+  19. Reversal of filarial serpin Wb123-urokinase plasminogen activator receptor mediated alternative macrophage activation by monoclonal antibody
+     Prince Upadhyay; Akshay Munjal; Abir Mondal; Gagandeep Singh; Soumyadeep Mukherjee; Shagun Siwach; M...
+     PMC12768378 · PMC · 2025-12-22 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12768378/
+     Matched: 4. Discussion · cat /papers/PMC12768378/content.lines --lines 86-87
+     "Filarial serpin Wb123 was studied for its role in macrophage activation. Wb123 promotes alternative macrophage activation via uPAR, hindering pro-inflammatory responses and aiding parasite survival."
+
+  20. Effect of LPS, dsRNA or interferons on the phagocytosis of dying cells or mycobacteria by macrophages
+     Frederic Vanzembergh; Greet Brouckaert; Florence Nazé; Steven Van Gucht; Tom Vanden Berghe; Dmitri K...
+     PMC3019512 · BMC Proceedings · 2011-01-10 · 1 citation
+     https://doi.org/10.1186/1753-6561-5-S1-P82
+
+  21. LPS-Induced Modifications in Macrophage Transcript and Secretion Profiles Are Linked to Muscle Wasting and Glucose Intolerance
+     Heeyeon Ryu; Hyeon Hak Jeong; Seungjun Lee; Min-Kyeong Lee; Myeong-Jin Kim; Bonggi Lee
+     PMC10940789 · Journal of Microbiology and Biotechnology · 2023-12-01 · 7 citations
+     https://doi.org/10.4014/jmb.2309.09037
+     Matched: # **Supplementary Figures** · cat /papers/PMC10940789/content.lines --lines 124-125
+     "LPS-stimulated macrophages were studied for their effects on muscle cells. Their secreted factors promote muscle wasting and glucose intolerance by altering gene expression and cytokine release."
+
+  22. MARCO is an IFN-restricted immunometabolic decoy LPS receptor
+     Shriram Ramani, Sara Cahill, Matthew Finnegan, Laurel Stine, Liraz Shmuel-Galia, Fiachra Humphries *
+     bio_74c36375729f · bioRxiv · 2025-03-10 · 0 citations (all versions)
+     Published (2025): https://doi.org/10.1101/2025.03.10.642106
+     Matched: Author Contributions · cat /papers/bio_74c36375729f/content.lines --lines 63
+     "MARCO was identified as a macrophage decoy LPS receptor that restrains caspase 11 activity. Its expression is regulated by itaconate and NRF2, with IFN impairing this regulation to control inflammasome activation."
+
+  23. CD163 deficiency facilitates lipopolysaccharide‐induced inflammatory responses and endotoxin shock in mice
+     Yukio Fujiwara; Koji Ohnishi; Hasita Horlad; Yoichi Saito; Daisuke Shiraishi; Hiroto Takeya; Daiki Y...
+     PMC7518957 · Clinical & Translational Immunology · 2020-09-25 · 16 citations
+     https://doi.org/10.1002/cti2.1162
+     Matched: CD163−/− mice are sensitive to LPS exposure · cat /papers/PMC7518957/content.lines --lines 26-27
+     "CD163 deficiency was studied in mouse models of endotoxin shock and arthritis. The absence of CD163 exacerbated inflammatory responses and reduced survival in endotoxin shock."
+
+  24. Serpina3c Mitigates Adipose Tissue Inflammation by Inhibiting the HIF1α-Mediated Endoplasmic Reticulum Overoxidation in Adipocytes
+     Yu Jiang; Jia-Qi Guo; Ya Wu; Peng Zheng; Shao-Fan Wang; Meng-Chen Yang; Gen-Shan Ma; Yu-Yu Yao
+     PMC12813378 · PMC · 2025-05-22 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12813378/
+     Matched: Serpina3c inhibits ER overoxidation and its downstream effects in adip · cat /papers/PMC12813378/content.lines --lines 135-138
+     "Serpina3c deficiency exacerbates adipose tissue inflammation and ER dysfunction in obese mice. Serpina3c mitigates this by inhibiting HIF1α-mediated ER overoxidation in adipocytes."
+
+  25. Ecotin-like serine peptidase inhibitor ISP1 of Leishmania major plays a role in flagellar pocket dynamics and promastigote differentiation
+     Lesley S Morrison; Amy Goundry; Marilia S Faria; Laurence Tetley; Sylvain C Eschenlauer; Gareth D We...
+     PMC3440592 · Cellular Microbiology · 2012-05-08 · 23 citations
+     https://doi.org/10.1111/j.1462-5822.2012.01798.x
+     Matched: Macrophage infections · cat /papers/PMC3440592/content.lines --lines 58
+     │ Macrophage infections were performed as previously described (Eschenlauer et al., 2009).
+     │ Briefly, elicited peritoneal macrophages from BALB/c mice were infected at a 5:1 ratio with
+     │ stationary-phase promastigotes, for 3 h in RPMI supplemented with 0.1% bovine serum albumin
+     │ (BSA). For the survival assays, after 3 h the extracellular parasites were removed by
+     │ extensive washing and the culture was placed at 37°C in RPMI-FCS medium overnight, before
+     │ fixation and staining. RAW macrophages were infected at a 1:10 ratio with stationary-phase
+     │ promastigotes and incubated at 37°C for 5 days prior to preparation for TEM microscopy. For
+     │ each sample, 107 macrophages were infected and the cells were …
+     "ISP1, an ecotin-like serine peptidase inhibitor from *Leishmania major*, was studied for its role in parasite physiology. Disruption of ISP1 impacts flagellar homeostasis, parasite differentiation, and flagellar pocket vesicle release."
+
+[3.7s, saved to s_20b0dead]
+
+💡 Extract data across these results with: map --from s_20b0dead "your question"
+[3.7s, saved to s_20b0dead]  [repo: mva-lof-molecular]
+

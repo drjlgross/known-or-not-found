@@ -1,0 +1,4 @@
+$ src/pc.sh results m_1d2fc273 --save /Users/julia/known-or-not-found/results/search/Ccl17/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/Ccl17/map_answers.txt
+

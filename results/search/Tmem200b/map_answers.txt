@@ -1,0 +1,182 @@
+Map results  [m_90b1bfdc]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Tmem200b (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+
+--- [1] [success] A Global Picture of Molecular Changes Associated to LPS Treatment in THP-1 Derived Human Macrophages by Fourier Transform Infrared Microspectroscopy ---
+doc_id: PMC9656053
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [2] [success] Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC6543837
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [3] [success] Epigenetic profile in lipopolysaccharide-stimulated macrophages ---
+doc_id: PMC3953056
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [4] [success] Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review ---
+doc_id: PMC13372918
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [5] [success] RNA-Binding Proteins in the Control of LPS-Induced Macrophage Response ---
+doc_id: PMC6369361
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [6] [success] p204 Is Required for Canonical Lipopolysaccharide-induced TLR4 Signaling in Mice ---
+doc_id: PMC5925582
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [7] [success] Monocyte normal immune response to LPS stimulation ---
+doc_id: PMC3333514
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [8] [success] LKB1‐MARK2 signalling mediates lipopolysaccharide‐induced production of cytokines in mouse macrophages ---
+doc_id: PMC7576310
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [9] [success] HuR modulation counteracts lipopolysaccharide response in murine macrophages ---
+doc_id: PMC10110401
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [10] [success] Recombinant human KAI1/CD82 attenuates M1 macrophage polarization on LPS-stimulated RAW264.7 cells via blocking TLR4/JNK/NF-κB signal pathway ---
+doc_id: PMC10315567
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [11] [success] Lipopolysaccharide-Activated Macrophages Suppress Cellular Senescence and Promote Rejuvenation in Human Dermal Fibroblasts ---
+doc_id: PMC12346749
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [12] [success] Comparative Study of The Effect of LPS on The Function of BALB/c and C57BL/6 Peritoneal Macrophages ---
+doc_id: PMC3660024
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [13] [success] Transmembrane TNFα-Expressed Macrophage Membrane-Coated Chitosan Nanoparticles as Cancer Therapeutics ---
+doc_id: PMC6990626
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [14] [success] Oral and transdermal administration of lipopolysaccharide safely enhances self-healing ability through the macrophage network ---
+doc_id: PMC11994614
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [15] [success] Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyromonas endodontalis, Induces Macrophage M1 Profile ---
+doc_id: PMC9456100
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [16] [success] Lipopolysaccharide Tolerance Enhances Murine Norovirus Reactivation: An Impact of Macrophages Mainly Evaluated by Proteomic Analysis ---
+doc_id: PMC9916340
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [17] [success] Macrophage ICAM-1 functions as a regulator of phagocytosis in LPS induced endotoxemia ---
+doc_id: PMC7817350
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [18] [success] Selection of reliable reference genes for the normalisation of gene expression levels following time course LPS stimulation of murine bone marrow derived macrophages ---
+doc_id: PMC5627409
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [19] [success] gga-miR-200b-3p Promotes Macrophage Activation and Differentiation via Targeting Monocyte to Macrophage Differentiation-Associated in HD11 Cells ---
+doc_id: PMC7555432
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [20] [success] Mice Genetically Hyporesponsive to Lipopolysaccharide (LPS) Exhibit a Defect in Endocytic Uptake of LPS and Ceramide ---
+doc_id: PMC2196359
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [21] [success] Expression analysis of G Protein-Coupled Receptors in mouse macrophages ---
+doc_id: PMC2394514
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [22] [success] Expression of Siglec-E Alters the Proteome of Lipopolysaccharide (LPS)-Activated Macrophages but Does Not Affect LPS-Driven Cytokine Production or Toll-Like Receptor 4 Endocytosis ---
+doc_id: PMC5775731
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [23] [success] Fractalkine aggravates LPS‐induced macrophage activation and acute kidney injury via Wnt/β‐catenin signalling pathway ---
+doc_id: PMC8278080
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [24] [success] MARCO is an IFN-restricted immunometabolic decoy LPS receptor ---
+doc_id: bio_74c36375729f
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [25] [success] Progranulin inhibits LPS-induced macrophage M1 polarization via NF-кB and MAPK pathways ---
+doc_id: PMC7275413
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}

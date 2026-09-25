@@ -1,0 +1,221 @@
+$ src/pc.sh map --from s_b77a67c4 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Ptx3 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 24/25 papers
+Results ID: m_80c50cda
+
+  ✓ Pentraxin-3 modulates hepatocyte ferroptosis and the innate immune res
+    PMC11638432 · 1383ms
+    {"answer": "yes", "evidence": "The ELISA results revealed that the serum levels of proinflammatory factors such as TNF-\\u03alpha (P = 0.0002 and P < 0.0001, respectively) and IL-1\\u03b2 (P = 0.0002) were significantly lower in Ptx3\\u2212/\\u2212 mice than in WT mice (Fig. 1g and h), which was consistent with the trend observed for PTX3 levels (P = 0.0373 and P = 0.0050, respectively) (Fig. 1i).", "context": "(g-i) TNF-\\u03alpha, IL-1\\u03b2 and PTX3 levels of Ptx3\\u2212/\\u2212 and WT mice in serum and liver tissue at 0 h and 72 h after injection with 10 mg/kg LPS (n = 3 mice per group)."}
+
+  ✓ Pentraxin 3(PTX 3): An Endogenous Modulator of the Inflammatory Respon
+    PMC3337627 · 1223ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Pentraxin 3 promotes the expression of pro-inflammatory cytokines and 
+    PMC12060373 · 1047ms
+    {
+      "answer": "yes",
+      "evidence": "Our results demonstrated that LPS stimulation significantly increased the expression of PTX3 compared to the control group, with statistical significance observed both at the gene level (P = 0.0132) and protein level (P < 0.0001).",
+      "context": "H9C2 cardiomyocytes were divided into five groups: Control, Lipopolysaccharide (LPS), LPS + PTX3 overexpression, LPS + small interfering RNA targeting PTX3 (si-PTX3), and LPS + PTX3 overexpression + si-NLRP3."
+    }
+
+  ✓ Pentraxin-3 regulates the inflammatory activity of macrophages
+    PMC5600337 · 708ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Unraveling Secretory Mechanisms that Control Pentraxin 3 Secretion in 
+    PMC8089539 · 936ms
+    {
+      "answer": "yes",
+      "evidence": "Upon 6h treatment of LPS, PTX3 expression and secretion were significantly induced in 3T3-L1 and stromal-vascular (SV) differentiated adipocytes, but to a lesser extent in SV cells or 3T3-L1 fibroblasts.",
+      "context": ""
+    }
+
+  ✓ Soluble PTX3 of Human Umbilical Cord Blood-Derived Mesenchymal Stem Ce
+    PMC7204119 · 1439ms
+    {
+      "answer": "yes",
+      "evidence": "The level of PTX3 was increased under inflammation conditions in all four UCB-MSC lots tested, with increases observed in the secretion of MSC1 (10-fold), MSC2 (9-fold), MSC3 (3.5-fold), and MSC4 (3-fold), as shown in Figure 2(d).",
+      "context": "Biotin label-based antibody array analysis using conditioned medium collected from UCB-MSCs alone versus UCB-MSCs cocultured with LPS-licensed NR8383 cells."
+    }
+
+  ✓ Long Pentraxin 3: Experimental and Clinical Relevance in Cardiovascula
+    PMC3649691 · 898ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Silencing of PTX3 alleviates LPS-induced inflammatory pain by regulati
+    PMC7000368 · 1116ms
+    {
+      "answer": "yes",
+      "evidence": "As shown in Figure 1A, the expression of PTX3 on 1, 3, 5 and 7 days after injection of LPS was significantly decreased compared with the control group, and the lowest on 3 day after injection of LPS (Figure 1A,B).",
+      "context": "We established the inflammatory pain model through injecting LPS into mice hind paw, including PTX3 knockout mice and WT mice. Firstly, we analyzed the expression of PTX3 by qRT-PCR in the WT mice model."
+    }
+
+  ✓ PTX3 in Granuloma Formation and Sarcoidosis: Helping Macrophages Accep
+    PMC9704837 · 935ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Pathogen Recognition by the Long Pentraxin PTX3
+    PMC3118294 · 897ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ High PTX3 expression is associated with a poor prognosis in diffuse la
+    PMC8748251 · 892ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ PTX3 mediates the infiltration, migration, and inflammation‐resolving‐
+    PMC9532932 · 1907ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Early persisting elevation of plasma Pentraxin 3 is associated with mo
+    PMC2934436 · 1752ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ A Proteomics-Based Assessment of Inflammation Signatures in Endotoxemi
+    PMC7950208 · 1584ms
+    {
+      "answer": "yes",
+      "evidence": "Western blot analysis of murine plasma confirmed a rapid time-dependent increase in the abundance of multimeric PTX3 in response to LPS injection (Fig. 3A, left panel).",
+      "context": "Mice were injected with LPS (9 mg/kg, i.p.) and harvested at hourly time points (1, 2, 3, and 4 h), whereas control mice were injected with saline."
+    }
+
+  ✓ Inactivation of pentraxin 3 suppresses M2-like macrophage activity and
+    PMC10799366 · 846ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ High Plasma Level of Long Pentraxin 3 (PTX3) Is Associated with Fatal 
+    PMC3053378 · 1038ms
+    {
+      "answer": "yes",
+      "evidence": "L71: The median plasma PTX3 value in the acute phase (maximum value 1 to 4 days after blood culture) was 7.8 ng/ml (interquartile range 3.7–17.5 ng/ml) and 3.0 ng/ml on days 13–18 after blood culture (interquartile range 1.2–6.6 ng/ml).",
+      "context": "L26: The study material comprised 132 adult patients with bacteremia admitted to Tampere University Hospital, Tampere, Finland, from June 1999 to February 2004 (Table 1)."
+    }
+
+  ✗ Untitled
+    ? · 180003ms
+    error: Timed out after 180003ms (per-task cutoff)
+
+  ✓ Host-protective effect of circulating pentraxin 3 (PTX3) and complex f
+    PMC3521240 · 806ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Monocyte differentiation and macrophage priming are regulated differen
+    PMC5472910 · 1454ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Pentraxin-3 Serum Levels Are Associated with Disease Severity and Mort
+    PMC3767672 · 1028ms
+    {"answer": "yes", "evidence": "Increased serum concentrations of PTX3 were observed in the patients with a positive blood culture taken at admission (Mann-Whitney, p = 0.018) (Table 2).", "context": "Assessed by ROC analysis, serum concentrations of PTX3 at time of admission were sufficiently specific (85.0%) and sensitive (89.1%) to discriminate between healthy controls and SIRS (area under the curve (AUC) 0.922 (95% CI 0.892 to 0.946, p<0.0001)."}
+
+  ✓ The Long Pentraxin PTX3 as a Link Between Innate Immunity, Tissue Remo
+    PMC6459138 · 949ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Prenatal Exposure to Lipopolysaccharide Induces PTX3 Expression and Re
+    PMC5656716 · 1115ms
+    {
+      "answer": "yes",
+      "evidence": "L67: Our results show that the levels of mRNA and protein expression of PTX3 in the adipose tissue were significantly increased in the offspring mice of the LPS group at all weeks of age (p < 0.05) (Fig. 5a, b).",
+      "context": "L56: Fig. 1: Characterization of maternal inflammation during pregnancy on the fat development and adipose distribution of offspring mice. Pregnant mice were administered intraperitoneally (i.p) with saline (NS group) or LPS (0.79 mg/kg, LPS group) at gestational 11 days."
+    }
+
+  ✓ The humoral pattern recognition receptor PTX3 is stored in neutrophil 
+    PMC2118544 · 1253ms
+    {
+      "answer": "yes",
+      "evidence": "FACS analysis showed that the relative intracellular level of PTX3 decreased upon 2 h of stimulation with 10 \u0355g/ml Staphylococcus aureus and Escherichia coli (Fig. 3 A).",
+      "context": "L30: Figure 3.: Secretion of PTX3 by activated neutrophils. (A and B) FACS analysis of intracellular PTX3 expression in neutrophils stimulated for 2 h with 10 \u0355g/ml S. aureus or 10 \u0355g/ml FITC-labeled E. coli (A) or in DCs stimulated or not for 8 h with 80 ng/ml LPS (B)."
+    }
+
+  ✓ PTX3 orchestrates tissue repair
+    PMC4741535 · 799ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Role of a fluid-phase PRR in fighting an intracellular pathogen: PTX3 
+    PMC6317801 · 1863ms
+    {
+      "answer": "yes",
+      "evidence": "BMDCs stimulated with iLPS and M90T \\u0394msbB1 \\u0394msbB2 LPS produced a lower level of PTX3 with respect to aLPS and E. coli LPS, consistent with the degree of lipid A acylation (Fig 4H).",
+      "context": "For LPS stimulation BMDCs, cells were seeded on 12-well plates (5 x 105 cells/well). LPS stimulation was carried out with: LPS derived from intracellular shigellae (iLPS), shigellae grown in TSB medium (aLPS) and M90T \\u0394msbB1msbB2 LPS, as described, [8] and commercial E. coli LPS (LPS ultrapure\\u2013EB; InvivoGen) at the concentration of 1 and 10 ng/mL for 18 h."
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[187.9s, saved to m_80c50cda]
+
+  [....................]  0/0 papers  [0s]
+  [###.................]  4/25 papers  run m_80c50cda  [2s]
+  [########............]  11/25 papers  run m_80c50cda  [4s]
+  [#############.......]  17/25 papers  run m_80c50cda  [6s]
+  [################....]  20/25 papers  run m_80c50cda  [10s]
+  [###################.]  24/25 papers  run m_80c50cda  [12s]
+  [###################.]  24/25 papers  run m_80c50cda  [22s]
+  [###################.]  24/25 papers  run m_80c50cda  [32s]
+  [###################.]  24/25 papers  run m_80c50cda  [43s]
+  [###################.]  24/25 papers  run m_80c50cda  [53s]
+  [###################.]  24/25 papers  run m_80c50cda  [63s]
+  [###################.]  24/25 papers  run m_80c50cda  [73s]
+  [###################.]  24/25 papers  run m_80c50cda  [83s]
+  [###################.]  24/25 papers  run m_80c50cda  [94s]
+  [###################.]  24/25 papers  run m_80c50cda  [104s]
+  [###################.]  24/25 papers  run m_80c50cda  [114s]
+  [###################.]  24/25 papers  run m_80c50cda  [124s]
+  [###################.]  24/25 papers  run m_80c50cda  [134s]
+  [###################.]  24/25 papers  run m_80c50cda  [144s]
+  [###################.]  24/25 papers  run m_80c50cda  [154s]
+  [###################.]  24/25 papers  run m_80c50cda  [165s]
+  [###################.]  24/25 papers  run m_80c50cda  [175s]
+  [###################.]  24/25 papers  run m_80c50cda  [185s]
+  [###################.]  24/25 papers  run m_80c50cda  [187s]
+
+$ src/pc.sh map --resume m_80c50cda --retry-failed
+# exit 1
+[error] Something went wrong. Please try again.
+

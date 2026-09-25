@@ -1,0 +1,288 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Mmp13 (matrix metallopeptidase 13) LPS macrophage
+# exit 0
+Found 25 papers  [s_bd782759]
+
+  1. Macrophage Migration and Invasion Is Regulated by MMP10 Expression
+     Megan Y. Murray; Timothy P. Birkland; Jonathan D. Howe; Andrew D. Rowan; Mark Fidock; William C. Par...
+     PMC3653827 · PLoS ONE · 2013-05-14 · 88 citations
+     https://doi.org/10.1371/journal.pone.0063555
+     Matched: LPS Differentially Regulates the Expression of Metalloproteinases in B · cat /papers/PMC3653827/content.lines --lines 42-63
+     │ MMP2 | ↑* | – MMP3 | no effect | ↑* MMP8 | no effect | ↑* MMP9 | ↑* | no effect MMP10 | ↓***
+     │ | ↓*** MMP11 | ↓* | ↓** MMP12 | ↓* | no effect MMP13 | no effect | ↑*** MMP14 | ↑*** | ↑**
+     │ MMP15 | ↓** | no effect MMP21 | – | ↓* MMP25 | ↑*** | ↑*** MMP27 | ↓*** | – MMP28 | no
+     │ effect | ↑*** TIMP2 | ↓*** | ↓* ADAM8 | ↓* | no effect ADAM15 | ↓* | no effect p≤0.05.
+     │ p≤0.01. p≤0.001. ‘–’ indicates no expression. Primary BMDM and Raw264.7 macrophages were
+     │ cultured with 100 ng/mL LPS for 24 h prior to RNA extraction, reverse transcription and qRT-
+     │ PCR analysis. Arrows indicate trend change of gene expression compared to untreated samples.
+     │ Only expression changes of greater than 1 CT are included.
+     "This study investigated the role of MMP10 in macrophage migration and invasion. MMP10 expression promotes macrophage movement and invasion, with implications for pathologies involving macrophage activity."
+
+  2. Proinflammatory cytokines and lipopolysaccharides up regulate MMP-3 and MMP-13 production in Asian elephant (Elephas maximus) chondrocytes: attenuation by anti-arthritic agents
+     Nutnicha Sirikaew; Siriwadee Chomdej; Siriwan Tangyuenyong; Weerapongse Tangjitjaroen; Chaleamchat S...
+     PMC6873576 · PMC · 2019-11-21 · 20 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6873576/
+     Matched: LPS induced the expression of MMP3 and MMP13 along with proinflammator · cat /papers/PMC6873576/content.lines --lines 31-34
+     │ The results show that LPS at a 0.125 μg/mL concentration significantly increased MMP3 and
+     │ MMP13 mRNA levels as well as the levels of IL1B and IL6 while increasing the expression of
+     │ the TNF-α gene (TNFA) at a concentration of only 0.25 μg/mL (Fig. 5). Fig. 5: LPS induces
+     │ expression of MMP3 and MMP13 (a), and proinflammatory cytokines (b) in ELACs culture. The
+     │ chondrocytes were treated with LPS at various concentrations (0.125–1 μg/mL) for 24 h, then
+     │ mRNA levels were assessed by real-time RT-PCR. Results are presented as mean ± SEM. *
+     │ signifies statistical significance compared with control (*p < 0.05) Co-treatment with LPS
+     │ and anti-arthritic drugs such as diacerein, dexamethasone, …
+     "Proinflammatory cytokines and lipopolysaccharides increase MMP-3 and MMP-13 production in elephant chondrocytes. These increases are reduced by common anti-arthritic drugs and natural compounds."
+
+  3. Regulation of matrix metalloproteinase-3 gene expression in inflammation: A molecular study
+     Kavalipurapu Venkata Teja; Sindhu Ramesh; Vishnu Priya
+     PMC6249951 · PMC · 2018 · 16 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6249951/
+     Matched: Cell culture · cat /papers/PMC6249951/content.lines --lines 21
+     │ Lipopolysaccharide (LPS)-induced murine macrophage-like RAW 264.7 cell lines were obtained
+     │ from the cell bank. The cells were maintained in Dulbecco's modified Eagle's medium plus 10%
+     │ fetal bovine serum, supplemented by penicillin (100 U/mL) and streptomycin (100 μg/mL),
+     │ under a temperature of 37°C, and atmosphere of 5% of CO2 and 90% humidity.
+     "This study investigated the regulation of MMP-3 gene expression in macrophages during inflammation. Results showed significantly increased MMP-3 mRNA levels in response to inflammatory stimuli."
+
+  4. Classical Macrophage Activation Up-Regulates Several Matrix Metalloproteinases through Mitogen Activated Protein Kinases and Nuclear Factor-κB
+     Wei-Chun Huang; Graciela B. Sala-Newby; Angela Susana; Jason L. Johnson; Andrew C. Newby
+     PMC3411745 · PMC · 2012-08-03 · 171 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3411745/
+     Matched: Effects of LPS and IFNγ separately and comparison with other classical · cat /papers/PMC3411745/content.lines --lines 126-127
+     │ LPS on its own was a strong activator of COX-2, IκBα and MMPs-1, -10, -12, -14 and -25 but
+     │ did not affect TIMP-3 (Fig. 2). LPS also up-regulated MMP-3 from undetectable starting
+     │ values (results not shown). Maximal concentrations of IL-1 and TNFα were weaker activators
+     │ than LPS (Fig. 2). IFNγ increased COX-2 and MMPs-12 and -14 mRNAs significantly, albeit to a
+     │ lesser extent than other classical activators. IFNγ was more effective than the other
+     │ classical activators tested in increasing MMP-25 and decreasing TIMP-3 mRNAs (Fig. 2).
+     │ Figure 2: Effects of classical activators on MMP and TIMP mRNA levels. Steady state mRNA
+     │ levels were measured by qPCR in M-CSF differentiated macrophages derived …
+     "Classical macrophage activation up-regulates several matrix metalloproteinases (MMPs) and down-regulates TIMP-3. This process involves mitogen-activated protein kinases and NF-κB signaling."
+
+  5. Sirtuin 1 regulates matrix metalloproteinase-13 expression induced by Porphyromonas endodontalis lipopolysaccharide via targeting nuclear factor–κB in osteoblasts
+     Liu Qu; Yaqiong Yu; Lihong Qiu; Di Yang; Lu Yan; Jiajie Guo; Rabita Jahan
+     PMC5405711 · PMC · 2017-04-21 · 26 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5405711/
+     Matched: P.e LPS–induced MMP-13 expression in MC3T3-E1 cells · cat /papers/PMC5405711/content.lines --lines 36-37
+     │ First, this study investigated whether P.e LPS stimulates MMP-13 synthesis in MC3T3-E1
+     │ cells. Cells were treated with the indicated concentration of P.e LPS for 24 h or 20 μg/mL
+     │ of P.e LPS for indicated periods, and the expression of MMP-13 was examined. P.e LPS
+     │ significantly increased the expression of MMP-13 mRNA in a dose-dependent and time-dependent
+     │ manner, as determined by real-time PCR (Figures 1(a) and (b)). The expression and release of
+     │ MMP-13 protein were increased by P.e LPS treatment following the increase of time within 24
+     │ h, and at 48 h, the expression and release of MMP-13 protein remained at a similar level to
+     │ the 24 h group, as determined by Western blot (Figure 1(c)) and …
+     "This study investigated how Sirtuin 1 (SIRT1) affects matrix metalloproteinase-13 (MMP-13) expression in osteoblasts stimulated by *Porphyromonas endodontalis* lipopolysaccharide (P.e LPS). SIRT1 suppresses P.e LPS-induced MMP-13 expression by targeting nuclear factor-κB."
+
+  6. Matrix metalloproteinase 13 modulates intestinal epithelial barrier integrity in inflammatory diseases by activating TNF
+     Roosmarijn E Vandenbroucke; Eline Dejonckheere; Filip Van Hauwermeiren; Sofie Lodens; Riet De Rycke;...
+     PMC3721470 · PMC · 2013-05-30 · 131 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3721470/
+     Matched: MMP13 deficiency protects mice from LPS-induced systemic inflammation  · cat /papers/PMC3721470/content.lines --lines 20-21
+     │ To investigate whether MMP13 contributes to the lethal effects of sepsis, we compared the
+     │ response of wild type (MMP13+/+) and MMP13-deficient (MMP13−/−) mice in the endotoxemia
+     │ model, i.e., i.p. injection of LPS, a model of human sepsis (Cantaluppi et al, 2008; Cruz et
+     │ al, ,). Early after endotoxemia induction, we observed strong up-regulation of MMP13 in all
+     │ tested organs (Fig 1A–D). MMP13−/− mice were significantly protected against LPS-induced
+     │ hypothermia (Fig 1E) and death (Fig 1F). We also subjected MMP13+/+ and MMP13−/− mice to
+     │ caecal ligation and puncture (CLP), the gold standard model for human sepsis (Dejager et al,
+     │ 2011), and this revealed that MMP13−/− mice are also …
+     "Matrix metalloproteinase 13 (MMP13) was studied for its role in intestinal barrier integrity during inflammatory diseases. MMP13 promotes barrier dysfunction by activating TNF, suggesting it as a potential drug target."
+
+  7. LPS stimulation during HCV infection induces MMP/TIMP1 imbalance in macrophages
+     Chao Fan; Xiaoxiao Zhang; Peixin Zhang; Jieru Zhao; Huanjun Shen; Ying Zhang; Xingan Wu; Zhansheng J...
+     PMC7451043 · PMC · 2020-04-03 · 12 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7451043/
+     Matched: TIMP1 in PBMCs differed between high- and low-LPS patients · cat /papers/PMC7451043/content.lines --lines 45-46
+     "This study investigated LPS stimulation effects on macrophages during HCV infection. Increased LPS stimulation leads to MMP/TIMP1 imbalance and collagen I deposition due to endotoxin cross-tolerance."
+
+  8. Osteoarthritis patients with high haemoglobin A1c have increased Toll-like receptor 4 and matrix metalloprotease-13 expression in the synovium
+     Kosuke Murata; Kentaro Uchida; Shotaro Takano; Shintaro Shoji; Dai Iwase; Gen Inoue; Jun Aikawa; Yuj...
+     PMC6642645 · PMC · 2019-07-16 · 9 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6642645/
+     Matched: Effect of TLR4 ligand, LPS, on MMP13 expression and MMP13 production · cat /papers/PMC6642645/content.lines --lines 81-82
+     │ Flow cytometric analysis showed that almost all cells (94.5±0.9%) among cultured SYN cells
+     │ were CD45- CD90+ (synovial fibroblasts) (Figure 5A). TLR4 and MMP13 expression levels were
+     │ elevated in the synovium of OA patients with high HbA1c concentrations. We therefore
+     │ investigated whether a TLR4 agonist regulates MMP13 in synovial cells. Synovial cells
+     │ stimulated with 100 or 1000 ng/mL LPS exhibited significant increases in MMP13 mRNA
+     │ expression compared to vehicle-treated cells (P=0.006 and P=0.007, respectively; Figure 5B).
+     │ MMP13 protein levels in the supernatant of synovial cells treated with 100 or 1000 ng/mL LPS
+     │ were also significantly higher than those of cells treated with vehicle …
+     "This study examined Toll-like receptor and matrix metalloprotease expression in the synovium of osteoarthritis patients with varying HbA1c levels. High HbA1c was associated with increased expression of TLR4 and MMP13 in the synovium."
+
+  9. LPS Counter Regulates RNA Expression of Extracellular Proteases and Their Inhibitors in Murine Macrophages
+     Andreas Hald, Birgitte Rønø, Leif R. Lund, Kristoffer L. Egerod
+     PMC3317238 · Mediators of Inflammation · 2012-01-01 · 19 citations
+     https://doi.org/10.1155/2012/157894
+     Matched: 1. Introduction · cat /papers/PMC3317238/content.lines --lines 11-14
+     │ Macrophages are involved in many aspects of immunity. In addition to clearing apoptotic
+     │ cells and cellular debris following infection and tissue damage, they also play an important
+     │ regulatory role by modulating immune responses through the secretion of pro- or anti-
+     │ inflammatory cytokines [1]. Though macrophages clearly are important for a functional immune
+     │ system, they have also been shown to exacerbate pathological conditions involving chronic
+     │ inflammatory reactions, including atherosclerosis and cancer [2–4]. The participation of
+     │ monocytes/macrophages in an immune response depends on their ability to migrate through the
+     │ tissue to the inflammatory site, and it has been thoroughly …
+     "LPS stimulation of murine macrophages was studied for its effect on extracellular protease and inhibitor gene expression. LPS differentially regulates matrix metalloproteinases and serine proteases, impacting extracellular matrix degradation."
+
+  10. Biochemical alterations in inflammatory reactive chondrocytes: evidence for intercellular network communication
+     Eva Skiöldebrand; Anna Thorfve; Ulrika Björklund; Pegah Johansson; Ruth Wickelgren; Anders Lindahl; ...
+     PMC5857518 · PMC · 2018-02-01 · 12 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5857518/
+     Matched: Activated MMP-13 release · cat /papers/PMC5857518/content.lines --lines 50-56
+     │ The concentration of activated MMP-13 was increased after the chondrocytes had been
+     │ incubated with IL-1β. No activated MMP-13 release was obtained after the chondrocytes had
+     │ been incubated with LPS (Table 1). Table 1: Concentrations of activated MMP-13. MMP-13
+     │ measured in culture, mean (pg/ml) ± SEM, supernatants of unstimulated, IL-1β or LPS-
+     │ stimulated monolayer chondrocytes, compared to total amount of protein in cell lysate. A
+     │ higher MMP-13 concentration in media from IL-1β stimulated cells compared to unstimulated
+     │ control was found. One-way analysis of variance followed by the Bonferroni test was used for
+     │ multiple group comparisons. P < 0.05 was considered statistically significant. NS …
+     "This study investigated biochemical changes in chondrocytes stimulated with inflammatory inducers. Inflammatory induction altered cytoskeleton, calcium signaling, and increased expression of inflammatory markers, resembling responses in other cell networks."
+
+  11. Suppression of LPS-induced matrix-metalloproteinase responses in macrophages exposed to phenytoin and its metabolite, 5-(p-hydroxyphenyl-), 5-phenylhydantoin
+     Ryan Serra; Abdel-ghany Al-saidi; Nikola Angelov; Salvador Nares
+     PMC2949711 · PMC · 2010-09-15 · 15 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2949711/
+     Matched: Macrophage stimulation · cat /papers/PMC2949711/content.lines --lines 23
+     "Phenytoin and its metabolite were tested for their effects on macrophage responses to LPS. These compounds suppressed the production of certain matrix metalloproteinases and TNF-α."
+
+  12. ADAM-10 Regulates MMP-12 during Lipopolysaccharide-Induced Inflammatory Response in Macrophages
+     Yan Jiang; Qiming Gong; Jinmei Huang; Yuanxun Gong; Qiang Tang; Dalong Wei; Qianli Tang; Jingjie Zha...
+     PMC9507754 · PMC · 2022-09-16 · 14 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9507754/
+     Matched: 5. Conclusions · cat /papers/PMC9507754/content.lines --lines 61-63
+     │ Comprehensively, this study showed that ADAM-10 participates in regulation of macrophages
+     │ via MMP-10, for example, in the context of LPS-induced inflammation. Figure 1: A disintegrin
+     │ and metalloprotease 10 (ADAM-10) depletion induces matrix metalloproteinase 12 (MMP-12)
+     │ disorders in RAW264.7 cells. (a) ADAM-10 interference in RAW264.7 cells. Scale bar = 100 μm.
+     │ The dot plots show the statistical analysis of the expression level of ADAM-10 via
+     │ qualitative PCR (qPCR). Each dot represents a readout. (b) Tandem mass tag (TMT) results; 40
+     │ proteins were downregulated and 30 proteins upregulated in ADAM-10 RAW264.7 depleted cells
+     │ compared to control cells. Each dot represents a readout. (c) …
+     "This study investigated ADAM-10's role in macrophage inflammation. ADAM-10 regulates MMP-12 expression, impacting inflammatory pathways and macrophage viability."
+
+  13. The orientation of choroidal macrophage polarization significantly influences the development of myopia in murine models
+     Jing Hou, Shin-ichi Ikeda, Kiwako Mori, Heonuk Jeong, Hidemasa Torii, Kazuno Negishi, Kazuo Tsubota ...
+     bio_b06931d16f63 · bioRxiv · 2023-06-12 · 1 citation (all versions)
+     Published (2023): https://doi.org/10.1101/2023.06.12.544445
+     Matched: LPS treatment · cat /papers/bio_b06931d16f63/content.lines --lines 60
+     │ Lipopolysaccharides from Escherichia coli O111:B4 (Merck, Tokyo, Japan) were dissolved in
+     │ PBS and injected intraperitoneally to induce systemic M1 macrophage polarization. The
+     │ concentration of LPS was 10 mg/ml, and the injection dose was increased proportionally to
+     │ the body weight of the mice, with 10 μg of LPS given per gram of mice. Since LPS injections
+     │ caused a large reduction in mouse weight, we monitored and documented the mouse body weight
+     │ before each injection. In addition, a corresponding volume of PBS was injected
+     │ intraperitoneally as a vehicle control.
+     "Choroidal macrophages were studied for their role in myopia development. Their polarization towards M1 or M2 phenotypes significantly influences choroidal thickness and myopia progression."
+
+  14. Collagenase-3 (MMP-13) deficiency protects C57BL/6 mice from antibody-induced arthritis
+     Anjana Singh; Narendiran Rajasekaran; Bettina Hartenstein; Sibylle Szabowski; Mieczyslaw Gajda; Pete...
+     PMC3979078 · PMC · 2013-12-27 · 36 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3979078/
+     Matched: Conclusion · cat /papers/PMC3979078/content.lines --lines 57
+     "Collagenase-3 (MMP-13) deficiency was studied in an antibody-induced arthritis model. MMP-13 deficient mice showed significantly reduced arthritis severity and joint destruction compared to wild-type mice."
+
+  15. TPX2 upregulates MMP13 to promote the progression of lipopolysaccharide-induced osteoarthritis
+     Jingtao Yu; Weiqi Wang; Zenghui Jiang; Huashun Liu
+     PMC11104344 · PMC · 2024-05-17 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11104344/
+     Matched: TPX2 inhibits LPS-induced OA progression through MMP1 · cat /papers/PMC11104344/content.lines --lines 75-76
+     │ We detected the MMP13 and EMC markers levels in C28/I2 cells with si-TPX2 or over-MMP13. As
+     │ shown in Fig. 7A, TPX2 knockdown resulted in increased levels of MMP13, Aggrecan and
+     │ Collagen II protein levels. Conversely, in the si-TPX2+over-MMP13 group, MMP13 protein
+     │ expressions were up-regulated, while Aggrecan and Collagen II were slightly reduced.
+     │ Besides, TPX2 knockdown prompted the growth of C28/I2 cells, while MMP13 overexpression
+     │ attenuated the proliferation activity of C28/I2 cells (Fig. 7B). Flow cytometry assays
+     │ demonstrated an increase in apoptosis rates in the si-TPX2 and over-MMP13 treated cells
+     │ (Fig. 7C), indicating that TPX2 plays a crucial role in inhibiting LPS-induced OA …
+     "This study identified TPX2 as a hub gene in osteoarthritis using bioinformatics and in vitro assays. TPX2 promotes osteoarthritis progression by upregulating MMP13."
+
+  16. MMP13 is a critical target gene during the progression of osteoarthritis
+     Meina Wang; Erik R Sampson; Hongting Jin; Jia Li; Qiao H Ke; Hee-Jeong Im; Di Chen
+     PMC3672752 · PMC · 2013-01-08 · 466 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3672752/
+     Matched: Conclusions · cat /papers/PMC3672752/content.lines --lines 66
+     "This study investigated MMP13's role in osteoarthritis development and tested an inhibitor's efficacy. Inhibiting MMP13 decelerated osteoarthritis progression and preserved cartilage."
+
+  17. Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review
+     Leah Elson; Niels Eijkelkamp; J. Henk Coert
+     PMC13372918 · Inflammation Research · 2026-07-15 · 0 citations
+     https://doi.org/10.1007/s00011-026-02317-3
+     Matched: Adipose macrophages · cat /papers/PMC13372918/content.lines --lines 90-91
+     "This systematic review synthesized evidence for a conserved lipopolysaccharide (LPS)-mediated pathogenic mechanism across diverse tissues and evaluated its potential relevance to peripheral neuropathy"
+
+  18. LPS‐Induced Inflammation Prior to Injury Exacerbates the Development of Post‐Traumatic Osteoarthritis in Mice
+     Melanie E Mendez; Aimy Sebastian; Deepa K Murugesh; Nicholas R Hum; Jillian L McCool; Allison W Hsia...
+     PMC7689775 · Journal of Bone and Mineral Research · 2020-08-03 · 41 citations
+     https://doi.org/10.1002/jbmr.4117
+     Matched: Cellular infiltration by type 1 macrophages is elevated in LPS‐treated · cat /papers/PMC7689775/content.lines --lines 38-39
+     "Systemic inflammation induced by LPS before joint injury was studied in mice. Pre-injury inflammation significantly worsened post-traumatic osteoarthritis development, characterized by greater cartilage loss and bone volume reduction."
+
+  19. Elevated IL-33 promotes expression of MMP2 and MMP9 via activating STAT3 in alveolar macrophages during LPS-induced acute lung injury
+     Yafeng Liang; Nengli Yang; Guoquan Pan; Bingxin Jin; Shufen Wang; Wei Ji
+     PMC6208075 · Cellular & Molecular Biology Letters · 2018-10-31 · 90 citations
+     https://doi.org/10.1186/s11658-018-0117-x
+     Matched: LPS induced expression of ST-2 and secretion of IL-33, TNF-α, MMP2, an · cat /papers/PMC6208075/content.lines --lines 44-45
+     "Elevated IL-33 in LPS-induced acute lung injury activates STAT3 in alveolar macrophages, promoting MMP2 and MMP9 expression. This pathway exacerbates pulmonary inflammation and lung injury."
+
+  20. Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni, Yanal Ghosheh, Akula Bala Pramod, Klaus Ley
+     PMC6543837 · Frontiers in Immunology · 2019-05-24 · 1909 citations
+     https://doi.org/10.3389/fimmu.2019.01084
+     Matched: In vivo M1(=LPS+)C57BL/6J Exclusive Genes Drive Anti-bacterial Immune  · cat /papers/PMC6543837/content.lines --lines 40-43
+     │ The in vivo M1(=LPS+)C57BL/6J signature contains 177 uniquely up-regulated genes (Figure 1A,
+     │ Supplementary Table 5). Compared to the in vitro signatures we found the expression of many
+     │ genes correlated with the LPS mediated activation of Toll-like receptor 4 (Tlr4). Downstream
+     │ of Tlr4 is myeloid differentiation factor 88 (MyD88), Nfkb1, Rela, Rps6ka2, Tank, and Ripk2,
+     │ (40) all expressed in M1(=LPS+)C57BL/6J. These genes are responsible for an anti-bacterial
+     │ immune response. The chemokine Ccl2 and the hematopoietic cytokine Csf2 (GM-CSF) are
+     │ positively correlated with M1 polarization in vivo, but not increased in response to IFN-γ
+     │ and LPS in vitro. The same is true for the pro-inflammatory …
+     "This study compared gene expression in *in vivo* M1/M2 macrophages with *in vitro* classically/alternatively activated macrophages. The findings indicate that *in vivo* M1/M2 polarization is not equivalent to *in vitro* activation states."
+
+  21. Matrix Metalloproteinase 13 Is Induced in Fibroblasts in Polyomavirus Middle T Antigen-Driven Mammary Carcinoma without Influencing Tumor Progression
+     Boye S. Nielsen; Mikala Egeblad; Fritz Rank; Hanne A. Askautrud; Caroline J. Pennington; Tanja X. Pe...
+     PMC2493034 · PMC · 2008-08-13 · 33 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2493034/
+     Matched: Early tumor formation does not require MMP13 in MMTV-PyMT · cat /papers/PMC2493034/content.lines --lines 49-50
+     "MMP13 was studied in a mouse model of mammary carcinoma, showing induction in myofibroblasts during invasion. Its absence did not affect tumor progression or metastasis, but altered collagen fibril metabolism."
+
+  22. Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyromonas endodontalis, Induces Macrophage M1 Profile
+     Pablo Veloso; Alejandra Fernández; Jessica Astorga; David González-Quintanilla; Alfredo Castro; Alej...
+     PMC9456100 · International Journal of Molecular Sciences · 2022-09-02 · 16 citations
+     https://doi.org/10.3390/ijms231710011
+     Matched: 5. Conclusions · cat /papers/PMC9456100/content.lines --lines 70-73
+     "This study investigated the effects of lipopolysaccharides from *Porphyromonas gingivalis* and *Porphyromonas endodontalis* on macrophage polarization. *P. gingivalis* LPS induced an M1 macrophage profile, while *P. endodontalis* LPS did not."
+
+  23. Matrix metalloproteases as maestros for the dual role of LPS- and IL-10-stimulated macrophages in cancer cell behaviour
+     Ana P. Cardoso; Marta L. Pinto; Ana T. Pinto; Marta T. Pinto; Cátia Monteiro; Marta I. Oliveira; Sus...
+     PMC4456051 · BMC Cancer · 2015-06-05 · 32 citations
+     https://doi.org/10.1186/s12885-015-1466-8
+     Matched: Calculation of macrophage aspect ratio · cat /papers/PMC4456051/content.lines --lines 43
+     │ Macrophage aspect ratio was quantified using ImageJ software on images of actin/tubulin
+     │ unstimulated, LPS- or IL-10-stimulated macrophages. Aspect ratio was calculated as the
+     │ quotient between the length of each cell major and minor axes, as previously described [27].
+     │ At least 100 cells per donor/per condition were scored, and at least three independent
+     │ experiments were analysed with cells from three different donors.
+     "This study examined how LPS- and IL-10-stimulated macrophages affect cancer cell behavior. IL-10-stimulated macrophages more effectively promote cancer cell invasion and angiogenesis, primarily through increased MMP-2 and MMP-9 activity."
+
+  24. Matrix metalloproteinase 28 is regulated by TRIF- and type I IFN-dependent signaling in macrophages
+     Matthew E. Long; Ke-Qin Gong; Joseph S. Volk; William E. Eddy; Mary Y. Chang; Charles W. Frevert; Wi...
+     PMC6545921 · Innate Immunity · 2018-08-01 · 10 citations
+     https://doi.org/10.1177/1753425918791024
+     Matched: LPS-induced expression of macrophage Mmp10 is IFNAR1 dependent · cat /papers/PMC6545921/content.lines --lines 34-35
+     "Macrophage MMP28 expression is regulated by TRIF and type I IFN signaling. MMP28 influences the inflammatory response of macrophages to poly(I:C) stimulation."
+
+  25. Overview of MMP-13 as a Promising Target for the Treatment of Osteoarthritis
+     Qichan Hu; Melanie Ecker
+     PMC7916132 · PMC · 2021-02-09 · 433 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7916132/
+     Matched: 3.5. Receptors · cat /papers/PMC7916132/content.lines --lines 36
+     "This review examines MMP-13's role in osteoarthritis progression and its potential as a therapeutic target. It highlights MMP-13's involvement in cartilage degradation and discusses strategies for developing inhibitors."
+
+[2.4s, saved to s_bd782759]
+
+💡 Extract data across these results with: map --from s_bd782759 "your question"
+[2.4s, saved to s_bd782759]  [repo: mva-lof-molecular]
+

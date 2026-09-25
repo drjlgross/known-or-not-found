@@ -1,0 +1,172 @@
+Map results  [m_6818648f]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Tnfsf15 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+
+--- [1] [success] TNFSF15 Promotes Antimicrobial Pathways in Human Macrophages and These Are Modulated by TNFSF15 Disease-Risk Variants ---
+doc_id: PMC7689184
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [2] [success] TNFSF15 facilitates differentiation and polarization of macrophages toward M1 phenotype to inhibit tumor growth ---
+doc_id: PMC8812784
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [3] [success] Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC6543837
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [4] [success] LITAF and TNFSF15, two downstream targets of AMPK, exert inhibitory effects on tumor growth ---
+doc_id: PMC3431012
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [5] [success] Identifying and testing candidate genetic polymorphisms in irritable bowel syndrome: association with TNFSF15 and tumor necrosis factor-α ---
+doc_id: PMC3959508
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [6] [success] Quantitative Proteomics Reveals Fh15 as an Antagonist of TLR4 Downregulating the Activation of NF-κB, Inducible Nitric Oxide, Phagosome Signaling Pathways, and Oxidative Stress of LPS-Stimulated Macrophages ---
+doc_id: PMC12294962
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [7] [success] Reduced monocyte and macrophage TNFSF15/TL1A expression is associated with susceptibility to inflammatory bowel disease ---
+doc_id: PMC6130856
+{
+  "answer": "yes",
+  "evidence": "In monocytes stimulated with immune complex and intracellular poly(I:C), the protective allele was associated with higher levels of TNFSF15 mRNA (p 1.33 x 10−3 and p 0.0155, respectively), similar to results in unstimulated cells, while LPS-stimulated monocytes showed a comparable trend but with more variability (p 0.273, Fig 2A).",
+  "context": "Monocytes were stimulated with 100 ng/mL LPS (Sigma), plate-bound immune complex (as previously described [52]), or 100 μg/mL intracellular polyinosinic:polycytidylic acid (poly(I:C)), prepared with 1 mg/mL high molecular weight poly(I:C) mixed 1:1 with LyoVec transfection reagent (Invivogen) at RT for 15 minutes."
+}
+
+--- [8] [success] Protective effect of growth differentiation factor 15 in sepsis by regulating macrophage polarization and its mechanism ---
+doc_id: PMC9161903
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [9] [success] Distinct Expression Patterns of Two Tumor Necrosis Factor Superfamily Member 15 Gene Isoforms in Human Colon Cancer ---
+doc_id: PMC6584785
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [10] [success] GDF15 orchestrates mitochondrial-immune crosstalk via SMAD7-HIF-1α-PKM2 cascade to attenuate septic liver injury ---
+doc_id: PMC12872506
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [11] [success] Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review ---
+doc_id: PMC13372918
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [12] [success] Differential mRNA and miRNA Profiles Reveal the Potential Roles of Genes and miRNAs Involved in LPS Infection in Chicken Macrophages ---
+doc_id: PMC8155903
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [13] [success] Monocyte normal immune response to LPS stimulation ---
+doc_id: PMC3333514
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [14] [success] Cytokine Expression and Macrophage Localization in Xenograft and Allograft Tumor Models Stimulated with Lipopolysaccharide ---
+doc_id: PMC5979423
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [15] [success] Tremella fuciformis Polysaccharides Attenuate Oxidative Stress and Inflammation in Macrophages through miR-155 ---
+doc_id: PMC5954968
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [16] [success] Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyromonas endodontalis, Induces Macrophage M1 Profile ---
+doc_id: PMC9456100
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [17] [success] Genetic and Epigenetic Etiology of Inflammatory Bowel Disease: An Update ---
+doc_id: PMC9778199
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [18] [success] The Clinical Value of GDF15 and Its Prospective Mechanism in Sepsis ---
+doc_id: PMC8456026
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [19] [error] /papers/PMC5358891/ ---
+
+--- [20] [success] Oral and transdermal administration of lipopolysaccharide safely enhances self-healing ability through the macrophage network ---
+doc_id: PMC11994614
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [21] [success] Macrophages as a Source and Target of GDF-15 ---
+doc_id: PMC11242731
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [22] [success] Transcriptional profiling of the LPS induced NF-κB response in macrophages ---
+doc_id: PMC1781469
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [23] [success] Growth Differentiation Factor-15 Deficiency Augments Inflammatory Response and Exacerbates Septic Heart and Renal Injury Induced by Lipopolysaccharide ---
+doc_id: PMC5430818
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [24] [success] TNFSF15 facilitates the differentiation of CD11b+ myeloid cells into vascular pericytes in tumors ---
+doc_id: PMC10690882
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [25] [success] Role of TNFSF15 in the intestinal inflammatory response ---
+doc_id: PMC6384511
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}

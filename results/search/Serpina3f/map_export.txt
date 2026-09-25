@@ -1,0 +1,4 @@
+$ src/pc.sh results m_c386aa79 --save /Users/julia/known-or-not-found/results/search/Serpina3f/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/Serpina3f/map_answers.txt
+

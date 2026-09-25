@@ -1,0 +1,4 @@
+$ src/pc.sh results s_b4d5b980 --save /Users/julia/known-or-not-found/results/search/Cxcl1/parent.csv
+# exit 0
+  ✓ Saved 25 papers to /Users/julia/known-or-not-found/results/search/Cxcl1/parent.csv
+

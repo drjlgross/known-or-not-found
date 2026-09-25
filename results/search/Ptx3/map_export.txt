@@ -1,0 +1,8 @@
+$ src/pc.sh results m_80c50cda --save /Users/julia/known-or-not-found/results/search/Ptx3/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/Ptx3/map_answers.txt
+
+$ src/pc.sh results m_80c50cda --save /Users/julia/known-or-not-found/results/search/Ptx3/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/Ptx3/map_answers.txt
+

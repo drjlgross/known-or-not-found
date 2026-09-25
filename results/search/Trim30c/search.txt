@@ -1,0 +1,211 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Trim30c (tripartite motif-containing 30C) LPS macrophage
+# exit 0
+Found 25 papers  [s_38f448a0]
+
+  1. Epigenetic profile in lipopolysaccharide-stimulated macrophages
+     Ester Correia Sarmento Rios; Thais Martins Lima Salgado; Francisco Garcia Soriano
+     PMC3953056 · Critical Care · 2013-11-05 · 0 citations
+     https://doi.org/10.1186/cc12987
+
+  2. Genome-wide siRNA screen of genes regulating the LPS-induced TNF-α response in human macrophages
+     Jing Sun, Samuel Katz, Bhaskar Dutta, Ze Wang, Iain D.C. Fraser
+     PMC5332009 · Scientific Data · 2017-03-01 · 14 citations
+     https://doi.org/10.1038/sdata.2017.7
+     "A genome-wide siRNA screen identified genes regulating the LPS-induced TNF-α response in human macrophages. Novel hits broadly affect innate inflammatory responses to microbial stimuli."
+
+  3. Genome-wide siRNA screen of genes regulating the LPS-induced NF-κB and TNF-α responses in mouse macrophages
+     Ning Li, Samuel Katz, Bhaskar Dutta, Zachary L. Benet, Jing Sun, Iain D.C. Fraser
+     PMC5332015 · Scientific Data · 2017-03-01 · 7 citations
+     https://doi.org/10.1038/sdata.2017.8
+     "A genome-wide siRNA screen identified genes regulating LPS-induced NF-κB and TNF-α responses in mouse macrophages. This study provides a resource for analyzing gene function in this key inflammatory pathway."
+
+  4. RNA-Binding Proteins in the Control of LPS-Induced Macrophage Response
+     Dirk H. Ostareck, Antje Ostareck-Lederer
+     PMC6369361 · Frontiers in Genetics · 2019-02-04 · 58 citations
+     https://doi.org/10.3389/fgene.2019.00031
+     "This review examines RNA-binding proteins (RBPs) like TTP, HUR, TIAR, and hnRNP K in LPS-induced macrophage responses. These RBPs globally regulate inflammation-related gene expression, impacting signaling and cytokine production."
+
+  5. LPS inhibits TRIM65 expression in macrophages and C57BL/6J mouse by activating the ERK1/2 signaling pathway
+     Xufang Zeng; Xinxin Deng; Yuqi Ni; Hongfeng Bi; Meiling Jiang; Dan Wang; Pengzhi Dong; Yunfei Xiao; ...
+     PMC10068263 · Experimental and Therapeutic Medicine · 2023-03-14 · 16 citations
+     https://doi.org/10.3892/etm.2023.11887
+     Matched: Abstract · cat /papers/PMC10068263/content.lines --lines 1-11
+     "LPS treatment was studied for its effect on TRIM65 expression in macrophages and mice. LPS inhibits TRIM65 expression via the ERK1/2 pathway, and TRIM65 knockout exacerbates inflammatory cytokine production."
+
+  6. Tripartite Motif Containing 52 Positively Regulates NF-κB Signaling by Promoting IκBα Ubiquitination in Lipopolysaccharide-Treated Microglial Cell Activation
+     Pei Zhang; Yimin Wu; Ruifeng Li; Huicheng Lv; Baolong Yu
+     PMC7607666 · PMC · 2020-10-30 · 6 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7607666/
+     Matched: LPS-induced microglial cell activation · cat /papers/PMC7607666/content.lines --lines 24
+     │ The collected microglial cells were resuspended and seeded into 24-well (106 cells per well)
+     │ plates. After 48 h, the cells were incubated without (0 ng/ml) or with LPS (20, 50, and 100
+     │ ng/mL) (Sigma-Aldrich) in medium.
+     "This study investigated TRIM52's role in LPS-induced microglial activation. TRIM52 promotes IκBα ubiquitination, activating NF-κB signaling and regulating inflammation."
+
+  7. Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni; Yanal Ghosheh; Akula Bala Pramod; Klaus Ley
+     PMC7053374 · Frontiers in Immunology · 2020-02-25 · 77 citations
+     https://doi.org/10.3389/fimmu.2020.00234
+
+  8. Transcriptional profiling of the LPS induced NF-κB response in macrophages
+     Omar Sharif, Viacheslav N Bolshakov, Stephanie Raines, Peter Newham, Neil D Perkins
+     PMC1781469 · BMC Immunology · 2007-01-01 · 447 citations
+     https://doi.org/10.1186/1471-2172-8-1
+     "This study profiled gene expression in macrophages after LPS exposure. LPS induced a dynamic, time-dependent transcriptional response, with THP-1 cells closely mimicking primary macrophages."
+
+  9. Regulation of innate immune signalling pathways by the tripartite motif (TRIM) family proteins
+     Taro Kawai; Shizuo Akira
+     PMC3377094 · PMC · 2011 · 212 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3377094/
+     Matched: NEGATIVE REGULATION OF TLR4 SIGNALLING BY TRIM30α · cat /papers/PMC3377094/content.lines --lines 117
+     "This paper reviews how tripartite motif (TRIM) proteins regulate innate immune signaling pathways. TRIM proteins modulate pattern-recognition receptor signaling to control host defense responses."
+
+  10. Analysis of the transcriptional networks underpinning the activation of murine macrophages by inflammatory mediators
+     Sobia Raza, Mark W. Barnett, Zohar Barnett-Itzhaki, Ido Amit, David A. Hume, Tom C. Freeman
+     PMC4378362 · PMC · 2014-08-01 · 49 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378362/
+     "Transcriptomic data was analyzed to understand macrophage activation by inflammatory mediators. The LPS response can be divided into more co-regulated gene subsets than previously thought."
+
+  11. Correction: Tripartite Motif-Containing Protein 30 Modulates TCR-Activated Proliferation and Effector Functions in CD4+ T Cells
+     PMC4035330 · PMC · 2014-05-27 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4035330/
+     Matched: cat /papers/PMC4035330/content.lines --lines 4-5
+     │ The image for Figure 1 was inadvertently published as a duplicate of Figure 2. Please view
+     │ the correct image for Figure 1 here. Figure 1: Generation of Trim30 knockout mice. (A) A
+     │ diagram representing the targeting construct, the Trim30 gene locus (Wild-type locus), and
+     │ the locus after targeting (Targeted locus). The targeting construct contains a stop codon
+     │ and a neomycin selectable marker in exon 2 of Trim30. (B) Genomic DNA fragments from Trim30
+     │ +/− and Trim30 −/− progeny after Southern blotting with NcoI digestion. Wild-type alleles
+     │ (10 kb) and the targeted alleles (8 kb) are indicated. (C) Genomic DNA isolated from Trim30
+     │ +/+, Trim30 −/−, and Trim30 +/− was subjected to PCR. (D) Tissue …
+
+  12. Macrophage production and activation are dependent on TRIM33
+     Anne-Sophie Gallouet; Federica Ferri; Vanessa Petit; Aude Parcelier; Daniel Lewandowski; Nathalie Ga...
+     PMC5354896 · Oncotarget · 2016-12-10 · 30 citations
+     https://doi.org/10.18632/oncotarget.13872
+     Matched: DISCUSSION · cat /papers/PMC5354896/content.lines --lines 50-51
+     │ Contrary to the early phases of LPS activation of BMDM, we showed that TRIM33 deficiency
+     │ altered pathways that regulate the late phases of BMDM activation and of in vivo LPS-
+     │ mediated inflammatory response. Resolution of inflammation in M1 macrophages depends on two
+     │ main categories of regulators [ 25 ]. The first group contains inhibitors of signaling
+     │ pathways activated by microorganisms such as suppressors of cytokine signaling or A20. The
+     │ second group contains transcriptional repressors such as ATF3 or peroxysome proliferator-
+     │ activated receptors that repress the transcription of genes previously activated by
+     │ microorganisms. Our results indicate that TRIM33 belongs to this second group of …
+     "TRIM33's binding to genes differs between immature and mature myeloid cells, impacting macrophage production and inflammatory responses. TRIM33 is crucial for regulating macrophage activation and inflammation, particularly in mature cells."
+
+  13. Tripartite Motif-Containing Protein 30 Modulates TCR-Activated Proliferation and Effector Functions in CD4+ T Cells
+     Un Yung Choi; Ji Yeon Hur; Myeong Sup Lee; Quanri Zhang; Won Young Choi; Lark Kyun Kim; Wook-Bin Lee...
+     PMC3995923 · PMC · 2014-04-22 · 18 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3995923/
+     Matched: Bone Marrow-derived Macrophage (BMDM) Isolation and Culture · cat /papers/PMC3995923/content.lines --lines 63-64
+     │ For generating BMDMs, bone marrow cells were collected from femurs and tibias of Trim30+/+
+     │ and Trim30−/− mice by flushing with Dulbecco’s phosphate buffered saline (DPBS). BMDMs were
+     │ differentiated for 6–7 days in DMEM (Invitrogen) supplemented with 20% FBS (Gibco), 50 U/ml
+     │ penicillin, 50 µg/ml streptomycin, and 20% cultured supernatant from L929 cells. We thank
+     │ Sang-Jun Ha (Yonsei University) for excellent advice and providing OT-II mice, and Yungdae
+     │ Yun (Ewha Women’s University) for providing Rag1 −/− mice. We also thanks Jungwoo Lee for
+     │ careful reading of the manuscript.
+     "This study investigated the role of TRIM30 in CD4+ T cells using knockout mice. TRIM30 deletion enhanced T cell proliferation but reduced NF-κB activation and IL-2 production upon TCR stimulation."
+
+  14. InTRIMsic immunity: Positive and negative regulation of immune signaling by tripartite motif proteins
+     Gijs A. Versteeg; Stefan Benke; Adolfo García-Sastre; Ricardo Rajsbaum
+     PMC7173094 · PMC · 2014-08-13 · 132 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7173094/
+     Matched: The tripartite motif (TRIM) E3 ligase family · cat /papers/PMC7173094/content.lines --lines 31-33
+     "This review examines tripartite motif (TRIM) proteins and their roles in regulating immune signaling. TRIM proteins, through ubiquitin modification, are crucial for balancing immune activation and preventing excessive responses."
+
+  15. Monocyte normal immune response to LPS stimulation
+     P Myrianthefs; K Venetsanou; E Grouzi; E Boutzouka; P Evagelopoulou; G Fildissis; I Spiliotopoulou; ...
+     PMC3333514 · Critical Care · 2002-03-01 · 1 citation
+     https://doi.org/10.1186/cc1554
+
+  16. Expression and regulation of long noncoding RNAs in TLR4 signaling in mouse macrophages
+     Ai-Ping Mao, Jun Shen, Zhixiang Zuo
+     PMC4320810 · PMC · 2015-02-05 · 47 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4320810/
+     "This study profiled long non-coding RNAs (lncRNAs) in mouse macrophages activated by LPS. LPS stimulation significantly altered lncRNA expression, which correlated with neighboring genes and was regulated by histone modifications."
+
+  17. The Trim32-DPEP2 axis is an inflammatory switch in macrophages during intestinal inflammation
+     Zhiyan Zhan; Huisheng Liang; Zhuoqi Zhao; Liya Pan; Jing Li; Yuyun Chen; Zhoulonglong Xie; Zhilong Y...
+     PMC12283963 · Cell Death and Differentiation · 2025-02-28 · 14 citations
+     https://doi.org/10.1038/s41418-025-01468-w
+     Matched: Introduction · cat /papers/PMC12283963/content.lines --lines 19-20
+     │ Tripartite motif-containing protein 32 (Trim32), which acts as an E3 ubiquitin-protein
+     │ ligase, is essential for multiple immune processes, including antiviral responses, innate
+     │ immune responses, and inflammatory skin disorders [24–27]. Moreover, Trim32 is involved in
+     │ various molecular pathways related to inflammation, such as type I interferon signaling, NF-
+     │ κB or STING signaling, and Piasy function [26, [28]–30]. Trim32 is activated through self-
+     │ ubiquitination and functions in the macrophage response to inflammatory stimulation. In this
+     │ study, we investigated the proteomic and transcriptomic alterations in LPS-V-activated
+     │ macrophages. The DPEP2 protein was identified as an essential …
+     "Researchers studied the Trim32-DPEP2 axis in macrophages during intestinal inflammation. This axis acts as an inflammatory switch, with Trim32-mediated DPEP2 degradation activating inflammatory pathways."
+
+  18. TRIM21 controls Toll‐like receptor 2 responses in bone‐marrow‐derived macrophages
+     Maria Sjöstrand; Berit Carow; William A. Nyberg; Ruxandra Covacu; Martin E. Rottenberg; Alexander Es...
+     PMC7011629 · PMC · 2019-12-12 · 14 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7011629/
+     Matched: cat /papers/PMC7011629/content.lines --lines 11-23
+     "TRIM21's role in macrophage differentiation and TLR2 responses was studied in bone-marrow-derived macrophages. TRIM21 deficiency impairs macrophage differentiation and reduces responses to TLR2 agonists."
+
+  19. DOK3 Negatively Regulates LPS Responses and Endotoxin Tolerance
+     Qisheng Peng; Jason L. O’Loughlin; Mary Beth Humphrey
+     PMC3384629 · PLoS ONE · 2012-06-27 · 35 citations
+     https://doi.org/10.1371/journal.pone.0039967
+     Matched: DOK3 Expression is Reduced during Macrophage Stimulation with LPS · cat /papers/PMC3384629/content.lines --lines 17-19
+     "DOK3 was studied as a regulator of Toll-like receptor signaling and endotoxin tolerance in macrophages. Its absence increases LPS responses and tolerance, indicating a negative regulatory role."
+
+  20. Knockdown of TRIM52 alleviates LPS-induced inflammatory injury in human periodontal ligament cells through the TLR4/NF-κB pathway
+     Peng Liu; Lijun Cui; Lifang Shen
+     PMC7418211 · PMC · 2020-08-10 · 20 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7418211/
+     Matched: Different concentrations of LPS induce the expression of TRIM52 in HPD · cat /papers/PMC7418211/content.lines --lines 33-34
+     "TRIM52 expression was studied in LPS-treated human periodontal ligament cells. Knockdown of TRIM52 alleviated LPS-induced inflammatory injury by inhibiting the TLR4/NF-κB pathway."
+
+  21. The Emerging Roles of Tripartite Motif Proteins (TRIMs) in Acute Lung Injury
+     Yingjie Huang; Yue Xiao; Xuekang Zhang; Xuan Huang; Yong Li
+     PMC8548118 · PMC · 2021-10-19 · 10 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8548118/
+     Matched: 3.4. TRIM65 · cat /papers/PMC8548118/content.lines --lines 35-36
+     "This paper reviews the emerging roles of Tripartite Motif (TRIM) proteins in acute lung injury (ALI). TRIM proteins, as E3 ubiquitin ligases, are increasingly recognized as key regulators of inflammation and ALI pathogenesis."
+
+  22. Expression profiling of TRIM protein family in THP1-derived macrophages following TLR stimulation
+     Mei-Xiu Jiang, Xuan Hong, Bin-Bin Liao, Shui-Zhen Shi, Xiao-Fang Lai, Huai-Yu Zheng, Lin Xie, Yuan W...
+     PMC5314404 · PMC · 2017-02-17 · 65 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314404/
+     Matched: TRIM59 was down-regulated by TLR3 and TLR4 ligands in macrophages · cat /papers/PMC5314404/content.lines --lines 19-20
+     │ Next, we examined the expression changes of TRIM59 in THP1-derived macrophages, Raw264.7
+     │ macrophages and mouse peritoneal macrophages by qRT-PCR. As shown in Fig. 4a, TRIM59 mRNA
+     │ was down-regulated by both TLR3 ligand (poly I:C) and TLR4 ligand (LPS) in THP1-derived
+     │ macrophages in a time-dependent manner. Moreover, we further observed that TRIM59 mRNA was
+     │ decreased by LPS in Raw264.7 cells in time-dependent and dose-dependent manners (Fig. 4b).
+     │ Finally, we examined the expression changes of TRIM59 mRNA in mouse peritoneal macrophages.
+     │ As shown in Fig. 4c, TRIM59 mRNA was decreased by LPS in mouse peritoneal macrophages in
+     │ time-dependent and dose-dependent manners. To further confirm the …
+     "This study profiled TRIM protein expression in THP1-derived macrophages after TLR stimulation. TRIM59 was found to suppress LPS-induced macrophage activation, while its knockdown enhanced it."
+
+  23. E3 ubiquitin ligase trim36 targets ddx3x for degradation to reprogram macrophage polarization and ameliorate tubal factor infertility in rats
+     Liang Shao; Nansu Wang; Yan Yan; Can Zhao; Yali Tan; Qin Wu; Qiongfang Tan; Yuying Huang; Ling Liu
+     PMC12847098 · PMC · 2026-01-19 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12847098/
+     Matched: Overexpression of TRIM36 promoted M2 polarization by downregulating DD · cat /papers/PMC12847098/content.lines --lines 139-140
+     "TRIM36 targets DDX3X for degradation, reprogramming macrophages from pro-inflammatory M1 to anti-inflammatory M2. This process ameliorates tubal factor infertility in rats."
+
+  24. TRIM16 Inhibits Inflammation by Interacting With and Ubiquitinating TRAF2 in a Colitis Model
+     Dong‐Liang Li; Li Zhou; Bo Zhang; Shuai Wang; Qing‐Yu Liang; Qiu‐Hua Liu; Chen‐Jiang Qu; Liang Ji
+     PMC12551140 · PMC · 2025-10-24 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12551140/
+     Matched: TRIM16 Expression Was Decreased in the LPS‐Stimulated RAW264.7 Cell In · cat /papers/PMC12551140/content.lines --lines 95-96
+     "TRIM16 expression was studied in colitis models and found to be decreased. TRIM16 inhibits inflammation by ubiquitinating TRAF2, thereby suppressing NF-κB signaling."
+
+  25. Human TRIM Gene Expression in Response to Interferons
+     Laetitia Carthagena, Anna Bergamaschi, Joseph M. Luna, Annie David, Pradeep D. Uchil, Florence Margo...
+     PMC2654144 · biomedrxiv · 2009-01-01 · 262 citations
+     https://doi.org/10.1371/journal.pone.0004894
+     "This study analyzed human TRIM gene expression in immune cells treated with interferons or activated macrophages. A significant number of TRIM genes were found to be interferon-sensitive, suggesting broader roles in antiviral defense."
+
+[2.3s, saved to s_38f448a0]
+
+💡 Extract data across these results with: map --from s_38f448a0 "your question"
+[2.3s, saved to s_38f448a0]  [repo: mva-lof-molecular]
+

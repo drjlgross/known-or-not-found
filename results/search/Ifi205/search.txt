@@ -1,0 +1,268 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Ifi205 (interferon activated gene 205) LPS macrophage
+# exit 0
+Found 25 papers  [s_d6771f90]
+
+  1. An essential role for IFN-β in the induction of IFN-stimulated gene expression by LPS in macrophages
+     Faruk Sheikh; Harold Dickensheets; Ana M. Gamero; Stefanie N. Vogel; Raymond P. Donnelly
+     PMC4163629 · Journal of Leukocyte Biology · 2014 · 76 citations
+     https://doi.org/10.1189/jlb.2A0414-191R
+     Matched: Introduction · cat /papers/PMC4163629/content.lines --lines 13
+     │ The ability of LPS to induce IFN production by macrophages was first reported many years ago
+     │ [14, 15], and the importance of NF-κB activation in the induction of proinflammatory gene
+     │ expression by TLR agonists is well established. However, the role of type I IFNs,
+     │ particularly IFN-β, in the induction of macrophage gene expression is not as well defined.
+     │ In this study, we used bone marrow–derived macrophages from Ifnb1−/− mice and Ifnar1−/− mice
+     │ to examine the role of IFN-β and its receptor in the induction of ISG expression by LPS in
+     │ macrophages. We found that LPS activates ISGF3 and induces expression of ISGs in WT
+     │ macrophages, but the ability of LPS to induce activation of ISGF3 and ISG …
+     "This study investigated the role of IFN-β in LPS-induced gene expression in macrophages. IFN-β was found to be essential for activating ISGF3 and inducing interferon-stimulated genes."
+
+  2. Full Spectrum of LPS Activation in Alveolar Macrophages of Healthy Volunteers by Whole Transcriptomic Profiling
+     Miguel Pinilla-Vera; Zeyu Xiong; Yutong Zhao; Jing Zhao; Michael P. Donahoe; Suchitra Barge; William...
+     PMC4951018 · PMC · 2016-07-19 · 35 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4951018/
+     Matched: Interferon Regulatory factor 7 is the top upstream regulator in the ea · cat /papers/PMC4951018/content.lines --lines 99-101
+     "Human alveolar macrophages were studied for their response to LPS activation using transcriptomic profiling. LPS induced a type I interferon signature, with IRF-7 and USP18 potentially fine-tuning IL-10 production."
+
+  3. Six Interferon-Stimulated Genes as Biomarkers of M1 Macrophage Polarization in Psoriasis
+     Sha Wu; Yan Mao; Lidan Hu; Haixia Ji; Xing Liu; Guolan Ma; Chen Chen; Chuang Xiao; Dan Xu; Weimin Ya...
+     PMC12518975 · PMC · 2025-10-09 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12518975/
+     Matched: LPS Stimulation Promotes M1 Polarization and Hub Gene Expression in RA · cat /papers/PMC12518975/content.lines --lines 88-89
+     │ To validate the correlation between the hub genes identified through bioinformatics analysis
+     │ and M1 macrophage activation, we conducted in vitro cell experiments. RAW264.7 murine
+     │ macrophage cell line was stimulated with 1 μg/mL LPS to induce polarization toward the M1
+     │ phenotype. Compared with the control group, the mRNA expression levels of classical M1
+     │ macrophage surface markers CD80 and CD86 were significantly upregulated after LPS
+     │ stimulation (Figure 9A and B), successfully establishing the M1 polarization model. Based on
+     │ this model, we found that the mRNA expression levels of previously screened hub genes
+     │ (ISG15, GBP1, IFIT1, IFIT3, RSAD2, and OASL) were markedly increased in the model …
+     "Six interferon-stimulated genes were identified as potential biomarkers for M1 macrophage polarization in psoriasis. These genes, including ISG15 and RSAD2, were validated experimentally and may offer new therapeutic targets."
+
+  4. Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni, Yanal Ghosheh, Akula Bala Pramod, Klaus Ley
+     PMC6543837 · Frontiers in Immunology · 2019-05-24 · 1909 citations
+     https://doi.org/10.3389/fimmu.2019.01084
+     Matched: Introduction · cat /papers/PMC6543837/content.lines --lines 14-15
+     │ The M1/M2 macrophage polarization nomenclature was introduced in 2000, based on the
+     │ propensity of C57BL/6J macrophages to be more easily activated to produce NO (M1 polarized)
+     │ than Balb/c mice (M2 polarized) (12). Different metabolism of arginine after LPS injection
+     │ elicits different phenotypes of macrophages in C57BL/6J and Balb/c mice. C57BL/6J peritoneal
+     │ macrophages induced iNOS resulting in nitric oxide and a T-helper 1 (Th1) CD4 T cell
+     │ response, while Balb/c mice induced arginase to produce ornithine and a Th2 response. In
+     │ analogy to Th1 and Th2, these macrophages were named M1 and M2. Subsequent work showed that
+     │ M1 macrophages have a pro-inflammatory phenotype with pathogen-killing …
+     "This study compared gene expression in *in vivo* M1/M2 macrophages with *in vitro* classically/alternatively activated macrophages. The findings indicate that *in vivo* M1/M2 polarization is not equivalent to *in vitro* activation states."
+
+  5. Analysis of the transcriptional networks underpinning the activation of murine macrophages by inflammatory mediators
+     Sobia Raza, Mark W. Barnett, Zohar Barnett-Itzhaki, Ido Amit, David A. Hume, Tom C. Freeman
+     PMC4378362 · PMC · 2014-08-01 · 49 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378362/
+     Matched: DISCUSSION · cat /papers/PMC4378362/content.lines --lines 69-70
+     "Transcriptomic data was analyzed to understand macrophage activation by inflammatory mediators. The LPS response can be divided into more co-regulated gene subsets than previously thought."
+
+  6. Type I Interferon, Induced by Adenovirus or Adenoviral Vector Infection, Regulates the Cytokine Response to Lipopolysaccharide in a Macrophage Type-Specific Manner
+     Mareike D. Maler; Sophie Zwick; Carsten Kallfass; Peggy Engelhard; Hexin Shi; Laura Hellig; Pang Zhe...
+     PMC11023693 · Journal of Innate Immunity · 2024-03-25 · 2 citations
+     https://doi.org/10.1159/000538282
+     Matched: Ad Infection Converts Marginal Zone Macrophages to IFN-β-Producing Cel · cat /papers/PMC11023693/content.lines --lines 59-60
+     "Adenovirus infection was studied for its effect on macrophage cytokine response to lipopolysaccharide. Type I interferon, induced by adenovirus, enhances LPS-induced TNF-α and IL-6 in a macrophage type-specific manner."
+
+  7. Single cell analysis of docosahexaenoic acid suppression of sequential LPS-induced proinflammatory and interferon-regulated gene expression in the macrophage
+     Kathryn A. Wierenga; Frank M. Riemers; Bart Westendorp; Jack R. Harkema; James J. Pestka
+     PMC9669445 · Frontiers in Immunology · 2022-11-03 · 20 citations
+     https://doi.org/10.3389/fimmu.2022.993614
+     Matched: LPS-induced cellular pathways promoting transcription precede inflamma · cat /papers/PMC9669445/content.lines --lines 100
+     │ Figure 6: LPS robustly upregulates gene expression in FLMs after 1 and 4h. (A) 500 cells
+     │ were randomly selected from the Veh.0, Veh.LPS.1, and Veh.LPS.4 groups and genes upregulated
+     │ >6-fold were used to generate a heatmap using pheatmap with the “ward.d” clustering method.
+     │ The normalized SCT values were plotted without scaling the heatmap. Cells were annotated
+     │ according to their treatment group. (B) Plots showing the expression of individual LPS-
+     │ induced genes at the 0, 1, and 4 h timepoint.
+     "Single-cell RNA sequencing studied docosahexaenoic acid's effects on LPS-induced gene expression in macrophages. DHA suppressed both proinflammatory and interferon-regulated genes, and downregulated NF-κB targets."
+
+  8. Forced IFIT-2 expression represses LPS induced TNF-alpha expression at posttranscriptional levels
+     Susanne Berchtold; Birgit Manncke; Juliane Klenk; Julia Geisel; Ingo B Autenrieth; Erwin Bohn
+     PMC2632614 · PMC · 2008-12-24 · 53 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2632614/
+     Matched: IFIT-2 selectively inhibits LPS induced protein expression · cat /papers/PMC2632614/content.lines --lines 18-20
+     │ To confirm previous findings that LPS and interferons induce IFIT-2 protein expression
+     │ RAW264.7 macrophages were stimulated for different time periods with LPS, IFN-β, Pam3Cys or
+     │ IFN-γ (Figure 1A). All used stimuli induced IFIT-2 expression but showed differences in the
+     │ time course of IFIT-2 expression. Thus, while IFN-β induced IFIT-2 expression already 4
+     │ hours after stimulation, strong IFIT expression was detectable 6 hours after LPS stimulation
+     │ and 12 hours after IFN-γ or Pam3Cys stimulation. Immunofluorescence staining of RAW264.7
+     │ cells showed that IFIT-2 was located in the cytoplasm (Figure 1B). Figure 1: Protein
+     │ expression of IFIT-2 in RAW 264.7 macrophages. RAW 264.7 cells were …
+     "Forced IFIT-2 expression was studied in macrophages stimulated with LPS. IFIT-2 selectively represses LPS-induced TNF-α expression at posttranscriptional levels by reducing mRNA stability."
+
+  9. IFIT1 Exerts Opposing Regulatory Effects on the Inflammatory and Interferon Gene Programs in LPS-Activated Human Macrophages
+     Sinu P. John; Jing Sun; Rebecca J. Carlson; Binh Cao; Clinton J. Bradfield; Jian Song; Margery Smelk...
+     PMC6492923 · PMC · 2019-03-19 · 95 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6492923/
+     Matched: Dual luciferase assay of THP1 B5 human macrophage cells · cat /papers/PMC6492923/content.lines --lines 65
+     │ The human THP1 B5 cell clone (Li etal., 2015) was differentiated into a macrophage-like
+     │ state, transfected with siRNA and stimulated with LPS as described above. Firefly and
+     │ renilla luciferase activity in the cell lysates was determined using the Dual-Luciferase
+     │ Reporter Assay System (Promega, E1960), following the manufacturers protocol, and the ratio
+     │ of firefly luminescence to renilla luminescence was used to reflect the cell response to LPS
+     │ stimulation.
+     "IFIT1's role in LPS-activated macrophages was studied. IFIT1 negatively regulates inflammatory genes while positively regulating interferon genes, acting as a reciprocal modulator."
+
+  10. Selection of reliable reference genes for the normalisation of gene expression levels following time course LPS stimulation of murine bone marrow derived macrophages
+     Akane Tanaka, Joyce To, Bronwyn O’Brien, Sheila Donnelly, Maria Lund
+     PMC5627409 · biomedrxiv · 2017-10-03 · 29 citations
+     https://doi.org/10.1186/s12865-017-0223-y
+     "This study assessed the stability of eight common reference genes in LPS-stimulated murine macrophages. It found that some traditional genes are unreliable, and identified two new, stable reference genes for accurate gene expression analysis."
+
+  11. Epigenetic profile in lipopolysaccharide-stimulated macrophages
+     Ester Correia Sarmento Rios; Thais Martins Lima Salgado; Francisco Garcia Soriano
+     PMC3953056 · Critical Care · 2013-11-05 · 0 citations
+     https://doi.org/10.1186/cc12987
+
+  12. Effect of LPS, dsRNA or interferons on the phagocytosis of dying cells or mycobacteria by macrophages
+     Frederic Vanzembergh; Greet Brouckaert; Florence Nazé; Steven Van Gucht; Tom Vanden Berghe; Dmitri K...
+     PMC3019512 · BMC Proceedings · 2011-01-10 · 1 citation
+     https://doi.org/10.1186/1753-6561-5-S1-P82
+
+  13. Transcriptional profiling of the LPS induced NF-κB response in macrophages
+     Omar Sharif, Viacheslav N Bolshakov, Stephanie Raines, Peter Newham, Neil D Perkins
+     PMC1781469 · BMC Immunology · 2007-01-01 · 447 citations
+     https://doi.org/10.1186/1471-2172-8-1
+     Matched: Analysis of LPS-induced gene expression in the THP-1 macrophage cell l · cat /papers/PMC1781469/content.lines --lines 26
+     │ Using these criteria, 72 out of the 465 genes on the array were found to significantly
+     │ respond to LPS treatment in THP-1 cells. These can be grouped into four temporal patterns of
+     │ expression (Figure 3). The most common patterns were genes whose expression was unaffected
+     │ after 1 hour of LPS treatment but showed either a decrease (25 out of 72 genes) or an
+     │ increase (19 out of 72 genes) 4 hours post-treatment. The next most common pattern of
+     │ expression consisted of genes whose expression was induced following 1 hour of LPS treatment
+     │ and where, although frequently still higher than in untreated cells, expression decreased 4
+     │ hours post-treatment (18 out of 72 genes). 8 out of 72 genes exhibited …
+     "This study profiled gene expression in macrophages after LPS exposure. LPS induced a dynamic, time-dependent transcriptional response, with THP-1 cells closely mimicking primary macrophages."
+
+  14. Knockdown of lncRNA TapSAKI alleviates LPS-induced injury in HK-2 cells through the miR-205/IRF3 pathway
+     Xiaoning Han; Zhiyong Yuan; Yajun Jing; Weigui Zhou; Yunbo Sun; Jinyan Xing
+     PMC8034242 · PMC · 2021-04-07 · 13 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8034242/
+     Matched: miR-205 overexpression relieved LPS-induced damage in HK-2 cells · cat /papers/PMC8034242/content.lines --lines 46-47
+     │ Next, we tested the role of miR-205 in LPS-induced HK-2 cell damage. Transient introduction
+     │ of miR-205 mimic, but not the miR-NC control, led to about a seven-fold augment in miR-205
+     │ expression (Figure 5a). The results of CCK-8 and flow cytometry showed that miR-205
+     │ upregulation resulted in enhanced cell viability (Figure 5b) and attenuated cell apoptosis
+     │ (Figure 5c and d), which were altered by LPS stimulation. Furthermore, high miR-205
+     │ expression triggered a distinct increase in Ki-67 expression and the clear decrease in Bax,
+     │ IL-6, and TNFα levels in LPS-treated HK-2 cells (Figure 5e–i). These data together hinted
+     │ that miR-205 upregulation alleviated HK-2 cell injury induced by LPS. …
+     "TapSAKI knockdown was studied in LPS-induced HK-2 cell injury. Silencing TapSAKI alleviates this injury by sponging miR-205 and regulating the IRF3 pathway."
+
+  15. Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review
+     Leah Elson; Niels Eijkelkamp; J. Henk Coert
+     PMC13372918 · Inflammation Research · 2026-07-15 · 0 citations
+     https://doi.org/10.1007/s00011-026-02317-3
+     Matched: Study overview · cat /papers/PMC13372918/content.lines --lines 44-48
+     "This systematic review synthesized evidence for a conserved lipopolysaccharide (LPS)-mediated pathogenic mechanism across diverse tissues and evaluated its potential relevance to peripheral neuropathy"
+
+  16. IFN-γ selectively suppresses a subset of TLR4-activated genes and enhancers to potentiate macrophage activation
+     Kyuho Kang; Mahesh Bachu; Sung Ho Park; Keunsoo Kang; Seyeon Bae; Kyung-Hyun Park-Min; Lionel B. Iva...
+     PMC6658531 · PMC · 2019-07-25 · 128 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6658531/
+     Matched: IFN-γ inhibits a select subset of LPS-activated enhancers · cat /papers/PMC6658531/content.lines --lines 27
+     │ We next tested the relationship between IFN-γ-mediated changes in LPS-induced enhancer and
+     │ gene activity. Notably, genes associated with enhancer cluster e4 closely correlated with
+     │ genes in cluster IV, and genes associated with e5 enhancers correlated with cluster V genes
+     │ (Fig. 2d). These enhancer-associated genes exhibited the expected pattern of gene
+     │ expression, namely attenuation (e4-associated genes) or superinduction (e5-associated genes)
+     │ of the LPS response by IFN-γ (Fig. 2e, f). Overall, these findings suggest that IFN-γ
+     │ selectively modulates LPS-induced enhancer activation to attenuate or boost expression of
+     │ different subsets of LPS-inducible genes.
+     "IFN-γ was studied for its effect on LPS-activated genes and enhancers in macrophages. IFN-γ selectively suppresses a subset of TLR4-activated genes and enhancers, enhancing macrophage activation by repressing feedback and metabolic pathways."
+
+  17. Delayed polarization of mononuclear phagocyte transcriptional program by type I interferon isoforms
+     David F Stroncek; Christopher Basil; Dirk Nagorsen; Sara Deola; Eleonora Aricó; Kina Smith; Ena Wang...
+     PMC1187927 · PMC · 2005-06-13 · 24 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1187927/
+     Matched: Genes differentially expressed 9 hours after LPS and Cytokine Stimulat · cat /papers/PMC1187927/content.lines --lines 43-65
+     "This study compared the effects of type I interferon isoforms and other cytokines on LPS-stimulated mononuclear phagocytes. Most type I IFNs delayed and uniquely polarized MP transcriptional programs after 9 hours, distinct from other cytokines."
+
+  18. Analysis of the human monocyte-derived macrophage transcriptome and response to lipopolysaccharide provides new insights into genetic aetiology of inflammatory bowel disease
+     J. Kenneth Baillie; Erik Arner; Carsten Daub; Michiel De Hoon; Masayoshi Itoh; Hideya Kawaji; Timo L...
+     PMC5358891 · PLoS Genetics · 2017-03-06 · 119 citations
+     https://doi.org/10.1371/journal.pgen.1006641
+     Matched: Interferon-response genes · cat /papers/PMC5358891/content.lines --lines 34-35
+     "Human monocyte-derived macrophages were profiled for gene expression changes in response to lipopolysaccharide. The study found that inflammatory bowel disease susceptibility loci are enriched for monocyte-specific genes regulated during differentiation and activation."
+
+  19. Chronic Interferon Stimulated Gene Transcription Promotes Oncogene Induced Breast Cancer
+     Hexiao Wang, Claudia Canasto-Chibuque, Jun Hyun Kim, Marcel Hohl, Christina Leslie, Jorge S Reis-Fil...
+     bio_641727ea6fc4 · bioRxiv · 2023-10-16 · 7 citations (all versions)
+     Published (2024): https://doi.org/10.1101/gad.351455.123
+     Preprint: https://doi.org/10.1101/2023.10.16.562529
+     Matched: Ifi205  knockout · cat /papers/bio_641727ea6fc4/content.lines --lines 86
+     │ Ifi205 knockout organoids was generated using CRISPR-Cas9-mediated genome editing as
+     │ described previously 66 . Briefly, Ifi205 guide sequence (TGAAGCCGAAGATGAGACCT) was cloned
+     │ into PX458 (Addgene, 48138) using Bbs I restriction sites. The plasmid was nucleofected
+     │ (Nucleofector II, Amaxa) into organoids and sorted for GFP positive cells 72h later. A
+     │ second round of nucleofection was performed and sorted for GFP positive cells again. Cells
+     │ were genotyped via sequencing and ICE analysis ( www.synthego.com ).
+     "This study investigated the role of the Mre11 complex in oncogene-induced breast cancer using a mammary organoid system. Reduced Mre11 function leads to elevated interferon-stimulated genes and aggressive cancer, a process dependent on the innate immune sensor IFI205."
+
+  20. Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni; Yanal Ghosheh; Akula Bala Pramod; Klaus Ley
+     PMC7053374 · Frontiers in Immunology · 2020-02-25 · 77 citations
+     https://doi.org/10.3389/fimmu.2020.00234
+     Matched: cat /papers/PMC7053374/content.lines --lines 8-11
+     │ In the original article, there was a mistake in Figure 3 as published. Three gene names were
+     │ misspelled in the previous version. In Figure 3A, M1(=LPS+) panel, the correct gene name for
+     │ EIFE3 is EIF4E3. In Figure 3B, alternatively activated (IL-4) panel, the correct gene name
+     │ for WRD4 is WDR4. Also in Figure 3B, the correct gene name for POLRR3K is POLR3K. The
+     │ corrected Figure 3 appears below. Additionally, in the original article, there was a mistake
+     │ in the legend for Figure 3 as published. “M1(=LPS+)” was written as “M1(LPS+)”, and
+     │ “M2(=LPS−)” was written as “M2(LPS−)”. The correct legend for Figure 3 appears below. Figure
+     │ 3: In vivo macrophage signatures predict survival in osteosarcoma …
+
+  21. p204 Is Required for Canonical Lipopolysaccharide-induced TLR4 Signaling in Mice
+     Young-Su Yi; Jinlong Jian; Elena Gonzalez-Gugel; Yong-Xiang Shi; Qingyun Tian; Wenyu Fu; Aubryanna H...
+     PMC5925582 · EBioMedicine · 2018-02-16 · 28 citations
+     https://doi.org/10.1016/j.ebiom.2018.02.012
+     Matched: LPS-activated NF-κB and IRF-3 Signaling Pathways Were Suppressed in p2 · cat /papers/PMC5925582/content.lines --lines 68-69
+     │ To investigate the molecular mechanisms by which p204-deficiency suppresses extracellular,
+     │ but not intracellular, LPS-induced production of IFN-β and pro-inflammatory cytokines in
+     │ macrophages, the activities of intracellular signaling molecules of NF-κB and IRF-3 pathways
+     │ were examined in p204-deficient Raw264.7 macrophages with extracellular LPS challenge. The
+     │ phosphorylation of intracellular signaling molecules of NF-ĸB pathway, including
+     │ phosphoinositide 3-kinase (PI3K)/p85, AKT, inhibitor of NF-κB (IκBα) kinase alpha/beta
+     │ (IKKα/β) and IκBα, and TRAF family member-associated NF-κB activator (TNAK)-binding kinase 1
+     │ (TBK1), a key intracellular signaling molecule of IRF-3 pathway, as well …
+     "p204-deficient mice were generated to study its role in innate immunity. p204 is required for canonical LPS-induced TLR4 signaling, as its absence impairs cytokine production and leads to resistance to LPS shock."
+
+  22. Comparative Study of The Effect of LPS on The Function of BALB/c and C57BL/6 Peritoneal Macrophages
+     Sara Soudi; Ahmad Zavaran-Hosseini; Zuhair Muhammad Hassan; Masoud Soleimani; Fatemeh Jamshidi Adega...
+     PMC3660024 · Cell Journal (Yakhteh) · 2013-05-05
+     Matched: Cytokine assay · cat /papers/PMC3660024/content.lines --lines 44-46
+     "Peritoneal macrophages from BALB/c and C57BL/6 mice were stimulated with LPS to compare their responses. Different mouse strains exhibit distinct cytokine profiles and functional activities when exposed to LPS."
+
+  23. Natural variation of macrophage activation as disease-relevant phenotype predictive of inflammation and cancer survival
+     Konrad Buscher; Erik Ehinger; Pritha Gupta; Akula Bala Pramod; Dennis Wolf; George Tweet; Calvin Pan...
+     PMC5527282 · Nature Communications · 2017-07-24 · 119 citations
+     https://doi.org/10.1038/ncomms16041
+     Matched: Natural variation of LPS activation in macrophages · cat /papers/PMC5527282/content.lines --lines 14-15
+     "This study analyzed natural variation in macrophage activation using the hybrid mouse diversity panel. A novel gene signature derived from this analysis predicts susceptibility to macrophage-related disorders and cancer survival in humans."
+
+  24. Tumour-derived exosomal miR-205 promotes ovarian cancer cell progression through M2 macrophage polarization via the PI3K/Akt/mTOR pathway
+     Liuqing He; Quan Chen; Xiaoying Wu
+     PMC11829414 · PMC · 2025-02-15 · 24 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11829414/
+     Matched: Exosomal miR-205-induced M2 macrophages promote the development of OC  · cat /papers/PMC11829414/content.lines --lines 58-59
+     "Tumor-derived exosomes carrying miR-205 induce M2 macrophage polarization in ovarian cancer. This polarization promotes cancer progression by activating the PI3K/Akt/mTOR pathway."
+
+  25. Lipopolysaccharide Tolerance Enhances Murine Norovirus Reactivation: An Impact of Macrophages Mainly Evaluated by Proteomic Analysis
+     Jiradej Makjaroen; Pornpimol Phuengmaung; Wilasinee Saisorn; Suwasin Udomkarnjananun; Trairak Pisitk...
+     PMC9916340 · PMC · 2023-01-17 · 11 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9916340/
+     Matched: 5. Conclusions · cat /papers/PMC9916340/content.lines --lines 54-64
+     "LPS tolerance in macrophages reduces energy and antiviral protein expression. This defect correlates with increased murine norovirus reactivation in mice."
+
+[2.7s, saved to s_d6771f90]
+
+💡 Extract data across these results with: map --from s_d6771f90 "your question"
+[2.7s, saved to s_d6771f90]  [repo: mva-lof-molecular]
+

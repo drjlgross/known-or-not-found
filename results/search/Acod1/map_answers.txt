@@ -1,0 +1,186 @@
+Map results  [m_b79b1d17]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Acod1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+
+--- [1] [success] Immunometabolism: signaling pathways, homeostasis, and therapeutic targets ---
+doc_id: PMC11531657
+{
+  "answer": "yes",
+  "evidence": "LPS, cytokines IFN-\u0393, TNF, and TLR agonists robustly upregulated the expression of ACOD1 in macrophages via TLR signaling.",
+  "context": "Remarkably increased expression of ACOD1 was observed in models of Listeria monocytogenes and Toxoplasma gondii infection."
+}
+
+--- [2] [success] ACOD1 regulates microglial arginine metabolism and inflammatory responses ---
+doc_id: PMC13033549
+{
+  "answer": "yes",
+  "evidence": "Acod1 was one of the top upregulated genes in microglia of LPS-treated mice (Figure 1A).",
+  "context": "First, we validated that inflammation induces Acod1 expression in microglia."
+}
+
+--- [3] [success] Metabolic Reprogramming via targeting ACOD1 promotes polarization and anti-tumor activity of human CAR-iMACs in solid tumors ---
+doc_id: bio_349c238c6ccf
+{
+  "answer": "yes",
+  "evidence": "L33: \"We then generated ACOD1-deleted THP-1 cells in which the mRNA expression was significantly lower ( Fig. 2a ), and the protein expression of ACOD1 was nearly blank in sg ACOD1 -2 and sg ACOD1 -3 THP-1 derived macrophages ( Fig. 2b ).\"",
+  "context": "L28: \"Fig.2 ACOD1 deletion promoted pro-inflammatory activation in tMACs. a, The relative expression of ACOD1 in WT and sgACOD1 transduced tMACs with LPS and IFN-γ stimulation at the indicated time points (n=3).\""
+}
+
+--- [4] [success] Elevated GFI1 in Alveolar Macrophages Suppresses ACOD1 Expression and Exacerbates Lipopolysaccharide‐Induced Lung Injury in Obesity ---
+doc_id: PMC11967830
+{
+  "answer": "yes",
+  "evidence": "ACOD1 mRNA and protein levels, along with its downstream metabolite itaconate, were significantly upregulated in both groups following LPS exposure.",
+  "context": "LPS exposure was administered to induce acute lung injury as described throughout the experimental sections (e.g., L84)."
+}
+
+--- [5] [success] A robust structural, kinetic and biophysical characterization of human ACOD1 to support novel chemotherapeutic development ---
+doc_id: bio_80a036707fd2
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [6] [success] The role of itaconate in host defense and inflammation ---
+doc_id: PMC8759771
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [7] [success] Cepharanthine Alleviates DSS-Induced Ulcerative Colitis via Regulating Aconitate Decarboxylase 1 Expression and Macrophage Infiltration ---
+doc_id: PMC9920045
+{
+  "answer": "yes",
+  "evidence": "Cell RNA sequencing results suggested that the expression of ACOD1 in macrophages increased most significantly after LPS stimulation (Table 1).",
+  "context": "RAW264.7 cells were used to determine the in vitro anti-inflammatory effects of CEP."
+}
+
+--- [8] [success] Human iPSC derived alveolar macrophages reveal macrophage subtype specific functions of itaconate in  M. tuberculosis  host defense ---
+doc_id: bio_e9fc7e337070
+{
+  "answer": "yes",
+  "evidence": "ACOD1 was not detected in unstimulated macrophages of either type ( Figure 4A ), but LPS stimulation strongly induced ACOD1 protein expression.",
+  "context": "Mature iPSC derived macrophages were treated with LPS (100ng/mL) for either four or six hours, Mtb (multiplicity of infection:10), or Mtb (multiplicity of infection:10) and LPS (100ng/mL) for four hours."
+}
+
+--- [9] [success] The STING1-MYD88 complex drives ACOD1/IRG1 expression and function in lethal innate immunity ---
+doc_id: PMC9234224
+{
+  "answer": "yes",
+  "evidence": "A qPCR analysis revealed that 3\u20323\u2032-cGAMP alone cannot trigger Acod1 mRNA expression, but significantly increases LPS-induced Acod1 mRNA expression (Figure 1A).",
+  "context": "RAW264.7 and THP1 cells were treated with LPS (50-5000 ng/mL) in the absence or presence of 3\u20323\u2032-cGAMP (10 \u0393\u0395g/mL) for 6 h, and then Acod1/ACOD1 mRNA and intracellular itaconate concentration were assayed"
+}
+
+--- [10] [success] Acod1 negatively impacts osteoclastogenesis via GPR91-mediated NFATc1 activation ---
+doc_id: bio_8c10d61e7291
+{
+  "answer": "yes",
+  "evidence": "L52: LPS and other TLR ligands are well-known inducers of Irg1.",
+  "context": "L53: (A,B) Irg1 gene expression analysis by qPCR. BMDMs (A) and RAW 264.7 macrophages (B) were stimulated with 10 ng/mL LPS and 50 ng/mL RANKL for 6 h, respectively."
+}
+
+--- [11] [success] Protective role of aconitate decarboxylase 1 in neuroinflammation-induced dysfunctions of the paraventricular thalamus and sleepiness ---
+doc_id: PMC11551151
+{
+  "answer": "yes",
+  "evidence": "Western blot analysis confirmed that the protein expression of Acod1 was upregulated on day 1 after LPS injection and returned to the baseline level by 7 days (Fig. 6A, B).",
+  "context": "Combining the results of bulk and single-cell RNA sequencing, we found upregulation of aconitate decarboxylase 1 (Acod1) in PVT microglia post-LPS treatment."
+}
+
+--- [12] [success] Sustained Antigen Stimulation to Evoke and Study Negative feedback Systems responsible for Self-Tolerance/Tumor Immune Escape and transition to the M2 macrophage ---
+doc_id: bio_28cf1b287b4e
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [13] [success] Dopamine as an endogenous regulator of innate immunity in sepsis ---
+doc_id: PMC12283268
+{
+  "answer": "yes",
+  "evidence": "Dopamine\u2019s inhibitory effect was observed at both the mRNA and protein levels, suggesting a mechanism of transcriptional regulation.",
+  "context": "Recently, we have identified a key role for DA in regulating ACOD1 expression through a comprehensive screening of neurotransmitters for their ability to modulate LPS-induced expression of ACOD1 (54)."
+}
+
+--- [14] [success] Human iPSC-derived alveolar macrophages reveal macrophage subtype functions of itaconate in M. tuberculosis defense ---
+doc_id: PMC13041677
+{
+  "answer": "yes",
+  "evidence": "ACOD1 was not detected in unstimulated macrophages of either type (Figure 6A), but LPS stimulation strongly induced ACOD1 protein expression.",
+  "context": "Mature iPSC-derived macrophages were treated with LPS (100 ng/mL) for either 4 or 6 hours, Mtb (MOI 10), or Mtb (MOI 10) and LPS (100 ng/mL) for 4 hours."
+}
+
+--- [15] [success] Identification of a metabolic–immune crosstalk in Still’s disease: monocyte/macrophage-derived immunometabolite itaconate dictates hepatic immunopathology via the CXCL10–CD8 T cell axis ---
+doc_id: PMC13324752
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [16] [success] Inflammation-associated monocytes express ACOD1 to curtail inflammatory behaviour in IBD and experimental colitis ---
+doc_id: bio_ed41946f7176
+{
+  "answer": "yes",
+  "evidence": "LPS treatment led to significant upregulation of all signature genes examined (Cxcl9, Cxcl10, Tnf and Il1b), as well as causing profound upregulation of Acod1 (Figure 5c).",
+  "context": "L91: Bone marrow was isolated Ms4a3 Cre/+ . Rosa26 CAG-LSL-tdTomato/+ reporter mice and MDP (CD117 hi CD16/32 − CD135 + CD34 + CD115 + Ly6C − ), GMP (CD117 + CD16/32 + CD34 + CD115 − Ly6C − ) and Ly6C + monocytes (CD117 − CD16/32 + CD34 − CD115 + Ly6C + ) were purified by FACS. MDP and GMP were then cultured for up to three days with recombinant 20ng/mL CSF1 (Peprotech) before analysis by flow cytometry for tdTomato expression. Monocytes were cultured for three days with CSF1 prior to addition of recombinant IFNα (100ng/ml), IFNβ (20ng/ml), IFNγ (80ng/ml), LPS (100ng/ml) derived from E.coli or supernatant from explanted inflamed colonic tissue (100AU/ml)."
+}
+
+--- [17] [success] Identification of novel protein biomarkers of macrophage polarization using comparative proteomic analyses of murine primary macrophages ---
+doc_id: PMC12576133
+{
+  "answer": "yes",
+  "evidence": "Expressions of the Acod1, Trafd1, and Gbp2 genes were significantly increased in mouse M1 macrophages but not in M2 macrophages (Fig. 7B).",
+  "context": "Murine M0 BMDMs were incubated with LPS for 8 h to elicit M1 polarization or incubated with mouse IL-4 for 24 h to elicit M2 polarization."
+}
+
+--- [18] [success] Control of immune cell signaling by the immuno-metabolite itaconate ---
+doc_id: PMC10938597
+{
+  "answer": "yes",
+  "evidence": "L16: High level induction of Acod1/Irg1 mRNA in response to bacterial PAMPs required the TLR adapter proteins MyD88 (27) and TRIF (for the TLR3/4 ligands polyI:C and LPS) (21), whereas the response to IFNs was dependent on the transcription factors STAT1 (20) and IRF1 (28).",
+  "context": "L20: In contrast, within hours after stimulation with LPS, the rapid induction of ACOD1 protein results in production of itaconate that is detectable intracellularly at millimolar concentration in mouse macrophages (9, [11], 32)."
+}
+
+--- [19] [success] Macrophages inhibit  Coxiella burnetii  by the ACOD1-itaconate pathway for containment of Q fever ---
+doc_id: bio_3de035726f50
+{
+  "answer": "yes",
+  "evidence": "Infection of primary murine and human macrophages in vitro rapidly triggered expression of Acod1 ( Fig. 1B, C ).",
+  "context": "Infection with the intracellular bacterium Coxiella (C.) burnetii can cause chronic Q fever with severe complications and limited treatment options."
+}
+
+--- [20] [success] A neuroimmune pathway drives bacterial infection ---
+doc_id: PMC12047438
+{
+  "answer": "yes",
+  "evidence": "Western blot analysis of ACOD1 abundance in THP1 monocytes, iBMDMs, RAW264.7 macrophages, and BV2 microglial cells after LPS (100 ng/ml) stimulation for 6 or 12 hours in the presence of dopamine (0.125 to 1 mM).",
+  "context": "Historically, the Acod1 gene was initially cloned in mouse RAW264.7 macrophages following stimulation with LPS at 5 \u0393\u0386g/ml, a ligand of the Toll-like receptor 4 receptor (10)."
+}
+
+--- [21] [success] Stromal cell-derived itaconate promotes endometriosis via macrophage NRF2 and lysosomal pH modulation ---
+doc_id: PMC12969035
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [22] [success] Borrelia burgdorferi initiates early transcriptional re-programming in macrophages that supports long-term suppression of inflammation ---
+doc_id: PMC10783791
+{"answer": "yes", "evidence": "Our RNAseq data showed a strong induction in acod1 expression in a primary stimulation which we confirmed at the protein level using anti-Acod1 antibodies (Figs 6C and S2).", "context": "We found that il1β was significantly up-regulated in the Acod1-/- compared to their WT counterparts (Fig 7B). To assess if immune cells were responsible for driving the phenotype in Bb infected heart tissue, we isolated CD45+ cells and identified a significant up-regulation of acod1 expression in these cells from Bb infected mice compared to controls (Fig 7D)."}
+
+--- [23] [success] Itaconate suppresses atherosclerosis by activating a Nrf2-dependent antiinflammatory response in macrophages in mice ---
+doc_id: PMC10849764
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [24] [success] Endogenous itaconate is not required for particulate matter-induced NRF2 expression or inflammatory response ---
+doc_id: PMC7185992
+{
+  "answer": "yes",
+  "evidence": "L38: In contrast with PM treatment, Acod1-/- cells exhibited augmented IL6 and Il1b mRNA expression after LPS treatment (Figure 5E), consistent with previously published results (Lampropoulou et al., 2016).",
+  "context": "L45: While Gclm expression was slightly reduced in Acod1-/- cells, Hmox1 induction was not affected by Acod1 deficiency and Nqo1 was more highly induced by LPS in Acod1-/- cells (Figure 7D)."
+}
+
+--- [25] [success] Itaconate suppresses neonatal intestinal inflammation via metabolic reprogramming of M1 macrophage ---
+doc_id: PMC12268792
+{
+  "answer": "yes",
+  "evidence": "ACOD1 expression levels were elevated in the intestinal tissues of patients with NEC and mice (Figure 1A,B) progressively increasing from day one to four after NEC induction (Figure 1C), which indicates its upregulation in response to inflammation.",
+  "context": "The NC group pups were naturally nurtured by their mothers, whereas the NEC pups were gavaged daily with 30 mg/kg of lipopolysaccharide (LPS, Sigma-Aldrich) using a clean peripherally inserted central catheter."
+}

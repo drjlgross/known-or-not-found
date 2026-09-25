@@ -1,0 +1,200 @@
+$ src/pc.sh map --from s_d7462ee0 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Slamf1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_6ad193d8
+
+  ✓ Responses to Microbial Challenges by SLAMF Receptors
+    PMC4718992 · 1191ms
+    {
+      "answer": "yes",
+      "evidence": "SLAMF1 expression is induced by stimulation with either LPS or IL-1\u03B2 and in phagocytes during active colitis (34, 55, 56).",
+      "context": ""
+    }
+
+  ✓ Lipopolysaccharide (LPS)-induced Macrophage Activation and Signal Tran
+    PMC2196288 · 1116ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ The Cell Surface Receptor SLAM Controls T Cell and Macrophage Function
+    PMC2211908 · 1032ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ SLAM Family Receptors Regulate Immunity with and without SAP-related A
+    PMC2211906 · 967ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ SLAMF1 is required for TLR4-mediated TRAM-TRIF–dependent signaling in 
+    PMC5881497 · 1390ms
+    {
+      "answer": "yes",
+      "evidence": "LPS stimulation increased the surface expression of SLAMF1 in primary macrophages by >50% after 6 h of LPS stimulation, with an increase in the total SLAMF1 protein expression (Fig. 1, G and H; and Fig. S1 A).",
+      "context": "L1: SLAMF1 is required for TLR4-mediated TRAM-TRIF–dependent signaling in human macrophages"
+    }
+
+  ✓ The immune receptors TLR4 and SLAMF1 regulate TNF release by human met
+    PMC12672276 · 1237ms
+    {
+      "answer": "yes",
+      "evidence": "Strikingly, HMPV also induced SLAMF1 expression, with a marked upregulation in MDMs and a more moderate response in THP-1 cells (Figures 1A, B, fourth panels).",
+      "context": "The mRNA levels of IFNB1, TNF, viral nucleocapsid N (HMPV-N), SLAMF1, and TLR4 were quantified by RT-qPCR (Figures 1A, B, E, F)."
+    }
+
+  ✓ Identification and elucidation of cross talk between SLAM Family Membe
+    PMC10329007 · 1083ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Peptide derived from SLAMF1 prevents TLR4-mediated inflammation in vit
+    PMC10547912 · 963ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ SLAM Family Receptor Signaling in Viral Infections: HIV and Beyond
+    PMC6963180 · 1138ms
+    {
+      "answer": "yes",
+      "evidence": "On cells of myeloid lineage, including macrophages and DCs, SLAMF1 is typically expressed at a low level, but becomes up-regulated in response to pro-inflammatory stimuli such as LPS, IL-1\u0322, TNF\u03B1, and IL-6 (L22).",
+      "context": ""
+    }
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 855ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Interaction of Signaling Lymphocytic Activation Molecule Family 1 (SLA
+    PMC7515593 · 988ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(
+    PMC7053374 · 867ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ SLAMF8 Downregulates Mouse Macrophage Microbicidal Mechanisms via PI3K
+    PMC9273976 · 1021ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ SLAMF7 Restrains Pro-Inflammatory Macrophage Activation to Counteract 
+    PMC12399171 · 1114ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ SLAMF7 regulates the inflammatory response in macrophages during polym
+    PMC10014109 · 1320ms
+    {
+      "answer": "yes",
+      "evidence": "In the gene screen, we analyzed the expression of SLAMFs, which have not, to our knowledge, been studied in sepsis before. Interestingly, expression levels of Slamf7 and Slamf9 were substantially elevated, whereas Slamf3, Slamf4, Slamf5, Slamf6, and Slamf8 expression levels were downregulated (Figure 1A).",
+      "context": "(A) Heatmap depicting mRNA expression levels of inflammation-related molecules in PBMCs from patients with sepsis (S1–S5) were determined by quantitative real-time PCR and compared with levels in healthy donors (H1–H5)."
+    }
+
+  ✓ Migration of Myeloid Cells during Inflammation Is Differentially Regul
+    PMC4370648 · 946ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Quantitative Proteomic Analysis of Macrophages Infected with Trypanoso
+    PMC11242706 · 948ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Epigenetic profile in lipopolysaccharide-stimulated macrophages
+    PMC3953056 · 845ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Expression of Siglec-E Alters the Proteome of Lipopolysaccharide (LPS)
+    PMC5775731 · 869ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ SLAMF7 engagement super-activates macrophages in acute and chronic inf
+    bio_9b25e00b · 1908ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Role of signaling lymphocytic activation molecule family of receptors 
+    PMC10657885 · 1738ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Monocyte normal immune response to LPS stimulation
+    PMC3333514 · 1576ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Ginger extract inhibits LPS induced macrophage activation and function
+    PMC2234390 · 1364ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Macrophage-T cell interactions promote SLAMF1 expression for enhanced 
+    PMC12287521 · 1263ms
+    {
+      "answer": "yes",
+      "evidence": "SLAMF1 surface expression increased slightly with Mtb-infection or CD4+ T cell co-culture alone, and significantly more by the combination of both Mtb infection and CD4+ T cell co-culture.",
+      "context": "A–I SLAMF1 expression was assessed by flow cytometry in BMDMs treated with IFN-γ, followed by infection with Mtb (A), treatment with P25 peptide (B, D, E, G, I), or ESAT-6 peptide (C), and subsequent co-culture for 24hrs with CD4+ T cells specific for P25 (A, B, D, E, G, I) or ESAT-6 (C)."
+    }
+
+  ✓ Tumor‐Associated Macrophages as Therapeutic Targets: Deciphering Inter
+    PMC12848806 · 1367ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[17.3s, saved to m_6ad193d8]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  1/25 papers  run m_6ad193d8  [2s]
+  [###########.........]  14/25 papers  run m_6ad193d8  [4s]
+  [###############.....]  19/25 papers  run m_6ad193d8  [6s]
+  [####################]  25/25 papers  run m_6ad193d8  [8s]
+  [####################]  25/25 papers  run m_6ad193d8  [14s]
+  [####################]  25/25 papers  run m_6ad193d8  [16s]
+

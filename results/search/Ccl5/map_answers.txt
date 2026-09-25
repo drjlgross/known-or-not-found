@@ -1,0 +1,178 @@
+Map results  [m_b2dd7677]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Ccl5 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+
+--- [1] [success] PP4 modulates macrophage-neutrophil crosstalk to restrict CCL5 -driven NETosis in sepsis ---
+doc_id: PMC12945651
+{
+  "answer": "yes",
+  "evidence": "An ELISA indicated that PP4myel−KO BMDMs exhibited a significantly higher secretion of CCL5 than did WT BMDMs (L88), suggesting that CCL5 may be secreted by macrophages during sepsis, and are regulated by PP4.",
+  "context": "Primary BMDMs (1 × 106 cells) were seeded in 10-cm dishes containing 10 mL of DMEM supplemented with 10% FBS, 1% penicillin/streptomycin, and 10 ng/mL macrophage colony-stimulating factor (M-CSF)."
+}
+
+--- [2] [success] Transcriptional profiling of the LPS induced NF-κB response in macrophages ---
+doc_id: PMC1781469
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [3] [success] The effect of down-regulation of CCL5 on lipopolysaccharide-induced WI-38 fibroblast injury: a potential role for infantile pneumonia ---
+doc_id: PMC6000219
+{
+  "answer": "yes",
+  "evidence": "Overexpression of CCL5 was found in LPS-treated cells.",
+  "context": "The mRNA expression levels of CCL5 in WI-38 cells treated with 10 \u0393\u0395\u0393\u0391/ml and 20 \u0393\u0395\u0393\u0391/ml LPS were both significantly higher than un-treated group (P<0.01, Figure 2A)."
+}
+
+--- [4] [success] CCR5 signaling promotes lipopolysaccharide-induced macrophage recruitment and alveolar developmental arrest ---
+doc_id: PMC7883330
+{
+  "answer": "yes",
+  "evidence": "Moreover, levels of CCL3, CCL4, and CCL5 were also elevated in the LPS-injected group at P1 and P3 (Fig. 3b).",
+  "context": "B CCL3, CCL4, and CCL5 levels in rat lung tissues. Data are expressed as mean ± SD (n = 8), *p < 0.05."
+}
+
+--- [5] [success] Metabolic effects of CCL5 deficiency in lean and obese mice ---
+doc_id: PMC9880418
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [6] [success] C–C Chemokines Released by Lipopolysaccharide (LPS)-stimulated Human Macrophages Suppress HIV-1 Infection in Both Macrophages and T Cells ---
+doc_id: PMC2196157
+{"answer": "yes", "evidence": "Table 3 shows that addition of LPS resulted in vigorous production of these C–C chemokines by MDM, both uninfected and infected in vitro with HIV.", "context": "Uninfected or HIV-1Ba-L-infected MDM were cultured in the presence or absence of LPS (1 μg/ml). LPS was added to the cultures every 3 d. Supernatants were harvested after 2 and 5 d of culture. The concentrations of C–C chemokines in the supernatants were measured by ELISA."}
+
+--- [7] [success] Anti-Inflammatory Effects of Cicadidae Periostracum Extract and Oleic Acid through Inhibiting Inflammatory Chemokines Using PCR Arrays in LPS-Induced Lung inflammation In Vitro ---
+doc_id: PMC9225349
+{
+  "answer": "yes",
+  "evidence": "L185: Ccl5 | Chemokine (C-C motif) ligand 5 | 5.78 | 0.000001",
+  "context": "L37: Mouse Chemokines and Receptors RT2 Profiler PCR arrays were used to explore the global gene expression patterns in LPS-stimulated LA4 cells."
+}
+
+--- [8] [success] Role Of The C-C Motif Chemokine Ligand 5 (CCL5) And Its Receptor, C-C Motif Chemokine Receptor 5 (CCR5) In The Genesis Of Aldosterone-induced Hypertension, Vascular Dysfunction, And End-organ Damage ---
+doc_id: bio_e87507fc7271
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [9] [success] Bacterial Lipopolysaccharide Rapidly Inhibits Expression of C–C Chemokine Receptors in Human Monocytes ---
+doc_id: PMC2196159
+{
+  "answer": "yes",
+  "evidence": "Likewise, but to a lesser extent, a significant LPS-dependent reduction of the CCR1 (Fig. 1 B) and CCR5 (C) mRNA levels was observed.",
+  "context": "Total RNA was purified from fresh human monocytes incubated for 4 h as indicated."
+}
+
+--- [10] [success] Blocking the CCL5–CCR5 Axis Using Maraviroc Promotes M1 Polarization of Macrophages Cocultured with Irradiated Hepatoma Cells ---
+doc_id: PMC8219307
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [11] [success] Deficiency of Lactoferrin aggravates lipopolysaccharide-induced acute inflammation via recruitment macrophage in mice ---
+doc_id: PMC9159647
+{
+  "answer": "yes",
+  "evidence": "Then, we tested the mRNA expression levels of macrophage-related chemokines Ccl2 and Ccl5 (two of the most important chemokines for macrophages) in the peritoneal cells, and found that the mRNA expression levels of Ccl2 and Ccl5 were significantly higher in Lf−/− mice than that in WT group after LPS injection (L51).",
+  "context": "The littermate male WT and Lf−/− mice (6–8 weeks) were weighed and injected intraperitoneally with LPS (L9143, Sigma–Aldrich) at a dose of 4 mg/kg to induce acute inflammation response (or with an equal volume of PBS as the control group, each group n = 5) (L24)."
+}
+
+--- [12] [success] CCL5 paradoxically regulates glomerular injury by skewing macrophage polarization ---
+doc_id: PMC12643500
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [13] [success] TLR4/MyD88 -mediated CCL2 production by lipopolysaccharide (endotoxin): Implications for metabolic inflammation ---
+doc_id: PMC6154519
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [14] [success] Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC6543837
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [15] [success] C‐C motif chemokine ligand 5 confines liver regeneration by down‐regulating reparative macrophage‐derived hepatocyte growth factor in a forkhead box O 3a–dependent manner ---
+doc_id: PMC9790589
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [16] [success] Transcriptome Analysis Provides Insights into the Markers of Resting and LPS-Activated Macrophages in Grass Carp (Ctenopharyngodon idella) ---
+doc_id: PMC6274997
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [17] [success] CCL5 promotes breast cancer recurrence through macrophage recruitment in residual tumors ---
+doc_id: PMC6478432
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [18] [success] The CCL5/CCR5/SHP2 axis sustains Stat1 phosphorylation and activates NF-κB signaling promoting M1 macrophage polarization and exacerbating chronic prostatic inflammation ---
+doc_id: PMC11619290
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [19] [success] Artesunate Alleviates Inflammatory Injury in Neonatal Acute Respiratory Distress Syndrome Through CCL5‐Mediated Pyroptosis of M2 Macrophage Subsets ---
+doc_id: PMC13443700
+{
+  "answer": "yes",
+  "evidence": "L75: By culturing M2 macrophages and applying LPS oligomers for intervention, the results revealed that compared with the CON group, the expression level of the CCL5 gene in the NARDS group was significantly increased, whereas in the si‐CCL5 and artesunate groups, the expression level of CCL5 was downregulated compared with that in the disease group.",
+  "context": "L47: LPS was added at a final concentration of 3 μg/mL for 16 h, followed by the addition of ATP at a final concentration of 5 mM for 2 h to induce pyroptosis."
+}
+
+--- [20] [success] Tumor-associated macrophage-derived chemokine CCL5 facilitates the progression and immunosuppressive tumor microenvironment of clear cell renal cell carcinoma ---
+doc_id: PMC9379407
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [21] [success] Regulating G protein-coupled receptors by topological inversion ---
+doc_id: PMC6400500
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [22] [success] Adipose Tissue-Derived CCL5 Enhances Local Pro-Inflammatory Monocytic MDSCs Accumulation and Inflammation via CCR5 Receptor in High-Fat Diet-Fed Mice ---
+doc_id: PMC9692513
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [23] [success] Monocyte normal immune response to LPS stimulation ---
+doc_id: PMC3333514
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [24] [success] Early-Life Exposure to Lipopolysaccharide Induces Persistent Changes in Gene Expression Profiles in the Liver and Spleen of Female FVB/N Mice ---
+doc_id: PMC10384579
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [25] [success] C-C Chemokine Ligand-5 is critical for facilitating macrophage infiltration in the early phase of liver ischemia/reperfusion injury ---
+doc_id: PMC5473895
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}

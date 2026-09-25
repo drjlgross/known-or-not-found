@@ -1,0 +1,4 @@
+$ src/pc.sh results s_5ed74d4f --save /Users/julia/known-or-not-found/results/search/Tmem200b/parent.csv
+# exit 0
+  ✓ Saved 25 papers to /Users/julia/known-or-not-found/results/search/Tmem200b/parent.csv
+

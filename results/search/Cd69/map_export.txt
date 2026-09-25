@@ -1,0 +1,4 @@
+$ src/pc.sh results m_636c33a4 --save /Users/julia/known-or-not-found/results/search/Cd69/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/Cd69/map_answers.txt
+

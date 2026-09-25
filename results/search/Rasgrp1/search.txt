@@ -1,0 +1,283 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Rasgrp1 (RAS guanyl releasing protein 1) LPS macrophage
+# exit 0
+Found 25 papers  [s_34da7383]
+
+  1. RasGRP3 limits Toll-like receptor-triggered inflammatory response in macrophages by activating Rap1 small GTPase
+     Songqing Tang; Taoyong Chen; Zhou Yu; Xuhui Zhu; Mingjin Yang; Bin Xie; Nan Li; Xuetao Cao; Jianli W...
+     PMC4143924 · PMC · 2014-08-14 · 60 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4143924/
+     Matched: Macrophages preferentially express RasGRP3 · cat /papers/PMC4143924/content.lines --lines 16-18
+     │ By examining the expression profiles of RasGRP1–4 in mouse peritoneal macrophages and mouse
+     │ bone marrow-derived macrophages, we found that RasGRP3 showed the highest expression level,
+     │ sequentially followed by RasGRP2 or RasGRP4 (Fig. 1a,b). After lipopolysaccharide (LPS)
+     │ treatment, RasGRP3 was quickly and significantly downregulated (Fig. 1c). Similar results
+     │ were obtained when peritoneal macrophages were stimulated by Poly (I:C), CpG ODN, vesicular
+     │ stomatitis virus, Sendai virus or herpes simplex virus type 1 (Fig. 1d–h). In addition, we
+     │ found that RasGRP2 and RasGRP4 were downregulated while RasGRP1 was upregulated by LPS, Poly
+     │ (I:C) or CpG ODN (Supplementary Fig. 1). At the protein …
+     "RasGRP3 was studied for its role in regulating Toll-like receptor (TLR) signaling in macrophages. RasGRP3 limits inflammatory cytokine production by activating Rap1, preventing excessive responses to low-level TLR activation."
+
+  2. Ras guanine nucleotide exchange factor RasGRP1 promotes acute inflammatory response and restricts inflammation-contributed cancer cell growth
+     Cong Wang, Xue Li, Changping Yu, Luoling Wang, Rilin Deng, Hui Liu, Zihao Chen, Yingdan Zhang, Supin...
+     bio_eb63fe517001 · bioRxiv · 2021-03-11 · 0 citations (all versions)
+     Published (2021): https://doi.org/10.1101/2021.03.11.434895
+     Matched: RasGRP1  mRNA 3’UTR aggravates LPS-induced systemic inflammation in  I · cat /papers/bio_eb63fe517001/content.lines --lines 37-38
+     │ To investigate the role of the RasGRP1 3’UTR in vivo , we synthesized cholesterol-conjugated
+     │ let-7a-sponging RNA and let-7a mimics. By intraperitoneal injection of cholesterol-
+     │ conjugated let-7a-sponging RNA and let-7a mimics, we found that the sponging RNA candidate
+     │ containing the complementary sequence to the seed sequence also effectively bind to let-7a
+     │ mimics in vivo ( Fig. 4a ). In response to LPS, the mice intravenously injected with the
+     │ cholesterol-conjugated let-7a mimics produced less IL-6 than did the control mice, and the
+     │ sponging RNA candidate containing the complementary sequence to the seed sequence reversed
+     │ these effects of the let-7a mimics ( Fig. 4b ). After lethal …
+     "RasGRP1 promotes acute inflammation by increasing IL-6 expression and restricts inflammation-driven cancer cell growth by inhibiting EGFR signaling. High RasGRP1 expression correlates with better patient outcomes."
+
+  3. RasGRP Exacerbates Lipopolysaccharide-Induced Acute Kidney Injury Through Regulation of ERK Activation
+     Wen Tang; Lu Wang; Yan Liu; Dong Xiao
+     PMC8860163 · PMC · 2022-01-31 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8860163/
+     Matched: RasGRP Is Required for the Induction of Various Proinflammatory Cytoki · cat /papers/PMC8860163/content.lines --lines 35-36
+     │ To further explore the function of RasGRP in sepsis-induced inflammation, we measured
+     │ cytokines, such as IL-6, TNF-α, Nos2, and IL-1β, using a RasGRP knockout mice model of
+     │ sepsis. The results showed that bone marrow–derived macrophages from RasGRP knockout mice
+     │ showed lower mRNA expression of all inflammatory cytokines mentioned above under LPS
+     │ stimulation (Figure 2A). Similarly, significantly elevated levels of cytokines were detected
+     │ after cytosine-phosphate-guanosine (CpG) stimuli, which were abrogated in RasGRP-deficient
+     │ mice (Figure 2B). Furthermore, we found that the protein levels of IL-6 and TNF-α were
+     │ significantly lower in RasGRP-deficient compared to the control mice after LPS …
+     "This study investigated RasGRP's role in lipopolysaccharide-induced acute kidney injury. RasGRP exacerbates kidney injury by promoting ERK activation, suggesting it's a potential therapeutic target."
+
+  4. Nurr1 performs its anti-inflammatory function by regulating RasGRP1 expression in neuro-inflammation
+     Mihee Oh; Sun Young Kim; Jung-Eun Gil; Jeong-Su Byun; Dong-Wook Cha; Bonsu Ku; Woonghee Lee; Won-Kon...
+     PMC7329810 · PMC · 2020-07-01 · 37 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7329810/
+     Matched: Nurr1 down-regulated RasGRP1 mRNA and protein following LPS stimulatio · cat /papers/PMC7329810/content.lines --lines 86-87
+     │ To ensure the reliability and consistency of our data, the results of the array were
+     │ subsequently validated by qRT-PCR using the BV2 cells (Supplementary Fig. S3). Among several
+     │ candidates that showed a significant correlation in the ChIP sequencing data, RasGRP1 was
+     │ transcriptionally upregulated in the LPS (1 μg/ml) treated BV2 cells for 6 h in a serum free
+     │ condition (Fig. 2A, B). It was also found that the LPS treated BV2 cells overexpressing
+     │ Nurr1 prominently had a reduced mRNA expression of RasGRP1 (Fig. 2A, B). The protein levels
+     │ were also decreased when compared to the control (Fig. 2C). To verify the data, a shRNA
+     │ mediated knockdown system was used to reduce the endogenous Nurr1 …
+     "This study investigated Nurr1's anti-inflammatory role in neuro-inflammation by identifying its gene targets. Nurr1 directly regulates RasGRP1 expression, which in turn controls inflammatory signaling pathways."
+
+  5. Lipopolysaccharide-induced inflammation in monocytes/macrophages is blocked by liposomal delivery of Gi-protein inhibitor
+     Monica Madalina Tucureanu; Daniela Rebleanu; Cristina Ana Constantinescu; Mariana Deleanu; Geanina V...
+     PMC5743190 · International Journal of Nanomedicine · 2017-12-20 · 130 citations
+     https://doi.org/10.2147/IJN.S150918
+     Matched: Discussion · cat /papers/PMC5743190/content.lines --lines 86
+     "Liposomes encapsulating a G$_i$-protein inhibitor were tested for anti-inflammatory effects in LPS-activated monocytes/macrophages. Liposomal delivery of the inhibitor effectively blocked LPS-induced inflammation, cytokine production, monocyte adhesion, and chemotaxis."
+
+  6. Transcriptomic analysis reveals that RasGEF1b deletion alters basal and LPS-induced expression of genes involved in chemotaxis and cytokine responses in macrophages
+     Heliana B. Fernandes; Isadora Mafra de Oliveira; Thomas S. Postler; Sérgio Q. Lima; Cícera A. C. San...
+     PMC10638313 · Scientific Reports · 2023-11-10 · 5 citations
+     https://doi.org/10.1038/s41598-023-47040-9
+     Matched: RasGEF1b is preferentially expressed in macrophages among members of t · cat /papers/PMC10638313/content.lines --lines 38-39
+     │ We have previously shown that RasGEF1 domain family member 1b is found on murine macrophages
+     │ and that its expression is induced upon Toll-like receptor (TLR) stimulation and regulated
+     │ by NF-κB transcription factor[13],[14] To understand the function played by RasGEF1b in
+     │ macrophage biology, we performed in silico analyses of the BioGPS database to compare its
+     │ expression with the closest members RasGEF1a and RasGEF1c in mouse macrophage lineages[31].
+     │ We found that RasGEF1b exhibited the highest levels of expression in bone-marrow-derived
+     │ macrophages, microglia, peritoneal macrophages, osteoclasts, and RAW264.7 cells, followed by
+     │ RasGEF1a and RasGEF1c (Fig. 1, Supplementary Table S1). These …
+     "RasGEF1b deletion in macrophages was studied using transcriptomics. Its absence alters basal and LPS-induced expression of genes involved in chemotaxis and cytokine responses."
+
+  7. Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni, Yanal Ghosheh, Akula Bala Pramod, Klaus Ley
+     PMC6543837 · Frontiers in Immunology · 2019-05-24 · 1909 citations
+     https://doi.org/10.3389/fimmu.2019.01084
+     "This study compared gene expression in *in vivo* M1/M2 macrophages with *in vitro* classically/alternatively activated macrophages. The findings indicate that *in vivo* M1/M2 polarization is not equivalent to *in vitro* activation states."
+
+  8. Citri Reticulatae Pericarpium Limits TLR-4-Triggered Inflammatory Response in Raw264.7 Macrophages by Activating RasGRP3
+     Ji Hye Lee; Yon-Suk Kim; Kang Hyun Leem
+     PMC10530606 · PMC · 2023-09-07 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10530606/
+     Matched: 2.2. Effects of CRE on the RasGRP3 Expression in Raw264.7 Cells · cat /papers/PMC10530606/content.lines --lines 21
+     │ The RasGRP3 expression was examined using immunoblotting. The treatment of 1 or 100 ng/mL
+     │ LPS decreased RasGRP3 in Raw264.7 cells. The decrease in RasGRP3 was greater in the 1 ng/mL
+     │ LPS group compared with the 100 ng/mL LPS group. The groups treated with CRE but not LPS
+     │ showed no differences in RasGRP3 expression compared with the untreated group (Figure 2).
+     "Citri Reticulatae Pericarpium extract (CRE) was studied for its immunomodulatory effects on macrophages. CRE limits TLR-4-triggered inflammation by activating RasGRP3, particularly in low-intensity inflammatory conditions."
+
+  9. Genome-wide siRNA screen of genes regulating the LPS-induced NF-κB and TNF-α responses in mouse macrophages
+     Ning Li, Samuel Katz, Bhaskar Dutta, Zachary L. Benet, Jing Sun, Iain D.C. Fraser
+     PMC5332015 · Scientific Data · 2017-03-01 · 7 citations
+     https://doi.org/10.1038/sdata.2017.8
+     "A genome-wide siRNA screen identified genes regulating LPS-induced NF-κB and TNF-α responses in mouse macrophages. This study provides a resource for analyzing gene function in this key inflammatory pathway."
+
+  10. RasGRP1 promotes the acute inflammatory response and restricts inflammation-associated cancer cell growth
+     Cong Wang; Xue Li; Binbin Xue; Changping Yu; Luoling Wang; Rilin Deng; Hui Liu; Zihao Chen; Yingdan ...
+     PMC9669001 · PMC · 2022-11-16 · 28 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9669001/
+     Matched: The Rasgrp1 mRNA 3’ UTR aggravates LPS-induced systemic inflammation i · cat /papers/PMC9669001/content.lines --lines 34-35
+     │ To investigate the role of the Rasgrp1 3’ UTR in vivo, we synthesised cholesterol-conjugated
+     │ let-7a-sponging RNA and let-7a mimics. After intraperitoneal injection of the cholesterol-
+     │ conjugated let-7a-sponging RNA and let-7a mimics, we found that the sponging RNA candidate
+     │ containing a sequence complementary to the seed sequence effectively bound to the let-7a
+     │ mimics in vivo (Fig. 4a, b). The mice that had been intravenously injected with the
+     │ cholesterol-conjugated let-7a mimics (Supplementary Fig. 10a) produced less IL-6 in response
+     │ to LPS than did the control mice, and the sponging RNA candidate containing a sequence
+     │ complementary to the seed sequence reversed the effects of the let-7a …
+     "RasGRP1 promotes acute inflammation by increasing IL-6 expression and inhibits inflammation-associated cancer by disrupting the EGFR-SOS1-Ras-AKT pathway. High RasGRP1 expression correlates with better clinical outcomes in cancer patients."
+
+  11. CD117+ Dendritic and Mast Cells Are Dependent on RasGRP4 to Function as Accessory Cells for Optimal Natural Killer Cell-Mediated Responses to Lipopolysaccharide
+     Saijun Zhou; Kumiko Tanaka; Meredith O’Keeffe; Miao Qi; Fatima El-Assaad; James C. Weaver; Gang Chen...
+     PMC4794117 · PMC · 2016-03-16 · 12 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4794117/
+     Matched: Attenuated LPS-mediated expression of IFN-γ in the unfractionated sple · cat /papers/PMC4794117/content.lines --lines 57-59
+     │ RasGRP4 participates in the expression and release of cytokines from mBMMCs exposed to
+     │ phorbol 12-myristate 13-acetate [9]. RasGRP4 ESTs have been isolated from normal human
+     │ spleen (see UniGene Hs.130434), and RasGRP3 participates in TLR signaling pathways in
+     │ macrophages [37]. Moreover, MCs express LPS-responsive TLRs [21,22]. Thus, to determine
+     │ whether or not RasGRP4 plays a significant role in the expression of cytokines following LPS
+     │ engagement of the TLRs on any of the cell types in the spleen, we assayed for a panel of
+     │ cytokines following LPS stimulation of unfractionated splenocytes from WT and RasGRP4-null
+     │ B6 mice. As anticipated, the bacterial product induced the unfractionated …
+     "This study identified RasGRP4 in CD117+ dendritic cells and mast cells. RasGRP4 is essential for these cells to optimally activate natural killer cells in response to LPS."
+
+  12. Analysis of the transcriptional networks underpinning the activation of murine macrophages by inflammatory mediators
+     Sobia Raza, Mark W. Barnett, Zohar Barnett-Itzhaki, Ido Amit, David A. Hume, Tom C. Freeman
+     PMC4378362 · Journal of Leukocyte Biology · 2014-08-01 · 49 citations
+     https://doi.org/10.1189/jlb.6HI0313-169R
+     "Transcriptomic data was analyzed to understand macrophage activation by inflammatory mediators. The LPS response can be divided into more co-regulated gene subsets than previously thought."
+
+  13. Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni; Yanal Ghosheh; Akula Bala Pramod; Klaus Ley
+     PMC7053374 · Frontiers in Immunology · 2020-02-25 · 77 citations
+     https://doi.org/10.3389/fimmu.2020.00234
+
+  14. Mechanistic characterization of  RASGRP1  variants identifies an hnRNP K-regulated transcriptional enhancer contributing to SLE susceptibility
+     Julio E. Molineros, Bhupinder Singh, Chikashi Terao, Yukinori Okada, Jakub Kaplan, Barbara McDaniel,...
+     bio_13d78d916c10 · bioRxiv · 2019-03-06 · 21 citations (all versions)
+     Published (2019): https://doi.org/10.3389/fimmu.2019.01066
+     Preprint: https://doi.org/10.1101/568790
+     Matched: Introduction · cat /papers/bio_13d78d916c10/content.lines --lines 18-19
+     │ Systemic lupus erythematosus (SLE) is a complex autoimmune disease that disproportionately
+     │ affects people of Asian, African, and Hispanic ethnicities and women, in particular, with
+     │ higher incidence and disease severity [ 1 ]. Much of SLE etiology remains mysterious. It has
+     │ been proposed that complex interactions amongst numerous genes and their products with
+     │ pathogens and other environmental factors promotes dysregulation of both the innate and
+     │ adaptive immune responses in SLE. Over 80 SLE susceptibility loci have been identified so
+     │ far across multiple ethnic groups by genome-wide association studies (GWAS) and candidate
+     │ gene studies [ 2 , 3 ]. However, the precise underlying variants and …
+     "This study identified functional variants near RASGRP1 associated with SLE susceptibility. A key intronic variant creates an enhancer regulated by hnRNP K, impacting RASGRP1 expression and T-cell signaling."
+
+  15. Transcriptomic analysis of the role of RasGEF1B circular RNA in the TLR4/LPS pathway
+     Wei Lun Ng; Georgi K. Marinov; Yoon-Ming Chin; Yat-Yuen Lim; Chee-Kwee Ea
+     PMC5612941 · PMC · 2017-09-25 · 36 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5612941/
+     Matched: Introduction · cat /papers/PMC5612941/content.lines --lines 13-15
+     "This study investigated the function of mcircRasGEF1B during LPS stimulation using transcriptomic analysis. Knockdown of mcircRasGEF1B significantly altered gene expression, particularly in pathways related to immune response and macrophage activation."
+
+  16. Expression analysis of G Protein-Coupled Receptors in mouse macrophages
+     Jane E Lattin, Kate Schroder, Andrew I Su, John R Walker, Jie Zhang, Tim Wiltshire, Kaoru Saijo, Chr...
+     PMC2394514 · Immunome Research · 2008-01-01 · 403 citations
+     https://doi.org/10.1186/1745-7580-4-5
+     Matched: LPS-regulated GPCR expression in mouse macrophages · cat /papers/PMC2394514/content.lines --lines 89-105
+     │ LPS, the archetypal macrophage-activating stimulus that signals via toll-like receptor (TLR)
+     │ 4, regulated the expression of several GPCRs in macrophages (Table 3 and 4). Whilst LPS is
+     │ already known to regulate the expression of many of these (e.g. Gpr109b/PUMA-G, Fpr1, Ccrl2
+     │ and Ednrb) ([12-16], Sweet et al, unpublished data), regulated expression of others has not
+     │ been widely studied. Examples of these include Fzd1, Htr2b, Gpr84 (induced by LPS, Table 3),
+     │ and P2ry1 and 5 (repressed by LPS, Table 4). We recently validated the LPS-mediated
+     │ repression of P2ry5 mRNA expression in BMM by real time PCR [2]. Figure 3 highlights two
+     │ examples of regulated GPCR expression: mRNA expression of Gpr84 …
+     "This study analyzed GPCR expression in mouse macrophages, comparing it to other cell types and LPS-stimulated macrophages. Several P2RY family members showed macrophage-specific expression or LPS-regulated changes, suggesting roles in macrophage biology and inflammation."
+
+  17. Epigenetic profile in lipopolysaccharide-stimulated macrophages
+     Ester Correia Sarmento Rios; Thais Martins Lima Salgado; Francisco Garcia Soriano
+     PMC3953056 · Critical Care · 2013-11-05 · 0 citations
+     https://doi.org/10.1186/cc12987
+
+  18. RASGRP1 Deficiency Manifesting as Severe Vasculopathy and Fatal Autoimmune Hemolytic Anemia
+     Kosar Asna Ashari; Bahareh Yaghmaie; Neda Pak; Mohammad Shahrooei; Vahid Ziaee; Nima Parvaneh
+     PMC13240410 · EJHaem · 2026-05-29 · 0 citations
+     https://doi.org/10.1002/jha2.70275
+     Matched: Introduction · cat /papers/PMC13240410/content.lines --lines 39
+     "RASGRP1 deficiency is a rare inborn error of immunity characterized by immunodeficiency, autoimmunity, and lymphoproliferation. We report a 5‐year‐old male with novel homozygous splice‐donor mutations"
+
+  19. Regulation of RasGRP1 Function in T Cell Development and Activation by Its Unique Tail Domain
+     Deirdre M. Fuller; Minghua Zhu; Xiaohua Song; Chih-wen Ou-Yang; Sarah A. Sullivan; James C. Stone; W...
+     PMC3373593 · PMC · 2012-06-12 · 25 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3373593/
+     Matched: Introduction · cat /papers/PMC3373593/content.lines --lines 10-11
+     │ The Ras family proteins are critical components of many signaling pathways and serve to
+     │ regulate a variety of cell functions, such as proliferation and differentiation. The most
+     │ well-characterized signaling pathway regulated by Ras is the Erk (extracellular signal-
+     │ regulated kinases)-MAPK (mitogen activated protein kinase) pathway. Upon activation, Ras
+     │ recruits Raf-1, a serine/threonine kinase, to phosphorylate MEK (MAPK/Erk kinase), which in
+     │ turn activates Erk1 and Erk2. In T cells, Ras is activated by two families of Ras GEFs
+     │ (guanine exchange factors), RasGRP (Ras guanyl releasing protein) and Sos (son of
+     │ sevenless). It was recently shown that Sos contains an allosteric Ras-GTP binding …
+     "This study investigated the function of RasGRP1's unique tail domain in T cell development and activation. The tail domain is essential for RasGRP1's membrane localization, Erk activation, and preventing aberrant T cell responses."
+
+  20. Critical Role of Regulator G-Protein Signaling 10 (RGS10) in Modulating Macrophage M1/M2 Activation
+     Jae-Kyung Lee; Jaegwon Chung; George T. Kannarkat; Malú G. Tansey
+     PMC3836764 · PLoS ONE · 2013-11-21 · 49 citations
+     https://doi.org/10.1371/journal.pone.0081785
+     Matched: RGS10 expression and regulation in mouse macrophages · cat /papers/PMC3836764/content.lines --lines 37-38
+     "This study investigated the role of RGS10 in macrophage activation. RGS10 deficiency leads to enhanced M1 pro-inflammatory responses and impaired M2 alternative activation."
+
+  21. Monocyte normal immune response to LPS stimulation
+     P Myrianthefs; K Venetsanou; E Grouzi; E Boutzouka; P Evagelopoulou; G Fildissis; I Spiliotopoulou; ...
+     PMC3333514 · Critical Care · 2002-03-01 · 1 citation
+     https://doi.org/10.1186/cc1554
+
+  22. Activation of Raf-1 and mitogen-activated protein kinase in murine macrophages partially mimics lipopolysaccharide-induced signaling events
+     PMC2192101 · The Journal of Experimental Medicine · 1995-07-01 · 81 citations
+     https://doi.org/10.1084/jem.182.1.147
+     Matched: cat /papers/PMC2192101/content.lines --lines 5
+     │ Activation of"Raf-1 and Mitogen-activated Protein Kinase in Murine Macrophages Partially
+     │ Mimics Lipopolysaccharide-induced Signaling Events By Julie Hambleton,*~ t MartinMcMahon,[I
+     │ and Anthony L. DeFrancor From the *CancerResearchInstitute, Departmentof Medicine,
+     │ CGeorgeWilliams Hooper Foundation, and SDepartmentof Microbiologyand Immunology,
+     │ Universityof California, San Francisco,San Francisco,California94143;and IIDNAX
+     │ ResearchInstitute of Molecular and CellularBiology,PaloAlto, California94304 Summary
+     │ Lipopolysaccharide (LPS), a highly conserved component of the outer membrane of gram-
+     │ negative bacteria, stimulates macrophages to release various cytokine and eicosanoid
+     │ mediators of the …
+     "Raf-1 activation in macrophages mimicked some, but not all, LPS-induced signaling events. This activation led to TNF-alpha secretion, but not MAP kinase phosphatase 1 mRNA accumulation or NF-kappa B activation."
+
+  23. Transcriptional profiling of the LPS induced NF-κB response in macrophages
+     Omar Sharif, Viacheslav N Bolshakov, Stephanie Raines, Peter Newham, Neil D Perkins
+     PMC1781469 · PMC · 2007-01-01 · 447 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1781469/
+     Matched: Analysis of LPS-induced gene expression in the THP-1 macrophage cell l · cat /papers/PMC1781469/content.lines --lines 26
+     │ Using these criteria, 72 out of the 465 genes on the array were found to significantly
+     │ respond to LPS treatment in THP-1 cells. These can be grouped into four temporal patterns of
+     │ expression (Figure 3). The most common patterns were genes whose expression was unaffected
+     │ after 1 hour of LPS treatment but showed either a decrease (25 out of 72 genes) or an
+     │ increase (19 out of 72 genes) 4 hours post-treatment. The next most common pattern of
+     │ expression consisted of genes whose expression was induced following 1 hour of LPS treatment
+     │ and where, although frequently still higher than in untreated cells, expression decreased 4
+     │ hours post-treatment (18 out of 72 genes). 8 out of 72 genes exhibited …
+     "This study profiled gene expression in macrophages after LPS exposure. LPS induced a dynamic, time-dependent transcriptional response, with THP-1 cells closely mimicking primary macrophages."
+
+  24. Targeting RAS guanyl releasing protein 1 promotes T lymphocytes infiltrations and improves anti‐programmed death receptor ligand 1 therapy response of triple‐negative breast cancer
+     Xi Chen; Yuanliang Yan; Wangrui Liu; Yuanhong Liu; Abhimanyu Thakur; Qiuju Liang; Zhijie Xu
+     PMC10352603 · PMC · 2023-07-17 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10352603/
+     Matched: cat /papers/PMC10352603/content.lines --lines 19-20
+     │ FIGURE 4: The effects of RAS guanyl releasing protein 1 (RASGRP1) on responses to
+     │ anti‐programmed death receptor ligand 1 (PD‐L1) treatment in vivo. (A) The protocol of the
+     │ animal experiments for injection of 4T1 cells and intraperitoneal administration of
+     │ anti‐PD‐L1 agent in BALB/c mice. (B–D) The size (B), volume (C) and weight (D) of tumours
+     │ were photographed and measured. (E) The measurement of body weight of BALB/c mice. (F, G)
+     │ The peripheral proportions of CD8+ T cells were detected by flow cytometer and analyzed by
+     │ Flowjo.10. (H) Schematic diagram showing the biological role of RASGRP1 in immune cell
+     │ infiltration and anti‐PD‐L1 treatment response. In all, our study sheds light on the …
+
+  25. A Global Picture of Molecular Changes Associated to LPS Treatment in THP-1 Derived Human Macrophages by Fourier Transform Infrared Microspectroscopy
+     Diletta Ami; Ana Rita Franco; Valentina Artusa; Paolo Mereghetti; Francesco Peri; Antonino Natalello
+     PMC9656053 · International Journal of Molecular Sciences · 2022-11-03 · 7 citations
+     https://doi.org/10.3390/ijms232113447
+     Matched: 1. Introduction · cat /papers/PMC9656053/content.lines --lines 10-12
+     "Fourier transform infrared microspectroscopy analyzed THP-1 derived macrophages treated with LPS. The study identified spectral markers in lipids, proteins, and sulfated sugars, highlighting their role in inflammation."
+
+[2.2s, saved to s_34da7383]
+
+💡 Extract data across these results with: map --from s_34da7383 "your question"
+[2.2s, saved to s_34da7383]  [repo: mva-lof-molecular]
+

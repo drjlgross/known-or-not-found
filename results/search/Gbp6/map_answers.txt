@@ -1,0 +1,174 @@
+Map results  [m_648273cf]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Gbp6 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+
+--- [1] [success] A hierarchical GBP network promotes cytosolic LPS recognition and sepsis ---
+doc_id: bio_ea6f8a3b6c58
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [2] [success] Direct binding of polymeric GBP1 to LPS disrupts bacterial cell envelope functions ---
+doc_id: PMC7327485
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [3] [success] Pattern Recognition Receptor for Bacterial Lipopolysaccharide in the Cytosol of Human Macrophages ---
+doc_id: bio_56e9957f6d01
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [4] [success] Inhibitory effects of polysaccharides from Korean ginseng berries on LPS-induced RAW264.7 macrophages ---
+doc_id: PMC10684074
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [5] [success] Human GBP1 is a microbe‐specific gatekeeper of macrophage apoptosis and pyroptosis ---
+doc_id: PMC6600649
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [6] [success] Interferon-induced guanylate-binding proteins: Guardians of host defense in health and disease ---
+doc_id: PMC6400534
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [7] [success] A Rapid Caspase-11 Response Induced by IFNγ Priming Is Independent of Guanylate Binding Proteins ---
+doc_id: PMC7566093
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [8] [success] Epigenetic profile in lipopolysaccharide-stimulated macrophages ---
+doc_id: PMC3953056
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [9] [success] Inflammasome Activation by Bacterial Outer Membrane Vesicles Requires Guanylate Binding Proteins ---
+doc_id: PMC5626967
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [10] [success] Monocyte normal immune response to LPS stimulation ---
+doc_id: PMC3333514
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [11] [success] GBP1 recruitment to actin-rich pedestals of extracellular Gram-negative bacteria promotes pyroptosis ---
+doc_id: PMC13372814
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [12] [success] GBP1 recruitment to actin-rich pedestals induced by extracellular Gram-negative bacteria promotes pyroptosis ---
+doc_id: bio_0ddf65ba9122
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [13] [success] Selection of reliable reference genes for the normalisation of gene expression levels following time course LPS stimulation of murine bone marrow derived macrophages ---
+doc_id: PMC5627409
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [14] [success] GBP5 Aggravates Acute Lung Injury Via NLRP3 Inflammasome Activation While Inducing a HIF-1α–CD73–adenosine Feedback Loop ---
+doc_id: PMC13375705
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [15] [success] LPS-aggregating proteins GBP1 and GBP2 are each sufficient to enhance caspase-4 activation both in cellulo and in vitro ---
+doc_id: PMC10104521
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [16] [success] The Prognostic and Immunological Value of Guanylate-Binding Proteins in Lower-Grade Glioma: Potential Markers or Not? ---
+doc_id: PMC8573089
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [17] [success] Extracellular vesicle-packaged GBP2 from macrophages aggravates sepsis-induced acute lung injury by promoting ferroptosis in pulmonary vascular endothelial cells ---
+doc_id: PMC11994402
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [18] [success] Guanylate-binding proteins balance iNOS/Arg-1 in myeloid cells during L. major infection and promote host defense to infection ---
+doc_id: PMC13059736
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [19] [success] Molecular mechanisms and functions of guanylate-binding protein 2 in inflammation and cancer (Review) ---
+doc_id: PMC12486372
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [20] [success] Endotoxin-Binding Peptides Derived from Casein Glycomacropeptide Inhibit Lipopolysaccharide-Stimulated Inflammatory Responses via Blockade of NF-κB activation in macrophages ---
+doc_id: PMC4446742
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [21] [success] CTRP6 promotes the macrophage inflammatory response, and its deficiency attenuates LPS-induced inflammation ---
+doc_id: PMC10789631
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [22] [success] Human GBP1 binds LPS to initiate assembly of a caspase-4 activating platform on cytosolic bacteria ---
+doc_id: PMC7314798
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [23] [success] Granulocyte Colony Stimulating Factor Induces Lipopolysaccharide (LPS) Sensitization via Upregulation of LPS Binding Protein in Rat ---
+doc_id: PMC3577878
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [24] [success] Macrophage phenotype in sepsis immunosuppression ---
+doc_id: PMC4470529
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [25] [success] Lipopolysaccharide (LPS) binding protein opsonizes LPS-bearing particles for recognition by a novel receptor on macrophages ---
+doc_id: PMC2189482
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}

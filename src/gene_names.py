@@ -3,6 +3,7 @@ data/raw/download_checksums.sha256). Used for (a) the symbol+name search query, 
 query, and (c) the strict judge's check that the evidence quote names the gene.
 """
 import re
+import unicodedata
 from functools import lru_cache
 from pathlib import Path
 
@@ -70,11 +71,26 @@ def human_names(symbol: str) -> list[str]:
     return _hgnc().get(_table().loc[symbol, "MGI Accession ID"], [])
 
 
+_GREEK = str.maketrans({"α": "a", "β": "b", "γ": "g", "δ": "d", "ε": "e", "κ": "k", "λ": "l", "θ": "t", "ω": "w",
+                        "Α": "A", "Β": "B", "Γ": "G", "Δ": "D", "Κ": "K"})
+_GREEK_WORD = re.compile(r"(?<=[0-9\-\s])(alpha|beta|gamma|delta|epsilon|kappa|lambda|theta|omega)(?![A-Za-z])", re.I)
+
+
+def normalize(text: str) -> str:
+    """For name matching only: drop combining marks (PDF-extraction debris such as "IL-1̠b"), map Greek letters to
+    Latin initials (IL-1β -> IL-1b), and spelled-out Greek after a digit, hyphen or space to its initial
+    (IL-1beta, interleukin 1 beta -> IL-1b, interleukin 1 b)."""
+    t = "".join(ch for ch in unicodedata.normalize("NFKD", text) if not unicodedata.combining(ch))
+    t = t.translate(_GREEK)
+    return _GREEK_WORD.sub(lambda m: m.group(1)[0], t)
+
+
 def names_in(text: str, symbol: str, human: bool = False) -> list[str]:
-    """Which of the gene's names occur in text (case-insensitive, word-bounded). human=True adds HGNC ortholog names."""
-    hits = []
+    """Which of the gene's names occur in text (case-insensitive, word-bounded, after normalize() on both sides).
+    human=True adds HGNC ortholog names."""
+    hits, t = [], normalize(text)
     for n in dict.fromkeys(all_names(symbol) + (human_names(symbol) if human else [])):
-        if re.search(rf"(?<![A-Za-z0-9]){re.escape(n)}(?![A-Za-z0-9])", text, re.I):
+        if re.search(rf"(?<![A-Za-z0-9]){re.escape(normalize(n))}(?![A-Za-z0-9])", t, re.I):
             hits.append(n)
     return hits
 

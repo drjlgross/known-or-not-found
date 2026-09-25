@@ -1,0 +1,194 @@
+$ src/pc.sh map --from s_5e3022fd --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Ccl17 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_1d2fc273
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 1022ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Early-Life Exposure to Lipopolysaccharide Induces Persistent Changes i
+    PMC10384579 · 1677ms
+    {
+      "answer": "yes",
+      "evidence": "L91: Ccl17 | Chemokine (C-C motif) ligand 17 | 1.78 | 0.0009",
+      "context": "L38: The results also showed that LPS in the spleen significantly altered the expression of 22 genes (p < 0.05)."
+    }
+
+  ✓ Compartmentalized Production of CCL17 In Vivo
+    PMC2193819 · 1480ms
+    {
+      "answer": "yes",
+      "evidence": "L63: CCL17+ DCs were threefold more frequent among DCs of mLNs compared with those of saline injected mice (Fig. 8 A).",
+      "context": "L28: Mice were injected intraperitoneally or intravenously with a sublethal dose of 300 μg LPS (Sigma-Aldrich), or 20 nmol CpG-oligodeoxynucleotide (ODN) 1668 (Tib Molbiol) and Listeria monocytogenes (50,000 listeria/mouse), and organs or organ-derived DCs were analyzed 15 h (LPS and CpG-ODN) or 4 d (listeria) later."
+    }
+
+  ✓ Sepsis induces incomplete M2 phenotype polarization in peritoneal exud
+    PMC4709882 · 1309ms
+    {
+      "answer": "yes",
+      "evidence": "In a separate experiment with 6-h LPS treatment of PE cells from mice at 20 h post-surgery, LPS treatment also caused a marked increase in both CCL17 and CCL22 in sham-PE, but not in CLP-PE cells (Fig. 3b, c).",
+      "context": "PE cells harvested from mice at 20 h after sham or CLP operation were cultured in the presence or absence of LPS (1 μg/ml) for 6 h (n = 4 or 5 for each group)."
+    }
+
+  ✓ Anti-Inflammatory Effects of Cicadidae Periostracum Extract and Oleic 
+    PMC9225349 · 1388ms
+    {
+      "answer": "yes",
+      "evidence": "L38: The mRNA expression levels of chemokines CCL20, CXCL5, CXCL1, CCL2, CXCL10, CXCL11, CCL7, IL-6, CXCL3, CCL17 CXCL2, CCL8, CCRL2, TLR2, PPBP (CXCL7), CCL4, CCL5, and CCL9 were significantly increased in the LPS-stimulated group compared with the normal group.",
+      "context": "L37: 3.1.1. The Gene Expression Profiles of Chemokines and Their Receptors in LPS Stimulated Lung Epithelial Cells Using Mouse Chemokines and Receptors RT2 Profiler PCR Arrays"
+    }
+
+  ✓ C–C Chemokines Released by Lipopolysaccharide (LPS)-stimulated Human M
+    PMC2196157 · 1525ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ SENP3 mediated DeSUMOylation of macrophage derived CCL17 accelerates a
+    PMC12634754 · 927ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Interleukin-4 induction of the CC chemokine TARC (CCL17) in murine mac
+    PMC1698493 · 1120ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Comparative Study of The Effect of LPS on The Function of BALB/c and C
+    PMC3660024 · 978ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ TLR4/MyD88 -mediated CCL2 production by lipopolysaccharide (endotoxin)
+    PMC6154519 · 850ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(
+    PMC7053374 · 794ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Transcriptome Analysis Provides Insights into the Markers of Resting a
+    PMC6274997 · 909ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Serum C-C motif chemokine ligand 17 as a predictive biomarker for the 
+    PMC12020124 · 1432ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ IL-17A induces heterogeneous macrophages, and it does not alter the ef
+    PMC5622065 · 951ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Role of Fibroblasts in Chronic Inflammatory Signalling in Chronic Rhin
+    PMC10179235 · 1723ms
+    {
+      "answer": "yes",
+      "evidence": "A combined stimulation with LPS and IL-4 induced CCL17 in NPDF (L96)",
+      "context": "Fukumoto (2008) | To assess if NPDF produced TARC | No comment | No comment | Uncinate process mucosa and lung | IL-4; LPS | RT-PCR | ELISA | CCL17 (TARC) | A combined stimulation with LPS and IL-4 induced CCL17 in NPDF (L96)"
+    }
+
+  ✓ Imbalance polarization of M1/M2 macrophages in miscarried uterus
+    PMC11271943 · 1439ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Screening of the FDA-approved drug library identifies CCL17 inhibitors
+    PMC12287273 · 887ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ CHEMOKINE SIGNALING IN BREAST CANCER: FOCUS ON CC-MOTIF CHEMOKINE LIGA
+    bio_20c64eb7 · 979ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Is CC Chemokine Ligand 17 (TARC) Driving Disease Progression in Chroni
+    PMC8990115 · 776ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyr
+    PMC9456100 · 852ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Impact of low and high lipopolysaccharide doses on the early expressio
+    PMC12757465 · 921ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Enhancing Cardiac Reprogramming by Suppressing Specific C-C Chemokine 
+    bio_5c77e2ab · 1018ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Redox-sensitive activation of CCL7 by BRG1 in hepatocytes during liver
+    PMC8406035 · 1967ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Exosomal miR-148a-3p from LPS-Activated Macrophages Promotes M1 Polari
+    PMC13199726 · 807ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ A Global Picture of Molecular Changes Associated to LPS Treatment in T
+    PMC9656053 · 880ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[23.6s, saved to m_1d2fc273]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  1/25 papers  run m_1d2fc273  [2s]
+  [########............]  11/25 papers  run m_1d2fc273  [4s]
+  [############........]  15/25 papers  run m_1d2fc273  [6s]
+  [#############.......]  17/25 papers  run m_1d2fc273  [8s]
+  [################....]  21/25 papers  run m_1d2fc273  [10s]
+  [####################]  25/25 papers  run m_1d2fc273  [12s]
+  [####################]  25/25 papers  run m_1d2fc273  [21s]
+  [####################]  25/25 papers  run m_1d2fc273  [23s]
+

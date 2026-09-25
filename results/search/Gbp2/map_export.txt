@@ -1,0 +1,4 @@
+$ src/pc.sh results m_04755b37 --save /Users/julia/known-or-not-found/results/search/Gbp2/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/Gbp2/map_answers.txt
+

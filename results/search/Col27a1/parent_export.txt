@@ -1,0 +1,4 @@
+$ src/pc.sh results s_d39a10b2 --save /Users/julia/known-or-not-found/results/search/Col27a1/parent.csv
+# exit 0
+  ✓ Saved 25 papers to /Users/julia/known-or-not-found/results/search/Col27a1/parent.csv
+

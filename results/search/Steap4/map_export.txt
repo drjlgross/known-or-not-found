@@ -1,0 +1,4 @@
+$ src/pc.sh results m_ee523fb7 --save /Users/julia/known-or-not-found/results/search/Steap4/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/Steap4/map_answers.txt
+

@@ -1,0 +1,270 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Il12b (interleukin 12b) LPS macrophage
+# exit 0
+Found 25 papers  [s_3142adf7]
+
+  1. Lipopolysaccharide regulation of antiinflammatory tristetraprolin family and proinflammatory gene expression in mouse macrophages
+     Heping Cao
+     PMC10949775 · BMC Research Notes · 2024-03-19 · 4 citations
+     https://doi.org/10.1186/s13104-024-06743-6
+     Matched: Methods · cat /papers/PMC10949775/content.lines --lines 29-30
+     │ Il12b | NM_008352 | 79 | GACCAGAGACATGGAGTCATAGG | TGTACTGGCCAGCATCTAGAAACT Tnf | NM_013693
+     │ | 74 | GCTGTCGCTACATCACTGAACCT | TGACCCGTAGGGCAATTACA
+     "Lipopolysaccharide (LPS) was studied for its effects on tristetraprolin (TTP) family and proinflammatory gene expression in mouse macrophages. LPS increased TTP, TNF, and COX2 mRNA but had minimal impact on other TTP homologues and proinflammatory cytokine genes."
+
+  2. Regulation of IL-10 and IL-12 production and function in macrophages and dendritic cells
+     Xiaojing Ma; Wenjun Yan; Hua Zheng; Qinglin Du; Lixing Zhang; Yi Ban; Na Li; Fang Wei
+     PMC4754024 · PMC · 2015-12-17 · 244 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4754024/
+     Matched: Regulation of interleukin-12 production · cat /papers/PMC4754024/content.lines --lines 14-16
+     │ Compared with Il12a, the Il12b promoter has been more extensively studied, and numerous
+     │ transcriptional factors have been identified as regulators for Il12b transcription. When
+     │ murine macrophages are stimulated with LPS, nucleosome 1 is selectively remodeled so that
+     │ the transcription factor CCAAT enhancer-binding protein β (C/EBPβ)/LAP could gain access to
+     │ this region [25]. However, remodeling of nucleosome 1 alone is not sufficient for Il12b
+     │ transcription and more factors are required for its induced expression. These factors
+     │ include NFκB [26], [27], PU.1 [28], IRF-1 [29], nuclear factor in activated T cells (NFAT)
+     │ [30], and IFN consensus sequence-binding protein (ICSBP, also called IRF-8) …
+     "This paper reviews the regulation and function of IL-10 and IL-12 in macrophages and dendritic cells. Understanding these cytokines is crucial for developing therapies for various human disorders."
+
+  3. Mycobacterium vaccae NCTC 11659, a Soil-Derived Bacterium with Stress Resilience Properties, Modulates the Proinflammatory Effects of LPS in Macrophages
+     Evan M. Holbrook; Cristian A. Zambrano; Caelan T. O. Wright; Elizabeth M. Dubé; Jessica R. Stewart; ...
+     PMC10049321 · PMC · 2023-03-08 · 13 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10049321/
+     Matched: 2.4.1. IL10:IL12B mRNA Expression Ratio · cat /papers/PMC10049321/content.lines --lines 47
+     │ In line with data from the NanoString nCounter platform, both M. vaccae NCTC 11659 and LPS
+     │ had pronounced effects on IL10:IL12B mRNA expression in THP-1 monocyte-derived macrophages.
+     │ The ratio of IL10 to IL12B expression was calculated in THP-1 monocyte-derived macrophages
+     │ after incubating them with various concentrations of M. vaccae NCTC 11659 and LPS as
+     │ described above. Analysis of the IL10:IL12B mRNA expression ratio revealed an M. vaccae NCTC
+     │ 11659 × LPS interaction (F(12, 120) = 14.19, p < 0.001) as well as main effects of M. vaccae
+     │ NCTC 11659 (F(4, 120) = 23.92, p < 0.001) and LPS (F(3, 120) = 660.7, p < 0.001). Exposure
+     │ of THP-1 monocyte-derived macrophages to M. vaccae NCTC 11659 …
+     "This study investigated how *Mycobacterium vaccae* affects human macrophages challenged with lipopolysaccharide (LPS). *M. vaccae* exposure prior to LPS challenge reduced pro-inflammatory gene expression in macrophages."
+
+  4. NF-κB-Inducing Kinase Is Essential for Effective c-Rel Transactivation and Binding to the Il12b Promoter in Macrophages
+     Natalia Cuesta; Anna D. Staniszewska; Cristóbal Moreno; Carmen Punzón; Manuel Fresno
+     PMC11760456 · PMC · 2025-01-03 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11760456/
+     Matched: 3.6. c-Rel Is Bound to the NF-κB Consensus Sequence in the Il12b Promo · cat /papers/PMC11760456/content.lines --lines 68-69
+     │ In order to determine which NF-κB complexes were being recruited to the NF-κB consensus
+     │ sequence in the Il12b promoter in vivo, we performed a ChIP assay in peritoneal macrophages
+     │ from aly/aly and WT mice in response to LPS. The NF-κB site located at position −117 to −107
+     │ of the murine Il12b promoter has been characterized as being responsible for Il12b gene
+     │ induction upon LPS stimulation in mouse macrophages [9]. Therefore, we designed primers that
+     │ amplified the region from position −135 to −65. As shown in Figure 6, 1 h after LPS
+     │ challenge, c-Rel was bound to the NF-κB consensus sequence in the Il12b promoter in WT
+     │ macrophages, whereas the transcription factor bound to the site in aly/aly …
+     "This study investigated the role of NF-κB-inducing kinase (NIK) in macrophage inflammatory responses. NIK is essential for c-Rel's transactivation and binding to the Il12b promoter, and its mutation impairs cytokine production."
+
+  5. Natural variation of macrophage activation as disease-relevant phenotype predictive of inflammation and cancer survival
+     Konrad Buscher; Erik Ehinger; Pritha Gupta; Akula Bala Pramod; Dennis Wolf; George Tweet; Calvin Pan...
+     PMC5527282 · Nature Communications · 2017-07-24 · 119 citations
+     https://doi.org/10.1038/ncomms16041
+     Matched: Natural variation of LPS activation in macrophages · cat /papers/PMC5527282/content.lines --lines 14-15
+     "This study analyzed natural variation in macrophage activation using the hybrid mouse diversity panel. A novel gene signature derived from this analysis predicts susceptibility to macrophage-related disorders and cancer survival in humans."
+
+  6. Inhibition of Extracellular Calcium Influx Results in Enhanced IL-12 Production in LPS-Treated Murine Macrophages by Downregulation of the CaMKKβ-AMPK-SIRT1 Signaling Pathway
+     Xin Liu; Ning Wang; Yuanfeng Zhu; Yongjun Yang; Xiaoli Chen; Shijun Fan; Qian Chen; Hong Zhou; Jiang...
+     PMC4904125 · Mediators of Inflammation · 2016-05-30 · 28 citations
+     https://doi.org/10.1155/2016/6152713
+     Matched: 3.1. LPS Induces Secretion of TNF-α, IL-6, and IL-10 in Large Amounts  · cat /papers/PMC4904125/content.lines --lines 36
+     │ To compare supernatant levels of TNF-α, IL-6, IL-10, and IL-12 (p40 and p70), primary murine
+     │ peritoneal macrophages were treated with 100 ng/mL LPS. Results showed LPS induced dramatic
+     │ increase of TNF-α, IL-6, and IL-10 secretion but triggered relatively lower concentration of
+     │ IL-12 p40 and IL-12 p70 production (Figure 1(a)). Moreover, LPS (10, 100, and 1000 ng/mL)
+     │ induced robust increase of TNF-α secretion in a significantly dose-dependent manner, but
+     │ IL-12 secretion only increased slightly with elevated LPS concentration (Figure 1(b)). In
+     │ the time course detection, the production of TNF-α increased rapidly 6 h after LPS
+     │ stimulation. IL-12 p40 and IL-12 p70 were also elevated time …
+     "Extracellular calcium influx was studied in LPS-treated macrophages and found to inhibit IL-12 production. Blocking this influx enhances IL-12 by downregulating the CaMKKβ-AMPK-SIRT1 pathway."
+
+  7. Nucleosomes Are Stably Evicted from Enhancers but Not Promoters upon Induction of Certain Pro-Inflammatory Genes in Mouse Macrophages
+     Alison Gjidoda; Mohita Tagore; Michael J. McAndrew; Alexander Woods; Monique Floer
+     PMC3976374 · PMC · 2014-04-04 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3976374/
+     Matched: Nucleosome occupancy at the IL12B enhancer and promoter upon LPS induc · cat /papers/PMC3976374/content.lines --lines 31
+     "Nucleosome occupancy was analyzed at enhancers and promoters of pro-inflammatory genes in mouse macrophages. Nucleosomes are stably evicted from enhancers but not promoters upon gene induction."
+
+  8. Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni, Yanal Ghosheh, Akula Bala Pramod, Klaus Ley
+     PMC6543837 · Frontiers in Immunology · 2019-05-24 · 1909 citations
+     https://doi.org/10.3389/fimmu.2019.01084
+     Matched: Introduction · cat /papers/PMC6543837/content.lines --lines 14-15
+     │ The M1/M2 macrophage polarization nomenclature was introduced in 2000, based on the
+     │ propensity of C57BL/6J macrophages to be more easily activated to produce NO (M1 polarized)
+     │ than Balb/c mice (M2 polarized) (12). Different metabolism of arginine after LPS injection
+     │ elicits different phenotypes of macrophages in C57BL/6J and Balb/c mice. C57BL/6J peritoneal
+     │ macrophages induced iNOS resulting in nitric oxide and a T-helper 1 (Th1) CD4 T cell
+     │ response, while Balb/c mice induced arginase to produce ornithine and a Th2 response. In
+     │ analogy to Th1 and Th2, these macrophages were named M1 and M2. Subsequent work showed that
+     │ M1 macrophages have a pro-inflammatory phenotype with pathogen-killing …
+     "This study compared gene expression in *in vivo* M1/M2 macrophages with *in vitro* classically/alternatively activated macrophages. The findings indicate that *in vivo* M1/M2 polarization is not equivalent to *in vitro* activation states."
+
+  9. The Impacts of Lactobacillus delbrueckii and Lactobacillus rhamnosus to Promote In Vitro Anti‐Inflammatory Profile of RA‐Macrophages
+     Parisa Ahmadi; Mahmoud Mahmoudi; Houshang Rafatpanah; Zahra Rezaieyazdi; Maryam Ahmadi‐Khorram; Zahr...
+     PMC11911130 · PMC · 2025-03-16 · 10 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11911130/
+     Matched: Probiotics Attenuated the Expression of Inflammatory Cytokines · cat /papers/PMC11911130/content.lines --lines 117-118
+     │ LPS treatment of macrophages was associated with an increase in IL‐1β expression. Studies
+     │ have shown that LPS can bind to CD14 and stimulate TLR4, leading to the activation of NF‐κB
+     │ and an increase in IL‐1β expression (Bent et al. 2018; Metchnikoff and Prize 2015; Wang et
+     │ al. 2020). In contrast, probiotic treatment of macrophages suppressed IL‐1β expression (Jang
+     │ et al. 2024). Similarly, Sichetti et al. (2018) showed that treating THP‐1 macrophages with
+     │ L. rhamnosus , B. lactis, and B. longum resulted in decreased IL‐1β. The other study found
+     │ that L. rhamnosus could decrease the expression of TLR4 and MYD88, thereby inactivating the
+     │ transcription of IL‐1β in LPS‐pretreated cells. …
+     "This study investigated the effects of *Lactobacillus delbrueckii* and *Lactobacillus rhamnosus* on RA patient macrophages. Probiotic treatment promoted M2 polarization and reduced inflammatory cytokines, suggesting a therapeutic potential for RA."
+
+  10. Early interleukin 12 production by macrophages in response to mycobacterial infection depends on interferon gamma and tumor necrosis factor alpha
+     PMC2192016 · PMC · 1995-05-01 · 257 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2192016/
+     Matched: cat /papers/PMC2192016/content.lines --lines 5
+     "This study investigated the factors influencing early IL-12 production by macrophages during mycobacterial infection. Early IL-12 production requires both IFN-gamma and TNF-alpha, indicating they are upstream of IL-12 in this response."
+
+  11. Azithromycin suppresses interleukin-12p40 expression in lipopolysaccharide and interferon-γ stimulated macrophages
+     Keiko Yamauchi; Yoko Shibata; Tomomi Kimura; Shuichi Abe; Sumito Inoue; Daisuke Osaka; Michiko Sato;...
+     PMC2773416 · PMC · 2009-10-23 · 48 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2773416/
+     Matched: Introduction · cat /papers/PMC2773416/content.lines --lines 13-15
+     "Azithromycin was studied for its effect on IL-12p40 production in stimulated macrophages. The antibiotic suppressed IL-12p40 expression by inhibiting transcription factor binding to the promoter."
+
+  12. A Cell Permeable Peptide Inhibitor of NFAT Inhibits Macrophage Cytokine Expression and Ameliorates Experimental Colitis
+     Houda Z. Elloumi; Nitsan Maharshak; Kavitha N. Rao; Taku Kobayashi; Hyungjin S. Ryu; Marcus Mühlbaue...
+     PMC3313977 · PLoS ONE · 2012-03-27 · 54 citations
+     https://doi.org/10.1371/journal.pone.0034172
+     Matched: NFAT regulates Il12b gene expression · cat /papers/PMC3313977/content.lines --lines 42-45
+     "A cell-permeable peptide inhibitor of NFAT was studied in macrophages and experimental colitis. This inhibitor reduced macrophage cytokine expression and ameliorated colitis in mice, suggesting a therapeutic potential for inflammatory bowel diseases."
+
+  13. IL-12 Inhibits Lipopolysaccharide Stimulated Osteoclastogenesis in Mice
+     Masako Yoshimatsu; Hideki Kitaura; Yuji Fujimura; Haruka Kohara; Yukiko Morita; Noriaki Yoshida
+     PMC4433692 · PMC · 2015-05-03 · 11 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4433692/
+     Matched: 4. Discussion · cat /papers/PMC4433692/content.lines --lines 40-41
+     │ In this study, we have demonstrated the effects of IL-12 on LPS-induced osteoclastogenesis
+     │ in mouse calvariae in vivo. Previously, a number of investigators have examined LPS-mediated
+     │ osteoclastogenesis [7, [23]–25]. Among these reports, there were two in vivo studies in
+     │ which LPS was administered especially into calvariae [23, 25]. The protocol, dose, and days
+     │ of LPS administration were based on these reports. As shown by RmCT and histological images,
+     │ daily injections of LPS (100 μg/day) for 5 days into the supracalvariae were sufficient for
+     │ osteoclast induction in calvariae in this study. Loss of bone and expansion of the calvarial
+     │ suture were observed after LPS administration. Although a …
+     "IL-12 was administered with LPS to mice to study its effect on osteoclastogenesis. IL-12 inhibited LPS-induced osteoclast formation and bone resorption, potentially via apoptosis."
+
+  14. Lipopolysaccharide-Induced M2 to M1 Macrophage Transformation for IL-12p70 Production Is Blocked by Candida albicans Mediated Up-Regulation of EBI3 Expression
+     Xing-Feng Zheng; Yu-Xiao Hong; Gui-Jie Feng; Gao-Feng Zhang; Helen Rogers; Michael A. O. Lewis; Davi...
+     PMC3664618 · PMC · 2013-05-27 · 104 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3664618/
+     Matched: Candida albicans Suppresses LPS-induced IL-12p70 in M2 to M1 Phenotype · cat /papers/PMC3664618/content.lines --lines 42-43
+     "Heat-killed *Candida albicans* was studied for its effect on M2 to M1 macrophage transformation. *C. albicans* suppresses LPS-induced IL-12p70 production by up-regulating EBI3 expression."
+
+  15. Selective Suppression of Interleukin-12 Induction after Macrophage Receptor Ligation
+     Fayyaz S. Sutterwala; Gary J. Noel; Raphael Clynes; David M. Mosser
+     PMC2196339 · The Journal of Experimental Medicine · 1997-06-02 · 255 citations
+     https://doi.org/10.1084/jem.185.11.1977
+     Matched: Role of Calcium in the Inhibition of LPS-induced IL-12(p40) mRNA. · cat /papers/PMC2196339/content.lines --lines 35
+     │ To examine the role of extracellular calcium in the downregulation of IL-12 production, the
+     │ calcium chelator EGTA was employed. BMMφ from BALB/c mice were stimulated with LPS in the
+     │ presence or absence of 5 mM EGTA (Fig. 5). LPS induced high levels of IL-12(p40) mRNA by
+     │ BMMφ cultured in either calcium-containing or calcium-free medium, indicating that
+     │ extracellular calcium is not needed for the induction of IL-12(p40) mRNA by LPS. As
+     │ expected, the addition of E-IgG to LPS-treated macrophages in calcium-containing medium
+     │ showed a dramatic inhibition in IL-12(p40) mRNA induction (Fig. 5). Ligation of FcγR in the
+     │ absence of extracellular calcium, however, showed a complete abrogation of …
+     "Ligation of specific macrophage receptors was studied for its effect on lipopolysaccharide-induced IL-12. Receptor ligation specifically suppresses IL-12 induction via extracellular calcium influxes, not other cytokines."
+
+  16. MEK inhibitors increase the mortality rate in mice with LPS-induced inflammation through IL-12-NO signaling
+     Ryota Hashimoto; Hiroshi Koide; Youichi Katoh
+     PMC10575927 · PMC · 2023-10-13 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10575927/
+     Matched: IL-12 enhances iNOS expression and NO production in LPS-stimulated mac · cat /papers/PMC10575927/content.lines --lines 29-30
+     "MEK inhibitors were studied in combination with LPS in mice to understand their effect on inflammation. MEK inhibitors increased mortality by enhancing IL-12-induced NO production."
+
+  17. Nfkb1 Inhibits LPS-Induced IFN-β and IL-12 p40 Production in Macrophages by Distinct Mechanisms
+     Xixing Zhao; Erik J. Ross; Yanyan Wang; Bruce H. Horwitz
+     PMC3299705 · PLoS ONE · 2012-03-12 · 13 citations
+     https://doi.org/10.1371/journal.pone.0032811
+     Matched: Retrovirally-mediated gene expression · cat /papers/PMC3299705/content.lines --lines 45
+     │ BMDM were grown as previously described [36]. On the second day of culture cells were
+     │ infected with the indicated retroviruses. 72 hours later macrophages were re-plated at 5×105
+     │ cells/well in 0.5 ml of medium in a 24-well plate, or at 0.3–1×105 cells/well in 100 µl of
+     │ medium in a 96 well plate. The following day cells were stimulated with LPS from E. coli
+     │ 0127:B8 (Sigma, St Louis, MO) at 1 ng/ml or left unstimulated.
+     "Nfkb1 deficiency increases LPS-induced IFN-β and IL-12 p40 in macrophages. p50 and p105 inhibit IFN-β via ERK, while p105 inhibits IL-12 p40 independently of ERK."
+
+  18. Motif prediction to distinguish LPS-stimulated pro-inflammatory  vs . antibacterial macrophage genes
+     Rahul K Kollipara, Narayanan B Perumal
+     PMC2949756 · Immunome Research · 2010-01-01 · 5 citations
+     https://doi.org/10.1186/1745-7580-6-5
+     Matched: Classification of antibacterial and pro-inflammatory macrophage genes · cat /papers/PMC2949756/content.lines --lines 18-20
+     │ In order to distinguish macrophage genes responsible for antibacterial versus pro-
+     │ inflammatory phenotypes upon induction of LPS tolerance, we filtered the differentially
+     │ expressed genes reported in Foster et al [6] as shown in the top part of Figure 1. These
+     │ authors have performed two replicates of microarray hybridizations for each of the following
+     │ experimental conditions: The naïve (N) state that corresponds to no LPS treatment, a 4-hour
+     │ treatment of LPS to naïve cells (labelled N+L) and a 24-hour LPS treatment of naïve cells
+     │ followed by an additional 4-hour treatment (labelled T+L). Upon the first LPS treatment for
+     │ 24 hours, the macrophages in the naïve state become tolerant and a second …
+     "This study analyzed gene expression patterns in LPS-stimulated macrophages to identify pro-inflammatory and antibacterial genes. It found distinct transcription factor binding site motifs associated with each gene set, helping to distinguish their regulatory mechanisms."
+
+  19. Differential Regulation of Interleukin (IL)-12 p35 and p40 Gene Expression and Interferon (IFN)-γ–primed IL-12 Production by IFN Regulatory Factor 1
+     Jianguo Liu; Shanjin Cao; Lisa M. Herman; Xiaojing Ma
+     PMC2194226 · PMC · 2003-10-20 · 152 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2194226/
+     Matched: Role of LPS and NF-κB in the Regulation of IL-12 p35 Transcription. · cat /papers/PMC2194226/content.lines --lines 55-56
+     "IRF-1 regulates IL-12 p35 and p40 gene expression and IFN-γ-primed IL-12 production. IRF-1 is critical for IL-12 p35 transcription, but not p40, in IFN-γ-activated macrophages."
+
+  20. Comparative Study of The Effect of LPS on The Function of BALB/c and C57BL/6 Peritoneal Macrophages
+     Sara Soudi; Ahmad Zavaran-Hosseini; Zuhair Muhammad Hassan; Masoud Soleimani; Fatemeh Jamshidi Adega...
+     PMC3660024 · Cell Journal (Yakhteh) · 2013-05-05
+     Matched: Cytokine assay · cat /papers/PMC3660024/content.lines --lines 44-46
+     "Peritoneal macrophages from BALB/c and C57BL/6 mice were stimulated with LPS to compare their responses. Different mouse strains exhibit distinct cytokine profiles and functional activities when exposed to LPS."
+
+  21. The Correlation of Serum IL-12B Expression With Disease Activity in Patients With Inflammatory Bowel Disease
+     Hye Won Lee; Sook Hee Chung; Chang Mo Moon; Xiumei Che; Seung Won Kim; Soo Jung Park; Sung Pil Hong;...
+     PMC4907655 · PMC · 2016-06-10 · 18 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4907655/
+     Matched: Sampling and Measurement of Serum IL-12B · cat /papers/PMC4907655/content.lines --lines 18
+     "This study investigated the correlation between serum IL-12B expression and disease activity in Inflammatory Bowel Disease (IBD) patients. Elevated IL-12B levels were found to be significantly associated with increased disease severity in IBD."
+
+  22. Co-stimulation with opposing macrophage polarization cues leads to orthogonal secretion programs in individual cells
+     Andrés R. Muñoz-Rojas, Ilana Kelsey, Jenna L. Pappalardo, Meibin Chen, Kathryn Miller-Jensen
+     PMC7804107 · PMC · 2021-01-12 · 75 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7804107/
+     Matched: Il6 and Il12b are expressed orthogonally with Arg1 in single cells · cat /papers/PMC7804107/content.lines --lines 39-40
+     │ We next looked for transcription factors (TFs) related to these targets that might play a
+     │ role in selective expression. We observed that Nfkbiz, a positive TF for the secondary
+     │ response genes Il6 and Il12b[19], also had a negative odds ratio with Arg1, suggesting that
+     │ this pathway may be orthogonally regulated with the Arg1 pathway (Fig. 4a). In support of
+     │ this hypothesis, Nfkbiz had a negative odds ratio with Klf4, a positive TF for Arg1 and
+     │ Chil3 that also negatively regulates LPS-stimulated proinflammatory genes (Fig. 4a, c)[28].
+     │ Importantly, we previously noted that Nfkbiz and Klf4 are TFs that are subject to negative
+     │ cross-regulation and increase their noise after co-stimulation (Fig. …
+     "Macrophages co-stimulated with opposing cues show heterogeneous transcriptional programs. This heterogeneity results in individual cells adopting distinct, mutually exclusive secretion profiles, increasing functional diversity."
+
+  23. IL-12p40 deletion aggravates lipopolysaccharide-induced cardiac dysfunction in mice
+     Menglin Liu; Zhen Wang; Jishou Zhang; Di Ye; Menglong Wang; Yao Xu; Mengmeng Zhao; Yongqi Feng; Xiyi...
+     PMC9523082 · PMC · 2022-09-16 · 6 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9523082/
+     Matched: IL-12p40 deletion aggravates LPS-induced myocardial apoptosis · cat /papers/PMC9523082/content.lines --lines 66-67
+     "This study investigated the role of IL-12p40 in LPS-induced cardiac dysfunction. IL-12p40 deletion worsened cardiac dysfunction by increasing inflammation and activating specific signaling pathways, suggesting a protective role for IL-12p40."
+
+  24. HLJ1 amplifies endotoxin–induced sepsis severity by promoting IL-12 heterodimerization in macrophages
+     Wei-Jia Luo, Sung-Liang Yu, Chia-Ching Chang, Min-Hui Chien, Keng-Mao Liao, Ya-Ling Chang, Ya-Hui Ch...
+     bio_d255d3a76d7a · bioRxiv · 2022-01-05 · 22 citations (all versions)
+     Published (2022): https://doi.org/10.7554/elife.76094
+     Preprint: https://doi.org/10.1101/2022.01.05.475083
+     Matched: HLJ1 helps IL-12p35 folding and heterodimeric IL-12p70 production · cat /papers/bio_d255d3a76d7a/content.lines --lines 44-45
+     "HLJ1's role in sepsis severity was investigated using single-cell RNA sequencing and genetic deletion models. HLJ1 promotes IL-12 heterodimerization in macrophages, amplifying sepsis severity and lethality."
+
+  25. Suppression of LPS-induced inflammatory responses in macrophages infected with Leishmania
+     Nicholas J Lapara; Ben L Kelly
+     PMC2824668 · Journal of Inflammation (London, England) · 2010-02-02 · 50 citations
+     https://doi.org/10.1186/1476-9255-7-8
+     Matched: Discussion · cat /papers/PMC2824668/content.lines --lines 54-57
+     "This study investigated how Leishmania infection affects macrophage inflammatory responses to LPS. Leishmania suppresses certain LPS-induced pro-inflammatory cytokines while augmenting others in a parasite-specific manner."
+
+[2.1s, saved to s_3142adf7]
+
+💡 Extract data across these results with: map --from s_3142adf7 "your question"
+[2.1s, saved to s_3142adf7]  [repo: mva-lof-molecular]
+

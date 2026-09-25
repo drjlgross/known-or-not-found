@@ -1,0 +1,174 @@
+Map results  [m_07e46794]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Il1a (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+
+--- [1] [success] IL-1α and IL-1β-producing macrophages populate lung tumor lesions in mice ---
+doc_id: PMC5295423
+{
+  "answer": "yes",
+  "evidence": "We observed that the stimulation of cells with the sole LPS induced a significant IL-1α release (Figure 4A).",
+  "context": "Then, cells were treated for 5 hours with LPS (0.1 μg/ml), ATP (0.5 mM, for 30 minutes; Sigma Aldrich, Rome, Italy), Glybenclamide (1 μM, Sigma Aldrich, Rome, Italy), Ac-YVAD-cmk (0.1 μg/ml, Sigma Aldrich, Rome, Italy), monoclonal anti-IFNAR antibody (eBioscience, CA, USA)."
+}
+
+--- [2] [success] Inflammatory responses following CRISPR modification of the nuclear localisation sequence in endogenous interleukin-1α ---
+doc_id: bio_5bcf0fbf7dda
+{
+  "answer": "yes",
+  "evidence": "LPS treatment significantly increases Pro-IL-1\u0313\u03B1 levels in WT and Het compared to control (ns vs *).",
+  "context": "Supplementary Figure 4 displays 12 panels (A-L) showing densitometry of western blots related to IL-1\u0313\u03B1 and IL-1\u0313\u03B2 processing and release in response to non-canonical inflammasome activation or ZVAD-induced necroptosis."
+}
+
+--- [3] [success] Developmentally Regulated Innate Immune NFκB Signaling Mediates IL-1α Expression in the Perinatal Murine Lung ---
+doc_id: PMC6637303
+{"answer": "yes", "evidence": "In contrast, there was robust IL-1α expression in saccular lung (e19, Figure 1A; p0, Figure 1B).", "context": "For this study, we compared LPS-induced pulmonary IL-1α expression during the pseudoglandular/canalicular (e15), saccular (e19 and P0), early alveolar (P7), late alveolar (P28), and adult stages of lung development."}
+
+--- [4] [success] CRISPR/Cas9 mediated mutation of mouse IL-1α nuclear localisation sequence abolishes expression ---
+doc_id: PMC5719027
+{"answer": "yes", "evidence": "Production of IL-1α mRNA was upregulated in BMDMs isolated from IL-1α+/+ mice following 5 h LPS stimulation (Fig. 4J).", "context": "BMDMs were treated with vehicle or LPS (1 μg ml−1, 5 h) lysed in TRIzol Reagent (ThermoFisher) and RNA isolated according to the manufacturer’s instructions."}
+
+--- [5] [success] Targeting senescence-associated secretory phenotype macrophage: apigenin inhibits DOT1L-dependent H3K79me2 at IL1A to fight SASP in senescent macrophages ---
+doc_id: PMC13421434
+{
+  "answer": "yes",
+  "evidence": "Exposure to LPS-induced IL1A expression in macrophages (Figure 3A, P < 0.001), which was neutralized by API (10 and 20 µM) treatment (Figure 3A, P < 0.01).",
+  "context": "THP-1 macrophages were treated with 10 and 20 µM API for 12 h and stimulated with 1 μg/mL LPS for 24 h (A)."
+}
+
+--- [6] [success] Transition from interleukin 1 beta (IL-1 beta) to IL-1 alpha production during maturation of inflammatory macrophages in vivo ---
+doc_id: PMC2119227
+{
+  "answer": "yes",
+  "evidence": "In comparison, synthesis of IL-1 alpha was temporarily delayed by at least 24 h and was only found in mature macrophages, which did not produce detectable levels of IL-1 beta.",
+  "context": "In situ production of interleukin 1 alpha (IL-1 alpha) and IL-1 beta was investigated in Peyer's patches (PP) of mice undergoing an acute bacterial infection with Yersinia enterocolitica O8."
+}
+
+--- [7] [success] The common IL1A single nucleotide polymorphism rs17561 is a hypomorphic mutation that significantly reduces interleukin‐1α release from human blood cells ---
+doc_id: PMC11495263
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [8] [success] CCR5 signaling promotes lipopolysaccharide-induced macrophage recruitment and alveolar developmental arrest ---
+doc_id: PMC7883330
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [9] [success] D-mannose suppresses macrophage IL-1β production ---
+doc_id: PMC7733482
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [10] [success] Host-derived Interleukin 1α induces an immunosuppressive tumor microenvironment via regulating monocyte-to-macrophage differentiation ---
+doc_id: bio_16d3b4c677d7
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [11] [success] Motif prediction to distinguish LPS-stimulated pro-inflammatory vs. antibacterial macrophage genes ---
+doc_id: PMC2949756
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [12] [success] Host-derived interleukin-1α drives tumor immunosuppression by reprogramming tumor-associated myeloid cells ---
+doc_id: PMC12910057
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [13] [success] The Bisdioxopiperazine ICRF-193 Attenuates LPS-induced IL-1β Secretion by Macrophages ---
+doc_id: PMC10798930
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [14] [success] Potent anti-inflammatory responses: Role of hydrogen in IL-1α dominated early phase systemic inflammation ---
+doc_id: PMC10063881
+{
+  "answer": "yes",
+  "evidence": "Among the 23 inflammatory factors screened, LPS-induced upregulation of IL-1α etc. was significantly inhibited by hydrogen within 1 hour.",
+  "context": "The levels of HIF-1α and IL-1α in the cytoplasm of RAW264.7 cells increased rapidly 0.5 h after LPS treatment, whereas this process was significantly reduced after hydrogen administration (Figure 4)."
+}
+
+--- [15] [success] miR-181a Regulates Inflammation Responses in Monocytes and Macrophages ---
+doc_id: PMC3596280
+{
+  "answer": "yes",
+  "evidence": "Raw264.7 and THP-1 cells treated with 2 µg/ml of LPS showed significant increase in IL1a expression within 24 h (Figures 2A and 2B).",
+  "context": "Inflammation was induced at a final concentration of 2 µg/ml LPS (Lot. No. L4391, Sigma-Aldrich, USA) after 12 h of attachment."
+}
+
+--- [16] [success] IL-17A induces heterogeneous macrophages, and it does not alter the effects of lipopolysaccharides on macrophage activation in the skin of mice ---
+doc_id: PMC5622065
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [17] [success] Determining distinct roles of IL-1α through generation of an IL-1α knockout mouse with no defect in IL-1β expression ---
+doc_id: PMC9729281
+{"answer": "yes", "evidence": "Treatment of BMDMs with lipopolysaccharide (LPS, a toll-like receptor 4 (TLR4) agonist from Gram-negative bacteria) induced robust and time-dependent expression of IL-1α protein in WT cells but not in Il1a-KOline2 cells", "context": ""}
+
+--- [18] [success] GATA-2 Transduces LPS-Induced il-1β Gene Expression in Macrophages via a Toll-Like Receptor 4/MD88/MAPK-Dependent Mechanism ---
+doc_id: PMC3735524
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [19] [success] Production of Mice Deficient in Genes for Interleukin (IL)-1α, IL-1β, IL-1α/β, and IL-1 Receptor Antagonist Shows that IL-1β Is Crucial in Turpentine-induced Fever Development and Glucocorticoid Secretion ---
+doc_id: PMC2212263
+{
+  "answer": "yes",
+  "evidence": "Macrophgnas from IL-1\u0392 KO mice also expressed a lower level of IL-1\u0391 mRNA (Fig. 4 B).",
+  "context": "Thioglycollate-induced peritoneal macrophages were prepared from wild-type (open triangles) and homozygous IL-1\u0391 (filled circles) and IL-1\u0392 (filled squares) KO mice. Macrophages were treated with 10 \u0394g/ml LPS for 0, 3, 6, and 12 h, and the total RNA was isolated."
+}
+
+--- [20] [success] Genome-wide siRNA screen of genes regulating the LPS-induced NF-κB and TNF-α responses in mouse macrophages ---
+doc_id: PMC5332015
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [21] [success] Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC6543837
+{
+  "answer": "yes",
+  "evidence": "It also includes many cytokines well-known in classically activated macrophages: IL-1\u0351\u03B1, IL1\u03B2, IL-6, and TNF (Il1a, Il1b, Il6, and Tnf).",
+  "context": "The in vitro classically activated (LPS+IFN-\u03B3) M\u03C6 signature present after activating BMDMs with LPS and IFN-\u03B3 includes many genes involved in chemotaxis and cell migration (Figure 1A, Supplementary Table 5)."
+}
+
+--- [22] [success] Inflammatory responses following CRISPR modification of the nuclear localisation sequence in endogenous interleukin-1 alpha ---
+doc_id: PMC13133774
+{
+  "answer": "yes",
+  "evidence": "L19: (B-I) WT or mNLS primary BMDMs were primed with vehicle (PBS) or LPS (1 \u00B5g/ml, 4 h). qPCR analysis of Il1\u03B1 (B) and Il1\u03B2 (C) mRNA expression from cell lysates (n=6), showing similar expression levels between WT and mNLS BMDMs in response to LPS.",
+  "context": "L20: Bone marrow-derived macrophages (BMDMs) were isolated and cultured from WT and mNLS mice, treated with or without lipopolysaccharide (LPS) and subsequently analysed by qPCR. We confirmed that both IL-1\u03B1 and IL-1\u03B2 were expressed, and that expression levels were similar between WT and mNLS BMDMs (Fig. 1B,C)."
+}
+
+--- [23] [success] Paracrine IL-33 Stimulation Enhances Lipopolysaccharide-Mediated Macrophage Activation ---
+doc_id: PMC3073971
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [24] [success] Analysis of the transcriptional networks underpinning the activation of murine macrophages by inflammatory mediators ---
+doc_id: PMC4378362
+{
+  "answer": "yes",
+  "evidence": "These \u2012LPS-centric\u2012 clusters included chemokines (Ccl9, Ccl17, Ccl22, Ccl24, Cxcl1, Cxcl16, Cxcl3, Cxcl2, Cxcl1, Tnf); ILs (Il12a, Il12b, Il17rd, Il18, Il1a, Il12, Il6); IL receptor subunits (Il17rd, Il20rb, Il2ra); MAPK signaling components (Map3k10, Mapkapk2, Mapkbp1); members of the NF-\u0397B transcription factor family: Bcl3, Rel, Rela, Relb; type I IFN signaling (Ifnb1, Ifnar1); Csf-1; and eight transcripts encoding zinc finger proteins.",
+  "context": "Macrophage-derived bone-marrow derived macrophages from BALB/c mice were stimulated with 10 U/ml IFN-\u0392, 10 U/ml IFN-\u0393, or 5 ng/ml LPS, and gene expression changes were analyzed across time-courses using whole genome microarrays."
+}
+
+--- [25] [success] Induction of interleukin 1 alpha mRNA during the antigen-dependent interaction of sensitized T lymphoblasts with macrophages ---
+doc_id: PMC2188962
+{"answer": "yes", "evidence": "As a control, LPS was added and a strong signal for IL-1 mRNA was evident (Fig. 1, right lanes).", "context": "The macrophages were cultured with different populations of T lymphocytes, mitogens (Con A, 1 gg/ml, Sigma Chemical Co., St. Louis, MO; 2C11 anti-CD3 mAb [5], a kind gift of Dr. J. Bluestone), and/or 1 ltg/ml LPS (Salmonella typhimurium, Difco Laboratories Inc., Detroit, MI)."}

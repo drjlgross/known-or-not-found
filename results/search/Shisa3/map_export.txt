@@ -1,0 +1,4 @@
+$ src/pc.sh results m_69b22ed5 --save /Users/julia/known-or-not-found/results/search/Shisa3/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/Shisa3/map_answers.txt
+

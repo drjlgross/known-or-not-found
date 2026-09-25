@@ -1,0 +1,4 @@
+$ src/pc.sh results m_921b6b63 --save /Users/julia/known-or-not-found/results/search/Inhba/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/Inhba/map_answers.txt
+

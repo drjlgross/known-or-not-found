@@ -1,0 +1,190 @@
+Map results  [m_a2490013]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Rsad2 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+
+--- [1] [success] Downregulated RSAD2 Attenuates the Apoptosis of LPS-Stimulated RAW264.7 via NF-κB Signaling Pathway ---
+doc_id: PMC12357613
+{"answer": "yes", "evidence": "Western blot showed that the protein expression level of RSAD2 was significantly upregulated in the LPS-induced RAW264.7 cells (Figure 1E and F).", "context": "To validate the bioinformatics analysis results, RAW264.7 cells were stimulated with LPS, and the genes with the most significant logFC differences identified in the sequencing data were selected for qPCR validation."}
+
+--- [2] [success] Epigenetic profile in lipopolysaccharide-stimulated macrophages ---
+doc_id: PMC3953056
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [3] [success] Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC6543837
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [4] [success] RSAD2: A pathogenic interferon-stimulated gene at the maternal-fetal interface of patients with systemic lupus erythematosus ---
+doc_id: PMC11970327
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [5] [success] Lipopolysaccharide-induced innate immune responses are exacerbated by Prohibitin 1 deficiency and mitigated by S-adenosylmethionine in murine macrophages ---
+doc_id: PMC7657527
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [6] [success] LncRNA NRIR inhibits osteogenesis by promoting macrophage M1 polarization through RSAD2/NF-κB axis in peri-implantitis ---
+doc_id: PMC12580130
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [7] [success] Full Spectrum of LPS Activation in Alveolar Macrophages of Healthy Volunteers by Whole Transcriptomic Profiling ---
+doc_id: PMC4951018
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [8] [success] Lipopolysaccharide from biofilm-forming Pseudomonas aeruginosa PAO1 induces macrophage hyperinflammatory responses ---
+doc_id: PMC8289208
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [9] [success] Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC7053374
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [10] [success] Histone deacetylase 2 is essential for LPS‐induced inflammatory responses in macrophages ---
+doc_id: PMC7379312
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [11] [success] Lipopolysaccharide-Activated Macrophages Suppress Cellular Senescence and Promote Rejuvenation in Human Dermal Fibroblasts ---
+doc_id: PMC12346749
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [12] [success] RSAD2 is abundant in atherosclerotic plaques and promotes interferon-induced CXCR3-chemokines in human smooth muscle cells ---
+doc_id: PMC11001978
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [13] [success] Species-Specificity of Transcriptional Regulation and the Response to Lipopolysaccharide in Mammalian Macrophages ---
+doc_id: PMC7386301
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [14] [success] Rsad2 is necessary for mouse dendritic cell maturation via the IRF7-mediated signaling pathway ---
+doc_id: PMC6070531
+{
+  "answer": "yes",
+  "evidence": "L21: The results showed that Rsad2 was expressed by mDCs (Fig. 1a, b, respectively). In addition, western blotting showed that mDCs expressed more Rsad2 protein than imDCs (Fig. 1c).",
+  "context": "L21: These cells were treated with LPS to generate mDCs and mRNA was extracted for reverse transcriptase (RT)-PCR and real-time PCR."
+}
+
+--- [15] [success] Intracellular NAD+ levels are associated with LPS-induced TNF-α release in pro-inflammatory macrophages ---
+doc_id: PMC4770305
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [16] [success] Selection of reliable reference genes for the normalisation of gene expression levels following time course LPS stimulation of murine bone marrow derived macrophages ---
+doc_id: PMC5627409
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [17] [success] Oral and transdermal administration of lipopolysaccharide safely enhances self-healing ability through the macrophage network ---
+doc_id: PMC11994614
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [18] [success] Expression Profiling of LPS Responsive miRNA in Primary Human Macrophages ---
+doc_id: PMC4905593
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [19] [success] A potential role for macrophages in maintaining lipopolysaccharide-induced subacute airway inflammation in rats ---
+doc_id: PMC3494132
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [20] [success] P23 Acts as Functional RBP in the Macrophage Inflammation Response ---
+doc_id: PMC8226254
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [21] [success] Monocyte normal immune response to LPS stimulation ---
+doc_id: PMC3333514
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [22] [success] Histone acetyltransferase and DNA methyltransferase expression in response to LPS stimulation ---
+doc_id: PMC3952185
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [23] [success] A new metabolomic assay to examine inflammation and redox pathways following LPS challenge ---
+doc_id: PMC3507808
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [24] [success] Mathematical modelling of activation-induced heterogeneity reveals cell state transitions underpinning macrophage responses to LPS ---
+doc_id: bio_206e5a356c66
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [25] [success] Role and mechanism of miR-144-5p in LPS-induced macrophages ---
+doc_id: PMC6909656
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}

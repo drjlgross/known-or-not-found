@@ -1,0 +1,186 @@
+Map results  [m_636c33a4]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Cd69 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+
+--- [1] [success] The pro‐inflammatory signature of lipopolysaccharide in spontaneous contracting embryoid bodies differentiated from mouse embryonic stem cells ---
+doc_id: PMC10339090
+{
+  "answer": "yes",
+  "evidence": "L42: Our data demonstrated that LPS treatment from Day 9 to Day 15 of embryoid body cell culture dose-dependent increased protein expression of CD68 (Figure 3A) and CD69 (Figure 3C).",
+  "context": "L43: FIGURE 3: Expression of CD68 and CD69 in embryoid bodies treated with LPS."
+}
+
+--- [2] [success] T Cell Stimulation In Vivo by Lipopolysaccharide (LPS) ---
+doc_id: PMC2196347
+{
+  "answer": "yes",
+  "evidence": "First, high doses of LPS caused upregulation of CD69 not only on CD8+ cells and B cells (as expected from the BrdU labeling studies) but also on CD4+ cells.",
+  "context": "In both experiments, PBS or LPS was injected intravenously into B6 mice, and LN and spleen cells were analyzed 1 d later."
+}
+
+--- [3] [success] Transcriptome Analysis Provides Insights into the Markers of Resting and LPS-Activated Macrophages in Grass Carp (Ctenopharyngodon idella) ---
+doc_id: PMC6274997
+{
+  "answer": "yes",
+  "evidence": "When macrophages were activated by the treatment with LPS, the mRNA expression level of CD69 was increased.",
+  "context": "To obtain activated phenotype (M(LPS)), the remaining macrophages were stimulated with 5 μg/mL LPS at the same time under the same conditions."
+}
+
+--- [4] [success] Attenuation of lung inflammation and fibrosis in CD69-deficient mice after intratracheal bleomycin ---
+doc_id: PMC3198935
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [5] [success] Corydalis decumbens Alleviates the Migration, Phagocytosis, and Inflammatory Response of Macrophages ---
+doc_id: PMC9977534
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [6] [success] Triggering of human monocyte activation through CD69, a member of the natural killer cell gene complex family of signal transducing receptors ---
+doc_id: PMC2191715
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [7] [success] Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyromonas endodontalis, Induces Macrophage M1 Profile ---
+doc_id: PMC9456100
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [8] [success] Analysis of the transcriptional networks underpinning the activation of murine macrophages by inflammatory mediators ---
+doc_id: PMC4378362
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [9] [success] Comparative Study of The Effect of LPS on The Function of BALB/c and C57BL/6 Peritoneal Macrophages ---
+doc_id: PMC3660024
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [10] [success] CD169+ macrophage intrinsic IL-10 production regulates immune homeostasis during sepsis ---
+doc_id: PMC10123955
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [11] [success] Ginger extract inhibits LPS induced macrophage activation and function ---
+doc_id: PMC2234390
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [12] [success] Establishment and characterization of an immortalized red river hog blood-derived macrophage cell line ---
+doc_id: PMC11422137
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [13] [success] Lipopolysaccharide uptake is augmented in lipopolysaccharide‐tolerant mouse macrophage‐like cells via increased CD14 expression ---
+doc_id: PMC13398632
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [14] [success] CD69 Does Not Affect the Extent of T Cell Priming ---
+doc_id: PMC3484127
+{
+  "answer": "yes",
+  "evidence": "CD69 was upregulated on GM-CSF BMDC when we treated them with Lipopolysaccharide (LPS) (Fig. 2A) and on Flt3l BMDC when we treated them with CpG (Fig. 2D), in both cases in a dose dependent manner (Fig. 2B, E).",
+  "context": "CD69+/+ or CD69−/− GM-CSF BMDC were treated with LPS at different conditions of time and dose."
+}
+
+--- [15] [success] Epigenetic profile in lipopolysaccharide-stimulated macrophages ---
+doc_id: PMC3953056
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [16] [success] ICA69 aggravates ferroptosis causing septic cardiac dysfunction via STING trafficking ---
+doc_id: PMC8994779
+{
+  "answer": "yes",
+  "evidence": "L17: Twelve hours after LPS challenge, the protein expression level and the level of ICA69 mRNA in the LPS group increased notably in comparison with that in the sham group (Fig. 1A, B).",
+  "context": "L18: Fig. 1: LPS increased ICA69 in vivo while in vitro. A The protein levels of ICA69 in mouse hearts stimulated by LPS (10 mg/kg) or PBS for 12 h."
+}
+
+--- [17] [success] Induction of unique macrophage subset by simultaneous stimulation with LPS and IL-4 ---
+doc_id: PMC10167635
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [18] [success] Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC7053374
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [19] [success] Transcriptional profiling of the LPS induced NF-κB response in macrophages ---
+doc_id: PMC1781469
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [20] [success] Expression of Tmem119/Sall1 and Ccr2/CD69 in FACS-Sorted Microglia- and Monocyte/Macrophage-Enriched Cell Populations After Intracerebral Hemorrhage ---
+doc_id: PMC6333739
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [21] [success] LPS combined with CD47mAb enhances the anti‑osteosarcoma ability of macrophages ---
+doc_id: PMC10091190
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [22] [success] Monocyte normal immune response to LPS stimulation ---
+doc_id: PMC3333514
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [23] [success] CD97/ADGRE5 Inhibits LPS Induced NF-κB Activation through PPAR-γ Upregulation in Macrophages ---
+doc_id: PMC4779537
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [24] [success] 89Zr anti-CD44 immuno-PET monitors CD44 expression on splenic myeloid cells and HT29 colon cancer cells ---
+doc_id: PMC7887231
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [25] [success] Selection of reliable reference genes for the normalisation of gene expression levels following time course LPS stimulation of murine bone marrow derived macrophages ---
+doc_id: PMC5627409
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}

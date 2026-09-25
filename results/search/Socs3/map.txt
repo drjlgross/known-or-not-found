@@ -1,0 +1,188 @@
+$ src/pc.sh map --from s_44f2cd59 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Socs3 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 24/25 papers
+Results ID: m_1cb1f497
+
+  ✓ Regulation of Macrophage, Dendritic Cell, and Microglial Phenotype and
+    PMC4621458 · 1194ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ SOCS Proteins in Macrophage Polarization and Function
+    PMC4112788 · 1574ms
+    {
+      "answer": "yes",
+      "evidence": "They show low expression in resting macrophages, but are rapidly induced on activation.",
+      "context": "SOCS are induced by a variety of stimuli that cause M1 and M2 activation, including cytokines, toll-like receptor (TLR) ligands, angiotensin II, immune complexes, and high glucose (9)."
+    }
+
+  ✓ SOCS3
+    PMC3876435 · 1387ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Suppressor of Cytokine Signaling 3 Derived Peptide as a Therapeutic fo
+    bio_a7f4b83d · 996ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ SOCS3 Expression Correlates with Severity of Inflammation, Expression 
+    PMC3775441 · 1140ms
+    {
+      "answer": "yes",
+      "evidence": "LPS injections increased inflammation, paralleled by an upregulation of SOCS3, of the proinflammatory cytokines IL-1beta, IL-6, and TNF-alpha and increased phosphorylation of STAT3 and p38 MAPK.",
+      "context": "L30 ug of LPS from Escherichia coli were injected in the gingival tissues on the palatal aspect of first molars of the animals 3x/week for up to 4 weeks."
+    }
+
+  ✓ The Regulatory Roles of Ezh2 in Response to Lipopolysaccharide (LPS) i
+    PMC10049283 · 1573ms
+    {
+      "answer": "yes",
+      "evidence": "In control macrophages (Ezh2 control), both N/LPS and LPS/LPS similarly upregulated Ezh2 and Socs3 when compared with the stimulation with media control (N/N) (Figure 4B,C).",
+      "context": "Characteristics of bone-marrow-derived macrophages (BMDM) from Ezh2 control (Ezhfl/fl; LysM-Cre−/−) or Ezh2 null (Ezhfl/fl; LysM-Cre cre/−) mice 24 h after stimulation by lipopolysaccharide (LPS) tolerance (twice LPS stimulation; LPS/LPS) or a single LPS stimulation (N/LPS; started with phosphate buffer solution (PBS) followed by LPS) as indicated by the expression of several genes, including Ezh1, Ezh2, and Socs3 (A–C) and the energy status of cells (extracellular flux analysis) (D,E)."
+    }
+
+  ✓ Anti-inflammatory mechanisms of suppressors of cytokine signaling targ
+    PMC7781909 · 1048ms
+    {
+      "answer": "yes",
+      "evidence": "While SOCS3 is induced by LPS stimulation within 1 h in mock THP1 cells, the SOCS3-tranduced cells show increased basal SOCS3 levels, which were maintained during LPS treatment.",
+      "context": "THP1 cells transduced with Flag or Flag-SOCS3 were analyzed for LPS-induced intracellular ROS (A), NRF-2, thioredoxin and SOCS3 levels by Western blot (B), and inflammatory cytokine production by ELISA (C)."
+    }
+
+  ✓ SOCS3, a Major Regulator of Infection and Inflammation
+    PMC3928676 · 1047ms
+    {"answer": "yes", "evidence": "Infection with mycobacteria enhanced the expression of SOCS3 in phagocytes.", "context": "Infection with mycobacteria enhanced the expression of SOCS3 in phagocytes."}
+
+  ✓ Lack of SOCS3 increases LPS-induced murine acute lung injury through m
+    PMC5747159 · 1750ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ SOCS3 Protein Mediates the Therapeutic Efficacy of Mesenchymal Stem Ce
+    PMC10179427 · 1065ms
+    {
+      "answer": "yes",
+      "evidence": "Western blotting analysis confirmed that SOCS1, SOCS2, and SOCS3 expressions were significantly increased in MSCs after LPS induction compared to that in non-treated control MSCs (L24).",
+      "context": "In the LPS-treated MSCs, 338 genes showed a significant upregulation compared to the non-treated control MSCs (L21)."
+    }
+
+  ✓ Paeoniflorin inhibits the macrophage-related rosacea-like inflammatory
+    PMC7837818 · 1160ms
+    {"answer": "yes", "evidence": "The expression of ASK1, TLR2, and p38 in RAW 264.7 cells of the LPS group increased, the expression of SOCS3 decreased, and pretreatment with PF alleviated LPS-induced changes in inflammatory factors.", "context": "Western Blot analysis was performed to detect intracellular proteins in the control group, LPS group, and PF+LPS group, and the results were similar to the mRNA results."}
+
+  ✓ Resveratrol decreases CD45+CD206− subtype macrophages in LPS‐induced m
+    PMC6850919 · 1079ms
+    {
+      "answer": "yes",
+      "evidence": "In addition, we observed a trend of increased Sirt1 expression (Figure 6E) and significantly increased SOCS3 expression (Figure 6F) in the LPS‐induced WT mice, but not in LPS‐induced cKO mice.",
+      "context": "Wild‐type (WT) and SOCS3 conditional knock‐out (cKO) mice were i.t. treated with 5 mg/kg LPS on day 0."
+    }
+
+  ✓ Pre-Treatment of Recombinant Mouse MFG-E8 Downregulates LPS-Induced TN
+    PMC3217009 · 1391ms
+    {"answer": "yes", "evidence": "During LPS treatment, RAW264.7 cells dramatically induced the SOCS3 expression at its transcriptional and translational levels, while the effects of LPS for SOCS3 become significantly decreased if the cells were pre-treated with rmMFG-E8 (Fig. 4E, 4F).", "context": "(E, F) RAW264.7 cells (4\u00D7106 cells) were cultured in a 6-well cell culture plate in presence of rmMFG-E8 (500 ng/mL) for 2 h, followed by LPS (10 ng/mL) stimulation for 2 and 4 h, respectively, for SOCS3 mRNA expression by real-time PCR and protein levels by Western-blotting."}
+
+  ✓ Suppressor of Cytokine Signaling 3 in Macrophages Prevents Exacerbated
+    PMC5686055 · 1373ms
+    {
+      "answer": "yes",
+      "evidence": "L19: Mtb-infected macrophages express Socs3 in a MyD88-dependent manner (15) and during experimental tuberculosis (TB), Socs3 is induced in lungs of infected mice (13).",
+      "context": "L61: Before infection of experimental animals, stock solutions of Mtb were diluted in sterile distilled water to a defined concentration and pulmonary infection was performed using an inhalation exposure system (Glas-Col, Terre-Haute, IN, USA)."
+    }
+
+  ✓ Interleukin-6 deficiency modulates testicular function by increasing t
+    PMC8169872 · 815ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Macrophage Deletion of SOCS1 Increases Sensitivity to LPS and Palmitic
+    PMC3142066 · 1031ms
+    {"answer":"no","evidence":"","context":""}
+
+  ✓ SOCS2 Influences LPS Induced Human Monocyte-Derived Dendritic Cell Mat
+    PMC2744869 · 1120ms
+    {
+      "answer": "yes",
+      "evidence": "As shown in Fig. 1A, SOCS2, SOCS3 and SOCS6 changed significantly after LPS treatment, whereas the other SOCS family members CIS, SOCS1, 4 and 5 did not change in expression levels.",
+      "context": "Human monocyte-derived immature DCs (iDCs) were obtained by culturing with GM-CSF and IL-4. Subsequently the cells were treated with LPS at day 6 of differentiation and harvested for mRNA measurement after 24 h."
+    }
+
+  ✗ A critical role for suppressor of cytokine signalling 3 in promoting M
+    PMC3893853 · 1476ms
+    error: truncated_output: Unterminated string starting at: line 4 column 14 (char 454)
+
+  ✓ Negative regulation of cytokine signaling and immune responses by SOCS
+    PMC1174965 · 1257ms
+    {"answer": "yes", "evidence": "L122: LPS and TNFalpha induce SOCS3 mRNA and inhibit IL-6-induced activation of STAT3 in macrophages. LPS and TNFalpha induce SOCS3 mRNA and inhibit IL-6-induced activation of STAT3 in macrophages FEBS Lett 1999 463 365 370 10606755 10.1016/S0014-5793(99)01662-2", "context": ""}
+
+  ✓ Role of Macrophage Socs3 in the Pathogenesis of Aortic Dissection
+    PMC5850160 · 920ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Reducing Suppressors of Cytokine Signaling-3 (SOCS3) Expression Promot
+    PMC7688919 · 922ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Rapid Inflammation in Mice Lacking Both SOCS1 and SOCS3 in Hematopoiet
+    PMC5008821 · 910ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Macrophage/microglial Ezh2 facilitates autoimmune inflammation through
+    PMC5940261 · 1223ms
+    {"answer": "yes", "evidence": "Indeed, we detected both mRNA and protein levels of Socs3 were significantly increased in Ezh2-deficient macrophages and BV2 microglial cells compared with those of WT cells (Fig. 6, G and H).", "context": "(G and H) qRT-PCR and IB analysis of Socs3 mRNA and protein levels in WT and Ezh2-deficient macrophages (G, upper panel of H) and Ezh2-KO BV2 cells that infected with EV or lentiviral vector encoding WT Ezh2 (lower panel of H), left nontreated (NT) or stimulated with LPS for 6 h (qPCR) or 12 h (IB)."}
+
+  ✓ SOCS Proteins as Regulators of Inflammatory Responses Induced by Bacte
+    PMC5733031 · 1342ms
+    {"answer": "yes", "evidence": "Both live and heat-killed bacteria induced SOCS3; however, live bacteria induction of SOCS3 required de novo protein synthesis (Okada et al., 2009).", "context": "A study by Stoiber et al. (Okada et al., 2009) revealed that prolonged infection of macrophages with L. monocytogenes inhibited the phosphorylation of STAT1 and IFN-\u0393 signaling with an enhancement of SOCS3 transcript and protein via the p38 MAPK pathway."}
+
+  ✓ Socs3b regulates the development and function of innate immune cells i
+    PMC10030509 · 1444ms
+    {
+      "answer": "yes",
+      "evidence": "In WT embryos LPS induction was able to significantly increase the mpx+ neutrophil population, but this increase was not observed in KO embryos ( Figures 4G–J, L ).",
+      "context": "Embryos were also subjected to microinjection with LPS at 5 dpf and imaged by fluorescence microscopy 8 hours later (G–J), showing representative images."
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[36.1s, saved to m_1cb1f497]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  1/25 papers  run m_1cb1f497  [2s]
+  [######..............]  8/25 papers  run m_1cb1f497  [4s]
+  [########............]  10/25 papers  run m_1cb1f497  [10s]
+  [################....]  21/25 papers  run m_1cb1f497  [12s]
+  [##################..]  23/25 papers  run m_1cb1f497 (1 failed)  [14s]
+  [####################]  25/25 papers  run m_1cb1f497 (1 failed)  [16s]
+  [####################]  25/25 papers  run m_1cb1f497 (1 failed)  [27s]
+  [####################]  25/25 papers  run m_1cb1f497 (1 failed)  [31s]
+  [####################]  25/25 papers  run m_1cb1f497 (1 failed)  [33s]
+  [####################]  25/25 papers  run m_1cb1f497 (1 failed)  [35s]
+
+$ src/pc.sh map --resume m_1cb1f497 --retry-failed
+# exit 1
+[error] Something went wrong. Please try again.
+

@@ -1,0 +1,186 @@
+Map results  [m_11729ea9]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Itgb8 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+
+--- [1] [success] Specifically blocking αvβ8-mediated TGF-β signaling to reverse immunosuppression by modulating macrophage polarization ---
+doc_id: PMC11697059
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [2] [success] Human monocytes and macrophages regulate immune tolerance via integrin αvβ8–mediated TGFβ activation ---
+doc_id: PMC6219736
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [3] [success] Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC7053374
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [4] [success] Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC6543837
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [5] [success] Integrin β8 Facilitates Macrophage Infiltration and Polarization by Regulating CCL5 to Promote LUAD Progression ---
+doc_id: PMC11727125
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [6] [success] Analysis of the transcriptional networks underpinning the activation of murine macrophages by inflammatory mediators ---
+doc_id: PMC4378362
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [7] [success] Analysis of the human monocyte-derived macrophage transcriptome and response to lipopolysaccharide provides new insights into genetic aetiology of inflammatory bowel disease ---
+doc_id: PMC5358891
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [8] [success] Full Spectrum of LPS Activation in Alveolar Macrophages of Healthy Volunteers by Whole Transcriptomic Profiling ---
+doc_id: PMC4951018
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [9] [success] Inflammatory cues enhance TGFβ activation by distinct subsets of human intestinal dendritic cells via integrin αvβ8 ---
+doc_id: PMC5439516
+{
+  "answer": "yes",
+  "evidence": "We found that the TLR4 ligand lipopolysaccharide caused significant upregulation of integrin αvβ8 expression on moDC, which was not apparent with agonists for TLR1/2 (Pam3CSK4), TLR3 (Poly I:C), TLR5 (flagellin), or TLR7 (Imiquimod) (Figure 4b).",
+  "context": "Human moDCs were treated for 48 h with ligands for TLR1/2 (Pam3CSK), TLR3 (Poly I:C), TLR4 (LPS), TLR5 (Flagellin), TLR7 (Imiquimod), or TLR8 (ssRNA40), and integrin αvβ8 expression was analyzed by flow cytometry."
+}
+
+--- [10] [success] Epigenetic profile in lipopolysaccharide-stimulated macrophages ---
+doc_id: PMC3953056
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [11] [success] Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review ---
+doc_id: PMC13372918
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [12] [success] Monocyte normal immune response to LPS stimulation ---
+doc_id: PMC3333514
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [13] [success] Targeting the LPS-STING axis: neomycin restores STING-mediated anti-tumor immune suppression and inhibits tumor growth ---
+doc_id: PMC12605410
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [14] [success] Comparative Study of The Effect of LPS on The Function of BALB/c and C57BL/6 Peritoneal Macrophages ---
+doc_id: PMC3660024
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [15] [success] Selection of reliable reference genes for the normalisation of gene expression levels following time course LPS stimulation of murine bone marrow derived macrophages ---
+doc_id: PMC5627409
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [16] [success] Lipopolysaccharide-Activated Macrophages Suppress Cellular Senescence and Promote Rejuvenation in Human Dermal Fibroblasts ---
+doc_id: PMC12346749
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [17] [success] Natural variation of macrophage activation as disease-relevant phenotype predictive of inflammation and cancer survival ---
+doc_id: PMC5527282
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [18] [success] Pre-Treatment of Recombinant Mouse MFG-E8 Downregulates LPS-Induced TNF-α Production in Macrophages via STAT3-Mediated SOCS3 Activation ---
+doc_id: PMC3217009
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [19] [success] Surface‐bound matrix metalloproteinase‐8 on macrophages: Contributions to macrophage pericellular proteolysis and migration through tissue barriers ---
+doc_id: PMC7927794
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [20] [success] LPS activation of leukocytes attenuates adhesion to endothelial cells under shear stress ---
+doc_id: PMC3333518
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [21] [success] Oral and transdermal administration of lipopolysaccharide safely enhances self-healing ability through the macrophage network ---
+doc_id: PMC11994614
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [22] [success] LPS Counter Regulates RNA Expression of Extracellular Proteases and Their Inhibitors in Murine Macrophages ---
+doc_id: PMC3317238
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [23] [success] Targeting Gα13-integrin interaction ameliorates systemic inflammation ---
+doc_id: PMC8159967
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [24] [success] Quercetin inhibits LPS-induced macrophage migration by suppressing the iNOS/FAK/paxillin pathway and modulating the cytoskeleton ---
+doc_id: PMC6527387
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [25] [success] Overabundance of Veillonella parvula promotes intestinal inflammation by activating macrophages via LPS-TLR4 pathway ---
+doc_id: PMC9076897
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}

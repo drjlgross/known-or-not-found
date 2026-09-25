@@ -1,0 +1,197 @@
+$ src/pc.sh map --from s_037a1293 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Cxcl3 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_c5ee5294
+
+  ✓ USP7-mediated stabilization of CXCL3 aggravates inflammation in models
+    PMC12557704 · 1195ms
+    {
+      "answer": "yes",
+      "evidence": "Furthermore, LPS augmented CXCL3 mRNA and protein expression in HLMVECs in a dose-dependent manner (L94).",
+      "context": "L94: Figure 1: CXCL3 expression in patient plasma and LPS-stimulated endothelial cells."
+    }
+
+  ✓ Transcriptional profiling of the LPS induced NF-κB response in macroph
+    PMC1781469 · 1040ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ HCX3 Mitigates LPS-Induced Inflammatory Responses in Macrophages by Su
+    PMC12562522 · 821ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Periodontitis salivary microbiota exacerbates colitis by CXCL3 derived
+    PMC12715969 · 1348ms
+    {
+      "answer": "yes",
+      "evidence": "We stimulated different cells with the fecal microbiota of PSM-gavaged mice and found that PSM-GM stimulated Cxcl3 overexpression in Raw264.7, THP-1-derived macrophages, and bone marrow-derived macrophages (BMDM) (Figs. 4E and S7A–B), and had no significant effect on Cxcl3 expression in Caco-2(Figure S7C and D), suggesting that Cxcl3 was mainly expressed in macrophages due to PSM-GM.",
+      "context": "The fecal was collected from salivary microbiota-gavage mice before DSS treatment (n = 3, each test is independent; PBS-GM, the fecal was from PBS-gavage mice; HSM-GM, the fecal was collected from HSM-gavage mice; PSM-GM, the fecal was collected from PSM-gavage mice)."
+    }
+
+  ✓ Prevention of lipopolysaccharide-induced preterm labor by the lack of 
+    PMC6219809 · 933ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Transcriptome Analysis Provides Insights into the Markers of Resting a
+    PMC6274997 · 1153ms
+    {
+      "answer": "yes",
+      "evidence": "L32: After LPS induction, the XCL32a.2, CXCL8a, and CCL20a.3 were expressed in activated macrophages (L32).",
+      "context": "L47: To obtain activated phenotype (M(LPS)), the remaining macrophages were stimulated with 5 \u0393\u0050g/mL LPS at the same time under the same conditions."
+    }
+
+  ✓ Myometrial‐derived CXCL12 promotes lipopolysaccharide induced preterm 
+    PMC9077289 · 958ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ C-X-C Motif Chemokine 3 Promotes the Inflammatory Response of Microgli
+    PMC10341832 · 1173ms
+    {
+      "answer": "yes",
+      "evidence": "Furthermore, meningitic E. coli infection promoted CXCL3 protein expression (Figure 1B).",
+      "context": "(C,D) CXCL3 immunoblot results from whole cell extracts after infecting (C) hBMECs or (D) U251 cells after meningitic E. coli infection at an MOI of 10 for 1, 2, and 3 h."
+    }
+
+  ✓ Analysis of the transcriptional networks underpinning the activation o
+    PMC4378362 · 1008ms
+    {
+      "answer": "yes",
+      "evidence": "Other genes characteristic of classical macrophage activation were also within LPS centric clusters: Nos2, Ccl5, and Ccr7 [79].",
+      "context": "Other genes characteristic of classical macrophage activation were also within LPS centric clusters: Nos2, Ccl5, and Ccr7 [79]."
+    }
+
+  ✓ Effect of connexin 43 in LPS/IL-4-induced macrophage M1/M2 polarizatio
+    PMC11018209 · 836ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Anti-Inflammatory Effects of Cicadidae Periostracum Extract and Oleic 
+    PMC9225349 · 1318ms
+    {
+      "answer": "yes",
+      "evidence": "L38: The mRNA expression levels of chemokines CCL20, CXCL5, CXCL1, CCL2, CXCL10, CXCL11, CCL7, IL-6, CXCL3, CCL17 CXCL2, CCL8, CCRL2, TLR2, PPBP (CXCL7), CCL4, CCL5, and CCL9 were significantly increased in the LPS-stimulated group compared with the normal group.",
+      "context": "L37: 3.1.1. The Gene Expression Profiles of Chemokines and Their Receptors in LPS Stimulated Lung Epithelial Cells Using Mouse Chemokines and Receptors RT2 Profiler PCR Arrays"
+    }
+
+  ✓ Macrophages generated in 3D mechanical microenvironment contribute to 
+    PMC12139310 · 1366ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ CXCL10/IP-10 Neutralization Can Ameliorate Lipopolysaccharide-Induced 
+    PMC5207674 · 876ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ CX3CL1 promotes M1 macrophage polarization and osteoclast differentiat
+    PMC12255738 · 1004ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ CX3CL1 deficiency ameliorates acute kidney injury by inhibiting macrop
+    PMC12847948 · 766ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Induction of CX3CL1 expression by LPS and its impact on invasion and m
+    PMC11195639 · 2518ms
+    {
+      "answer": "yes",
+      "evidence": "PCR analysis showed that compared with the control group treated with the same volume of sterile PBS, the mRNA expression of CX3CL1 was significantly increased in both CAL27 and UM1 cells stimulated with 1 \u0393\u0020bc\u0393\u0020bcg/mL and 10 \u0393\u0020bc\u0393\u0020bcg/mL LPS (Figures 3A,C), while CX3CR1 expression remained largely unchanged (Figures 3B,D).",
+      "context": "The present study investigated the effect of LPS on the mRNA and protein expression of CX3CL1 and CX3CR1 genes in OSCC cell lines CAL27 and UM1."
+    }
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 1084ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(
+    PMC7053374 · 1242ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Monocyte normal immune response to LPS stimulation
+    PMC3333514 · 733ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Baicalin exerts protective effects against lipopolysaccharide-induced 
+    PMC4771101 · 843ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Epigenetic profile in lipopolysaccharide-stimulated macrophages
+    PMC3953056 · 710ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ CXCL13 Is Involved in the Lipopolysaccharide-Induced Hyperpermeability
+    PMC7476967 · 1031ms
+    {
+      "answer": "yes",
+      "evidence": "We also show that LPS exposure increases the release of CXCL13, as well as the mRNA and protein expression of CXCL13 and its receptor, CXC chemokine receptor 5 (CXCR5) in human umbilical vein endothelial cells (HUVECs) in a dose- and time-dependent manner.",
+      "context": "HUVECs were exposed to a series of LPS solutions (0, 50, 100, and 200 ng/ml; Solarbio, Beijing, China) for 24 h or treated with 100 ng/ml LPS for 0, 12, 24, and 48 h."
+    }
+
+  ✓ TLR4/MyD88 -mediated CCL2 production by lipopolysaccharide (endotoxin)
+    PMC6154519 · 776ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ LKB1‐MARK2 signalling mediates lipopolysaccharide‐induced production o
+    PMC7576310 · 873ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Differential mRNA and miRNA Profiles Reveal the Potential Roles of Gen
+    PMC8155903 · 872ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[21.3s, saved to m_c5ee5294]
+
+  [....................]  0/0 papers  [0s]
+  [##..................]  3/25 papers  run m_c5ee5294  [2s]
+  [########............]  11/25 papers  run m_c5ee5294  [4s]
+  [###########.........]  14/25 papers  run m_c5ee5294  [6s]
+  [##############......]  18/25 papers  run m_c5ee5294  [8s]
+  [##################..]  23/25 papers  run m_c5ee5294  [10s]
+  [####################]  25/25 papers  run m_c5ee5294  [12s]
+  [####################]  25/25 papers  run m_c5ee5294  [21s]
+

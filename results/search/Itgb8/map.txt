@@ -1,0 +1,202 @@
+$ src/pc.sh map --from s_21093ae7 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Itgb8 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_11729ea9
+
+  ✓ Specifically blocking αvβ8-mediated TGF-β signaling to reverse immunos
+    PMC11697059 · 830ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Human monocytes and macrophages regulate immune tolerance via integrin
+    PMC6219736 · 1300ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(
+    PMC7053374 · 721ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 938ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Integrin β8 Facilitates Macrophage Infiltration and Polarization by Re
+    PMC11727125 · 1073ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Analysis of the transcriptional networks underpinning the activation o
+    PMC4378362 · 876ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Analysis of the human monocyte-derived macrophage transcriptome and re
+    PMC5358891 · 1114ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Full Spectrum of LPS Activation in Alveolar Macrophages of Healthy Vol
+    PMC4951018 · 903ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Inflammatory cues enhance TGFβ activation by distinct subsets of human
+    PMC5439516 · 1874ms
+    {
+      "answer": "yes",
+      "evidence": "We found that the TLR4 ligand lipopolysaccharide caused significant upregulation of integrin αvβ8 expression on moDC, which was not apparent with agonists for TLR1/2 (Pam3CSK4), TLR3 (Poly I:C), TLR5 (flagellin), or TLR7 (Imiquimod) (Figure 4b).",
+      "context": "Human moDCs were treated for 48 h with ligands for TLR1/2 (Pam3CSK), TLR3 (Poly I:C), TLR4 (LPS), TLR5 (Flagellin), TLR7 (Imiquimod), or TLR8 (ssRNA40), and integrin αvβ8 expression was analyzed by flow cytometry."
+    }
+
+  ✓ Epigenetic profile in lipopolysaccharide-stimulated macrophages
+    PMC3953056 · 1706ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Lipopolysaccharide-mediated macrophage polarization, conserved pathoge
+    PMC13372918 · 1286ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Monocyte normal immune response to LPS stimulation
+    PMC3333514 · 1040ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Targeting the LPS-STING axis: neomycin restores STING-mediated anti-tu
+    PMC12605410 · 978ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Comparative Study of The Effect of LPS on The Function of BALB/c and C
+    PMC3660024 · 876ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Selection of reliable reference genes for the normalisation of gene ex
+    PMC5627409 · 986ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Lipopolysaccharide-Activated Macrophages Suppress Cellular Senescence 
+    PMC12346749 · 1108ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Natural variation of macrophage activation as disease-relevant phenoty
+    PMC5527282 · 751ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Pre-Treatment of Recombinant Mouse MFG-E8 Downregulates LPS-Induced TN
+    PMC3217009 · 937ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Surface‐bound matrix metalloproteinase‐8 on macrophages: Contributions
+    PMC7927794 · 918ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ LPS activation of leukocytes attenuates adhesion to endothelial cells 
+    PMC3333518 · 662ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Oral and transdermal administration of lipopolysaccharide safely enhan
+    PMC11994614 · 864ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ LPS Counter Regulates RNA Expression of Extracellular Proteases and Th
+    PMC3317238 · 823ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Targeting Gα13-integrin interaction ameliorates systemic inflammation
+    PMC8159967 · 802ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Quercetin inhibits LPS-induced macrophage migration by suppressing the
+    PMC6527387 · 632ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Overabundance of Veillonella parvula promotes intestinal inflammation 
+    PMC9076897 · 746ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[41.4s, saved to m_11729ea9]
+
+  [....................]  0/0 papers  [0s]
+  [###.................]  4/25 papers  run m_11729ea9  [2s]
+  [########............]  11/25 papers  run m_11729ea9  [4s]
+  [##########..........]  13/25 papers  run m_11729ea9  [6s]
+  [##########..........]  13/25 papers  run m_11729ea9  [16s]
+  [###################.]  24/25 papers  run m_11729ea9  [24s]
+  [####################]  25/25 papers  run m_11729ea9  [26s]
+  [####################]  25/25 papers  run m_11729ea9  [37s]
+  [####################]  25/25 papers  run m_11729ea9  [41s]
+

@@ -1,0 +1,178 @@
+Map results  [m_4a6e2291]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Tarm1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+
+--- [1] [success] Macrophage autophagy protects against acute kidney injury by inhibiting renal inflammation through the degradation of TARM1 ---
+doc_id: PMC11702950
+{
+  "answer": "yes",
+  "evidence": "Among these, TARM1, a newly identified member of the leukocyte immunoglobulin-like receptor family, was significantly upregulated in atg5−/− BMDMs compared to WT BMDMs after treatment with LPS and IFNG (Figure 5B, C).",
+  "context": "Among these, TARM1, a newly identified member of the leukocyte immunoglobulin-like receptor family, was significantly upregulated in atg5−/− BMDMs compared to WT BMDMs after treatment with LPS and IFNG (Figure 5B, C)."
+}
+
+--- [2] [success] Triggering Receptor Expressed on Myeloid Cells-1 (TREM-1) in Inflammation and Disease: Mechanisms, Therapeutic Potential, and Future Directions ---
+doc_id: PMC12608911
+{
+  "answer": "yes",
+  "evidence": "Studies on RAW264.7 macrophage-like cells have shown that Trem-1 gene transcription is regulated by NFκB-1 and the cyclic AMP response element (CRE), both of which contribute to LPS-induced upregulation of TREM-1 promoter activity.",
+  "context": "TREM-1 is constitutively expressed in macrophages and is upregulated in response to LPS exposure."
+}
+
+--- [3] [success] Expression analysis of G Protein-Coupled Receptors in mouse macrophages ---
+doc_id: PMC2394514
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [4] [success] Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC7053374
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [5] [success] Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC6543837
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [6] [success] Expression of Siglec-E Alters the Proteome of Lipopolysaccharide (LPS)-Activated Macrophages but Does Not Affect LPS-Driven Cytokine Production or Toll-Like Receptor 4 Endocytosis ---
+doc_id: PMC5775731
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [7] [success] Physical exercise mitigates chronic psychological stress‐induced vascular inflammation via the BDNF–Kif4–TARM1 axis ---
+doc_id: PMC13096691
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [8] [success] Commentary: Triggering Receptor Expressed on Myeloid Cells-1 Inhibitor Targeted to Endothelium Decreases Cell Activation ---
+doc_id: PMC7026307
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [9] [success] Gut microbiota and tumor-associated macrophages: potential in tumor diagnosis and treatment ---
+doc_id: PMC10653702
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [10] [success] Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review ---
+doc_id: PMC13372918
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [11] [success] Induction of unique macrophage subset by simultaneous stimulation with LPS and IL-4 ---
+doc_id: PMC10167635
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [12] [success] Monocyte normal immune response to LPS stimulation ---
+doc_id: PMC3333514
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [13] [success] Oral and transdermal administration of lipopolysaccharide safely enhances self-healing ability through the macrophage network ---
+doc_id: PMC11994614
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [14] [success] A Global Picture of Molecular Changes Associated to LPS Treatment in THP-1 Derived Human Macrophages by Fourier Transform Infrared Microspectroscopy ---
+doc_id: PMC9656053
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [15] [success] A New Triggering Receptor Expressed on Myeloid Cells (TREM) Family Member, TLT-6, is Involved in Activation and Proliferation of Macrophages ---
+doc_id: PMC4637344
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [16] [success] Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyromonas endodontalis, Induces Macrophage M1 Profile ---
+doc_id: PMC9456100
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [17] [success] TET1 Knockdown Inhibits Porphyromonas gingivalis LPS/IFN-γ-Induced M1 Macrophage Polarization through the NF-κB Pathway in THP-1 Cells ---
+doc_id: PMC6514734
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [18] [success] Hyperinflammation, T cells, and endotoxemia ---
+doc_id: PMC4695100
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [19] [success] Species-Specificity of Transcriptional Regulation and the Response to Lipopolysaccharide in Mammalian Macrophages ---
+doc_id: PMC7386301
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [20] [success] LPS combined with CD47mAb enhances the anti‑osteosarcoma ability of macrophages ---
+doc_id: PMC10091190
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [21] [success] Inhibition of Triggering Receptor Expressed on Myeloid Cells 1 Ameliorates Inflammation and Macrophage and Neutrophil Activation in Alcoholic Liver Disease in Mice ---
+doc_id: PMC6312652
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [22] [success] Lipopolysaccharide from biofilm-forming Pseudomonas aeruginosa PAO1 induces macrophage hyperinflammatory responses ---
+doc_id: PMC8289208
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [23] [success] TREM‐1 deficiency attenuates the inflammatory responses in LPS‐induced murine endometritis ---
+doc_id: PMC6801141
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [24] [success] Macrophage subsets exhibit distinct E. coli-LPS tolerisable cytokines associated with the negative regulators, IRAK-M and Tollip ---
+doc_id: PMC6533032
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [25] [success] Lipopolysaccharide Tolerance in Human Primary Monocytes and Polarized Macrophages ---
+doc_id: PMC10419197
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}

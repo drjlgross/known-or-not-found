@@ -1,0 +1,253 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Cxcl9 (C-X-C motif chemokine ligand 9) LPS macrophage
+# exit 0
+Found 25 papers  [s_94ed41dd]
+
+  1. Inhibition of the CXCL9-CXCR3 axis suppresses the progression of experimental apical periodontitis by blocking macrophage migration and activation
+     Tatsuya Hasegawa; V. Venkata Suresh; Yoshio Yahata; Masato Nakano; Shigeto Suzuki; Shigeki Suzuki; S...
+     PMC7844264 · PMC · 2021-01-28 · 44 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7844264/
+     Matched: Effect of CXCL9 on activation of peritoneal macrophages · cat /papers/PMC7844264/content.lines --lines 29
+     │ Peritoneal macrophages were prepared as described previously[45]. Briefly, cell suspensions
+     │ were divided into four groups in a 6-well plate, cultured for 1 h, and then washed twice to
+     │ remove non-adherent cells and used as peritoneal macrophages. These cells were later treated
+     │ with LPS (100 ng/mL), recombinant mouse (rm) CXCL9 (100 ng/mL, 492-MM; R&D Systems) or LPS
+     │ (100 ng/mL) and rmCXCL9 (100 ng/mL) in the presence of 10% FBS for 24 h. After incubation,
+     │ the cells were assayed by the gene expression analysis of Cxcl9, Cxcl10, Il1b, Il6, Mmp2,
+     │ Tnf (primer lists: sTable 1), as described previously[44].
+     "The CXCL9-CXCR3 axis was studied in experimental apical periodontitis. Blocking this axis suppresses disease progression by inhibiting macrophage migration and activation."
+
+  2. Macrophage TRIM21 lactylation exacerbates infection-induced orchitis through enhancing STAT1-mediated CXCL9 and CXCL10 production
+     Wenjing Tang; Wenjie Chen; Na Li; Wei Li; Zhigang Lei; Wenhui Sun; Xuan Xie; Yihong Jiang; Ying Chen...
+     PMC12847007 · PMC · 2026-01-14 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12847007/
+     Matched: Macrophages are a predominant cellular source of CXCL9 and CXCL10 in t · cat /papers/PMC12847007/content.lines --lines 31-32
+     "Macrophage TRIM21 lactylation was studied in infection-induced orchitis models. Lactylated TRIM21 enhances STAT1-mediated CXCL9/10 production, worsening testicular inflammation and spermatogenic disruption."
+
+  3. CXCL9 Contributes to Antimicrobial Protection of the Gut during Citrobacter rodentium Infection Independent of Chemokine-Receptor Signaling
+     Sarah A. Reid-Yu; Brian R. Tuinema; Cherrie N. Small; Lydia Xing; Brian K. Coombes
+     PMC4333760 · PMC · 2015-02-02 · 35 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4333760/
+     Matched: IFNγ produced by NK cells and macrophages is necessary to achieve maxi · cat /papers/PMC4333760/content.lines --lines 31-32
+     │ Previous work examining transcript levels of CXCL9 in the C. rodentium infected colon found
+     │ the predominant source to be CD11c+ cells, and was therefore attributed dendritic cells
+     │ (DCs) [15]. However, recent work into understanding the role that DCs and macrophages play
+     │ in intestinal homeostasis, as well as inflammation, has revealed that the intestinal tract
+     │ is more heavily populated with macrophages [32], and that some previous work attributing
+     │ function to CD11c+ DCs has instead been misidentified macrophages [33–35]. Indeed,
+     │ macrophages have been shown to be a significant source of CXCL9 in other inflamed tissues
+     │ [36,37]. We measured CXCL9 release from GM-CSF induced bone marrow-derived …
+     "CXCL9 was studied for its role in gut protection against *Citrobacter rodentium*. The chemokine provides antimicrobial protection independent of its receptor, highlighting a novel direct immune defense mechanism."
+
+  4. Reciprocal activation between M1 macrophages and trophoblasts through CXCL9/STAT1/ZEB1/CCL2 axis promotes recurrent spontaneous abortion
+     Sisi Yan; Xiang Wang; Qiuji Wu; Jinli Ding; Hui Qiu
+     PMC12634548 · PMC · 2025-11-07 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12634548/
+     Matched: Anti-CXCL9 treatment alleviates embryo resorption in mice · cat /papers/PMC12634548/content.lines --lines 75-76
+     │ To further confirm the role of CXCL9 in vivo, we performed animal experiments using normal
+     │ pregnant mice and LPS-induced abortion models with or without anti-CXCL9 neutralizing
+     │ antibody treatment (Figure 8A). As shown in Figure 8B, anti-CXCL9 treatment significantly
+     │ attenuated the embryo resorption rate in LPS-induced abortion models, suggesting its
+     │ therapeutic potential. Immunofluorescence analysis revealed that the LPS-induced abortion
+     │ group exhibited abnormally high E-cadherin and low Vimentin expression in placental tissues
+     │ compared to normal pregnancy. Importantly, anti-CXCL9 treatment effectively reversed the
+     │ expression of E-cadherin and Vimentin in the placentas of LPS-induced …
+     "M1 macrophages inhibit trophoblast migration and invasion via CXCL9, activating STAT1 and ZEB1. This axis promotes macrophage recruitment, contributing to recurrent spontaneous abortion."
+
+  5. Vagus nerve modulates acute-on-chronic liver failure progression via CXCL9
+     Li Wu; Jie Li; Ju Zou; Daolin Tang; Ruochan Chen
+     PMC12068771 · PMC · 2024-06-28 · 9 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12068771/
+     Matched: Macrophages were the major source of CXCL9 in ACLF under the control o · cat /papers/PMC12068771/content.lines --lines 78-79
+     │ To determine whether the increased CXCL9 seen in the ACLF murine model can be replicated in
+     │ ACLF patients, immunohistochemical analysis of CXCL9 was performed in the liver tissues from
+     │ patients with ACLF and CLD. As shown in Figure 5A, the CXCL9-positive areas were markedly
+     │ increased in ACLF patients compared to that in the CLD patients. Interestingly, the strong
+     │ staining of CXCL9 mainly resided in cells from the portal area and cells infiltrated in the
+     │ liver hepatic lobule instead of parenchyma cell as assessed by two experienced pathologists
+     │ [Figure 5A]. This phenomenon suggested that CXCL9 was mainly derived from inflammatory cells
+     │ instead of hepatocytes. Thus, we performed scRNA-seq to …
+     "This study investigated the role of the vagus nerve in acute-on-chronic liver failure (ACLF) progression. The vagus nerve modulates ACLF by regulating macrophage-derived CXCL9, which drives hepatic inflammation and mortality."
+
+  6. Unraveling the role of M1 macrophage and CXCL9 in predicting immune checkpoint inhibitor efficacy through multicohort analysis and single‐cell RNA sequencing
+     Yunfang Yu; Haizhu Chen; Wenhao Ouyang; Jin Zeng; Hong Huang; Luhui Mao; Xueyuan Jia; Taihua Guan; Z...
+     PMC10906808 · PMC · 2024-03-01 · 33 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10906808/
+     Matched: Impact of CXCL9 on the TIME and its correlation with immune phenotypes · cat /papers/PMC10906808/content.lines --lines 40
+     "M1 macrophages and CXCL9 were studied as predictive markers for immune checkpoint inhibitor efficacy using multicohort analysis and single-cell RNA sequencing. High M1 macrophage and CXCL9 expression, along with APOBEC3G, correlate with improved patient outcomes and can predict response to therapy."
+
+  7. Cxcl9high macrophages recruit circulating Cxcr3+ plasmablasts into kidneys to promote pathogenesis of lupus nephritis mice
+     Jing Zhao; Xinlong Bai; Cheng Zhou; Qing Ouyang; Yingjie Zhang; Xiao Zhang; Xumin Zheng; Chaofan Li;...
+     PMC12511401 · PMC · 2025-10-09 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12511401/
+     Matched: Kidney-resident Cxcl9high macrophages recruit circulating plasmablast  · cat /papers/PMC12511401/content.lines --lines 61-63
+     │ Next, we compared the relative proportions of macrophages, DC, and PEC in the kidneys of
+     │ three groups of LN mice. When compared to the other two cell types, the proportion of
+     │ macrophages significantly increased with LN progression (Fig. 6B). These findings suggest
+     │ that macrophages are the primary cells responsible for Cxcl9 production. Macrophages
+     │ represent a heterogeneous population. To identify the specific macrophage subtype that
+     │ secretes Cxcl9, we conducted a secondary cluster analysis of macrophages. Using UMAP
+     │ clustering, we divided the macrophages into 12 distinct clusters (Fig. 6C). Among the 12
+     │ clusters, Cxcl9 was highly expressed only in cluster 10. The expression level of Cxcl9 …
+     "Kidney macrophages expressing Cxcl9 attract circulating plasmablasts into the kidneys of lupus nephritis mice. This recruitment leads to plasmablast differentiation into autoantibody-producing plasma cells, driving disease pathogenesis."
+
+  8. Serum cytokines in periodontal diseases
+     Paras Ahmad; Jørgen Slots; Walter L. Siqueira
+     PMC12842884 · Periodontology 2000 · 2025-09-25 · 21 citations
+     https://doi.org/10.1111/prd.12629
+     Matched: C‐X‐C motif chemokine ligand 9 · cat /papers/PMC12842884/content.lines --lines 209
+     │ C‐X‐C motif chemokine ligand 9 (CXCL9), also known as monokine induced by interferon‐gamma
+     │ (MIG) plays a crucial role in the recruitment and activation of various immune cells,
+     │ specifically macrophages and T cells, in reaction to IFN‐γ and other inflammatory
+     │ triggers.[220], [221] Moreover, CXCL9 is implicated in the process of bone remodeling,
+     │ whereby it is stimulated by RANKL and governs the attachment and movement of osteoclast
+     │ precursors as well as developing osteoclasts.[222], [223] Serum levels of CXCX9 are
+     │ increased consistently in patients with gingivitis,[211] chronic periodontitis,[69] and
+     │ grade C periodontitis[211] than healthy individuals (Table 3).
+     "This review examines the role of serum cytokines in periodontal diseases like gingivitis and periodontitis. Elevated serum cytokine levels are linked to disease progression and systemic inflammation, suggesting potential diagnostic and therapeutic targets."
+
+  9. ESAT6-Induced IFNγ and CXCL9 Can Differentiate Severity of Tuberculosis
+     Zahra Hasan; Bushra Jamil; Mussarat Ashraf; Muniba Islam; Muhammad S. Yusuf; Javaid A. Khan; Rabia H...
+     PMC2659747 · PMC · 2009-04-02 · 34 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2659747/
+     Matched: LPS-induced cytokine and chemokine secretion in TB patients · cat /papers/PMC2659747/content.lines --lines 94
+     "This study examined ESAT6 and CFP10 induced cytokine and chemokine responses in different forms of tuberculosis. ESAT6-induced IFNγ and CXCL9 levels can distinguish between limited and severe tuberculosis."
+
+  10. The Therapeutic Treatment with the GAG-Binding Chemokine Fragment CXCL9(74–103) Attenuates Neutrophilic Inflammation and Lung Dysfunction during Klebsiella pneumoniae Infection in Mice
+     Daiane Boff; Remo Castro Russo; Helena Crijns; Vivian Louise Soares de Oliveira; Matheus Silvério Ma...
+     PMC9181286 · PMC · 2022-06-02 · 14 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9181286/
+     Matched: 2.2. The Treatment with CXCL9(74–103) Decreases Lung Inflammation and  · cat /papers/PMC9181286/content.lines --lines 21
+     │ The intranasal instillation of LPS triggers an inflammatory response characterized by a huge
+     │ neutrophil accumulation into the airways [29]. We next evaluated if, by binding to GAGs in
+     │ the lungs, CXCL9(74–103) could decrease neutrophil migration and inflammation after LPS
+     │ challenge. Mice were instilled with LPS (25 μg in saline/mouse) and were treated with 100 μL
+     │ of CXCL9(74–103) 1 mg/mL or phosphate-buffered saline (PBS) as vehicle intravenously 6 h
+     │ later, with the euthanasia occurring 18 h after the treatment (24 h after LPS challenge)
+     │ (Figure 3). The negative controls were instilled with saline. The intravenous treatment of
+     │ control mice instilled with saline with CXCL9(74–103) did not …
+     "This study investigated the effect of CXCL9(74–103) on Klebsiella pneumoniae-induced pneumonia in mice. Treatment with this chemokine fragment reduced neutrophilic inflammation and improved lung function without compromising bacterial clearance."
+
+  11. Delay in hepatocyte proliferation and prostaglandin D2 synthase expression for cholestasis due to endotoxin during partial hepatectomy in rats
+     Yusuke Wakasa; Norihisa Kimura; Toshiyuki Yamada; Takeshi Shimizu; Kenichi Hakamada; Shigeki Tsuchid...
+     PMC6797974 · PMC · 2019-09-13 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6797974/
+     Matched: Discussion · cat /papers/PMC6797974/content.lines --lines 44-45
+     "This study investigated infection-induced cholestasis after partial hepatectomy in rats using lipopolysaccharide. Infection delayed hepatocyte proliferation and increased prostaglandin D2 synthase expression in hepatocytes."
+
+  12. Myometrial‐derived CXCL12 promotes lipopolysaccharide induced preterm labour by regulating macrophage migration, polarization and function in mice
+     Lijuan Zhang; Ramanaiah Mamillapalli; Shutaro Habata; Molly McAdow; Hugh S. Taylor
+     PMC9077289 · Journal of Cellular and Molecular Medicine · 2022-03-23 · 15 citations
+     https://doi.org/10.1111/jcmm.17252
+     Matched: CXCR4 expression in macrophages · cat /papers/PMC9077289/content.lines --lines 64
+     │ We determined the expression of CXCR4 in macrophages cultured in vitro. Figure S1
+     │ demonstrates that the number CXCR4+ve macrophages were significantly decreased (1.5‐fold) by
+     │ LPS treatment compared with PBS.
+     "This study investigated the role of myometrial CXCL12 in lipopolysaccharide-induced preterm labor in mice. Myometrial CXCL12 promotes preterm labor by regulating macrophage migration and polarization, and blocking this pathway prevents preterm labor."
+
+  13. Transcriptome Analysis Provides Insights into the Markers of Resting and LPS-Activated Macrophages in Grass Carp (Ctenopharyngodon idella)
+     Yazhen Hu; Xiaolei Wei; Zhiwei Liao; Yu Gao; Xiaoling Liu; Jianguo Su; Gailing Yuan
+     PMC6274997 · International Journal of Molecular Sciences · 2018-11-12 · 35 citations
+     https://doi.org/10.3390/ijms19113562
+     Matched: 3. Discussion · cat /papers/PMC6274997/content.lines --lines 39-40
+     "This study analyzed the transcriptomes of resting and LPS-activated grass carp macrophages. Four novel cell surface markers and two chemokines were identified as potential macrophage markers, with others indicating activation."
+
+  14. Glucocorticoids induce a phagocytic C1Q+ macrophage phenotype primed for IFNγ-dependent CXCL9 secretion
+     Alexandra S. Triebig; Tanja Maier; Paul Schwarzlmueller; Sena Atici; Martin E. Kirmaier; Vasileios C...
+     PMC13183869 · PMC · 2026-05-18 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13183869/
+     Matched: Electronic Supplementary Material · cat /papers/PMC13183869/content.lines --lines 137-141
+     "Glucocorticoids are an emerging component of the tumor microenvironment and play a multifaceted role in modulating immune responses. Adrenocortical carcinoma (ACC) is a rare endocrine malignancy chara"
+
+  15. CXCL9 inhibition does not ameliorate disease in murine models of both primary and secondary hemophagocytic lymphohistiocytosis
+     Tamir Diamond; Michelle Lau; Jeremy Morrissette; Niansheng Chu; Edward M. Behrens
+     PMC10387083 · PMC · 2023-07-29 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10387083/
+     Matched: CXCL9 deficiency does not alter disease severity in MAS model · cat /papers/PMC10387083/content.lines --lines 20-21
+     "This study investigated the role of CXCL9 in murine models of primary and secondary hemophagocytic lymphohistiocytosis. CXCL9 deficiency or inhibition did not improve disease parameters or hepatitis in these models."
+
+  16. Pharmacological Polarization of Tumor‐Associated Macrophages Toward a CXCL9 Antitumor Phenotype
+     Noah Enbergs; Elias A. Halabi; Anne‐Gaëlle Goubet; Kelton Schleyer; Ina R. Fredrich; Rainer H. Kohle...
+     PMC11022742 · PMC · 2024-02-11 · 15 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11022742/
+     Matched: Introduction · cat /papers/PMC11022742/content.lines --lines 13-14
+     "This study developed small molecules to induce CXCL9 expression in tumor-associated macrophages. This approach efficiently polarized TAMs toward an antitumor phenotype in a mouse model."
+
+  17. LIF regulates CXCL9 in tumor-associated macrophages and prevents CD8+ T cell tumor-infiltration impairing anti-PD1 therapy
+     Mónica Pascual-García; Ester Bonfill-Teixidor; Ester Planas-Rigol; Carlota Rubio-Perez; Raffaella Iu...
+     PMC6559950 · PMC · 2019-06-11 · 233 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6559950/
+     Matched: LIF regulates the expression of protumoral cytokines in TAMs · cat /papers/PMC6559950/content.lines --lines 32-33
+     "LIF was studied for its role in regulating tumor-associated macrophages and CD8+ T cell infiltration. Blocking LIF increases CXCL9, promoting T cell infiltration and enhancing anti-PD1 therapy efficacy."
+
+  18. CXCL10/IP-10 Neutralization Can Ameliorate Lipopolysaccharide-Induced Acute Respiratory Distress Syndrome in Rats
+     Shan Lang; Libing Li; Xuning Wang; Junping Sun; Xinying Xue; Yongjiu Xiao; Mingyue Zhang; Ting Ao; J...
+     PMC5207674 · PMC · 2017-01-03 · 69 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5207674/
+     Matched: Neutralization of CXCL10 decreased inflammatory cells recruitment in L · cat /papers/PMC5207674/content.lines --lines 80-82
+     "This study investigated CXCL10's role in LPS-induced ARDS in rats. Neutralizing CXCL10 reduced ARDS severity by decreasing inflammation and immune cell infiltration."
+
+  19. The influence of CXCL9 on M2 macrophages in lung cancer development
+     Lin Mi; Liyun Xu; Zhijun Chen; Yeye Zheng
+     PMC12776223 · PMC · 2025-12-29 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12776223/
+     Matched: Abstract · cat /papers/PMC12776223/content.lines --lines 1-27
+     "This study investigated CXCL9's role in lung cancer by examining its effects on M2 macrophages. CXCL9 inhibits M2 macrophage polarization and function, suppressing lung cancer cell proliferation, migration, and invasion."
+
+  20. C-X-C Motif Chemokine Ligand 9 and Its CXCR3 Receptor Are the Salt and Pepper for T Cells Trafficking in a Mouse Model of Gaucher Disease
+     Albert Frank Magnusen; Reena Rani; Mary Ashley McKay; Shelby Loraine Hatton; Tsitsi Carol Nyamajenje...
+     PMC8657559 · PMC · 2021-11-24 · 11 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8657559/
+     Matched: 2.8. Determination of CXCL9 Production · cat /papers/PMC8657559/content.lines --lines 33
+     │ Mϕs and DCs purified from lung of the strain-matched Gba19V/− and WT mice were cultured (106
+     │ cells/200 μL of complete RPMI media) for 48 h. CXCL9 concentrations were determined in the
+     │ cell supernatants by commercial ELISA kits according to the manufacturer’s instructions.
+     "CXCL9 and its receptor CXCR3 were studied for their role in T cell trafficking in a mouse model of Gaucher disease. The CXCL9-CXCR3 axis drives increased T cell infiltration, suggesting it as a therapeutic target."
+
+  21. Infiltration of CXCL9+ macrophages confers a favorable prognosis in breast cancer: Insights from an integrated single-cell RNA and bulk RNA sequencing study
+     Bin Liang; Zhicai Duan; Siyu Long; Peng Zhou
+     PMC12668484 · PMC · 2025-12-01 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12668484/
+     Matched: Landscape of CXCL9 + macrophages at single-cell RNA sequencing resolut · cat /papers/PMC12668484/content.lines --lines 59-61
+     "This study analyzed breast cancer tumors using single-cell and bulk RNA sequencing to identify prognostic cell types. CXCL9+ macrophages were found to be associated with improved patient survival and inhibited cancer cell viability."
+
+  22. Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni, Yanal Ghosheh, Akula Bala Pramod, Klaus Ley
+     PMC6543837 · Frontiers in Immunology · 2019-05-24 · 1909 citations
+     https://doi.org/10.3389/fimmu.2019.01084
+     Matched: In vivo M1(=LPS+)C57BL/6J Exclusive Genes Drive Anti-bacterial Immune  · cat /papers/PMC6543837/content.lines --lines 40-43
+     "This study compared gene expression in *in vivo* M1/M2 macrophages with *in vitro* classically/alternatively activated macrophages. The findings indicate that *in vivo* M1/M2 polarization is not equivalent to *in vitro* activation states."
+
+  23. CXCL9-expressing tumor-associated macrophages: new players in the fight against cancer
+     Paola Marie Marcovecchio; Graham Thomas; Shahram Salek-Ardakani
+     PMC7919587 · PMC · 2021-02-26 · 121 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7919587/
+     Matched: Phenotype and regulation of CXCL9/10 expressing TAMs in the TME · cat /papers/PMC7919587/content.lines --lines 24-25
+     "This paper examines the role of CXCL9-expressing tumor-associated macrophages in anti-PD(L)-1 therapy. These macrophages are found to recruit stem-like CD8 T cells, which are crucial for treatment response."
+
+  24. Congestion Enriches Intra-hepatic Macrophages Through Reverse Zonation of CXCL9 in Liver Sinusoidal Endothelial Cells
+     Siyuan Ma; Nawras W. Habash; Mrunal K. Dehankar; Nidhi Jalan-Sakrikar; Shawna A. Cooper; Abid A. Anw...
+     PMC12198043 · PMC · 2025-02-07 · 14 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12198043/
+     Matched: Macrophage Enrichment by LSEC-derived CXCL9 Drives Fibrosis and PHTN A · cat /papers/PMC12198043/content.lines --lines 70-72
+     "This study investigated spatial immune cell changes in liver congestion. Congestion enriches intra-hepatic macrophages via CXCL9 from peri-central liver sinusoidal endothelial cells, contributing to fibrosis and portal hypertension."
+
+  25. CXCL9: evidence and contradictions for its role in tumor progression
+     Qiang Ding; Panpan Lu; Yujia Xia; Shuping Ding; Yuhui Fan; Xin Li; Ping Han; Jingmei Liu; Dean Tian;...
+     PMC5119981 · PMC · 2016-10-10 · 155 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5119981/
+     Matched: Regulation of CXCL9 · cat /papers/PMC5119981/content.lines --lines 11-13
+     │ The transcriptional regulation of CXCL9 is a multistep process involving many transcription
+     │ factors (Fig. 1), of which signal transducer and activator of transcription (STAT1) and
+     │ nuclear factor κB (NF‐κB) are two most well‐characterized members 10. Both the gene mutation
+     │ of STAT1 11 and the blocking of the Janus‐activated kinase (JAK)/STAT‐1 pathway 12, 13 can
+     │ reduce CXCL9 expression induced by IFN‐γ. Moreover, CXCL9 expression can be suppressed by
+     │ reducing the levels of components of the STAT1‐IRF‐1(IRF‐1, Interferon regulatory factor)
+     │ transcriptional activation pathway by Porphyromonas gingivalis that leads to the immune
+     │ function decline 14. Lipopolysaccharide (LPS) and D‐galactosamine …
+     "This review summarizes the contradictory roles of CXCL9 in tumor progression across various cancer types. It highlights CXCL9's involvement in leukocyte recruitment and its complex influence on tumor growth, angiogenesis, and metastasis."
+
+[2.2s, saved to s_94ed41dd]
+
+💡 Extract data across these results with: map --from s_94ed41dd "your question"
+[2.2s, saved to s_94ed41dd]  [repo: mva-lof-molecular]
+

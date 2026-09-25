@@ -1,0 +1,307 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Gbp2 (guanylate binding protein 2) LPS macrophage
+# exit 0
+Found 25 papers  [s_26a16ee8]
+
+  1. Direct binding of polymeric GBP1 to LPS disrupts bacterial cell envelope functions
+     Miriam Kutsch; Linda Sistemich; Cammie F Lesser; Marcia B Goldberg; Christian Herrmann; Jörn Coers
+     PMC7327485 · The EMBO Journal · 2020-06-08 · 165 citations
+     https://doi.org/10.15252/embj.2020104926
+     Matched: Discussion · cat /papers/PMC7327485/content.lines --lines 54-55
+     │ Previous studies had already implicated a potential role for GBPs in direct LPS sensing. We
+     │ showed that mouse GBPs accelerate the kinetics of caspase‐4 activation in response to LPS
+     │ transfection of murine bone marrow‐derived macrophages (Pilla et al, 2014), and a later
+     │ study expanded these observations to human GBPs (Lagrange et al, 2018). In follow‐up work,
+     │ we demonstrated that mouse GBPs promote caspase‐4 activation in response to bacterial outer
+     │ membrane vesicles (OMVs)—LPS‐studded vesicles released by bacteria. We found that mouse
+     │ Gbp2, the closest murine ortholog of hGBP1, colocalized with LPS inside OMV‐treated
+     │ macrophages (Finethy et al, 2017), arguing in favor of direct interaction …
+     "Polymeric guanylate binding protein-1 (GBP1) directly binds to lipopolysaccharide (LPS) on gram-negative bacteria. This binding disrupts the bacterial cell envelope, leading to increased susceptibility to antibiotics and impaired function."
+
+  2. Molecular mechanisms and functions of guanylate-binding protein 2 in inflammation and cancer (Review)
+     Zeyu Liu; Shijun Peng; Jia Ouyang
+     PMC12486372 · Oncology Letters · 2025-09-18 · 0 citations
+     https://doi.org/10.3892/ol.2025.15280
+     Matched: Introduction · cat /papers/PMC12486372/content.lines --lines 10-12
+     │ Human guanylate-binding protein 2 (hGBP2) and murine (m)GBP2 were first isolated from human
+     │ fibroblasts in 1982 (1) and macrophages in 1998 (2). GBP2 is a member of the IFN-inducible
+     │ GTPase family that serves notable roles in cellular signaling. hGBP2 is reported to be
+     │ highly expressed in various immune cells, including monocytes, lymphocytes and natural
+     │ killer cells (3). Under basal conditions, hGBP2 and mGBP2 are primarily distributed
+     │ diffusely in the cytoplasm and nucleus. However, upon stimulation by IFN-γ and in the GTP-
+     │ bound state, such as hGBP1 and hGBP5, it can translocate to the Golgi apparatus (4,5). The
+     │ genes encoding hGBP1-7 are located on human chromosome 1, whilst the genes …
+     "This review summarizes research on guanylate-binding protein 2 (GBP2) in inflammation and cancer. GBP2 regulates inflammasomes in inflammation and has context-dependent roles in cancer, influencing progression and prognosis."
+
+  3. Extracellular vesicle-packaged GBP2 from macrophages aggravates sepsis-induced acute lung injury by promoting ferroptosis in pulmonary vascular endothelial cells
+     Zhixi Li; Yue Bu; Cheng Wang; Yongjing Yu; Lei Han; Chang Liu; Guangmin Chen; Chenglong Li; Yan Zhan...
+     PMC11994402 · PMC · 2025-03-25 · 38 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11994402/
+     Matched: GBP2 in SMφ-derived EVs is a potential mediator of pulmonary endotheli · cat /papers/PMC11994402/content.lines --lines 100
+     "Macrophage-derived EVs containing GBP2 were studied for their role in sepsis-induced lung injury. These EVs promote ferroptosis in lung endothelial cells by targeting the GBP2-OTUD5-GPX4 axis, suggesting a therapeutic target."
+
+  4. Bacterial factors drive the differential targeting of Guanylate Binding Proteins to  Francisella  and  Shigella
+     Stanimira V. Valeva, Fanny Michal, Manon Degabriel, John R. Rohde, Felix Randow, Robert K. Ernst, Br...
+     bio_c14a021b71b1 · bioRxiv · 2021-06-16 · 11 citations (all versions)
+     Published (2023): https://doi.org/10.1093/femspd/ftad005
+     Preprint: https://doi.org/10.1101/2021.06.16.448779
+     Matched: Recruitment of GBP2 to  F. novicida  depends on GBP1 · cat /papers/bio_c14a021b71b1/content.lines --lines 38
+     │ Because of the high homology between the GBPs ( Table 1 ), few tools exist for studying the
+     │ specific recruitment of endogenous GBPs. We validated antibodies to specifically immunolabel
+     │ GBP1 and GBP2 ( Fig. S2E ). Using these antibodies, we investigated the co-recruitment of
+     │ GBP1 and GBP2 to F. novicida in wild-type cells. Whenever one GBP (GBP1 or GBP2) was
+     │ targeted to a bacterium, the other GBP was present on the same bacterium in more than 85% of
+     │ the cases ( Fig. 2C ). High-resolution images of structured illumination microscopy (SIM)
+     │ demonstrated intimate colocalization between endogenous GBP1, GBP2, and the bacterial LPS in
+     │ U937 macrophages, and in primary human macrophages ( Fig. 2 …
+     "Guanylate-Binding Proteins (GBPs) were studied for their differential targeting of *Francisella* and *Shigella*. Bacterial factors, including lipid A structure, and GBP-intrinsic features dictate which GBPs target specific bacteria."
+
+  5. Interferon-induced guanylate-binding proteins: Guardians of host defense in health and disease
+     Kyle Tretina; Eui-Soon Park; Agnieszka Maminska; John D. MacMicking
+     PMC6400534 · The Journal of Experimental Medicine · 2019-03-04 · 323 citations
+     https://doi.org/10.1084/jem.20182031
+     Matched: GBPs in antibacterial defense · cat /papers/PMC6400534/content.lines --lines 70-71
+     │ Two major questions arise from GBP recruitment to intracellular bacteria (Kim et al., 2012;
+     │ Bradfield, 2016). First, what are the structures recognized by these immune GTPases to
+     │ target the pathogen niche? Second, how do GBPs control infection once they reach this
+     │ destination? Attempts to answer the first question using bacterial cell surface mutants have
+     │ shown that the lipid A moiety of Gram-negative LPS is recognized by Gbp5 in mouse
+     │ macrophages, and that the LPS O antigen is detected by human GBP1 in lung epithelia infected
+     │ by Shigella or Burkholderia (Piro et al., 2017; Santos et al., 2018). In neither case,
+     │ however, was direct LPS binding by GBPs shown. Moreover, GBPs also target …
+     "Guanylate-binding proteins (GBPs) are interferon-induced proteins crucial for host defense against pathogens. They play multifaceted roles in immunity, impacting cellular processes and contributing to disease pathogenesis."
+
+  6. Inhibitory effects of polysaccharides from Korean ginseng berries on LPS-induced RAW264.7 macrophages
+     Weerawan Rod-in; Utoomporn Surayot; SangGuan You; Woo Jung Park
+     PMC10684074 · PLOS ONE · 2023-11-28 · 7 citations
+     https://doi.org/10.1371/journal.pone.0294675
+     Matched: GBPs inhibit surface molecule expression · cat /papers/PMC10684074/content.lines --lines 61-63
+     "Korean ginseng berry polysaccharides (GBPs) were tested for anti-inflammatory effects in LPS-stimulated macrophages. All GBP fractions reduced inflammation by inhibiting NO production and inflammatory gene expression via MAPK and NF-κB pathways, with GBP-F1 being most effective."
+
+  7. Inflammasome Activation by Bacterial Outer Membrane Vesicles Requires Guanylate Binding Proteins
+     Ryan Finethy; Sarah Luoma; Nichole Orench-Rivera; Eric M. Feeley; Arun K. Haldar; Masahiro Yamamoto;...
+     PMC5626967 · mBio · 2017-10-03 · 144 citations
+     https://doi.org/10.1128/mBio.01188-17
+     Matched: GBP2 but not GBP5 controls caspase-11-dependent pyroptosis and interle · cat /papers/PMC5626967/content.lines --lines 29-32
+     │ The chromosomal deletion in GBPchr3−/− mice eliminates 5 Gbp genes, namely, Gbp1, Gbp2,
+     │ Gbp3, Gbp5, and Gbp7 (23). Previous studies demonstrated that expression of GBP2 promotes
+     │ the induction of caspase-11-dependent cell death in macrophages infected with Gram-negative
+     │ bacterial pathogens such as Salmonella and Legionella (10, 12). In support of a possible
+     │ role for GBP2 in OMV processing, we detected partial colocalization between GBP2 and LPS in
+     │ OMV-treated BMDMs (Fig. S3). We therefore tested whether GBP2 was required for caspase-11
+     │ activation by nonpathogenic E. coli and OMVs. We found that GBP2−/− BMDMs mimicked
+     │ GBPchr3−/− BMDMs in their unresponsiveness to E. coli infections, as …
+     "This study investigated the role of guanylate binding proteins (GBPs) in inflammasome activation by bacterial outer membrane vesicles (OMVs). GBPs are required for inflammasome activation and subsequent inflammation and sepsis in mice exposed to LPS or OMVs."
+
+  8. Role of Gate-16 and Gabarap in Prevention of Caspase-11-Dependent Excess Inflammation and Lethal Endotoxic Shock
+     Naoya Sakaguchi; Miwa Sasai; Hironori Bando; Youngae Lee; Ariel Pradipta; Ji Su Ma; Masahiro Yamamot...
+     PMC7522336 · Frontiers in Immunology · 2020-09-15 · 27 citations
+     https://doi.org/10.3389/fimmu.2020.561948
+     Matched: GBP2 Aggregation by GABARAP Deficiency Enhances Caspase-11-Induced Res · cat /papers/PMC7522336/content.lines --lines 32-33
+     "Gate-16 and Gabarap were studied for their role in regulating caspase-11-dependent inflammation. Their absence leads to increased caspase-11 activation and severe septic shock, which can be mitigated by reducing GBP2."
+
+  9. From mechanisms to therapies: the multifaceted roles of guanylate-binding protein 2 in immunity, cancer, and beyond
+     Wenqi Cui; Tianlu Wang; Juan Feng
+     PMC12571816 · Frontiers in Immunology · 2025-10-16 · 5 citations
+     https://doi.org/10.3389/fimmu.2025.1708319
+     Matched: Structure of GBP2 · cat /papers/PMC12571816/content.lines --lines 13-14
+     │ GBP2 is a 65 kDa IFN-inducible GTPase that belongs to the dynamin superfamily. Structurally,
+     │ it comprises three principal domains: an N-terminal globular large GTPase domain (LG) and an
+     │ elongated purely α-helical region, the latter subdivided into the middle domain (MD) and the
+     │ GTPase effector domain (GED) ( Figure 1 ) (5, 18). The N−terminal LG domain adopts a
+     │ globular conformation and contains five canonical motifs—G1 (P−loop), G2 (switch I), G3
+     │ (switch II), G4 ((N/T)KxD), and G5 (guanine cap)—which together facilitate GTP binding, Mg2+
+     │ coordination, and hydrolysis (5, 19). Notably, K51A substitutions in the LG domain have been
+     │ associated with loss of GBP2 GTPase activity (20). A flexible …
+     "Guanylate-binding protein 2 (GBP2) is studied for its roles in immunity and cancer. GBP2's context-dependent functions offer potential as a biomarker and therapeutic target."
+
+  10. RNA-Binding Proteins in the Control of LPS-Induced Macrophage Response
+     Dirk H. Ostareck, Antje Ostareck-Lederer
+     PMC6369361 · PMC · 2019-02-04 · 58 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6369361/
+     Matched: KH Domain Protein hnRNP K Modulates mRNA Translation · cat /papers/PMC6369361/content.lines --lines 38-39
+     "This review examines RNA-binding proteins (RBPs) like TTP, HUR, TIAR, and hnRNP K in LPS-induced macrophage responses. These RBPs globally regulate inflammation-related gene expression, impacting signaling and cytokine production."
+
+  11. Guanylate-binding proteins balance iNOS/Arg-1 in myeloid cells during L. major infection and promote host defense to infection
+     Lucy Fry; Het Adhvaryu; Hayden Roys; Anne Bowlin; Gopinath Venugopal; Jordan T. Bird; Charity Washam...
+     PMC13059736 · mBio · 2026 · 0 citations
+     https://doi.org/10.1128/mbio.02825-25
+     Matched: RESULTS · cat /papers/PMC13059736/content.lines --lines 59-60
+     │ Fig 3: Macrophage Gbps control L. major parasites independent of localization to the
+     │ parasite membrane. BMDMs from control mice or GbpChr3 KO mice were infected at an MOI of
+     │ 1:10 for 2 h before extracellular parasites were washed away. Infected cells were then
+     │ cultured in media or different supplemented medium conditions for either 72 or 48 hpi before
+     │ cells were prepped for cytospin analysis or immunofluorescence microscopy, respectively. (A)
+     │ Representative images of control or Gbp-deficient macrophages infected with L. major and
+     │ treated with IFN-γ for 72 h to assess parasite survival. (B) Quantification of panel A
+     │ showing parasites per macrophages and percentage of infection after …
+     "Guanylate-binding proteins (Gbps) are crucial for controlling *Leishmania major* infection. Gbps regulate inducible nitric oxide synthase (iNOS) and Arginase-1 (Arg-1) in myeloid cells, promoting parasite clearance and reducing disease severity. This function is independent of Gbps directly targeting the parasite."
+
+  12. Crosstalk between GBP2 and M2 macrophage promotes the ccRCC progression
+     Wei Zheng; Shujiang Ye; Bin Liu; Dan Liu; Ruyu Yan; Hongjuan Guo; Hongtao Yu; Xudong Hu; Huaiming Zh...
+     PMC11531969 · PMC · 2024-09-02 · 10 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11531969/
+     Matched: cat /papers/PMC11531969/content.lines --lines 13-17
+     │ ccRCC: clear cell renal cell carcinoma TME: tumor microenvironment TAMs: tumor‐associated
+     │ macrophages GBP2: guanylate‐binding proteins 2 CM: conditioned medium
+     "This study investigated the role of GBP2 and M2 macrophages in clear cell renal cell carcinoma (ccRCC) progression. Findings show a reciprocal loop where GBP2 promotes M2 macrophage polarization, and M2 macrophages enhance ccRCC cell migration and invasion via GBP2."
+
+  13. A hierarchical GBP network promotes cytosolic LPS recognition and sepsis
+     Eui-Soon Park, Bae-Hoon Kim, Pradeep Kumar, Kyle Tretina, Agnieszka Maminska, William M. Philbrick, ...
+     bio_ea6f8a3b6c58 · bioRxiv · 2021-08-25 · 5 citations (all versions)
+     Published (2021): https://doi.org/10.1101/2021.08.25.457662
+     Matched: Main Text · cat /papers/bio_ea6f8a3b6c58/content.lines --lines 43-44
+     │ Figure 4. GBP deficiency inhibits Gsdmd-N membrane targeting and sepsis in vivo . (A) .
+     │ Kaplan-Meier survival plot of knockout mice to caspase-11-dependent sepsis. P values, each
+     │ knockout group shown versus WT mice using the Gehan-Breslow-Wilcoxon test. n , number of
+     │ mice per group. (B) . Surface body temperature monitored every 3 hr up to 24 hr, and each 12
+     │ hr thereafter to 72 hr during sepsis. P values, for each group using one-way ANOVA with
+     │ Dunnett’s multiple comparison test versus PBS control. ns, not significant at P > 0.05. n ,
+     │ 5 mice/group. (C) Serum IL-1β at 18 hr p.i. in each sepsis group plus PBS control. P values
+     │ for each knockout group using one-way ANOVA with …
+     "A study engineered mice lacking seven guanylate-binding proteins (GBPs) to investigate their role in cytosolic LPS recognition. The findings reveal a hierarchical GBP network that controls key steps in the inflammasome pathway, protecting against Gram-negative sepsis."
+
+  14. GBP2 promotes M1 macrophage polarization by activating the notch1 signaling pathway in diabetic nephropathy
+     Xiaohui Li; Jialu Liu; Mengru Zeng; Kexin Yang; Shumin Zhang; Yifei Liu; Xiangxiang Yin; Chanyue Zha...
+     PMC10445759 · PMC · 2023-08-09 · 32 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10445759/
+     Matched: Cell culture and treatment · cat /papers/PMC10445759/content.lines --lines 38
+     "GBP2 was identified as a key gene promoting M1 macrophage polarization in diabetic nephropathy. This occurs through the activation of the Notch1 signaling pathway, contributing to kidney inflammation."
+
+  15. A Rapid Caspase-11 Response Induced by IFNγ Priming Is Independent of Guanylate Binding Proteins
+     Sky W. Brubaker; Susan M. Brewer; Liliana M. Massis; Brooke A. Napier; Denise M. Monack
+     PMC7566093 · iScience · 2020-09-29 · 20 citations
+     https://doi.org/10.1016/j.isci.2020.101612
+     Matched: Introduction · cat /papers/PMC7566093/content.lines --lines 10-11
+     "IFNγ priming accelerates macrophage response to cytosolic LPS, independent of guanylate binding proteins. This suggests an unknown regulator of caspase-11-dependent pyroptosis is upregulated by IFNγ."
+
+  16. Human GBP1 is a microbe‐specific gatekeeper of macrophage apoptosis and pyroptosis
+     Daniel Fisch; Hironori Bando; Barbara Clough; Veit Hornung; Masahiro Yamamoto; Avinash R Shenoy; Eva...
+     PMC6600649 · The EMBO Journal · 2019-06-03 · 222 citations
+     https://doi.org/10.15252/embj.2018100926
+     Matched: Introduction · cat /papers/PMC6600649/content.lines --lines 14-15
+     "Human GBP1 targets microbial vacuoles, triggering apoptosis or pyroptosis depending on the pathogen. This protein acts as a gatekeeper, controlling cell death pathways specific to invading microbes."
+
+  17. Downregulation of Gbp2 Attenuates LPS-Induced Inflammation in BV2 Microglia Cells Through Inhibition of STAT1
+     Yang Bao; Hongwei Ni; Kai Wang; Limin Ma; Jiaqiu Gu; Xinxin Zhang; Hongmei Gao; Guangbao He
+     PMC12513257 · Journal of Inflammation Research · 2025-10-06 · 1 citation
+     https://doi.org/10.2147/JIR.S531241
+     Matched: Downregulation of Gbp2 Inhibited Cell Apoptosis in LPS-Stimulated BV2  · cat /papers/PMC12513257/content.lines --lines 53-54
+     │ Next, we explored the effect of Gbp2 on the apoptosis of BV2 cells following exposed to LPS.
+     │ As indicated in Figure 3A, LPS remarkably upregulated cleaved caspase 3 expression in BV2
+     │ cells; however, Gbp2 deficiency notably reduced cleaved caspase 3 expression in LPS-
+     │ stimulated BV2 cells. Additionally, LPS remarkably upregulated the number of TUNEL-positive
+     │ cells in BV2 cells; however, Gbp2 deficiency notably reduced the number of TUNEL-positive
+     │ cells in LPS-stimulated BV2 cells (Figure 3B). Collectively, downregulation of Gbp2 could
+     │ inhibit cell apoptosis in LPS-stimulated BV2 cells. Figure 3: Downregulation of Gbp2
+     │ inhibited cell apoptosis in LPS-stimulated BV2 cells. BV2 cells were …
+     "This study investigated the role of Gbp2 in LPS-induced inflammation in BV2 microglia cells. Downregulating Gbp2 reduces inflammation by inhibiting STAT1, suggesting a potential therapeutic target for POCD."
+
+  18. GBP2 promotes podocyte pyroptosis and contributes to the pathogenesis of pediatric lupus nephritis
+     Yu Sun; Jiahui Wei; Yanjun Zhao; Xingbo Jiang; Chao He; Xianhui Huang; Fengying Lei; Yuanhan Qin
+     PMC13001939 · PLOS One · 2026-03-19 · 0 citations
+     https://doi.org/10.1371/journal.pone.0344601
+     Matched: Gbp2 overexpression significantly promotes LPS/ATP-induced podocyte py · cat /papers/PMC13001939/content.lines --lines 82-83
+     │ In the opposite way, to further investigate GBP2’s role in LPS/ATP-induced MPC-5 cells, we
+     │ performed Gbp2 overexpression using pEGFP-Gbp2 transfection, confirming significant
+     │ upregulation at the protein level (Fig 5A). Gbp2 overexpression significantly upregulated
+     │ mRNA and protein levels of GSDMD and AIM2 compared to ov-NC group (Fig 5B and 5C).
+     │ Concomitantly, the inflammatory cytokines IL-1β and IL-18 showed a significant increase (Fig
+     │ 5D). Collectively, these findings demonstrate that Gbp2 overexpression promotes pyroptosis
+     │ and inflammatory responses. Fig 5: Effects of Gbp2 overexpression on LPS/ATP-induced
+     │ pyroptosis and inflammation in MPC-5 cells. A Evaluation of plasmid overexpression …
+     "GBP2 is upregulated in pediatric lupus nephritis and promotes podocyte pyroptosis. This activation of the pyroptotic pathway and subsequent release of inflammatory cytokines contributes to renal injury."
+
+  19. The Prognostic and Immunological Value of Guanylate-Binding Proteins in Lower-Grade Glioma: Potential Markers or Not?
+     Zhuang Liu; Jifeng Sun; Ting Gong; Huixin Tang; Yanna Shen; Chang Liu
+     PMC8573089 · PMC · 2021-10-25 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8573089/
+     Matched: Pathway Enrichment Analysis of Guanylate-Binding Protein 1/2/3/4 in Lo · cat /papers/PMC8573089/content.lines --lines 169-170
+     "This study investigated guanylate-binding proteins (GBPs) in lower-grade glioma. High expression of GBP1, 2, 3, and 4 correlates with poor prognosis and increased immune cell infiltration, suggesting they are potential biomarkers."
+
+  20. LPS-aggregating proteins GBP1 and GBP2 are each sufficient to enhance caspase-4 activation both in cellulo and in vitro
+     Mary S. Dickinson; Miriam Kutsch; Linda Sistemich; Dulcemaria Hernandez; Anthony S. Piro; David Need...
+     PMC10104521 · Proceedings of the National Academy of Sciences of the United States of America · 2023-04-06 · 75 citations
+     https://doi.org/10.1073/pnas.2216028120
+     Matched: GBP1-LPS and GBP2-LPS Complexes Enhance Caspase-4 Activity In Vitro. · cat /papers/PMC10104521/content.lines --lines 46
+     │ To test whether GBP-LPS complexes directly activate caspase-4, we reconstituted caspase-4
+     │ activation in vitro. We incubated LPS with recombinant GBP1, GBP1R48A (negative control),
+     │ GBP13R, and GBP2 in the presence and absence of GTP, added these reactions to recombinant
+     │ caspase-4, and monitored cleavage of the fluorogenic caspase substrate Z-VAD-AMC over time
+     │ (Fig. 7D). LPS addition alone increased caspase-4 activity as previously reported (4)(here:
+     │ 1.5-fold), and this activity was not enhanced by addition of nucleotide-free GBPs (Fig. 7 D
+     │ and E). Importantly, when incubated with LPS in the presence of GTP, GBP1, GBP13R, and GBP2,
+     │ but not GBP1R48A, increased caspase-4 activity significantly …
+     "GBP1 and GBP2 were studied for their role in caspase-4 activation by lipopolysaccharide. Both proteins are sufficient to enhance caspase-4 activation by forming LPS-protein complexes, revising the understanding of cytosolic LPS sensing."
+
+  21. C57BL/6 and 129 inbred mouse strains differ in Gbp2 and Gbp2b expression in response to inflammatory stimuli in vivo
+     Barbara Clough; Ryan Finethy; Rabia T. Khan; Daniel Fisch; Sarah Jordan; Harshil Patel; Jörn Coers; ...
+     PMC6749937 · Wellcome Open Research · 2019-08-20 · 12 citations
+     https://doi.org/10.12688/wellcomeopenres.15329.1
+     Matched: Introduction · cat /papers/PMC6749937/content.lines --lines 24-25
+     "This study investigated Gbp2 and Gbp2b expression in C57BL/6 and 129 mice after inflammatory stimuli. C57BL/6 mice show lower Gbp2b induction, potentially due to a gene duplication in 129 mice."
+
+  22. Exploring the Role of Guanylate-Binding Protein-2 in Activated Microglia-Mediated Neuroinflammation and Neuronal Damage
+     Ji-Eun You; Eun-Ji Kim; Ho Won Kim; Jong-Seok Kim; Kyunggon Kim; Pyung-Hwan Kim
+     PMC11117630 · Biomedicines · 2024-05-20 · 11 citations
+     https://doi.org/10.3390/biomedicines12051130
+     Matched: 3.7. Increased Neuron Survival with GBP2 Knockdown in BV2 Microglial C · cat /papers/PMC11117630/content.lines --lines 59-61
+     │ LPS-induced neuroinflammation was reduced by GBP2-shRNA in microglial cells. Based on
+     │ previous results, we investigated whether downregulation of GBP2 could inhibit neuronal cell
+     │ death. To address this, an MTT assay was conducted in a co-culture system using shSCR-or
+     │ shD-GBP2 treated BV2 microglial cells after LPS treatment. Both the LPS and shScr treatments
+     │ induced the increased cell death in SH-SY5Y neuronal cells, demonstrating that neurotoxicity
+     │ occurred in activated microglia-induced neurotoxicity (Figure 8A). On the other hand,
+     │ neuronal damage mediated by shD-GBP2 was decreased compared to that in other groups,
+     │ indicating that the downregulation of GBP2 has a neuroprotective effect by …
+     "This study investigated guanylate-binding protein-2 (GBP2) in activated microglia and its effect on neurons. Downregulating GBP2 in microglia reduced neuroinflammation and neuronal damage, suggesting it as a therapeutic target."
+
+  23. GBP1 recruitment to actin-rich pedestals induced by extracellular Gram-negative bacteria promotes pyroptosis
+     Daniel J Bennison; Ishaan Chaudhary; Dharitri Chaudhuri; Justin Chun Ngai Wong; Ayush Punwatkar; Pri...
+     bio_0ddf65ba9122 · bioRxiv · 2026-01-01 · 0 citations (all versions)
+     Published (2025): https://doi.org/10.1101/2025.09.25.678451
+     Matched: cat /papers/bio_0ddf65ba9122/content.lines --lines 2-3
+     │ Guanylate Binding Protein 1 (GBP1) is the forerunner of a family of seven human IFNγ-
+     │ inducible 65-75 kDa GTPases that promote antimicrobial responses and inflammasome activation
+     │ in response to intracellular pathogens (Kim et al, 2011; Kutsch & Coers, 2021; Rivera-Cuevas
+     │ et al, 2023; Shenoy et al, 2012; Tretina et al, 2019). GBP expression can be induced by IFNγ
+     │ in most cell types, reflecting their broad roles in cell-autonomous immunity (Tretina et
+     │ al., 2019). GBPs were first implicated in pyroptosis via mouse caspase-4 (also called
+     │ caspase-11) in macrophages exposed to cytosolic LPS (Finethy et al, 2017; Meunier et al,
+     │ 2014; Pilla et al, 2014). More recently, we and others have shown that …
+     "The IFNγ-induced GTPase guanylate binding protein 1 (GBP1) binds to lipopolysaccharide (LPS) on cytosolic Gram-negative bacteria and promotes pyroptosis via the recruitment and activation of caspase-4"
+
+  24. Human GBP1 binds LPS to initiate assembly of a caspase-4 activating platform on cytosolic bacteria
+     José Carlos Santos; Dave Boucher; Larisa Kapinos Schneider; Benjamin Demarco; Marisa Dilucca; Katery...
+     PMC7314798 · Nature Communications · 2020-06-24 · 287 citations
+     https://doi.org/10.1038/s41467-020-16889-z
+     Matched: GBP1 directly binds LPS · cat /papers/PMC7314798/content.lines --lines 39-40
+     │ Since GBPs showed a recruitment to cytosolic Gram-negative bacteria, OMVs or even
+     │ transfected LPS (Fig. 3, Supplementary Fig. 6c and ref. [12]), we tested if GBPs can
+     │ directly bind LPS. Similarly to caspase-4 (Fig. 1i and Supplementary Fig. 2g), biotin-LPS
+     │ was able to pull-down eGFP-GBP1 and to a lesser degree eGFP-GBP3, but not tagged GBP2 or
+     │ GBP4 (Fig. 6a) from HeLa lysates. To assess if this interaction was direct, we next purified
+     │ LPS-free recombinant His-GBP1 from CleanColi® BL21 (DE3) bacteria that produce Lipid IVA
+     │ (which does not activate caspase-4/−11) instead of LPS followed by a lipid removal
+     │ protocol[32] and tested GBP1-LPS binding by surface plasmon resonance (SPR). SPR showed …
+     "Human GBP1 binds LPS on cytosolic bacteria, initiating a platform for caspase-4 recruitment. This assembly is the first step in non-canonical inflammasome activation."
+
+  25. Guanylate-binding protein 5 licenses caspase-11 for Gasdermin-D mediated host resistance to Brucella abortus infection
+     Daiane M. Cerqueira; Marco Túlio R. Gomes; Alexandre L. N. Silva; Marcella Rungue; Natan R. G. Assis...
+     PMC6326519 · PLoS Pathogens · 2018-12-27 · 86 citations
+     https://doi.org/10.1371/journal.ppat.1007519
+     Matched: Guanylate-binding proteins (GBPs) are required for macrophage pyroptos · cat /papers/PMC6326519/content.lines --lines 30-31
+     │ Guanylate-binding proteins (GBPs) are IFN-inducible GTPases which act both in the membrane
+     │ disruption of vacuolar pathogens and facilitating intracellular LPS interaction with
+     │ caspase-11 to activate non-canonical inflammasome, mainly when LPS is within liposomal
+     │ membranes and within bacterial outer membranes [20–22]. We therefore hypothesized that GBPs
+     │ participate in the activation of the non-canonical inflammasome by B. abortus. Thus, we
+     │ asked whether GBPs are involved in pore-formation in response to B. abortus. To assess the
+     │ role of GBPs, we infected BMDMs from C57BL/6, Gbpchr3-/- (deficient for the locus on mouse
+     │ chromosome 3 encoding GBP1, GBP2, GBP3, GBP5, and GBP7), Gbp2-/- and …
+     "Guanylate-binding protein 5 (GBP5) enables caspase-11 to trigger pyroptosis via Gasdermin-D, restricting *Brucella abortus* infection. This process is crucial for host resistance and immune cell recruitment."
+
+[2.7s, saved to s_26a16ee8]
+
+💡 Extract data across these results with: map --from s_26a16ee8 "your question"
+[2.7s, saved to s_26a16ee8]  [repo: mva-lof-molecular]
+

@@ -1,0 +1,206 @@
+$ src/pc.sh map --from s_b4b9be4b --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Ptgs2 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_fb0dc56c
+
+  ✓ Downregulated PLAU alleviates acute rejection after liver transplantat
+    PMC13078257 · 1156ms
+    {
+      "answer": "yes",
+      "evidence": "Compared with unstimulated group (Blank), LPS stimulated macrophages exhibited increased M1 polarization-associated markers and decreased M2 polarization-associated markers (Figures 4A–C).",
+      "context": "Stimulation of macrophages with LPS increased PLAU and Ptgs2 expression and promoted macrophage M1-polarization."
+    }
+
+  ✓ Robust, sensitive, and quantitative single-cell proteomics based on io
+    bio_374dd4d3 · 1375ms
+    {"answer": "yes", "evidence": "Prostaglandin-endoperoxide synthase 2 (Ptgs2/Cox-2), an important precursor of prostacyclin enzyme which is expressed in macrophages exposed to LPS 32 , was also significantly increased in LPS-stimulated macrophage cells (Supplementary Figure 6c).", "context": "RAW 264.7 cells were maintained in DMEM supplemented with 10% FBS followed to be stimulated with 100 ng/ul of LPS (Sigma Aldrich) in serum-free DMEM (Thermo Fisher scientific) for 24 hr or 48 hr."}
+
+  ✓ Integrating Network Pharmacology And Experimental Verification To Expl
+    bio_bc954660 · 1376ms
+    {
+      "answer": "yes",
+      "evidence": "Treatment with QP (1mg/ml) also attenuated the increased expression of PTGS2, which is induced by LPS stimulus.",
+      "context": "The RAW264.7 cells were treated with LPS (100ng/ml) in the presence or absence of QP for 12h, and the concentrations of protein level for CAT, PPAR4, and PTGS2 were detected by Western-blot assay."
+    }
+
+  ✓ Bacterial lipopolysaccharides prime macrophages for enhanced release o
+    PMC2188197 · 1320ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Curcumin alleviates LPS-induced WI-38 cell inflammation injury by regu
+    PMC12083002 · 1295ms
+    {
+      "answer": "yes",
+      "evidence": "L62: As shown in Fig. 3A, LPS promoted the expression of PTGS2, while the action was weakened by CUR in a dose-dependent manner.",
+      "context": "L63: Fig. 3: PTGS2 is a potential target of CUR. A The expression of PTGS2 was detected when WI-38 cells were treated with the LPS or combined with different concentrations of CUR."
+    }
+
+  ✓ Dynamic changes in macrophage populations and resulting alterations in
+    PMC12083000 · 1574ms
+    {"answer": "yes", "evidence": "LPS significantly induced the mRNA and protein expression of the PGE2-synthesizing enzymes COX-2 (Fig. 5A, B) and mPGES1 (Supplementary figure S4) in macrophage populations from wildtype control mice.", "context": "Primary Kupffer cells (KC), peritoneal macrophages (PM) and bone marrow-derived macrophages (BMDM) were stimulated for 24 h with LPS."}
+
+  ✓ Lipopolysaccharide-Induced Expression of Microsomal Prostaglandin E Sy
+    PMC3511480 · 1334ms
+    {
+      "answer": "yes",
+      "evidence": "L39: Among the tested proteins, LPS significantly increased the protein expression of iNOS, COX-2, mPGES-1 and PU.1 in BMDM (Figures 1A, 2A–2D).",
+      "context": "L40: Figure 1: LPS induces increased expression of iNOS/COX-2/mPGES-1/PU.1 in BMDM. Primary cultured mouse BMDM was treated with or without 1 µg/ml LPS for various time points from 2 to 24 hrs."
+    }
+
+  ✓ Macrophage responses to lipopolysaccharide are modulated by a feedback
+    PMC5489520 · 1143ms
+    {
+      "answer": "yes",
+      "evidence": "L17: (c) Zfp36+/+ and Zfp36aa/aa BMMs were stimulated with 10 ng/ml LPS for the times indicated, and Ptgs2 mRNA was measured by qPCR.",
+      "context": "L16: Zfp36+/+ and Zfp36aa/aa bone marrow macrophages (BMMs) under-expressed Ptgs2 mRNA at a steady-state level (Fig. 1c), particularly at later time points."
+    }
+
+  ✓ PTGS2 Silencing Inhibits Ferroptosis in Staphylococcus Aureus-induced 
+    PMC12722496 · 1108ms
+    {
+      "answer": "yes",
+      "evidence": "Western blot analysis showed that LPS stimulation increased PTGS2 protein expression compared to the control group.",
+      "context": "Additionally, PTGS2 protein levels were significantly reduced in the LPS + si-PTGS2 group compared to the LPS + si-NC group."
+    }
+
+  ✓ Lapatinib Suppressed the Expression of Proinflammatory Cytokines and A
+    bio_523ca841 · 1969ms
+    {
+      "answer": "yes",
+      "evidence": "As shown in Fig.4A and 4C, LPS stimulation of RAW 264.7 cells caused a 6800-fold increase in PTGS2 mRNA and a 4-fold increase in PTGES mRNA.",
+      "context": "RAW264.7 cells were treated with lapatinib/vehicle and then stimulated with LPS at 10ng/ml for 12 h."
+    }
+
+  ✓ The Bradykinin System Contributes to the Regulation of Prostaglandin-E
+    PMC9130483 · 1801ms
+    {
+      "answer": "yes",
+      "evidence": "Pretreatment of amnion fibroblasts with LPS (50 ng/ml) or SAA1 (50 ng/ml) for 24 h significantly enhanced the subsequent induction of PTGS2 mRNA ( Figures 8A–E ) and protein expression ( Figures 8F–I ) and PGE2 production ( Figures 8J–M ) by BK (0.1 μM, 4 h) or DABK (0.1 μM, 4 h).",
+      "context": "Activation of TLR4 by LPS induces the expression of critical proinflammatory factors including cytokines, PTGS2, and SAA1 in the fetal membranes (25, 35)."
+    }
+
+  ✓ Nicotinic acetylcholine receptor-mediated effects of varenicline on LP
+    PMC11163068 · 1655ms
+    {
+      "answer": "yes",
+      "evidence": "COX-2 and PG levels were LPS increased by LPS in a concentration-dependent manner (p < 0.001, n = 6) comparable to that of control and the 1 \u0393\u0384\u0399g/mL LPS group (Figure 1).",
+      "context": "RAW 264.7 cells were exposed to increasing concentrations of LPS (1\u20132 and 3 \u0393\u0384\u0399g/mL) for 24 h before analyzing COX and PG levels to determine the effective concentration of LPS to be used."
+    }
+
+  ✓ Motif prediction to distinguish LPS-stimulated pro-inflammatory vs. an
+    PMC2949756 · 1234ms
+    {
+      "answer": "yes",
+      "evidence": "A significant number of these genes have been implicated in the inflammatory response including Irf1, Irf2, Ifnb1, Tlr3, Stat1, Stat3, and Nfkb1 with a number of them regulated in LPS-stimulated macrophage activation [8].",
+      "context": "To check for the expression patterns of these identified target genes within our data set, we filtered the microarray data by looking for two-fold induction in the N+L set compared to the N samples plus two-fold repression in the T+L samples compared to the N+L set."
+    }
+
+  ✓ Phagocytosis is differentially regulated by LPS in M1- and M2-like mac
+    bio_bcc56174 · 1295ms
+    {
+      "answer": "yes",
+      "evidence": "LPS stimulation led to elevated PTGS2 expression in both macrophage types, leading to a 1.6-fold higher COX-2 abundance in the M1-like type ( Fig. 3A ).",
+      "context": "(A) Macrophages were analyzed for ARA enzyme abundance by quantitative proteomics and (B) free oxylipins by quantitative metabolomics with (w) and without (w/o) additional LPS (0.1 µg/mL) treatment for 6 h."
+    }
+
+  ✓ Prostaglandin E2 affects differently the release of inflammatory media
+    PMC1781814 · 1122ms
+    {
+      "answer": "yes",
+      "evidence": "COX-2 mRNA increases rapidly to similar levels after the addition of LPS and MTP-PE (Fig. 3C).",
+      "context": "L6: Research Article"
+    }
+
+  ✓ Lipocalin-Like Prostaglandin D Synthase but Not Hemopoietic Prostaglan
+    PMC6226547 · 961ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Pheophytin a Inhibits Inflammation via Suppression of LPS-Induced Nitr
+    PMC4284740 · 1090ms
+    {
+      "answer": "yes",
+      "evidence": "We further observed that both the protein and mRNA levels of COX-2 were also suppressed by Pheophytin a in a dose-dependent manner (Figure 3A,B).",
+      "context": "RAW 264.7 cells were treated with the indicated concentrations of pheophytin a for 30 min followed by LPS (100 ng/mL) for 6 h. Western blot analysis of COX-2 expression."
+    }
+
+  ✓ Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(
+    PMC7053374 · 738ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Suppression of Heme Oxygenase-1 by Prostaglandin E2-Protein Kinase A-A
+    PMC3756181 · 1109ms
+    {
+      "answer": "yes",
+      "evidence": "L38: Indomethacin significantly reduced the LPS-induced expression of COX-2 protein (Fig. 1A), implicating that an endogenous prostanoid potentiates COX-2 expression.",
+      "context": "L17: Lipopolysaccharide (LPS), the main cell wall component of Gram-negative bacteria, activates inflammatory responses through toll-like receptor 4 (TLR4), and LPS-activated macrophages show a high expression of COX-2."
+    }
+
+  ✓ 15-F2t-Isoprostane Favors an Anti-Inflammatory Phenotype in RAW 264.7 
+    PMC8945100 · 944ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Lipopolysaccharide-Induced Nitric Oxide and Prostaglandin E2 Productio
+    PMC8146495 · 1049ms
+    {
+      "answer": "yes",
+      "evidence": "Specifically, pre- or post-treatment with TGII did not attenuate LPS-induced COX-2 gene expression, but decreased COX-2 protein in a dose-dependent manner.",
+      "context": "The COX-2 mRNA (A), COX-2 protein (B) and PGE2 production (C) were quantified after 3 h, 6 h, and 12 h of LPS (100 ng/mL) stimulation, respectively."
+    }
+
+  ✓ Cyclooxygenase-2 and its regulation in inflammation
+    PMC2365800 · 1292ms
+    {
+      "answer": "yes",
+      "evidence": "In an endothelium-derived cell line (ECV304) with IL-1 as the inducing agent, COX-2 mRNA had a half-life of about 1 h.",
+      "context": ""
+    }
+
+  ✓ Differential expression of E-type prostanoid receptors 2 and 4 in micr
+    PMC5234110 · 1440ms
+    {
+      "answer": "yes",
+      "evidence": "L68: The PGE2 concentration in the culture medium of astrocytes increased from basal levels of 0.9 ± 0.3 nM to 4.8 ± 3.1 nM (mean ± SD, in 11 independent experiments) 8 hours after LPS exposure, as assessed by ELISA assays.",
+      "context": "L67: COX-2 mediates the production of PGE2 in glial cells exposed to LPS"
+    }
+
+  ✓ Integrated Analysis of COX-2 and iNOS Derived Inflammatory Mediators i
+    PMC3592834 · 936ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ 2-Carba cyclic phosphatidic acid inhibits lipopolysaccharide-induced p
+    PMC6651843 · 1079ms
+    {
+      "answer": "yes",
+      "evidence": "L63: \"The fold changes in the mRNA expression of TNF-\\u03b1 and Cox-2, PEG2 synthesizing enzyme, were remarkable (Fig. 2B).\"",
+      "context": "L64: \"Fig. 2: Variation in cytokine and Cox-2 mRNA expression after LPS stimulation in differentiated THP-1 cells. To measure mRNA expression, differentiated THP-1 cells were cultured with LPS (1 \\u03bcg/mL) for the time indicated.\""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[23.6s, saved to m_fb0dc56c]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  1/25 papers  run m_fb0dc56c  [2s]
+  [#######.............]  9/25 papers  run m_fb0dc56c  [4s]
+  [#############.......]  17/25 papers  run m_fb0dc56c  [6s]
+  [###############.....]  19/25 papers  run m_fb0dc56c  [8s]
+  [##################..]  23/25 papers  run m_fb0dc56c (1 failed)  [10s]
+  [####################]  25/25 papers  run m_fb0dc56c (1 failed)  [12s]
+  [####################]  25/25 papers  run m_fb0dc56c (1 failed)  [21s]
+  [####################]  25/25 papers  run m_fb0dc56c (1 failed)  [23s]
+

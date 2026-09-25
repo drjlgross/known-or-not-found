@@ -1,0 +1,8 @@
+$ src/pc.sh results m_1cb1f497 --save /Users/julia/known-or-not-found/results/search/Socs3/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/Socs3/map_answers.txt
+
+$ src/pc.sh results m_1cb1f497 --save /Users/julia/known-or-not-found/results/search/Socs3/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/Socs3/map_answers.txt
+

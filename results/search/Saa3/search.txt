@@ -1,0 +1,308 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Saa3 (serum amyloid A 3) LPS macrophage
+# exit 0
+Found 25 papers  [s_2b1ee5d5]
+
+  1. Regulation of Serum Amyloid A3 (SAA3) in Mouse Colonic Epithelium and Adipose Tissue by the Intestinal Microbiota
+     Christopher S. Reigstad; Gunnel Östergren Lundén; Jenny Felin; Fredrik Bäckhed
+     PMC2688757 · PLoS ONE · 2009-06-09 · 122 citations
+     https://doi.org/10.1371/journal.pone.0005842
+     Matched: LPS Induces SAA3 and TNF-α Expression in Colonic Epithelial Cells and  · cat /papers/PMC2688757/content.lines --lines 34-37
+     │ LPS is an abundant proinflammatory microbial product in the intestinal lumen of mice and
+     │ humans [33]. To test the relative expression of SAA3 mRNA in both colonic epithelial cells
+     │ and macrophages stimulated with LPS, we treated the CMT-93 colonic epithelial cell line and
+     │ RAW 264.7 mouse macrophages with increasing concentrations of purified E. coli LPS (Figure
+     │ 6A). In the CMT-93 cells, LPS induced a concentration-dependent increase in SAA3 mRNA
+     │ levels, with a 27-fold increase observed at 1 µg/ml. LPS (1 µg/ml) also induced binding of
+     │ nuclear proteins in these epithelial cells to NF-κB binding sites (Figure S3). Accordingly,
+     │ LPS treatment increased SAA3 mRNA levels in RAW 264.7 macrophages, …
+     "Intestinal microbes significantly increase SAA3 expression in mouse colonic and adipose tissues. This upregulation, particularly in the colon, is partly mediated by the TLR/MyD88/NF-kappaB pathway in response to bacterial LPS."
+
+  2. Serum Amyloid A3 is required for normal lung development and survival following influenza infection
+     Jennifer L. Ather; Oliver Dienz; Jonathan E. Boyson; Vikas Anathy; Eyal Amiel; Matthew E. Poynter
+     PMC6224415 · PMC · 2018-11-08 · 25 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6224415/
+     Matched: The response to low-dose intranasal LPS is exacerbated in the absence  · cat /papers/PMC6224415/content.lines --lines 24-25
+     │ It has been documented by our group and others[9],[29],[30] that SAA3 is strongly induced in
+     │ the lung in response to LPS inhalation, although the exact function of increased SAA3 in the
+     │ LPS response is unknown. Wild type and SAA3−/− mice were administered a single intranasal
+     │ instillation of a low dose of LPS (100 ng) in sterile saline and analyzed 24 hours later.
+     │ This dose of LPS is frequently used to promote allergic sensitization to innocuous inhaled
+     │ antigens and although not itself robustly inflammatory is reminiscent of the concentrations
+     │ of LPS present in the homes of atopic children. SAA3−/− mice demonstrated increased cell
+     │ recruitment into the lavageable airspaces, including …
+     "SAA3 knockout mice were studied to understand its role in lung development and immune responses. SAA3 deficiency impairs lung development, leads to obesity, and reduces protection against influenza infection."
+
+  3. Differential expression of serum amyloid A1 and A3 in bovine epithelia
+     Eriko MURATA; Satoi KOZAKI; Tomoaki MURAKAMI; Kaori SHIMIZU; Ayaka OKADA; Naotaka ISHIGURO; Yasuo IN...
+     PMC7324830 · PMC · 2020-05-01 · 10 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7324830/
+     Matched: mRNA expression of SAA1 and SAA3 in BIE and MAC-T cells is stimulated  · cat /papers/PMC7324830/content.lines --lines 51-52
+     │ SAA3 mRNA expression in BIE cells was enhanced to a greater extent than that of SAA1 by
+     │ higher concentrations of LPS (10 and 100 µg/ml; Fig. 2A). In MAC-T cells, SAA3 mRNA
+     │ expression was enhanced by LPS, with smaller increases at higher LPS concentrations (Fig.
+     │ 2B). In contrast, SAA1 mRNA expression was not enhanced by LPS (Fig. 2B). Fig. 2.:
+     │ Comparison of serum amyloid A1 and A3 mRNA expression in bovine small intestinal and mammary
+     │ epithelial cells, induced by lipopolysaccharide. (A) Bovine small intestinal epithelial
+     │ (BIE) cells and (B) mammary epithelial MAC-T cells were incubated with lipopolysaccharide
+     │ (LPS) (0–100 µg/ml) for 2 hr at 37°C. Relative expression levels of serum amyloid …
+     "This study investigated the expression of SAA1 and SAA3 in bovine epithelia. SAA3, but not SAA1, is upregulated by LPS and expressed in various bovine epithelial tissues, suggesting an immune role."
+
+  4. Serum Amyloid A3 Gene Expression in Adipocytes is an Indicator of the Interaction with Macrophages
+     Yohei Sanada; Takafumi Yamamoto; Rika Satake; Akiko Yamashita; Sumire Kanai; Norihisa Kato; Fons AJ ...
+     PMC5144138 · PMC · 2016-12-08 · 38 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5144138/
+     Matched: Saa3 promoter activity is up-regulated in the presence of activated ma · cat /papers/PMC5144138/content.lines --lines 17-18
+     │ The levels of Saa3 mRNA in 3T3-L1 adipocytes were strikingly up-regulated upon co-culture
+     │ with activated macrophages (Fig. 3A). The expression of Saa3 mRNA in adipocytes was not
+     │ affected by the presence of unstimulated macrophages or of LPS alone. Moreover, when
+     │ differentiated 3T3-L1 adipocytes were treated with conditioned medium of macrophages
+     │ activated by LPS (MacCM), Saa3 mRNA expression level was significantly increased (Fig. 3B).
+     │ Previous reports have shown that TNF-α secreted by activated macrophages is involved in the
+     │ inflammatory response in obese adipose tissue, which is linked to obesity-related metabolic
+     │ disorders including insulin resistance[11], [17]. We showed here that …
+     "The study investigated how macrophage interaction affects adipocyte gene expression, identifying Saa3 as a key factor. Saa3 gene expression in adipocytes indicates the presence of infiltrating macrophages in obese adipose tissue."
+
+  5. Lipopolysaccharide and lipoteichoic acid enhance serum amyloid A3 mRNA expression in murine alveolar epithelial cells
+     Ami IWATA; Kaori SHIMIZU; Haruka KAWASAKI; Ayaka OKADA; Yasuo INOSHIMA
+     PMC6863727 · The Journal of Veterinary Medical Science · 2019-08-06 · 3 citations
+     https://doi.org/10.1292/jvms.19-0154
+     Matched: cat /papers/PMC6863727/content.lines --lines 11-12
+     │ Serum amyloid A (SAA) is a precursor protein of amyloid A (AA). SAA production is increased
+     │ in AA amyloidosis in various animal species and in chronic inflammatory disorders, such as
+     │ rheumatoid arthritis and juvenile inflammatory arthritis, in humans [11]. SAA is a major
+     │ acute-phase protein and serves as a diagnostic marker of inflammation in animals and humans
+     │ [3]. In mice, four SAA isoforms (SAA1–4) have been identified [16]. SAA1 and SAA2 are
+     │ predominantly produced in the liver and are the main circulating isoforms in plasma [16].
+     │ During inflammation, the plasma concentration of SAAs, mainly SAA1, dramatically increases
+     │ up to 1,000-fold and SAA1 is converted to AA fibrils [11, 16]. In …
+     "Murine alveolar epithelial cells were exposed to LPS and LTA to study SAA mRNA expression. Both LPS and LTA enhanced SAA3 mRNA expression, with LPS being more potent."
+
+  6. Detection of a mediator derived from endotoxin-stimulated macrohpages that induces the acute phase serum amyloid A response in mice
+     PMC2185651 · PMC · 1979-09-19 · 141 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2185651/
+     Matched: cat /papers/PMC2185651/content.lines --lines 5
+     │ DETECTION OF A MEDIATOR DERIVED FROM ENDOTOXIN-STIMULATED MACROPHAGES THAT INDUCES THE ACUTE
+     │ PHASE SERUM AMYLOID A RESPONSE IN MICE By J. D. SIPE, S. N. VOGEL, J. L. RYAN, K. P. W. J.
+     │ McADAM, ANDD. L. ROSENSTREICH From the Laboratoryof ExperimentalPathology, National
+     │ Institute of Arthritis, Metabolism, and Digestive Diseases, and the Laboratoryof
+     │ Microbiologyand Immunology, National Institute of Dental Research, National Institutes of
+     │ Health, Bethesda,Maryland 20205; and the Departmentof Medicine, Tufts University Schoolof
+     │ Medicine, Boston,Massachusetts 02111 Amyloid A fibrils accumulate in human tissues during
+     │ amyloidosis secondary to diseases characterized by recurrent inflammation, and …
+     "A mediator from LPS-stimulated macrophages was detected that induces the acute phase serum amyloid A (SAA) response in mice. This mediator appears before SAA synthesis, suggesting macrophages initiate the SAA response to LPS."
+
+  7. Early immune responses to systemic inflammation in the postnatal mouse brain initiated by migrating macrophages and leptomeningeal fibroblasts
+     Rei Settsu; Aki Obara; Takehiko Tarui; Sanae Hasegawa-Ishii; Atsuyoshi Shimada
+     PMC12514789 · PMC · 2025-10-11 · 3 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12514789/
+     Matched: Well-constructed blood-brain barrier functionality after intraperitone · cat /papers/PMC12514789/content.lines --lines 116
+     "Systemic inflammation in postnatal mice was initiated by leptomeningeal macrophages and fibroblasts. These cells triggered an increase in brain macrophages/microglia and upregulated inflammatory gene expression, priming the brain for further inflammation."
+
+  8. The Inflammatory Role of Serum Amyloid A in the Pathogenesis and Progression of Diabetic Nephropathy
+     Antigoni Stavrou; Christina A. Kousparou; Argyrios Tsakalis
+     PMC12693104 · PMC · 2025-11-27 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12693104/
+     Matched: 3. Serum Amyloid A · cat /papers/PMC12693104/content.lines --lines 33-35
+     │ SAA1 and SAA2 are predominantly synthesized by hepatocytes in response to pro-inflammatory
+     │ cytokines such as IL-1β, IL-6, and TNF-α, representing the major acute-phase reactants in
+     │ systemic inflammation, but also by macrophages and endothelial and smooth muscle cells. When
+     │ a high concentration of SAA1 persists for a prolonged period, SAA aggregates into amyloid
+     │ fibrils, that undergo a process of cleavage, misfolding and aggregation. These isoforms
+     │ circulate bound to high-density lipoprotein (HDL) and modulate lipid transport, cholesterol
+     │ efflux, and immune cell chemotaxis. SAA3, in contrast, is primarily expressed in
+     │ extrahepatic tissues, including adipose tissue, macrophages, renal tubular …
+     "This paper examines the inflammatory role of Serum Amyloid A (SAA) in diabetic nephropathy (DN). SAA acts as both a biomarker and a mediator of renal inflammation, contributing to DN progression and offering potential therapeutic targets."
+
+  9. Serum Amyloid A3 Expression Is Enhanced by Gram-Negative Bacterial Stimuli in Bovine Endometrial Epithelial Cells
+     Kazuha Aoyagi; Keishi Owaki; Hiroki Sakai; Ayaka Okada; Yasuo Inoshima
+     PMC12389636 · PMC · 2025-07-23 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12389636/
+     Matched: 3.2. Protein Expressions of SAA1 and SAA3 in BEnEpCs Treated with LPS  · cat /papers/PMC12389636/content.lines --lines 43-44
+     │ According to ICC results, BEnEpCs were minimally stained with an anti-SAA1 monoclonal
+     │ antibody, regardless of LPS treatment, whereas LPS-treated MDBK cells were strongly stained
+     │ (Figure 2). In contrast, BEnEpCs were strongly stained with the anti-SAA3 monoclonal
+     │ antibody at 1 and 100 µg/mL LPS treatment (Figure 2). BEnEpCs were minimally stained with
+     │ the anti-SAA1 monoclonal antibody, regardless of LTA treatment (Figure 3). In contrast,
+     │ BEnEpCs were strongly stained with anti-SAA3 monoclonal antibody at 1 µg/mL LTA treatment
+     │ and weakly stained at a higher concentration (100 µg/mL). The dose-dependent expressions of
+     │ SAA1 and SAA3 proteins in BEnEpCs were consistent with their mRNA expression …
+     "Bovine endometrial cells were stimulated with bacterial components to study SAA3 expression. Gram-negative bacterial stimuli significantly increased SAA3 mRNA and protein expression in these cells."
+
+  10. Induction of Serum Amyloid A3 in Mouse Mammary Epithelial Cells Stimulated with Lipopolysaccharide and Lipoteichoic Acid
+     Sato Kamiya; Kaori Shimizu; Ayaka Okada; Yasuo Inoshima
+     PMC8230092 · PMC · 2021-05-25 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8230092/
+     Matched: 3.2. SAA1 and SAA3 Protein Expression Levels · cat /papers/PMC8230092/content.lines --lines 37
+     │ In IFA, after a 4 h stimulation, there was no significant increase in the fluorescence
+     │ associated with SAA1 or SAA3 (Figure 3). The SAA1 fluorescence intensity signal did not
+     │ change significantly at any other time point of the experiment with LPS stimulation (8 h and
+     │ 12 h; Figure 3A,B). However, the fluorescence intensity of the SAA3 protein increased
+     │ significantly ~1.4- and 1.6-fold after LPS stimulation for 8 and 12 h, respectively (Figure
+     │ 3C,D). Furthermore, after 12 h stimulation with LTA, the fluorescence intensity of the SAA3
+     │ signal also significantly increased 1.2-fold (Figure 3D). In the WB experiments, no
+     │ expression of the SAA1 protein was observed after stimulations with LPS or …
+     "Mouse mammary epithelial cells were stimulated with bacterial antigens LPS and LTA. SAA3 expression was significantly enhanced, suggesting its role in mammary gland defense against bacterial infection."
+
+  11. Up-Regulation of MUC2 Mucin Expression by Serum Amyloid A3 Protein in Mouse Colonic Epithelial Cells
+     Hiroaki SHIGEMURA; Naotaka ISHIGURO; Yasuo INOSHIMA
+     PMC4143660 · PMC · 2014-04-01 · 25 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4143660/
+     Matched: cat /papers/PMC4143660/content.lines --lines 8-10
+     "This study investigated the role of SAA3 in mouse colonic epithelial cells. SAA3 up-regulates MUC2 mucin expression, contributing to innate immunity by strengthening the epithelial barrier."
+
+  12. Serum amyloid A3 is required for normal weight and immunometabolic function in mice
+     Jennifer L. Ather; Matthew E. Poynter
+     PMC5794179 · PMC · 2018-02-01 · 36 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5794179/
+     Matched: Lack of SAA3 exacerbates the dendritic cell response to LPS and leads  · cat /papers/PMC5794179/content.lines --lines 39-40
+     │ We next analyzed bone marrow progenitors that were differentiated in vitro into myeloid
+     │ dendritic cells (BMDC), a cell type modeling those in vivo that participate in innate immune
+     │ responses and that function as antigen presenting cells to initiate adaptive immune
+     │ responses [27]. The BMDC were challenged with increasing doses of LPS, a component of gram-
+     │ negative bacterium, and cytokines from cell-free supernatants were measured at 4 and 24
+     │ hours. At 4 hours, BMDC from SAA3-/- mice produced significantly increased levels of IL-1β,
+     │ IL-6, IL-23, and TNFα in response to 10 or 100 ng/ml LPS compared to BMDC from wild-type
+     │ mice (Fig 4A, top row). Increased secretion of IL-6, IL-23, and TNFα …
+     "Serum amyloid A3 knockout mice were studied to assess its role in immunity and metabolism. The absence of SAA3 leads to obesity, metabolic dysfunction, and altered immune cell function in mice."
+
+  13. Expression of the third member of the serum amyloid A gene family in mouse adipocytes
+     PMC2189298 · PMC · 1989-05-01 · 59 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2189298/
+     Matched: cat /papers/PMC2189298/content.lines --lines 5
+     │ EXPRESSION OF THE THIRD MEMBER OF THE SERUM AMYLOID A GENE FAMILY IN MOUSE ADIPOCYTES BY
+     │ EARL P BENDITT AND RICK L. MEEK From the Department of Pathology, University of Washington,
+     │ Seattle, Washington 98195 Serum amyloid A (SAA) is a family ofproteins found circulating
+     │ mainly associated with high density lipoproteins (HDL) (1-4). They behave as acute phase
+     │ reactants. Only trace amounts are found normally but, in response to inflammatory condi-
+     │ tions or injury, the levels are elevated several hundred fold (1, 5-7). The dramatic
+     │ elevation of SAA levels under these conditions suggests an important functional role for
+     │ SAA. In the mouse, SAA is encoded by a family of three active genes (8, 9) …
+     "SAA3 mRNA expression was studied in mouse tissues using in situ hybridization. The study found SAA3 mRNA is commonly expressed in adipocytes, as well as in Leydig cells and some spleen cells."
+
+  14. Serum amyloid A–containing HDL binds adipocyte-derived versican and macrophage-derived biglycan, reducing its antiinflammatory properties
+     Chang Yeop Han; Inkyung Kang; Mohamed Omer; Shari Wang; Tomasz Wietecha; Thomas N. Wight; Alan Chait
+     PMC7605543 · PMC · 2020-09-24 · 13 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7605543/
+     Matched: Discussion · cat /papers/PMC7605543/content.lines --lines 34-36
+     │ Some investigators have reported that normal HDL has proinflammatory effects in macrophages
+     │ after incubation of cells with high doses of HDL for 24 hours in the presence of LPS (24,
+     │ 29). However, we did not observe a proinflammatory effect of control HDL in macrophages,
+     │ likely due to difference in the concentration and/or duration of HDL exposure, in addition
+     │ to the absence of LPS in our assay. Conversely, we clearly demonstrate antiinflammatory
+     │ effects of control HDL on palmitate-induced chemokine and cytokine gene expression in
+     │ macrophages, similar to our previous report in adipocytes (15, 16). The major inducible
+     │ forms of SAA present in HDL are SAA1.1 and SAA2.1 in mice and SAA2 and SAA1 …
+     "Serum amyloid A (SAA)-containing HDL binds adipocyte-derived versican and macrophage-derived biglycan. This binding reduces HDL's anti-inflammatory properties by trapping SAA at the cell surface."
+
+  15. Expression of SAA1, SAA2 and SAA4 genes in human primary monocytes and monocyte-derived macrophages
+     Claire Jumeau; Fawaz Awad; Eman Assrawi; Laetitia Cobret; Philippe Duquesnoy; Irina Giurgea; Dominiq...
+     PMC6524798 · PMC · 2019-05-17 · 64 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6524798/
+     Matched: Abstract · cat /papers/PMC6524798/content.lines --lines 1-9
+     "Human monocytes and macrophages were studied for their expression of SAA genes. These cells can express SAA genes, particularly SAA1, in response to inflammatory stimuli, though mRNA and protein levels show discrepancies."
+
+  16. Structure and Expression of Different Serum Amyloid A (SAA) Variants and their Concentration-Dependent Functions During Host Insults
+     Mieke De Buck; Mieke Gouwy; Ji Ming Wang; Jacques Van Snick; Ghislain Opdenakker; Sofie Struyf; Jo V...
+     PMC5405626 · PMC · 2016 · 225 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5405626/
+     Matched: Pro-and Anti-Inflammatory Properties of SAA · cat /papers/PMC5405626/content.lines --lines 52-53
+     "This paper reviews the structure, expression, and concentration-dependent functions of Serum Amyloid A (SAA) variants. SAA acts as a regulator of immunity, with different roles at low and high concentrations during host insults."
+
+  17. Serum amyloid a production in chicken embryonic synovial fibroblasts induced by lipopolysaccharide, interleukin-1β, and vitamin A
+     Belma Dayı; Alper Sevimli; Ahmet Akkoç; Ayşe Meriç Mutlu; Nurhan Doğan
+     PMC12221637 · PMC · 2025-06-02 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12221637/
+     Matched: Discussion · cat /papers/PMC12221637/content.lines --lines 87-88
+     "Chicken embryonic synovial fibroblasts were treated with LPS, IL-1β, and vitamin A to study serum amyloid A production. LPS significantly increased SAA mRNA expression, suggesting its role in amyloid arthropathy."
+
+  18. Amyloid A gene family expression in different mouse tissues
+     PMC2188489 · PMC · 1986-12-01 · 184 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2188489/
+     Matched: Abstract · cat /papers/PMC2188489/content.lines --lines 1-3
+     "The study examined expression of amyloid A gene family mRNAs in mouse tissues after stimulation. Liver SAA mRNA significantly increased with both casein and LPS, with the adrenal gland being the only extrahepatic tissue to respond to casein."
+
+  19. Deletion of Serum Amyloid A3 Improves High Fat High Sucrose Diet-Induced Adipose Tissue Inflammation and Hyperlipidemia in Female Mice
+     Laura J. den Hartigh; Shari Wang; Leela Goodspeed; Yilei Ding; Michelle Averill; Savitha Subramanian...
+     PMC4177399 · PMC · 2014-09-24 · 70 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4177399/
+     Matched: Visceral adipose tissue macrophage content is attenuated in female Saa · cat /papers/PMC4177399/content.lines --lines 56-57
+     │ The macrophage content of white adipose tissue is thought to contribute to the pro-
+     │ inflammatory state associated with obesity [40]. We and others have shown that SAA3 is
+     │ chemotactic for macrophages [41]. We therefore examined macrophage accumulation within white
+     │ adipose tissue in Saa3 −/− mice by quantitative real-time PCR for the general macrophage
+     │ markers Mac2 and Emr1 and immunostaining for Mac2. As shown in Figure 4A–D, expression of
+     │ macrophage markers Mac2 and Emr1 is significantly decreased in whole gWAT from female Saa3
+     │ −/− mice, but not from male Saa3 −/− mice when compared to Saa3 +/+ controls. This is
+     │ corroborated by decreased Mac2 protein immunostaining in gWAT (Figure 4E–G). …
+     "Deletion of Serum Amyloid A3 was studied in female mice fed a high-fat, high-sucrose diet. Its absence reduced adipose tissue inflammation and improved hyperlipidemia."
+
+  20. Serum amyloid A proteins reduce bone mass during mycobacterial infections
+     Ana Cordeiro Gomes; Daniela Monteiro Sousa; Tiago Carvalho Oliveira; Óscar Fonseca; Ricardo J. Pinto...
+     PMC10161249 · PMC · 2023-04-21 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10161249/
+     Matched: SAA3 levels increase both locally and systemically during mycobacteria · cat /papers/PMC10161249/content.lines --lines 91-92
+     │ In the search for factors other than TNFα involved in increased osteogenesis, we noted that
+     │ the most differentially upregulated gene in the bones of M. avium-infected mice was Saa3
+     │ (Figure 4A). This gene codes for the Serum Amyloid A (SAA)3 protein, which has been recently
+     │ implicated in bone homeostasis (32–35), namely by enhancing osteoclastogenesis (34).
+     │ Quantitative real-time PCR analysis confirmed that the expression of Saa3 is upregulated in
+     │ the bone during M. avium infection (Figure 4B). Moreover, the expression of Saa3 in the bone
+     │ was dependent on the production of both IFNγ and TNFα, as mice deficient in either of these
+     │ cytokines do not upregulate Saa3 expression in the bone during …
+     "Mycobacterial infections were studied to understand bone loss. Serum amyloid A proteins were found to reduce bone mass by impairing formation and increasing resorption."
+
+  21. Intestinal Epithelial Serum Amyloid A Modulates Bacterial Growth In Vitro and Pro-Inflammatory Responses in Mouse Experimental Colitis
+     Erik RM Eckhardt; Jassir Witta; Jian Zhong; Razvan Arsenescu; Violeta Arsenescu; Yu Wang; Sarbani Gh...
+     PMC2992040 · PMC · 2010-11-10 · 99 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2992040/
+     Matched: Expression of acute-phase SAA in mouse intestinal epithelium · cat /papers/PMC2992040/content.lines --lines 46-47
+     │ To confirm intestinal expression of SAA, RNA was extracted from intestinal segments, and
+     │ cDNA was analyzed by PCR with primers recognizing a common fragment of mRNA encoded by Saa1
+     │ and 2. As shown in Figure 3A, strong signal was detected in the colon, with weaker signals
+     │ in the ileum. This finding could suggest a link between bacterial load and SAA expression.
+     │ To test this possibility, intestinal tissue was obtained from germfree mice and analyzed for
+     │ expression of SAA1/2. Surprisingly, whereas expression was nearly absent from the ileum,
+     │ significant message was still detectable in the colons of germfree mice, suggesting that
+     │ colonic expression is constitutive and may be independent of the …
+     "Intestinal epithelial SAA was studied for its role in bacterial growth and colitis. Intestinal SAA reduces bacterial growth in vitro and may protect against experimental colitis, with altered expression seen in Crohn's disease."
+
+  22. Podoplanin-positive cell-derived small extracellular vesicles contribute to cardiac amyloidosis after myocardial infarction
+     Maria Cimini; Ulrich H.E. Hansmann; Carolina Gonzalez; Andrew D. Chesney; May M. Truongcao; Erhe Gao...
+     PMC12019684 · PMC · 2025-03-07 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12019684/
+     Matched: sEV-SAA3 and TLR2 are necessary to trigger SAA3 overproduction in macr · cat /papers/PMC12019684/content.lines --lines 27
+     "Cardiac stromal cell-derived extracellular vesicles contribute to amyloidosis after myocardial infarction by delivering SAA3. This SAA3 aggregation impairs heart function, but a D-peptide inhibitor prevents it and improves cardiac function."
+
+  23. Expression and Differential Responsiveness of Central Nervous System Glial Cell Populations to the Acute Phase Protein Serum Amyloid A
+     Massimo Barbierato; Mila Borri; Laura Facci; Morena Zusso; Stephen D. Skaper; Pietro Giusti
+     PMC5610307 · PMC · 2017-09-22 · 36 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5610307/
+     Matched: TNF-α and LPS differentially up-regulate Saa gene expression in cultur · cat /papers/PMC5610307/content.lines --lines 14-16
+     "This study investigated glial cell responses to inflammation and SAA. Microglia and astrocytes express SAA mRNA under inflammatory conditions, and SAA can further stimulate inflammatory responses."
+
+  24. Murine model for human secondary amyloidosis: genetic variability of the acute-phase serum protein SAA response to endotoxins and casein
+     PMC2190436 · PMC · 1976-10-01 · 198 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2190436/
+     Matched: Abstract · cat /papers/PMC2190436/content.lines --lines 1-3
+     "This study investigated the SAA protein response to amyloid-inducing agents in various mouse strains. The findings suggest amyloid resistance is linked to SAA processing, not production, and that SAA is an acute-phase protein stimulated by B-lymphocytes."
+
+  25. Suppression of LPS-induced tau hyperphosphorylation by serum amyloid A
+     Jin Liu; Ding Wang; Shu-Qin Li; Yang Yu; Richard D. Ye
+     PMC4736117 · PMC · 2016-02-02 · 50 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4736117/
+     Matched: Transgenic expression of Saa3 attenuates tau hyperphosphorylation · cat /papers/PMC4736117/content.lines --lines 62-63
+     │ To further evaluate the potential involvement of Saa3 in regulating tau
+     │ hyperphosphorylation, transgenic mice expressing Saa3 were generated. Based on our finding
+     │ that induced Saa3 expression was seen mainly in neurons, the Saa3 transgenic (Saa3-Tg) mice
+     │ were prepared using the neuron-specific synapsinI (SYNI) promoter (Additional file 3: Figure
+     │ S5A–B; see Additional file 2 for detail). Transgenic expression of Saa3 increased the basal
+     │ and inducible Saa3 mRNA level (Additional file 3: Figure S5C). Of note, the basal and
+     │ inducible expression of Saa3 was also enhanced at the protein level in the Saa3-Tg mice
+     │ (Additional file 3: Figure S5D–E). To determine whether Saa3 was secreted by neurons, …
+     "This study investigated serum amyloid A's (SAA) role in tau hyperphosphorylation. SAA suppresses LPS-induced tau hyperphosphorylation by activating microglia to release IL-10."
+
+[2.2s, saved to s_2b1ee5d5]
+
+💡 Extract data across these results with: map --from s_2b1ee5d5 "your question"
+[2.2s, saved to s_2b1ee5d5]  [repo: mva-lof-molecular]
+

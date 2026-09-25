@@ -160,22 +160,39 @@ README.md   # stub at Chunk 1, completed at Chunk 7
 
 **Two safeguards, adopted at the Chunk 3 gate. Both apply before binning.**
 1. **Dedupe by title.** A preprint and its published version can both appear in one gene's top 25 and both be judged yes. Before counting, collapse yes rows per gene by normalized title (lowercase, alphanumerics only). The ledger keeps both rows; only the count is deduped.
-2. **Confirm the bin by hand.**
-   - For every gene with at least one yes, go through its yes rows in rank order and confirm or reject each one, stopping at 3 confirmed or when the yes rows run out.
-   - The bin comes from the **confirmed** count: established needs 3 confirmed.
-   - Claude drafts each call with a one-line reason and the quotes. A human team member confirms or overrides it and is recorded in the `reviewer` column. Only human-approved calls are used.
-   - Calls live in `data/review_verdicts.tsv` (gene · paper_id · call (confirm/reject) · reason · reviewer). The confirmed count is derived by script from the ledger plus this file, never typed.
-   - A confirmed yes must fit the question: the paper's own data, LPS or bacterial infection (not another stimulus or a protozoan), a change in *this* gene against an unstimulated control (not a knockout-vs-wild-type comparison), and not a background statement or review.
-   - Any gene whose bin differs between the model count and the confirmed count, or between `yes_before_checks` and the model count, is listed in the report.
+2. **Confirm the bin by blind human grading** (redesigned 2026-09-25 for 4 graders, at most 35 checks each; see `reports/chunk-5.md` and `src/make_review_sheet.py`).
+   - **Where the checks go.** Checks are spent where a wrong call would change a bin or the headline claim:
+     - **Limited genes (1–2 yes):** every yes row.
+     - **Borderline established (3–5 yes):** the first 3 yes rows by rank.
+     - **Not-found genes (0 yes):** 3 no rows each, rows the script checks downgraded first.
+     - **Other genes whose bin the checks change:** 2 downgraded rows each.
+     - **High-count genes (≥6 yes):** 1 random yes each.
+     - **Background false-negative rate:** 12 random no rows.
+     - **Double grading:** 20 tasks go to a second grader.
+   - **Blind grading.** Graders see the paper, gene names and the model's quotes, but not the ledger verdict, the model's answer or any downgrade reason. They follow `results/review/GRADING_INSTRUCTIONS.txt` (question, reason codes, worked edge cases). The answer key (`results/review/chunk5_review_key.csv`) stays closed until grading ends.
+   - **Two rounds.** Round 1 is at most 33 checks per grader. Round 2 (the remaining budget) covers:
+     - the next yes rows by rank for any borderline gene with fewer than 3 confirmed;
+     - a third grader for every double-graded disagreement.
+   - **Where calls live.** Each grader's exported sheet is saved as `data/review/chunk5_review_<slot>.csv`. Confirmed counts are derived by script from the ledger, the key and these files, never typed.
+   - **Bin rules.** Each bin comes from the **confirmed** count:
+     - **Limited genes:** exact.
+     - **Borderline genes:** established needs 3 confirmed.
+     - **A grader can move a gene up.** A downgraded or no row that a grader confirms as YES counts toward the confirmed count, so a gene can move out of "not found".
+     - **High-count genes (≥6 yes) are not confirmed row by row.** Their bin is **established (sampled)**, and the report gives the measured precision from their sampled rows. If that precision is low enough that 6 model yeses could plausibly contain fewer than 3 real ones (below about 50%), stop and extend grading before binning.
+   - **Human grading is ground truth for this project, but it's still a judgment.** The report gives the double-grading agreement rate and resolves disagreements by a third grader.
+   - **What counts as a confirmed yes:** the paper's own data; LPS or bacterial infection (not another stimulus, a virus or a protozoan); a change in *this* gene against an unstimulated control (not a knockout-vs-wild-type comparison); and not a background statement or review.
+   - **What the report lists:**
+     - any gene whose bin differs between the model count and the confirmed count, or between `yes_before_checks` and the model count;
+     - the precision of the pipeline's yes calls, and the false-negative rate among its no calls, by stratum.
 **Optional (cut first if time runs short):** for established genes, extract the reported direction (up/down) from a small set of qualifying papers and compute the direction-agreement rate with the dataset. List every disagreement.
-**Done when:** every gene is binned from its confirmed count, every call in `data/review_verdicts.tsv` has a human team member's approval, and bin counts are in the report.
+**Done when:** round 1 and round 2 grading are complete; every gene is binned from its confirmed count (or as established (sampled)); and bin counts, grader agreement and the pipeline's precision and false-negative rates are in the report.
 **Watch:** hand-spot-check 3 genes end to end (search → filter calls → count → bin) before trusting the table.
 
 ### Chunk 7: Demo artifact
 **Goal:** The deliverable.
 **Produces:** `results/final/demo_table` (gene, fold change, bin, 1–3 citations each) and `results/final/REPORT.md`: dataset card, positive-control results, method, bin summary, the "not found in top 25 for this query" caveat stated plainly, and the direction-agreement result if Chunk 6's optional step ran.
-Every citation in the demo table is a paper ID that appears as a yes row in the ledger **and** is confirmed in `data/review_verdicts.tsv`.
-**Done when:** the table and report exist, and a short script (`src/verify.py`, a few lines) recomputes every count and bin from the ledger plus `data/review_verdicts.tsv` and matches the report exactly. Any mismatch fails the chunk.
+Every citation in the demo table is a paper ID that a human grader confirmed as YES in `data/review/` (high-count genes cite their sampled confirmed paper).
+**Done when:** the table and report exist, and a short script (`src/verify.py`, a few lines) recomputes every count and bin from the ledger plus the review key and `data/review/` grading files and matches the report exactly. Any mismatch fails the chunk.
 **Check:** open 3 citations and confirm each supports the claim it's attached to.
 
 ## Scope levers (if the day runs long, in order)

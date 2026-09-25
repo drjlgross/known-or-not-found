@@ -1,0 +1,8 @@
+$ src/pc.sh results m_44e4a0fd --save /Users/julia/known-or-not-found/results/search/Cxcl1/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/Cxcl1/map_answers.txt
+
+$ src/pc.sh results m_44e4a0fd --save /Users/julia/known-or-not-found/results/search/Cxcl1/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/Cxcl1/map_answers.txt
+

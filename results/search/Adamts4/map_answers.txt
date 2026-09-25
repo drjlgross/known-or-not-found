@@ -1,0 +1,182 @@
+Map results  [m_02baef6f]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Adamts4 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+
+--- [1] [success] ADAMTS4 elicits myeloid-derived immune cell recruitment and liver fibrogenesis in metabolic dysfunction-associated steatotic liver disease ---
+doc_id: PMC13149992
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [2] [success] Effect of Thrombospondin-4 on Pro-inflammatory Phenotype Differentiation and Apoptosis in Macrophages ---
+doc_id: bio_aec0e8f76c09
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [3] [success] Effects of thrombospondin-4 on pro-inflammatory phenotype differentiation and apoptosis in macrophages ---
+doc_id: PMC6978349
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [4] [success] Critical Role of ADAMTS-4 in the Development of Sporadic Aortic Aneurysm and Dissection in Mice ---
+doc_id: PMC5617887
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [5] [success] A Disintegrin and Metalloproteinase with Thrombospondin Motifs 4 Regulates Pulmonary Vascular Hyperpermeability through Destruction of Glycocalyx in Acute Respiratory Distress Syndrome ---
+doc_id: PMC10671186
+{
+  "answer": "yes",
+  "evidence": "We also confirmed via quantitative PCR analysis that the mRNA expression of ADAMTS4 was significantly induced following both LPS and poly (I:C) stimulation, which was consistent with the results of the microarray analysis (Figure 1C).",
+  "context": "Quantitative PCR analysis of ADAMTS4 gene expression of HMVEC-Ls (C), HUVECs (D), and mouse VEC cell line UV♀2 (E) following stimulation of LPS or poly (I:C) for 4 h."
+}
+
+--- [6] [success] Regulation of ADAMTS-1, -4 and -5 expression in human macrophages: Differential regulation by key cytokines implicated in atherosclerosis and novel synergism between TL1A and IL-17☆ ---
+doc_id: PMC3779352
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [7] [success] A Disintegrin and Metalloproteinase with Thrombospondin Motifs-4 Levels in Chondrocytes of Different Morphology within Nondegenerate and Early Osteoarthritic Human Femoral Head Cartilage ---
+doc_id: PMC11418412
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [8] [success] The expression of a disintegrin and metalloproteinase with thrombospondin motifs 4 in human macrophages is inhibited by the anti-atherogenic cytokine transforming growth factor-β and requires Smads, p38 mitogen-activated protein kinase and c-Jun ---
+doc_id: PMC3081072
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [9] [success] Loss of ADAMTS4 reduces high fat diet-induced atherosclerosis and enhances plaque stability in ApoE−/− mice ---
+doc_id: PMC4974561
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [10] [success] Thrombospondin-1 triggers macrophage IL-10 production and promotes resolution of experimental lung injury ---
+doc_id: PMC3945733
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [11] [success] ADAMTS4 mediates LPS‐induced cardiac injury and myocardial fibrosis through proteolytic cleavage of TSP1 ---
+doc_id: PMC13443130
+{
+  "answer": "yes",
+  "evidence": "Relative to saline-administered control mice, ADAMTS4 protein and mRNA were both increased in LPS-treated hearts (Figure 1C,D).",
+  "context": "To validate these transcriptomic findings, we challenged mice with 10 mg/kg LPS for 24 h and examined Adamts4 expression in cardiac tissue."
+}
+
+--- [12] [success] ADAM-10 Regulates MMP-12 during Lipopolysaccharide-Induced Inflammatory Response in Macrophages ---
+doc_id: PMC9507754
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [13] [success] Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review ---
+doc_id: PMC13372918
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [14] [success] ADAMTS2 Modulates Inflammation, Autophagy, and Barrier Integrity Through PI3K/AKT/mTOR Signaling in LPS‐Induced Acute Respiratory Distress Syndrome ---
+doc_id: PMC13096709
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [15] [success] A Global Picture of Molecular Changes Associated to LPS Treatment in THP-1 Derived Human Macrophages by Fourier Transform Infrared Microspectroscopy ---
+doc_id: PMC9656053
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [16] [success] Interaction with macrophages attenuates equine fibroblast‐like synoviocyte ADAMTS5 (aggrecanase‐2) gene expression following inflammatory stimulation ---
+doc_id: PMC6120467
+{"answer": "yes", "evidence": "Maximum fold changes in mRNA levels of EFLS cultured independently and with DH82 cells respectively, were 10\u00D7 (at 6 h) and 14\u00D7 (at 3 h) for IL-1\u03B2 mRNA, 50\u00D7 (at 6 h), and 27\u00D7 (at 6 h) for IL-6 mRNA, 18\u00D7 (at 3 h) and 16\u00D7 (at 3 h) for ADAMTS4 mRNA, and 4\u00D7 (at 6 h) and 1.4\u00D7 (at 6 h) for ADAMTS5 mRNA.", "context": "EFLS cultured independently demonstrated rapid increases in IL-1\u03B2, IL-6, ADAMTS4, and ADAMTS5 mRNAs in response to 10 \u00B5g/ml LPS (Fig. 3A)."}
+
+--- [17] [success] LPS Counter Regulates RNA Expression of Extracellular Proteases and Their Inhibitors in Murine Macrophages ---
+doc_id: PMC3317238
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [18] [success] Epigenetic profile in lipopolysaccharide-stimulated macrophages ---
+doc_id: PMC3953056
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [19] [success] Monocyte normal immune response to LPS stimulation ---
+doc_id: PMC3333514
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [20] [success] Selection of reliable reference genes for the normalisation of gene expression levels following time course LPS stimulation of murine bone marrow derived macrophages ---
+doc_id: PMC5627409
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [21] [success] The Activation of Macrophage and Upregulation of CD40 Costimulatory Molecule in Lipopolysaccharide-Induced Acute Lung Injury ---
+doc_id: PMC2359863
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [22] [success] Oral and transdermal administration of lipopolysaccharide safely enhances self-healing ability through the macrophage network ---
+doc_id: PMC11994614
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [23] [success] Inhibition of the extracellular enzyme A disintegrin and metalloprotease with thrombospondin motif 4 prevents cardiac fibrosis and dysfunction ---
+doc_id: PMC10439713
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [24] [success] Spatiotemporal proteomic profiling of the pro-inflammatory response to lipopolysaccharide in the THP-1 human leukaemia cell line ---
+doc_id: PMC8486773
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [25] [success] Thrombospondin-1 Production Is Enhanced by Porphyromonas gingivalis Lipopolysaccharide in THP-1 Cells ---
+doc_id: PMC4264871
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}

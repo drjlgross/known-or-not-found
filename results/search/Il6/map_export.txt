@@ -1,0 +1,8 @@
+$ src/pc.sh results m_7ff10235 --save /Users/julia/known-or-not-found/results/search/Il6/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/Il6/map_answers.txt
+
+$ src/pc.sh results m_7ff10235 --save /Users/julia/known-or-not-found/results/search/Il6/map_answers.txt
+# exit 0
+  ✓ Saved to /Users/julia/known-or-not-found/results/search/Il6/map_answers.txt
+

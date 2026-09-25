@@ -1,0 +1,236 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Tnfsf4 (tumor necrosis factor (ligand) superfamily, member 4) LPS macrophage
+# exit 0
+Found 25 papers  [s_179a646d]
+
+  1. Genome-wide siRNA screen of genes regulating the LPS-induced TNF-α response in human macrophages
+     Jing Sun; Samuel Katz; Bhaskar Dutta; Ze Wang; Iain D.C. Fraser
+     PMC5332009 · Scientific Data · 2017-03-01 · 14 citations
+     https://doi.org/10.1038/sdata.2017.7
+     Matched: Screening reagents · cat /papers/PMC5332009/content.lines --lines 34-37
+     "A genome-wide siRNA screen identified genes regulating the LPS-induced TNF-α response in human macrophages. Novel hits broadly affect innate inflammatory responses to microbial stimuli."
+
+  2. Genome-wide siRNA screen of genes regulating the LPS-induced NF-κB and TNF-α responses in mouse macrophages
+     Ning Li, Samuel Katz, Bhaskar Dutta, Zachary L. Benet, Jing Sun, Iain D.C. Fraser
+     PMC5332015 · Scientific Data · 2017-03-01 · 7 citations
+     https://doi.org/10.1038/sdata.2017.8
+     Matched: Abstract · cat /papers/PMC5332015/content.lines --lines 1-7
+     "A genome-wide siRNA screen identified genes regulating LPS-induced NF-κB and TNF-α responses in mouse macrophages. This study provides a resource for analyzing gene function in this key inflammatory pathway."
+
+  3. Motif prediction to distinguish LPS-stimulated pro-inflammatory  vs . antibacterial macrophage genes
+     Rahul K Kollipara, Narayanan B Perumal
+     PMC2949756 · Immunome Research · 2010-01-01 · 5 citations
+     https://doi.org/10.1186/1745-7580-6-5
+     Matched: Abstract · cat /papers/PMC2949756/content.lines --lines 1-15
+     "This study analyzed gene expression patterns in LPS-stimulated macrophages to identify pro-inflammatory and antibacterial genes. It found distinct transcription factor binding site motifs associated with each gene set, helping to distinguish their regulatory mechanisms."
+
+  4. Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni, Yanal Ghosheh, Akula Bala Pramod, Klaus Ley
+     PMC6543837 · Frontiers in Immunology · 2019-05-24 · 1909 citations
+     https://doi.org/10.3389/fimmu.2019.01084
+     Matched: In vivo M1(=LPS+)C57BL/6J Exclusive Genes Drive Anti-bacterial Immune  · cat /papers/PMC6543837/content.lines --lines 40-43
+     │ The in vivo M1(=LPS+)C57BL/6J signature contains 177 uniquely up-regulated genes (Figure 1A,
+     │ Supplementary Table 5). Compared to the in vitro signatures we found the expression of many
+     │ genes correlated with the LPS mediated activation of Toll-like receptor 4 (Tlr4). Downstream
+     │ of Tlr4 is myeloid differentiation factor 88 (MyD88), Nfkb1, Rela, Rps6ka2, Tank, and Ripk2,
+     │ (40) all expressed in M1(=LPS+)C57BL/6J. These genes are responsible for an anti-bacterial
+     │ immune response. The chemokine Ccl2 and the hematopoietic cytokine Csf2 (GM-CSF) are
+     │ positively correlated with M1 polarization in vivo, but not increased in response to IFN-γ
+     │ and LPS in vitro. The same is true for the pro-inflammatory …
+     "This study compared gene expression in *in vivo* M1/M2 macrophages with *in vitro* classically/alternatively activated macrophages. The findings indicate that *in vivo* M1/M2 polarization is not equivalent to *in vitro* activation states."
+
+  5. Multi-omics analysis of tumor necrosis factor superfamily 4 reveals its prognostic value with T cell exhaustion feature in cancer
+     Kai Lei; Weiqing Chen; Anqi Wang; Anyu Zeng; Yun Ding; Tianqi Luo; Qi Zhou
+     PMC12151969 · PMC · 2025-06-10 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12151969/
+     Matched: High-expression TNFSF4 in tumor-infiltrating immune cells · cat /papers/PMC12151969/content.lines --lines 136
+     │ Fig. 8: Validation in animal tissue samples. A Left panels: TNFSF4 expression in liver
+     │ cancer and adjacent normal tissue. B Right panel: quantification data. C Quantitative PCR
+     │ analysis of TNFSF4 mRNA levels in Stage I and Stage II osteosarcoma samples. The statistical
+     │ analysis was performed using the Wilcoxon rank-sum test, *p < 0.05
+     "This study analyzed TNFSF4 expression across various cancers using multi-omics data. High TNFSF4 expression is linked to poor prognosis, increased tumor stage, and T cell exhaustion, suggesting its potential as a biomarker."
+
+  6. The Activation of Macrophage and Upregulation of CD40 Costimulatory Molecule in Lipopolysaccharide-Induced Acute Lung Injury
+     Liang Dong; Shujuan Wang; Ming Chen; Hongjia Li; Wenxiang Bi
+     PMC2359863 · Journal of Biomedicine and Biotechnology · 2008-04-20 · 14 citations
+     https://doi.org/10.1155/2008/852571
+     Matched: 4. DISCUSSION · cat /papers/PMC2359863/content.lines --lines 43-45
+     "This study investigated macrophage activation and CD40 expression in an LPS-induced acute lung injury model. Macrophage activation and CD40 upregulation were found to induce inflammatory cytokine release, contributing to ALI development."
+
+  7. LPS combined with CD47mAb enhances the anti‑osteosarcoma ability of macrophages
+     Peng Yuan; Yukang Que; Yulei Liu; Peng He; Zehao Guo; Yong Hu
+     PMC10091190 · Oncology Letters · 2023-03-28 · 1 citation
+     https://doi.org/10.3892/ol.2023.13777
+     Matched: ELISA · cat /papers/PMC10091190/content.lines --lines 39
+     "This study investigated the combined effect of LPS and CD47mAb on macrophage anti-osteosarcoma activity. The combination significantly enhanced macrophage phagocytosis, suppressed tumor growth and migration, and promoted apoptosis."
+
+  8. Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review
+     Leah Elson; Niels Eijkelkamp; J. Henk Coert
+     PMC13372918 · Inflammation Research · 2026-07-15 · 0 citations
+     https://doi.org/10.1007/s00011-026-02317-3
+     Matched: M1 Macrophage polarization mechanism · cat /papers/PMC13372918/content.lines --lines 71-74
+     "This systematic review synthesized evidence for a conserved lipopolysaccharide (LPS)-mediated pathogenic mechanism across diverse tissues and evaluated its potential relevance to peripheral neuropathy"
+
+  9. Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni; Yanal Ghosheh; Akula Bala Pramod; Klaus Ley
+     PMC7053374 · Frontiers in Immunology · 2020-02-25 · 77 citations
+     https://doi.org/10.3389/fimmu.2020.00234
+
+  10. Effects of thrombospondin-4 on pro-inflammatory phenotype differentiation and apoptosis in macrophages
+     Mohammed Tanjimur Rahman; Santoshi Muppala; Jiahui Wu; Irene Krukovets; Dmitry Solovjev; Dmitriy Ver...
+     PMC6978349 · Cell Death & Disease · 2020-01-23 · 53 citations
+     https://doi.org/10.1038/s41419-020-2237-2
+     Matched: LPS and pro-inflammatory cytokines induce TSP-4 expression in macropha · cat /papers/PMC6978349/content.lines --lines 43-45
+     │ LPS induced TSP-4 in a time-dependent manner in RAW264.7 and BMDM (Fig. 1a). Most TSP-4 was
+     │ intracellular in both macrophage types (Fig. 1b). In both cell types, both the protein
+     │ levels and mRNA levels were increased in response to LPS stimulation of cells (Fig. 1a, c).
+     │ The decreases in protein levels in cells treated with cycloheximide were comparable with
+     │ untreated cells, also consistent with the transcriptional mechanism or increased RNA
+     │ stability. Fig. 1: LPS induces TSP-4 in cultured macrophages. a Cultured macrophage-like
+     │ RAW264.7 and cells and mouse bone-marrow-derived macrophages (BMDM) were treated with LPS
+     │ (0.5 μg/ml for 1–24 h); western blotting with anti-TSP-4 Ab. b Cultured …
+     "Thrombospondin-4 (TSP-4) was studied for its effects on macrophage phenotype and apoptosis. TSP-4 promotes pro-inflammatory macrophage differentiation and apoptosis, with the P387 variant being more active."
+
+  11. Mathematical modelling of activation-induced heterogeneity reveals cell state transitions underpinning macrophage responses to LPS
+     S. Dey, D. Boucher, J. W. Pitchford, D. Lagos *
+     bio_206e5a356c66 · bioRxiv · 2021-09-19 · 0 citations (all versions)
+     Published (2021): https://doi.org/10.1101/2021.09.19.461010
+     Matched: Macrophage community AIH is dependent on LPS dose · cat /papers/bio_206e5a356c66/content.lines --lines 42-45
+     │ Figure 1: Macrophage community AIH is dependent on LPS dose A. Flow cytometry gating to show
+     │ 16 sub-populations determined based on TNF, IL-6, pro-IL-1b and NOS2. B. Pie charts
+     │ represent the community composition at 16 hours post stimulus with the indicated doses of
+     │ LPS for RAW264.7. Data representative of three independent experiments. Next, we explored
+     │ AIH in BMDMs, a cell model more faithfully capturing heterogeneity of primary macrophages.
+     │ As in the case of RAW264.7 cells, exposure to LPS induced population heterogeneity in BMDMs
+     │ albeit with different kinetics to that observed in RAW264.7 cells (compare Figure 2 with
+     │ Figure 1B ). Whereas all populations were observed at 16h (12h …
+     "This study mathematically models macrophage responses to LPS, analyzing single-cell protein expression. Macrophage hypo-responsiveness to secondary LPS challenges is driven by altered transition rates to non-responsive states."
+
+  12. Mathematical modelling of activation-induced heterogeneity in TNF, IL6, NOS2, and IL1β expression reveals cell state transitions underpinning macrophage responses to LPS
+     Shoumit Dey; Dave Boucher; Jon Pitchford; Dimitris Lagos
+     PMC9411976 · Wellcome Open Research · 2022-07-25 · 2 citations
+     https://doi.org/10.12688/wellcomeopenres.17557.2
+     Matched: Macrophage community AIH is dependent on LPS dose · cat /papers/PMC9411976/content.lines --lines 74-75
+     "Mathematical models explored macrophage states and their responses to LPS. Macrophage hypo-responsiveness to a second LPS challenge is driven by altered transition rates between activation states."
+
+  13. NF-κB p65 and TCF-4 interactions are associated with LPS-stimulated IL-6 secretion of macrophages
+     Ji-Youn Kim; Hyeon-Gun Jee; Ju Yeong Kim; Tai-Soon Yong; Soung-Hoo Jeon
+     PMC10859262 · Biochemistry and Biophysics Reports · 2024-02-06 · 6 citations
+     https://doi.org/10.1016/j.bbrep.2024.101659
+     Matched: CRediT authorship contribution statement · cat /papers/PMC10859262/content.lines --lines 66
+     "This study investigated the interaction between NF-κB and TCF-4 in LPS-stimulated macrophages. The findings indicate that NF-κB p65 and TCF-4 interaction is associated with increased IL-6 secretion."
+
+  14. Monocyte normal immune response to LPS stimulation
+     P Myrianthefs; K Venetsanou; E Grouzi; E Boutzouka; P Evagelopoulou; G Fildissis; I Spiliotopoulou; ...
+     PMC3333514 · Critical Care · 2002-03-01 · 1 citation
+     https://doi.org/10.1186/cc1554
+
+  15. Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyromonas endodontalis, Induces Macrophage M1 Profile
+     Pablo Veloso; Alejandra Fernández; Jessica Astorga; David González-Quintanilla; Alfredo Castro; Alej...
+     PMC9456100 · International Journal of Molecular Sciences · 2022-09-02 · 16 citations
+     https://doi.org/10.3390/ijms231710011
+     Matched: 5. Conclusions · cat /papers/PMC9456100/content.lines --lines 74-87
+     "This study investigated the effects of lipopolysaccharides from *Porphyromonas gingivalis* and *Porphyromonas endodontalis* on macrophage polarization. *P. gingivalis* LPS induced an M1 macrophage profile, while *P. endodontalis* LPS did not."
+
+  16. Epigenetic profile in lipopolysaccharide-stimulated macrophages
+     Ester Correia Sarmento Rios; Thais Martins Lima Salgado; Francisco Garcia Soriano
+     PMC3953056 · Critical Care · 2013-11-05 · 0 citations
+     https://doi.org/10.1186/cc12987
+
+  17. NF-κB Plays a Key Role in Inducing  CD274  Expression in Human Monocytes after Lipopolysaccharide Treatment
+     Gang Huang, Qianjun Wen, Yongliang Zhao, Qiangguo Gao, Yun Bai
+     PMC3622012 · PMC · 2013-01-01 · 85 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3622012/
+     "This study investigated how lipopolysaccharide (LPS) affects CD274 expression in human monocytes. NF-κB activation is shown to be crucial for LPS-induced CD274 gene expression."
+
+  18. Differential mRNA and miRNA Profiles Reveal the Potential Roles of Genes and miRNAs Involved in LPS Infection in Chicken Macrophages
+     Qi Zhang, Jie Wang, Jin Zhang, Jie Wen, Guiping Zhao, Qinghe Li
+     PMC8155903 · Genes · 2021-05-17 · 6 citations
+     https://doi.org/10.3390/genes12050760
+     "Chicken macrophages were stimulated with LPS, and their mRNA and miRNA profiles were analyzed. This revealed differentially expressed genes and miRNAs involved in immune responses, offering insights into bacterial infection mechanisms."
+
+  19. Induction of unique macrophage subset by simultaneous stimulation with LPS and IL-4
+     Kei Ishida; Takahiro Nagatake; Azusa Saika; Soichiro Kawai; Eri Node; Koji Hosomi; Jun Kunisawa
+     PMC10167635 · Frontiers in Immunology · 2023-04-21 · 64 citations
+     https://doi.org/10.3389/fimmu.2023.1111729
+     Matched: Cell-surface molecule expression and gene expression profiles in LPS/I · cat /papers/PMC10167635/content.lines --lines 44-45
+     │ We prepared non-activated (M0), M1, M2, and LPS/IL-4-induced macrophages and evaluated their
+     │ morphology and M1 and M2 markers in each by cell-surface molecule expression and gene
+     │ expression. In comparison to M0 macrophages, M1 macrophages showed round shape, while M2
+     │ macrophages showed cellular elongation. We found that LPS/IL-4-induced macrophages resemble
+     │ to M1 macrophages ( Figure S1 ). In addition, as previously reported (3), we confirmed that
+     │ levels of I-Ab (an MHC class II molecule) on the surface of M1 macrophages were higher than
+     │ on the surface of M0 or M2 macrophages ( Figure 1A ) and LPS/IL-4-induced macrophages also
+     │ showed higher levels of I-Ab expression than did M0 or M2 …
+     "This study analyzed macrophages induced by simultaneous LPS and IL-4 stimulation. These macrophages exhibited unique properties, blending M1 and M2 characteristics with distinct energy metabolism."
+
+  20. Effect of Thrombospondin-4 on Pro-inflammatory Phenotype Differentiation and Apoptosis in Macrophages
+     Mohammed Tanjimur Rahman, Santoshi Muppala, Jiahui Wu, Irene Krukovets, Dmitry Solovjev, Dmitriy Ver...
+     bio_aec0e8f76c09 · bioRxiv · 2019-05-09 · 53 citations (all versions)
+     Published (2020): https://doi.org/10.1038/s41419-020-2237-2
+     Preprint: https://doi.org/10.1101/633537
+     Matched: LPS and pro-inflammatory cytokines induce TSP-4 expression in macropha · cat /papers/bio_aec0e8f76c09/content.lines --lines 47-49
+     │ LPS induced TSP4 in a time-dependent manner in RAW264.7 and BMDM ( Fig.1A ). Most TSP-4 was
+     │ intracellular in both macrophage types ( Fig. 1B ). In both cell types, both the protein
+     │ levels and mRNA levels were increased in response to LPS stimulation of cells ( Fig. 1A and
+     │ C ). The decreases in protein levels in cells treated with cycloheximide were comparable to
+     │ untreated cells, also consistent with the transcriptional mechanism or increased RNA
+     │ stability. Figure 1. LPS induces TSP-4 in cultured macrophages. A: Cultured macrophage-like
+     │ RAW264.7 and cells and mouse bone-marrow derived macrophages (BMDM) were treated with LPS
+     │ (0.5μg/ml for 1 – 24 hours); Western blotting with anti-TSP-4 …
+     "Thrombospondin-4 (TSP4) was studied for its effects on macrophage inflammation and apoptosis. TSP4 promotes pro-inflammatory macrophage differentiation, accumulation, and apoptosis, with the P387 variant being more active."
+
+  21. Hyperinflammation, T cells, and endotoxemia
+     Makoto Inoue; Mari L. Shinohara
+     PMC4695100 · Oncotarget · 2015-08-22 · 2 citations
+     https://doi.org/10.18632/oncotarget.5236
+     Matched: cat /papers/PMC4695100/content.lines --lines 10-11
+
+  22. Transcriptional profiling of the LPS induced NF-κB response in macrophages
+     Omar Sharif, Viacheslav N Bolshakov, Stephanie Raines, Peter Newham, Neil D Perkins
+     PMC1781469 · PMC · 2007-01-01 · 447 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1781469/
+     Matched: Conclusion · cat /papers/PMC1781469/content.lines --lines 44
+     │ Although this study examined only a limited set of genes a number of discoveries were made
+     │ and some significant conclusions can be drawn. Firstly, the temporal nature of LPS induced
+     │ gene expression allowed four distinct patterns of gene expression to be defined. Additional
+     │ time-points may reveal further subtleties but it is clear that the changes in gene
+     │ expression following LPS stimulation are dynamic and feature both the time-specific
+     │ repression as well as activation of gene expression. However, it should be noted that gene
+     │ expression patterns do not necessarily correlate with protein levels [57]. This analysis
+     │ also allowed us to conclude that THP-1 cells provide a much better model …
+     "This study profiled gene expression in macrophages after LPS exposure. LPS induced a dynamic, time-dependent transcriptional response, with THP-1 cells closely mimicking primary macrophages."
+
+  23. Oral and transdermal administration of lipopolysaccharide safely enhances self-healing ability through the macrophage network
+     Gen-Ichiro Soma; Masataka Oda; Vindy Tjendana Tjhin; Chie Kohchi; Hiroyuki Inagawa
+     PMC11994614 · Frontiers in Immunology · 2025-03-31 · 7 citations
+     https://doi.org/10.3389/fimmu.2025.1563484
+     Matched: Regulation of innate immunity by LPS as an environmental agent · cat /papers/PMC11994614/content.lines --lines 29-31
+     "Oral and transdermal LPS administration was studied for its effects on self-healing. This method safely enhances healing through a "macrophage network" involving mucosal immune cells."
+
+  24. Lipopolysaccharide regulation of antiinflammatory tristetraprolin family and proinflammatory gene expression in mouse macrophages
+     Heping Cao
+     PMC10949775 · BMC Research Notes · 2024-03-19 · 4 citations
+     https://doi.org/10.1186/s13104-024-06743-6
+     Matched: Effect of LPS on proinflammatory gene expression · cat /papers/PMC10949775/content.lines --lines 65-67
+     │ TTP is a mRNA destabilizing factor for a number of proinflammatory cytokines, such as TNF
+     │ and GM-CSF [1]. Therefore, proinflammatory gene expression was investigated in mouse
+     │ macrophages after treated with LPS. LPS rapidly increased mRNA levels of TNF by 12, 71, 82,
+     │ 196, 311, 113 and 215 fold after 5, 10, 20, 50, 100, 500 and 1000 ng/mL treatment for 2 h,
+     │ respectively (Fig. 3A). The effect of LPS on TNF gene expression markedly declined after
+     │ longer treatment. The mRNA levels of TNF were only 2, 3, 6, 42, 60, 104 and 54 fold after 5,
+     │ 10, 20, 50, 100, 500 and 1000 ng/mL treatment for 8 h, respectively (Fig. 3A). The mRNA
+     │ levels of TNF were further reduced to 28, 35, 38 and 21 fold after 50, …
+     "Lipopolysaccharide (LPS) was studied for its effects on tristetraprolin (TTP) family and proinflammatory gene expression in mouse macrophages. LPS increased TTP, TNF, and COX2 mRNA but had minimal impact on other TTP homologues and proinflammatory cytokine genes."
+
+  25. In vivo cisplatin-resistant neuroblastoma metastatic model reveals tumour necrosis factor receptor superfamily member 4 (TNFRSF4) as an independent prognostic factor of survival in neuroblastoma
+     Catherine Murphy; Laura Devis-Jauregui; Ronja Struck; Ariadna Boloix; Ciara Gallagher; Cian Gavin; F...
+     PMC11135766 · PLOS ONE · 2024-05-29 · 3 citations
+     https://doi.org/10.1371/journal.pone.0303643
+     Matched: Discussion · cat /papers/PMC11135766/content.lines --lines 89-90
+     "A cisplatin-resistant metastatic neuroblastoma model was developed using cell lines. Low expression of TNFRSF4 in tumor cells is an independent predictor of poor survival in neuroblastoma."
+
+[2.1s, saved to s_179a646d]
+
+💡 Extract data across these results with: map --from s_179a646d "your question"
+[2.1s, saved to s_179a646d]  [repo: mva-lof-molecular]
+

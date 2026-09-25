@@ -1,0 +1,36 @@
+{
+  "gene": "Rsad2",
+  "query": "Rsad2 (radical S-adenosyl methionine domain containing 2) LPS macrophage",
+  "also": [],
+  "mode": "map",
+  "strict": true,
+  "stimulus_check": true,
+  "two_quote": true,
+  "question": "Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Rsad2 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.",
+  "date": "2026-09-25T15:48:31Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_789a80a0",
+  "judge_id": "m_a2490013",
+  "parent_n": 25,
+  "yes": 2,
+  "yes_before_checks": 2,
+  "downgraded": 0,
+  "no": 23,
+  "paper_errors": 0,
+  "seconds_search": 3.3,
+  "seconds_judge": 24.7,
+  "seconds_total": 27.9,
+  "rechecks": [
+    {
+      "date": "2026-09-25T15:55:33Z",
+      "reason": "name check: normalize Greek letters and combining marks",
+      "before": {
+        "yes": 2,
+        "yes_before_checks": 2,
+        "downgraded": 0,
+        "paper_errors": 0
+      }
+    }
+  ]
+}

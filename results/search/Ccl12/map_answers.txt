@@ -1,0 +1,194 @@
+Map results  [m_50ca3053]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Ccl12 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+
+--- [1] [success] Myometrial‐derived CXCL12 promotes lipopolysaccharide induced preterm labour by regulating macrophage migration, polarization and function in mice ---
+doc_id: PMC9077289
+{
+  "answer": "yes",
+  "evidence": "LPS induced CXCL12 RNA and protein levels significantly and specifically in myometrium compared with controls (3‐fold and 3.5‐fold respectively).",
+  "context": "L51: The increase in CXCL12 protein levels in the uterus of LPS‐treated mice was further confirmed by IHC staining as shown in Figure 2A."
+}
+
+--- [2] [success] TLR4/MyD88 -mediated CCL2 production by lipopolysaccharide (endotoxin): Implications for metabolic inflammation ---
+doc_id: PMC6154519
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [3] [success] Transcriptional and translational‐uncoupling in regulation of the CXCL12 and its receptors CXCR4, 7 in THP‐1 monocytes and macrophages ---
+doc_id: PMC5818454
+{
+  "answer": "yes",
+  "evidence": "LPS treatment of u‐THP‐1 or d‐THP‐1 significantly elevated CXCL12, IL‐1β, and IL‐6 mRNA levels (Fig. 1Sa‐c, Supplements).",
+  "context": "L7: In the present study, regulation of this pathway was further examined using the in‐vitro model of undifferentiated human THP‐1 monocytes (u‐THP‐1) and phorbol 12‐myristate 13‐acetate (PMA)‐differentiated THP‐1 macrophages (d‐THP‐1), to assess the effects of differentiation and the TLR4 ligand lipopolysaccharide (LPS) on the pathway."
+}
+
+--- [4] [success] C–C Chemokines Released by Lipopolysaccharide (LPS)-stimulated Human Macrophages Suppress HIV-1 Infection in Both Macrophages and T Cells ---
+doc_id: PMC2196157
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [5] [success] Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC6543837
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [6] [success] Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC7053374
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [7] [success] Analysis of the transcriptional networks underpinning the activation of murine macrophages by inflammatory mediators ---
+doc_id: PMC4378362
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [8] [success] Rhizoma Coptidis Inhibits LPS-Induced MCP-1/CCL2 Production in Murine Macrophages via an AP-1 and NFκB-Dependent Pathway ---
+doc_id: PMC2905940
+{
+  "answer": "yes",
+  "evidence": "Secretion of monocyte chemoattractant protein-1 by LPS-stimulated RAW 264.7 cells was also significantly reduced in a concentration- (Figure 6(a)) and time-dependent (Figure 6(b)) fashion, as evaluated by ELISAs of supernatants.",
+  "context": "Supernatants from LPS-stimulated cells, with and without incubation with either Rhizoma coptidis, berberine (10−4 mol), statins (10−6 mol rosuvastatin, 10−6 mol fluvastatin), or angiotensin receptor blockers (10−5 mol telmisartan, 10−5 mol olmesartan) were obtained and stored at −80°C until use."
+}
+
+--- [9] [success] Epigenetic profile in lipopolysaccharide-stimulated macrophages ---
+doc_id: PMC3953056
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [10] [success] Bacterial Lipopolysaccharide Rapidly Inhibits Expression of C–C Chemokine Receptors in Human Monocytes ---
+doc_id: PMC2196159
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [11] [success] LXA4 Inhibits Lipopolysaccharide-Induced Inflammatory Cell Accumulation by Resident Macrophages in Mice ---
+doc_id: PMC8052121
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [12] [success] Monocyte normal immune response to LPS stimulation ---
+doc_id: PMC3333514
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [13] [success] A Novel Compound C12 Inhibits Inflammatory Cytokine Production and Protects from Inflammatory Injury In Vivo ---
+doc_id: PMC3169595
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [14] [success] IRF3 Promotes Production of IL-6 and Nitric Oxide but Represses CCL22 in RAW264.7 Macrophage Cells Exposed to Lipopolysaccharides in Culture ---
+doc_id: PMC11784258
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [15] [success] Bone marrow-derived CD169+ macrophages promote autoimmune hepatitis by recruiting CCR2+ monocytes via secreting CCL12 ---
+doc_id: PMC12800274
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [16] [success] SCRG1 suppresses LPS-induced CCL22 production through ERK1/2 activation in mouse macrophage Raw264.7 cells ---
+doc_id: PMC5436279
+{
+  "answer": "yes",
+  "evidence": "Ccl12 | Chemokine (C-C motif) ligand 12 | 929.29 | 749.61 | 70.521",
+  "context": "Raw264.7 cells were stimulated with 10 ng/ml LPS, 100 ng/ml rmSCRG1, or 10 ng/ml LPS plus 100 ng/ml rmSCRG1 for 6 h."
+}
+
+--- [17] [success] Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyromonas endodontalis, Induces Macrophage M1 Profile ---
+doc_id: PMC9456100
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [18] [success] Investigation of microRNAs in mouse macrophage responses to lipopolysaccharide-stimulation by combining gene expression with microRNA-target information ---
+doc_id: PMC4682375
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [19] [success] LPS-Induced Modifications in Macrophage Transcript and Secretion Profiles Are Linked to Muscle Wasting and Glucose Intolerance ---
+doc_id: PMC10940789
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [20] [success] Selective Suppression of Interleukin-12 Induction after Macrophage Receptor Ligation ---
+doc_id: PMC2196339
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [21] [success] Macrophage phenotype in sepsis immunosuppression ---
+doc_id: PMC4470529
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [22] [success] CCL12 induces trabecular bone loss by stimulating RANKL production in BMSCs during acute lung injury ---
+doc_id: PMC10167364
+{
+  "answer": "yes",
+  "evidence": "Of these, CCL2, 12, and 17 and CXCL1 and 9 were increased in response to LPS administration compared with baseline (Day 0, without LPS) (Fig. 2a).",
+  "context": "An antibody array was conducted to investigate the temporal secretion of 11 chemokines, including CCL2, 5, 11, 12, 17, and 24 and CXCL1, 4, 5, 9, and 13, in the serum of LPS- and saline-treated mice."
+}
+
+--- [23] [success] Comparative Study of The Effect of LPS on The Function of BALB/c and C57BL/6 Peritoneal Macrophages ---
+doc_id: PMC3660024
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [24] [success] Selection of reliable reference genes for the normalisation of gene expression levels following time course LPS stimulation of murine bone marrow derived macrophages ---
+doc_id: PMC5627409
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [25] [success] Deficiency of Lactoferrin aggravates lipopolysaccharide-induced acute inflammation via recruitment macrophage in mice ---
+doc_id: PMC9159647
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}

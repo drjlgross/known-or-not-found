@@ -1,0 +1,194 @@
+$ src/pc.sh map --from s_c4f8d4e8 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Cxcl10 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_5ad45ee7
+
+  ✓ Pathogenic Roles of CXCL10 in Experimental Autoimmune Prostatitis by M
+    PMC8511489 · 994ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Inhibition of the CXCL9-CXCR3 axis suppresses the progression of exper
+    PMC7844264 · 1296ms
+    {
+      "answer": "yes",
+      "evidence": "Cxcl10 was also increased at days 7 and 14 but decreased at day 28.",
+      "context": "Briefly, cell suspensions were divided into four groups in a 6-well plate, cultured for 1 h, and then washed twice to remove non-adherent cells and used as peritoneal macrophages."
+    }
+
+  ✓ CXCL10/IP-10 Neutralization Can Ameliorate Lipopolysaccharide-Induced 
+    PMC5207674 · 1118ms
+    {
+      "answer": "yes",
+      "evidence": "After 12 h of LPS injection, the relative mRNA expression of CXCL10 and CXCR3 (34.60±9.76 and 1.57±0.32 respectively) were significantly increased compared with the saline control group (p<0.01) (Fig 3A and 3B).",
+      "context": "12 h after LPS or saline was administered, the right lower lungs were obtained."
+    }
+
+  ✓ Anti-Neuroinflammatory Effects of a Macrocyclic Peptide-Peptoid Hybrid
+    PMC11049839 · 1053ms
+    {"answer": "yes", "evidence": "The LPS stimulation of BV2 microglial cells significantly upregulated the expression and release of CXCL10.", "context": "L33"}
+
+  ✓ Macrophage TRIM21 lactylation exacerbates infection-induced orchitis t
+    PMC12847007 · 1202ms
+    {"answer": "yes", "evidence": "As expected, the expression of Cxcl9 and Cxcl10 was substantially increased in the testis after UPEC or LPS treatment, while Ccl17 or Ccl22 exhibited no significant difference.", "context": ""}
+
+  ✓ Evidence for investigating GSK-3 inhibitors as potential therapeutics 
+    PMC8924054 · 1069ms
+    {
+      "answer": "yes",
+      "evidence": "S2, but not S1, as well as LPS (positive control) induced significant CXCL10 at the conditions tested (Fig. 1C).",
+      "context": "THP-1 macrophages were treated with S, S2, S1, 1 EU/mL ultrapure LPS, or media alone for 6 h and the level of CXCL10 in the supernatants subsequently determined."
+    }
+
+  ✓ Advanced glycation end-products reduce lipopolysaccharide uptake by ma
+    PMC7833212 · 1269ms
+    {
+      "answer": "yes",
+      "evidence": "We confirmed that the remarkably increased CXCL10 production in the culture supernatants were able to be detected by exposure to LPS for 24 h but not 4, 8 and 16 h (Fig 2C).",
+      "context": "(C) Time course of CXCL10 levels in the culture supernatants obtained from cells treated with LPS at 1 \u0393\u0395g/mL (n = 6, Dunnett\u2019s test)."
+    }
+
+  ✓ The role of CXCL10 in the pathogenesis of experimental septic shock
+    PMC4075230 · 979ms
+    {
+      "answer": "yes",
+      "evidence": "Concentrations of CXCL10 increased in plasma and the peritoneal cavity within 4 hours after CLP and remained elevated at 8 and 16 hours with the highest concentrations being measured at 8 hours after CLP (Figure 1).",
+      "context": "Septic shock was induced by cecal ligation and puncture (CLP) in mice resuscitated with lactated Ringer’s solution and, in some cases, the broad spectrum antibiotic Primaxin."
+    }
+
+  ✓ Lipopolysaccharide worsens the prognosis of experimental cerebral isch
+    PMC6935231 · 1660ms
+    {
+      "answer": "yes",
+      "evidence": "As shown in Fig. 6a, the mRNA level of CXCL 10 in Sham + LPS, MCAO and MCAO + LPS group was significant 4.36-fold, 8.31-fold and 14.73-fold changes respectively compared with that in Sham group.",
+      "context": "Lipopolysaccharide (LPS, serotype: 055: B5, Sigma L2880) was administered intraperitoneally at doses of 40 \u0393\u0398/ 300 g rat (134 \u0393\u0398/kg) or 80 \u0393\u0398/ 300 g rat (268 \u0393\u0398/kg) immediately after MCAO surgery [14\u201316]."
+    }
+
+  ✓ CXCL10 deficiency limits macrophage infiltration, preserves lung matri
+    PMC10594718 · 1093ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Identification of the Molecular Mechanism by which TLR Ligation and IF
+    PMC2275409 · 834ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Pathogenic roles of CXCL10 signaling through CXCR3 and TLR4 in macroph
+    PMC5518115 · 1093ms
+    {
+      "answer": "yes",
+      "evidence": "In addition, CAIA greatly induced the mRNA expression of CXCL10, RANKL, TNFα, and IL-6 in spleens from WT mice, but not in spleens from Cxcl10 –/– and Cxcr3 –/– mice (Fig. 6c, d).",
+      "context": "Three days after antibody administration, 100 μg lipopolysaccharide (LPS) was injected intraperitoneally in both CAIA and control mice."
+    }
+
+  ✓ CXCL10-Mediates Macrophage, but not Other Innate Immune Cells-Associat
+    PMC4923862 · 903ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Protection mediated by chemokine CXCL10 in BALB/c mice infected by Lei
+    PMC5530548 · 807ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Role of Chemokine (C–X–C Motif) Ligand 10 (CXCL10) in Renal Diseases
+    PMC7025113 · 1434ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ CXCL10 Controls Inflammatory Pain via Opioid Peptide-Containing Macrop
+    PMC3986408 · 1282ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Therapeutic effect of anti-C-X-C motif chemokine 10 (CXCL10) antibody 
+    PMC4095607 · 839ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Data on the expression of CXCR3 ligands and pro-inflammatory cytokines
+    PMC5996269 · 917ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Neuroprotection by Preconditioning in Mice is Dependent on MyD88-Media
+    PMC9810995 · 1628ms
+    {"answer": "yes", "evidence": "NanoString nCounter transcript analyses of CD31-positive brain endothelial cells further revealed significant upregulation of Cxcl10, C3, Ccl2, Il1\u0327, Cxcl2, and Cxcl1, consistent with identification of myeloid differentiation primary response 88 (MyD88) as a regulator of these transcripts by pathway analysis.", "context": ""}
+
+  ✓ CXCL10 secreted by SPRY1-deficient epidermal keratinocytes fuels joint
+    PMC12321389 · 1275ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Myometrial‐derived CXCL12 promotes lipopolysaccharide induced preterm 
+    PMC9077289 · 866ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Dietary fats suppress the peritoneal seeding of colorectal cancer cell
+    PMC7566605 · 1449ms
+    {
+      "answer": "yes",
+      "evidence": "f–h A fatty acid stimulates TLR4-dependent proinflammatory cytokine expression. Peritoneal macrophages from WT or TLR4-ko mice were treated with SA (200 µM) or LPS (100 ng ml−1) for 6 h, and then RNA was extracted for real-time PCR analysis of TNFα, IL-1β, and Cxcl10.",
+      "context": "f–h A fatty acid stimulates TLR4-dependent proinflammatory cytokine expression. Peritoneal macrophages from WT or TLR4-ko mice were treated with SA (200 µM) or LPS (100 ng ml−1) for 6 h, and then RNA was extracted for real-time PCR analysis of TNFα, IL-1β, and Cxcl10."
+    }
+
+  ✓ The role of CXCL10 in high‐fat diet–induced skeletal muscle inflammati
+    PMC13137287 · 1235ms
+    {"answer":"yes","evidence":"Treatment of C2C12 myotubes with LPS also reduced myotube diameter (Figure 5e,f) and increased the expression of genes related to inflammation or protein degradation as well as that of Cxcl10 (Figure 5g).","context":"Fully differentiated C2C12 myotubes were treated for 6 or 24 h with LPS (0.1 \u0355g/mL, Sigma\u2010Aldrich) or recombinant mouse CXCL10 (0.1 ng/mL, R&D Systems), with or without antibodies to CXCL10 (MAB466\u2010500, R&D Systems)."}
+
+  ✓ CXCL10/CXCR3 axis facilitates the M2 polarization of macrophages in co
+    PMC12796076 · 1080ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Anti-Inflammatory Effects of Cicadidae Periostracum Extract and Oleic 
+    PMC9225349 · 1511ms
+    {
+      "answer": "yes",
+      "evidence": "L173: Cxcl10 | Chemokine (C-X-C motif) ligand 10 | 70.39 | 0.000000",
+      "context": "L38: The mRNA expression levels of chemokines CCL20, CXCL5, CXCL1, CCL2, CXCL10, CXCL11, CCL7, IL-6, CXCL3, CCL17 CXCL2, CCL8, CCRL2, TLR2, PPBP (CXCL7), CCL4, CCL5, and CCL9 were significantly increased in the LPS-stimulated group compared with the normal group."
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[29.6s, saved to m_5ad45ee7]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  1/25 papers  run m_5ad45ee7  [2s]
+  [######..............]  8/25 papers  run m_5ad45ee7  [4s]
+  [#########...........]  12/25 papers  run m_5ad45ee7  [6s]
+  [##########..........]  13/25 papers  run m_5ad45ee7  [8s]
+  [###############.....]  19/25 papers  run m_5ad45ee7  [16s]
+  [####################]  25/25 papers  run m_5ad45ee7  [18s]
+  [####################]  25/25 papers  run m_5ad45ee7  [27s]
+  [####################]  25/25 papers  run m_5ad45ee7  [29s]
+

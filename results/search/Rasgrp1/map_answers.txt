@@ -1,0 +1,182 @@
+Map results  [m_4a0e6f45]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Rasgrp1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+
+--- [1] [success] RasGRP3 limits Toll-like receptor-triggered inflammatory response in macrophages by activating Rap1 small GTPase ---
+doc_id: PMC4143924
+{
+  "answer": "yes",
+  "evidence": "In addition, we found that RasGRP2 and RasGRP4 were downregulated while RasGRP1 was upregulated by LPS, Poly (I:C) or CpG ODN (Supplementary Fig. 1).",
+  "context": "By examining the expression profiles of RasGRP1–4 in mouse peritoneal macrophages and mouse bone marrow-derived macrophages, we found that RasGRP3 showed the highest expression level, sequentially followed by RasGRP2 or RasGRP4 (Fig. 1a,b)."
+}
+
+--- [2] [success] Ras guanine nucleotide exchange factor RasGRP1 promotes acute inflammatory response and restricts inflammation-contributed cancer cell growth ---
+doc_id: bio_eb63fe517001
+{
+  "answer": "yes",
+  "evidence": "To determine whether RasGRP1 is coexpressed with IL-6 during acute inflammatory response, we treated mouse peritoneal macrophages with gradient doses of LPS and observed that RasGRP1 and IL-6 were significantly upregulated in a dose-dependent manner ( Fig. 2a ).",
+  "context": "Quantitative PCR (Q-PCR) analysis of IL-6 and RasGRP1 mRNA expression in peritoneal macrophages treated with different doses of LPS (0, 1, 10 or 100 ng/ml) ( a ), Poly (I:C) (0, 5, 20 or 80 μg/ml) ( b ), or CpG ODN (0, 1, 3 or 9 μg/ml) ( c ) for 6h."
+}
+
+--- [3] [success] RasGRP Exacerbates Lipopolysaccharide-Induced Acute Kidney Injury Through Regulation of ERK Activation ---
+doc_id: PMC8860163
+{
+  "answer": "yes",
+  "evidence": "We found that after LPS stimulation, the level of RasGRP continued to increase over time in mouse macrophages (Figure 1C and 1D).",
+  "context": "C, The mRNA level of RasGRP in bone marrow–derived macrophages (BMDMs) stimulated with lipopolysaccharide (LPS) (100 ng/mL) was detected by qPCR for the indicated time points (n = 6)."
+}
+
+--- [4] [success] Nurr1 performs its anti-inflammatory function by regulating RasGRP1 expression in neuro-inflammation ---
+doc_id: PMC7329810
+{
+  "answer": "yes",
+  "evidence": "Among several candidates that showed a significant correlation in the ChIP sequencing data, RasGRP1 was transcriptionally upregulated in the LPS (1 \u0393\u0393g/ml) treated BV2 cells for 6 h in a serum free condition (Fig. 2A, B).",
+  "context": "BV2 cells expressing GFP or GFP-tagged Nurr1 were treated with LPS (1 \u0393\u0393g/ml) or saline for 6 h."
+}
+
+--- [5] [success] Lipopolysaccharide-induced inflammation in monocytes/macrophages is blocked by liposomal delivery of Gi-protein inhibitor ---
+doc_id: PMC5743190
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [6] [success] Transcriptomic analysis reveals that RasGEF1b deletion alters basal and LPS-induced expression of genes involved in chemotaxis and cytokine responses in macrophages ---
+doc_id: PMC10638313
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [7] [success] Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC6543837
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [8] [success] Citri Reticulatae Pericarpium Limits TLR-4-Triggered Inflammatory Response in Raw264.7 Macrophages by Activating RasGRP3 ---
+doc_id: PMC10530606
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [9] [success] Genome-wide siRNA screen of genes regulating the LPS-induced NF-κB and TNF-α responses in mouse macrophages ---
+doc_id: PMC5332015
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [10] [success] RasGRP1 promotes the acute inflammatory response and restricts inflammation-associated cancer cell growth ---
+doc_id: PMC9669001
+{
+  "answer": "yes",
+  "evidence": "To explore the relationship of Rasgrp1 and Il6 during the acute inflammatory response, we treated mouse peritoneal macrophages with a range of doses of LPS and observed that the expression of Rasgrp1 and Il6 was significantly upregulated in a dose-dependent manner (Fig. 2a).",
+  "context": "Quantitative PCR (Q-PCR) analysis of Il6 and Rasgrp1 mRNA expression in peritoneal macrophages treated with different doses of lipopolysaccharide (LPS; 0, 1, 10 or 100 ng/ml) (a), polyinosinic-polycytidylic acid (poly(I:C); 0, 5, 20 or 80 \u0334g/ml) (b), or CpG oligodeoxynucleotide (0, 1, 3 or 9 \u0334g/ml) (c) for 6 h."
+}
+
+--- [11] [success] CD117+ Dendritic and Mast Cells Are Dependent on RasGRP4 to Function as Accessory Cells for Optimal Natural Killer Cell-Mediated Responses to Lipopolysaccharide ---
+doc_id: PMC4794117
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [12] [success] Analysis of the transcriptional networks underpinning the activation of murine macrophages by inflammatory mediators ---
+doc_id: PMC4378362
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [13] [success] Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC7053374
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [14] [success] Mechanistic characterization of  RASGRP1  variants identifies an hnRNP K-regulated transcriptional enhancer contributing to SLE susceptibility ---
+doc_id: bio_13d78d916c10
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [15] [success] Transcriptomic analysis of the role of RasGEF1B circular RNA in the TLR4/LPS pathway ---
+doc_id: PMC5612941
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [16] [success] Expression analysis of G Protein-Coupled Receptors in mouse macrophages ---
+doc_id: PMC2394514
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [17] [success] Epigenetic profile in lipopolysaccharide-stimulated macrophages ---
+doc_id: PMC3953056
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [18] [success] RASGRP1 Deficiency Manifesting as Severe Vasculopathy and Fatal Autoimmune Hemolytic Anemia ---
+doc_id: PMC13240410
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [19] [success] Regulation of RasGRP1 Function in T Cell Development and Activation by Its Unique Tail Domain ---
+doc_id: PMC3373593
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [20] [success] Critical Role of Regulator G-Protein Signaling 10 (RGS10) in Modulating Macrophage M1/M2 Activation ---
+doc_id: PMC3836764
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [21] [success] Monocyte normal immune response to LPS stimulation ---
+doc_id: PMC3333514
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [22] [success] Activation of Raf-1 and mitogen-activated protein kinase in murine macrophages partially mimics lipopolysaccharide-induced signaling events ---
+doc_id: PMC2192101
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [23] [success] Transcriptional profiling of the LPS induced NF-κB response in macrophages ---
+doc_id: PMC1781469
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [24] [success] Targeting RAS guanyl releasing protein 1 promotes T lymphocytes infiltrations and improves anti‐programmed death receptor ligand 1 therapy response of triple‐negative breast cancer ---
+doc_id: PMC10352603
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [25] [success] A Global Picture of Molecular Changes Associated to LPS Treatment in THP-1 Derived Human Macrophages by Fourier Transform Infrared Microspectroscopy ---
+doc_id: PMC9656053
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}

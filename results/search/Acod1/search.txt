@@ -1,0 +1,337 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Acod1 (aconitate decarboxylase 1) LPS macrophage
+# exit 0
+Found 25 papers  [s_ad1d55b9]
+
+  1. Immunometabolism: signaling pathways, homeostasis, and therapeutic targets
+     Rongrong Xu; Xiaobo He; Jia Xu; Ganjun Yu; Yanfeng Wu
+     PMC11531657 · PMC · 2024-11-03 · 41 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11531657/
+     Matched: Aconitate decarboxylase 1 · cat /papers/PMC11531657/content.lines --lines 92-93
+     │ ACOD1, also known as immune‐responsive gene 1 protein (IRG1), is a homodimeric enzyme
+     │ primarily localized in macrophage mitochondria and is essential for macrophage metabolic
+     │ reprogramming.[202] LPS, cytokines IFN‐γ, TNF, and TLR agonists robustly upregulated the
+     │ expression of ACOD1 in macrophages via TLR signaling. Furthermore, there was a significant
+     │ synergistic effect between IFN‐γ and TNF on the induction of ACOD1. Additionally, low‐level
+     │ expression of ACOD1 was also induced by IFN‐β and IL‐1β. Remarkably increased expression of
+     │ ACOD1 was observed in models of Listeria monocytogenes and Toxoplasma gondii infection.[202]
+     │ In activated macrophages, ACOD1 catalyzes the decarboxylation of …
+     "This review summarizes how immune cell metabolism is reprogrammed and regulated by signaling pathways and microenvironmental cues. It highlights immunometabolic enzymes as key modulators of immune cell function and potential therapeutic targets for various diseases."
+
+  2. ACOD1 regulates microglial arginine metabolism and inflammatory responses
+     Eleftheria Karadima; Canelif Yilmaz; Anupam Sinha; Georgia Fodelianaki; Sofia Dimothyra; Nikolaos Ni...
+     PMC13033549 · PMC · 2026-03-16 · 2 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13033549/
+     Matched: Abstract · cat /papers/PMC13033549/content.lines --lines 1-7
+     "ACOD1 deficiency in microglia amplifies inflammatory responses. This is linked to increased ACLY activity, elevated acetyl-CoA, and altered arginine metabolism. These changes favor argininosuccinate production over polyamine synthesis."
+
+  3. Metabolic Reprogramming via targeting ACOD1 promotes polarization and anti-tumor activity of human CAR-iMACs in solid tumors
+     Xudong Wang, Siyu Su, Yuqing Zhu, Xiaolong Cheng, Chen Cheng, Leilei Chen, Anhua Lei, Li Zhang, Yuya...
+     bio_349c238c6ccf · bioRxiv · 2023-04-20 · 2 citations (all versions)
+     Published (2023): https://doi.org/10.1101/2023.04.20.537647
+     Matched: ACOD1  deletion promoted pro-inflammatory activation in tMACs · cat /papers/bio_349c238c6ccf/content.lines --lines 33-34
+     │ The challenge of obtaining KEAP1 -deleted iMACs enabled us to examine other players in the
+     │ pathway. The KEAP1 protein can be modified and regulated via the alkylation of cysteine by a
+     │ metabolite called itaconate 14 . Aconitate decarboxylase 1 (encoded by ACOD1 ) or Immune
+     │ Responsive Gene 1 (IRG1) is the sole enzyme responsible for itaconate production and
+     │ functions as an upstream regulator of KEAP1 15 . The alkylation of KEAP1 allows newly
+     │ synthesized NRF2 to accumulate, transfer to the nucleus, and activate the transcription of
+     │ anti-oxidant genes 16 , 17 . According to this mechanism, we speculate ACOD1 deletion may
+     │ enhance the pro-inflammatory activation of macrophages, opposite to …
+     "ACOD1 was identified as a key regulator of pro-inflammatory macrophage activation. Depleting ACOD1 in CAR-iMACs enhances their anti-tumor activity and efficacy in combination with immunotherapies."
+
+  4. Elevated GFI1 in Alveolar Macrophages Suppresses ACOD1 Expression and Exacerbates Lipopolysaccharide‐Induced Lung Injury in Obesity
+     Jingyue Ma; Yichan Ao; Zhen Yue; Zhiqiao Wang; Xiangyu Hou; Hongbin Li; Hanbing Wang; Siqing Luo; Ji...
+     PMC11967830 · Advanced Science · 2025-02-08 · 7 citations
+     https://doi.org/10.1002/advs.202413546
+     Matched: ACOD1 Deficiency Aggravated LPS‐Induced Macrophage Inflammation and Ox · cat /papers/PMC11967830/content.lines --lines 37-38
+     │ To further investigate the role of ACOD1 in LPS‐induced inflammation and oxidative stress in
+     │ alveolar macrophages, we generated a stable ACOD1‐knockdown MH‐s cell line using lentiviral
+     │ shACOD1 (MOI = 50) (Figure 4A). ACOD1 mRNA and protein levels were significantly reduced in
+     │ these knockdown cells (Figure 4B). Upon LPS exposure, mRNA levels of M1 macrophage markers
+     │ iNOS and CD86 were significantly upregulated, accompanied by a notable downregulation of
+     │ mRNA levels of M2 macrophage markers Arg‐1 and CD206. This M1/M2 polarization imbalance was
+     │ further aggravated in ACOD1‐knockdown cells, with even higher expression of M1 markers and
+     │ further suppression of M2 markers (Figure 4C). Flow …
+     "This study investigated mechanisms of worsened lung injury in obesity. Elevated GFI1 in alveolar macrophages suppresses ACOD1, exacerbating lipopolysaccharide-induced lung injury."
+
+  5. A robust structural, kinetic and biophysical characterization of human ACOD1 to support novel chemotherapeutic development
+     Brent Runge; Hande Oktay; Ian J. Fucci; Sergey G. Tarasov; Lixin Fan; Diana C. F. Monteiro
+     bio_80a036707fd2 · bioRxiv · 2026-01-01 · 0 citations (all versions)
+     Published (2025): https://doi.org/10.1101/2025.06.13.659517
+     Matched: cat /papers/bio_80a036707fd2/content.lines --lines 2-4
+     │ Human aconitate decarboxylase 1 (hACOD1) plays a pivotal immunoregulatory role in host-
+     │ pathogen interactions1-4, both pro- and anti-inflammatory responses5-7, and in the
+     │ modulation of oxidative stress responses8,9. hACOD1 has also been specifically shown to
+     │ contribute to the maintenance of tumor microenvironments10,11. hACOD1 is encoded by the
+     │ human immune regulatory gene 1 (hIRG1) and is responsible for catalyzing the decarboxylation
+     │ of cis-aconitate to yield the terminal metabolite itaconate in the tricarboxylic acid (TCA)
+     │ cycle (Fig. 1)12. Itaconate was initially identified as a key metabolite highly upregulated
+     │ in macrophages triggered by inflammatory stimuli, such as the recognition of …
+     "Human aconitate decarboxylase (ACOD1) has emerged as a therapeutic target for cancer and inflammatory diseases, with its metabolic product, itaconate, as a multifunctional metabolite shown to drive se"
+
+  6. The role of itaconate in host defense and inflammation
+     Christian G. Peace; Luke A.J. O’Neill
+     PMC8759771 · PMC · 2022-01-18 · 431 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8759771/
+     Matched: cat /papers/PMC8759771/content.lines --lines 7-9
+     │ Macrophages, upon classical activation by the Toll-like receptor 4 (TLR4) ligand
+     │ lipopolysaccharide (LPS), undergo metabolic reprogramming to meet newly required
+     │ bioenergetic and biosynthetic demands that regulate macrophage effector function. Generally,
+     │ anabolic pathways that fuel biosynthesis, such as aerobic glycolysis (termed the “Warburg
+     │ effect”), are highly upregulated, whereas catabolic pathways such as oxidative
+     │ phosphorylation (OXPHOS) become downregulated (1). In LPS-activated macrophages, the Krebs
+     │ cycle (also known as the citric acid or tricarboxylic acid cycle) and OXPHOS are initially
+     │ upregulated, followed by the nitric oxide–mediated disruption of the Krebs cycle and …
+     "This review examines itaconate's role in macrophage metabolic reprogramming and host defense. Itaconate acts as a key immunometabolite with diverse anti-inflammatory effects, suggesting potential therapeutic applications."
+
+  7. Cepharanthine Alleviates DSS-Induced Ulcerative Colitis via Regulating Aconitate Decarboxylase 1 Expression and Macrophage Infiltration
+     Min-Na Zhang; Rui Xie; Hong-Gang Wang; Xin Wen; Jing-Yi Wang; Le He; Meng-Hui Zhang; Xiao-Zhong Yang
+     PMC9920045 · Molecules · 2023-01-20 · 15 citations
+     https://doi.org/10.3390/molecules28031060
+     Matched: 2.2. CEP Inhibits LPS-Induced Secretion of Pro-Inflammatory Cytokines  · cat /papers/PMC9920045/content.lines --lines 19
+     │ RAW264.7 cells were used to determine the in vitro anti-inflammatory effects of CEP. We
+     │ examined pro-inflammatory cytokine levels in RAW264.7 macrophages exposed to various
+     │ concentrations of CEP in the presence of LPS by qRT-PCR. The results showed that the levels
+     │ of TNF-α, IL-1β, and IL-6 were reduced in the supernatant after exposure to different
+     │ concentrations of CEP, most evidently to 10 ug/mL CEP (Figure 2A). Cell RNA sequencing
+     │ results suggested that the expression of ACOD1 in macrophages increased most significantly
+     │ after LPS stimulation (Table 1). Subsequently, we used LPS-activated macrophages as a
+     │ positive control, and macrophages were treated with CEP of various concentrations …
+     "Cepharanthine was studied for its effects on ulcerative colitis (UC) in vitro and in vivo. Cepharanthine alleviates UC by modulating gut microbiota and inhibiting aconitate decarboxylase 1 expression."
+
+  8. Human iPSC derived alveolar macrophages reveal macrophage subtype specific functions of itaconate in  M. tuberculosis  host defense
+     Adam Krebs, Tomi Lazarov, Anthony Reynolds, Kimberly A. Dill-McFarland, Abigail Xie, James Bean, Mux...
+     bio_e9fc7e337070 · bioRxiv · 2025-07-23 · 2 citations (all versions)
+     Published (2025): https://doi.org/10.1101/2025.07.23.664455
+     Matched: ACOD1 immunoblotting · cat /papers/bio_e9fc7e337070/content.lines --lines 88
+     │ Mature iPSC derived macrophages were treated with LPS (100ng/mL) for either four or six
+     │ hours, Mtb (multiplicity of infection:10), or Mtb (multiplicity of infection:10) and LPS
+     │ (100ng/mL) for four hours. Cells were washed once with PBS then treated with trypsin and
+     │ incubated at 37°C for 5 minutes. Following this incubation, trypsin was neutralized with 2x
+     │ volume of cold macrophage differentiation media and cells were detached by pipetting and
+     │ scraping the bottom of the well. Cells were then centrifuged at 400xg for 5 minutes before
+     │ the cellular pellet was resuspended cold lysis buffer (Tris-HCl pH 7.4, NaCl, EDTA, Triton
+     │ X-100, Na 3 VO 4 , phosSTOP EASYPACK, Pefabloc, and EDTA-free complete …
+     "Human iPSC-derived alveolar-like macrophages and control macrophages were studied for itaconate's role in *M. tuberculosis* defense. Itaconate is crucial for alveolar-like macrophage resistance to *M. tuberculosis* and dampens inflammation in control macrophages."
+
+  9. The STING1-MYD88 complex drives ACOD1/IRG1 expression and function in lethal innate immunity
+     Feng Chen; Runliu Wu; Jiao Liu; Rui Kang; Jinbao Li; Daolin Tang
+     PMC9234224 · PMC · 2022-06-08 · 44 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9234224/
+     Matched: STING1 is required for lipopolysaccharide-induced ACOD1 expression · cat /papers/PMC9234224/content.lines --lines 17-18
+     │ The Acod1 gene was first cloned in RAW264.7 cells (a mouse macrophage-like cell line)
+     │ following stimulation with 5000 ng/mL LPS for 1.5 h (Lee et al., 1995). Subsequent studies
+     │ showed that the peak of ACOD1 expression in macrophages induced by LPS appears at 6 h (Li et
+     │ al., 2013b). To determine the effects of STING1 on ACOD1 expression, we treated RAW264.7
+     │ cells with 50-5000 ng/mL LPS in the absence or presence of 3′3′-cGAMP for 6 h. The
+     │ 3′3′-cGAMP is a cyclic dinucleotide (CDN) produced by bacteria and acts as a canonical
+     │ STING1 ligand (Zhang et al., 2013). A qPCR analysis revealed that 3′3′-cGAMP alone cannot
+     │ trigger Acod1 mRNA expression, but significantly increases LPS-induced Acod1 …
+     "STING1 and MYD88 form a complex that drives ACOD1 expression and itaconate production in myeloid cells. This pathway is crucial for lethal innate immunity, as its deletion protects mice from sepsis."
+
+  10. Acod1 negatively impacts osteoclastogenesis via GPR91-mediated NFATc1 activation
+     Yue Gao, Franziska V. Kraus, Elisabeth Seebach, Sushmita Chakraborty, Dominik Schaack, Judith Schenz...
+     bio_8c10d61e7291 · bioRxiv · 2022-04-07 · 2 citations (all versions)
+     Published (2022): https://doi.org/10.1101/2022.04.07.487467
+     Matched: RANKL induces Acod1 expression · cat /papers/bio_8c10d61e7291/content.lines --lines 52-53
+     │ LPS and other TLR ligands are well-known inducers of Irg1 . In addition, various pro-
+     │ inflammatory cytokines, such as IFN-β and TNF-α are able to induce Acod1 expression ( 30 ,
+     │ 31 ). As it was shown previously that octyl-itaconate can inhibit osteoclastogenesis ( 32 ),
+     │ we investigated, whether the cytokine RANKL which is a member of the TNF family, is able to
+     │ induce the production of endogenous itaconate through Irg1 expression. We therefore
+     │ stimulated primary bone marrow-derived macrophages as well as RAW264.7 macrophages with
+     │ M-CSF, M-CSF/RANKL or LPS as a control and determined the gene transcription of Irg1 . As an
+     │ initial time-course between 3 and 24 hours indicated a strong …
+     "Acod1 was studied for its role in osteoclast formation. Acod1 suppresses osteoclastogenesis by inhibiting GPR91-mediated NFATc1 activation."
+
+  11. Protective role of aconitate decarboxylase 1 in neuroinflammation-induced dysfunctions of the paraventricular thalamus and sleepiness
+     Jianjun Chang; Zijie Li; Hui Yuan; Xuejiao Wang; Jingyi Xu; Pingting Yang; Ling Qin
+     PMC11551151 · PMC · 2024-11-10 · 7 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11551151/
+     Matched: Acod1 induction in PVT microglia of LPS-treated mice · cat /papers/PMC11551151/content.lines --lines 35-36
+     │ Western blot analysis confirmed that the protein expression of Acod1 was upregulated on day
+     │ 1 after LPS injection and returned to the baseline level by 7 days (Fig. 6A, B).
+     │ Immunofluorescence staining of brain slices showed that the expression of Acod1 was low in
+     │ the PVT microglia of PBS 1 d mice, but significantly increased in activated microglia of LPS
+     │ 1 d mice and largely disappeared in LPS 7 d mice (Fig. 6C, D). In addition, we observed
+     │ relative weak expression of Acod1 outside of the PVT. In this study, we administered a low
+     │ dose of LPS, which was insufficient to induce complete disruption of the blood-brain
+     │ barrier[34],[35]. The subsequent inflammatory response within the brain was …
+     "This study investigated the role of aconitate decarboxylase 1 (Acod1) in neuroinflammation-induced sleepiness. Acod1 in the paraventricular thalamus protects against inflammation-induced sleepiness by regulating microglia activation and neuronal function."
+
+  12. Sustained Antigen Stimulation to Evoke and Study Negative feedback Systems responsible for Self-Tolerance/Tumor Immune Escape and transition to the M2 macrophage
+     Elizabeth A. Mazzio, Andrew S Barnes, Ramesh B Badisa, Selina F Darling-Reed, Karam FA Soliman *
+     bio_28cf1b287b4e · bioRxiv · 2025-04-13 · 0 citations (all versions)
+     Published (2025): https://doi.org/10.1101/2025.04.13.648563
+     Matched: -IRG1/ACOD1 · cat /papers/bio_28cf1b287b4e/content.lines --lines 89
+     │ The data revealed that chronic inflammation is associated with a sustained reduction in
+     │ immune-responsive gene 1 (IRG1) ( 304 ) which is also reflective of a dysfunctional TCA
+     │ cycle and OXPPHOS, as previously discussed. A tolerance-mediated response loss of “Acod1”
+     │ aconitate decarboxylase 1, *Acod1 (−4.18 Log2FC p-VaL <1.00E-300) is well known to be
+     │ involved in the pathology of inflammatory diseases such as atherosclerosis, infection ( 305
+     │ – 308 ), pulmonary fibrosis, herpes simplex virus-1 and −2 (HSV-1 and HSV-2), vaccinia virus
+     │ and Zika virus, various bacterial infections ( 309 ) insulin resistance and lipidemia ( 310
+     │ ). There has been considerable interest in the development of …
+     "Sustained antigen stimulation was used to induce negative feedback in immunocompetent cells. This process leads to immune escape, characterized by elevated checkpoints and suppressed host defense mechanisms."
+
+  13. Dopamine as an endogenous regulator of innate immunity in sepsis
+     Haichao Wang; Rui Kang; Daolin Tang
+     PMC12283268 · PMC · 2025-07-09 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12283268/
+     Matched: Novel role of DA in the regulation of ACOD1 expression · cat /papers/PMC12283268/content.lines --lines 25-26
+     │ Aconitate decarboxylase 1 (ACOD1, also known as immune-responsive gene 1, IRG1) is a
+     │ critical regulator of immunometabolism and inflammation, particularly in the context of
+     │ infection and injury. While initially recognized for its role in generating the anti-
+     │ inflammatory metabolite itaconate, ACOD1’s functions have proven to be multifaceted,
+     │ encompassing both itaconate-dependent and -independent mechanisms ( Figure 1 ). Initially,
+     │ the well-characterized function of ACOD1 relates to its catalysis of cis-aconitate to
+     │ itaconate within the mitochondria. This activity is markedly upregulated in macrophages and
+     │ other immune cells upon stimulation with inflammatory stimuli like lipopolysaccharide …
+     "This paper investigates dopamine's role in regulating the innate immune response during sepsis. Dopamine is found to be a critical regulator of aconitate decarboxylase 1 (ACOD1) in sepsis."
+
+  14. Human iPSC-derived alveolar macrophages reveal macrophage subtype functions of itaconate in M. tuberculosis defense
+     Adam S. Krebs; Tomi Lazarov; Anthony T. Reynolds; Kimberly A. Dill-McFarland; Abigail Xie; James M. ...
+     PMC13041677 · PMC · 2026-03-09 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13041677/
+     Matched: ACOD1 immunoblotting. · cat /papers/PMC13041677/content.lines --lines 78
+     │ Mature iPSC-derived macrophages were treated with LPS (100 ng/mL) for either 4 or 6 hours,
+     │ Mtb (MOI 10), or Mtb (MOI 10) and LPS (100 ng/mL) for 4 hours. Cells were washed once with
+     │ PBS then treated with trypsin and incubated at 37°C for 5 minutes. After this incubation,
+     │ trypsin was neutralized with 2× volume of cold macrophage differentiation media, and cells
+     │ were detached by pipetting and scraping the bottom of the well. Cells were then centrifuged
+     │ at 400g for 5 minutes before the cellular pellet was resuspended in cold lysis buffer (Tris-
+     │ HCl pH 7.4, NaCl, EDTA, Triton X-100, Na3VO4, phosSTOP EASYPACK, Pefabloc, and EDTA-free
+     │ complete protease inhibitor cocktail) and incubated for 20 …
+     "Human iPSC-derived alveolar macrophages show itaconate is crucial for controlling *M. tuberculosis* growth. Itaconate dampens inflammatory responses in monocyte-derived macrophages but not alveolar macrophages. This highlights distinct roles for itaconate in different human macrophage subtypes during infection."
+
+  15. Identification of a metabolic–immune crosstalk in Still’s disease: monocyte/macrophage-derived immunometabolite itaconate dictates hepatic immunopathology via the CXCL10–CD8 T cell axis
+     Junna Ye; Fan Wang; Zhuochao Zhou; Jinchao Jia; Ziang Wu; Yijun You; Nadiem Atiq; Yutong Su; Huihui ...
+     PMC13324752 · PMC · 2026-06-05 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13324752/
+     Matched: ACOD1 dictates systemic disease manifestations and hepatic immunopatho · cat /papers/PMC13324752/content.lines --lines 68
+     "Still’s disease (SD) is a chronic and systemic autoinflammatory disorder, with the possibility of resulting in life-threatening complications, including macrophage activation syndrome (MAS). The metab"
+
+  16. Inflammation-associated monocytes express ACOD1 to curtail inflammatory behaviour in IBD and experimental colitis
+     Gareth-Rhys Jones *, Broc Drury, Tobi Alegbe, Monika Krzak, Lizi M Hegarty, Tim Raine, Adam Bryne, C...
+     bio_ed41946f7176 · bioRxiv · 2024-11-15 · 2 citations (all versions)
+     Published (2024): https://doi.org/10.1101/2024.11.15.623347
+     Matched: ACOD1 regulates monocyte behaviour in inflammation · cat /papers/bio_ed41946f7176/content.lines --lines 50-51
+     │ Given our previous data suggested ACOD1/Acod1 is expressed exclusively in IAMs, we assessed
+     │ the function of ACOD1 in IAM mo in vivo , using Acod1 −/− mice 36 . Consistent with IAM
+     │ specific expression, Acod1 deficiency had no effect on the distribution of MDP, GMP and cMOP
+     │ in BM ( Supp. Figure 5a ), steady state colon monocytes / macrophages ( Supp. Figure 5b ),
+     │ or steady state colon tissue architecture ( Supp. Figure 5c ) with these parameters
+     │ identical to those in WT controls. As the defining feature of IAMs was both high expression
+     │ of pro-inflammatory mediators and ACOD1, the obligate source of the anti-inflammatory
+     │ metabolite itaconate, we hypothesised that selective expression …
+     "This study identified inflammation-associated monocytes (IAMs) in human IBD and experimental colitis. These IAMs express ACOD1, which curtails their inflammatory cytokine production."
+
+  17. Identification of novel protein biomarkers of macrophage polarization using comparative proteomic analyses of murine primary macrophages
+     Baolong Liu, Phuong Linh Nguyen, Pengfei Li, Michael J Naldrett, Sophie Alvarez, Jiujiu Yu
+     PMC12576133 · PMC · 2025-10-01 · 5 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12576133/
+     Matched: Discussion · cat /papers/PMC12576133/content.lines --lines 68-69
+     "Murine macrophages were polarized into M1 and M2 states and their proteomes compared. Clec4e and Cd72 were identified as new biomarkers for murine M1 and M2 macrophages, respectively, with Gbp2 and Acod1 also identified as shared M1 biomarkers."
+
+  18. Control of immune cell signaling by the immuno-metabolite itaconate
+     Roland Lang; Md Nur A Alam Siddique
+     PMC10938597 · PMC · 2024-02-28 · 48 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10938597/
+     Matched: Induction of ACOD1 expression · cat /papers/PMC10938597/content.lines --lines 16-18
+     "This review summarizes how the immune-metabolite itaconate, produced by macrophages, modulates immune cell signaling and metabolism. Itaconate targets multiple proteins, influencing inflammatory and adaptive immune responses, offering potential therapeutic applications."
+
+  19. Macrophages inhibit  Coxiella burnetii  by the ACOD1-itaconate pathway for containment of Q fever
+     Lisa Kohl, Md. Nur A Alam Siddique, Barbara Bodendorfer, Raffaela Berger, Annica Preikschat, Christo...
+     bio_3de035726f50 · bioRxiv · 2022-05-10 · 30 citations (all versions)
+     Published (2023): https://doi.org/10.15252/emmm.202215931
+     Preprint: https://doi.org/10.1101/2022.05.10.491306
+     Matched: Introduction · cat /papers/bio_3de035726f50/content.lines --lines 28-29
+     │ Itaconate (ITA) is derived from cis-aconitate, which is an intermediate in the conversion of
+     │ citrate to isocitrate within the TCA cycle and serves as a substrate for the enzyme cis-
+     │ aconitate decarboxylase (ACOD1) (encoded by Acod1 , also termed immune responsive gene-1 [
+     │ Irg1 ]). ACOD1 is associated with mitochondria ( Degrandi et al., 2009 ) and catalyzes the
+     │ decarboxylation of cis-aconitate to ITA ( Michelucci et al., 2013 ). ITA has recently
+     │ received a lot of attention for its immunoregulatory effects ( Mills et al., 2018 ), but it
+     │ can also inhibit the growth of several bacteria including M. tuberculosis ( Michelucci et
+     │ al., 2013 ) and Legionella (L.) pneumophila ( Naujoks et al., …
+     "The ACOD1-itaconate pathway in macrophages was studied for its role in controlling Coxiella burnetii infection. This pathway is essential for restricting bacterial replication and can be therapeutically exploited to reduce pathogen load."
+
+  20. A neuroimmune pathway drives bacterial infection
+     Nian Wang; Jiao Liu; Runliu Wu; Feng Chen; Ruoxi Zhang; Chunhua Yu; Herbert Zeh; Xianzhong Xiao; Hai...
+     PMC12047438 · PMC · 2025-05-02 · 11 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12047438/
+     Matched: Dopamine inhibits LPS-induced ACOD1 up-regulation · cat /papers/PMC12047438/content.lines --lines 24-25
+     │ In the first round of screening via Western blot analysis, 11 kinds of neurotransmitters
+     │ effectively blocked LPS-induced ACOD1 expression (Fig. 1B and fig. S1A), including dopamine,
+     │ arachidonoylethanolamide, N-methylphenethylamine, 2-arachidonyl glyceryl ether,
+     │ 2-arachidonoylglycerol, virodhamine, adrenocorticotropic hormone (ACTH), glucagon-like
+     │ peptide-2 (GLP-2), sermorelin, glucagon, and phenethylamine. Among these, only dopamine and
+     │ virodhamine also inhibited LPS-induced ACOD1 up-regulation in RAW264.7 cells and
+     │ immortalized bone marrow–derived macrophages (iBMDMs; Fig. 1B and fig. S1B). In light of the
+     │ cardiovascular toxicity and addictive potential of virodhamine, as well as its …
+     "This study explored a neuroimmune pathway linking neurotransmitters to bacterial infection. Dopamine inhibits ACOD1 expression, which normally promotes immunosuppression in sepsis, and its modulation offers a potential therapeutic target."
+
+  21. Stromal cell-derived itaconate promotes endometriosis via macrophage NRF2 and lysosomal pH modulation
+     Zhaoyang Zhong; Shuang Wang; Qianhui Ren; Xue Jiao; Le Xu; Xiaoyu Dong; Na Li; Hongwei Guan; Ran Chu...
+     PMC12969035 · PMC · 2026-02-27 · 1 citation
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12969035/
+     Matched: Abstract · cat /papers/PMC12969035/content.lines --lines 1-18
+     "Stromal cells in endometriosis produce excess itaconate, which is taken up by macrophages. This itaconate suppresses macrophage inflammation and phagocytosis by modulating NRF2 and lysosomal pH. Inhibiting itaconate production reduces endometriosis lesion growth."
+
+  22. Borrelia burgdorferi initiates early transcriptional re-programming in macrophages that supports long-term suppression of inflammation
+     Tanja Petnicki-Ocwieja; Julie E. McCarthy; Urmila Powale; P. Kent Langston; Jennifer D. Helble; Lind...
+     PMC10783791 · PMC · 2023-12-29 · 6 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10783791/
+     Matched: Acod1 is highly up-regulated in primary infection · cat /papers/PMC10783791/content.lines --lines 60
+     "Macrophages exposed to *Borrelia burgdorferi* undergo transcriptional reprogramming, leading to sustained suppression of inflammation. This reprogramming involves genes like Acod1, which plays a role in Lyme carditis."
+
+  23. Itaconate suppresses atherosclerosis by activating a Nrf2-dependent antiinflammatory response in macrophages in mice
+     Jianrui Song; Yanling Zhang; Ryan A. Frieler; Anthony Andren; Sherri Wood; Daniel J. Tyrrell; Peter ...
+     PMC10849764 · PMC · 2024-02-01 · 94 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10849764/
+     Matched: Acod1 in macrophages protects mice from atherogenesis. · cat /papers/PMC10849764/content.lines --lines 49
+     │ To investigate the role of Acod1 in macrophages during atherogenesis, we used myeloid-
+     │ specific lysosomal-M (LysM)-Cre mice to generate conditional Acod1-knockout mice (Acod1fl/fl
+     │ LysMcre). We induced hypercholesterolemia and atherosclerosis in Acod1fl/fl LysMcre and in
+     │ Acod1fl/fl littermate controls. We did not detect a difference in fasting cholesterol
+     │ between atherosclerotic Acod1fl/fl LysMcre and Acod1fl/fl mice (Supplemental Figure 9A).
+     │ However, we observed an approximately 2-fold increase in the atherosclerotic lesion sizes in
+     │ both the aortic root and BCA of Acod1fl/fl LysMcre mice compared with control littermates,
+     │ and an almost 3-fold increase in aortic root necrotic core size …
+     "Itaconate was studied for its role in atherosclerosis in mice. Itaconate suppresses atherosclerosis by activating a Nrf2-dependent anti-inflammatory response in macrophages."
+
+  24. Endogenous itaconate is not required for particulate matter-induced NRF2 expression or inflammatory response
+     Kaitlyn A Sun; Yan Li; Angelo Y Meliton; Parker S Woods; Lucas M Kimmig; Rengül Cetin-Atalay; Robert...
+     PMC7185992 · PMC · 2020-04-07 · 60 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7185992/
+     Matched: Particulate matter induces aconitate decarboxylase 1 (Acod1) and produ · cat /papers/PMC7185992/content.lines --lines 19
+     │ Acod1 encodes a mitochondrial enzyme, which catalyzes the conversion of cis-aconitate to
+     │ itaconate, a mitochondrial metabolite that has recently been shown to regulate inflammatory
+     │ responses (Michelucci et al., 2013). To confirm that PM upregulates mRNA and protein
+     │ expression of Acod1, we first treated BMDMs with PM for 4, 8 or 24 hours, and then assessed
+     │ the expression of Acod1 through qPCR and western blot over time. PM induced Acod1 gene
+     │ expression as early as 4 hours after treatment, peaking at 8 hours (Figure 1C). Western blot
+     │ analysis showed expression of ACOD1 protein was delayed compared to mRNA expression and was
+     │ detectable beginning 24 hours after PM treatment (Figure 1D). To …
+     "This study investigated the role of endogenous itaconate in particulate matter-induced inflammation and NRF2 expression. Endogenous itaconate was found to be unnecessary for these responses, though exogenous itaconate showed anti-inflammatory effects."
+
+  25. Itaconate suppresses neonatal intestinal inflammation via metabolic reprogramming of M1 macrophage
+     Shuchen Huangfu; Chaoting Lan; Sitao Li; Huijuan Wang; Chun Yan; Yuling Yang; Bowen Tian; Yide Mu; P...
+     PMC12268792 · PMC · 2025-07-17 · 4 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12268792/
+     Matched: ACOD1 in macrophages protects mice from NEC · cat /papers/PMC12268792/content.lines --lines 41-42
+     │ Immunofluorescence results further showed the co‐localization of ACOD1 and CD68, suggesting
+     │ a close association between ACOD1 expression and macrophages. (Figure 4A). Therefore, we
+     │ further investigated the role of macrophage‐derived ITA in limiting NEC‐induced inflammatory
+     │ damage. We transplanted macrophages isolated from WT and ACOD1−/− mice into
+     │ NOD/SCID/IL2Rγnull mice (NOG), followed by NEC induction (Figure 4B). H&E staining revealed
+     │ that NOG mice that received ACOD1−/− macrophages exhibited intestinal epithelial damage
+     │ comparable to that in untreated NOG mice (Figure 4C). In contrast, NOG mice that received WT
+     │ macrophages exhibited a marked decrease in epithelial damage and lower …
+     "Itaconate's role in neonatal intestinal inflammation was studied, revealing its protective effects. Itaconate suppresses M1 macrophage polarization, mitigating inflammation and improving intestinal barrier integrity in NEC models."
+
+[129ms, saved to s_ad1d55b9]
+
+💡 Extract data across these results with: map --from s_ad1d55b9 "your question"
+[129ms, saved to s_ad1d55b9]  [repo: mva-lof-molecular]
+

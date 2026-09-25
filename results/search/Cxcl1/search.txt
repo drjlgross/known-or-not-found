@@ -1,0 +1,245 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Cxcl1 (C-X-C motif chemokine ligand 1) LPS macrophage
+# exit 0
+Found 25 papers  [s_b4d5b980]
+
+  1. Myometrial‐derived CXCL12 promotes lipopolysaccharide induced preterm labour by regulating macrophage migration, polarization and function in mice
+     Lijuan Zhang; Ramanaiah Mamillapalli; Shutaro Habata; Molly McAdow; Hugh S. Taylor
+     PMC9077289 · Journal of Cellular and Molecular Medicine · 2022-03-23 · 15 citations
+     https://doi.org/10.1111/jcmm.17252
+     Matched: CXCR4 expression in macrophages · cat /papers/PMC9077289/content.lines --lines 64
+     │ We determined the expression of CXCR4 in macrophages cultured in vitro. Figure S1
+     │ demonstrates that the number CXCR4+ve macrophages were significantly decreased (1.5‐fold) by
+     │ LPS treatment compared with PBS.
+     "This study investigated the role of myometrial CXCL12 in lipopolysaccharide-induced preterm labor in mice. Myometrial CXCL12 promotes preterm labor by regulating macrophage migration and polarization, and blocking this pathway prevents preterm labor."
+
+  2. Differential gene expression in LPS/IFNγ activated microglia and macrophages: in vitro versus in vivo
+     Christoph D Schmid; Benoit Melchior; Kokoechat Masek; Shweta S Puntambekar; Patria E Danielson; Davi...
+     PMC2766614 · Journal of Neurochemistry · 2009 · 139 citations
+     https://doi.org/10.1111/j.1471-4159.2009.05984.x
+     Matched: Results · cat /papers/PMC2766614/content.lines --lines 60-62
+     "Gene expression of activated microglia and macrophages was compared in vitro and in vivo. In vivo, activated infiltrating macrophages closely resembled activated microglia, suggesting the CNS environment shapes macrophage phenotype."
+
+  3. Proinflammatory macrophages release CXCL5 to regulate T cell function and limit effects of αPD-1 in steatosis-driven liver cancer
+     Taojian Tu; Handan Hong; Diala Alhousari; Lina He; Mario Alba; Yiwei Gu; Brittney Hua; Phillip Nguye...
+     PMC12151196 · JHEP Reports · 2025-03-07 · 9 citations
+     https://doi.org/10.1016/j.jhepr.2025.101385
+     Matched: LPS stimulation induces CXCL5 production by liver macrophages · cat /papers/PMC12151196/content.lines --lines 65-67
+     │ LPS is commonly induced during the progression of liver diseases and induces the
+     │ proinflammatory response of macrophages. Its level is also upregulated in the livers of
+     │ LiPten mice.[26] We explored whether LPS can program LMac to release CXCL5 and found that it
+     │ robustly induced the mRNA expression of CXCL5 as well as secretion of CXCL5, concurrent with
+     │ proinflammatory cytokines, such as TNFα, whereas release of Galectin-3, an anti-inflammatory
+     │ cytokine, was not changed (Fig. 6A). The LMac response to LPS appears to be unique because
+     │ neither peritoneal macrophages nor RAW264.7 cells upregulated CXCL5 in response to LPS
+     │ treatment (Fig. S6), an observation supported by previous …
+     "This study investigated CXCL5's role in steatosis-driven liver cancer and immune checkpoint therapy response. CXCL5 inhibits T cell function and limits anti-PD-1 therapy effectiveness, suggesting it as a therapeutic target."
+
+  4. CXCL1 : Gene, Promoter, Regulation of Expression, mRNA Stability, Regulation of Activity in the Intercellular Space
+     Jan Korbecki, Katarzyna Barczak, Izabela Gutowska, Dariusz Chlubek, Irena Baranowska-Bosiacka
+     PMC8776070 · biomedrxiv · 2022-01-12 · 157 citations
+     https://doi.org/10.3390/ijms23020792
+     "This paper reviews the regulation of CXCL1 gene expression and its extracellular activity. It highlights CXCL1's role in inflammation and cancer, and discusses potential therapeutic strategies."
+
+  5. A biomathematical model of immune response and barrier function in mice with pneumococcal lung infection
+     Sibylle Schirm; Peter Ahnert; Sarah Berger; Geraldine Nouailles; Sandra-Maria Wienhold; Holger Mülle...
+     PMC7714238 · PMC · 2020-12-03 · 9 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7714238/
+     Matched: Compartment CXCL1: Chemokine (C-X-C motif) ligand 1 (GROa) · cat /papers/PMC7714238/content.lines --lines 54-55
+     │ The chemokine CXCL1 (GROa) attracts neutrophils and is of high importance in the murine
+     │ immune response [22]. It is produced by affected epithelial cells, neutrophils and
+     │ macrophages [14, 23]. The production by macrophages is assumed to be delayed in analogy to
+     │ IL-6 or IL-10 production: This results in the following balance equation for CXCL1.
+     "A biomathematical model simulates the immune response and barrier function in mice infected with *Streptococcus pneumoniae*. The model accurately predicts outcomes for different antibiotic and C5a-inactivator treatment schedules."
+
+  6. TET1 controls  Cxcl1  induction by DNA demethylation and promotes neutrophil recruitment during acute lung injury
+     Kathleen M. Yee, Richard W. Shuai, Bin Liu, Christian A. Huynh, Chao Niu, Hailey R. Lee, Min S. Lee,...
+     bio_e45382736c86 · bioRxiv · 2021-09-07 · 4 citations (all versions)
+     Published (2021): https://doi.org/10.1101/2021.09.07.459280
+     Matched: Tet1  disruption resulted in defective neutrophil recruitment in the L · cat /papers/bio_e45382736c86/content.lines --lines 69-71
+     "TET1 controls CXCL1 induction via DNA demethylation in macrophages. This process is crucial for neutrophil recruitment during acute lung injury."
+
+  7. Transcriptional and translational‐uncoupling in regulation of the CXCL12 and its receptors CXCR4, 7 in THP‐1 monocytes and macrophages
+     Lu Yu; Liangli Yu; Quynhchi Pham; Thomas T. Y. Wang
+     PMC5818454 · Immunity, Inflammation and Disease · 2017-11-03 · 9 citations
+     https://doi.org/10.1002/iid3.199
+     Matched: Blocking antibody against CD14 inhibited CXCL12‐related gene expressio · cat /papers/PMC5818454/content.lines --lines 27-28
+     │ LPS acts through both CD14‐dependent and CD14‐independent pathways 21. The role of CD14 in
+     │ response to LPS in the regulation of CXCL12 and its receptors were tested. After one hour
+     │ pre‐treatment using human CD14 blocking antibody, LPS induction of CXCL12 mRNA level was
+     │ effectively reduced by 78.7% when compared to the IgG control (Fig. 2a). In contrast, the
+     │ effect of CD14 blocking antibody on CXCR7 inhibition was relatively lower than that on
+     │ CXCL12. LPS induction of CXCR7 was inhibited by 26.4%, compared to the IgG control (Fig. 2b
+     │ and c). CD14‐independent gene, TNF‐α, was not affected by CD14 blocking antibody (Fig. 2d).
+     │ At two hours treatment of LPS (10 ng/mL), TLR4 mRNA level was …
+     "This study examined CXCL12/CXCR4/7 regulation in THP-1 monocytes and macrophages. Differentiation and LPS induce transcriptional and translational uncoupling for CXCR4/7, impacting protein levels and cell migration."
+
+  8. CXCL10/IP-10 Neutralization Can Ameliorate Lipopolysaccharide-Induced Acute Respiratory Distress Syndrome in Rats
+     Shan Lang; Libing Li; Xuning Wang; Junping Sun; Xinying Xue; Yongjiu Xiao; Mingyue Zhang; Ting Ao; J...
+     PMC5207674 · PLoS ONE · 2017-01-03 · 69 citations
+     https://doi.org/10.1371/journal.pone.0169100
+     Matched: Neutralization of CXCL10 decreased inflammatory cells recruitment in L · cat /papers/PMC5207674/content.lines --lines 80-82
+     "This study investigated CXCL10's role in LPS-induced ARDS in rats. Neutralizing CXCL10 reduced ARDS severity by decreasing inflammation and immune cell infiltration."
+
+  9. Anti-Inflammatory Effects of Cicadidae Periostracum Extract and Oleic Acid through Inhibiting Inflammatory Chemokines Using PCR Arrays in LPS-Induced Lung inflammation In Vitro
+     Jung-Hee Hong; Young-Cheol Lee
+     PMC9225349 · Life · 2022-06-08 · 15 citations
+     https://doi.org/10.3390/life12060857
+     Matched: 3.3.1. Modulatory Effects of CP and OA Treatments on mRNA Gene Express · cat /papers/PMC9225349/content.lines --lines 78-80
+     "Cicadidae periostracum (CP) and oleic acid (OA) extracts were studied for anti-inflammatory effects in LPS-induced lung inflammation. Both CP and OA significantly inhibited inflammatory chemokines and cytokines by suppressing key signaling pathways."
+
+  10. LKB1‐MARK2 signalling mediates lipopolysaccharide‐induced production of cytokines in mouse macrophages
+     Jie Deng; Chunmei Wen; Xiangyu Ding; Xi Zhang; Guoqing Hou; Andong Liu; Hui Xu; Xuan Cao; Yongheng B...
+     PMC7576310 · Journal of Cellular and Molecular Medicine · 2020-08-25 · 10 citations
+     https://doi.org/10.1111/jcmm.15710
+     Matched: MARK2 phosphorylation on LPS‐induced CXCL15 production · cat /papers/PMC7576310/content.lines --lines 71-72
+     "High-throughput phosphoproteomics identified novel mediators of LPS-induced signaling in mouse macrophages. LKB1-MARK2 signaling was found to regulate the production of key inflammatory cytokines."
+
+  11. Prevention of lipopolysaccharide-induced preterm labor by the lack of CX3CL1-CX3CR1 interaction in mice
+     Mika Mizoguchi; Yuko Ishida; Mizuho Nosaka; Akihiko Kimura; Yumi Kuninaka; Tamaki Yahata; Sakiko Nan...
+     PMC6219809 · PLoS ONE · 2018-11-06 · 21 citations
+     https://doi.org/10.1371/journal.pone.0207085
+     Matched: CX3CL1 and CX3CR1 expression in murine gestational tissues after LPS i · cat /papers/PMC6219809/content.lines --lines 72-73
+     │ LPS treatment enhanced Cx3cl1 gene expression in the gestational tissues of pregnant WT mice
+     │ at gestational day (gd) 15.5 (Fig 2A). Consistently, immunohistochemical analysis detected
+     │ CX3CL1 proteins in amnion epithelial cells and cytotrophoblasts within the labyrinth zone in
+     │ the placenta of pregnant WT mice at gd 15.5 (Fig 2B). In contrast, serum CX3CL1 levels
+     │ fluctuated but did not change significantly until gd 18.5 compared with that in non-pregnant
+     │ mice (Fig 2C). LPS injection at gd 15.5, however, markedly increased serum CX3CL1 levels, at
+     │ 6 h after injection (Fig 2C) and induced preterm labor in most WT animals (7 cases of PTL in
+     │ 8 LPS-treated WT mice). Moreover, a large number of …
+     "This study investigated the role of the CX3CL1-CX3CR1 axis in a mouse model of preterm labor. The CX3CL1-CX3CR1 interaction promotes preterm labor by recruiting inflammatory macrophages."
+
+  12. Advanced glycation end-products reduce lipopolysaccharide uptake by macrophages
+     Atsuhiro Kitaura; Takashi Nishinaka; Shinichi Hamasaki; Omer Faruk Hatipoglu; Hidenori Wake; Masahir...
+     PMC7833212 · PLoS ONE · 2021-01-25 · 13 citations
+     https://doi.org/10.1371/journal.pone.0245957
+     Matched: The involvement of CD14 in LPS uptake by RAW264.7 cells · cat /papers/PMC7833212/content.lines --lines 47-50
+     "Advanced glycation end-products (AGEs) were studied for their effect on lipopolysaccharide (LPS) uptake by macrophages. AGEs reduce LPS uptake by downregulating CD14 expression via the receptor for AGEs (RAGE)."
+
+  13. Transcriptome Analysis Provides Insights into the Markers of Resting and LPS-Activated Macrophages in Grass Carp (Ctenopharyngodon idella)
+     Yazhen Hu; Xiaolei Wei; Zhiwei Liao; Yu Gao; Xiaoling Liu; Jianguo Su; Gailing Yuan
+     PMC6274997 · International Journal of Molecular Sciences · 2018-11-12 · 35 citations
+     https://doi.org/10.3390/ijms19113562
+     Matched: 3. Discussion · cat /papers/PMC6274997/content.lines --lines 39-40
+     "This study analyzed the transcriptomes of resting and LPS-activated grass carp macrophages. Four novel cell surface markers and two chemokines were identified as potential macrophage markers, with others indicating activation."
+
+  14. CX3CL1 deficiency ameliorates acute kidney injury by inhibiting macrophage mitochondrial dysfunction and mtDNA-cGAS-STING signaling
+     Qiming Gong; Fahui Liu; Yuqing Huang; Dehui Li; Tingting Zhou; Chen Zeng; Yan Jiang; Huang Wei; Yong...
+     PMC12847948 · Cell Death Discovery · 2025-12-13 · 4 citations
+     https://doi.org/10.1038/s41420-025-02915-w
+     Matched: Inhibition of CX3CL1 promotes the anti-inflammatory phenotype of macro · cat /papers/PMC12847948/content.lines --lines 67-68
+     │ To further investigate the effect of CX3CL1 inhibition on renal macrophages, we examined the
+     │ expression of characteristic marker proteins associated with M1 (pro-inflammatory) and M2
+     │ (anti-inflammatory) phenotypes. In LPS-induced AKI mice, the expression levels of M1
+     │ markers, including CD86, iNOS, and the inflammatory cytokines TNF-α, IL-1β and IL-6, were
+     │ significantly increased. Additionally, CX3CL1 was highly localized in the renal tubular
+     │ epithelium, confirming its involvement in inflammatory activation (Fig. 3A–D). However,
+     │ inhibition of CX3CL1 shifted macrophage polarization from the M1 to the M2 phenotype, as
+     │ evidenced by decreased expression of CD86, iNOS, TNF-α, IL-1β, and IL-6, …
+     "CX3CL1 deficiency was studied in a lipopolysaccharide-induced acute kidney injury model. CX3CL1 inhibition ameliorates kidney injury by improving macrophage mitochondrial function and suppressing mtDNA-cGAS-STING signaling."
+
+  15. Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni, Yanal Ghosheh, Akula Bala Pramod, Klaus Ley
+     PMC6543837 · Frontiers in Immunology · 2019-05-24 · 1909 citations
+     https://doi.org/10.3389/fimmu.2019.01084
+     Matched: In vivo M1(=LPS+)C57BL/6J Exclusive Genes Drive Anti-bacterial Immune  · cat /papers/PMC6543837/content.lines --lines 40-43
+     "This study compared gene expression in *in vivo* M1/M2 macrophages with *in vitro* classically/alternatively activated macrophages. The findings indicate that *in vivo* M1/M2 polarization is not equivalent to *in vitro* activation states."
+
+  16. Temporal expression of CXCR2 ligands in a rat model of LPS—induced pulpitis
+     Marion Florimond; Sandra Minic; Coralie Torrens; Lucas T. Duong; Catherine Chaussain; Emmanuelle Ren...
+     PMC13243519 · PMC · 2026-04-16 · 0 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13243519/
+     Matched: Gene quantification · cat /papers/PMC13243519/content.lines --lines 45-47
+     "Neutrophils play a central yet dual role in pulpitis, the inflammatory response to dental caries. Because CXCR2 ligands regulate neutrophil recruitment and function, this study focused on the temporal"
+
+  17. CX3CL1 promotes M1 macrophage polarization and osteoclast differentiation via NSUN5-mediated m5C modification
+     Zhibin Deng; Wei Zhong
+     PMC12255738 · Scientific Reports · 2025-07-12 · 6 citations
+     https://doi.org/10.1038/s41598-025-11046-2
+     Matched: CX3CL1 is highly expressed in vitro · cat /papers/PMC12255738/content.lines --lines 64-65
+     │ To investigate the expression pattern of CX3CL1 in RAW 264.7 cells under LPS and RANKL
+     │ stimulation, both qPCR and western blot analysis were conducted. The experimental data
+     │ demonstrated a marked increase in both transcriptional activity and protein abundance of
+     │ CX3CL1 in stimulated RAW 264.7 cells (Fig. 1A-D). Fig. 1: CX3CL1 was highly expressed in
+     │ vitro. (A-B) CX3CL1 expression was assessed in LPS-stimulated RAW 264.7 cells after 24-h
+     │ treatment using qPCR for mRNA levels and Western blot analysis for protein expression. (C-D)
+     │ CX3CL1 expression was assessed in RANKL-stimulated RAW 264.7 cells after 5-days treatment
+     │ using qPCR for mRNA levels and Western blot analysis for protein …
+     "CX3CL1 promotes M1 macrophage polarization and osteoclast differentiation. This process is regulated by NSUN5-mediated m5C modification of CX3CL1 mRNA."
+
+  18. C-X-C receptor 7 agonist acts as a C-X-C motif chemokine ligand 12 inhibitor to ameliorate osteoclastogenesis and bone resorption
+     Alexander Patera Nugraha; Hideki Kitaura; Fumitoshi Ohori; Adya Pramusita; Saika Ogawa; Takahiro Nog...
+     PMC8778739 · Molecular Medicine Reports · 2022-01-11 · 13 citations
+     https://doi.org/10.3892/mmr.2022.12594
+     Matched: CXCR7 agonist inhibits LPS-induced osteoclastogenesis in vivo · cat /papers/PMC8778739/content.lines --lines 31
+     │ LPS was administered for 5 consecutive days and calvariae were stained with TRAP to reveal
+     │ osteoclast formation (Fig. 1A). Large numbers of osteoclasts formed in the sutures of
+     │ calvariae in LPS-injected mice compared with the PBS-injected mice. The number of
+     │ osteoclasts was significantly lower in mice treated with LPS+CXCR7 agonist than in mice
+     │ treated with LPS alone (Fig. 1B). Both TRAP and Cathepsin K mRNA expression levels were
+     │ significantly lower in mice injected with LPS+CXCR7 agonist than in mice injected with LPS
+     │ alone (Fig. 1C and D).
+     "A CXCR7 agonist was tested for its effects on LPS-induced osteoclastogenesis and bone resorption in mice. The agonist reduced osteoclast formation and bone loss by inhibiting CXCL12's enhancement of osteoclast differentiation."
+
+  19. CXCL13 Is Involved in the Lipopolysaccharide-Induced Hyperpermeability of Umbilical Vein Endothelial Cells
+     Wen Chen; Yi Wang; Ting Zhou; Yuansheng Xu; Jianwei Zhan; Jinhong Wu
+     PMC7476967 · PMC · 2020-06-04 · 16 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7476967/
+     Matched: CXCL13-Neutralizing Antibody Increased the Survival Rate of Mice with  · cat /papers/PMC7476967/content.lines --lines 65-66
+     "This study investigated CXCL13's role in lipopolysaccharide-induced hyperpermeability in endothelial cells. CXCL13 contributes to this hyperpermeability by regulating p38 signaling, suggesting it's a potential therapeutic target for sepsis."
+
+  20. Potential Roles of Innate Immune Chemokine and Cytokine Network on Lipopolysaccharide-Based Therapeutic Approach in Ovarian Cancer
+     Rosa Mistica C. Ignacio; Eun-Sook Lee; Deok-Soo Son
+     PMC6597445 · PMC · 2019-06-17 · 11 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6597445/
+     Matched: RESULTS AND DISCUSSION · cat /papers/PMC6597445/content.lines --lines 35-37
+     "Lipopolysaccharide (LPS) was tested as a therapeutic approach for ovarian cancer in a mouse model. LPS significantly increased survival and reduced tumor burden by activating the innate immune system."
+
+  21. Macrophage TRIM21 lactylation exacerbates infection-induced orchitis through enhancing STAT1-mediated CXCL9 and CXCL10 production
+     Wenjing Tang; Wenjie Chen; Na Li; Wei Li; Zhigang Lei; Wenhui Sun; Xuan Xie; Yihong Jiang; Ying Chen...
+     PMC12847007 · Frontiers in Immunology · 2026-01-14 · 2 citations
+     https://doi.org/10.3389/fimmu.2025.1684836
+     Matched: Macrophages are a predominant cellular source of CXCL9 and CXCL10 in t · cat /papers/PMC12847007/content.lines --lines 31-32
+     "Macrophage TRIM21 lactylation was studied in infection-induced orchitis models. Lactylated TRIM21 enhances STAT1-mediated CXCL9/10 production, worsening testicular inflammation and spermatogenic disruption."
+
+  22. XIAOPI Formula Inhibits Breast Cancer Stem Cells via Suppressing Tumor-Associated Macrophages/C-X-C Motif Chemokine Ligand 1 Pathway
+     Shengqi Wang; Xiaoyan Liu; Renlun Huang; Yifeng Zheng; Neng Wang; Bowen Yang; Honglin Situ; Yi Lin; ...
+     PMC6874098 · PMC · 2019-11-15 · 35 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6874098/
+     Matched: XPS Suppresses Breast CSCs by Modulating TAMs/CXCL1 Pathway · cat /papers/PMC6874098/content.lines --lines 56-57
+     │ Considering that XPS could significantly inhibit CXCL1 expression and secretion from TAMs,
+     │ it is important to further study whether CXCL1 is the key molecule involved in the
+     │ inhibitory effect of XPS on breast CSCs. As shown in Figures 4A, B, CXCL1 administration
+     │ could significantly increase the ALDH+ subpopulations and mammospheres numbers in breast
+     │ cancer cells. Meanwhile, CXCL1 administration could abrogate the inhibitory effect of XPS on
+     │ breast CSCs subpopulations and mammospheres formation abilities in the co-cultured breast
+     │ cancer cells (Figures 2A, B and Figures 4A, B). QPCR assay further suggested that CXCL1
+     │ administration could elevate the mRNA expression levels of stemness-related …
+     "XIAOPI formula was studied for its effects on breast cancer cells and tumor-associated macrophages. The formula inhibits breast cancer stem cells by suppressing the TAMs/CXCL1 pathway."
+
+  23. Differential Protein Expression Profiles of Bronchoalveolar Lavage Fluid Following Lipopolysaccharide-Induced Direct and Indirect Lung Injury in Mice
+     Xinping Yue; Jessie J. Guidry
+     PMC6679226 · PMC · 2019-07-11 · 29 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6679226/
+     Matched: 2.3. Differential Regulation of Cxcl15 by Direct and Indirect Lung Inj · cat /papers/PMC6679226/content.lines --lines 22-23
+     "This study analyzed bronchoalveolar lavage fluid protein profiles in mice with direct and indirect lung injury induced by LPS. Indirect lung injury suppressed certain innate immune pathways, unlike direct injury."
+
+  24. The Potential Importance of CXCL1 in the Physiological State and in Noncancer Diseases of the Cardiovascular System, Respiratory System and Skin
+     Jan Korbecki; Agnieszka Maruszewska; Mateusz Bosiacki; Dariusz Chlubek; Irena Baranowska-Bosiacka
+     PMC9820720 · PMC · 2022-12-22 · 88 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9820720/
+     Matched: 3.2. Atherosclerosis · cat /papers/PMC9820720/content.lines --lines 26-28
+     "This paper reviews CXCL1's role in cardiovascular, respiratory, and skin physiology and disease. CXCL1 is implicated in inflammation and neutrophil infiltration across these systems."
+
+  25. Cathelicidin-mediated lipopolysaccharide signaling via intracellular TLR4 in colonic epithelial cells evokes CXCL8 production
+     Ravi Holani; Anshu Babbar; Graham A. D. Blyth; Fernando Lopes; Humberto Jijon; Derek M. McKay; Morle...
+     PMC7524372 · PMC · 2020-07-13 · 41 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7524372/
+     Matched: Cathelicidins synergized with LPS to stimulate murine CXCL1 or human C · cat /papers/PMC7524372/content.lines --lines 24-25
+     "Cathelicidin was studied for its role in regulating gut inflammation with LPS. Cathelicidin facilitates LPS internalization and signaling via intracellular TLR4, leading to CXCL8 production and neutrophil recruitment."
+
+[2.4s, saved to s_b4d5b980]
+
+💡 Extract data across these results with: map --from s_b4d5b980 "your question"
+[2.4s, saved to s_b4d5b980]  [repo: mva-lof-molecular]
+

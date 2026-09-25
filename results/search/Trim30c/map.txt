@@ -1,0 +1,193 @@
+$ src/pc.sh map --from s_38f448a0 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Trim30c (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_8d240903
+
+  ✓ Epigenetic profile in lipopolysaccharide-stimulated macrophages
+    PMC3953056 · 1072ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Genome-wide siRNA screen of genes regulating the LPS-induced TNF-α res
+    PMC5332009 · 956ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Genome-wide siRNA screen of genes regulating the LPS-induced NF-κB and
+    PMC5332015 · 965ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ RNA-Binding Proteins in the Control of LPS-Induced Macrophage Response
+    PMC6369361 · 1210ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ LPS inhibits TRIM65 expression in macrophages and C57BL/6J mouse by ac
+    PMC10068263 · 1241ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Tripartite Motif Containing 52 Positively Regulates NF-κB Signaling by
+    PMC7607666 · 1060ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(
+    PMC7053374 · 1009ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Transcriptional profiling of the LPS induced NF-κB response in macroph
+    PMC1781469 · 1016ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Regulation of innate immune signalling pathways by the tripartite moti
+    PMC3377094 · 1034ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Analysis of the transcriptional networks underpinning the activation o
+    PMC4378362 · 1466ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Correction: Tripartite Motif-Containing Protein 30 Modulates TCR-Activ
+    PMC4035330 · 1294ms
+    {"answer": "yes", "evidence": "For detection of cytokine expression, Trim30 +/+ and Trim30 −/− BMDMs were pretreated for 18 hr with LPS (LSP pre) and then restimulated with LPS (LPS re) indicated time or stimulated with poly(I:C) and transcripts for indicated cytokines were quantified by quantitative RT-PCR.", "context": "(F) BMDMs were stimulated with LPS (200 ng/ml) or poly(I:C) (5 \u0025\u0025µg/ml), and Trim30 transcripts were quantified by quantitative RT-PCR."}
+
+  ✓ Macrophage production and activation are dependent on TRIM33
+    PMC5354896 · 1110ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Tripartite Motif-Containing Protein 30 Modulates TCR-Activated Prolife
+    PMC3995923 · 1293ms
+    {"answer": "yes", "evidence": "The challenge with TLR ligands induced TRIM30 strongly only in wild-type cells, but there was no discernable difference in the expression of the major cytokines (IL-6, TNF\u0315\u03B1, IL-12 p40, IFN\u03B1, IFN\u03B2) (Figure 1F).", "context": "BMDMs were stimulated with LPS (200 ng/ml) or poly(I:C) (5 \u00B5g/ml), and Trim30 transcripts were quantified by quantitative RT-PCR."}
+
+  ✓ InTRIMsic immunity: Positive and negative regulation of immune signali
+    PMC7173094 · 1937ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Monocyte normal immune response to LPS stimulation
+    PMC3333514 · 971ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Expression and regulation of long noncoding RNAs in TLR4 signaling in 
+    PMC4320810 · 1086ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ The Trim32-DPEP2 axis is an inflammatory switch in macrophages during 
+    PMC12283963 · 1467ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ TRIM21 controls Toll‐like receptor 2 responses in bone‐marrow‐derived 
+    PMC7011629 · 1308ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ DOK3 Negatively Regulates LPS Responses and Endotoxin Tolerance
+    PMC3384629 · 1152ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Knockdown of TRIM52 alleviates LPS-induced inflammatory injury in huma
+    PMC7418211 · 933ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ The Emerging Roles of Tripartite Motif Proteins (TRIMs) in Acute Lung 
+    PMC8548118 · 1051ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Expression profiling of TRIM protein family in THP1-derived macrophage
+    PMC5314404 · 923ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ E3 ubiquitin ligase trim36 targets ddx3x for degradation to reprogram 
+    PMC12847098 · 1273ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ TRIM16 Inhibits Inflammation by Interacting With and Ubiquitinating TR
+    PMC12551140 · 870ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Human TRIM Gene Expression in Response to Interferons
+    PMC2654144 · 1304ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[21.4s, saved to m_8d240903]
+
+  [....................]  0/0 papers  [0s]
+  [#...................]  2/25 papers  run m_8d240903  [2s]
+  [#########...........]  12/25 papers  run m_8d240903  [4s]
+  [###############.....]  19/25 papers  run m_8d240903  [6s]
+  [################....]  20/25 papers  run m_8d240903  [8s]
+  [###################.]  24/25 papers  run m_8d240903  [10s]
+  [####################]  25/25 papers  run m_8d240903  [12s]
+  [####################]  25/25 papers  run m_8d240903  [21s]
+

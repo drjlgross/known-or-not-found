@@ -1,0 +1,200 @@
+$ src/pc.sh map --from s_ba67ad68 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Bcl2a1a (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_973fa784
+
+  ✓ The Bcl2a1 gene cluster finally knocked out: first clues to understand
+    PMC5384030 · 953ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ A1 is induced by pathogen ligands to limit myeloid cell death and NLRP
+    PMC10626451 · 1458ms
+    {"answer": "yes", "evidence": "Bcl2a1 was absent in unstimulated BMDMs and rapidly, albeit transiently, induced at the mRNA and protein level in response to Escherichia coli O111:B4 (B4) and/or O55:B5 (B5) LPS serotypes (Figs 1F and G, and EV1K).", "context": "L23: Further examination of pro‐survival BCL‐2 family expression over time in response to LPS revealed relatively stable expression of Bcl2l1 (encodes BCL‐XL) and Mcl1 mRNA (Figs 1F and G, and EV1K)."}
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 1061ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Contribution of A1 to macrophage survival in cooperation with MCL-1 an
+    PMC11405755 · 1070ms
+    {"answer": "yes", "evidence": "L44: LPS stimulation strongly induced A1 and NOXA protein expression in CTRL cells in both progenitors and differentiated macrophages (Fig. S6).", "context": "L44: LPS stimulation strongly induced A1 and NOXA protein expression in CTRL cells in both progenitors and differentiated macrophages (Fig. S6)."}
+
+  ✓ Accelerated Neutrophil Apoptosis in Mice Lacking A1-a, a Subtype of th
+    PMC2212378 · 915ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Transcriptome Analysis Provides Insights into the Markers of Resting a
+    PMC6274997 · 820ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ LPSlow-Macrophages Alleviate the Outcome of Graft-Versus-Host Disease 
+    PMC8369416 · 1183ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Could a B-1 Cell Derived Phagocyte “Be One” of the Peritoneal Macropha
+    PMC3316698 · 1445ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Epigenetic profile in lipopolysaccharide-stimulated macrophages
+    PMC3953056 · 917ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ A1/Bfl-1 in leukocyte development and cell death
+    PMC3405526 · 1359ms
+    {
+      "answer": "yes",
+      "evidence": "In 1993 Lin et al. documented A1 expression in thymus, spleen, bone marrow, myeloid and T-lymphoid cell lines, but not in non-hematopoietic lineages, and confirmed the induction of A1 in GM-CSF and LPS-stimulated primary macrophages [55].",
+      "context": "L109: 54. Orlofsky A. Berger M.S. Prystowsky M.B. Novel expression pattern of a new member of the MIP-1 family of cytokine-like genes Cell Regul. 2 1991 403 412 1832565 10.1091/mbc.2.5.403 PMC361810"
+    }
+
+  ✓ Canine peripheral blood mononuclear cell-derived B lymphocytes pretrea
+    PMC8608335 · 1166ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Comparative Study of The Effect of LPS on The Function of BALB/c and C
+    PMC3660024 · 1156ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Bcl-2 Proteins Regulate Mitophagy in Lipopolysaccharide-Induced Acute 
+    PMC7054785 · 957ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Importance of Mcl-1 for Alveolar Macrophage Apoptosis–associated Bacte
+    PMC6603059 · 992ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Selection of reliable reference genes for the normalisation of gene ex
+    PMC5627409 · 1036ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ ADAR1 Inhibits Macrophage Apoptosis and Alleviates Sepsis-induced Live
+    PMC10851074 · 1128ms
+    {
+      "answer": "yes",
+      "evidence": "Furthermore, Bcl2a1a mRNA levels in RAW 264.7 cells increased significantly 12 h after LPS treatment and then gradually, with significantly lower expression at 48 h compared with baseline (L109).",
+      "context": "We also evaluated miR-122-5p expression in LPS-treated RAW 264.7 cells (L109)."
+    }
+
+  ✓ Monocyte normal immune response to LPS stimulation
+    PMC3333514 · 959ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Macrophage stimulation by bacterial lipopolysaccharides. II. Evidence 
+    PMC2184939 · 1311ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Transcriptional profiling of the LPS induced NF-κB response in macroph
+    PMC1781469 · 987ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Tolerance to lipopolysaccharide regulates apoptosis in B lymphocytes
+    PMC3300661 · 889ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Macrophage Apoptosis Induced by an Avian Strain of Escherichia coli
+    PMC6084222 · 874ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Identification of stable reference genes for lipopolysaccharide-stimul
+    PMC6994071 · 1173ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Oral and transdermal administration of lipopolysaccharide safely enhan
+    PMC11994614 · 1005ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Btk Regulates Macrophage Polarization in Response to Lipopolysaccharid
+    PMC3897530 · 1168ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ A Global Picture of Molecular Changes Associated to LPS Treatment in T
+    PMC9656053 · 860ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[32.1s, saved to m_973fa784]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  1/25 papers  run m_973fa784  [2s]
+  [##########..........]  13/25 papers  run m_973fa784  [4s]
+  [################....]  20/25 papers  run m_973fa784  [6s]
+  [##################..]  23/25 papers  run m_973fa784  [10s]
+  [####################]  25/25 papers  run m_973fa784  [12s]
+  [####################]  25/25 papers  run m_973fa784  [22s]
+  [####################]  25/25 papers  run m_973fa784  [25s]
+  [####################]  25/25 papers  run m_973fa784  [27s]
+  [####################]  25/25 papers  run m_973fa784  [29s]
+  [####################]  25/25 papers  run m_973fa784  [31s]
+

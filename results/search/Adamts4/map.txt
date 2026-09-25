@@ -1,0 +1,198 @@
+$ src/pc.sh map --from s_ee990bcb --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Adamts4 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_02baef6f
+
+  ✓ ADAMTS4 elicits myeloid-derived immune cell recruitment and liver fibr
+    PMC13149992 · 813ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Effect of Thrombospondin-4 on Pro-inflammatory Phenotype Differentiati
+    bio_aec0e8f7 · 862ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Effects of thrombospondin-4 on pro-inflammatory phenotype differentiat
+    PMC6978349 · 931ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Critical Role of ADAMTS-4 in the Development of Sporadic Aortic Aneury
+    PMC5617887 · 824ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ A Disintegrin and Metalloproteinase with Thrombospondin Motifs 4 Regul
+    PMC10671186 · 1032ms
+    {
+      "answer": "yes",
+      "evidence": "We also confirmed via quantitative PCR analysis that the mRNA expression of ADAMTS4 was significantly induced following both LPS and poly (I:C) stimulation, which was consistent with the results of the microarray analysis (Figure 1C).",
+      "context": "Quantitative PCR analysis of ADAMTS4 gene expression of HMVEC-Ls (C), HUVECs (D), and mouse VEC cell line UV♀2 (E) following stimulation of LPS or poly (I:C) for 4 h."
+    }
+
+  ✓ Regulation of ADAMTS-1, -4 and -5 expression in human macrophages: Dif
+    PMC3779352 · 781ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ A Disintegrin and Metalloproteinase with Thrombospondin Motifs-4 Level
+    PMC11418412 · 720ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ The expression of a disintegrin and metalloproteinase with thrombospon
+    PMC3081072 · 819ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Loss of ADAMTS4 reduces high fat diet-induced atherosclerosis and enha
+    PMC4974561 · 782ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Thrombospondin-1 triggers macrophage IL-10 production and promotes res
+    PMC3945733 · 961ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ ADAMTS4 mediates LPS‐induced cardiac injury and myocardial fibrosis th
+    PMC13443130 · 1510ms
+    {
+      "answer": "yes",
+      "evidence": "Relative to saline-administered control mice, ADAMTS4 protein and mRNA were both increased in LPS-treated hearts (Figure 1C,D).",
+      "context": "To validate these transcriptomic findings, we challenged mice with 10 mg/kg LPS for 24 h and examined Adamts4 expression in cardiac tissue."
+    }
+
+  ✓ ADAM-10 Regulates MMP-12 during Lipopolysaccharide-Induced Inflammator
+    PMC9507754 · 1358ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Lipopolysaccharide-mediated macrophage polarization, conserved pathoge
+    PMC13372918 · 822ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ ADAMTS2 Modulates Inflammation, Autophagy, and Barrier Integrity Throu
+    PMC13096709 · 838ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ A Global Picture of Molecular Changes Associated to LPS Treatment in T
+    PMC9656053 · 743ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Interaction with macrophages attenuates equine fibroblast‐like synovio
+    PMC6120467 · 1303ms
+    {"answer": "yes", "evidence": "Maximum fold changes in mRNA levels of EFLS cultured independently and with DH82 cells respectively, were 10\u00D7 (at 6 h) and 14\u00D7 (at 3 h) for IL-1\u03B2 mRNA, 50\u00D7 (at 6 h), and 27\u00D7 (at 6 h) for IL-6 mRNA, 18\u00D7 (at 3 h) and 16\u00D7 (at 3 h) for ADAMTS4 mRNA, and 4\u00D7 (at 6 h) and 1.4\u00D7 (at 6 h) for ADAMTS5 mRNA.", "context": "EFLS cultured independently demonstrated rapid increases in IL-1\u03B2, IL-6, ADAMTS4, and ADAMTS5 mRNAs in response to 10 \u00B5g/ml LPS (Fig. 3A)."}
+
+  ✓ LPS Counter Regulates RNA Expression of Extracellular Proteases and Th
+    PMC3317238 · 677ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Epigenetic profile in lipopolysaccharide-stimulated macrophages
+    PMC3953056 · 890ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Monocyte normal immune response to LPS stimulation
+    PMC3333514 · 749ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Selection of reliable reference genes for the normalisation of gene ex
+    PMC5627409 · 901ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ The Activation of Macrophage and Upregulation of CD40 Costimulatory Mo
+    PMC2359863 · 812ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Oral and transdermal administration of lipopolysaccharide safely enhan
+    PMC11994614 · 782ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Inhibition of the extracellular enzyme A disintegrin and metalloprotea
+    PMC10439713 · 876ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Spatiotemporal proteomic profiling of the pro-inflammatory response to
+    PMC8486773 · 878ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Thrombospondin-1 Production Is Enhanced by Porphyromonas gingivalis Li
+    PMC4264871 · 862ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[31.3s, saved to m_02baef6f]
+
+  [....................]  0/0 papers  [0s]
+  [###.................]  4/25 papers  run m_02baef6f  [2s]
+  [########............]  11/25 papers  run m_02baef6f  [4s]
+  [##########..........]  13/25 papers  run m_02baef6f  [6s]
+  [############........]  15/25 papers  run m_02baef6f  [8s]
+  [###############.....]  19/25 papers  run m_02baef6f  [10s]
+  [####################]  25/25 papers  run m_02baef6f  [12s]
+  [####################]  25/25 papers  run m_02baef6f  [22s]
+  [####################]  25/25 papers  run m_02baef6f  [31s]
+

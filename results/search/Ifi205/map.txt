@@ -1,0 +1,176 @@
+$ src/pc.sh map --from s_d6771f90 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Ifi205 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_1985f0cb
+
+  ✓ An essential role for IFN-β in the induction of IFN-stimulated gene ex
+    PMC4163629 · 1034ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Full Spectrum of LPS Activation in Alveolar Macrophages of Healthy Vol
+    PMC4951018 · 884ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Six Interferon-Stimulated Genes as Biomarkers of M1 Macrophage Polariz
+    PMC12518975 · 867ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 1134ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Analysis of the transcriptional networks underpinning the activation o
+    PMC4378362 · 1618ms
+    {
+      "answer": "yes",
+      "evidence": "The mid and mid-to-late transcriptional changes contain the hallmarks of classical macrophage activation; the up-regulated genes include type-I IFN response genes (Ifi204, Ifi205, Ifi35, Ifi47, Ifih1, Ifit1, Ifit2, Ifit3), ILs (Il12a, Il18, Il27, Il7), solute carriers (Slc11a, Slc15a3, Slc25a12, Slc25a22, Slc25a43, Slc26a2), pattern recognition receptors (Tlr3, Tlr6, Tlr7, Tlr8, Nod1, Nod2, Aim2), and chemokines (Ccl3, Ccl4, Ccl8, Ccl17, Ccl22, Cxcl3, Cxcl9, Cxcl10, Cxcl11, Cxcl16; Supplemental Table 2).",
+      "context": "The genome-wide transcriptional response of macrophages to LPS has been examined previously [10, [39], 40]. We set out to examine the LPS response using the latest generation of whole genome microarray technology and more advanced computation analytical methods."
+    }
+
+  ✓ Type I Interferon, Induced by Adenovirus or Adenoviral Vector Infectio
+    PMC11023693 · 942ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Single cell analysis of docosahexaenoic acid suppression of sequential
+    PMC9669445 · 952ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Forced IFIT-2 expression represses LPS induced TNF-alpha expression at
+    PMC2632614 · 921ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ IFIT1 Exerts Opposing Regulatory Effects on the Inflammatory and Inter
+    PMC6492923 · 1020ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Selection of reliable reference genes for the normalisation of gene ex
+    PMC5627409 · 849ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Epigenetic profile in lipopolysaccharide-stimulated macrophages
+    PMC3953056 · 889ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Effect of LPS, dsRNA or interferons on the phagocytosis of dying cells
+    PMC3019512 · 866ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Transcriptional profiling of the LPS induced NF-κB response in macroph
+    PMC1781469 · 1199ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Knockdown of lncRNA TapSAKI alleviates LPS-induced injury in HK-2 cell
+    PMC8034242 · 899ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Lipopolysaccharide-mediated macrophage polarization, conserved pathoge
+    PMC13372918 · 1078ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ IFN-γ selectively suppresses a subset of TLR4-activated genes and enha
+    PMC6658531 · 997ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Delayed polarization of mononuclear phagocyte transcriptional program 
+    PMC1187927 · 1283ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Analysis of the human monocyte-derived macrophage transcriptome and re
+    PMC5358891 · 918ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Chronic Interferon Stimulated Gene Transcription Promotes Oncogene Ind
+    bio_641727ea · 1031ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(
+    PMC7053374 · 907ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ p204 Is Required for Canonical Lipopolysaccharide-induced TLR4 Signali
+    PMC5925582 · 1039ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Comparative Study of The Effect of LPS on The Function of BALB/c and C
+    PMC3660024 · 870ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Natural variation of macrophage activation as disease-relevant phenoty
+    PMC5527282 · 901ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Tumour-derived exosomal miR-205 promotes ovarian cancer cell progressi
+    PMC11829414 · 859ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Lipopolysaccharide Tolerance Enhances Murine Norovirus Reactivation: A
+    PMC9916340 · 1023ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[23.3s, saved to m_1985f0cb]
+
+  [....................]  0/0 papers  [0s]
+  [##..................]  3/25 papers  run m_1985f0cb  [2s]
+  [#########...........]  12/25 papers  run m_1985f0cb  [4s]
+  [#############.......]  17/25 papers  run m_1985f0cb  [6s]
+  [###################.]  24/25 papers  run m_1985f0cb  [8s]
+  [####################]  25/25 papers  run m_1985f0cb  [12s]
+  [####################]  25/25 papers  run m_1985f0cb  [22s]
+

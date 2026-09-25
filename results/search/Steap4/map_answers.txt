@@ -1,0 +1,174 @@
+Map results  [m_ee523fb7]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Steap4 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+
+--- [1] [success] The expression of STEAP4 in peripheral blood predicts the outcome of septic patients ---
+doc_id: PMC8576732
+{
+  "answer": "yes",
+  "evidence": "As shown in Figure 7, both mRNA and protein expression of STEAP4 were significantly increased in septic liver cells.",
+  "context": "The mouse macrophage RAW264.7 cells used in this study were purchased from Shanghai Cell Bank of Chinese Academy of Sciences and cultured in complete medium containing 10% fetal bovine serum. Lipopolysaccharide (LPS, purchased from Sigema, USA) was used to model sepsis cells at a dose of 100 ng/mL."
+}
+
+--- [2] [success] Immune responses of six-transmembrane epithelial antigen of the prostate 4 functions as a novel biomarker in gastric cancer ---
+doc_id: PMC10494559
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [3] [success] Six transmembrane epithelial antigens of the prostate to illustrate inflammatory response in gastrointestinal cancers ---
+doc_id: PMC11346062
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [4] [success] Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC7053374
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [5] [success] STEAP4 drives immune dysregulation in myocardial infarction–NSCLC comorbidity ---
+doc_id: PMC13364855
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [6] [success] Inflammatory response in gastrointestinal cancers: Overview of six transmembrane epithelial antigens of the prostate in pathophysiology and clinical implications ---
+doc_id: PMC10823946
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [7] [success] Inflammation mobilizes copper metabolism to promote colon tumorigenesis via an IL-17-STEAP4-XIAP axis ---
+doc_id: PMC7021685
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [8] [success] Monocyte normal immune response to LPS stimulation ---
+doc_id: PMC3333514
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [9] [success] Lipopolysaccharide preconditioning augments the antibacterial activity of renal macrophages and ameliorates acute kidney injury caused by Staphylococcus aureus bacteremia in mice ---
+doc_id: PMC12035103
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [10] [success] Hepatic STEAP4 promotes liver regeneration by regulating lysosomal iron homeostasis and membrane integrity in acetaminophen-induced liver injury ---
+doc_id: PMC13480316
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [11] [success] Cryo-EM structures of human STEAP4 reveal mechanism of iron(III) reduction ---
+doc_id: PMC6194020
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [12] [success] Species-Specificity of Transcriptional Regulation and the Response to Lipopolysaccharide in Mammalian Macrophages ---
+doc_id: PMC7386301
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [13] [success] Targeting the LPS-STING axis: neomycin restores STING-mediated anti-tumor immune suppression and inhibits tumor growth ---
+doc_id: PMC12605410
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [14] [success] Steap4 attenuates high glucose and S100B-induced effects in mesangial cells ---
+doc_id: PMC4459839
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [15] [success] STEAP4 expression in CNS resident cells promotes Th17 cell-induced autoimmune encephalomyelitis ---
+doc_id: PMC8059164
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [16] [success] Diabetes-Mediated STEAP4 Enhances Retinal Oxidative Stress and Impacts the Development of Diabetic Retinopathy ---
+doc_id: PMC11851923
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [17] [success] Correction: Trstenjak Prebanda et al. Upregulation of Mitochondrial Redox Sensitive Proteins in LPS-Treated Stefin B-Deficient Macrophages. Cells 2019, 8, 1476 ---
+doc_id: PMC11394647
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [18] [success] Lipopolysaccharide (LPS)-induced Macrophage Activation and Signal Transduction in the Absence of Src-Family Kinases Hck, Fgr, and Lyn ---
+doc_id: PMC2196288
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [19] [success] STEAP1–4 (Six-Transmembrane Epithelial Antigen of the Prostate 1–4) and Their Clinical Implications for Prostate Cancer ---
+doc_id: PMC9406800
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [20] [success] STEAP4–Mediated ROS–TERT–TP53 Signaling Promotes Granulosa Cell Dysfunction in Experimental Models of Polycystic Ovary Syndrome ---
+doc_id: PMC13359901
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [21] [success] LPS Counter Regulates RNA Expression of Extracellular Proteases and Their Inhibitors in Murine Macrophages ---
+doc_id: PMC3317238
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [22] [success] Oral and transdermal administration of lipopolysaccharide safely enhances self-healing ability through the macrophage network ---
+doc_id: PMC11994614
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [23] [success] BRD4 contributes to LPS-induced macrophage senescence and promotes progression of atherosclerosis-associated lipid uptake ---
+doc_id: PMC7288959
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [24] [success] Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC6543837
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [25] [success] Selection of reliable reference genes for the normalisation of gene expression levels following time course LPS stimulation of murine bone marrow derived macrophages ---
+doc_id: PMC5627409
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}

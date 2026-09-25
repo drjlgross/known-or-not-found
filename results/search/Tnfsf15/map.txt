@@ -1,0 +1,195 @@
+$ src/pc.sh map --from s_df3e5637 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Tnfsf15 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 24/25 papers
+Results ID: m_6818648f
+
+  ✓ TNFSF15 Promotes Antimicrobial Pathways in Human Macrophages and These
+    PMC7689184 · 1060ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ TNFSF15 facilitates differentiation and polarization of macrophages to
+    PMC8812784 · 1190ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 1024ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ LITAF and TNFSF15, two downstream targets of AMPK, exert inhibitory ef
+    PMC3431012 · 1027ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Identifying and testing candidate genetic polymorphisms in irritable b
+    PMC3959508 · 867ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Quantitative Proteomics Reveals Fh15 as an Antagonist of TLR4 Downregu
+    PMC12294962 · 880ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Reduced monocyte and macrophage TNFSF15/TL1A expression is associated 
+    PMC6130856 · 1396ms
+    {
+      "answer": "yes",
+      "evidence": "In monocytes stimulated with immune complex and intracellular poly(I:C), the protective allele was associated with higher levels of TNFSF15 mRNA (p 1.33 x 10−3 and p 0.0155, respectively), similar to results in unstimulated cells, while LPS-stimulated monocytes showed a comparable trend but with more variability (p 0.273, Fig 2A).",
+      "context": "Monocytes were stimulated with 100 ng/mL LPS (Sigma), plate-bound immune complex (as previously described [52]), or 100 μg/mL intracellular polyinosinic:polycytidylic acid (poly(I:C)), prepared with 1 mg/mL high molecular weight poly(I:C) mixed 1:1 with LyoVec transfection reagent (Invivogen) at RT for 15 minutes."
+    }
+
+  ✓ Protective effect of growth differentiation factor 15 in sepsis by reg
+    PMC9161903 · 1398ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Distinct Expression Patterns of Two Tumor Necrosis Factor Superfamily 
+    PMC6584785 · 962ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ GDF15 orchestrates mitochondrial-immune crosstalk via SMAD7-HIF-1α-PKM
+    PMC12872506 · 825ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Lipopolysaccharide-mediated macrophage polarization, conserved pathoge
+    PMC13372918 · 1186ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Differential mRNA and miRNA Profiles Reveal the Potential Roles of Gen
+    PMC8155903 · 1007ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Monocyte normal immune response to LPS stimulation
+    PMC3333514 · 819ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Cytokine Expression and Macrophage Localization in Xenograft and Allog
+    PMC5979423 · 821ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Tremella fuciformis Polysaccharides Attenuate Oxidative Stress and Inf
+    PMC5954968 · 1074ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyr
+    PMC9456100 · 803ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Genetic and Epigenetic Etiology of Inflammatory Bowel Disease: An Upda
+    PMC9778199 · 1515ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ The Clinical Value of GDF15 and Its Prospective Mechanism in Sepsis
+    PMC8456026 · 1030ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✗ Untitled
+    ? · 60074ms
+
+  ✓ Oral and transdermal administration of lipopolysaccharide safely enhan
+    PMC11994614 · 873ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Macrophages as a Source and Target of GDF-15
+    PMC11242731 · 1000ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Transcriptional profiling of the LPS induced NF-κB response in macroph
+    PMC1781469 · 992ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Growth Differentiation Factor-15 Deficiency Augments Inflammatory Resp
+    PMC5430818 · 895ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ TNFSF15 facilitates the differentiation of CD11b+ myeloid cells into v
+    PMC10690882 · 822ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Role of TNFSF15 in the intestinal inflammatory response
+    PMC6384511 · 1020ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[72.3s, saved to m_6818648f]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  1/25 papers  run m_6818648f  [2s]
+  [########............]  10/25 papers  run m_6818648f  [4s]
+  [#############.......]  17/25 papers  run m_6818648f  [6s]
+  [###################.]  24/25 papers  run m_6818648f  [12s]
+  [###################.]  24/25 papers  run m_6818648f  [22s]
+  [###################.]  24/25 papers  run m_6818648f  [33s]
+  [###################.]  24/25 papers  run m_6818648f  [43s]
+  [###################.]  24/25 papers  run m_6818648f  [53s]
+  [###################.]  24/25 papers  run m_6818648f  [63s]
+  [###################.]  24/25 papers  run m_6818648f  [71s]
+
+$ src/pc.sh map --resume m_6818648f --retry-failed
+# exit 1
+[error] Something went wrong. Please try again.
+

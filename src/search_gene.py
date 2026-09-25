@@ -189,6 +189,56 @@ def corpus_count(gene: str, gdir: Path) -> dict:
     return {"corpus_count": k, "corpus_count_capped": capped, "corpus_count_status": "ok", "corpus_expr": expr}
 
 
+def apply_checks(ans: dict[str, dict], gene: str, stim: bool, two: bool) -> None:
+    """Strict-mode script checks, in place. The model's own answer is kept as model_answer; a yes whose quotes
+    (evidence + context) don't name the gene, or (stim) don't name LPS or an infection, becomes no."""
+    for a in ans.values():
+        a["model_answer"] = a.get("answer", "")
+        a.pop("downgraded", None)
+        quoted = a.get("evidence", "") + " " + a.get("context", "")
+        a["evidence_names"] = ";".join(gene_names.names_in(quoted, gene, human=two))
+        if a.get("answer") == "yes" and not a["evidence_names"]:
+            a["answer"], a["downgraded"] = "no", "yes->no: evidence does not name the gene"
+        if stim:
+            a["evidence_stimulus"] = ";".join(gene_names.stimulus_in(quoted))
+            if a.get("answer") == "yes" and not a["evidence_stimulus"]:
+                a["answer"], a["downgraded"] = "no", "yes->no: evidence does not name LPS or infection"
+
+
+def write_verdicts(ans: dict[str, dict], parent: list[tuple[int, str, str]], sid: str, gdir: Path,
+                   mode: str) -> dict:
+    """Write ledger verdicts for search sid and gdir/verdicts.csv; return the per-gene counts for summary.json.
+    filter: absent = no. map: absent or failed = error (never "no")."""
+    with ledger_rows() as rows:
+        for r in rows:
+            if r["search_id"] != sid:
+                continue
+            a = ans.get(r["paper_id"])
+            if mode == "filter":
+                r["verdict"] = "yes" if a else "no"
+            elif a and a["status"] == "success":
+                r["verdict"], r["status"] = a["answer"], "ok"
+            else:
+                r["verdict"], r["status"] = "", "error"
+    with (gdir / "verdicts.csv").open("w", newline="") as fh:
+        w = csv.writer(fh)
+        w.writerow(["rank", "paper_id", "title", "judge_status", "answer", "model_answer", "evidence", "context",
+                    "evidence_names", "evidence_stimulus", "downgraded"])
+        for rank, pid, title in parent:
+            a = ans.get(pid, {"status": "absent" if mode == "map" else "filtered_out", "answer": "", "evidence": ""})
+            w.writerow([rank, pid, title, a["status"], a["answer"] or ("no" if mode == "filter" else ""),
+                        a.get("model_answer", a["answer"]), a["evidence"], a.get("context", ""),
+                        a.get("evidence_names", ""), a.get("evidence_stimulus", ""), a.get("downgraded", "")])
+    parent_ids = [pid for _, pid, _ in parent]
+    n_yes = sum(1 for p in parent_ids if ans.get(p, {}).get("answer") == "yes")
+    n_err = 0 if mode == "filter" else sum(1 for p in parent_ids if ans.get(p, {}).get("status") != "success")
+    # yes_before_checks: the model's own yes count, before the name/stimulus downgrades (sensitivity column only)
+    n_raw = sum(1 for p in parent_ids if ans.get(p, {}).get("model_answer", ans.get(p, {}).get("answer")) == "yes")
+    return dict(parent_n=len(parent), yes=n_yes, yes_before_checks=n_raw,
+                downgraded=sum(1 for p in parent_ids if ans.get(p, {}).get("downgraded")),
+                no=len(parent) - n_yes - n_err, paper_errors=n_err)
+
+
 def process(gene: str, n: int, outdir: Path, mode: str, question_tpl: str, also: list[str] | None = None,
             named_query: bool = False, strict: bool = False, count: bool = False, stim: bool = False,
             two: bool = False) -> dict:
@@ -257,16 +307,7 @@ def process(gene: str, n: int, outdir: Path, mode: str, question_tpl: str, also:
     except (RuntimeError, subprocess.TimeoutExpired) as exc:
         return error(mode, str(exc), sid)
     if strict:
-        for a in ans.values():
-            a["model_answer"] = a.get("answer", "")
-            quoted = a.get("evidence", "") + " " + a.get("context", "")
-            a["evidence_names"] = ";".join(gene_names.names_in(quoted, gene, human=two))
-            if a.get("answer") == "yes" and not a["evidence_names"]:
-                a["answer"], a["downgraded"] = "no", "yes->no: evidence does not name the gene"
-            if stim:
-                a["evidence_stimulus"] = ";".join(gene_names.stimulus_in(quoted))
-                if a.get("answer") == "yes" and not a["evidence_stimulus"]:
-                    a["answer"], a["downgraded"] = "no", "yes->no: evidence does not name LPS or infection"
+        apply_checks(ans, gene, stim, two)
     parent_ids = [pid for _, pid, _ in parent]
     stray = set(ans) - set(parent_ids)
     if stray:
@@ -274,35 +315,8 @@ def process(gene: str, n: int, outdir: Path, mode: str, question_tpl: str, also:
     t_judge = time.monotonic() - t1
 
     # 5. verdicts by script. filter: absent = no. map: absent or failed = error (never "no").
-    with ledger_rows() as rows:
-        for r in rows:
-            if r["search_id"] != sid:
-                continue
-            a = ans.get(r["paper_id"])
-            if mode == "filter":
-                r["verdict"] = "yes" if a else "no"
-            elif a and a["status"] == "success":
-                r["verdict"] = a["answer"]
-            else:
-                r["verdict"], r["status"] = "", "error"
-    with (gdir / "verdicts.csv").open("w", newline="") as fh:
-        w = csv.writer(fh)
-        w.writerow(["rank", "paper_id", "title", "judge_status", "answer", "model_answer", "evidence", "context",
-                    "evidence_names", "evidence_stimulus", "downgraded"])
-        for rank, pid, title in parent:
-            a = ans.get(pid, {"status": "absent" if mode == "map" else "filtered_out", "answer": "", "evidence": ""})
-            w.writerow([rank, pid, title, a["status"], a["answer"] or ("no" if mode == "filter" else ""),
-                        a.get("model_answer", a["answer"]), a["evidence"], a.get("context", ""),
-                        a.get("evidence_names", ""), a.get("evidence_stimulus", ""), a.get("downgraded", "")])
-
-    n_yes = sum(1 for p in parent_ids if ans.get(p, {}).get("answer") == "yes")
-    n_err = 0 if mode == "filter" else sum(1 for p in parent_ids if ans.get(p, {}).get("status") != "success")
-    # yes_before_checks: the model's own yes count, before the name/stimulus downgrades (sensitivity column only)
-    n_yes_raw = sum(1 for p in parent_ids if ans.get(p, {}).get("model_answer", ans.get(p, {}).get("answer")) == "yes")
-    summary.update(status="ok", search_id=sid, judge_id=judge_id, parent_n=len(parent), yes=n_yes,
-                   yes_before_checks=n_yes_raw,
-                   downgraded=sum(1 for p in parent_ids if ans.get(p, {}).get("downgraded")),
-                   no=len(parent) - n_yes - n_err, paper_errors=n_err, seconds_search=round(t_search, 1),
+    counts = write_verdicts(ans, parent, sid, gdir, mode)
+    summary.update(status="ok", search_id=sid, judge_id=judge_id, **counts, seconds_search=round(t_search, 1),
                    seconds_judge=round(t_judge, 1), seconds_total=round(time.monotonic() - t0, 1))
     (gdir / "summary.json").write_text(json.dumps(summary, indent=2))
     return summary

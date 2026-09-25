@@ -1,0 +1,221 @@
+$ src/pc.sh map --from s_6a1d2e02 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Il6 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 24/25 papers
+Results ID: m_7ff10235
+
+  ✓ NF-κB p65 and TCF-4 interactions are associated with LPS-stimulated IL
+    PMC10859262 · 1619ms
+    {
+      "answer": "yes",
+      "evidence": "After LPS stimulation, however, IL-6 level increased rapidly at 6 h and reached 0.9 ng/ml at 36 h, approximately 5.5 times higher than the basal level (Fig. 1D).",
+      "context": "For inflammatory stimulation, fully differentiated macrophage-like THP-1 cells were treated with lipopolysaccharides (LPS)."
+    }
+
+  ✓ In Vitro Study of Interleukin-6 when Used at Low Dose and Ultra-Low Do
+    PMC10971188 · 1585ms
+    {
+      "answer": "yes",
+      "evidence": "As illustrated in Figure 5A,C, the macrophages were able to drastically increase their LPS-stimulated-IL-6 secretion, when compared with the unstimulated controls, at the end of the two tested incubation periods.",
+      "context": "CD14+ cells from one healthy donor were isolated and differentiated into M0 macrophages for 6 days, before being treated with/without 100 ng/mL lipopolysaccharide (LPS) alone or with 100 ng/mL LPS + either the vehicle (Veh.) or one capsule of 2LALERG® during (i) 24 h (upper panel) or (ii) during 48 h (lower panel)."
+    }
+
+  ✓ Anxiolytic-like effects of hochuekkito in lipopolysaccharide-treated m
+    PMC9411515 · 1211ms
+    {
+      "answer": "yes",
+      "evidence": "LPS-treatment caused a significant increase in IL-6 serum concentrations after 2 and 5 h (Figure 5).",
+      "context": "Serum samples from mice were obtained 2, 5, and 24 h after the injection."
+    }
+
+  ✓ The Uremic Toxin Indoxyl Sulphate Enhances Macrophage Response to LPS
+    PMC3786936 · 1217ms
+    {
+      "answer": "yes",
+      "evidence": "LPS induced a significant induction in TNF-α and IL-6 levels in J774A.1 macrophage (P<0.001 vs control; Fig. 6).",
+      "context": "IL-6 (panel A) and TNF-α (panel B) production was measured in the supernatants of J774A.1 cells treated with IS (1000–62.5 µM) and LPS (1 µg/ml) for 18 h by an ELISA kit."
+    }
+
+  ✓ Interleukin-6 signaling promotes alternative macrophage activation to 
+    PMC4161471 · 1020ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ CEACAM1 regulates the IL-6 mediated fever response to LPS through the 
+    PMC6345024 · 1426ms
+    {
+      "answer": "yes",
+      "evidence": "As shown in Fig. 5a, IL-6 mRNA is significantly increased as early as 30 min after LPS treatment and reached a peak at 90 min in Ceacam1−/− mice.",
+      "context": "For LPS treatment or RP105 antibody treatment, cells were treated with 500 ng/mL LPS or 20 μg/mL anti-RP105 antibody (Clone RP/14, Biolegend) over time shown in the figures and harvested for qPCR analysis."
+    }
+
+  ✓ COVID-19 virtual patient cohort reveals immune mechanisms driving dise
+    bio_f7b8d9ca · 2332ms
+    {
+      "answer": "yes",
+      "evidence": "Shibata et al. 37 measured the production of IL-6 for different dosages of LPS and fitting the production rate to this data to obtain p L,MΦ , η L,MΦ .",
+      "context": "To model the production of IL-6 by alveolar macrophages by L_U / dt = p_{L, M\theta I} M_{\theta I} / (M_{\theta I} + \theta_{L, M\theta}) to compare to observations from Shibata et al. 37 who measured the production of IL-6 by alveolar macrophages stimulated by different concentrations of LPS."
+    }
+
+  ✓ Interleukin-6 Contributes to Age-Related Alteration of Cytokine Produc
+    PMC2910493 · 910ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ MicroRNA-181b regulates endotoxin tolerance by targeting IL-6 in macro
+    PMC4355005 · 1226ms
+    {
+      "answer": "yes",
+      "evidence": "Previous study has demonstrated that IL-6 protein significantly increased after LPS stimulation and then incited the “cytokine storm” at the onset of severe systemic inflammation (SSI), and then, IL-6 protein level rapidly decreased and reached background levels by 24 h [12].",
+      "context": "L64: Previous study has demonstrated that IL-6 protein significantly increased after LPS stimulation and then incited the “cytokine storm” at the onset of severe systemic inflammation (SSI), and then, IL-6 protein level rapidly decreased and reached background levels by 24 h [12]."
+    }
+
+  ✓ Interleukin 6-regulated macrophage polarization controls atheroscleros
+    PMC9363591 · 1765ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Production and Characterization of IgY Polyclonal Antibodies Specific 
+    PMC12782472 · 1097ms
+    {
+      "answer": "yes",
+      "evidence": "This concentration of LPS induced IL-6 production, reaching a maximum concentration of approximately 200 pg/ml, whereas untreated cells did not secrete IL-6.",
+      "context": "MRC-5 cells (1×107 cells) were cultured in a T25 culture flask using MEM medium containing 10% FBS at 37°C in 5% CO2. The monolayers of MRC-5 cells were treated with 1 μg of LPS in triplicate."
+    }
+
+  ✗ Untitled
+    ? · 95255ms
+
+  ✓ IRF3 Promotes Production of IL-6 and Nitric Oxide but Represses CCL22 
+    PMC11784258 · 1402ms
+    {
+      "answer": "yes",
+      "evidence": "Moreover, IRF3 deficiency depressed the LPS-induced ISRE promoter activity and NO production but increased IL-6 and CCL22 in response to LPS.",
+      "context": "RAW-Lucia (wt RAW) or IRF3KO-RAW-Lucia cells (3KO RAW) at 5\u00D7105 per well incubated overnight were stimulated with 100 ng or 500 ng E. coli LPS (Ec-LPS) or P. gingivalis LPS (Pg-LPS) or stimulated with 10 \u00B5g/mL of poly (I)C (IC10) for 24 h at 37 \u00B0C after which secreted luciferase activity (A), IL-6 (B and C), Nitric Oxide (NO) (D) and CCL22 (E and F) production were evaluated."
+    }
+
+  ✓ Direct and Indirect Suppression of Interleukin-6 Gene Expression in Mu
+    PMC4220616 · 981ms
+    {
+      "answer": "yes",
+      "evidence": "The induction of il6 mRNA after LPS stimulation was dose-dependently repressed by the addition of GSK4112 in peritoneal macrophages (Figure 1(a)).",
+      "context": "Peritoneal macrophages were harvested as adherent cells from 2-month-old C57BL/6J mice and were either untreated or treated with 1 ug/mL LPS or 2 or 20 uM GSK4112 for 16 h."
+    }
+
+  ✓ Mouse Ocilrp2/Clec2i negatively regulates LPS-mediated IL-6 production
+    PMC9589251 · 1290ms
+    {
+      "answer": "yes",
+      "evidence": "Data showed that the knockdown of Ocilrp2 by siOcilrp2-2 and Ocilrp2-3 significantly increased the mRNA of IL-6 in LPS-induced macrophages, respectively ( Figure 2C ). And the protein expression levels of IL-6 increased by 63% and 65% compared to the control, respectively ( Figure 2D ).",
+      "context": "Cells were plated into 12-well plates and cultured in the absence or presence of LPS (100 ng/ml), CpG ODN (0.3 μM), poly(I:C) (10 μg/ml)."
+    }
+
+  ✓ Type I Interferon, Induced by Adenovirus or Adenoviral Vector Infectio
+    PMC11023693 · 1332ms
+    {
+      "answer": "yes",
+      "evidence": "As shown in Figure 5a, b, a significant upregulation of IL-6 and TNF-α mRNA and protein secretion was found in the pretreated MPI cells compared to LPS alone at all time points of investigation, while in BMM, the mRNA expression after 2 h and protein secretion after 6 h remained unchanged, and the secretion after 16 h of stimulation was reduced.",
+      "context": "The rmIFN-β-pretreated wild-type MPI cells and BMM were stimulated with LPS in parallel, and the cytokine production was determined at 2 h (as mRNA), 6 h, and 16 h (as protein) after LPS addition."
+    }
+
+  ✓ The Pro-Inflammatory Cytokine, Interleukin-6, Enhances the Polarizatio
+    PMC3988054 · 988ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Mathematical modelling of activation-induced heterogeneity in TNF, IL6
+    PMC9411976 · 1188ms
+    {
+      "answer": "yes",
+      "evidence": "L81: At the population level, cumulative secreted levels of TNF, IL-6, and NO were reduced for RAW264.7 cells ( Figure 3B), supporting that the LPS pre-treatment compromised the ability of cells to respond to a second LPS challenge.",
+      "context": "L29: For LPS titration experiments, cells were either stimulated with LPS or were left in media (untreated) on day 1."
+    }
+
+  ✓ Isocorydine Ameliorates IL-6 Expression in Bone Marrow-Derived Macroph
+    PMC10003757 · 1170ms
+    {
+      "answer": "yes",
+      "evidence": "After stimulation with LPS for 6 h, the burst of Il6 mRNA expression in LPS+ICD group was significantly inhibited compared to that in the LPS+PBS group, and the inhibitory effect was dose-dependent (Figure 3D).",
+      "context": "Before stimulation with LPS, BMDMs were pretreated with different doses of ICD (0, 25, 50, 75 \u0356M) and DEX (5 \u0356M) for 1 h."
+    }
+
+  ✓ Curcumin suppresses the production of interleukin-6 in Prevotella inte
+    PMC3139050 · 1055ms
+    {
+      "answer": "yes",
+      "evidence": "L43: Stimulation of RAW 264.7 cells with P. intermedia LPS induced significant increases in IL-6 (Fig. 1).",
+      "context": "L28: After washing three times with medium, various concentrations of P. intermedia LPS and curcumin were added and the cells were cultured for 24 hours, after which culture supernatants were collected and assayed for IL-6."
+    }
+
+  ✓ Astragalus membranaceus Injection Suppresses Production of Interleukin
+    PMC7364262 · 1460ms
+    {
+      "answer": "yes",
+      "evidence": "Results showed that LPS increased the levels of both the IL-6 in the cell culture supernatant (Figure 1(a)) and the intracellular IL-6 (Figure 1(b)) in a dose-dependent manner.",
+      "context": "ANA-1 cells were stimulated with LPS at various concentrations (0.25, 0.5, and 1 \u0393\u0020\u0393\u0020\u0393\u0020\u0020\u0020g/mL) for 24 h."
+    }
+
+  ✓ Mathematical modelling of activation-induced heterogeneity reveals cel
+    bio_206e5a35 · 1496ms
+    {
+      "answer": "yes",
+      "evidence": "At the population level, cumulative secreted levels of TNF, IL-6, and NO were reduced for RAW264.7 cells ( Supplementary Figure 1C ), supporting that the LPS pre-treatment compromised the ability of cells to respond to a second LPS challenge.",
+      "context": "To capture distinct macrophage subpopulations upon activation with LPS we measured protein expression of three cytokines, TNF, pro-IL-1\u0325\u03B2 and IL-6, and one intracellular pro-inflammatory protein NOS2, an enzyme that catalyzes nitric oxide formation."
+    }
+
+  ✓ Diphlorethohydroxycarmalol Inhibits Interleukin-6 Production by Regula
+    PMC4413204 · 1115ms
+    {
+      "answer": "yes",
+      "evidence": "After LPS treatment, TNF-α production was induced after 1 h and continuously increased up to 4 h and then plateaued (Figure 1D), whereas the IL-6 production continuously increased from 6 h (312.4 pg/mL ± 10.2) up to 24 h (918.3 pg/mL) (Figure 1C), and TNF-α was produced earlier than IL-6.",
+      "context": "To find the time profile of IL-6 and TNF-α production, we measured the amount of IL-6 and TNF-α in culture supernatants at the indicated time points after LPS treatment."
+    }
+
+  ✓ IL-21 Modulates Release of Proinflammatory Cytokines in LPS-Stimulated
+    PMC3888770 · 1152ms
+    {
+      "answer": "yes",
+      "evidence": "Treatment of macrophages with LPS alone resulted in a remarkable increase in cytokine production compared to the NT group (P < 0.001).",
+      "context": "Macrophages were incubated with IL-21 (100 ng/mL) in the presence or absence of LPS (100 ng/mL) for 6 h, 12 h and 24 h."
+    }
+
+  ✓ The p38 MAPK inhibitor SB203580 differentially modulates LPS-induced i
+    PMC4655375 · 1057ms
+    {
+      "answer": "yes",
+      "evidence": "Stimulation of RAW264.7 macrophages and mouse resident peritoneal macrophages with LPS significantly increased the production of TNF-\u0311α and IL-6 (Fig. 3).",
+      "context": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[102.9s, saved to m_7ff10235]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  0/25 papers  run m_7ff10235  [2s]
+  [######..............]  8/25 papers  run m_7ff10235  [4s]
+  [#########...........]  12/25 papers  run m_7ff10235  [6s]
+  [############........]  15/25 papers  run m_7ff10235  [8s]
+  [##################..]  23/25 papers  run m_7ff10235  [10s]
+  [###################.]  24/25 papers  run m_7ff10235 (1 failed)  [16s]
+  [###################.]  24/25 papers  run m_7ff10235 (1 failed)  [27s]
+  [###################.]  24/25 papers  run m_7ff10235 (1 failed)  [37s]
+  [###################.]  24/25 papers  run m_7ff10235 (1 failed)  [47s]
+  [###################.]  24/25 papers  run m_7ff10235 (1 failed)  [57s]
+  [###################.]  24/25 papers  run m_7ff10235 (1 failed)  [67s]
+  [###################.]  24/25 papers  run m_7ff10235 (1 failed)  [77s]
+  [###################.]  24/25 papers  run m_7ff10235 (1 failed)  [88s]
+  [###################.]  24/25 papers  run m_7ff10235 (1 failed)  [98s]
+  [###################.]  24/25 papers  run m_7ff10235 (1 failed)  [100s]
+  [###################.]  24/25 papers  run m_7ff10235 (1 failed)  [102s]
+
+$ src/pc.sh map --resume m_7ff10235 --retry-failed
+# exit 1
+[error] Something went wrong. Please try again.
+

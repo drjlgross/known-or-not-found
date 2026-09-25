@@ -1,0 +1,195 @@
+$ src/pc.sh map --from s_20b0dead --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Serpina3f (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_c386aa79
+
+  ✓ Adventitial macrophage accumulation impairs perivascular nerve functio
+    bio_582891fd · 1202ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ LPS Counter Regulates RNA Expression of Extracellular Proteases and Th
+    PMC3317238 · 951ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ N6-methyladenosine of Spi2a attenuates inflammation and sepsis-associa
+    PMC9979126 · 1161ms
+    {
+      "answer": "yes",
+      "evidence": "Supported by the analysis of RNA-sequencing data mentioned above, we noticed Serpina3f expression is also substantially boosted in BMDMs following LPS treatment among the 14 members of mouse Serpina3 family (Serpina3a-n) (Fig. S4i).",
+      "context": "In BMDMs exposed to LPS, we verified the upregulation of Serpina3f and confirmed overexpression of SERPINA3F exerted an inhibitory function in cytokines (Fig. S4i-k)."
+    }
+
+  ✓ Genome-wide siRNA screen of genes regulating the LPS-induced TNF-α res
+    PMC5332009 · 973ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 1091ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Analysis of the transcriptional networks underpinning the activation o
+    PMC4378362 · 897ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(
+    PMC7053374 · 873ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Monocyte normal immune response to LPS stimulation
+    PMC3333514 · 958ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Epigenetic profile in lipopolysaccharide-stimulated macrophages
+    PMC3953056 · 786ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ The Transcription Factor C/EBP-β Mediates Constitutive and LPS-Inducib
+    PMC3589482 · 1039ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Serine Supports IL-1β Production in Macrophages Through mTOR Signaling
+    PMC7481448 · 892ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Sex differences in nociceptor translatomes contribute to divergent pro
+    bio_78de31c5 · 1312ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Macrophage phenotype in sepsis immunosuppression
+    PMC4470529 · 888ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ SRSF3 Knockdown Inhibits Lipopolysaccharide-Induced Inflammatory Respo
+    PMC11202707 · 819ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Selection of reliable reference genes for the normalisation of gene ex
+    PMC5627409 · 957ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Lipopolysaccharide-Activated Macrophages Suppress Cellular Senescence 
+    PMC12346749 · 897ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Inhibitor of serine peptidase 2 enhances Leishmania major survival in 
+    PMC5892728 · 907ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ LPS Tolerance Inhibits Cellular Respiration and Induces Global Changes
+    PMC7918892 · 949ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Reversal of filarial serpin Wb123-urokinase plasminogen activator rece
+    PMC12768378 · 1113ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Effect of LPS, dsRNA or interferons on the phagocytosis of dying cells
+    PMC3019512 · 942ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ LPS-Induced Modifications in Macrophage Transcript and Secretion Profi
+    PMC10940789 · 872ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ MARCO is an IFN-restricted immunometabolic decoy LPS receptor
+    bio_74c36375 · 850ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ CD163 deficiency facilitates lipopolysaccharide‐induced inflammatory r
+    PMC7518957 · 743ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Serpina3c Mitigates Adipose Tissue Inflammation by Inhibiting the HIF1
+    PMC12813378 · 945ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Ecotin-like serine peptidase inhibitor ISP1 of Leishmania major plays 
+    PMC3440592 · 1037ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[41.9s, saved to m_c386aa79]
+
+  [....................]  0/0 papers  [0s]
+  [#...................]  2/25 papers  run m_c386aa79  [2s]
+  [########............]  10/25 papers  run m_c386aa79  [4s]
+  [##############......]  18/25 papers  run m_c386aa79  [12s]
+  [################....]  20/25 papers  run m_c386aa79  [16s]
+  [################....]  21/25 papers  run m_c386aa79  [18s]
+  [###################.]  24/25 papers  run m_c386aa79  [20s]
+  [####################]  25/25 papers  run m_c386aa79  [23s]
+  [####################]  25/25 papers  run m_c386aa79  [33s]
+  [####################]  25/25 papers  run m_c386aa79  [41s]
+

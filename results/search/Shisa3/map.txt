@@ -1,0 +1,197 @@
+$ src/pc.sh map --from s_88320d4a --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Shisa3 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_69b22ed5
+
+  ✓ SHISA3 Reprograms Tumor‐Associated Macrophages Toward an Antitumoral P
+    PMC11423144 · 1583ms
+    {
+      "answer": "yes",
+      "evidence": "We observed reduced levels of proinflammatory cytokines (Il-6, Tfn, Il-1\u03B2) and M1 marker iNos in Shisa3-KO BMDMs versus WT BMDMs induced by LPS (Figure 5A,B; Figure S6A, Supporting Information).",
+      "context": "We found that Shisa3 is highly expressed in BMDMs treated with LPS for 6 h, and still very low in other cells (Figure S3A, Supporting Information)."
+    }
+
+  ✓ Lipopolysaccharide (LPS)-induced Macrophage Activation and Signal Tran
+    PMC2196288 · 1119ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Cla
+    PMC6543837 · 993ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Genome-wide siRNA screen of genes regulating the LPS-induced NF-κB and
+    PMC5332015 · 935ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(
+    PMC7053374 · 1079ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Epigenetic profile in lipopolysaccharide-stimulated macrophages
+    PMC3953056 · 892ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ The Anti-Inflammatory Effects of Shinbaro3 Is Mediated by Downregulati
+    PMC5907526 · 949ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Analysis of the transcriptional networks underpinning the activation o
+    PMC4378362 · 953ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Lipopolysaccharide-mediated macrophage polarization, conserved pathoge
+    PMC13372918 · 971ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Investigation of microRNAs in mouse macrophage responses to lipopolysa
+    PMC4682375 · 1279ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Genome-wide siRNA screen of genes regulating the LPS-induced TNF-α res
+    PMC5332009 · 1013ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Cooperative and distinct functions of MK2 and MK3 in the regulation of
+    PMC6667695 · 1530ms
+    {"answer": "yes", "evidence": "L27: In addition, another group of genes comprising Cxcl3, Csf2, Niacr1, Slc7a1 and Shisa3 appears to be MK3-dependently amplified in the absence of MK2 (summarized in group IV) since the enhancement of LPS-inducible gene expression is observable in MK2\u2212/\u2212 BMDM but does not occur upon combined deletion of MK2 and MK3 in MK2/3\u2212/\u2212 BMDM (MK2\u2212/\u2212 > WT, MK2\u2212/\u2212 < or = WT) (Supplemental Fig. S2j).", "context": "L59: Wild-type, MK2\u2212/\u2212 or MK2/3\u2212/\u2212 BMDM were stimulated with 100 ng/ml LPS for 120 min or 360 min."}
+
+  ✓ Lipopolysaccharide from biofilm-forming Pseudomonas aeruginosa PAO1 in
+    PMC8289208 · 941ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ SRSF3 Knockdown Inhibits Lipopolysaccharide-Induced Inflammatory Respo
+    PMC11202707 · 879ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Shisa3 brakes resistance to EGFR-TKIs in lung adenocarcinoma by suppre
+    PMC6894286 · 984ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Monocyte normal immune response to LPS stimulation
+    PMC3333514 · 948ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Species-Specificity of Transcriptional Regulation and the Response to 
+    PMC7386301 · 968ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Transducin-like enhancer of split 3 protects against lipopolysaccharid
+    PMC12766240 · 1051ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Lipopolysaccharide-Activated Macrophages Suppress Cellular Senescence 
+    PMC12346749 · 889ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Pro-Inflammatory Role of S1P3 in Macrophages
+    PMC6609111 · 1407ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Lipopolysaccharide regulation of antiinflammatory tristetraprolin fami
+    PMC10949775 · 999ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ LncRNA HOTAIR regulates lipopolysaccharide-induced cytokine expression
+    PMC6199307 · 1158ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Dynamic nucleosome redistribution and increases in nucleosome sensitiv
+    bio_eb053077 · 1405ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ SENP3 facilitates M1 macrophage polarization via the HIF-1α/PKM2 axis 
+    PMC10164277 · 1288ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Selection of reliable reference genes for the normalisation of gene ex
+    PMC5627409 · 872ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[21.8s, saved to m_69b22ed5]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  0/25 papers  run m_69b22ed5  [2s]
+  [#######.............]  9/25 papers  run m_69b22ed5  [4s]
+  [############........]  16/25 papers  run m_69b22ed5  [6s]
+  [#############.......]  17/25 papers  run m_69b22ed5  [8s]
+  [#################...]  22/25 papers  run m_69b22ed5  [11s]
+  [####################]  25/25 papers  run m_69b22ed5  [13s]
+  [####################]  25/25 papers  run m_69b22ed5  [21s]
+

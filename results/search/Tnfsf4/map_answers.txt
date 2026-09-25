@@ -1,0 +1,174 @@
+Map results  [m_13ad0127]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Tnfsf4 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+
+--- [1] [success] Genome-wide siRNA screen of genes regulating the LPS-induced TNF-α response in human macrophages ---
+doc_id: PMC5332009
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [2] [success] Genome-wide siRNA screen of genes regulating the LPS-induced NF-κB and TNF-α responses in mouse macrophages ---
+doc_id: PMC5332015
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [3] [success] Motif prediction to distinguish LPS-stimulated pro-inflammatory vs. antibacterial macrophage genes ---
+doc_id: PMC2949756
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [4] [success] Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC6543837
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [5] [success] Multi-omics analysis of tumor necrosis factor superfamily 4 reveals its prognostic value with T cell exhaustion feature in cancer ---
+doc_id: PMC12151969
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [6] [success] The Activation of Macrophage and Upregulation of CD40 Costimulatory Molecule in Lipopolysaccharide-Induced Acute Lung Injury ---
+doc_id: PMC2359863
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [7] [success] LPS combined with CD47mAb enhances the anti‑osteosarcoma ability of macrophages ---
+doc_id: PMC10091190
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [8] [success] Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review ---
+doc_id: PMC13372918
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [9] [success] Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages ---
+doc_id: PMC7053374
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [10] [success] Effects of thrombospondin-4 on pro-inflammatory phenotype differentiation and apoptosis in macrophages ---
+doc_id: PMC6978349
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [11] [success] Mathematical modelling of activation-induced heterogeneity reveals cell state transitions underpinning macrophage responses to LPS ---
+doc_id: bio_206e5a356c66
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [12] [success] Mathematical modelling of activation-induced heterogeneity in TNF, IL6, NOS2, and IL1β expression reveals cell state transitions underpinning macrophage responses to LPS ---
+doc_id: PMC9411976
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [13] [success] NF-κB p65 and TCF-4 interactions are associated with LPS-stimulated IL-6 secretion of macrophages ---
+doc_id: PMC10859262
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [14] [success] Monocyte normal immune response to LPS stimulation ---
+doc_id: PMC3333514
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [15] [success] Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyromonas endodontalis, Induces Macrophage M1 Profile ---
+doc_id: PMC9456100
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [16] [success] Epigenetic profile in lipopolysaccharide-stimulated macrophages ---
+doc_id: PMC3953056
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [17] [success] NF-κB Plays a Key Role in Inducing CD274 Expression in Human Monocytes after Lipopolysaccharide Treatment ---
+doc_id: PMC3622012
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [18] [success] Differential mRNA and miRNA Profiles Reveal the Potential Roles of Genes and miRNAs Involved in LPS Infection in Chicken Macrophages ---
+doc_id: PMC8155903
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [19] [success] Induction of unique macrophage subset by simultaneous stimulation with LPS and IL-4 ---
+doc_id: PMC10167635
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [20] [success] Effect of Thrombospondin-4 on Pro-inflammatory Phenotype Differentiation and Apoptosis in Macrophages ---
+doc_id: bio_aec0e8f76c09
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [21] [success] Hyperinflammation, T cells, and endotoxemia ---
+doc_id: PMC4695100
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [22] [success] Transcriptional profiling of the LPS induced NF-κB response in macrophages ---
+doc_id: PMC1781469
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [23] [success] Oral and transdermal administration of lipopolysaccharide safely enhances self-healing ability through the macrophage network ---
+doc_id: PMC11994614
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [24] [success] Lipopolysaccharide regulation of antiinflammatory tristetraprolin family and proinflammatory gene expression in mouse macrophages ---
+doc_id: PMC10949775
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [25] [success] In vivo cisplatin-resistant neuroblastoma metastatic model reveals tumour necrosis factor receptor superfamily member 4 (TNFRSF4) as an independent prognostic factor of survival in neuroblastoma ---
+doc_id: PMC11135766
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}

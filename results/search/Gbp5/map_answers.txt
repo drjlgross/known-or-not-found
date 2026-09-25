@@ -1,0 +1,162 @@
+Map results  [m_50a0ae83]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Gbp5 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+
+--- [1] [success] Golgi-localised Guanylate-binding protein 5 enhances glycolysis in macrophages ---
+doc_id: bio_c92a84737104
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [2] [success] M1 macrophage-derived migrasomes exacerbate post-myocardial infarction injury via guanylate binding protein 5 ---
+doc_id: PMC13200375
+{
+  "answer": "yes",
+  "evidence": "Western blot analysis of the isolated M0-Migs and M1-Migs demonstrated that M1-Migs expressed higher levels of GBP5 than did M0-Migs at the same total protein amount (Fig. 3D).",
+  "context": "When macrophage confluency reached 60%−70%, cells were stimulated with 100 ng/ml lipopolysaccharide (LPS, L2880, Sigma) and 20 ng/ml interferon-γ (IFN-γ, 315-05-20, Peprotech) to promote polarization of M0 macrophages to M1 macrophages;"
+}
+
+--- [3] [success] Direct binding of polymeric GBP1 to LPS disrupts bacterial cell envelope functions ---
+doc_id: PMC7327485
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [4] [success] Guanylate-binding protein 5 is a marker of interferon-γ-induced classically activated macrophages ---
+doc_id: PMC5133363
+{
+  "answer": "yes",
+  "evidence": "The expression of GBP5 in M1 and M1(−) was higher compared with that of the other subtypes (Figure 7), thereby replicating the results of the microarray data.",
+  "context": "To induce the macrophage subtypes (M1, M1(−), M2a, M2b and M2c), the macrophages were further stimulated for 24 h with LPS (10 ng ml−1)+IFN-γ (50 ng ml−1), IFN-γ (50 ng ml−1), IL-4 (10 ng ml−1), IL-1β (10 ng ml−1) and IL-10 (10 ng ml−1)."
+}
+
+--- [5] [success] A hierarchical GBP network promotes cytosolic LPS recognition and sepsis ---
+doc_id: bio_ea6f8a3b6c58
+{
+  "answer": "yes",
+  "evidence": "Chromosomal ablation of these 7 Gbp loci led to selective loss of Gbp mRNA and protein expression using monospecific antibodies where available in LPS-primed bone marrow-derived macrophages (BMDMs).",
+  "context": "LPS-primed BMDMs challenged with iLPS as a caspase-11-specific ligand (5, 6) revealed pronounced defects in IL-1β release and pyroptosis in cells from Gbp2 - / - and Gbp3 - / - but not Gbp1 - / - , Gbp5 - / - , Gbp7 - / - and Gbp6 - / - Gbp10 - / - mice versus C57BL/6NJ wild-type (WT) controls ( Fig. 1C )."
+}
+
+--- [6] [success] Pattern Recognition Receptor for Bacterial Lipopolysaccharide in the Cytosol of Human Macrophages ---
+doc_id: bio_56e9957f6d01
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [7] [success] Inhibitory effects of polysaccharides from Korean ginseng berries on LPS-induced RAW264.7 macrophages ---
+doc_id: PMC10684074
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [8] [success] NADPH Oxidase and Guanylate Binding Protein 5 Restrict Survival of Avirulent Type III Strains of Toxoplasma gondii in Naive Macrophages ---
+doc_id: PMC6113620
+{
+  "answer": "yes",
+  "evidence": "L41: BMDMs infected with either CTG or GT1 showed significant increase in expression of Gbp2, Gbp5, and Gbp7 mRNA at 20 h postinfection compared to uninfected cells",
+  "context": "L41: In particular, Gbp5 mRNA increased up to ~40-fold upon T. gondii infection, whereas Gbp2 and Gbp7 mRNA showed an ~10-fold increase (Fig. 6A)."
+}
+
+--- [9] [success] Guanylate-binding protein 5 licenses caspase-11 for Gasdermin-D mediated host resistance to Brucella abortus infection ---
+doc_id: PMC6326519
+{
+  "answer": "yes",
+  "evidence": "We observed that GBP2, GBP3, GBP5 and to less extent GBP7 had increased mRNA transcripts in macrophages transfected with bacterial LPS compared to cells transfected with FuGENEHD alone (S2 Fig).",
+  "context": "BMDMs from C57BL/6 mice were transfected with LPS (5 \u0393\u0394g/ml) from B. abortus using FugeneHD. After 17h of infection, RNA was extracted, purified, and qPCR was performed to measure GBP1, GBP2, GBP3, GBP5 and GBP7 expression levels. * p<0.05 when compared to Fugene HD alone."
+}
+
+--- [10] [success] GBP2 aggregates LPS and activates the caspase-4 inflammasome independent of the bacterial encapsulation factor GBP1 ---
+doc_id: bio_b19262096ce3
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [11] [success] GBP5 Aggravates Acute Lung Injury Via NLRP3 Inflammasome Activation While Inducing a HIF-1α–CD73–adenosine Feedback Loop ---
+doc_id: PMC13375705
+{
+  "answer": "yes",
+  "evidence": "Western blotting showed that, compared with the Ctrl group, LPS treatment increased the protein expression of GBP5 (Fig. 8A-B) and CD73 (Fig. 8A, C), along with marked upregulation of ASC (Fig. 8D-E), NLRP3 (Fig. 8D, F), and cleaved caspase-1 (Fig. 8D, G), indicating activation of NLRP3 inflammasome signaling.",
+  "context": ""
+}
+
+--- [12] [success] Bile acid derivatives from gut microbiota promote GBPs-mediated activation of caspase-4/11 by LPS through lncRNA57RIK ---
+doc_id: PMC11628326
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [13] [success] Interferon-induced guanylate-binding proteins: Guardians of host defense in health and disease ---
+doc_id: PMC6400534
+{
+  "answer": "yes",
+  "evidence": "Human GBP1 and GBP5 expression, for example, can be inducibly increased by nearly three orders of magnitude, reaching up to 300,000 molecules per cell within 24 h of IFN-\u03B3 exposure (Cheng et al., 1983, 1985; Fig. 3 C).",
+  "context": "Human GBP5 expression in HIV patients correlated inversely with infectious virus yields, suggesting that GBP-mediated protective mechanisms operate in natura (Krapp et al., 2016)."
+}
+
+--- [14] [success] LPS-aggregating proteins GBP1 and GBP2 are each sufficient to enhance caspase-4 activation both in cellulo and in vitro ---
+doc_id: PMC10104521
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [15] [success] Human GBP1 is a microbe‐specific gatekeeper of macrophage apoptosis and pyroptosis ---
+doc_id: PMC6600649
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [16] [success] Monocyte normal immune response to LPS stimulation ---
+doc_id: PMC3333514
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [17] [success] Guanylate-Binding Proteins (GBPs) convert cytosolic bacteria into caspase-4 signaling platforms ---
+doc_id: PMC7381384
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [18] [success] Correction: Genomic and functional adaptations in the guanylate-binding protein GBP5 highlight specificities of bat antiviral innate immunity ---
+doc_id: PMC13485055
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [19] [success] Immunoreactive Microenvironment Modulator GBP5 Suppresses Ovarian Cancer Progression by Inducing Canonical Pyroptosis ---
+doc_id: PMC11134437
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [20] [success] Constitutive Interferon Maintains GBP Expression Required for Release of Bacterial Components Upstream of Pyroptosis and Anti-DNA Responses ---
+doc_id: PMC6063733
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [21] [success] Guanylate-binding protein-5 is involved in inflammasome activation by bacterial DNA but only the cooperation of multiple GBPs accounts for control of Brucella abortus infection ---
+doc_id: PMC10885698
+{
+  "answer": "yes",
+  "evidence": "As early as 2 hours post-infection, we observed significantly increased GBP2, GBP5 and GBP7 mRNA levels compared to non-infected cells ( Figure 1A ).",
+  "context": "First, we determined the kinetics of GBPs expression in B. abortus infected wild-type BMDMs."
+}
+
+--- [22] [success] Guanylate-binding proteins promote AIM2 inflammasome activation during Francisella novicida infection by inducing cytosolic bacteriolysis and DNA release ---
+doc_id: PMC4568307
+{"answer": "yes", "evidence": "Gbp2 and Gbp5 were the most expressed genes of the GBP family in macrophages and were strongly and specifically induced upon wild-type F. novicida infection in a STING- and IFNAR-dependent manner, but independently of Tlr2 and Myd88 (Fig. 2b, Supplementary Fig. 1c-e).", "context": "Relative mRNA expression of different murine Gbp genes in wild-type BMDMs left uninfected or infected with F. novicida (FN) WT U112 or an ΔFPI mutant for 8 h."}
+
+--- [23] [success] Inflammasome Activation by Bacterial Outer Membrane Vesicles Requires Guanylate Binding Proteins ---
+doc_id: PMC5626967
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [24] [success] GBP1 recruitment to actin-rich pedestals induced by extracellular Gram-negative bacteria promotes pyroptosis ---
+doc_id: bio_0ddf65ba9122
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [25] [success] Aberrant expression of GBP5 in tumor-infiltrating immune cells as an onco-immunological biomarker in pan-cancer ---
+doc_id: PMC13396069
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}

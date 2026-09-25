@@ -1,0 +1,36 @@
+{
+  "gene": "Col27a1",
+  "query": "Col27a1 (collagen, type XXVII, alpha 1) LPS macrophage",
+  "also": [],
+  "mode": "map",
+  "strict": true,
+  "stimulus_check": true,
+  "two_quote": true,
+  "question": "Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Col27a1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.",
+  "date": "2026-09-25T15:47:57Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_d39a10b2",
+  "judge_id": "m_d6a8e976",
+  "parent_n": 25,
+  "yes": 0,
+  "yes_before_checks": 0,
+  "downgraded": 0,
+  "no": 25,
+  "paper_errors": 0,
+  "seconds_search": 5.8,
+  "seconds_judge": 28.5,
+  "seconds_total": 34.3,
+  "rechecks": [
+    {
+      "date": "2026-09-25T15:55:33Z",
+      "reason": "name check: normalize Greek letters and combining marks",
+      "before": {
+        "yes": 0,
+        "yes_before_checks": 0,
+        "downgraded": 0,
+        "paper_errors": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "gene": "Ptgs2",
+  "query": "Ptgs2 (prostaglandin-endoperoxide synthase 2) LPS macrophage",
+  "also": [],
+  "mode": "map",
+  "strict": true,
+  "stimulus_check": true,
+  "two_quote": true,
+  "question": "Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Ptgs2 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.",
+  "date": "2026-09-25T15:46:39Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_b4b9be4b",
+  "judge_id": "m_fb0dc56c",
+  "parent_n": 25,
+  "yes": 18,
+  "yes_before_checks": 20,
+  "downgraded": 2,
+  "no": 7,
+  "paper_errors": 0,
+  "seconds_search": 1.0,
+  "seconds_judge": 24.4,
+  "seconds_total": 25.4,
+  "rechecks": [
+    {
+      "date": "2026-09-25T15:55:33Z",
+      "reason": "name check: normalize Greek letters and combining marks",
+      "before": {
+        "yes": 18,
+        "yes_before_checks": 20,
+        "downgraded": 2,
+        "paper_errors": 0
+      }
+    }
+  ]
+}

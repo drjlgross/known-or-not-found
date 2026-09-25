@@ -1,0 +1,190 @@
+Map results  [m_04755b37]
+Query: Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Gbp2 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+
+--- [1] [success] Direct binding of polymeric GBP1 to LPS disrupts bacterial cell envelope functions ---
+doc_id: PMC7327485
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [2] [success] Molecular mechanisms and functions of guanylate-binding protein 2 in inflammation and cancer (Review) ---
+doc_id: PMC12486372
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [3] [success] Extracellular vesicle-packaged GBP2 from macrophages aggravates sepsis-induced acute lung injury by promoting ferroptosis in pulmonary vascular endothelial cells ---
+doc_id: PMC11994402
+{"answer": "yes", "evidence": "Elevated GBP2 expression was observed in EVs and monocytes from the peripheral blood of sepsis patients, in LPS-stimulated THP-1 and RAW264.7 cells and their secreted EVs, and in macrophages within the lungs of CLP mice.", "context": ""}
+
+--- [4] [success] Bacterial factors drive the differential targeting of Guanylate Binding Proteins to  Francisella  and  Shigella ---
+doc_id: bio_c14a021b71b1
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [5] [success] Interferon-induced guanylate-binding proteins: Guardians of host defense in health and disease ---
+doc_id: PMC6400534
+{
+  "answer": "yes",
+  "evidence": "In ApoE−/− mice fed a high-fat Western diet exhibited increased Gbp2, Gbp3, Gbp5, Gbp6, and Gbp7 expression within lesional foam cells (Goo et al., 2016).",
+  "context": ""
+}
+
+--- [6] [success] Inhibitory effects of polysaccharides from Korean ginseng berries on LPS-induced RAW264.7 macrophages ---
+doc_id: PMC10684074
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [7] [success] Inflammasome Activation by Bacterial Outer Membrane Vesicles Requires Guanylate Binding Proteins ---
+doc_id: PMC5626967
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [8] [success] Role of Gate-16 and Gabarap in Prevention of Caspase-11-Dependent Excess Inflammation and Lethal Endotoxic Shock ---
+doc_id: PMC7522336
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [9] [success] From mechanisms to therapies: the multifaceted roles of guanylate-binding protein 2 in immunity, cancer, and beyond ---
+doc_id: PMC12571816
+{
+  "answer": "yes",
+  "evidence": "Infection with Gram-negative bacteria such as Salmonella, Citrobacter, Chlamydia, and Escherichia in innate immune cells activates the caspase-11 inflammasome, a process that primarily requires GBP2 (48).",
+  "context": "During dengue infection, endothelial cells upregulate GBP2 as an initial protective response, which mitigates viral impact via reduced oxidative stress."
+}
+
+--- [10] [success] RNA-Binding Proteins in the Control of LPS-Induced Macrophage Response ---
+doc_id: PMC6369361
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [11] [success] Guanylate-binding proteins balance iNOS/Arg-1 in myeloid cells during L. major infection and promote host defense to infection ---
+doc_id: PMC13059736
+{
+  "answer": "yes",
+  "evidence": "Interestingly, BMDMs treated with both IFN-\u0333 and L. major possessed more puncta-positive cells than those treated with IFN-\u0333 alone (Fig. 3D).",
+  "context": "In vitro macrophage cultures were infected with L. major at an MOI of 10 for 2 h before cells were washed two times with PBS to wash away extracellular parasites. Cells were then cultured in media alone or media supplemented with 10 ng/mL IFN-\u0333 (Peprotech) or 100 ng/mL LPS (Sigma) + 10 ng/mL IFN-\u0333 for 72 h for parasite quantification and 48 h for Gbp localization experiments."
+}
+
+--- [12] [success] Crosstalk between GBP2 and M2 macrophage promotes the ccRCC progression ---
+doc_id: PMC11531969
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [13] [success] A hierarchical GBP network promotes cytosolic LPS recognition and sepsis ---
+doc_id: bio_ea6f8a3b6c58
+{
+  "answer": "yes",
+  "evidence": "L25: Chromosomal ablation of these 7 Gbp loci led to selective loss of Gbp mRNA and protein expression using monospecific antibodies where available in LPS-primed bone marrow-derived macrophages (BMDMs).",
+  "context": "L64: Reverse transcription was performed with 2μg of total RNA and M-MLV reverse transcriptase (Thermo Fisher Scientific) for 1h at 42°C followed by 10min at 95°C, and the resulting cDNAs were subjected to semi-quantitative RT-PCR analysis (9800 Fast Thermal Cycler, Applied Biosystems) with indicated primers for Gbp1 (NM_010259.2), Gbp2 (NM_010260.1), Gbp3 (NM_001289492), Gbp4 (NM_008620.3), Gbp5 (NM_153564.2), Gbp 6 (NM_194336), Gbp7 (NM_145545.3), Gbp8 (NM_029509.4), Gbp9 (NM_172777.4), Gbp10 (NM_001039646.2), Gbp11 (NM_001039647.2) and β-actin ( Table S4 )."
+}
+
+--- [14] [success] GBP2 promotes M1 macrophage polarization by activating the notch1 signaling pathway in diabetic nephropathy ---
+doc_id: PMC10445759
+{
+  "answer": "yes",
+  "evidence": "Similar to the effect of LPS, the expression of GBP2 was elevated in THP-1 cells under HG conditions, which went along with increased M1 marker INOS.",
+  "context": "Western blot analysis of GBP2 in THP-1 cells treated with HG (30 mM D-glucose) and LPS (100 ng/ml), and GAPDH was used as an internal control."
+}
+
+--- [15] [success] A Rapid Caspase-11 Response Induced by IFNγ Priming Is Independent of Guanylate Binding Proteins ---
+doc_id: PMC7566093
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [16] [success] Human GBP1 is a microbe‐specific gatekeeper of macrophage apoptosis and pyroptosis ---
+doc_id: PMC6600649
+{"answer": "no", "evidence": "", "context": ""}
+
+--- [17] [success] Downregulation of Gbp2 Attenuates LPS-Induced Inflammation in BV2 Microglia Cells Through Inhibition of STAT1 ---
+doc_id: PMC12513257
+{
+  "answer": "yes",
+  "evidence": "Significantly, LPS notably elevated Gbp2 levels in BV2 cells; however, Gbp2 downregulation reduced Gbp2 levels in LPS-treated BV2 cells (Figure 2B–D).",
+  "context": "(B–D) BV2 cells were transfected with Gbp2 siRNA1 and Gbp2 siRNA2, followed by exposed to LPS. RT-qPCR and Western blot assays were conducted to determine Gbp2 levels in BV2 cells."
+}
+
+--- [18] [success] GBP2 promotes podocyte pyroptosis and contributes to the pathogenesis of pediatric lupus nephritis ---
+doc_id: PMC13001939
+{
+  "answer": "yes",
+  "evidence": "In the LPS/ATP group (LA), GBP2 mRNA and protein levels were significantly increased relative to the control group (Fig 4B and 4C), consistent with observations in LN patient and murine tissues.",
+  "context": "MPC-5 cells were stimulated with LPS (1 μg/mL; Sigma-Aldrich; L4391) for 24 h to provide the priming signal, followed by ATP (5 mM; Sigma-Aldrich; A6419) for 2 h to induce inflammatory stress and pyroptosis-related responses."
+}
+
+--- [19] [success] The Prognostic and Immunological Value of Guanylate-Binding Proteins in Lower-Grade Glioma: Potential Markers or Not? ---
+doc_id: PMC8573089
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [20] [success] LPS-aggregating proteins GBP1 and GBP2 are each sufficient to enhance caspase-4 activation both in cellulo and in vitro ---
+doc_id: PMC10104521
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [21] [success] C57BL/6 and 129 inbred mouse strains differ in Gbp2 and Gbp2b expression in response to inflammatory stimuli in vivo ---
+doc_id: PMC6749937
+{
+  "answer": "yes",
+  "evidence": "L30: \"While these findings confirmed previous observations ( Staeheli et al., 1984 ), we also noted diminished expression of Gbp2 mRNA in 129/Sv mice compared with C57BL/6J stimulated with either LPS or profilin ( Figure 1B, underlying data ( Clough et al., 2019 )).\"",
+  "context": "L81: \"Mice were injected IP with Profilin (0.5\u0393\u0050g/100\u0393\u0050l) (Sigma, SRP8050), Poly(I:C) (100\u0393\u0050g/100\u0393\u0050l) (Sigma, P1530), CpG (5\u0393\u0050g/100\u0393\u0050l) (Invivogen, tlrl-1826), LPS (100\u0393\u0050g/100\u0393\u0050l) (Invivogen, tlrl-3pelps) or PBS.\""
+}
+
+--- [22] [success] Exploring the Role of Guanylate-Binding Protein-2 in Activated Microglia-Mediated Neuroinflammation and Neuronal Damage ---
+doc_id: PMC11117630
+{
+  "answer": "yes",
+  "evidence": "GBP2 expression was significantly increased in the cells treated with 1000 ng/mL LPS when compared to the other concentrations (Figure 2A,B).",
+  "context": "Based on the results of GBP2 expression in brain disease animal models (Figure 1), we evaluated whether this gene is expressed in microglial cells present in the brain."
+}
+
+--- [23] [success] GBP1 recruitment to actin-rich pedestals induced by extracellular Gram-negative bacteria promotes pyroptosis ---
+doc_id: bio_0ddf65ba9122
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [24] [success] Human GBP1 binds LPS to initiate assembly of a caspase-4 activating platform on cytosolic bacteria ---
+doc_id: PMC7314798
+{
+  "answer": "no",
+  "evidence": "",
+  "context": ""
+}
+
+--- [25] [success] Guanylate-binding protein 5 licenses caspase-11 for Gasdermin-D mediated host resistance to Brucella abortus infection ---
+doc_id: PMC6326519
+{
+  "answer": "yes",
+  "evidence": "We observed that GBP2, GBP3, GBP5 and to less extent GBP7 had increased mRNA transcripts in macrophages transfected with bacterial LPS compared to cells transfected with FuGENEHD alone (S2 Fig).",
+  "context": "BMDMs from C57BL/6 mice were transfected with LPS (5 μg/ml) from B. abortus using FugeneHD."
+}

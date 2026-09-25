@@ -1,0 +1,208 @@
+$ src/pc.sh map --from s_2b1ee5d5 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Saa3 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_575c9d03
+
+  ✓ Regulation of Serum Amyloid A3 (SAA3) in Mouse Colonic Epithelium and 
+    PMC2688757 · 1078ms
+    {
+      "answer": "yes",
+      "evidence": "In the CMT-93 cells, LPS induced a concentration-dependent increase in SAA3 mRNA levels, with a 27-fold increase observed at 1 ug/ml.",
+      "context": "LPS induced SAA3 and TNF-alpha expression in colonic epithelial cells and macrophages"
+    }
+
+  ✓ Serum Amyloid A3 is required for normal lung development and survival 
+    PMC6224415 · 1176ms
+    {
+      "answer": "yes",
+      "evidence": "Lack of SAA3 protein was confirmed in the serum and BAL fluid of SAA3−/− mice, whereas it was strongly induced by LPS instillation in the wild type mice.",
+      "context": "Wild type and SAA3−/− mice received 100 ng of LPS intranasally in 40 \u0393\u0081l of sterile saline."
+    }
+
+  ✓ Differential expression of serum amyloid A1 and A3 in bovine epithelia
+    PMC7324830 · 1129ms
+    {
+      "answer": "yes",
+      "evidence": "SAA3 mRNA expression in BIE cells was enhanced to a greater extent than that of SAA1 by higher concentrations of LPS (10 and 100 \u00B5g/ml; Fig. 2A).",
+      "context": "Bovine small intestinal epithelial (BIE) cells and mammary epithelial MAC-T cells were incubated with lipopolysaccharide (LPS) (0–100 \u00B5g/ml) for 2 hr at 37\u00B0C."
+    }
+
+  ✓ Serum Amyloid A3 Gene Expression in Adipocytes is an Indicator of the 
+    PMC5144138 · 1205ms
+    {
+      "answer": "yes",
+      "evidence": "We found that 224 adipocyte genes were significantly up-regulated more than fivefold upon co-culture with macrophages activated by lipopolysaccharide (LPS).",
+      "context": "DNA microarray analysis, based on a system containing 5693 gene probes (Affymetrix, Santa Clara, CA, USA), was used to compare transcriptional profiles between 3T3-L1 cells co-cultured with RAW264.7 cells in the presence or absence of LPS."
+    }
+
+  ✓ Lipopolysaccharide and lipoteichoic acid enhance serum amyloid A3 mRNA
+    PMC6863727 · 1015ms
+    {
+      "answer": "yes",
+      "evidence": "In MLE-15 cells, SAA3 mRNA expression was significantly enhanced (P<0.01) under all concentrations of LPS (0.01–100 µg/ml) (Fig. 1A).",
+      "context": "MLE-15 cells were treated with 0–100 µg/ml LPS (A) or LTA (B) at 37°C for 2 hr."
+    }
+
+  ✓ Detection of a mediator derived from endotoxin-stimulated macrohpages 
+    PMC2185651 · 1089ms
+    {"answer": "yes", "evidence": "C3H/HeJ mice show a diminished SAA response to all forms of endotoxin and in particular to K235 phenol-extracted LPS.", "context": "C3H/HeJ mice do not produce a significant SAA response to phenol extracted Escherichia coli K235 LPS, in contrast to C3H/HeN mice which exhibit a several hundred-fold increase in SAA-concentration at the peak of the acute phase response to endotoxin (13)."}
+
+  ✓ Early immune responses to systemic inflammation in the postnatal mouse
+    PMC12514789 · 1253ms
+    {
+      "answer": "yes",
+      "evidence": "The transcript expression of Saa3 in CD11b(+) cells showed the most significant increase, reaching an astonishing 10,790-fold upregulation compared with the saline control 4 h and a marked 4,459-fold increase 12 h after administration of LPS or saline (Fig. 8A).",
+      "context": "Systemic inflammation was induced in P7, male, C57BL/6 N mice using LPS (from E. coli O55:B5; Sigma-Aldrich-Merck, Burlington, MA, USA), a bacterial endotoxin, which was administered intraperitoneally to the experimental group at a dose of 0.75 mg/kg with a 33-G Hamilton syringe (systemic inflammation group)."
+    }
+
+  ✓ The Inflammatory Role of Serum Amyloid A in the Pathogenesis and Progr
+    PMC12693104 · 744ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Serum Amyloid A3 Expression Is Enhanced by Gram-Negative Bacterial Sti
+    PMC12389636 · 1333ms
+    {
+      "answer": "yes",
+      "evidence": "Conversely, LPS treatment enhanced SAA3 mRNA expression in a concentration-dependent manner (Figure 1B), with significant upregulation at 0.1, 1, 10, and 100 µg/mL, peaking at 100 µg/mL.",
+      "context": "BEnEpCs were treated with 0–100 µg/mL of LPS (A,B) or LTA (C,D) at 37 °C for 4 h."
+    }
+
+  ✓ Induction of Serum Amyloid A3 in Mouse Mammary Epithelial Cells Stimul
+    PMC8230092 · 1126ms
+    {
+      "answer": "yes",
+      "evidence": "Saa3 mRNA expression levels were significantly increased ~6.5- and ~3-fold by LPS and LTA, respectively, after stimulation for 2 h (Figure 2).",
+      "context": "NMuMG cells were seeded at a density of 4×105 cells/well in 6-well collagen-coated plates (#NCO3506, Corning, Corning, NY, USA) and incubated for 15 ± 1 h before experiments."
+    }
+
+  ✓ Up-Regulation of MUC2 Mucin Expression by Serum Amyloid A3 Protein in 
+    PMC4143660 · 1098ms
+    {
+      "answer": "yes",
+      "evidence": "SAA3 mRNA expression was strongly induced by LPS even more so than by dead E. coli (L46).",
+      "context": "CMT-93 cells were also incubated with 0.1–100 µg/ml LPS from E. coli O111:B4 (L2630, Sigma Aldrich, St. Louis, MO, U.S.A.), rSAA1 (34 µg/ml) and rSAA3 (100 µg/ml) at 37°C for 2 hr (L21)."
+    }
+
+  ✓ Serum amyloid A3 is required for normal weight and immunometabolic fun
+    PMC5794179 · 1211ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Expression of the third member of the serum amyloid A gene family in m
+    PMC2189298 · 1159ms
+    {
+      "answer": "yes",
+      "evidence": "Liver sections from treated mice (Fig. 1 a) show many silver grains overlying all hepatocytes with some variation in signal intensity. Only occasional silver grains are observed over liver sections from untreated mice (Fig. 1 b).",
+      "context": "Results of hybridization of liver sections with [3H]SAA3 cRNA are shown in Fig. 1."
+    }
+
+  ✓ Serum amyloid A–containing HDL binds adipocyte-derived versican and ma
+    PMC7605543 · 948ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Expression of SAA1, SAA2 and SAA4 genes in human primary monocytes and
+    PMC6524798 · 1053ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Structure and Expression of Different Serum Amyloid A (SAA) Variants a
+    PMC5405626 · 1360ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Serum amyloid a production in chicken embryonic synovial fibroblasts i
+    PMC12221637 · 1452ms
+    {
+      "answer": "yes",
+      "evidence": "A statistically significant increase was observed in SAA mRNA expression in all groups at the 24th and 48th h, except the group induced with vitamin A for 48 h, while no increase was detected in the SAA level by ELISA. (L7)",
+      "context": "Respectively, 13 and 16 subgroups were created in 24 and 48-hour groups. LPS (Sigma Aldrich, L4516, Escherichia coli O127:B8, USA), IL-1\u0322 (Lifespan Biosciences, LS-G37646, USA) and vitamin A (Sigma Aldrich, R0635, USA) were administered to these groups separately and in combination. (L28)"
+    }
+
+  ✓ Amyloid A gene family expression in different mouse tissues
+    PMC2188489 · 1203ms
+    {
+      "answer": "yes",
+      "evidence": "The SAA3 mRNA was expressed at a high level compared with casein injection, but accumulated at a slower rate than that of LPS-induced SAA1 and SAA2, reading 25% of the maximum level at 4 h, 50% by 9 h, and the maximum equal to SAA2 by 16 h; disappearance is slightly faster than that of SAA1 and SAA2 mRNA so that by 48 h the level is reduced to 3%.",
+      "context": "Mice received a single injection of LPS or casein and total RNA was isolated at the indicated times from individual livers after LPS injection or from pairs of livers after casein injection."
+    }
+
+  ✓ Deletion of Serum Amyloid A3 Improves High Fat High Sucrose Diet-Induc
+    PMC4177399 · 979ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Serum amyloid A proteins reduce bone mass during mycobacterial infecti
+    PMC10161249 · 936ms
+    {
+      "answer": "yes",
+      "evidence": "Quantitative real-time PCR analysis confirmed that the expression of Saa3 is upregulated in the bone during M. avium infection (Figure 4B).",
+      "context": "Quantitative real-time PCR analysis confirmed that the expression of Saa3 is upregulated in the bone during M. avium infection (Figure 4B)."
+    }
+
+  ✓ Intestinal Epithelial Serum Amyloid A Modulates Bacterial Growth In Vi
+    PMC2992040 · 858ms
+    {
+      "answer": "yes",
+      "evidence": "Whereas SAA1/2 message remained rather constant, SAA3 expression markedly increased with increased LPS exposure.",
+      "context": "In (B), CMT93 cells were incubated with the indicated amounts of LPS for 16 h, and SAA1/2 and SAA3 expression were determined with realtime PCR."
+    }
+
+  ✓ Podoplanin-positive cell-derived small extracellular vesicles contribu
+    PMC12019684 · 1077ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Expression and Differential Responsiveness of Central Nervous System G
+    PMC5610307 · 897ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Murine model for human secondary amyloidosis: genetic variability of t
+    PMC2190436 · 1081ms
+    {
+      "answer": "yes",
+      "evidence": "In 12 strains of mice, including T-cell-deficient nude mice, treated with the amyloid-inducing agents lipopolysaccharide (LPS) or casein, SAA behaved as an acute-phase reactant.",
+      "context": "In this study we utilize a solid-phase radioimmunoassay for AA protein (6) to characterize the acute-phase nature of murine SAA in response to bacterial lipopolysaccharide (LPS) and casein, which are known to induce amyloidosis in mice when given by repeated daily injections."
+    }
+
+  ✓ Suppression of LPS-induced tau hyperphosphorylation by serum amyloid A
+    PMC4736117 · 985ms
+    {
+      "answer": "yes",
+      "evidence": "All three inducible mouse Saa transcripts were elevated in the hippocampus and cortex (Fig. 1c).",
+      "context": "Three-month-old C57BL/6 mice were given a single dose of LPS at 5 and 15 mg/kg through intraperitoneal injection."
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[21.2s, saved to m_575c9d03]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  1/25 papers  run m_575c9d03  [2s]
+  [##########..........]  13/25 papers  run m_575c9d03  [4s]
+  [################....]  20/25 papers  run m_575c9d03  [6s]
+  [####################]  25/25 papers  run m_575c9d03  [8s]
+  [####################]  25/25 papers  run m_575c9d03  [18s]
+  [####################]  25/25 papers  run m_575c9d03  [20s]
+

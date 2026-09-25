@@ -1,0 +1,4 @@
+$ src/pc.sh results s_bfd7ede5 --save /Users/julia/known-or-not-found/results/search/Serpinb2/parent.csv
+# exit 0
+  ✓ Saved 25 papers to /Users/julia/known-or-not-found/results/search/Serpinb2/parent.csv
+

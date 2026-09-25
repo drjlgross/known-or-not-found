@@ -1,0 +1,317 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Socs3 (suppressor of cytokine signaling 3) LPS macrophage
+# exit 0
+Found 25 papers  [s_44f2cd59]
+
+  1. Regulation of Macrophage, Dendritic Cell, and Microglial Phenotype and Function by the SOCS Proteins
+     Sarah M. McCormick; Nicola M. Heller
+     PMC4621458 · Frontiers in Immunology · 2015-10-27 · 60 citations
+     https://doi.org/10.3389/fimmu.2015.00549
+     Matched: SOCS3 Regulates M1 Macrophage Polarization · cat /papers/PMC4621458/content.lines --lines 16-17
+     │ Researchers have studied how SOCS proteins contribute to the regulation of macrophage
+     │ polarization in vitro by using macrophages from total and conditional knockout (KO) animals
+     │ and siRNA knockdown approaches. The loss of SOCS3 in every cell of the body results in death
+     │ during embryonic development. It causes defects in erythropoiesis in the fetal liver
+     │ resulting in increased erythrocytosis (18). Additionally, the placenta does not develop
+     │ properly, owing to lack of regulation of leukemia inhibitory factor signaling in the
+     │ trophoblast giant cells (19). Fortunately, cell-type-specific KO of SOCS3 in macrophages is
+     │ not lethal. When SOCS3 was deleted with LysM-cre-driven excision of the Socs3 …
+     "This review summarizes research on how SOCS proteins regulate macrophage, dendritic cell, and microglial phenotypes. SOCS proteins are crucial for controlling immune cell function and preventing disease, with microRNAs also playing a regulatory role."
+
+  2. SOCS Proteins in Macrophage Polarization and Function
+     Heather M. Wilson
+     PMC4112788 · Frontiers in Immunology · 2014-07-28 · 166 citations
+     https://doi.org/10.3389/fimmu.2014.00357
+     Matched: SOCS3 · cat /papers/PMC4112788/content.lines --lines 18-19
+     │ In contrast with SOCS2, a key role for SOCS3 in M1 polarization is proposed (Figure 1). The
+     │ majority of macrophages activated within an in vivo pro-inflammatory conditioning
+     │ environment show strong upregulation of SOCS3 expression and this cell population co-express
+     │ the M1 marker, iNOS (5, 6). Without SOCS3, both human and rodent macrophages have a reduced
+     │ ability to develop pro-inflammatory features but instead display immunoregulatory
+     │ characteristics (5, 6). Notably, mice with a targeted deletion of SOCS3 in macrophages and
+     │ neutrophils demonstrate a reduced IL-12 response and succumb to toxoplasmosis (32). SOCS3
+     │ binds to and inhibits gp130-related cytokine receptors and consequently this …
+
+  3. SOCS3
+     Christine A White; Nicos A Nicola
+     PMC3876435 · JAK-STAT · 2013-06-11 · 44 citations
+     https://doi.org/10.4161/jkst.25045
+     Matched: Macrophage/neutrophil-specific Socs3 deletion (LysM-Cre) · cat /papers/PMC3876435/content.lines --lines 37-39
+     │ Due to the homozygous embryonic lethality of germline Socs3 deletion, subsequent
+     │ investigations into the physiological roles of SOCS3 have been undertaken using the Cre-lox
+     │ system to specifically delete Socs3 from discrete cell types. Mice expressing Cre
+     │ recombinase under the control of the lysozyme M (LysM) promoter were crossed with mice in
+     │ which the entire Socs3 coding region was flanked by loxP sites (Socs3fl/fl), to produce
+     │ offspring in which Socs3 was deleted only in macrophages and neutrophils expressing
+     │ LysM.[22],[73] Using this model, SOCS3 was found to have a non-redundant role in the
+     │ inhibition of gp130-mediated signaling in macrophages, and to specifically inhibit STAT3 …
+     "Conditional deletion of SOCS3 in mice revealed its non-redundant roles in inhibiting cytokine signaling across various physiological and disease contexts. SOCS3 is crucial for fertility, development, immunity, and malignancy."
+
+  4. Suppressor of Cytokine Signaling 3 Derived Peptide as a Therapeutic for Inflammatory, and Oxidative Stress Induced Damage to the Retina
+     Chulbul M. Ahmed, Anil P. Patel, Howard M. Johnson, Cristhian J. Ildefonso, Alfred S. Lewin *
+     bio_a7f4b83d6e8b · bioRxiv · 2023-09-04 · 4 citations (all versions)
+     Published (2023): https://doi.org/10.1101/2023.09.04.556227
+     Matched: R9-SOCS3-KIR protects against the inflammatory damage caused by LPS · cat /papers/bio_a7f4b83d6e8b/content.lines --lines 73-74
+     │ To evaluate the anti-inflammatory effects of R9-SOCS3-KIR, we used LPS, which activates NF-
+     │ kB and MAP kinase p38 through the Toll-like receptor 4 ( 38 , 39 ). We used a mouse
+     │ macrophage cell line, J774A.1, as a surrogate for activated mononuclear phagocytes in the
+     │ retina. Macrophages in particular are known to play a central role in progression to AMD (
+     │ 40 ), and diabetic retinopathy ( 41 ). To define the anti-inflammatory actions of
+     │ R9-SOCS3-KIR in mononuclear phagocytes, we treated J774A.1 cells with R9-SOCS3-KIR or
+     │ control peptide for 1 hr, followed by treatment with LPS (1 μg/ml) for 4 hr. RNA was
+     │ extracted from these cells and converted into cDNA and used as a template for qPCR using …
+     "A peptide derived from Suppressor of Cytokine Signaling 3 was tested for its therapeutic potential against retinal damage. The peptide effectively reduced inflammation and oxidative stress, protecting retinal cells and integrity."
+
+  5. SOCS3 Expression Correlates with Severity of Inflammation, Expression of Proinflammatory Cytokines, and Activation of STAT3 and p38 MAPK in LPS-Induced Inflammation In Vivo
+     João Antônio Chaves de Souza; Andressa Vilas Boas Nogueira; Pedro Paulo Chaves de Souza; Yeon Jung K...
+     PMC3775441 · Mediators of Inflammation · 2013-09-02 · 75 citations
+     https://doi.org/10.1155/2013/650812
+     Matched: 3.4. SOCS3 Physically Interacts with STAT3 in LPS-Stimulated Macrophag · cat /papers/PMC3775441/content.lines --lines 42-43
+     │ Since we used a mouse-derived cell line of macrophages for this in vitro experiment, we
+     │ initially determined that LPS stimulation in these cells resulted in transient STAT3
+     │ activation, as indicated by the increase of STAT3 phosphorylation 10 minutes after
+     │ stimulation, followed by a return to basal levels after 60 minutes (Figure 5(a)).
+     │ Interestingly, SOCS3 protein levels were noticeably increased only 18 h after LPS
+     │ stimulation, indicating that the basal levels of SOCS3 were sufficient to attenuate the LPS-
+     │ induced activation of STAT3 60 minutes after stimulation, as well as to prevent constitutive
+     │ activation of STAT3 in the absence of stimulation. Within 10 min of LPS stimulation (Figure
+     │ …
+     "This study investigated SOCS3 expression in LPS-induced inflammation in rats and macrophages. SOCS3 expression correlated with inflammation severity, cytokine levels, and STAT3/p38 MAPK activation."
+
+  6. The Regulatory Roles of Ezh2 in Response to Lipopolysaccharide (LPS) in Macrophages and Mice with Conditional Ezh2 Deletion with LysM-Cre System
+     Areerat Kunanopparat; Asada Leelahavanichkul; Peerapat Visitchanakun; Patipark Kueanjinda; Pornpimol...
+     PMC10049283 · International Journal of Molecular Sciences · 2023-03-10 · 13 citations
+     https://doi.org/10.3390/ijms24065363
+     Matched: 2.4. A Possible Impact of Inhibitory Socs3 and Cell Energy Status in E · cat /papers/PMC10049283/content.lines --lines 25-26
+     "This study investigated the role of Ezh2 in macrophage responses to LPS. Loss of Ezh2 in macrophages leads to less severe LPS-induced inflammation and reduced LPS tolerance."
+
+  7. Anti-inflammatory mechanisms of suppressors of cytokine signaling target ROS via NRF-2/thioredoxin induction and inflammasome activation in macrophages
+     Ga-Young Kim; Hana Jeong; Hye-Young Yoon; Hye-Min Yoo; Jae Young Lee; Seok Hee Park; Choong-Eun Lee
+     PMC7781909 · BMB Reports · 2020-12-31 · 45 citations
+     https://doi.org/10.5483/BMBRep.2020.53.12.161
+     Matched: SOCS3 exhibits similar inhibitory effects on LPS-induced ROS and infla · cat /papers/PMC7781909/content.lines --lines 24-25
+     │ We have also analyzed the effect of SOCS3 on LPS-induced ROS signaling leading to
+     │ inflammation response. Although SOCS1 and SOCS3 share common structural features, they
+     │ exhibit cell type-dependent expression patterns with distinct roles in inflammation (19).
+     │ The expression level of SOCS3 is found low in monocytes and macrophages both in vitro and in
+     │ vivo, unless exposed to inflammatory stimuli (20, 21). While SOCS3 is induced by LPS
+     │ stimulation within 1 h in mock THP1 cells, the SOCS3-tranduced cells show increased basal
+     │ SOCS3 levels, which were maintained during LPS treatment. In these cells, a significant
+     │ down-regulation of LPS-induced ROS levels was correlated with increased expression …
+     "SOCS1 and SOCS3 were studied for their anti-inflammatory mechanisms in macrophages. They suppress inflammation by inducing thioredoxin via NRF-2, reducing ROS and inflammasome activation."
+
+  8. SOCS3, a Major Regulator of Infection and Inflammation
+     Berit Carow; Martin E. Rottenberg
+     PMC3928676 · Frontiers in Immunology · 2014-02-19 · 496 citations
+     https://doi.org/10.3389/fimmu.2014.00058
+     Matched: SOCS3 and STAT3 · cat /papers/PMC3928676/content.lines --lines 83-85
+     │ Interestingly, after the initial phosphorylation of STAT3 in response to IL-6 followed by a
+     │ subsequent inhibition by SOCS3, a second wave of activation leads to the re-phosphorylation
+     │ of STAT3 (101). It has been recently shown that re-phosphorylation requires an
+     │ IL-6-dependent association of IL-6R and EGFR without involvement of gp130. STAT3
+     │ phosphorylation thus might continue to be driven for many hours by this two-receptor complex
+     │ that is immune to inhibition by SOCS3 (19). The anti-inflammatory responses of
+     │ SOCS3-deficient macrophages or dendritic cells (DCs) are not restricted to diminished TNF-
+     │ or IL-12 levels but also have been shown to increase the secretion of IL-10, expand the …
+     "This review examines SOCS3's role in infection and inflammation. SOCS3 regulates cytokine signaling, often inhibiting STAT3 activation, to control immune homeostasis."
+
+  9. Lack of SOCS3 increases LPS-induced murine acute lung injury through modulation of Ly6C(+) macrophages
+     Zhilong Jiang; Zhihong Chen; Liyang Li; Wenjun Zhou; Lei Zhu
+     PMC5747159 · Respiratory Research · 2017-12-29 · 30 citations
+     https://doi.org/10.1186/s12931-017-0707-6
+     Matched: Lack of SOCS3 expression increased Ly6C(+) macrophage phenotype in LPS · cat /papers/PMC5747159/content.lines --lines 65
+     │ Fig. 6: Lack of SOCS3 resulted in lower CD206(+) alternatively activated macrophages (M2
+     │ macrophages) and more expression of STAT3 in the lung of mice. a CD206+ Macrophages were
+     │ gated on F4/80(+)Ly6G(−) cells by flow cytometry. One representative dot plot data shown
+     │ lower CD206+ M2 macrophages in lung digests of KO mice than the WT mice. b Quantitatively
+     │ analysis of M2 macrophages. #p < 0.05 v.s. WT/PBS; * p < 0.05 v.s. WT/LPS group, n = 5. c
+     │ One representative Western blots showed protein levels of total STAT3 and phosphorylated
+     │ STAT3 at residue Tyr705 in the lung protein extracts. Beta-actin protein was detected as an
+     │ internal loading control. d The protein expression levels were …
+     "SOCS3 deficiency in myeloid cells exacerbates LPS-induced acute lung injury in mice. This is due to increased Ly6C(+) monocyte infiltration and activation, leading to greater inflammation."
+
+  10. SOCS3 Protein Mediates the Therapeutic Efficacy of Mesenchymal Stem Cells against Acute Lung Injury
+     Young Eun Kim; Dong Kyung Sung; Yuna Bang; Se In Sung; Misun Yang; So Yoon Ahn; Yun Sil Chang
+     PMC10179427 · International Journal of Molecular Sciences · 2023-05-04 · 14 citations
+     https://doi.org/10.3390/ijms24098256
+     Matched: 2.3. MSC Transcriptome Analyses after LPS Induction · cat /papers/PMC10179427/content.lines --lines 22
+     "This study investigated how mesenchymal stem cells (MSCs) treat acute lung injury by modulating macrophages. SOCS3 protein in MSCs is crucial for their ability to shift macrophages towards an anti-inflammatory state and reduce lung injury."
+
+  11. Paeoniflorin inhibits the macrophage-related rosacea-like inflammatory reaction through the suppressor of cytokine signaling 3-apoptosis signal-regulating kinase 1-p38 pathway
+     Zijing Liu; Jiawen Zhang; Peiyu Jiang; Zhi Yin; Yunyi Liu; Yixuan Liu; Xiaoyan Wang; Liang Hu; Yang ...
+     PMC7837818 · Medicine · 2021-01-22 · 16 citations
+     https://doi.org/10.1097/MD.0000000000023986
+     Matched: SOCS3 siRNA inhibits the expression of inflammatory factors induced by · cat /papers/PMC7837818/content.lines --lines 62-63
+     │ SOCS3 siRNA (20 nM) was used to interfere with SOCS3 expression. RAW 264.7 cells were
+     │ treated with 0 or 10−5 mol/L PF or PF together with SOCS3 siRNA. The protein levels of SOCS3
+     │ and the aforementioned downstream molecules ASK1, TLR2, and p38 were detected by western
+     │ blotting. The results showed that PF could increase the expression of SOCS3 and reduce the
+     │ expression of ASK1, TLR2, and p38, whereas SOCS3 siRNA could inhibit these changes in RAW
+     │ 264.7 cells that were induced by PF (Fig. 6). Figure 6: SOCS3 siRNA can inhibit PF to
+     │ alleviate the LPS-induced inflammation in Raw264.7 cells. (A, B: plasmid concentration
+     │ screening; C: SCOS3, ASK1, TLR2, and p38 protein expression; D-G: relative …
+     "Paeoniflorin was studied for its effects on rosacea-like inflammation in macrophages. It was found to inhibit this inflammation by targeting the SOCS3-ASK1-p38 pathway."
+
+  12. Resveratrol decreases CD45+CD206− subtype macrophages in LPS‐induced murine acute lung injury by SOCS3 signalling pathway
+     Lu Hu; Zhihong Chen; Liyang Li; Zhilong Jiang; Lei Zhu
+     PMC6850919 · Journal of Cellular and Molecular Medicine · 2019-09-27 · 27 citations
+     https://doi.org/10.1111/jcmm.14680
+     Matched: INTRODUCTION · cat /papers/PMC6850919/content.lines --lines 12
+     │ IL‐6 and IL‐22 induce activation of signal transducer and activator of transcription‐3
+     │ (STAT3) through acetylation in lysine (Lys)685 and phosphorylation in tyrosine (Tyr)705
+     │ residues, but activation of STAT3 is suppressed by SIRT1, a class III deacetylase.17, 18
+     │ More activation of STAT3 induces more expression of cytokine expression. Blocking STAT3
+     │ activation by small‐molecule STAT3 inhibitor (LLL12) can suppress the expression of
+     │ IL‐1beta, IL‐6, TNF‐alpha, iNOS, CCL2 and MHC class II in macrophages and inflammatory cells
+     │ from LPS‐induced ALI mouse model, indicating the pro‐inflammatory function of STAT3.19 It is
+     │ known that SOCS3 is a negative regulator of STAT3. Activation of STAT3 …
+     "Resveratrol treatment reduced acute lung injury severity in mice by decreasing pro-inflammatory macrophages. This effect is mediated by the SOCS3 signaling pathway, which promotes alternatively activated macrophages."
+
+  13. Pre-Treatment of Recombinant Mouse MFG-E8 Downregulates LPS-Induced TNF-α Production in Macrophages via STAT3-Mediated SOCS3 Activation
+     Monowar Aziz; Asha Jacob; Akihisa Matsuda; Rongqian Wu; Mian Zhou; Weifeng Dong; Weng-Lang Yang; Pin...
+     PMC3217009 · PLoS ONE · 2011-11-15 · 82 citations
+     https://doi.org/10.1371/journal.pone.0027685
+     Matched: In vivo LPS exposure augments STAT3 and SOCS3 in mouse peritoneal cell · cat /papers/PMC3217009/content.lines --lines 56-57
+     "Recombinant mouse MFG-E8 was studied for its effect on LPS-induced TNF-α production in macrophages. Pre-treatment with MFG-E8 downregulated TNF-α by activating STAT3-mediated SOCS3, which negatively regulates TLR4 signaling."
+
+  14. Suppressor of Cytokine Signaling 3 in Macrophages Prevents Exacerbated Interleukin-6-Dependent Arginase-1 Activity and Early Permissiveness to Experimental Tuberculosis
+     Erik Schmok; Mahin Abad Dar; Jochen Behrends; Hanna Erdmann; Dominik Rückerl; Tanja Endermann; Lisa ...
+     PMC5686055 · Frontiers in Immunology · 2017-11-10 · 14 citations
+     https://doi.org/10.3389/fimmu.2017.01537
+     Matched: Macrophage-Specific SOCS3-Deficient Mice Are Highly Susceptible to Mtb · cat /papers/PMC5686055/content.lines --lines 22-23
+     │ To evaluate the effect of macrophage SOCS3 on the outcome of experimental TB, we infected
+     │ LysMcreSOCS3loxP/loxP mice (deficient for SOCS3 in macrophages) and cre-negative
+     │ littermates. Bacterial loads were determined at different time-points following aerosol Mtb
+     │ infection. Compared to SOCS3loxP/loxP mice, bacterial loads in lungs of
+     │ LysMcreSOCS3loxP/loxP mice were significantly enhanced 21 and 25 days after infection
+     │ (Figure 1A) confirming the high susceptibility of these mice shown by Carow et al. (15).
+     │ Figure 1: Macrophage-specific suppressor of cytokine signaling 3 (SOCS3)-deficient mice were
+     │ highly susceptible to Mtb infection. Cre-negative SOCS3loxP/loxP control mice (black
+     │ symbols) …
+     "This study investigated the role of SOCS3 in macrophages during experimental tuberculosis. Macrophage-specific SOCS3 deficiency leads to increased bacterial load and exacerbated inflammation, primarily due to early, IL-6-driven arginase-1 activity."
+
+  15. Interleukin-6 deficiency modulates testicular function by increasing the expression of suppressor of cytokine signaling 3 (SOCS3) in mice
+     Thaís Alves-Silva; Geanne Arantes Freitas; Talita Guerreiro Rodrigues Húngaro; Adriano Cleis Arruda;...
+     PMC8169872 · PMC · 2021-06-01 · 27 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8169872/
+     Matched: LPS Injection · cat /papers/PMC8169872/content.lines --lines 68
+     │ Three mice from each genotype, WT and IL6KO, received a single dose of 5 mg/kg LPS
+     │ (Escherichia coli O111:B4—L2630—Sigma-Aldrich, EUA) via intraperitoneal injection. The
+     │ animals were euthanized 24 h after the administration of LPS. The serum and testes were
+     │ collected and kept frozen at -80 °C until IL6 testing by ELISA.
+     "This study investigated the effects of interleukin-6 deficiency on mouse testicles. IL6 deficiency increases sperm production and androgen levels by upregulating testicular SOCS3."
+
+  16. Macrophage Deletion of SOCS1 Increases Sensitivity to LPS and Palmitic Acid and Results in Systemic Inflammation and Hepatic Insulin Resistance
+     Nirupa Sachithanandan; Kate L. Graham; Sandra Galic; Jane E. Honeyman; Stacey L. Fynch; Kimberly A. ...
+     PMC3142066 · Diabetes · 2011-07-18 · 75 citations
+     https://doi.org/10.2337/db11-0259
+     Matched: Macrophages from SOCS1 LysM-Cre mice are hypersensitive to the inflamm · cat /papers/PMC3142066/content.lines --lines 57-58
+     │ Inflammatory cytokine production after activation of TLR4 in macrophages by LPS and palmitic
+     │ acid has been implicated as a potential mechanism linking inflammation to insulin resistance
+     │ in obesity (33). Therefore, to test whether macrophages from SOCS1 LysM-Cre mice were
+     │ hypersensitive to LPS and palmitate, we incubated bone marrow–derived macrophages from SOCS1
+     │ LysM-Cre mice and littermates with varying concentrations of these two TLR4 ligands. In the
+     │ absence of the ligand, macrophage expression of Tnfa, Il6, and Il1b was low in control and
+     │ SOCS1 LysM-Cre mice (Supplementary Table 1). Both LPS and palmitic acid dose-dependently
+     │ increased Tnfa (Fig. 3A and D) and Il6 (Fig. 3B and E), an …
+     "Deletion of SOCS1 in macrophages increases sensitivity to inflammatory stimuli like LPS and palmitic acid. This leads to systemic inflammation and hepatic insulin resistance in mice."
+
+  17. SOCS2 Influences LPS Induced Human Monocyte-Derived Dendritic Cell Maturation
+     Jin Hu; Ola Winqvist; Amilcar Flores-Morales; Ann-Charlotte Wikström; Gunnar Norstedt
+     PMC2744869 · PLoS ONE · 2009-09-25 · 32 citations
+     https://doi.org/10.1371/journal.pone.0007178
+     Matched: Gene expression of SOCS family members during maturation of human mono · cat /papers/PMC2744869/content.lines --lines 19-20
+     │ Previous studies have shown that cytokine-inducible SH2-domain protein (CIS), SOCS1, SOCS2
+     │ and SOCS3 gene expressions are regulated by LPS stimulation in mouse DCs or macrophages
+     │ [25], [26]. In addition, IL21 [28] and protein allergens [29] can change expressions of SOCS
+     │ 1 and SOCS 3 in humans DCs. We first studied the gene expression of SOCS members during DC
+     │ maturation. Human monocyte-derived immature DCs (iDCs) were obtained by culturing with GM-
+     │ CSF and IL-4. Subsequently the cells were treated with LPS at day 6 of differentiation and
+     │ harvested for mRNA measurement after 24 h. As shown in Fig. 1A, SOCS2, SOCS3 and SOCS6
+     │ changed significantly after LPS treatment, whereas the other SOCS …
+     "This study investigated the role of SOCS2 in human monocyte-derived dendritic cell maturation. SOCS2 is essential for proper TLR4 signaling during DC maturation, influencing both MyD88-dependent and -independent pathways."
+
+  18. A critical role for suppressor of cytokine signalling 3 in promoting M1 macrophage activation and function in vitro and in vivo
+     Christina E Arnold; Claire S Whyte; Peter Gordon; Robert N Barker; Andrew J Rees; Heather M Wilson
+     PMC3893853 · Immunology · 2013-12-10 · 152 citations
+     https://doi.org/10.1111/imm.12173
+     Matched: SOCS3 modulates NF-κB signalling in M1 activated macrophages · cat /papers/PMC3893853/content.lines --lines 48-50
+     │ Effects of SOCS3 knockdown on NF-κB activity is not mediated via enhanced SOCS1 Effects of
+     │ SOCS3 knockdown on NF-κB activity is not mediated via enhanced SOCS1 Results are presented
+     │ as mean ± SD and differences between groups of cells or animals were determined by Student's
+     │ t-test or two-way analysis of variance followed by a multiple range test (Tukey analysis).
+     │ For experiments with human macrophages a Wilcoxon rank sum test was used to compare
+     │ differences between groups. Correlations between macrophage numbers and albuminuria were
+     │ assessed by linear regression analysis. Values of P < 0·05 were considered significant.
+     │ Results SOCS3 knockdown reciprocally up-regulates SOCS1 ( Fig. 3 ). …
+     "This study investigated the role of SOCS3 in M1 macrophage activation. SOCS3 promotes M1 macrophage pro-inflammatory responses by regulating NF-κB and PI3K pathways."
+
+  19. Negative regulation of cytokine signaling and immune responses by SOCS proteins
+     Akihiko Yoshimura; Hitomi Nishinakamura; Yumiko Matsumura; Toshikatsu Hanada
+     PMC1174965 · Arthritis Research & Therapy · 2005-03-30 · 143 citations
+     https://doi.org/10.1186/ar1741
+     Matched: SOCS3 · cat /papers/PMC1174965/content.lines --lines 23-24
+     │ SOCS3 KO mice die by placental function defects during the embryonic stage of development
+     │ [41,42]. Deletion of SOCS3 causes an embryonic lethality that can be saved by a tetraploid
+     │ rescue approach, which demonstrates an essential role in placental development and a non-
+     │ essential role in embryo development. Rescued SOCS3-deficient mice show a prenatal lethality
+     │ with cardiac hypertrophy, suggesting that SOCS3 is essential for regulating LIF receptors or
+     │ gp130 signaling [42]. Conditional KO mice studies demonstrated that SOCS3 is an important
+     │ negative regulator of IL-6 [43-45] and G-CSF [46,47]. Mice in which the SOCS3 gene was
+     │ deleted in all hematopoietic cells developed neutrophilia and a …
+     "This review examines CIS/SOCS proteins, which regulate cytokine signaling via JAK/STAT pathways. These proteins are key physiological regulators of immune homeostasis and inflammatory diseases."
+
+  20. Role of Macrophage Socs3 in the Pathogenesis of Aortic Dissection
+     Satoko Ohno‐Urabe; Hiroki Aoki; Michihide Nishihara; Aya Furusho; Saki Hirakata; Norifumi Nishida; S...
+     PMC5850160 · Journal of the American Heart Association: Cardiovascular and Cerebrovascular Disease · 2018-01-17 · 35 citations
+     https://doi.org/10.1161/JAHA.117.007389
+     Matched: Introduction · cat /papers/PMC5850160/content.lines --lines 24
+     "This study investigated the role of macrophage Socs3 in aortic dissection (AD) pathogenesis. Macrophage-specific deletion of Socs3 led to AD progression by promoting inflammation and tissue destruction, while its presence facilitated healing."
+
+  21. Reducing Suppressors of Cytokine Signaling-3 (SOCS3) Expression Promotes M2 Macrophage Polarization and Functional Recovery After Intracerebral Hemorrhage
+     Xin-Chao Ji; Ya-Jun Shi; Yan Zhang; Ming-Ze Chang; Gang Zhao
+     PMC7688919 · Frontiers in Neurology · 2020-11-12 · 19 citations
+     https://doi.org/10.3389/fneur.2020.586905
+     Matched: Animals · cat /papers/PMC7688919/content.lines --lines 15
+     │ Healthy, adult, male, Sprague Dawley (SD) rats, weighing 250–300 g, which were obtained from
+     │ the Experimental Animal Center of the Fourth Military Medical University were used in this
+     │ study. All rats were housed under standard laboratory conditions on a 12-h light–dark cycle
+     │ and allowed free access to food and water. All experiments were reviewed and approved by the
+     │ Institutional Animal Care and Use Committee of the Fourth Military Medical University PLA.
+     │ The rats were randomly assigned to four groups: sham, saline control (ICH with injection
+     │ saline), lentiviral vector control (ICH with injection Lenti-EGFP), and Lenti-shSOCS3 (ICH
+     │ with injection Lenti-shSOCS3).
+     "Reducing SOCS3 expression in a rat model of intracerebral hemorrhage shifted macrophages to an M2 phenotype. This M2 polarization improved neuroprotection and functional recovery after the hemorrhage."
+
+  22. Rapid Inflammation in Mice Lacking Both SOCS1 and SOCS3 in Hematopoietic Cells
+     Takashi Ushiki; Nicholas D. Huntington; Stefan P. Glaser; Hiu Kiu; Angela Georgiou; Jian-Guo Zhang; ...
+     PMC5008821 · PLoS ONE · 2016-09-01 · 37 citations
+     https://doi.org/10.1371/journal.pone.0162111
+     Matched: Introduction · cat /papers/PMC5008821/content.lines --lines 14-15
+     "Mice lacking SOCS1 and SOCS3 in hematopoietic cells were studied to investigate their roles in inflammation. Loss of both SOCS1 and SOCS3 accelerated inflammatory disease, suggesting independent and cooperative roles in regulating immune cell responses."
+
+  23. Macrophage/microglial Ezh2 facilitates autoimmune inflammation through inhibition of Socs3
+     Xingli Zhang; Yan Wang; Jia Yuan; Ni Li; Siyu Pei; Jing Xu; Xuan Luo; Chaoming Mao; Junli Liu; Tao Y...
+     PMC5940261 · The Journal of Experimental Medicine · 2018-05-07 · 172 citations
+     https://doi.org/10.1084/jem.20171417
+     Matched: Inhibition of Socs3 restores autoimmune inflammation in Ezh2-deficient · cat /papers/PMC5940261/content.lines --lines 42-43
+     "Ezh2 in macrophages/microglia was studied for its role in autoimmune inflammation. Ezh2 facilitates autoimmune inflammation by inhibiting Socs3, thereby promoting TLR-induced NF-κB activation."
+
+  24. SOCS Proteins as Regulators of Inflammatory Responses Induced by Bacterial Infections: A Review
+     Skyla A. Duncan; Dieudonné R. Baganizi; Rajnish Sahu; Shree R. Singh; Vida A. Dennis
+     PMC5733031 · Frontiers in Microbiology · 2017-12-12 · 91 citations
+     https://doi.org/10.3389/fmicb.2017.02431
+     Matched: Gram-negative bacteria and SOCS proteins · cat /papers/PMC5733031/content.lines --lines 39-40
+     "This review examines how SOCS proteins regulate inflammatory responses to bacterial infections. SOCS proteins are key inhibitors of JAK/STAT signaling, controlling immune responses and influencing bacterial pathogenesis."
+
+  25. Socs3b regulates the development and function of innate immune cells in zebrafish
+     Mohamed L. Sobah; Aimee C. Scott; Miranda Laird; Cassandra Koole; Clifford Liongue; Alister C. Ward
+     PMC10030509 · Frontiers in Immunology · 2023-03-08 · 8 citations
+     https://doi.org/10.3389/fimmu.2023.1119727
+     Matched: Introduction · cat /papers/PMC10030509/content.lines --lines 17-19
+     "Zebrafish *socs3b* knockout embryos showed altered neutrophil and macrophage responses. The absence of *socs3b* leads to reduced neutrophil numbers but enhanced macrophage activity, impacting survival and causing eye pathology."
+
+[3.2s, saved to s_44f2cd59]
+
+💡 Extract data across these results with: map --from s_44f2cd59 "your question"
+[3.2s, saved to s_44f2cd59]  [repo: mva-lof-molecular]
+

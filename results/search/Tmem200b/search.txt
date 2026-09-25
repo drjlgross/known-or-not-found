@@ -1,0 +1,221 @@
+$ src/pc.sh search -s pmc,biorxiv,medrxiv,arxiv -n 25 Tmem200b (transmembrane protein 200B) LPS macrophage
+# exit 0
+Found 25 papers  [s_5ed74d4f]
+
+  1. A Global Picture of Molecular Changes Associated to LPS Treatment in THP-1 Derived Human Macrophages by Fourier Transform Infrared Microspectroscopy
+     Diletta Ami; Ana Rita Franco; Valentina Artusa; Paolo Mereghetti; Francesco Peri; Antonino Natalello
+     PMC9656053 · International Journal of Molecular Sciences · 2022-11-03 · 7 citations
+     https://doi.org/10.3390/ijms232113447
+     Matched: 1. Introduction · cat /papers/PMC9656053/content.lines --lines 10-12
+     │ Inflammation is a key host response that ensures protection against injury or infection. In
+     │ the case of microbial infection, the innate immune system plays a very important role in the
+     │ initiation of the inflammatory response. It can recognize highly conserved pathogen-
+     │ associated molecular patterns (PAMPs) through different specialised receptors, thus starting
+     │ a cascade of pro-inflammatory events in order to protect the host from the pathogen [1].
+     │ Among the first lines of cellular defence against infection, macrophages are extremely
+     │ plastic cells able to rapidly change their functional profile through a process defined as
+     │ polarisation. Polarisation is the process by which macrophages respond …
+     "Fourier transform infrared microspectroscopy analyzed THP-1 derived macrophages treated with LPS. The study identified spectral markers in lipids, proteins, and sulfated sugars, highlighting their role in inflammation."
+
+  2. Macrophage Polarization: Different Gene Signatures in M1(LPS+) vs. Classically and M2(LPS–) vs. Alternatively Activated Macrophages
+     Marco Orecchioni, Yanal Ghosheh, Akula Bala Pramod, Klaus Ley
+     PMC6543837 · Frontiers in Immunology · 2019-05-24 · 1909 citations
+     https://doi.org/10.3389/fimmu.2019.01084
+     Matched: Introduction · cat /papers/PMC6543837/content.lines --lines 14-15
+     │ The M1/M2 macrophage polarization nomenclature was introduced in 2000, based on the
+     │ propensity of C57BL/6J macrophages to be more easily activated to produce NO (M1 polarized)
+     │ than Balb/c mice (M2 polarized) (12). Different metabolism of arginine after LPS injection
+     │ elicits different phenotypes of macrophages in C57BL/6J and Balb/c mice. C57BL/6J peritoneal
+     │ macrophages induced iNOS resulting in nitric oxide and a T-helper 1 (Th1) CD4 T cell
+     │ response, while Balb/c mice induced arginase to produce ornithine and a Th2 response. In
+     │ analogy to Th1 and Th2, these macrophages were named M1 and M2. Subsequent work showed that
+     │ M1 macrophages have a pro-inflammatory phenotype with pathogen-killing …
+     "This study compared gene expression in *in vivo* M1/M2 macrophages with *in vitro* classically/alternatively activated macrophages. The findings indicate that *in vivo* M1/M2 polarization is not equivalent to *in vitro* activation states."
+
+  3. Epigenetic profile in lipopolysaccharide-stimulated macrophages
+     Ester Correia Sarmento Rios; Thais Martins Lima Salgado; Francisco Garcia Soriano
+     PMC3953056 · Critical Care · 2013-11-05 · 0 citations
+     https://doi.org/10.1186/cc12987
+
+  4. Lipopolysaccharide-mediated macrophage polarization, conserved pathogenesis, and implications for peripheral neuropathy: a systematic review
+     Leah Elson; Niels Eijkelkamp; J. Henk Coert
+     PMC13372918 · Inflammation Research · 2026-07-15 · 0 citations
+     https://doi.org/10.1007/s00011-026-02317-3
+     Matched: Study overview · cat /papers/PMC13372918/content.lines --lines 53-56
+     "This systematic review synthesized evidence for a conserved lipopolysaccharide (LPS)-mediated pathogenic mechanism across diverse tissues and evaluated its potential relevance to peripheral neuropathy"
+
+  5. RNA-Binding Proteins in the Control of LPS-Induced Macrophage Response
+     Dirk H. Ostareck, Antje Ostareck-Lederer
+     PMC6369361 · Frontiers in Genetics · 2019-02-04 · 58 citations
+     https://doi.org/10.3389/fgene.2019.00031
+     Matched: KH Domain Protein hnRNP K Modulates mRNA Translation · cat /papers/PMC6369361/content.lines --lines 38-39
+     "This review examines RNA-binding proteins (RBPs) like TTP, HUR, TIAR, and hnRNP K in LPS-induced macrophage responses. These RBPs globally regulate inflammation-related gene expression, impacting signaling and cytokine production."
+
+  6. p204 Is Required for Canonical Lipopolysaccharide-induced TLR4 Signaling in Mice
+     Young-Su Yi; Jinlong Jian; Elena Gonzalez-Gugel; Yong-Xiang Shi; Qingyun Tian; Wenyu Fu; Aubryanna H...
+     PMC5925582 · EBioMedicine · 2018-02-16 · 28 citations
+     https://doi.org/10.1016/j.ebiom.2018.02.012
+     Matched: p204 Did Not Recognize Intracellular LPS and Was Dispensable for Infla · cat /papers/PMC5925582/content.lines --lines 65-66
+     "p204-deficient mice were generated to study its role in innate immunity. p204 is required for canonical LPS-induced TLR4 signaling, as its absence impairs cytokine production and leads to resistance to LPS shock."
+
+  7. Monocyte normal immune response to LPS stimulation
+     P Myrianthefs; K Venetsanou; E Grouzi; E Boutzouka; P Evagelopoulou; G Fildissis; I Spiliotopoulou; ...
+     PMC3333514 · Critical Care · 2002-03-01 · 1 citation
+     https://doi.org/10.1186/cc1554
+
+  8. LKB1‐MARK2 signalling mediates lipopolysaccharide‐induced production of cytokines in mouse macrophages
+     Jie Deng; Chunmei Wen; Xiangyu Ding; Xi Zhang; Guoqing Hou; Andong Liu; Hui Xu; Xuan Cao; Yongheng B...
+     PMC7576310 · Journal of Cellular and Molecular Medicine · 2020-08-25 · 10 citations
+     https://doi.org/10.1111/jcmm.15710
+     Matched: INTRODUCTION · cat /papers/PMC7576310/content.lines --lines 13-15
+     "High-throughput phosphoproteomics identified novel mediators of LPS-induced signaling in mouse macrophages. LKB1-MARK2 signaling was found to regulate the production of key inflammatory cytokines."
+
+  9. HuR modulation counteracts lipopolysaccharide response in murine macrophages
+     Isabelle Bonomo; Giulia Assoni; Valeria La Pietra; Giulia Canarutto; Elisa Facen; Greta Donati; Chia...
+     PMC10110401 · Disease Models & Mechanisms · 2023-03-29 · 11 citations
+     https://doi.org/10.1242/dmm.050120
+     Matched: TM7nox reduces inflammatory and chemotaxis response induced by LPS in  · cat /papers/PMC10110401/content.lines --lines 35-36
+     "Small-molecule tanshinone mimics were shown to inhibit the RNA-binding protein HuR in macrophages. These mimics counteracted LPS-induced inflammation by reducing the expression of key immune response genes."
+
+  10. Recombinant human KAI1/CD82 attenuates M1 macrophage polarization on LPS-stimulated RAW264.7 cells via blocking TLR4/JNK/NF-κB signal pathway
+     Hyesook Lee, Jung-Hwa Han, Kangbin An, Yun Jeong Kang, Hyun Hwangbo, Ji Hye Heo, Byung Hyun Choi, Ja...
+     PMC10315567 · biomedrxiv · 2023-06-30 · 13 citations
+     https://doi.org/10.5483/BMBRep.2022-0189
+     "Recombinant human KAI1/CD82 was studied for its effect on LPS-stimulated macrophages. It attenuates M1 macrophage polarization by blocking the TLR4/JNK/NF-κB pathway."
+
+  11. Lipopolysaccharide-Activated Macrophages Suppress Cellular Senescence and Promote Rejuvenation in Human Dermal Fibroblasts
+     Hiroyuki Inagawa; Chie Kohchi; Miyuki Uehiro; Gen-Ichiro Soma
+     PMC12346749 · International Journal of Molecular Sciences · 2025-07-22 · 1 citation
+     https://doi.org/10.3390/ijms26157061
+     Matched: 3. Discussion · cat /papers/PMC12346749/content.lines --lines 40-42
+     "LPS-activated macrophages were studied for their effect on senescent human dermal fibroblasts. Their secretions suppressed senescence and partially rejuvenated aged fibroblasts."
+
+  12. Comparative Study of The Effect of LPS on The Function of BALB/c and C57BL/6 Peritoneal Macrophages
+     Sara Soudi; Ahmad Zavaran-Hosseini; Zuhair Muhammad Hassan; Masoud Soleimani; Fatemeh Jamshidi Adega...
+     PMC3660024 · Cell Journal (Yakhteh) · 2013-05-05
+     Matched: Introduction · cat /papers/PMC3660024/content.lines --lines 18-19
+     "Peritoneal macrophages from BALB/c and C57BL/6 mice were stimulated with LPS to compare their responses. Different mouse strains exhibit distinct cytokine profiles and functional activities when exposed to LPS."
+
+  13. Transmembrane TNFα-Expressed Macrophage Membrane-Coated Chitosan Nanoparticles as Cancer Therapeutics
+     Srirupa Bhattacharyya; Siddhartha Sankar Ghosh
+     PMC6990626 · ACS Omega · 2020-01-13 · 59 citations
+     https://doi.org/10.1021/acsomega.9b03531
+     Matched: Optimization of LPS Concentration · cat /papers/PMC6990626/content.lines --lines 41
+     │ The macrophages were challenged with bacterial LPS to produce TNFα. The literature suggests
+     │ that the time of secretion of soluble TNFα by the macrophages is 4–5 h. Our aim was to
+     │ obtain transmembrane TNFα, so we reduced the time to 2.5 to 3 h and optimized the LPS
+     │ concentration for induction of TNFα.
+     "Macrophage membranes expressing TNFα were used to coat chitosan nanoparticles. These nanoparticles showed significant anti-cancer effects and good biocompatibility."
+
+  14. Oral and transdermal administration of lipopolysaccharide safely enhances self-healing ability through the macrophage network
+     Gen-Ichiro Soma; Masataka Oda; Vindy Tjendana Tjhin; Chie Kohchi; Hiroyuki Inagawa
+     PMC11994614 · Frontiers in Immunology · 2025-03-31 · 7 citations
+     https://doi.org/10.3389/fimmu.2025.1563484
+     Matched: Regulation of innate immunity by LPS as an environmental agent · cat /papers/PMC11994614/content.lines --lines 29-31
+     │ Improvements in healthcare access, nutrition, and sanitation have contributed to increased
+     │ longevity in developed countries. However, the incidence of allergies, lifestyle-related
+     │ diseases, emerging infectious diseases, and cancers that are challenging to treat is
+     │ increasing in modern societies (74–77). This is often attributed to enhanced sanitation in
+     │ urban environments and the overuse of antibiotics, which lead to a decline in the natural
+     │ functionality of the immune system (34, [78], 79). LPS, as a potential missing environmental
+     │ factor, has emerged as a focus of interest for compensating for diminished innate immune
+     │ function. LPS is a major component of the outer membrane of …
+     "Oral and transdermal LPS administration was studied for its effects on self-healing. This method safely enhances healing through a "macrophage network" involving mucosal immune cells."
+
+  15. Lipopolysaccharide from Porphyromonas gingivalis, but Not from Porphyromonas endodontalis, Induces Macrophage M1 Profile
+     Pablo Veloso; Alejandra Fernández; Jessica Astorga; David González-Quintanilla; Alfredo Castro; Alej...
+     PMC9456100 · International Journal of Molecular Sciences · 2022-09-02 · 16 citations
+     https://doi.org/10.3390/ijms231710011
+     Matched: 5. Conclusions · cat /papers/PMC9456100/content.lines --lines 70-73
+     "This study investigated the effects of lipopolysaccharides from *Porphyromonas gingivalis* and *Porphyromonas endodontalis* on macrophage polarization. *P. gingivalis* LPS induced an M1 macrophage profile, while *P. endodontalis* LPS did not."
+
+  16. Lipopolysaccharide Tolerance Enhances Murine Norovirus Reactivation: An Impact of Macrophages Mainly Evaluated by Proteomic Analysis
+     Jiradej Makjaroen; Pornpimol Phuengmaung; Wilasinee Saisorn; Suwasin Udomkarnjananun; Trairak Pisitk...
+     PMC9916340 · International Journal of Molecular Sciences · 2023-01-17 · 11 citations
+     https://doi.org/10.3390/ijms24031829
+     Matched: 4.1. Cell Culture and Stimulations · cat /papers/PMC9916340/content.lines --lines 34
+     "LPS tolerance in macrophages reduces energy and antiviral protein expression. This defect correlates with increased murine norovirus reactivation in mice."
+
+  17. Macrophage ICAM-1 functions as a regulator of phagocytosis in LPS induced endotoxemia
+     Hanhui Zhong; Haitao Lin; Qiongni Pang; Jinling Zhuang; Xiaolei Liu; Xiaolian Li; Jinghua Liu; Jing ...
+     PMC7817350 · Inflammation Research · 2021-01-21 · 57 citations
+     https://doi.org/10.1007/s00011-021-01437-2
+     Matched: LPS-induced macrophage phagocytosis is dependent on ICAM-1 · cat /papers/PMC7817350/content.lines --lines 55
+     "Macrophage ICAM-1 expression was studied in LPS-induced endotoxemia. Increased ICAM-1 expression enhances macrophage phagocytosis via TLR4-mediated ROS production."
+
+  18. Selection of reliable reference genes for the normalisation of gene expression levels following time course LPS stimulation of murine bone marrow derived macrophages
+     Akane Tanaka, Joyce To, Bronwyn O’Brien, Sheila Donnelly, Maria Lund
+     PMC5627409 · biomedrxiv · 2017-10-03 · 29 citations
+     https://doi.org/10.1186/s12865-017-0223-y
+     "This study assessed the stability of eight common reference genes in LPS-stimulated murine macrophages. It found that some traditional genes are unreliable, and identified two new, stable reference genes for accurate gene expression analysis."
+
+  19. gga-miR-200b-3p Promotes Macrophage Activation and Differentiation via Targeting Monocyte to Macrophage Differentiation-Associated in HD11 Cells
+     Wencheng Lin; Lianghui Zhou; Manqing Liu; Danmeng Zhang; Yiming Yan; Yung-Fu Chang; Xiquan Zhang; Qi...
+     PMC7555432 · PMC · 2020-09-30 · 8 citations
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7555432/
+     Matched: gga-miR-200b-3p Enhances the Macrophage Activation and Differentiation · cat /papers/PMC7555432/content.lines --lines 79-81
+     │ Since miR-200b-3p plays a critical role in the regulation of macrophage differentiation in
+     │ mammals (19), it was essential to determine whether miR-200b-3p involves macrophage
+     │ activation and differentiation in birds. Considering CD11b and F4/80 are the macrophage
+     │ surface markers, we examined the effect of gga-miR-200b-3p on the expression of CD11b and
+     │ F4/80 in HD11 cells. As a result, compared to that of the control group, the transcription
+     │ of CD11b and F4/80 were significantly increased in miRNA mimic-treated cells. In contrast,
+     │ miRNA inhibitor effectively lowered the transcriptional levels of CD11b and F4/80 ( Figure
+     │ 2A ), indicating that gga-miR-200b-3p promotes macrophage activation in …
+     "This study investigated gga-miR-200b-3p's role in avian macrophage activation and differentiation. The findings indicate gga-miR-200b-3p promotes these processes by targeting MMD."
+
+  20. Mice Genetically Hyporesponsive to Lipopolysaccharide (LPS) Exhibit a Defect in Endocytic Uptake of LPS and Ceramide
+     Nathalie Thiéblemont; Samuel D. Wright
+     PMC2196359 · The Journal of Experimental Medicine · 1997-06-16 · 44 citations
+     https://doi.org/10.1084/jem.185.12.2095
+     Matched: Lpsd Macrophages Exhibit a Defect in Intracellular Transport of LPS. · cat /papers/PMC2196359/content.lines --lines 25
+     "This study investigated LPS uptake in genetically hyporesponsive mice. These mice show a defect in the vesicular transport of LPS and ceramide."
+
+  21. Expression analysis of G Protein-Coupled Receptors in mouse macrophages
+     Jane E Lattin, Kate Schroder, Andrew I Su, John R Walker, Jie Zhang, Tim Wiltshire, Kaoru Saijo, Chr...
+     PMC2394514 · Immunome Research · 2008-01-01 · 403 citations
+     https://doi.org/10.1186/1745-7580-4-5
+     Matched: LPS-regulated GPCR expression in mouse macrophages · cat /papers/PMC2394514/content.lines --lines 89-105
+     │ LPS, the archetypal macrophage-activating stimulus that signals via toll-like receptor (TLR)
+     │ 4, regulated the expression of several GPCRs in macrophages (Table 3 and 4). Whilst LPS is
+     │ already known to regulate the expression of many of these (e.g. Gpr109b/PUMA-G, Fpr1, Ccrl2
+     │ and Ednrb) ([12-16], Sweet et al, unpublished data), regulated expression of others has not
+     │ been widely studied. Examples of these include Fzd1, Htr2b, Gpr84 (induced by LPS, Table 3),
+     │ and P2ry1 and 5 (repressed by LPS, Table 4). We recently validated the LPS-mediated
+     │ repression of P2ry5 mRNA expression in BMM by real time PCR [2]. Figure 3 highlights two
+     │ examples of regulated GPCR expression: mRNA expression of Gpr84 …
+     "This study analyzed GPCR expression in mouse macrophages, comparing it to other cell types and LPS-stimulated macrophages. Several P2RY family members showed macrophage-specific expression or LPS-regulated changes, suggesting roles in macrophage biology and inflammation."
+
+  22. Expression of Siglec-E Alters the Proteome of Lipopolysaccharide (LPS)-Activated Macrophages but Does Not Affect LPS-Driven Cytokine Production or Toll-Like Receptor 4 Endocytosis
+     Manjula Nagala; Emma McKenzie; Hannah Richards; Ritu Sharma; Sarah Thomson; Pietro Mastroeni; Paul R...
+     PMC5775731 · Frontiers in Immunology · 2018-01-15 · 26 citations
+     https://doi.org/10.3389/fimmu.2017.01926
+     Matched: Siglec-E Is Upregulated on Macrophages by LPS In Vivo and In Vitro, bu · cat /papers/PMC5775731/content.lines --lines 60-61
+     "Siglec-E expression was studied in LPS-activated macrophages. Siglec-E alters macrophage proteomes but does not affect LPS-driven cytokine production or TLR4 endocytosis."
+
+  23. Fractalkine aggravates LPS‐induced macrophage activation and acute kidney injury via Wnt/β‐catenin signalling pathway
+     Qiming Gong; Yan Jiang; Xiuhong Pan; Yanwu You
+     PMC8278080 · Journal of Cellular and Molecular Medicine · 2021-06-07 · 29 citations
+     https://doi.org/10.1111/jcmm.16707
+     Matched: FKN inhibited LPS‐induced macrophage apoptosis via Wnt/β‐catenin signa · cat /papers/PMC8278080/content.lines --lines 50-51
+     "Fractalkine (FKN) was studied for its role in LPS-induced macrophage activation and acute kidney injury (AKI). FKN exacerbates AKI by promoting macrophage activation via the Wnt/β-catenin pathway."
+
+  24. MARCO is an IFN-restricted immunometabolic decoy LPS receptor
+     Shriram Ramani, Sara Cahill, Matthew Finnegan, Laurel Stine, Liraz Shmuel-Galia, Fiachra Humphries *
+     bio_74c36375729f · bioRxiv · 2025-03-10 · 0 citations (all versions)
+     Published (2025): https://doi.org/10.1101/2025.03.10.642106
+     Matched: Main · cat /papers/bio_74c36375729f/content.lines --lines 15-16
+     "MARCO was identified as a macrophage decoy LPS receptor that restrains caspase 11 activity. Its expression is regulated by itaconate and NRF2, with IFN impairing this regulation to control inflammasome activation."
+
+  25. Progranulin inhibits LPS-induced macrophage M1 polarization via NF-кB and MAPK pathways
+     Lianlian Liu; Hongmei Guo; Aimei Song; Jiahui Huang; Yu Zhang; Shanshan Jin; Shutong Li; Liguo Zhang...
+     PMC7275413 · BMC Immunology · 2020-06-05 · 282 citations
+     https://doi.org/10.1186/s12865-020-00355-y
+     Matched: Effect of LPS on macrophage M1 polarization and PGRN expression · cat /papers/PMC7275413/content.lines --lines 25-26
+     "Progranulin was studied for its effect on LPS-induced macrophage M1 polarization. Progranulin inhibits M1 polarization by suppressing NF-κB and MAPK pathways."
+
+[2.1s, saved to s_5ed74d4f]
+
+💡 Extract data across these results with: map --from s_5ed74d4f "your question"
+[2.1s, saved to s_5ed74d4f]  [repo: mva-lof-molecular]
+

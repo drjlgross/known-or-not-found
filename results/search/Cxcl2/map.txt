@@ -1,0 +1,189 @@
+$ src/pc.sh map --from s_3a9d9933 --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Cxcl2 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 25/25 papers
+Results ID: m_7a1b8361
+
+  ✓ TLR4/MyD88 -mediated CCL2 production by lipopolysaccharide (endotoxin)
+    PMC6154519 · 1315ms
+    {"answer": "yes", "evidence": "L38: Here, our data show that LPS significantly stimulates CCL2 gene expression at both mRNA (23.40 \u0011 0.071 Fold; P < 0.0001; (Fig. 1a) and protein (1048 \u0011 5.67 pg/ml; P < 0.0001; (Fig. 1b)) levels in human monocytic cells.", "context": ""}
+
+  ✓ Transcriptional profiling of the LPS induced NF-κB response in macroph
+    PMC1781469 · 1532ms
+    {
+      "answer": "yes",
+      "evidence": "L180: CXCL2 | 3.938 | 2.787 | 243 (± 85) | 68 (± 13)",
+      "context": "L24: Using this information, RNA was extracted from two separate batches of THP-1 cells, to create two biological replicates, either stimulated with LPS for 1 or 4 hours or left untreated."
+    }
+
+  ✓ Myometrial‐derived CXCL12 promotes lipopolysaccharide induced preterm 
+    PMC9077289 · 1484ms
+    {"answer": "yes", "evidence": "LPS induced CXCL12 RNA and protein levels significantly and specifically in myometrium compared with controls (3\u2010fold and 3.5\u2010fold respectively).", "context": "At GD 15.5, LPS (Escherichia coli 0111:B4; Sigma; 25 \u0393\u0398g in 200 \u0393\u0398l of phosphate buffered saline [PBS]) or PBS 200 \u0393\u0398l or LPS 25 \u0393\u0398g \u0010 AMD3100 (Sigma; 5 mg/kg in 200 \u0393\u0398l of PBS) was administered intraperitoneally to pregnant mice on GD 15.5."}
+
+  ✓ Transcriptional and translational‐uncoupling in regulation of the CXCL
+    PMC5818454 · 1156ms
+    {
+      "answer": "yes",
+      "evidence": "LPS treatment of u‐THP‐1 or d‐THP‐1 significantly elevated CXCL12, IL‐1β, and IL‐6 mRNA levels (Fig. 1Sa‐c, Supplements).",
+      "context": "For u‐THP‐1 and d‐THP‐1 comparison studies, LPS treatment was for four hours at 10 ng/mL then the cells were collected for RNA isolation and gene expression determination."
+    }
+
+  ✓ Anti-Neuroinflammatory Effects of a Macrocyclic Peptide-Peptoid Hybrid
+    PMC11049839 · 1502ms
+    {
+      "answer": "yes",
+      "evidence": "LPS stimulation reliably increased the CXCL2 expression and release in BV2 microglial cells (Figure 6).",
+      "context": "L92: Figure 6: Effects of X15856 on the gene expression (A) and protein synthesis (B) of CXCL2 in LPS-stimulated BV2 cells. Cells were stimulated as described in the Section 4. (A) After 4 h of stimulation, RNA was isolated and the gene expression of CXCL2 was measured using qPCR. (B) After 24 h of stimulation, supernatants were collected and the release of CXCL2 was measured with ELISA. Values are presented as the mean ± SD of at least three independent experiments. Statistical analysis was performed using one-way ANOVA with Dunnett’s post hoc tests with **** p < 0.0001 compared to LPS."
+    }
+
+  ✓ Macrophages generated in 3D mechanical microenvironment contribute to 
+    PMC12139310 · 1248ms
+    {
+      "answer": "yes",
+      "evidence": "The results demonstrated that CXCL2 protein could be produced by CD14+ cells after 30 min of LPS stimulation, and the expression level increased with the duration of stimulation.",
+      "context": "3 5 \u00D7 10 4 3D-macrophages were inoculated in 24-well plates, and 3D-macrophages were stimulated at different times using 1 \u00B5g LPS (sigma) in a 37\u2103, 5% CO 2 incubator."
+    }
+
+  ✓ LXA4 Inhibits Lipopolysaccharide-Induced Inflammatory Cell Accumulatio
+    PMC8052121 · 1231ms
+    {
+      "answer": "yes",
+      "evidence": "The LPS-mediated up-regulation of CXCL2 mRNA in lung tissues (Figure 4B) and resident macrophage (Figure 4C), CXCL2 protein levels in the BALF (Figure 4D), respectively, was reduced following LXA4 treatment (p<0.05).",
+      "context": "Mice received 1 mg/kg LPS by intratracheal atomization then LXA4 (0.1 µg/mouse) by intraperitoneal injection."
+    }
+
+  ✓ Proinflammatory macrophages release CXCL5 to regulate T cell function 
+    PMC12151196 · 908ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Anti-Inflammatory Effects of Cicadidae Periostracum Extract and Oleic 
+    PMC9225349 · 2244ms
+    {
+      "answer": "yes",
+      "evidence": "The mRNA expression levels of chemokines CCL20, CXCL5, CXCL1, CCL2, CXCL10, CXCL11, CCL7, IL-6, CXCL3, CCL17 CXCL2, CCL8, CCRL2, TLR2, PPBP (CXCL7), CCL4, CCL5, and CCL9 were significantly increased in the LPS-stimulated group compared with the normal group.",
+      "context": "Mouse Chemokines and Receptors RT2 Profiler PCR arrays were used to explore the global gene expression patterns in LPS-stimulated LA4 cells."
+    }
+
+  ✓ Macrophage inflammatory protein-2 as mediator of inflammation in acute
+    PMC5423041 · 1177ms
+    {
+      "answer": "yes",
+      "evidence": "L33: The hepatic expression of chemokine mRNAs was elevated after LPS exposure, with the maximal expression of MIP-2 mRNA at 1 h after LPS treatment[66,68].",
+      "context": "L33: Some studies have shown that MIP-2 is one of the key mediators in LPS-induced liver injury[65,66]."
+    }
+
+  ✓ Temporal expression of CXCR2 ligands in a rat model of LPS—induced pul
+    PMC13243519 · 935ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Leishmania major  degrades murine CXCL1 – an immune evasion strategy
+    bio_2ffac20f · 1704ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Analysis of the transcriptional networks underpinning the activation o
+    PMC4378362 · 1532ms
+    {
+      "answer": "yes",
+      "evidence": "Regardless of the time-phase, most cytokines were dose-responsive, with the exception of Cxcl16 (which was not dose-responsive) and Cxcl2/3 (whose expression was maximal at the 5-ng/ml dose; Fig. 3), suggesting that the potential to recruit other immune cells increases at higher LPS dose challenges.",
+      "context": "C57BL/6 macrophages were treated with of 0.5, 5, or 50 ng/ml LPS, and BALB/c-derived macrophages were treated with 5 ng/ml LPS, 10 U/ml mouse rIFN-β, or 10 U/ml IFN-γ."
+    }
+
+  ✓ Transcriptome Analysis Provides Insights into the Markers of Resting a
+    PMC6274997 · 1259ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Corrigendum: Macrophage Polarization: Different Gene Signatures in M1(
+    PMC7053374 · 1086ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ IL-21 Modulates Release of Proinflammatory Cytokines in LPS-Stimulated
+    PMC3888770 · 915ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ CXCL2 affects macrophage antitumor function and immunotherapy efficacy
+    PMC13111272 · 897ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Single-cell immune profiling of mouse liver aging reveals Cxcl2+ macro
+    PMC10871588 · 1231ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Nucleotides Regulate Secretion of the Inflammatory Chemokine CCL2 from
+    PMC4170906 · 2133ms
+    {
+      "answer": "yes",
+      "evidence": "As expected, LPS induced other chemokines CCL20 (459-fold above media control) and CXCL8 (1121-fold above media control) in THP-1 cells, whereas UTP treatment induced a 4.1-fold upregulation of CCL20 and a 2.3-fold upregulation of CCL3 with respect to unstimulated cells.",
+      "context": "L63: Figure 4: UTP induces CCL2 gene transcription in THP-1 monocytes. THP-1 cells were plated in RPMI media containing 1% serum and stimulated with media alone, LPS (1 \u0393\u0395\u0393\u0394g/mL), UTP (10 \u0393\u0395\u0393\u0394M), or UDP (10 \u0393\u0395\u0393\u0394M) for 2 hours. RNA was extracted, reverse transcribed to cDNA, and probed with quantitative PCR primers for chemokines (CCL2, CCL20, CCL3, and CXCL8) and reference genes (\u0393\u0395\u0393\u0394-actin and GAPDH). PCR was performed in triplicate using a Rotorgene 2000. Data was analysed using the 2\u0393\u0395\u0393\u0394\u2212\u0393\u0395\u0393\u0394\u0393\u0395\u0393\u0394Ct method using a threshold of 0.003."
+    }
+
+  ✓ Epigenetic profile in lipopolysaccharide-stimulated macrophages
+    PMC3953056 · 1378ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Identification of 34 Novel Proinflammatory Proteins in a Genome-Wide M
+    PMC3409161 · 1125ms
+    {
+      "answer": "yes",
+      "evidence": "Raw 264.7 cells transfected with empty vector or a proinflammatory mediator were stimulated by increasing doses of LPS for 6 hrs and the activity of the cxcl2 promoter was measured (Figure 2D–F).",
+      "context": "The impact of over-expressed proinflammatory mediators on LPS induced cxcl2 expression was tested."
+    }
+
+  ✓ Monocyte normal immune response to LPS stimulation
+    PMC3333514 · 898ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ LKB1‐MARK2 signalling mediates lipopolysaccharide‐induced production o
+    PMC7576310 · 1237ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Differential mRNA and miRNA Profiles Reveal the Potential Roles of Gen
+    PMC8155903 · 843ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Effect of connexin 43 in LPS/IL-4-induced macrophage M1/M2 polarizatio
+    PMC11018209 · 911ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[23.6s, saved to m_7a1b8361]
+
+  [....................]  0/0 papers  [0s]
+  [....................]  0/25 papers  run m_7a1b8361  [2s]
+  [########............]  10/25 papers  run m_7a1b8361  [4s]
+  [##############......]  18/25 papers  run m_7a1b8361  [6s]
+  [################....]  20/25 papers  run m_7a1b8361  [8s]
+  [#################...]  22/25 papers  run m_7a1b8361  [10s]
+  [####################]  25/25 papers  run m_7a1b8361  [13s]
+  [####################]  25/25 papers  run m_7a1b8361  [23s]
+

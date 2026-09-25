@@ -1,0 +1,36 @@
+{
+  "gene": "Cxcl1",
+  "query": "Cxcl1 (C-X-C motif chemokine ligand 1) LPS macrophage",
+  "also": [],
+  "mode": "map",
+  "strict": true,
+  "stimulus_check": true,
+  "two_quote": true,
+  "question": "Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Cxcl1 (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.",
+  "date": "2026-09-25T15:50:35Z",
+  "n": 25,
+  "status": "ok",
+  "search_id": "s_b4d5b980",
+  "judge_id": "m_44e4a0fd",
+  "parent_n": 25,
+  "yes": 5,
+  "yes_before_checks": 10,
+  "downgraded": 5,
+  "no": 19,
+  "paper_errors": 1,
+  "seconds_search": 3.3,
+  "seconds_judge": 187.0,
+  "seconds_total": 190.3,
+  "rechecks": [
+    {
+      "date": "2026-09-25T15:55:33Z",
+      "reason": "name check: normalize Greek letters and combining marks",
+      "before": {
+        "yes": 5,
+        "yes_before_checks": 10,
+        "downgraded": 5,
+        "paper_errors": 1
+      }
+    }
+  ]
+}

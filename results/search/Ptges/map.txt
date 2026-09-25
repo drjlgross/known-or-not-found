@@ -1,0 +1,205 @@
+$ src/pc.sh map --from s_8b4fe51f --limit 25 -j 25 --output-schema {"type": "object", "required": ["answer", "evidence", "context"], "additionalProperties": false, "properties": {"answer": {"enum": ["yes", "no"]}, "evidence": {"type": "string"}, "context": {"type": "string"}}} Does this paper report its own experimental data (not background statements or citations of other work) showing that the expression of the gene Ptges (the gene, its mRNA, or its encoded protein, under any name, alias, or species ortholog) changes (increases or decreases) in response to LPS or bacterial infection, compared with unstimulated or uninfected controls? Answer no if the only evidence is: a change caused by some other stimulus; a result showing no change; a baseline or unstimulated condition; or a statement about other work. If yes, give evidence: the single sentence reporting the change in this gene; and context: if that sentence does not itself name both the gene (or its protein) and LPS or the infection, one sentence from elsewhere in the paper (for example the methods or a figure legend) that names what is missing for the same experiment, otherwise an empty string. Use empty strings if no.
+# exit 0
+Map complete: 24/25 papers
+Results ID: m_bad1a8d7
+
+  ✓ Mechanism of action and potential applications of selective inhibition
+    PMC7806836 · 1102ms
+    {
+      "answer": "yes",
+      "evidence": "As expected, LPS efficiently induced the expression of the two inducible enzymes, mPGES-1 and COX-2, at both the protein (Fig. 6A–C) and gene (Supplemental Figure 4A and B) levels.",
+      "context": "RAW264.7 cells were treated with various concentrations of KH176m in the presence of LPS (1 µg/mL) for 24 h or 6 h."
+    }
+
+  ✓ Dynamic changes in macrophage populations and resulting alterations in
+    PMC12083000 · 1131ms
+    {
+      "answer": "yes",
+      "evidence": "LPS significantly induced the mRNA and protein expression of the PGE2-synthesizing enzymes COX-2 (Fig. 5A, B) and mPGES1 (Supplementary figure S4) in macrophage populations from wildtype control mice.",
+      "context": "Primary Kupffer cells (KC), peritoneal macrophages (PM) and bone marrow-derived macrophages (BMDM) were stimulated for 24 h with LPS."
+    }
+
+  ✓ Cellular and Molecular Bases of the Initiation of Fever
+    PMC1551923 · 841ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✗ Untitled
+    ? · 180003ms
+    error: Timed out after 180003ms (per-task cutoff)
+
+  ✓ Lipocalin-Like Prostaglandin D Synthase but Not Hemopoietic Prostaglan
+    PMC6226547 · 1335ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Lipopolysaccharide-Induced Expression of Microsomal Prostaglandin E Sy
+    PMC3511480 · 2399ms
+    {
+      "answer": "yes",
+      "evidence": "Among the tested proteins, LPS significantly increased the protein expression of iNOS, COX-2, mPGES-1 and PU.1 in BMDM (Figures 1A, 2A–2D).",
+      "context": "Primary cultured mouse BMDM was treated with or without 1 µg/ml LPS for various time points from 2 to 24 hrs."
+    }
+
+  ✓ Prostaglandin E2 and the Suppression of Phagocyte Innate Immune Respon
+    PMC3449139 · 1553ms
+    {
+      "answer": "yes",
+      "evidence": "LPS induces high levels of PGE2 synthesis by upregulating COX-2 and mPGES-1 expression [76, 78].",
+      "context": "L36: Similar to peripheral macrophages, COX-2 is the main enzyme expressed by microglia after activation [77]."
+    }
+
+  ✓ Macrophage responses to lipopolysaccharide are modulated by a feedback
+    PMC5489520 · 904ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Lapatinib Suppressed the Expression of Proinflammatory Cytokines and A
+    bio_523ca841 · 1090ms
+    {
+      "answer": "yes",
+      "evidence": "As shown in Fig.4A and 4C, LPS stimulation of RAW 264.7 cells caused a 6800-fold increase in PTGS2 mRNA and a 4-fold increase in PTGES mRNA.",
+      "context": "RAW264.7 cells were treated with lapatinib/vehicle and then stimulated with LPS at 10ng/ml for 12 h."
+    }
+
+  ✓ Prostaglandin E2 affects differently the release of inflammatory media
+    PMC1781814 · 1245ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ PGE2 suppression of innate immunity during mucosal bacterial infection
+    PMC3748320 · 972ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Inhibition of microsomal prostaglandin E synthase-1 ameliorates acute 
+    PMC8351447 · 1805ms
+    {
+      "answer": "yes",
+      "evidence": "Additionally, immunofluorescence demonstrated increased mPGES-1, COX-2 and intracellular adhesion molecule-1 (ICAM-1) expression within the lung parenchyma following intratracheal LPS injection in lungs of vehicle-treated mice (Fig. 2E).",
+      "context": "Series 1: Lipopolysaccharide (LPS)-induced ALI. Mice were randomized to receive vehicle, BI 1029539, or celecoxib."
+    }
+
+  ✓ Migrasome-transported PTGES amplifies the PGE2 cascade in SPP1+ macrop
+    PMC13216351 · 965ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ A PGE2-MEF2A axis enables context-dependent control of inflammatory ge
+    PMC8362890 · 1199ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Differences in PGE2 Production between Primary Human Monocytes and Dif
+    PMC4037220 · 1307ms
+    {
+      "answer": "yes",
+      "evidence": "However, in monocytes, COX-2 and mPGES-1 \u0394Ct values were significantly higher in monocytes treated with LPS and ZVAD compared with LPS alone, indicating reduced levels of mRNA present (p\u22640.001) (Fig. 1E).",
+      "context": "Monocytes (E, F) and macrophages (G, H) were incubated alone (open bars) or with 20 ng/ml of LPS in the absence (solid bars) or in the presence of ZVAD (striped bars) and were assayed for COX-2 mRNA and for mPGES-1 mRNA expression at 6 and 12 h post treatment by qPCR in triplicate wells."
+    }
+
+  ✓ Augmented liver inflammation in a microsomal prostaglandin E synthase 
+    PMC6208405 · 886ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Lipopolysaccharide-Induced Nitric Oxide and Prostaglandin E2 Productio
+    PMC8146495 · 948ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Integrated Proteomics and Metabolomics Analyses Reveal That Phosphatid
+    PMC13140139 · 1029ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ EP2 and EP4 receptors on muscularis resident macrophages mediate LPS-i
+    PMC3311437 · 1345ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Phagocytosis is differentially regulated by LPS in M1- and M2-like mac
+    bio_bcc56174 · 889ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Regulation of Pro-Inflammatory Macrophage Polarization via Lipid Nanop
+    PMC9856913 · 989ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Lipopolysaccharide-Induced Nitric Oxide, Prostaglandin E2, and Cytokin
+    PMC5751240 · 958ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ PGE2 Augments Inflammasome Activation and M1 Polarization in Macrophag
+    PMC6220063 · 1007ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+  ✓ Nuclear prostaglandin E synthase 3 promotes hepatocellular carcinoma g
+    PMC13018494 · 991ms
+    {
+      "answer": "no",
+      "evidence": "",
+      "context": ""
+    }
+
+  ✓ Differential expression of E-type prostanoid receptors 2 and 4 in micr
+    PMC5234110 · 962ms
+    {"answer": "no", "evidence": "", "context": ""}
+
+Tip: These per-paper answers are ready to use — synthesize them to respond.
+[182.4s, saved to m_bad1a8d7]
+
+  [....................]  0/0 papers  [0s]
+  [##..................]  3/25 papers  run m_bad1a8d7  [2s]
+  [#######.............]  9/25 papers  run m_bad1a8d7  [4s]
+  [###########.........]  14/25 papers  run m_bad1a8d7  [6s]
+  [############........]  16/25 papers  run m_bad1a8d7  [10s]
+  [################....]  21/25 papers  run m_bad1a8d7  [12s]
+  [###################.]  24/25 papers  run m_bad1a8d7  [15s]
+  [###################.]  24/25 papers  run m_bad1a8d7  [25s]
+  [###################.]  24/25 papers  run m_bad1a8d7  [35s]
+  [###################.]  24/25 papers  run m_bad1a8d7  [45s]
+  [###################.]  24/25 papers  run m_bad1a8d7  [55s]
+  [###################.]  24/25 papers  run m_bad1a8d7  [65s]
+  [###################.]  24/25 papers  run m_bad1a8d7  [76s]
+  [###################.]  24/25 papers  run m_bad1a8d7  [86s]
+  [###################.]  24/25 papers  run m_bad1a8d7  [96s]
+  [###################.]  24/25 papers  run m_bad1a8d7  [106s]
+  [###################.]  24/25 papers  run m_bad1a8d7  [116s]
+  [###################.]  24/25 papers  run m_bad1a8d7  [126s]
+  [###################.]  24/25 papers  run m_bad1a8d7  [137s]
+  [###################.]  24/25 papers  run m_bad1a8d7  [147s]
+  [###################.]  24/25 papers  run m_bad1a8d7  [157s]
+  [###################.]  24/25 papers  run m_bad1a8d7  [167s]
+  [###################.]  24/25 papers  run m_bad1a8d7  [177s]
+  [###################.]  24/25 papers  run m_bad1a8d7  [182s]
+
+$ src/pc.sh map --resume m_bad1a8d7 --retry-failed
+# exit 1
+[error] Something went wrong. Please try again.
+

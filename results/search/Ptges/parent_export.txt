@@ -1,0 +1,4 @@
+$ src/pc.sh results s_8b4fe51f --save /Users/julia/known-or-not-found/results/search/Ptges/parent.csv
+# exit 0
+  ✓ Saved 25 papers to /Users/julia/known-or-not-found/results/search/Ptges/parent.csv
+
