@@ -1,0 +1,67 @@
+Fitting size factors...
+... done in 0.00 seconds.
+
+Using None as control genes, passed at DeseqDataSet initialization
+Fitting dispersions...
+... done in 0.66 seconds.
+
+Fitting dispersion trend curve...
+... done in 0.12 seconds.
+
+Fitting MAP dispersions...
+... done in 0.60 seconds.
+
+Fitting LFCs...
+... done in 0.57 seconds.
+
+Calculating cook's distance...
+... done in 0.01 seconds.
+
+Replacing 0 outlier genes.
+
+Running Wald tests...
+... done in 0.25 seconds.
+
+Fitting MAP LFCs...
+... done in 0.69 seconds.
+
+Log2 fold change & Wald test p-value: condition LPS vs control
+             baseMean  log2FoldChange  ...        pvalue          padj
+gene                                   ...                            
+Mrpl15     693.477798        0.183318  ...  5.923079e-02  7.816437e-02
+Lypla1     960.748121       -0.036781  ...  6.799385e-01  7.188456e-01
+Tcea1     2227.354507        1.093101  ...  6.103589e-50  4.227047e-49
+Atp6v1h   2896.630620        0.656726  ...  1.308665e-25  5.864581e-25
+Rb1cc1     915.673062        0.225413  ...  1.438359e-02  2.072862e-02
+...               ...             ...  ...           ...           ...
+mt-Tl2      28.949398        1.059681  ...  2.659760e-02  3.699896e-02
+mt-Nd5   16089.926920        0.263473  ...  3.346123e-05  6.319782e-05
+mt-Nd6    4969.215353        0.341185  ...  4.495681e-07  9.776414e-07
+mt-Cytb  22791.221837        0.383546  ...  2.391190e-10  6.292751e-10
+mt-Tp      253.538961        0.236899  ...  1.672727e-01  2.042605e-01
+
+[13574 rows x 6 columns]
+Shrunk log2 fold change & Wald test p-value: condition[T.LPS]
+             baseMean  log2FoldChange  ...        pvalue          padj
+gene                                   ...                            
+Mrpl15     693.477798        0.181785  ...  5.923079e-02  7.816437e-02
+Lypla1     960.748121       -0.036421  ...  6.799385e-01  7.188456e-01
+Tcea1     2227.354507        1.089573  ...  6.103589e-50  4.227047e-49
+Atp6v1h   2896.630620        0.654718  ...  1.308665e-25  5.864581e-25
+Rb1cc1     915.673062        0.223725  ...  1.438359e-02  2.072862e-02
+...               ...             ...  ...           ...           ...
+mt-Tl2      28.949398        0.916944  ...  2.659760e-02  3.699896e-02
+mt-Nd5   16089.926920        0.262555  ...  3.346123e-05  6.319782e-05
+mt-Nd6    4969.215353        0.339728  ...  4.495681e-07  9.776414e-07
+mt-Cytb  22791.221837        0.382325  ...  2.391190e-10  6.292751e-10
+mt-Tp      253.538961        0.230778  ...  1.672727e-01  2.042605e-01
+
+[13574 rows x 6 columns]
+{
+  "output_dir":"results\/de\/lps",
+  "samples":6,
+  "genes_pre":55357,
+  "genes_post":13574,
+  "backend_used":"pydeseq2",
+  "lfc_shrinkage_applied":true
+}

@@ -133,8 +133,9 @@ README.md   # stub at Chunk 1, completed at Chunk 7
 **Produces:** `results/de/lps/` (skill bundle, `--backend pydeseq2`); the top K = 50 induced genes in `data/top_genes.csv`.
 **Selection rule (decided 2026-09-25):**
 - **Eligible:** protein-coding genes only (`gene_type == protein_coding` in `data/gene_map.csv`) with a real MGI symbol. Gm/Rik placeholders and `|ENSMUSG`-suffixed duplicates are excluded, because genes with no literature by construction would inflate "not found".
-- **Filter:** padj < 0.05 and log2FC > 0.
-- **Order:** padj ascending; ties (e.g. padj at the numeric floor) broken by larger log2FC.
+- **Filter:** padj < 1e-10 and log2FC > 0 (revised at the Chunk 4 gate).
+- **Order:** shrunken log2FC, descending.
+- **Why the rule was revised:** the first rule (padj < 0.05, ordered by padj) was degenerate. 423 genes tie at padj = 0 because of float underflow, so the tie-break decided the whole top 50 and dropped Nos2, Il6 and Il1b. See `reports/chunk-4.md`.
 - **Record:** `top_genes.csv` stores rank, gene, baseMean, log2FC and padj, plus the count of genes excluded by the eligibility rule that would otherwise have ranked in the top 50.
 **Done when:** the DE run completes and the backend is confirmed.
 **GATE: positive controls.** Canonical LPS genes appropriate to the dataset's time point (e.g., Tnf, Il1b, Il6, Cxcl10, Nos2) come out strongly induced, and the PCA separates LPS from control. Report each control's fold change and adjusted p-value. If the controls fail, stop: it's wiring or data, not biology.
