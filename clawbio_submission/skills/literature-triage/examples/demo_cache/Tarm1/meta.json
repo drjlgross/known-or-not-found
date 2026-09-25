@@ -1,0 +1,10 @@
+{
+ "gene": "Tarm1",
+ "query": "Tarm1 (T cell-interacting, activating receptor on myeloid cells 1) LPS macrophage",
+ "search_id": "s_bebc3c87",
+ "judge_id": "m_4a6e2291",
+ "date": "2026-09-25T15:50:55Z",
+ "n": 25,
+ "paperclip_version": "0.7.91",
+ "expected_yes": 1
+}

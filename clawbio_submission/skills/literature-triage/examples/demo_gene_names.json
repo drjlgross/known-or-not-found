@@ -1,0 +1,39 @@
+{
+ "Nos2": [
+  "Nos2",
+  "nitric oxide synthase 2, inducible",
+  "iNOS",
+  "Nos-2",
+  "NOS-II",
+  "Nos2a",
+  "NOS2",
+  "nitric oxide synthase 2",
+  "HEP-NOS",
+  "NOS2A"
+ ],
+ "Nos2__official": "nitric oxide synthase 2, inducible",
+ "Hdc": [
+  "Hdc",
+  "histidine decarboxylase",
+  "Hdc-s",
+  "Hdc-e",
+  "Hdc-c",
+  "Hdc-a",
+  "L-histidine decarboxylase"
+ ],
+ "Hdc__official": "histidine decarboxylase",
+ "Tarm1": [
+  "Tarm1",
+  "T cell-interacting, activating receptor on myeloid cells 1",
+  "TARM1"
+ ],
+ "Tarm1__official": "T cell-interacting, activating receptor on myeloid cells 1",
+ "Lipg": [
+  "Lipg",
+  "lipase G, endothelial type",
+  "mEDL",
+  "endothelial lipase",
+  "LIPG"
+ ],
+ "Lipg__official": "lipase G, endothelial type"
+}

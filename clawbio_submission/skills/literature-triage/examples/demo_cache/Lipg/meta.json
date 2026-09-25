@@ -1,0 +1,10 @@
+{
+ "gene": "Lipg",
+ "query": "Lipg (lipase G, endothelial type) LPS macrophage",
+ "search_id": "s_efa4f396",
+ "judge_id": "m_c112d7e1",
+ "date": "2026-09-25T15:45:25Z",
+ "n": 25,
+ "paperclip_version": "0.7.91",
+ "expected_yes": 0
+}

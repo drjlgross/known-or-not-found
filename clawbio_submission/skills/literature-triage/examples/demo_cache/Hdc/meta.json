@@ -1,0 +1,10 @@
+{
+ "gene": "Hdc",
+ "query": "Hdc (histidine decarboxylase) LPS macrophage",
+ "search_id": "s_805a9c7a",
+ "judge_id": "m_576c0921",
+ "date": "2026-09-25T15:49:37Z",
+ "n": 25,
+ "paperclip_version": "0.7.91",
+ "expected_yes": 2
+}
